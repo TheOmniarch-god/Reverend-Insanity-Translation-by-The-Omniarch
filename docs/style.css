@@ -146,26 +146,26 @@ img { max-width: 100%; height: auto; display: block; }
 /* ---------- hero / featured (compacted to fit front page above fold) ---------- */
 
 .hero {
-  padding: 82px 0 32px;
+  padding: 66px 0 18px;
   min-height: calc(100vh - 64px);
   display: flex;
   align-items: center;
 }
 .hero-grid {
   display: grid;
-  grid-template-columns: 290px 1fr;
-  gap: 44px;
+  grid-template-columns: 250px 1fr;
+  gap: 36px;
   align-items: center;
   width: 100%;
 }
 .cover-card {
-  border-radius: 10px;
+  border-radius: 9px;
   overflow: hidden;
   border: 1px solid #e2e0d8;
   background: #fff;
-  box-shadow: 0 16px 44px rgba(23, 23, 26, 0.12);
+  box-shadow: 0 14px 38px rgba(23, 23, 26, 0.12);
   transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.4s;
-  max-width: 290px;
+  max-width: 250px;
 }
 .cover-card img {
   width: 100%;
@@ -173,29 +173,29 @@ img { max-width: 100%; height: auto; display: block; }
   display: block;
 }
 .cover-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 24px 56px rgba(23, 23, 26, 0.18);
+  transform: translateY(-3px);
+  box-shadow: 0 20px 48px rgba(23, 23, 26, 0.18);
 }
 
 .eyebrow {
-  font-size: 11px;
+  font-size: 10.5px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.2em;
   color: var(--red);
-  margin-bottom: 6px;
+  margin-bottom: 4px;
 }
 .hero h1 {
-  font-size: clamp(2.2rem, 3.8vw, 3.1rem);
+  font-size: clamp(2rem, 3.4vw, 2.8rem);
   font-weight: 800;
   letter-spacing: -0.025em;
   line-height: 1.05;
   margin: 0;
 }
 .byline {
-  font-size: 14px;
+  font-size: 13.5px;
   color: var(--muted);
-  margin-top: 6px;
+  margin-top: 4px;
 }
 .byline strong { color: var(--ink); font-weight: 600; }
 .cjk { font-family: var(--cjk); }
@@ -203,28 +203,28 @@ img { max-width: 100%; height: auto; display: block; }
 .tags {
   display: flex;
   flex-wrap: wrap;
-  gap: 6px;
-  margin-top: 10px;
+  gap: 5px;
+  margin-top: 8px;
 }
 .tags span {
-  font-size: 11px;
+  font-size: 10.5px;
   font-weight: 500;
   color: var(--muted);
   background: #fff;
   border: 1px solid var(--line);
-  padding: 3px 10px;
+  padding: 2.5px 9px;
   border-radius: 999px;
 }
 
 /* synopsis plate — compact book frontispiece */
 .synopsis-plate {
-  margin-top: 14px;
+  margin-top: 12px;
   max-width: 620px;
   border: 1px solid var(--line);
   background: #fff;
-  padding: 18px 24px 16px;
+  padding: 14px 20px 12px;
   position: relative;
-  box-shadow: 0 8px 26px rgba(23, 23, 26, 0.04);
+  box-shadow: 0 6px 22px rgba(23, 23, 26, 0.04);
 }
 .synopsis-plate::before {
   content: "";
@@ -237,36 +237,36 @@ img { max-width: 100%; height: auto; display: block; }
   position: absolute;
   top: -5px;
   left: 50%;
-  width: 9px;
-  height: 9px;
+  width: 8px;
+  height: 8px;
   background: var(--red);
   transform: translateX(-50%) rotate(45deg);
 }
 .plate-label {
   text-align: center;
-  font-size: 9.5px;
+  font-size: 9px;
   font-weight: 700;
   letter-spacing: 0.28em;
   text-transform: uppercase;
   color: var(--muted);
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 }
 .plate-lede {
   text-align: center;
   font-family: "Playfair Display", Georgia, serif;
-  font-size: 16px;
+  font-size: 15.5px;
   font-style: normal;
   font-weight: 800;
   color: var(--ink);
-  line-height: 1.35;
+  line-height: 1.32;
   max-width: 480px;
   margin: 0 auto;
 }
 .plate-mid {
   text-align: center;
-  margin-top: 8px;
-  font-size: 13.5px;
-  line-height: 1.5;
+  margin-top: 6px;
+  font-size: 13px;
+  line-height: 1.45;
 }
 .plate-mid p {
   font-family: "Playfair Display", Georgia, serif;
@@ -280,17 +280,17 @@ img { max-width: 100%; height: auto; display: block; }
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 5px;
-  margin-top: 10px;
+  gap: 4px;
+  margin-top: 8px;
 }
 .gu-tokens span {
-  font-size: 10.5px;
+  font-size: 10px;
   font-weight: 500;
   letter-spacing: 0.02em;
   color: var(--body);
   background: #faf9f5;
   border: 1px solid var(--line);
-  padding: 3px 9px;
+  padding: 2px 8px;
   border-radius: 999px;
 }
 .plate-rule {
@@ -298,11 +298,11 @@ img { max-width: 100%; height: auto; display: block; }
   align-items: center;
   justify-content: center;
   gap: 8px;
-  margin: 12px auto 10px;
+  margin: 10px auto 8px;
   width: 100%;
 }
 .plate-rule i {
-  width: 36px;
+  width: 32px;
   height: 1px;
   background: #d8d5cc;
 }
@@ -315,59 +315,59 @@ img { max-width: 100%; height: auto; display: block; }
 .plate-poem {
   text-align: center;
   font-family: "Playfair Display", Georgia, serif;
-  font-size: 13.5px;
+  font-size: 13px;
   font-style: italic;
   font-weight: 700;
   color: var(--ink);
-  line-height: 1.48;
+  line-height: 1.44;
   margin: 0;
 }
 @media (max-width: 560px) {
-  .synopsis-plate { padding: 18px 16px 14px; }
-  .plate-poem { font-size: 12.5px; }
+  .synopsis-plate { padding: 14px 14px 10px; }
+  .plate-poem { font-size: 12px; }
 }
 
 .intro {
-  font-size: 15px;
-  line-height: 1.65;
+  font-size: 14.5px;
+  line-height: 1.6;
   color: var(--body);
-  margin-top: 18px;
+  margin-top: 14px;
   max-width: 560px;
 }
-.intro + .intro { margin-top: 10px; }
+.intro + .intro { margin-top: 8px; }
 .ref { font-weight: 600; color: var(--ink); }
 
 .status-row {
   display: flex;
   flex-wrap: wrap;
-  gap: 6px 20px;
-  margin-top: 12px;
+  gap: 4px 16px;
+  margin-top: 10px;
 }
 .status {
   display: flex;
   align-items: center;
-  gap: 7px;
-  font-size: 12px;
+  gap: 6px;
+  font-size: 11.5px;
   font-weight: 500;
   color: var(--muted);
 }
-.dot { width: 7px; height: 7px; border-radius: 50%; flex: none; }
+.dot { width: 6px; height: 6px; border-radius: 50%; flex: none; }
 .dot-red { background: var(--red); box-shadow: 0 0 0 3px rgba(143, 29, 29, 0.12); }
 .dot-gray { background: #b9b7b0; }
 
 .cta-row {
   display: flex;
-  gap: 12px;
-  margin-top: 14px;
+  gap: 10px;
+  margin-top: 12px;
   flex-wrap: wrap;
 }
 .btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  font-size: 13px;
+  font-size: 12.5px;
   font-weight: 600;
-  padding: 10px 22px;
+  padding: 9px 20px;
   border-radius: 8px;
   border: none;
   cursor: pointer;
@@ -396,18 +396,18 @@ img { max-width: 100%; height: auto; display: block; }
 
 @media (max-width: 960px) {
   .hero {
-    padding-top: 90px;
-    padding-bottom: 40px;
+    padding-top: 80px;
+    padding-bottom: 32px;
     min-height: auto;
   }
   .hero-grid {
     grid-template-columns: 1fr;
-    gap: 28px;
+    gap: 22px;
     text-align: center;
   }
   .cover-card {
     margin: 0 auto;
-    max-width: 240px;
+    max-width: 190px;
   }
   .tags { justify-content: center; }
   .status-row { justify-content: center; }
@@ -1462,7 +1462,7 @@ footer {
 .companion-section {
   position: relative;
   background-color: #ffffff;
-  padding: 44px 0 36px;
+  padding: 38px 0 30px;
   overflow: hidden;
   border-top: 1px solid var(--line);
   min-height: calc(100vh - 64px);
@@ -1479,8 +1479,8 @@ footer {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  opacity: 0.18;
-  filter: blur(2.5px) saturate(1.1);
+  opacity: 0.48;
+  filter: blur(2.5px) saturate(1.15);
   pointer-events: none;
 }
 
@@ -1489,9 +1489,9 @@ footer {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(255, 255, 255, 0.72);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.54);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
   pointer-events: none;
 }
 
@@ -1503,25 +1503,25 @@ footer {
 
 /* Compact Ren Zu Banner Card (fits in one view) */
 .renzu-banner {
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.92);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
-  border: 1px solid rgba(231, 229, 222, 0.95);
+  border: 1px solid rgba(220, 218, 210, 0.95);
   border-left: 4px solid var(--red);
   border-radius: 14px;
-  padding: 22px 28px;
+  padding: 20px 26px;
   display: grid;
-  grid-template-columns: 240px 1fr;
-  gap: 28px;
+  grid-template-columns: 220px 1fr;
+  gap: 24px;
   align-items: center;
-  box-shadow: 0 16px 44px rgba(23, 23, 26, 0.07);
-  margin-bottom: 22px;
+  box-shadow: 0 14px 40px rgba(23, 23, 26, 0.08);
+  margin-bottom: 18px;
   transition: transform 0.3s, box-shadow 0.3s, border-color 0.3s;
 }
 
 .renzu-banner:hover {
   transform: translateY(-2px);
-  box-shadow: 0 20px 52px rgba(23, 23, 26, 0.12);
+  box-shadow: 0 18px 48px rgba(23, 23, 26, 0.12);
   border-color: #d8d5cb;
 }
 
@@ -1529,13 +1529,13 @@ footer {
 .renzu-art-frame {
   margin: 0;
   position: relative;
-  border-radius: 10px;
+  border-radius: 9px;
   overflow: hidden;
-  box-shadow: 0 6px 20px rgba(23, 23, 26, 0.12);
+  box-shadow: 0 6px 18px rgba(23, 23, 26, 0.12);
   border: 1px solid var(--line);
-  aspect-ratio: 16 / 12;
+  aspect-ratio: 16 / 11;
   background: #000;
-  max-height: 200px;
+  max-height: 180px;
 }
 
 .renzu-art-img {
@@ -1561,7 +1561,7 @@ footer {
   color: #ffffff;
   font-family: var(--cjk);
   font-weight: 700;
-  font-size: 10.5px;
+  font-size: 10px;
   padding: 2px 7px;
   border-radius: 4px;
   letter-spacing: 0.08em;
@@ -1579,7 +1579,7 @@ footer {
   display: flex;
   align-items: center;
   gap: 10px;
-  margin-bottom: 6px;
+  margin-bottom: 5px;
   flex-wrap: wrap;
 }
 
@@ -1611,41 +1611,41 @@ footer {
 }
 
 .renzu-banner-content .portal-title {
-  font-size: clamp(1.6rem, 2.6vw, 2.1rem);
+  font-size: clamp(1.5rem, 2.4vw, 1.9rem);
   font-weight: 800;
   color: var(--ink);
   letter-spacing: -0.015em;
-  margin: 4px 0 8px;
+  margin: 3px 0 6px;
   line-height: 1.15;
 }
 
 .renzu-banner-content .portal-desc {
-  font-size: 13.5px;
-  line-height: 1.6;
+  font-size: 13px;
+  line-height: 1.55;
   color: var(--body);
-  margin-bottom: 12px;
+  margin-bottom: 10px;
 }
 
 .renzu-perks {
   list-style: none;
   display: flex;
   flex-direction: column;
-  gap: 5px;
-  margin-bottom: 16px;
+  gap: 4px;
+  margin-bottom: 14px;
   padding: 0;
 }
 
 .renzu-perks li {
-  font-size: 12.5px;
+  font-size: 12px;
   color: var(--body);
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 7px;
 }
 
 .renzu-perks li span {
   color: var(--red);
-  font-size: 11px;
+  font-size: 10.5px;
 }
 
 .renzu-banner-action {
@@ -1654,29 +1654,29 @@ footer {
 
 /* Companion Section Community Box */
 .companion-section .community-box {
-  background: rgba(255, 255, 255, 0.88);
+  background: rgba(255, 255, 255, 0.9);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border: 1px solid var(--line);
   border-radius: 12px;
-  padding: 18px 24px;
+  padding: 16px 22px;
   box-shadow: 0 4px 18px rgba(23, 23, 26, 0.04);
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 24px;
+  gap: 20px;
   flex-wrap: wrap;
 }
 
 .companion-section .community-info h3 {
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 800;
   color: var(--ink);
-  margin-bottom: 4px;
+  margin-bottom: 3px;
 }
 
 .companion-section .community-info p {
-  font-size: 13px;
+  font-size: 12.5px;
   color: var(--body);
   margin: 0;
   max-width: 580px;
@@ -1685,15 +1685,15 @@ footer {
 @media (max-width: 900px) {
   .companion-section {
     min-height: auto;
-    padding: 44px 0 36px;
+    padding: 38px 0 30px;
   }
   .renzu-banner {
     grid-template-columns: 1fr;
-    gap: 20px;
-    padding: 20px;
+    gap: 18px;
+    padding: 18px;
   }
   .renzu-art-frame {
-    max-height: 220px;
+    max-height: 200px;
   }
   .companion-section .community-box {
     flex-direction: column;
@@ -1891,28 +1891,28 @@ footer {
   color: #8c8577;
 }
 
-/* Ren Zu Section in Dark mode (Extremely Black + Dark Frosted) */
+/* Ren Zu Section in Dark mode (Extremely Black + Frost Mural Clearly Visible) */
 [data-theme="obsidian"] .companion-section {
   background-color: #000000;
   border-top-color: #1a1815;
 }
 [data-theme="obsidian"] .companion-section::before {
-  opacity: 0.22;
+  opacity: 0.52;
   filter: blur(2.5px) contrast(1.15) saturate(1.1);
 }
 [data-theme="obsidian"] .companion-section::after {
-  background: rgba(0, 0, 0, 0.78);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  background: rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 }
 [data-theme="obsidian"] .renzu-banner {
   background: rgba(8, 8, 8, 0.88);
-  border-color: rgba(212, 163, 71, 0.25);
+  border-color: rgba(212, 163, 71, 0.28);
   border-left: 4px solid var(--red);
-  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.85);
 }
 [data-theme="obsidian"] .renzu-banner:hover {
-  border-color: rgba(212, 163, 71, 0.45);
+  border-color: rgba(212, 163, 71, 0.48);
 }
 [data-theme="obsidian"] .renzu-banner-content .portal-title {
   color: #ffffff;
