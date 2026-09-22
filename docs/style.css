@@ -546,6 +546,109 @@ footer {
   margin-right: 8px;
 }
 
+
+.vol-discord-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: #5865f2;
+  color: #ffffff !important;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 9px 18px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: transform 0.2s, background 0.2s, box-shadow 0.2s;
+  box-shadow: 0 2px 8px rgba(88, 101, 242, 0.25);
+}
+.vol-discord-btn:hover {
+  background: #4752c4;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(88, 101, 242, 0.35);
+}
+.vol-discord-btn svg {
+  width: 17px;
+  height: 17px;
+  fill: currentColor;
+  flex-shrink: 0;
+}
+
+.community-box {
+  margin-top: 36px;
+  padding: 24px 28px;
+  background: #ffffff;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.community-info h3 {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 6px;
+}
+.community-info p {
+  font-size: 13.5px;
+  color: var(--muted);
+  line-height: 1.55;
+  margin: 0 !important;
+}
+.social-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.soc-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.2s, opacity 0.2s;
+}
+.soc-pill:hover {
+  transform: translateY(-1px);
+  opacity: 0.92;
+}
+.soc-pill svg {
+  flex-shrink: 0;
+}
+.soc-discord {
+  background: #5865f2;
+  color: #ffffff !important;
+}
+.soc-yt {
+  background: #ff0000;
+  color: #ffffff !important;
+}
+.soc-tt {
+  background: #111111;
+  color: #ffffff !important;
+}
+
+.footer-socials {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.footer-socials a {
+  color: var(--muted);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+.footer-socials a:hover {
+  color: var(--ink);
+}
+.footer-socials .sep {
+  color: var(--line);
+}
+
 /* ---------- reader ---------- */
 
 .progress {
