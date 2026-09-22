@@ -8,23 +8,23 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,500;1,600&family=Playfair+Display:ital,wght@0,500;0,600;0,700;0,800;1,500;1,600;1,700&family=Noto+Sans+SC:wght@400;500;700;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/style.css?v=20260922">
-<link rel="icon" href="/logo-circle.png" type="image/png">
+<link rel="stylesheet" href="style.css?v=20260922c">
+<link rel="icon" href="logo-circle.png" type="image/png">
 </head>
 <body>
 
 <nav class="nav">
   <div class="nav-inner">
-    <a class="nav-logo" href="/">
-      <img class="nav-logo-img" src="/logo-circle.png" width="32" height="32" alt="The Omniarch Translation logo">
+    <a class="nav-logo" href="index.html">
+      <img class="nav-logo-img" src="logo-circle.png" width="32" height="32" alt="The Omniarch Translation logo">
       <span class="wordmark">The Omniarch Translation</span>
     </a>
     <button class="nav-burger" aria-label="Menu">☰</button>
     <ul class="nav-links">
-      <li><a href="/#featured">The Novel</a></li>
-      <li><a href="/#chapters">Chapters</a></li>
-      <li><a href="/about/">About</a></li>
-      <li><a href="/support/" style="color:var(--red);font-weight:600;">Support</a></li>
+      <li><a href="index.html#featured">The Novel</a></li>
+      <li><a href="index.html#chapters">Chapters</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="support.html" style="color:var(--red);font-weight:600;">Support</a></li>
       <li><a href="https://discord.gg/UgwTKn4sQf" target="_blank" rel="noopener">Discord</a></li>
     </ul>
   </div>
@@ -102,9 +102,43 @@
         <p class="tier-desc">Substantial patronage that funds long-term infrastructure and dedicated asset design.</p>
         <ul class="tier-perks">
           <li><span>✓</span> Venerable role on Discord</li>
-          <li><span>✓</span> Enshrined in the <strong>Hall of Venerables</strong> on <a href="https://thelegendsofrenzu.theomniarch.com.ng" target="_blank" rel="noopener">The Legends of Ren Zu</a></li>
+          <li><span>✓</span> Enshrined in the <strong><a href="#hall-of-venerables">Hall of Venerables</a></strong></li>
         </ul>
       </div>
+    </div>
+
+    <!-- ============ HALL OF VENERABLES ============ -->
+    <div class="venerables-shrine-section reveal d1" id="hall-of-venerables">
+      <div class="shrine-header">
+        <span class="shrine-kicker">Sanctuary of Benefactors · <span class="cjk">尊者堂</span></span>
+        <h2 class="shrine-title">Hall of Venerables</h2>
+        <p class="shrine-lead">
+          Honoring the patrons whose steadfast patronage sustains this 2,334-chapter re-translation. Their names remain permanently engraved upon this monument throughout the lifetime of the project.
+        </p>
+      </div>
+
+      <div class="shrine-monument">
+        <div class="monument-emblem" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="28" height="28" fill="currentColor"><path d="M12 2l2.4 7.4h7.6l-6.2 4.5 2.4 7.4-6.2-4.5-6.2 4.5 2.4-7.4-6.2-4.5h7.6z"/></svg>
+        </div>
+        <div class="monument-status">Grand Monument of Benefactors</div>
+        <div class="monument-list">
+          <!-- Inscribed Patrons -->
+          <div class="monument-placeholder">
+            <span class="inscribed-seal">待定</span>
+            <span class="inscribed-text">The inaugural tablet awaits the first Venerable benefactor.</span>
+          </div>
+        </div>
+        <p class="monument-note">
+          Contributors of 30+ USDT receive the <strong>Venerable</strong> role on Discord and have their moniker enshrined above.
+        </p>
+      </div>
+
+      <!-- Compact Ren Zu Companion Badge -->
+      <a class="renzu-sister-badge" href="https://thelegendsofrenzu.theomniarch.com.ng" target="_blank" rel="noopener">
+        <span class="renzu-pill">人祖传</span>
+        <span class="renzu-text">Also explore <strong>The Legends of Ren Zu</strong> companion reader ↗</span>
+      </a>
     </div>
 
     <!-- Other Ways to Support -->
@@ -146,9 +180,9 @@
 
 <footer>
   <div class="footer-inner">
-    <span><img class="f-logo" src="/logo-circle.png" width="18" height="18" alt="">The Omniarch Translation</span>
+    <span><img class="f-logo" src="logo-circle.png" width="18" height="18" alt="">The Omniarch Translation</span>
     <div class="footer-socials">
-      <a href="/support/">Support Us</a>
+      <a href="support.html">Support Us</a>
       <span class="sep">·</span>
       <a href="https://discord.gg/UgwTKn4sQf" target="_blank" rel="noopener">Discord</a>
       <span class="sep">·</span>
@@ -160,7 +194,7 @@
   </div>
 </footer>
 
-<script src="/app.js"></script>
+<script src="app.js"></script>
 <script>
 function copyWallet() {
   var addr = document.getElementById("walletAddress").textContent.trim();
