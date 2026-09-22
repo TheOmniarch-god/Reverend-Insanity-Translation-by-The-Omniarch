@@ -50,6 +50,21 @@ document.addEventListener("DOMContentLoaded", function () {
     onRead();
   }
 
+  // Obsidian dark theme toggle
+  var themeToggle = document.getElementById("themeToggle");
+  if (themeToggle) {
+    themeToggle.addEventListener("click", function () {
+      var isDark = document.documentElement.getAttribute("data-theme") === "obsidian";
+      if (isDark) {
+        document.documentElement.removeAttribute("data-theme");
+        localStorage.setItem("theme", "light");
+      } else {
+        document.documentElement.setAttribute("data-theme", "obsidian");
+        localStorage.setItem("theme", "obsidian");
+      }
+    });
+  }
+
   // footer year
   var y = document.querySelector(".year");
   if (y) y.textContent = new Date().getFullYear();

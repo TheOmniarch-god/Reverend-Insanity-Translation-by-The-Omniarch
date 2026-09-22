@@ -143,76 +143,93 @@ img { max-width: 100%; height: auto; display: block; }
   .nav-burger { display: block; }
 }
 
-/* ---------- hero / featured ---------- */
+/* ---------- hero / featured (compacted to fit front page above fold) ---------- */
 
-.hero { padding: 130px 0 96px; }
-.hero-grid {
-  display: grid;
-  grid-template-columns: 390px 1fr;
-  gap: 70px;
+.hero {
+  padding: 82px 0 32px;
+  min-height: calc(100vh - 64px);
+  display: flex;
   align-items: center;
 }
+.hero-grid {
+  display: grid;
+  grid-template-columns: 290px 1fr;
+  gap: 44px;
+  align-items: center;
+  width: 100%;
+}
 .cover-card {
-  border-radius: 12px;
+  border-radius: 10px;
   overflow: hidden;
   border: 1px solid #e2e0d8;
   background: #fff;
-  box-shadow: 0 24px 60px rgba(23, 23, 26, 0.14);
-  transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.5s;
+  box-shadow: 0 16px 44px rgba(23, 23, 26, 0.12);
+  transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.4s;
+  max-width: 290px;
 }
-.cover-card img { width: 100%; height: auto; }
+.cover-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
 .cover-card:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 34px 74px rgba(23, 23, 26, 0.2);
+  transform: translateY(-4px);
+  box-shadow: 0 24px 56px rgba(23, 23, 26, 0.18);
 }
 
 .eyebrow {
-  font-size: 11.5px;
+  font-size: 11px;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.22em;
+  letter-spacing: 0.2em;
   color: var(--red);
-  margin-bottom: 18px;
+  margin-bottom: 6px;
 }
 .hero h1 {
-  font-size: clamp(2.7rem, 5.6vw, 4rem);
+  font-size: clamp(2.2rem, 3.8vw, 3.1rem);
   font-weight: 800;
-  letter-spacing: -0.03em;
-  line-height: 1.02;
+  letter-spacing: -0.025em;
+  line-height: 1.05;
+  margin: 0;
 }
 .byline {
-  font-size: 15.5px;
+  font-size: 14px;
   color: var(--muted);
-  margin-top: 14px;
+  margin-top: 6px;
 }
 .byline strong { color: var(--ink); font-weight: 600; }
 .cjk { font-family: var(--cjk); }
 
-.tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 24px; }
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 10px;
+}
 .tags span {
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 500;
   color: var(--muted);
   background: #fff;
   border: 1px solid var(--line);
-  padding: 6px 13px;
+  padding: 3px 10px;
   border-radius: 999px;
 }
 
-/* synopsis plate — book frontispiece */
+/* synopsis plate — compact book frontispiece */
 .synopsis-plate {
-  margin-top: 30px;
-  max-width: 580px;
+  margin-top: 14px;
+  max-width: 620px;
   border: 1px solid var(--line);
   background: #fff;
-  padding: 38px 36px 32px;
+  padding: 18px 24px 16px;
   position: relative;
-  box-shadow: 0 12px 34px rgba(23, 23, 26, 0.06);
+  box-shadow: 0 8px 26px rgba(23, 23, 26, 0.04);
 }
 .synopsis-plate::before {
   content: "";
   position: absolute;
-  inset: 7px;
+  inset: 5px;
   border: 1px solid #efece3;
   pointer-events: none;
 }
@@ -227,118 +244,131 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .plate-label {
   text-align: center;
-  font-size: 10.5px;
+  font-size: 9.5px;
   font-weight: 700;
-  letter-spacing: 0.3em;
+  letter-spacing: 0.28em;
   text-transform: uppercase;
   color: var(--muted);
-  margin-bottom: 22px;
+  margin-bottom: 10px;
 }
 .plate-lede {
   text-align: center;
   font-family: "Playfair Display", Georgia, serif;
-  font-size: 21px;
+  font-size: 16px;
   font-style: normal;
   font-weight: 800;
   color: var(--ink);
-  line-height: 1.4;
-  max-width: 430px;
+  line-height: 1.35;
+  max-width: 480px;
   margin: 0 auto;
 }
 .plate-mid {
   text-align: center;
-  margin-top: 16px;
-  font-size: 16px;
-  line-height: 1.8;
+  margin-top: 8px;
+  font-size: 13.5px;
+  line-height: 1.5;
 }
 .plate-mid p {
   font-family: "Playfair Display", Georgia, serif;
   font-style: italic;
   font-weight: 500;
   color: #5a5750;
+  margin: 0;
 }
-.plate-mid p + p { margin-top: 4px; }
+.plate-mid p + p { margin-top: 2px; }
 .gu-tokens {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 7px;
-  margin-top: 20px;
+  gap: 5px;
+  margin-top: 10px;
 }
 .gu-tokens span {
-  font-size: 11.5px;
+  font-size: 10.5px;
   font-weight: 500;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.02em;
   color: var(--body);
   background: #faf9f5;
   border: 1px solid var(--line);
-  padding: 5px 12px;
+  padding: 3px 9px;
   border-radius: 999px;
 }
 .plate-rule {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 10px;
-  margin: 26px auto 22px;
+  gap: 8px;
+  margin: 12px auto 10px;
   width: 100%;
 }
 .plate-rule i {
-  width: 44px;
+  width: 36px;
   height: 1px;
   background: #d8d5cc;
 }
 .plate-rule b {
-  width: 6px;
-  height: 6px;
+  width: 5px;
+  height: 5px;
   background: var(--red);
   transform: rotate(45deg);
 }
 .plate-poem {
   text-align: center;
   font-family: "Playfair Display", Georgia, serif;
-  font-size: 17.5px;
+  font-size: 13.5px;
   font-style: italic;
   font-weight: 700;
   color: var(--ink);
-  line-height: 2.0;
+  line-height: 1.48;
+  margin: 0;
 }
 @media (max-width: 560px) {
-  .synopsis-plate { padding: 32px 20px 28px; }
+  .synopsis-plate { padding: 18px 16px 14px; }
+  .plate-poem { font-size: 12.5px; }
 }
 
 .intro {
-  font-size: 16.5px;
-  line-height: 1.75;
+  font-size: 15px;
+  line-height: 1.65;
   color: var(--body);
-  margin-top: 26px;
+  margin-top: 18px;
   max-width: 560px;
 }
-.intro + .intro { margin-top: 14px; }
+.intro + .intro { margin-top: 10px; }
 .ref { font-weight: 600; color: var(--ink); }
 
-.status-row { display: flex; flex-wrap: wrap; gap: 10px 24px; margin-top: 30px; }
+.status-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 20px;
+  margin-top: 12px;
+}
 .status {
   display: flex;
   align-items: center;
-  gap: 9px;
-  font-size: 13px;
+  gap: 7px;
+  font-size: 12px;
   font-weight: 500;
   color: var(--muted);
 }
-.dot { width: 8px; height: 8px; border-radius: 50%; flex: none; }
+.dot { width: 7px; height: 7px; border-radius: 50%; flex: none; }
 .dot-red { background: var(--red); box-shadow: 0 0 0 3px rgba(143, 29, 29, 0.12); }
 .dot-gray { background: #b9b7b0; }
 
-.cta-row { display: flex; gap: 14px; margin-top: 36px; flex-wrap: wrap; }
+.cta-row {
+  display: flex;
+  gap: 12px;
+  margin-top: 14px;
+  flex-wrap: wrap;
+}
 .btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 600;
-  padding: 14px 26px;
-  border-radius: 9px;
+  padding: 10px 22px;
+  border-radius: 8px;
   border: none;
   cursor: pointer;
   transition: all 0.25s;
@@ -346,21 +376,42 @@ img { max-width: 100%; height: auto; display: block; }
 .btn-primary {
   background: var(--red);
   color: #fff;
-  box-shadow: 0 8px 20px rgba(143, 29, 29, 0.22);
+  box-shadow: 0 6px 16px rgba(143, 29, 29, 0.2);
 }
-.btn-primary:hover { background: var(--red-dark); box-shadow: 0 10px 26px rgba(143, 29, 29, 0.3); }
+.btn-primary:hover {
+  background: var(--red-dark);
+  transform: translateY(-1px);
+  box-shadow: 0 10px 22px rgba(143, 29, 29, 0.28);
+}
 .btn-ghost {
   background: #fff;
   border: 1px solid var(--line);
   color: var(--ink);
 }
-.btn-ghost:hover { border-color: #c9c7bf; background: #faf9f6; }
+.btn-ghost:hover {
+  border-color: #c9c7bf;
+  background: #faf9f6;
+  transform: translateY(-1px);
+}
 
 @media (max-width: 960px) {
-  .hero { padding-top: 110px; }
-  .hero-grid { grid-template-columns: 1fr; gap: 44px; }
-  .cover-card { max-width: 330px; }
-  .hero-copy .intro { max-width: 100%; }
+  .hero {
+    padding-top: 90px;
+    padding-bottom: 40px;
+    min-height: auto;
+  }
+  .hero-grid {
+    grid-template-columns: 1fr;
+    gap: 28px;
+    text-align: center;
+  }
+  .cover-card {
+    margin: 0 auto;
+    max-width: 240px;
+  }
+  .tags { justify-content: center; }
+  .status-row { justify-content: center; }
+  .cta-row { justify-content: center; }
 }
 
 /* ---------- chapters ---------- */
@@ -1400,4 +1451,477 @@ footer {
 }
 .renzu-text strong {
   color: var(--ink);
+}
+
+
+/* ============================================================
+   LEGENDS OF REN ZU ATMOSPHERIC COMPANION SECTION
+   Themed to the Venerables Mural & Ren Zu Artwork
+   ============================================================ */
+.companion-section {
+  position: relative;
+  background-color: #12100e;
+  padding: 88px 0 96px;
+  overflow: hidden;
+  border-top: 1px solid #2e2922;
+  border-bottom: 1px solid #2e2922;
+}
+
+/* Background image with mythic Venerables mural */
+.companion-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url('renzu-bg.webp');
+  background-position: center 30%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.32;
+  filter: saturate(1.1) contrast(1.1);
+  pointer-events: none;
+}
+
+/* Atmospheric darkening & vignette */
+.companion-section::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: 
+    radial-gradient(ellipse at 50% 40%, rgba(18, 16, 14, 0.45) 0%, rgba(12, 10, 8, 0.94) 85%),
+    linear-gradient(180deg, #12100e 0%, rgba(18, 16, 14, 0.2) 25%, rgba(18, 16, 14, 0.3) 75%, #12100e 100%);
+  pointer-events: none;
+}
+
+.companion-section .wrap {
+  position: relative;
+  z-index: 2;
+}
+
+/* The Grand Ren Zu Banner Card */
+.renzu-banner {
+  background: rgba(23, 20, 17, 0.9);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(212, 163, 71, 0.32);
+  border-left: 4px solid var(--red);
+  border-radius: 16px;
+  padding: 32px;
+  display: grid;
+  grid-template-columns: 360px 1fr;
+  gap: 36px;
+  align-items: center;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.55), 0 0 40px rgba(212, 163, 71, 0.06);
+  margin-bottom: 40px;
+  transition: transform 0.3s, box-shadow 0.3s, border-color 0.3s;
+}
+
+.renzu-banner:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 24px 70px rgba(0, 0, 0, 0.65), 0 0 50px rgba(212, 163, 71, 0.1);
+  border-color: rgba(212, 163, 71, 0.5);
+}
+
+/* Framed Illustration Inside the Banner */
+.renzu-art-frame {
+  margin: 0;
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  aspect-ratio: 16 / 13;
+  background: #0a0908;
+}
+
+.renzu-art-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+.renzu-banner:hover .renzu-art-img {
+  transform: scale(1.03);
+}
+
+.renzu-art-overlay {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+}
+
+.renzu-art-seal {
+  background: rgba(143, 29, 29, 0.9);
+  color: #ffffff;
+  font-family: var(--cjk);
+  font-weight: 700;
+  font-size: 11px;
+  padding: 3px 8px;
+  border-radius: 4px;
+  letter-spacing: 0.08em;
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Content styling */
+.renzu-banner-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.renzu-kicker-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+  flex-wrap: wrap;
+}
+
+.renzu-banner-content .portal-kicker {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #d4a347;
+  margin-bottom: 0;
+}
+
+.renzu-banner-content .portal-kicker .cjk {
+  color: #a39e93;
+  font-weight: 500;
+  margin-left: 6px;
+}
+
+.renzu-status-tag {
+  font-size: 10.5px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  background: rgba(212, 163, 71, 0.15);
+  color: #e5b966;
+  border: 1px solid rgba(212, 163, 71, 0.3);
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+.renzu-banner-content .portal-title {
+  font-size: clamp(1.8rem, 3.2vw, 2.3rem);
+  font-weight: 800;
+  color: #ffffff;
+  letter-spacing: -0.015em;
+  margin: 6px 0 12px;
+  line-height: 1.18;
+}
+
+.renzu-banner-content .portal-desc {
+  font-size: 14.5px;
+  line-height: 1.7;
+  color: #cdc7b9;
+  margin-bottom: 16px;
+}
+
+.renzu-perks {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 22px;
+  padding: 0;
+}
+
+.renzu-perks li {
+  font-size: 13px;
+  color: #ede8df;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.renzu-perks li span {
+  color: #d4a347;
+  font-size: 11px;
+}
+
+.renzu-banner-action {
+  margin-top: auto;
+}
+
+/* Dark themed Community Box inside Companion Section */
+.companion-section .community-box {
+  background: rgba(23, 20, 17, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
+
+.companion-section .community-info h3 {
+  color: #ffffff;
+}
+
+.companion-section .community-info p {
+  color: #b0aba0;
+}
+
+@media (max-width: 900px) {
+  .renzu-banner {
+    grid-template-columns: 1fr;
+    gap: 24px;
+    padding: 24px;
+  }
+  .renzu-art-frame {
+    max-height: 280px;
+  }
+}
+
+
+/* ============================================================
+   OBSIDIAN DARK THEME & TOGGLE SYSTEM
+   Volcanic Ink · Burnished Gold · Vermilion
+   ============================================================ */
+
+/* Theme Toggle Button */
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #f0eee8;
+  border: 1px solid var(--line);
+  padding: 6px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+  font-family: var(--sans);
+  font-size: 11.5px;
+  font-weight: 600;
+  color: var(--body);
+  transition: all 0.25s ease;
+  user-select: none;
+}
+.theme-toggle:hover {
+  border-color: var(--red);
+  color: var(--ink);
+  transform: translateY(-1px);
+}
+.theme-toggle svg {
+  flex-shrink: 0;
+}
+.theme-toggle .icon-sun {
+  display: none;
+  color: #d4a347;
+}
+.theme-toggle .icon-moon {
+  display: block;
+  color: #635f58;
+}
+
+/* Obsidian Theme Root Overrides */
+[data-theme="obsidian"] {
+  --bg:       #0d0c0a;  /* deep obsidian bedrock */
+  --card:     #161412;  /* rich dark obsidian slab */
+  --ink:      #eeeae0;  /* luminous parchment text */
+  --body:     #c5bfb2;  /* readable silver-ash body */
+  --muted:    #8a8475;  /* muted ancient stone */
+  --line:     #28241e;  /* subtle volcanic fissure line */
+  --red:      #b82c2c;  /* vivid imperial vermilion */
+  --red-dark: #911e1e;
+  --green:    #3fb950;
+  --green-bg: rgba(63, 185, 80, 0.15);
+  --amber:    #d4a347;  /* burnished antique gold */
+  --amber-bg: rgba(212, 163, 71, 0.15);
+  --gray:     #969082;
+  --gray-bg:  #1d1a16;
+}
+
+[data-theme="obsidian"] body {
+  background: var(--bg);
+  color: var(--ink);
+}
+
+/* Nav in Obsidian */
+[data-theme="obsidian"] .nav {
+  background: rgba(13, 12, 10, 0.92);
+  border-bottom-color: rgba(255, 255, 255, 0.06);
+}
+[data-theme="obsidian"] .nav.scrolled {
+  border-bottom-color: var(--line);
+}
+[data-theme="obsidian"] .nav-burger {
+  color: var(--ink);
+}
+[data-theme="obsidian"] .nav-links {
+  background: #161412;
+}
+
+/* Toggle button in Obsidian mode */
+[data-theme="obsidian"] .theme-toggle {
+  background: #181613;
+  border-color: #383227;
+  color: #dfd9cb;
+}
+[data-theme="obsidian"] .theme-toggle:hover {
+  border-color: #d4a347;
+  color: #ffffff;
+}
+[data-theme="obsidian"] .theme-toggle .icon-moon {
+  display: none;
+}
+[data-theme="obsidian"] .theme-toggle .icon-sun {
+  display: block;
+}
+
+/* Cover card & Book presentation */
+[data-theme="obsidian"] .cover-card {
+  background: #161412;
+  border-color: #2e2922;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
+}
+
+/* Synopsis plate in Obsidian */
+[data-theme="obsidian"] .synopsis-plate {
+  background: #141210;
+  border-color: #302b23;
+  box-shadow: 0 10px 36px rgba(0, 0, 0, 0.5);
+}
+[data-theme="obsidian"] .synopsis-plate::before {
+  border-color: #24201a;
+}
+[data-theme="obsidian"] .plate-lede {
+  color: #f5f2ea;
+}
+[data-theme="obsidian"] .plate-mid p {
+  color: #beb9ac;
+}
+[data-theme="obsidian"] .plate-rule i {
+  background: #363026;
+}
+[data-theme="obsidian"] .plate-poem {
+  color: #f5f2ea;
+}
+[data-theme="obsidian"] .gu-tokens span {
+  background: #1c1915;
+  border-color: #332d24;
+  color: #d1cbc0;
+}
+[data-theme="obsidian"] .tags span {
+  background: #181613;
+  border-color: #2c271f;
+  color: #aba496;
+}
+
+/* Chapters ledger in Obsidian */
+[data-theme="obsidian"] .chapters {
+  background: #11100e;
+  border-color: #24201a;
+}
+[data-theme="obsidian"] .vol-band {
+  background: #171512;
+  border-color: #2d2821;
+}
+[data-theme="obsidian"] .vol-name {
+  color: #f2eee5;
+}
+[data-theme="obsidian"] .meter-track {
+  background: #23201a;
+}
+[data-theme="obsidian"] .ch-row {
+  border-color: #24201a;
+}
+[data-theme="obsidian"] .ch-row:hover {
+  background: #1a1814;
+}
+
+/* Buttons in Obsidian */
+[data-theme="obsidian"] .btn-ghost {
+  background: #171512;
+  border-color: #363025;
+  color: #eae5dc;
+}
+[data-theme="obsidian"] .btn-ghost:hover {
+  background: #201d19;
+  border-color: #d4a347;
+  color: #ffffff;
+}
+
+/* Chapter reader view in Obsidian */
+[data-theme="obsidian"] .chapter-body {
+  color: #ded8cb;
+}
+[data-theme="obsidian"] .reader-head h1 {
+  color: #f7f4ec;
+}
+[data-theme="obsidian"] .reader-head .ch-title {
+  color: #c7c1b4;
+}
+[data-theme="obsidian"] .end-mark span {
+  color: #8c8577;
+}
+
+/* Support & Wallet in Obsidian */
+[data-theme="obsidian"] .wallet-section,
+[data-theme="obsidian"] .tier-card,
+[data-theme="obsidian"] .alt-card,
+[data-theme="obsidian"] .venerables-shrine-section,
+[data-theme="obsidian"] .about-block,
+[data-theme="obsidian"] .community-box {
+  background: #141210;
+  border-color: #2a251e;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+}
+[data-theme="obsidian"] .tier-card.tier-featured {
+  border-color: var(--red);
+  box-shadow: 0 8px 30px rgba(184, 44, 44, 0.2);
+}
+[data-theme="obsidian"] .wallet-box {
+  background: #0b0a09;
+  border-color: #26211a;
+}
+[data-theme="obsidian"] .wallet-address-display code {
+  color: #e5b966;
+}
+[data-theme="obsidian"] .network-badge {
+  background: #1c1915;
+}
+[data-theme="obsidian"] .network-badge strong {
+  color: #f2eee5;
+}
+[data-theme="obsidian"] .shrine-monument {
+  background: #0d0c0a;
+  border-color: #332d23;
+}
+[data-theme="obsidian"] .monument-placeholder {
+  background: rgba(24, 21, 18, 0.7);
+  border-color: #3d3528;
+}
+[data-theme="obsidian"] .renzu-sister-badge {
+  background: #181613;
+  border-color: #2f2920;
+  color: #cdc7bb;
+}
+[data-theme="obsidian"] .renzu-sister-badge:hover {
+  background: #201d18;
+  border-color: var(--red);
+}
+
+/* Footer in Obsidian */
+[data-theme="obsidian"] footer {
+  background: #0b0a09;
+  border-color: #211e19;
+}
+
+/* 404 in Obsidian */
+[data-theme="obsidian"] .error-page {
+  background: #0b0a09 !important;
+}
+[data-theme="obsidian"] .error-box {
+  background: #141210 !important;
+  border-color: #28241e !important;
+}
+[data-theme="obsidian"] .error-title {
+  color: #f5f2ea !important;
 }
