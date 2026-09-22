@@ -50,17 +50,36 @@ document.addEventListener("DOMContentLoaded", function () {
     onRead();
   }
 
-  // Obsidian dark theme toggle
+  // Theme toggle: "Dark theme" and "Light theme"
   var themeToggle = document.getElementById("themeToggle");
+  var themeToggleText = document.getElementById("themeToggleText");
+
+  function updateThemeUI(theme) {
+    if (themeToggleText) {
+      themeToggleText.textContent = theme === "obsidian" ? "Light theme" : "Dark theme";
+    }
+    if (themeToggle) {
+      var isDark = theme === "obsidian";
+      themeToggle.setAttribute("title", isDark ? "Switch to Light theme" : "Switch to Dark theme");
+      themeToggle.setAttribute("aria-label", isDark ? "Switch to Light theme" : "Switch to Dark theme");
+    }
+  }
+
+  // Initial sync on load
+  var currentTheme = document.documentElement.getAttribute("data-theme") || "light";
+  updateThemeUI(currentTheme);
+
   if (themeToggle) {
     themeToggle.addEventListener("click", function () {
       var isDark = document.documentElement.getAttribute("data-theme") === "obsidian";
       if (isDark) {
         document.documentElement.removeAttribute("data-theme");
         localStorage.setItem("theme", "light");
+        updateThemeUI("light");
       } else {
         document.documentElement.setAttribute("data-theme", "obsidian");
         localStorage.setItem("theme", "obsidian");
+        updateThemeUI("obsidian");
       }
     });
   }
