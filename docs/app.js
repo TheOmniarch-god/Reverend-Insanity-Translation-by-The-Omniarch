@@ -134,10 +134,11 @@ document.addEventListener("DOMContentLoaded", function () {
   // Each scale compensates for the face's natural x-height so every
   // typeface reads at a comparable visual size at the same setting.
   var READER_FONTS = {
-    inter:      { scale: 1.00 },
-    cormorant:  { scale: 1.12 },
-    newsreader: { scale: 1.03 },
-    spectral:   { scale: 1.05 }
+    inter:        { scale: 1.00 },
+    opendyslexic: { scale: 1.00 },
+    cormorant:    { scale: 1.12 },
+    newsreader:   { scale: 1.03 },
+    spectral:     { scale: 1.05 }
   };
 
   function currentReaderFont() {
@@ -157,7 +158,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function applyReaderFont(key, persist) {
     if (!READER_FONTS[key]) key = "inter";
-    document.documentElement.classList.remove("rf-cormorant", "rf-newsreader", "rf-spectral");
+    document.documentElement.classList.remove("rf-opendyslexic", "rf-cormorant", "rf-newsreader", "rf-spectral");
     if (key !== "inter") document.documentElement.classList.add("rf-" + key);
     if (persist !== false) localStorage.setItem("readerFont", key);
     applyFontSize(parseInt(localStorage.getItem("readerFontSize") || "17", 10));
