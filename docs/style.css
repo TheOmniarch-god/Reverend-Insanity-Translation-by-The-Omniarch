@@ -143,9 +143,15 @@ img { max-width: 100%; height: auto; display: block; }
   .nav-logo .wordmark {
     font-size: 11px;
     letter-spacing: 0.08em;
+    display: flex;
+    flex-direction: column;
+    line-height: 1.2;
   }
   .nav-logo .brand-sub {
-    display: none;
+    font-size: 8.5px;
+    font-weight: 500;
+    letter-spacing: 0.24em;
+    color: var(--muted);
   }
   .nav-actions {
     gap: 8px;
@@ -175,18 +181,44 @@ img { max-width: 100%; height: auto; display: block; }
     border-radius: 8px;
   }
   .nav-cta { display: none; }
+
+  /* Compact floating menu box (not an edge-to-edge strip) */
   .nav-links {
-    position: absolute;
-    top: 56px; left: 0; right: 0;
+    position: fixed;
+    top: 64px;
+    right: 12px;
+    left: auto;
+    width: min(240px, calc(100vw - 24px));
     flex-direction: column;
     gap: 0;
+    padding: 6px;
     background: #fff;
-    border-bottom: 1px solid var(--line);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    box-shadow: 0 12px 32px rgba(0,0,0,0.18);
     display: none;
+    z-index: 100;
+    opacity: 0;
+    transform: translateY(-6px);
   }
-  .nav-links.open { display: flex; }
-  .nav-links li { border-top: 1px solid var(--line); }
-  .nav-links a { display: block; padding: 15px 28px; }
+  .nav-links.open {
+    display: flex;
+    animation: navPop 0.18s ease forwards;
+  }
+  .nav-links li { border: none; }
+  .nav-links a {
+    display: block;
+    padding: 11px 13px;
+    border-radius: 8px;
+    font-size: 13.5px;
+    font-weight: 600;
+    color: var(--ink);
+  }
+  .nav-links a:hover { background: rgba(128,120,100,0.13); }
+}
+
+@keyframes navPop {
+  to { opacity: 1; transform: translateY(0); }
 }
 
 /* ---------- hero / featured (balanced prestige proportions, zero cut-off) ---------- */
@@ -861,6 +893,89 @@ footer {
   color: var(--ink);
   box-shadow: 0 1px 4px rgba(0,0,0,0.06);
 }
+
+/* ── Typeface picker ("Aa" button + dropdown) ── */
+.font-picker-wrap {
+  position: relative;
+  display: inline-flex;
+}
+.font-panel {
+  position: absolute;
+  top: calc(100% + 10px);
+  left: 50%;
+  transform: translateX(-50%) translateY(-4px);
+  z-index: 80;
+  width: 252px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  box-shadow: 0 16px 40px rgba(0,0,0,0.22);
+  padding: 7px;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity .18s ease, transform .18s ease, visibility .18s;
+  text-align: left;
+}
+.font-panel.open {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(-50%) translateY(0);
+}
+.fp-label {
+  font-family: var(--sans);
+  font-size: 9.5px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+  padding: 5px 10px 7px;
+  font-weight: 700;
+}
+.font-option {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 8px 10px;
+  border-radius: 8px;
+  color: var(--ink);
+  transition: background .15s ease;
+}
+.font-option + .font-option { margin-top: 2px; }
+.font-option:hover { background: rgba(128,120,100,0.13); }
+.font-option.active {
+  background: rgba(155,28,28,0.08);
+  box-shadow: inset 2px 0 0 var(--red);
+}
+.font-option .fo-name { display: block; font-size: 17px; line-height: 1.25; }
+.font-option .fo-desc {
+  display: block;
+  font-family: var(--sans);
+  font-size: 10.5px;
+  color: var(--muted);
+  margin-top: 2px;
+}
+.font-option .fo-sample {
+  display: block;
+  font-size: 13px;
+  color: var(--body);
+  margin-top: 3px;
+  font-style: italic;
+}
+.fo-inter { font-family: var(--sans); font-weight: 600; }
+.fo-cormorant { font-family: "Cormorant Garamond", Georgia, serif; font-weight: 600; }
+.fo-newsreader { font-family: "Newsreader", Georgia, serif; font-weight: 500; }
+.fo-spectral { font-family: "Spectral", Georgia, serif; font-weight: 600; }
+[data-theme="obsidian"] .font-panel {
+  background: #0d0c0a;
+  border-color: #1f1c17;
+  box-shadow: 0 16px 40px rgba(0,0,0,0.6);
+}
+[data-theme="obsidian"] .font-option { color: #e8e3d8; }
+[data-theme="obsidian"] .font-option:hover { background: #1f1c17; }
+[data-theme="obsidian"] .font-option.active { background: #221411; }
+
 /* Gamepad-style Left & Right Navigation */
 .reader-gamepad {
   display: inline-flex;
@@ -972,6 +1087,30 @@ footer {
 }
 .prose-poem p {
   margin-bottom: 0 !important;
+}
+
+/* ────────────────────────────────────────────────────────────
+   READER TYPEFACES — story prose only.
+   Poem boxes (.prose-poem), chapter titles, meta rows and all
+   other display designs keep their own fonts, always.
+   ──────────────────────────────────────────────────────────── */
+html.rf-cormorant .chapter-body {
+  font-family: "Cormorant Garamond", "EB Garamond", Georgia, serif;
+  font-weight: 500;
+  line-height: 1.9;
+  letter-spacing: 0.01em;
+}
+html.rf-cormorant .chapter-body strong { font-weight: 700; }
+
+html.rf-newsreader .chapter-body {
+  font-family: "Newsreader", Georgia, serif;
+  line-height: 1.9;
+}
+
+html.rf-spectral .chapter-body {
+  font-family: "Spectral", Georgia, serif;
+  line-height: 1.95;
+  letter-spacing: 0.005em;
 }
 
 .scene-break {
@@ -2047,8 +2186,12 @@ footer {
   color: #ffffff;
 }
 [data-theme="obsidian"] .nav-links {
-  background: #080808;
+  background: #0d0c0a;
+  border-color: #1f1c17;
+  box-shadow: 0 12px 32px rgba(0,0,0,0.6);
 }
+[data-theme="obsidian"] .nav-links a { color: #e8e3d8; }
+[data-theme="obsidian"] .nav-links a:hover { background: #1f1c17; }
 [data-theme="obsidian"] .nav-links li {
   border-top-color: #1a1815;
 }

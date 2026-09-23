@@ -17,15 +17,31 @@ document.addEventListener("DOMContentLoaded", function () {
     onScroll();
   }
 
-  // mobile menu
+  // mobile menu (compact box: opens under the burger, closes on any outside tap)
   var burger = document.querySelector(".nav-burger");
   var links = document.querySelector(".nav-links");
   if (burger && links) {
-    burger.addEventListener("click", function () {
-      links.classList.toggle("open");
+    function closeMenu() {
+      links.classList.remove("open");
+      burger.setAttribute("aria-expanded", "false");
+    }
+    burger.setAttribute("aria-expanded", "false");
+    burger.addEventListener("click", function (e) {
+      e.stopPropagation();
+      var isOpen = links.classList.toggle("open");
+      burger.setAttribute("aria-expanded", isOpen ? "true" : "false");
+    });
+    document.addEventListener("click", function (e) {
+      if (links.classList.contains("open") && !links.contains(e.target)) closeMenu();
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") closeMenu();
+    });
+    window.addEventListener("resize", function () {
+      if (window.innerWidth > 860) closeMenu();
     });
     links.querySelectorAll("a").forEach(function (a) {
-      a.addEventListener("click", function () { links.classList.remove("open"); });
+      a.addEventListener("click", closeMenu);
     });
   }
 
@@ -113,19 +129,76 @@ document.addEventListener("DOMContentLoaded", function () {
   var fontDec = document.getElementById("fontDec");
   var fontInc = document.getElementById("fontInc");
   var fontSizes = [15, 17, 19, 21, 23];
-  
+
+  // Reader typefaces: Inter (default) + three premium serifs.
+  // Each scale compensates for the face's natural x-height so every
+  // typeface reads at a comparable visual size at the same setting.
+  var READER_FONTS = {
+    inter:      { scale: 1.00 },
+    cormorant:  { scale: 1.12 },
+    newsreader: { scale: 1.03 },
+    spectral:   { scale: 1.05 }
+  };
+
+  function currentReaderFont() {
+    var f = localStorage.getItem("readerFont");
+    return (f && READER_FONTS[f]) ? f : "inter";
+  }
+
   function applyFontSize(size) {
     if (proseEl) {
-      proseEl.style.fontSize = size + "px";
-      proseEl.style.lineHeight = (size >= 19 ? "1.9" : "1.95");
+      var f = currentReaderFont();
+      var scale = READER_FONTS[f].scale;
+      proseEl.style.fontSize = (Math.round(size * scale * 10) / 10) + "px";
+      proseEl.style.lineHeight = (f === "inter") ? (size >= 19 ? "1.9" : "1.95") : "";
       localStorage.setItem("readerFontSize", size);
     }
   }
 
+  function applyReaderFont(key, persist) {
+    if (!READER_FONTS[key]) key = "inter";
+    document.documentElement.classList.remove("rf-cormorant", "rf-newsreader", "rf-spectral");
+    if (key !== "inter") document.documentElement.classList.add("rf-" + key);
+    if (persist !== false) localStorage.setItem("readerFont", key);
+    applyFontSize(parseInt(localStorage.getItem("readerFontSize") || "17", 10));
+    var opts = document.querySelectorAll(".font-panel .font-option");
+    for (var i = 0; i < opts.length; i++) {
+      if (opts[i].getAttribute("data-font") === key) opts[i].classList.add("active");
+      else opts[i].classList.remove("active");
+    }
+  }
+
   if (proseEl) {
-    var savedSize = parseInt(localStorage.getItem("readerFontSize") || "17", 10);
-    if (savedSize !== 17) applyFontSize(savedSize);
-    
+    applyReaderFont(currentReaderFont(), false);
+
+    // Typeface picker ("Aa" button)
+    var fpBtn = document.getElementById("fontPickerBtn");
+    var fpPanel = document.getElementById("fontPanel");
+    if (fpBtn && fpPanel) {
+      fpBtn.addEventListener("click", function (e) {
+        e.stopPropagation();
+        var isOpen = fpPanel.classList.toggle("open");
+        fpBtn.setAttribute("aria-expanded", isOpen ? "true" : "false");
+      });
+      function closeFontPanel() {
+        fpPanel.classList.remove("open");
+        fpBtn.setAttribute("aria-expanded", "false");
+      }
+      document.addEventListener("click", function (e) {
+        if (!fpPanel.contains(e.target) && e.target !== fpBtn) closeFontPanel();
+      });
+      document.addEventListener("keydown", function (e) {
+        if (e.key === "Escape") closeFontPanel();
+      });
+      var fpOpts = fpPanel.querySelectorAll(".font-option");
+      for (var i = 0; i < fpOpts.length; i++) {
+        fpOpts[i].addEventListener("click", function () {
+          applyReaderFont(this.getAttribute("data-font"));
+          fpPanel.classList.remove("open");
+        });
+      }
+    }
+
     if (fontDec && fontInc) {
       fontDec.addEventListener("click", function () {
         var current = parseInt(localStorage.getItem("readerFontSize") || "17", 10);
