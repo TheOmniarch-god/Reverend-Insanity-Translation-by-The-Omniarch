@@ -143,29 +143,29 @@ img { max-width: 100%; height: auto; display: block; }
   .nav-burger { display: block; }
 }
 
-/* ---------- hero / featured (compacted to fit front page above fold) ---------- */
+/* ---------- hero / featured (balanced prestige proportions, zero cut-off) ---------- */
 
 .hero {
-  padding: 66px 0 18px;
+  padding: 72px 0 22px;
   min-height: calc(100vh - 64px);
   display: flex;
   align-items: center;
 }
 .hero-grid {
   display: grid;
-  grid-template-columns: 250px 1fr;
-  gap: 36px;
+  grid-template-columns: 272px 1fr;
+  gap: 40px;
   align-items: center;
   width: 100%;
 }
 .cover-card {
-  border-radius: 9px;
+  border-radius: 10px;
   overflow: hidden;
   border: 1px solid #e2e0d8;
   background: #fff;
-  box-shadow: 0 14px 38px rgba(23, 23, 26, 0.12);
+  box-shadow: 0 16px 42px rgba(23, 23, 26, 0.13);
   transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.4s;
-  max-width: 250px;
+  max-width: 272px;
 }
 .cover-card img {
   width: 100%;
@@ -174,28 +174,28 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .cover-card:hover {
   transform: translateY(-3px);
-  box-shadow: 0 20px 48px rgba(23, 23, 26, 0.18);
+  box-shadow: 0 22px 52px rgba(23, 23, 26, 0.18);
 }
 
 .eyebrow {
-  font-size: 10.5px;
+  font-size: 11px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.2em;
   color: var(--red);
-  margin-bottom: 4px;
+  margin-bottom: 5px;
 }
 .hero h1 {
-  font-size: clamp(2rem, 3.4vw, 2.8rem);
+  font-size: clamp(2.2rem, 3.8vw, 3rem);
   font-weight: 800;
   letter-spacing: -0.025em;
   line-height: 1.05;
   margin: 0;
 }
 .byline {
-  font-size: 13.5px;
+  font-size: 14px;
   color: var(--muted);
-  margin-top: 4px;
+  margin-top: 5px;
 }
 .byline strong { color: var(--ink); font-weight: 600; }
 .cjk { font-family: var(--cjk); }
@@ -203,28 +203,28 @@ img { max-width: 100%; height: auto; display: block; }
 .tags {
   display: flex;
   flex-wrap: wrap;
-  gap: 5px;
-  margin-top: 8px;
+  gap: 6px;
+  margin-top: 9px;
 }
 .tags span {
-  font-size: 10.5px;
+  font-size: 11px;
   font-weight: 500;
   color: var(--muted);
   background: #fff;
   border: 1px solid var(--line);
-  padding: 2.5px 9px;
+  padding: 3px 10px;
   border-radius: 999px;
 }
 
 /* synopsis plate — compact book frontispiece */
 .synopsis-plate {
-  margin-top: 12px;
+  margin-top: 14px;
   max-width: 620px;
   border: 1px solid var(--line);
   background: #fff;
-  padding: 14px 20px 12px;
+  padding: 16px 22px 14px;
   position: relative;
-  box-shadow: 0 6px 22px rgba(23, 23, 26, 0.04);
+  box-shadow: 0 8px 24px rgba(23, 23, 26, 0.04);
 }
 .synopsis-plate::before {
   content: "";
@@ -244,7 +244,7 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .plate-label {
   text-align: center;
-  font-size: 9px;
+  font-size: 9.5px;
   font-weight: 700;
   letter-spacing: 0.28em;
   text-transform: uppercase;
@@ -254,19 +254,19 @@ img { max-width: 100%; height: auto; display: block; }
 .plate-lede {
   text-align: center;
   font-family: "Playfair Display", Georgia, serif;
-  font-size: 15.5px;
+  font-size: 16px;
   font-style: normal;
   font-weight: 800;
   color: var(--ink);
-  line-height: 1.32;
+  line-height: 1.34;
   max-width: 480px;
   margin: 0 auto;
 }
 .plate-mid {
   text-align: center;
   margin-top: 6px;
-  font-size: 13px;
-  line-height: 1.45;
+  font-size: 13.5px;
+  line-height: 1.48;
 }
 .plate-mid p {
   font-family: "Playfair Display", Georgia, serif;
@@ -280,17 +280,17 @@ img { max-width: 100%; height: auto; display: block; }
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 4px;
+  gap: 5px;
   margin-top: 8px;
 }
 .gu-tokens span {
-  font-size: 10px;
+  font-size: 10.5px;
   font-weight: 500;
   letter-spacing: 0.02em;
   color: var(--body);
   background: #faf9f5;
   border: 1px solid var(--line);
-  padding: 2px 8px;
+  padding: 2.5px 9px;
   border-radius: 999px;
 }
 .plate-rule {
@@ -302,7 +302,7 @@ img { max-width: 100%; height: auto; display: block; }
   width: 100%;
 }
 .plate-rule i {
-  width: 32px;
+  width: 36px;
   height: 1px;
   background: #d8d5cc;
 }
@@ -315,16 +315,16 @@ img { max-width: 100%; height: auto; display: block; }
 .plate-poem {
   text-align: center;
   font-family: "Playfair Display", Georgia, serif;
-  font-size: 13px;
+  font-size: 13.5px;
   font-style: italic;
   font-weight: 700;
   color: var(--ink);
-  line-height: 1.44;
+  line-height: 1.46;
   margin: 0;
 }
 @media (max-width: 560px) {
-  .synopsis-plate { padding: 14px 14px 10px; }
-  .plate-poem { font-size: 12px; }
+  .synopsis-plate { padding: 15px 15px 12px; }
+  .plate-poem { font-size: 12.5px; }
 }
 
 .intro {
@@ -340,34 +340,34 @@ img { max-width: 100%; height: auto; display: block; }
 .status-row {
   display: flex;
   flex-wrap: wrap;
-  gap: 4px 16px;
-  margin-top: 10px;
+  gap: 5px 18px;
+  margin-top: 11px;
 }
 .status {
   display: flex;
   align-items: center;
-  gap: 6px;
-  font-size: 11.5px;
+  gap: 7px;
+  font-size: 12px;
   font-weight: 500;
   color: var(--muted);
 }
-.dot { width: 6px; height: 6px; border-radius: 50%; flex: none; }
+.dot { width: 7px; height: 7px; border-radius: 50%; flex: none; }
 .dot-red { background: var(--red); box-shadow: 0 0 0 3px rgba(143, 29, 29, 0.12); }
 .dot-gray { background: #b9b7b0; }
 
 .cta-row {
   display: flex;
-  gap: 10px;
-  margin-top: 12px;
+  gap: 12px;
+  margin-top: 13px;
   flex-wrap: wrap;
 }
 .btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  font-size: 12.5px;
+  font-size: 13px;
   font-weight: 600;
-  padding: 9px 20px;
+  padding: 10px 22px;
   border-radius: 8px;
   border: none;
   cursor: pointer;
@@ -396,18 +396,18 @@ img { max-width: 100%; height: auto; display: block; }
 
 @media (max-width: 960px) {
   .hero {
-    padding-top: 80px;
-    padding-bottom: 32px;
+    padding-top: 84px;
+    padding-bottom: 34px;
     min-height: auto;
   }
   .hero-grid {
     grid-template-columns: 1fr;
-    gap: 22px;
+    gap: 24px;
     text-align: center;
   }
   .cover-card {
     margin: 0 auto;
-    max-width: 190px;
+    max-width: 210px;
   }
   .tags { justify-content: center; }
   .status-row { justify-content: center; }
@@ -424,59 +424,58 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .sec-row {
   display: flex;
-  align-items: baseline;
   justify-content: space-between;
+  align-items: baseline;
   gap: 16px;
-  margin-bottom: 32px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
 }
 .sec-row h2 {
   font-size: 26px;
-  font-weight: 700;
+  font-weight: 800;
   letter-spacing: -0.01em;
 }
 .sec-meta {
-  font-size: 12.5px;
-  font-weight: 500;
+  font-size: 13px;
   color: var(--muted);
-  letter-spacing: 0.04em;
-  white-space: nowrap;
 }
 
-.meter { margin-bottom: 36px; }
+.meter { margin-bottom: 28px; }
 .meter-track {
   height: 4px;
   background: #edebe4;
   border-radius: 999px;
-  position: relative;
   overflow: hidden;
 }
 .meter-fill {
-  position: absolute;
-  left: 0; top: 0; bottom: 0;
-  width: 0.09%;
-  min-width: 6px;
+  display: block;
+  height: 100%;
+  width: 0.1%;
+  min-width: 32px;
   background: var(--red);
   border-radius: 999px;
 }
 .meter-label {
   font-size: 12.5px;
   color: var(--muted);
-  margin-top: 12px;
-  letter-spacing: 0.02em;
+  margin-top: 8px;
 }
 
-/* Volume band — chapters are published by volume */
 .vol-band {
-  display: flex; align-items: flex-end; justify-content: space-between;
-  gap: 14px 28px; flex-wrap: wrap;
-  background: var(--card);
-  border: 1px solid var(--line); border-left: 3px solid var(--red);
-  border-radius: 12px;
-  padding: 20px 24px 18px;
-  margin: 0 0 30px;
+  background: #faf9f5;
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--red);
+  border-radius: 10px;
+  padding: 20px 24px;
+  margin-bottom: 22px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
 }
 .vol-kicker {
-  font-size: 11px; font-weight: 700; letter-spacing: 0.16em;
+  font-size: 11px; font-weight: 700; letter-spacing: 0.14em;
   text-transform: uppercase; color: var(--red);
 }
 .vol-kicker .cjk {
@@ -486,23 +485,36 @@ img { max-width: 100%; height: auto; display: block; }
   margin-top: 5px; font-size: 21px; font-weight: 800;
   letter-spacing: -0.01em; color: var(--ink);
 }
-.vol-note {
-  font-size: 13px; color: var(--muted); max-width: 36ch; line-height: 1.55;
-  padding-bottom: 3px;
-}
-.vol-note strong { color: var(--ink); }
 
-.ch-list { border-top: 1px solid var(--line); }
+/* Individual Chapter Squircles / Containers */
+.ch-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 14px;
+}
 .ch-row {
   display: grid;
-  grid-template-columns: 64px 1fr auto auto;
-  gap: 22px;
+  grid-template-columns: 56px 1fr auto auto;
+  gap: 20px;
   align-items: center;
-  padding: 18px 12px;
-  border-bottom: 1px solid var(--line);
-  transition: background 0.2s;
+  padding: 16px 20px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  text-decoration: none;
+  box-shadow: 0 1px 4px rgba(23, 23, 26, 0.03);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease, background 0.2s ease;
 }
-.ch-row:hover { background: #faf9f5; }
+.ch-row:hover {
+  background: #faf8f4;
+  border-color: #d0cdc3;
+  transform: translateY(-1.5px);
+  box-shadow: 0 6px 18px rgba(23, 23, 26, 0.06);
+}
+a.ch-row:hover {
+  border-color: var(--red);
+}
 .ch-num {
   font-size: 14px;
   font-weight: 700;
@@ -510,19 +522,19 @@ img { max-width: 100%; height: auto; display: block; }
   color: #a5a29a;
   font-variant-numeric: tabular-nums;
 }
-.ch-name { font-size: 15.5px; font-weight: 600; }
+.ch-name { font-size: 15.5px; font-weight: 600; color: var(--ink); }
 .ch-name small {
   display: block;
   font-size: 12px;
   font-weight: 400;
   color: var(--muted);
-  margin-top: 2px;
+  margin-top: 3px;
 }
 .pill {
-  font-size: 11.5px;
+  font-size: 11px;
   font-weight: 600;
   letter-spacing: 0.04em;
-  padding: 5px 13px;
+  padding: 4px 12px;
   border-radius: 999px;
   white-space: nowrap;
 }
@@ -533,8 +545,9 @@ img { max-width: 100%; height: auto; display: block; }
   font-size: 13px;
   font-weight: 600;
   color: var(--muted);
-  min-width: 72px;
+  min-width: 68px;
   text-align: right;
+  transition: color 0.2s;
 }
 .ch-row:hover .ch-link { color: var(--red); }
 .ch-link.muted { opacity: 0.45; }
@@ -542,7 +555,11 @@ img { max-width: 100%; height: auto; display: block; }
 .list-note { font-size: 13px; color: var(--muted); margin-top: 22px; }
 
 @media (max-width: 640px) {
-  .ch-row { grid-template-columns: 44px 1fr auto; row-gap: 8px; }
+  .ch-row {
+    grid-template-columns: 40px 1fr auto;
+    row-gap: 8px;
+    padding: 14px 16px;
+  }
   .ch-row .ch-link { display: none; }
 }
 
@@ -1456,13 +1473,13 @@ footer {
 
 /* ============================================================
    LEGENDS OF REN ZU COMPANION SECTION (END PAGE AREA)
-   Fits in one view — Frosted background in light & extremely dark
+   Fits in one view — Un-blurred visible mural in light & extremely dark
    ============================================================ */
 
 .companion-section {
   position: relative;
   background-color: #ffffff;
-  padding: 38px 0 30px;
+  padding: 42px 0 32px;
   overflow: hidden;
   border-top: 1px solid var(--line);
   min-height: calc(100vh - 64px);
@@ -1470,7 +1487,7 @@ footer {
   align-items: center;
 }
 
-/* Frosted background image layer (softly visible) */
+/* Background image layer — UN-BLURRED so artwork is clearly seen */
 .companion-section::before {
   content: "";
   position: absolute;
@@ -1479,19 +1496,17 @@ footer {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  opacity: 0.48;
-  filter: blur(2.5px) saturate(1.15);
+  opacity: 0.62;
+  filter: saturate(1.15) contrast(1.05);
   pointer-events: none;
 }
 
-/* Frosted glass overlay mask */
+/* Translucent overlay mask — NO blur filter, keeps artwork sharp & visible */
 .companion-section::after {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(255, 255, 255, 0.54);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
+  background: rgba(255, 255, 255, 0.42);
   pointer-events: none;
 }
 
@@ -1503,25 +1518,25 @@ footer {
 
 /* Compact Ren Zu Banner Card (fits in one view) */
 .renzu-banner {
-  background: rgba(255, 255, 255, 0.92);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
+  background: rgba(255, 255, 255, 0.94);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
   border: 1px solid rgba(220, 218, 210, 0.95);
   border-left: 4px solid var(--red);
   border-radius: 14px;
-  padding: 20px 26px;
+  padding: 22px 28px;
   display: grid;
-  grid-template-columns: 220px 1fr;
-  gap: 24px;
+  grid-template-columns: 230px 1fr;
+  gap: 26px;
   align-items: center;
-  box-shadow: 0 14px 40px rgba(23, 23, 26, 0.08);
-  margin-bottom: 18px;
+  box-shadow: 0 16px 44px rgba(23, 23, 26, 0.1);
+  margin-bottom: 20px;
   transition: transform 0.3s, box-shadow 0.3s, border-color 0.3s;
 }
 
 .renzu-banner:hover {
   transform: translateY(-2px);
-  box-shadow: 0 18px 48px rgba(23, 23, 26, 0.12);
+  box-shadow: 0 20px 52px rgba(23, 23, 26, 0.15);
   border-color: #d8d5cb;
 }
 
@@ -1531,11 +1546,11 @@ footer {
   position: relative;
   border-radius: 9px;
   overflow: hidden;
-  box-shadow: 0 6px 18px rgba(23, 23, 26, 0.12);
+  box-shadow: 0 6px 18px rgba(23, 23, 26, 0.14);
   border: 1px solid var(--line);
   aspect-ratio: 16 / 11;
   background: #000;
-  max-height: 180px;
+  max-height: 185px;
 }
 
 .renzu-art-img {
@@ -1611,7 +1626,7 @@ footer {
 }
 
 .renzu-banner-content .portal-title {
-  font-size: clamp(1.5rem, 2.4vw, 1.9rem);
+  font-size: clamp(1.5rem, 2.5vw, 2rem);
   font-weight: 800;
   color: var(--ink);
   letter-spacing: -0.015em;
@@ -1623,7 +1638,7 @@ footer {
   font-size: 13px;
   line-height: 1.55;
   color: var(--body);
-  margin-bottom: 10px;
+  margin-bottom: 11px;
 }
 
 .renzu-perks {
@@ -1652,40 +1667,57 @@ footer {
   margin-top: auto;
 }
 
-/* Companion Section Community Box */
-.companion-section .community-box {
-  background: rgba(255, 255, 255, 0.9);
+/* Companion Section Community Box with Logo on Left */
+.companion-section .community-box,
+.community-box {
+  background: rgba(255, 255, 255, 0.94);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border: 1px solid var(--line);
   border-radius: 12px;
   padding: 16px 22px;
-  box-shadow: 0 4px 18px rgba(23, 23, 26, 0.04);
+  box-shadow: 0 4px 18px rgba(23, 23, 26, 0.05);
   display: flex;
   align-items: center;
-  justify-content: space-between;
   gap: 20px;
-  flex-wrap: wrap;
 }
 
-.companion-section .community-info h3 {
-  font-size: 15px;
+.community-brand {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.community-logo {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(23, 23, 26, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  display: block;
+}
+
+.community-info {
+  flex: 1;
+  min-width: 220px;
+}
+.community-info h3 {
+  font-size: 15.5px;
   font-weight: 800;
   color: var(--ink);
   margin-bottom: 3px;
 }
-
-.companion-section .community-info p {
+.community-info p {
   font-size: 12.5px;
   color: var(--body);
   margin: 0;
-  max-width: 580px;
+  line-height: 1.5;
 }
 
 @media (max-width: 900px) {
   .companion-section {
     min-height: auto;
-    padding: 38px 0 30px;
+    padding: 40px 0 32px;
   }
   .renzu-banner {
     grid-template-columns: 1fr;
@@ -1695,16 +1727,20 @@ footer {
   .renzu-art-frame {
     max-height: 200px;
   }
-  .companion-section .community-box {
+  .community-box {
     flex-direction: column;
     align-items: flex-start;
+    gap: 14px;
+  }
+  .social-pills {
+    width: 100%;
   }
 }
 
 
 /* ============================================================
    EXTREMELY BLACK THEME & DYNAMIC THEME TOGGLE
-   Pure pitch black OLED background · High contrast · Frost
+   Pure pitch black OLED background · High contrast · Clear Mural
    ============================================================ */
 
 /* Theme Toggle Button */
@@ -1843,7 +1879,7 @@ footer {
   color: #b0aba0;
 }
 
-/* Chapters ledger in Dark mode */
+/* Chapters ledger in Dark mode — SQUIRCLES */
 [data-theme="obsidian"] .chapters {
   background: #040404;
   border-color: #1a1815;
@@ -1859,10 +1895,20 @@ footer {
   background: #171512;
 }
 [data-theme="obsidian"] .ch-row {
-  border-color: #1a1815;
+  background: #090807;
+  border-color: #1c1915;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 }
 [data-theme="obsidian"] .ch-row:hover {
-  background: #0d0c0a;
+  background: #12100d;
+  border-color: #332d24;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.7);
+}
+[data-theme="obsidian"] a.ch-row:hover {
+  border-color: var(--red);
+}
+[data-theme="obsidian"] .ch-name {
+  color: #ffffff;
 }
 
 /* Buttons in Dark mode */
@@ -1891,28 +1937,26 @@ footer {
   color: #8c8577;
 }
 
-/* Ren Zu Section in Dark mode (Extremely Black + Frost Mural Clearly Visible) */
+/* Ren Zu Section in Dark mode (Extremely Black + UN-BLURRED CLEAR MURAL) */
 [data-theme="obsidian"] .companion-section {
   background-color: #000000;
   border-top-color: #1a1815;
 }
 [data-theme="obsidian"] .companion-section::before {
-  opacity: 0.52;
-  filter: blur(2.5px) contrast(1.15) saturate(1.1);
+  opacity: 0.65;
+  filter: saturate(1.15) contrast(1.1);
 }
 [data-theme="obsidian"] .companion-section::after {
-  background: rgba(0, 0, 0, 0.65);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
+  background: rgba(0, 0, 0, 0.52);
 }
 [data-theme="obsidian"] .renzu-banner {
-  background: rgba(8, 8, 8, 0.88);
-  border-color: rgba(212, 163, 71, 0.28);
+  background: rgba(8, 8, 8, 0.92);
+  border-color: rgba(212, 163, 71, 0.3);
   border-left: 4px solid var(--red);
   box-shadow: 0 20px 60px rgba(0, 0, 0, 0.85);
 }
 [data-theme="obsidian"] .renzu-banner:hover {
-  border-color: rgba(212, 163, 71, 0.48);
+  border-color: rgba(212, 163, 71, 0.5);
 }
 [data-theme="obsidian"] .renzu-banner-content .portal-title {
   color: #ffffff;
@@ -1926,15 +1970,16 @@ footer {
 [data-theme="obsidian"] .renzu-perks li span {
   color: #d4a347;
 }
-[data-theme="obsidian"] .companion-section .community-box {
-  background: rgba(8, 8, 8, 0.88);
+[data-theme="obsidian"] .companion-section .community-box,
+[data-theme="obsidian"] .community-box {
+  background: rgba(8, 8, 8, 0.92);
   border-color: #1a1815;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
 }
-[data-theme="obsidian"] .companion-section .community-info h3 {
+[data-theme="obsidian"] .community-info h3 {
   color: #ffffff;
 }
-[data-theme="obsidian"] .companion-section .community-info p {
+[data-theme="obsidian"] .community-info p {
   color: #a8a398;
 }
 
