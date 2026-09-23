@@ -127,10 +127,57 @@ img { max-width: 100%; height: auto; display: block; }
   color: var(--ink);
 }
 @media (max-width: 860px) {
+  .nav-inner {
+    padding: 0 16px;
+    height: 56px;
+    gap: 10px;
+  }
+  .nav-logo {
+    gap: 8px;
+    min-width: 0;
+  }
+  .nav-logo-img {
+    width: 28px;
+    height: 28px;
+  }
+  .nav-logo .wordmark {
+    font-size: 11px;
+    letter-spacing: 0.08em;
+  }
+  .nav-logo .brand-sub {
+    display: none;
+  }
+  .nav-actions {
+    gap: 8px;
+    flex-shrink: 0;
+  }
+  .theme-toggle {
+    padding: 0;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .theme-toggle .toggle-text {
+    display: none;
+  }
+  .nav-burger {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    padding: 0;
+    font-size: 16px;
+    flex-shrink: 0;
+    border-radius: 8px;
+  }
   .nav-cta { display: none; }
   .nav-links {
     position: absolute;
-    top: 64px; left: 0; right: 0;
+    top: 56px; left: 0; right: 0;
     flex-direction: column;
     gap: 0;
     background: #fff;
@@ -140,7 +187,6 @@ img { max-width: 100%; height: auto; display: block; }
   .nav-links.open { display: flex; }
   .nav-links li { border-top: 1px solid var(--line); }
   .nav-links a { display: block; padding: 15px 28px; }
-  .nav-burger { display: block; }
 }
 
 /* ---------- hero / featured (balanced prestige proportions, zero cut-off) ---------- */
@@ -218,8 +264,10 @@ img { max-width: 100%; height: auto; display: block; }
 
 /* synopsis plate — compact book frontispiece */
 .synopsis-plate {
-  margin-top: 14px;
+  margin: 16px auto 0;
   max-width: 620px;
+  width: 100%;
+  box-sizing: border-box;
   border: 1px solid var(--line);
   background: #fff;
   padding: 16px 22px 14px;
@@ -408,6 +456,11 @@ img { max-width: 100%; height: auto; display: block; }
   .cover-card {
     margin: 0 auto;
     max-width: 210px;
+  }
+  .synopsis-plate {
+    margin: 16px auto 0;
+    max-width: 580px;
+    width: 100%;
   }
   .tags { justify-content: center; }
   .status-row { justify-content: center; }
@@ -777,26 +830,29 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 16px;
+  gap: 12px;
   margin-top: 18px;
 }
 .font-ctrls {
   display: inline-flex;
   align-items: center;
   gap: 4px;
-  background: #faf8f4;
+  background: var(--card);
   border: 1px solid var(--line);
-  border-radius: 999px;
-  padding: 3px 6px;
+  border-radius: 11px;
+  padding: 4px;
+  height: 42px;
+  box-sizing: border-box;
 }
 .font-btn {
   background: transparent;
   border: none;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 700;
   color: var(--body);
-  padding: 3px 9px;
-  border-radius: 999px;
+  padding: 0 11px;
+  height: 32px;
+  border-radius: 7px;
   cursor: pointer;
   transition: all 0.2s ease;
 }
@@ -805,13 +861,52 @@ footer {
   color: var(--ink);
   box-shadow: 0 1px 4px rgba(0,0,0,0.06);
 }
-.reader-hint {
-  font-size: 11.5px;
-  color: var(--muted);
-  display: flex;
+/* Gamepad-style Left & Right Navigation */
+.reader-gamepad {
+  display: inline-flex;
   align-items: center;
-  gap: 5px;
+  gap: 8px;
 }
+.gamepad-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 11px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  color: var(--ink);
+  font-size: 19px;
+  font-weight: 700;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  transition: all 0.2s cubic-bezier(0.2, 0.8, 0.2, 1);
+  user-select: none;
+  cursor: pointer;
+}
+.gamepad-btn:hover:not(.disabled) {
+  transform: translateY(-2px);
+  border-color: var(--red);
+  color: var(--red);
+  box-shadow: 0 6px 16px rgba(184, 51, 42, 0.16);
+  background: #ffffff;
+}
+.gamepad-btn:active:not(.disabled) {
+  transform: translateY(1px);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+.gamepad-btn.disabled {
+  opacity: 0.25;
+  cursor: not-allowed;
+  pointer-events: none;
+  box-shadow: none;
+  filter: grayscale(1);
+}
+
+/* Also support alias classes for backwards compatibility */
+.top-nav-ctrls { display: inline-flex; align-items: center; gap: 8px; }
+.nav-arrow-btn { composes: gamepad-btn; }
 .kbd {
   font-family: var(--sans);
   font-size: 10px;
@@ -821,6 +916,15 @@ footer {
   padding: 1px 5px;
   border-radius: 4px;
   color: var(--ink);
+}
+.chapter-body,
+.prose,
+.reader-head {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
 }
 .chapter-body {
   max-width: 700px;
@@ -2078,7 +2182,8 @@ footer {
 [data-theme="obsidian"] .reader-head .ch-title {
   color: #d4cfc2;
 }
-[data-theme="obsidian"] .font-ctrls {
+[data-theme="obsidian"] .font-ctrls,
+[data-theme="obsidian"] .gamepad-btn {
   background: #0d0c0a;
   border-color: #1f1c17;
 }
@@ -2086,6 +2191,15 @@ footer {
   color: #c9c4b7;
 }
 [data-theme="obsidian"] .font-btn:hover {
+  background: #1f1c17;
+  color: #ffffff;
+}
+[data-theme="obsidian"] .gamepad-btn:hover:not(.disabled) {
+  border-color: var(--red);
+  color: #ffffff;
+  background: #1b1915;
+  box-shadow: 0 6px 18px rgba(201, 42, 42, 0.28);
+
   background: #191713;
   color: #ffffff;
 }
@@ -2205,4 +2319,11 @@ footer {
 }
 [data-theme="obsidian"] .error-title {
   color: #ffffff !important;
+}
+
+/* Print protection: prevent Ctrl+P PDF scraping */
+@media print {
+  body {
+    display: none !important;
+  }
 }

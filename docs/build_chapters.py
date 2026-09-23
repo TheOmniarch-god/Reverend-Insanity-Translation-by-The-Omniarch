@@ -107,21 +107,21 @@ def make_chapter_html(ch, idx):
     # Previous Button (Bottom and Top)
     if idx == 0:
         prev_btn_bottom = '<a class="btn btn-ghost" href="index.html#chapters">← Chapters</a>'
-        top_prev_btn = '<a class="nav-arrow-btn" href="index.html#chapters" title="Back to Chapters">←</a>'
+        top_prev_btn = '<span class="gamepad-btn prev disabled" aria-disabled="true" title="First Chapter">←</span>'
     else:
         prev_num = chapters[idx - 1]["num"]
-        prev_btn_bottom = f'<a class="btn btn-ghost" href="chapter-{prev_num}.html">← Chapter {prev_num}</a>'
-        top_prev_btn = f'<a class="nav-arrow-btn" href="chapter-{prev_num}.html" title="Previous Chapter: Chapter {prev_num}">←</a>'
+        prev_btn_bottom = f'<a class="btn btn-ghost" href="chapter-{prev_num}">← Chapter {prev_num}</a>'
+        top_prev_btn = f'<a class="gamepad-btn prev" href="chapter-{prev_num}" title="Previous Chapter: Chapter {prev_num}">←</a>'
         
     # Next Button (Bottom and Top)
     if idx < total_chapters - 1:
         next_num = chapters[idx + 1]["num"]
-        next_btn_bottom = f'<a class="btn btn-primary" href="chapter-{next_num}.html">Chapter {next_num} →</a>'
-        top_next_btn = f'<a class="nav-arrow-btn" href="chapter-{next_num}.html" title="Next Chapter: Chapter {next_num}">→</a>'
+        next_btn_bottom = f'<a class="btn btn-primary" href="chapter-{next_num}">Chapter {next_num} →</a>'
+        top_next_btn = f'<a class="gamepad-btn next" href="chapter-{next_num}" title="Next Chapter: Chapter {next_num}">→</a>'
     else:
         upcoming_num = ch["num"] + 1
         next_btn_bottom = f'<a class="btn btn-primary" aria-disabled="true" style="pointer-events:none;opacity:.45">Chapter {upcoming_num} · In Progress</a>'
-        top_next_btn = '<span class="nav-arrow-btn disabled" aria-disabled="true" title="No later chapter published yet">→</span>'
+        top_next_btn = '<span class="gamepad-btn next disabled" aria-disabled="true" title="No later chapter published yet">→</span>'
         
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -134,7 +134,9 @@ def make_chapter_html(ch, idx):
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,500;1,600&family=Playfair+Display:ital,wght@0,700;0,800;1,500;1,700&family=Noto+Sans+SC:wght@400;500;700;900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css?v=20260923e">
+<link rel="icon" href="favicon.ico" sizes="any">
 <link rel="icon" href="logo-circle.png" type="image/png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <script>
   (function() {{
     var saved = localStorage.getItem('theme');
@@ -165,24 +167,16 @@ def make_chapter_html(ch, idx):
     <ul class="nav-links">
       <li><a href="index.html">Home</a></li>
       <li><a href="index.html#chapters">Chapters</a></li>
-      <li><a href="about.html">About</a></li>
-      <li><a href="support.html">Support</a></li>
+      <li><a href="about">About</a></li>
+      <li><a href="support">Support</a></li>
       <li><a href="https://discord.gg/UgwTKn4sQf" target="_blank" rel="noopener">Discord</a></li>
     </ul>
   </div>
 </nav>
 
 <header class="reader-head">
-  <a class="back" href="index.html#chapters">← Back to Chapters</a>
   <h1>Chapter {ch["num"]}</h1>
   <p class="ch-title">{ch["title"]}</p>
-  <div class="tags chapter-tags">
-    <span>Xianxia</span>
-    <span>Martial Arts</span>
-    <span>Reincarnation</span>
-    <span>Action</span>
-    <span>Drama</span>
-  </div>
   <div class="ch-meta-row">
     <span class="ch-meta-item">Volume 1 · The Demonic Nature Never Changes <span class="cjk">魔性不改</span></span>
     <span class="ch-meta-sep">·</span>
@@ -193,14 +187,13 @@ def make_chapter_html(ch, idx):
     <span class="ch-meta-item">~{ch["mins"]} min read</span>
   </div>
   <div class="reader-toolbar">
-    <div class="font-ctrls">
+    <div class="font-ctrls" aria-label="Font size controls">
       <button class="font-btn" id="fontDec" title="Decrease font size" aria-label="Decrease font size">A−</button>
       <button class="font-btn" id="fontInc" title="Increase font size" aria-label="Increase font size">A+</button>
     </div>
-    <div class="top-nav-ctrls">
+    <div class="reader-gamepad" aria-label="Chapter navigation">
       {top_prev_btn}
       {top_next_btn}
-      <span class="reader-hint">navigate</span>
     </div>
   </div>
 </header>

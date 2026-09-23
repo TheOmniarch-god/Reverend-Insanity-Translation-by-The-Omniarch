@@ -8,8 +8,10 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,500;1,600&family=Playfair+Display:ital,wght@0,700;0,800;1,500;1,700&family=Noto+Sans+SC:wght@400;500;700;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=20260923g">
+<link rel="stylesheet" href="style.css?v=20260923L">
+<link rel="icon" href="favicon.ico" sizes="any">
 <link rel="icon" href="logo-circle.png" type="image/png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <script>
   (function() {
     var saved = localStorage.getItem('theme');
@@ -40,24 +42,16 @@
     <ul class="nav-links">
       <li><a href="index.html">Home</a></li>
       <li><a href="index.html#chapters">Chapters</a></li>
-      <li><a href="about.html">About</a></li>
-      <li><a href="support.html">Support</a></li>
+      <li><a href="about">About</a></li>
+      <li><a href="support">Support</a></li>
       <li><a href="https://discord.gg/UgwTKn4sQf" target="_blank" rel="noopener">Discord</a></li>
     </ul>
   </div>
 </nav>
 
 <header class="reader-head">
-  <a class="back" href="index.html#chapters">← Back to Chapters</a>
   <h1>Chapter 3</h1>
   <p class="ch-title">Kindly Go Play With Your Own Balls</p>
-  <div class="tags chapter-tags">
-    <span>Xianxia</span>
-    <span>Martial Arts</span>
-    <span>Reincarnation</span>
-    <span>Action</span>
-    <span>Drama</span>
-  </div>
   <div class="ch-meta-row">
     <span class="ch-meta-item">Volume 1 · The Demonic Nature Never Changes <span class="cjk">魔性不改</span></span>
     <span class="ch-meta-sep">·</span>
@@ -68,14 +62,13 @@
     <span class="ch-meta-item">~7 min read</span>
   </div>
   <div class="reader-toolbar">
-    <div class="font-ctrls">
+    <div class="font-ctrls" aria-label="Font size controls">
       <button class="font-btn" id="fontDec" title="Decrease font size" aria-label="Decrease font size">A−</button>
       <button class="font-btn" id="fontInc" title="Increase font size" aria-label="Increase font size">A+</button>
     </div>
-    <div class="top-nav-ctrls">
-      <a class="nav-arrow-btn" href="chapter-2.html" title="Previous Chapter: Chapter 2">←</a>
-      <span class="nav-arrow-btn disabled" aria-disabled="true" title="No later chapter published yet">→</span>
-      <span class="reader-hint">navigate</span>
+    <div class="reader-gamepad" aria-label="Chapter navigation">
+      <a class="gamepad-btn prev" href="chapter-2" title="Previous Chapter: Chapter 2">←</a>
+      <span class="gamepad-btn next disabled" aria-disabled="true" title="No later chapter published yet">→</span>
     </div>
   </div>
 </header>
@@ -135,7 +128,7 @@
 </main>
 
 <nav class="chapter-nav">
-  <a class="btn btn-ghost" href="chapter-2.html">← Chapter 2</a>
+  <a class="btn btn-ghost" href="chapter-2">← Chapter 2</a>
   <a class="btn btn-primary" aria-disabled="true" style="pointer-events:none;opacity:.45">Chapter 4 · In Progress</a>
 </nav>
 

@@ -1,3 +1,10 @@
+  // Silently remove .html from browser address bar
+  if (window.location.pathname.endsWith(".html")) {
+    var clean = window.location.pathname.replace(/\/index\.html$/, "/").replace(/\.html$/, "");
+    if (!clean) clean = "/";
+    window.history.replaceState(null, "", clean + window.location.search + window.location.hash);
+  }
+
 // Reverend Insanity — The Omniarch Translation
 document.addEventListener("DOMContentLoaded", function () {
   // nav shadow on scroll
@@ -135,6 +142,55 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
+
+  
+  // Anti-theft & copy protection on chapter reader pages
+  var readerBody = document.querySelector(".chapter-body");
+  if (readerBody) {
+    // 1. Disable context menu (right-click)
+    document.addEventListener("contextmenu", function (e) {
+      e.preventDefault();
+      return false;
+    });
+
+    // 2. Disable text selection and dragging
+    document.addEventListener("selectstart", function (e) {
+      e.preventDefault();
+      return false;
+    });
+    document.addEventListener("dragstart", function (e) {
+      e.preventDefault();
+      return false;
+    });
+
+    // 3. Clear and intercept copy / cut
+    document.addEventListener("copy", function (e) {
+      e.preventDefault();
+      if (e.clipboardData) {
+        e.clipboardData.setData("text/plain", "");
+      }
+      return false;
+    });
+    document.addEventListener("cut", function (e) {
+      e.preventDefault();
+      return false;
+    });
+
+    // 4. Block common copy & inspect shortcuts (Ctrl/Cmd + C, A, U, S, P, F12)
+    document.addEventListener("keydown", function (e) {
+      var isMac = navigator.platform.toUpperCase().indexOf("MAC") >= 0;
+      var ctrl = isMac ? e.metaKey : e.ctrlKey;
+      var key = e.key ? e.key.toLowerCase() : "";
+      if (ctrl && (key === "c" || key === "a" || key === "u" || key === "s" || key === "p")) {
+        e.preventDefault();
+        return false;
+      }
+      if (e.key === "F12") {
+        e.preventDefault();
+        return false;
+      }
+    });
+  }
 
     // footer year
   var y = document.querySelector(".year");
