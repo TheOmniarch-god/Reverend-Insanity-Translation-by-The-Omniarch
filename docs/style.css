@@ -256,7 +256,7 @@ img { max-width: 100%; height: auto; display: block; }
 /* ---------- hero / featured (balanced prestige proportions, zero cut-off) ---------- */
 
 .hero {
-  padding: 72px 0 22px;
+  padding: 44px 0 48px;
   min-height: calc(100vh - 64px);
   display: flex;
   align-items: center;
@@ -274,7 +274,8 @@ img { max-width: 100%; height: auto; display: block; }
   border: 1px solid #e2e0d8;
   background: #fff;
   box-shadow: 0 16px 42px rgba(23, 23, 26, 0.13);
-  transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.4s;
+  transition: transform 0.25s ease-out, box-shadow 0.4s;
+  will-change: transform;
   max-width: 272px;
 }
 .cover-card img {
@@ -328,8 +329,8 @@ img { max-width: 100%; height: auto; display: block; }
 
 /* synopsis plate — compact book frontispiece */
 .synopsis-plate {
-  margin: 16px auto 0;
-  max-width: 620px;
+  margin: 18px 0 0;
+  max-width: none;
   width: 100%;
   box-sizing: border-box;
   border: 1px solid var(--line);
@@ -2225,7 +2226,7 @@ html.rf-spectral .chapter-body {
 [data-theme="obsidian"] .nav-burger {
   color: #ffffff;
 }
-[data-theme="obsidian"] .nav-links {
+[data-theme="obsidian"] .nav-links.open {
   background: #0d0c0a;
   border-color: #1f1c17;
   box-shadow: 0 12px 32px rgba(0,0,0,0.6);

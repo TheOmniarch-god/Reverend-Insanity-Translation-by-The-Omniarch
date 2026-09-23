@@ -61,6 +61,41 @@ document.addEventListener("DOMContentLoaded", function () {
     reveals.forEach(function (el) { el.classList.add("in"); });
   }
 
+  // Gentle 3D proximity tilt on the homepage cover (desktop pointers only)
+  var coverCard = document.querySelector(".cover-card");
+  if (coverCard && window.matchMedia && window.matchMedia("(pointer: fine)").matches) {
+    var tiltZone = coverCard.closest(".hero") || document.body;
+    var tiltAnchor = coverCard.parentElement || coverCard;
+    var tX = 0, tY = 0, tiltRaf = null;
+    var renderTilt = function () {
+      tiltRaf = null;
+      coverCard.style.transform =
+        "perspective(1100px) rotateX(" + tX.toFixed(2) + "deg) rotateY(" + tY.toFixed(2) + "deg)";
+    };
+    var queueTilt = function () {
+      if (!tiltRaf) tiltRaf = requestAnimationFrame(renderTilt);
+    };
+    tiltZone.addEventListener("mousemove", function (e) {
+      var r = tiltAnchor.getBoundingClientRect();
+      var cx = r.left + r.width / 2;
+      var cy = r.top + r.height / 2;
+      var px = e.clientX - cx;
+      var py = e.clientY - cy;
+      var dist = Math.sqrt(px * px + py * py);
+      var influence = Math.max(0, 1 - dist / 720);
+      var nx = Math.max(-1, Math.min(1, px / 240));
+      var ny = Math.max(-1, Math.min(1, py / 240));
+      tY = nx * 9 * influence;
+      tX = -ny * 7 * influence;
+      queueTilt();
+    });
+    tiltZone.addEventListener("mouseleave", function () {
+      tX = 0;
+      tY = 0;
+      queueTilt();
+    });
+  }
+
   // reading progress bar (chapter pages)
   var bar = document.querySelector(".progress");
   if (bar) {

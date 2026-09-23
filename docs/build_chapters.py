@@ -22,7 +22,7 @@ import zipfile
 WORKSPACE = '/home/user/reverend-insanity'
 DOCS_DIR = '/home/user/gh-deploy/docs'
 DEPLOY_DIR = '/home/user/gh-deploy'
-MD_PATH = '/home/user/uploads/Reverend_Insanity_Chapters_1–3 (1).md'
+MD_PATH = '/home/user/uploads/Reverend_Insanity_Chapters_1–3 (3).md'
 
 with open(MD_PATH, 'r', encoding='utf-8') as f:
     full_text = f.read()
@@ -133,7 +133,7 @@ def make_chapter_html(ch, idx):
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,500;1,600&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400..500&family=Noto+Sans+SC:wght@400;500;700;900&family=Playfair+Display:ital,wght@0,700;0,800;1,500;1,700&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=20260923P">
+<link rel="stylesheet" href="style.css?v=20260923Q">
 <link rel="icon" href="favicon.ico" sizes="any">
 <link rel="icon" href="logo-circle.png" type="image/png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -182,7 +182,7 @@ def make_chapter_html(ch, idx):
   <h1>Chapter {ch["num"]}</h1>
   <p class="ch-title">{ch["title"]}</p>
   <div class="ch-meta-row">
-    <span class="ch-meta-item">Volume 1 · The Demonic Nature Never Changes</span>
+    <span class="ch-meta-item">Volume 1 · Demonic Nature Never Changes</span>
     <span class="ch-meta-sep">·</span>
     <span class="ch-meta-item">Translator: <strong>The Omniarch</strong></span>
     <span class="ch-meta-sep">·</span>
@@ -261,7 +261,7 @@ def make_chapter_html(ch, idx):
   </div>
 </footer>
 
-<script src="app.js?v=20260923P"></script>
+<script src="app.js?v=20260923Q"></script>
 </body>
 </html>
 """
