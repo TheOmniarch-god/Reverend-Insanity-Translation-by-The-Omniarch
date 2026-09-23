@@ -5,8 +5,11 @@ Parses .md manuscripts into atelier-styled HTML chapters with:
 - Playfair Display poem blocks
 - Semantic <em> and <strong> detection
 - Scene-break formatting
+- Capitalized title formatting
+- Genre tags in chapter header
+- Clickable top navigation buttons + keyboard arrow navigation
 - Word counts & estimated reading times
-- Reader font size switcher & Arrow-key navigation
+- Reader font size switcher
 - Automatic index.html squircle ledger updating
 - Deployment zip packaging
 """
@@ -23,6 +26,19 @@ MD_PATH = '/home/user/uploads/Reverend_Insanity_Chapters_1–3.md'
 
 with open(MD_PATH, 'r', encoding='utf-8') as f:
     full_text = f.read()
+
+def capitalize_title(title_str):
+    # Capitalize every single word per user request ("Capitalize each word for the title")
+    words = title_str.split()
+    capitalized = []
+    for w in words:
+        if w.startswith('“') or w.startswith('"'):
+            # handle leading quote
+            w = w[0] + w[1:].capitalize()
+        else:
+            w = w.capitalize()
+        capitalized.append(w)
+    return " ".join(capitalized)
 
 def parse_markdown_prose(text):
     paragraphs = text.strip().split('\n\n')
@@ -68,7 +84,8 @@ for i in range(1, len(c_splits), 2):
     
     num_match = re.match(r'Chapter (\d+):\s*(.+)', header)
     num = int(num_match.group(1))
-    title = num_match.group(2).strip()
+    raw_title = num_match.group(2).strip()
+    title = capitalize_title(raw_title)
     
     words = len(body.split())
     mins = max(1, round(words / 220))
@@ -87,20 +104,24 @@ total_chapters = len(chapters)
 def make_chapter_html(ch, idx):
     prose_html = parse_markdown_prose(ch["body"])
     
-    # Previous Button
+    # Previous Button (Bottom and Top)
     if idx == 0:
-        prev_btn = '<a class="btn btn-ghost" href="index.html#chapters">← Chapters</a>'
+        prev_btn_bottom = '<a class="btn btn-ghost" href="index.html#chapters">← Chapters</a>'
+        top_prev_btn = '<a class="nav-arrow-btn" href="index.html#chapters" title="Back to Chapters">←</a>'
     else:
         prev_num = chapters[idx - 1]["num"]
-        prev_btn = f'<a class="btn btn-ghost" href="chapter-{prev_num}.html">← Chapter {prev_num}</a>'
+        prev_btn_bottom = f'<a class="btn btn-ghost" href="chapter-{prev_num}.html">← Chapter {prev_num}</a>'
+        top_prev_btn = f'<a class="nav-arrow-btn" href="chapter-{prev_num}.html" title="Previous Chapter: Chapter {prev_num}">←</a>'
         
-    # Next Button
+    # Next Button (Bottom and Top)
     if idx < total_chapters - 1:
         next_num = chapters[idx + 1]["num"]
-        next_btn = f'<a class="btn btn-primary" href="chapter-{next_num}.html">Chapter {next_num} →</a>'
+        next_btn_bottom = f'<a class="btn btn-primary" href="chapter-{next_num}.html">Chapter {next_num} →</a>'
+        top_next_btn = f'<a class="nav-arrow-btn" href="chapter-{next_num}.html" title="Next Chapter: Chapter {next_num}">→</a>'
     else:
         upcoming_num = ch["num"] + 1
-        next_btn = f'<a class="btn btn-primary" aria-disabled="true" style="pointer-events:none;opacity:.45">Chapter {upcoming_num} · In Progress</a>'
+        next_btn_bottom = f'<a class="btn btn-primary" aria-disabled="true" style="pointer-events:none;opacity:.45">Chapter {upcoming_num} · In Progress</a>'
+        top_next_btn = '<span class="nav-arrow-btn disabled" aria-disabled="true" title="No later chapter published yet">→</span>'
         
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -108,11 +129,11 @@ def make_chapter_html(ch, idx):
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Chapter {ch["num"]}: {ch["title"]} — Reverend Insanity | The Omniarch Translation</title>
-<meta name="description" content="Chapter {ch["num"]} of Reverend Insanity, translated by The Omniarch Translation. {ch['words']} words · ~{ch['mins']} min read.">
+<meta name="description" content="Chapter {ch["num"]} of Reverend Insanity, translated by The Omniarch. {ch['words']} words · ~{ch['mins']} min read.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,500;1,600&family=Playfair+Display:ital,wght@0,700;0,800;1,500;1,700&family=Noto+Sans+SC:wght@400;500;700;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=20260922i">
+<link rel="stylesheet" href="style.css?v=20260923e">
 <link rel="icon" href="logo-circle.png" type="image/png">
 <script>
   (function() {{
@@ -131,7 +152,7 @@ def make_chapter_html(ch, idx):
   <div class="nav-inner">
     <a class="nav-logo" href="index.html">
       <img class="nav-logo-img" src="logo-circle.png" width="32" height="32" alt="The Omniarch Translation logo">
-      <span class="wordmark">The Omniarch Translation</span>
+      <span class="wordmark"><span class="brand-name">The Omniarch</span><span class="brand-sub"> Translation</span></span>
     </a>
     <div class="nav-actions">
       <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme" title="Toggle theme">
@@ -142,7 +163,7 @@ def make_chapter_html(ch, idx):
       <button class="nav-burger" aria-label="Menu">☰</button>
     </div>
     <ul class="nav-links">
-      <li><a href="index.html#featured">The Novel</a></li>
+      <li><a href="index.html">Home</a></li>
       <li><a href="index.html#chapters">Chapters</a></li>
       <li><a href="about.html">About</a></li>
       <li><a href="support.html">Support</a></li>
@@ -155,8 +176,17 @@ def make_chapter_html(ch, idx):
   <a class="back" href="index.html#chapters">← Back to Chapters</a>
   <h1>Chapter {ch["num"]}</h1>
   <p class="ch-title">{ch["title"]}</p>
+  <div class="tags chapter-tags">
+    <span>Xianxia</span>
+    <span>Martial Arts</span>
+    <span>Reincarnation</span>
+    <span>Action</span>
+    <span>Drama</span>
+  </div>
   <div class="ch-meta-row">
     <span class="ch-meta-item">Volume 1 · The Demonic Nature Never Changes <span class="cjk">魔性不改</span></span>
+    <span class="ch-meta-sep">·</span>
+    <span class="ch-meta-item">Translator: <strong>The Omniarch</strong></span>
     <span class="ch-meta-sep">·</span>
     <span class="ch-meta-item">{ch["words"]:,} words</span>
     <span class="ch-meta-sep">·</span>
@@ -167,7 +197,11 @@ def make_chapter_html(ch, idx):
       <button class="font-btn" id="fontDec" title="Decrease font size" aria-label="Decrease font size">A−</button>
       <button class="font-btn" id="fontInc" title="Increase font size" aria-label="Increase font size">A+</button>
     </div>
-    <span class="reader-hint"><span class="kbd">←</span> <span class="kbd">→</span> navigate</span>
+    <div class="top-nav-ctrls">
+      {top_prev_btn}
+      {top_next_btn}
+      <span class="reader-hint">navigate</span>
+    </div>
   </div>
 </header>
 
@@ -179,8 +213,8 @@ def make_chapter_html(ch, idx):
 </main>
 
 <nav class="chapter-nav">
-  {prev_btn}
-  {next_btn}
+  {prev_btn_bottom}
+  {next_btn_bottom}
 </nav>
 
 <footer>
@@ -208,7 +242,7 @@ for idx, ch in enumerate(chapters):
     html = make_chapter_html(ch, idx)
     with open(ch["file"], 'w', encoding='utf-8') as f:
         f.write(html)
-    print(f"Generated {ch['file']} (Chapter {ch['num']}: {ch['words']:,} words)")
+    print(f"Generated {ch['file']} (Chapter {ch['num']}: {ch['title']})")
 
 # Update chapter-001 and chapter-002 for legacy compatibility
 shutil.copy2('/home/user/reverend-insanity/chapter-1.html', '/home/user/reverend-insanity/chapter-001.html')
