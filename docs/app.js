@@ -84,6 +84,57 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
+
+  // Chapter keyboard navigation (ArrowLeft = previous, ArrowRight = next)
+  document.addEventListener("keydown", function (e) {
+    if (e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA" || e.isComposing) return;
+    if (e.key === "ArrowLeft") {
+      var prevBtn = document.querySelector(".chapter-nav .btn-ghost[href]");
+      if (prevBtn && prevBtn.getAttribute("href") && prevBtn.getAttribute("href") !== "#") {
+        window.location.href = prevBtn.href;
+      }
+    } else if (e.key === "ArrowRight") {
+      var nextBtn = document.querySelector(".chapter-nav .btn-primary[href]");
+      if (nextBtn && nextBtn.getAttribute("href") && nextBtn.getAttribute("href") !== "#" && !nextBtn.getAttribute("aria-disabled")) {
+        window.location.href = nextBtn.href;
+      }
+    }
+  });
+
+  // Reader font-size adjustment with persistence
+  var proseEl = document.querySelector(".chapter-body .prose");
+  var fontDec = document.getElementById("fontDec");
+  var fontInc = document.getElementById("fontInc");
+  var fontSizes = [15, 17, 19, 21, 23];
+  
+  function applyFontSize(size) {
+    if (proseEl) {
+      proseEl.style.fontSize = size + "px";
+      proseEl.style.lineHeight = (size >= 19 ? "1.9" : "1.95");
+      localStorage.setItem("readerFontSize", size);
+    }
+  }
+
+  if (proseEl) {
+    var savedSize = parseInt(localStorage.getItem("readerFontSize") || "17", 10);
+    if (savedSize !== 17) applyFontSize(savedSize);
+    
+    if (fontDec && fontInc) {
+      fontDec.addEventListener("click", function () {
+        var current = parseInt(localStorage.getItem("readerFontSize") || "17", 10);
+        var idx = fontSizes.indexOf(current);
+        if (idx === -1) idx = 1;
+        if (idx > 0) applyFontSize(fontSizes[idx - 1]);
+      });
+      fontInc.addEventListener("click", function () {
+        var current = parseInt(localStorage.getItem("readerFontSize") || "17", 10);
+        var idx = fontSizes.indexOf(current);
+        if (idx === -1) idx = 1;
+        if (idx < fontSizes.length - 1) applyFontSize(fontSizes[idx + 1]);
+      });
+    }
+  }
+
   // footer year
   var y = document.querySelector(".year");
   if (y) y.textContent = new Date().getFullYear();
