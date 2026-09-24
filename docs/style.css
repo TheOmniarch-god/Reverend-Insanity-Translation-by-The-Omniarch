@@ -2511,3 +2511,55 @@ html.rf-spectral .chapter-body {
     display: none !important;
   }
 }
+
+/* ---------- search ---------- */
+.search-wrap { max-width: 760px; margin: 0 auto; padding: 40px 22px 90px; }
+.search-kicker { font-size: 11px; letter-spacing: 0.3em; text-transform: uppercase; color: var(--red); font-weight: 800; }
+.search-head h1 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: clamp(28px, 4.5vw, 40px); font-weight: 800;
+  color: var(--ink); margin: 8px 0 6px;
+}
+.search-sub { color: var(--muted); font-size: 14px; margin-bottom: 22px; line-height: 1.7; }
+.search-bar { display: flex; gap: 10px; }
+.search-input {
+  flex: 1; font-family: var(--sans); font-size: 15px; color: var(--ink);
+  background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+  padding: 13px 16px; outline: none; transition: border-color .2s;
+}
+.search-input:focus { border-color: var(--red); }
+.search-chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.search-chip {
+  font-family: var(--sans); font-size: 11.5px; font-weight: 600; color: var(--muted);
+  background: transparent; border: 1px solid var(--line); border-radius: 99px;
+  padding: 6px 12px; cursor: pointer; transition: all .15s ease;
+}
+.search-chip:hover { color: var(--red); border-color: var(--red); }
+.search-count { font-size: 12px; color: var(--muted); margin: 18px 2px 10px; }
+.search-results { display: flex; flex-direction: column; gap: 12px; }
+.sr-card {
+  display: block; background: var(--card); border: 1px solid var(--line);
+  border-radius: 12px; padding: 14px 18px; transition: border-color .2s, transform .2s;
+}
+.sr-card:hover { border-color: var(--red); transform: translateY(-1px); }
+.sr-meta {
+  font-family: var(--sans); font-size: 10.5px; font-weight: 800;
+  letter-spacing: 0.14em; text-transform: uppercase; color: var(--red); margin-bottom: 6px;
+}
+.sr-text { font-size: 14px; line-height: 1.7; color: var(--body); }
+.sr-text mark { background: rgba(155,28,28,0.14); color: var(--ink); border-radius: 3px; padding: 0 2px; }
+.search-empty { text-align: center; color: var(--muted); padding: 40px 0; font-size: 14px; }
+[data-theme="obsidian"] .search-input { background: #0d0c0a; border-color: #1f1c17; color: #e8e3d8; }
+[data-theme="obsidian"] .sr-card { background: #0d0c0a; border-color: #1f1c17; }
+[data-theme="obsidian"] .sr-text mark { background: rgba(216,180,90,0.25); color: #f0e6c8; }
+
+/* Deep-link flash when arriving from a search hit */
+.chapter-body p, .chapter-body .prose-poem { scroll-margin-top: 84px; }
+.chapter-body p:target, .chapter-body .prose-poem:target {
+  animation: hitFlash 2.2s ease;
+  border-radius: 6px;
+}
+@keyframes hitFlash {
+  0% { background: rgba(155,28,28,0.18); box-shadow: 0 0 0 6px rgba(155,28,28,0.18); }
+  100% { background: transparent; box-shadow: 0 0 0 6px transparent; }
+}

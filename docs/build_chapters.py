@@ -22,10 +22,16 @@ import zipfile
 WORKSPACE = '/home/user/reverend-insanity'
 DOCS_DIR = '/home/user/gh-deploy/docs'
 DEPLOY_DIR = '/home/user/gh-deploy'
-MD_PATH = '/home/user/uploads/Reverend_Insanity_Chapters_1–3 (3).md'
+MD_PATH = '/home/user/uploads/Reverend_Insanity_Chapters_1–3.md'
+MD_PATH_4 = '/home/user/uploads/Reverend_Insanity_Chapter_4_Master_Translation.md'
 
-with open(MD_PATH, 'r', encoding='utf-8') as f:
-    full_text = f.read()
+full_text = ''
+for _md in (MD_PATH, MD_PATH_4):
+    with open(_md, 'r', encoding='utf-8') as f:
+        full_text += f.read() + '\n\n'
+
+# Drop top-level "# ..." heading lines (volume banners) before chapter splitting
+full_text = re.sub(r'(?m)^#[^#][^\n]*\n?', '', full_text)
 
 def capitalize_title(title_str):
     # Capitalize every single word per user request ("Capitalize each word for the title")
@@ -40,38 +46,48 @@ def capitalize_title(title_str):
         capitalized.append(w)
     return " ".join(capitalized)
 
+SEARCH_PARAS = []  # (chapter_num, para_id, plain_text) — filled during generation
+_current_chapter = [0]
+
 def parse_markdown_prose(text):
     paragraphs = text.strip().split('\n\n')
     html_paragraphs = []
-    
+    pid = 0
+
     for p in paragraphs:
         p_str = p.strip()
         if not p_str:
             continue
-            
+        pid += 1
+        anchor = f' id="p{pid}"'
+
         # Check for poem block
         if p_str.startswith('*“Green mountains') or p_str.startswith('“Green mountains'):
             lines = [l.strip().strip('*').rstrip('\\').strip() for l in p_str.split('\n') if l.strip()]
             poem_content = "<br>\n      ".join(lines)
-            html_paragraphs.append(f'<blockquote class="prose-poem">\n      <p><em>{poem_content}</em></p>\n    </blockquote>')
+            html_paragraphs.append(f'<blockquote class="prose-poem"{anchor}>\n      <p><em>{poem_content}</em></p>\n    </blockquote>')
+            SEARCH_PARAS.append((_current_chapter[0], pid, ' '.join(lines)))
             continue
-            
+
         # Check for scene break
         if p_str in ['……', '…', '---', '***']:
-            html_paragraphs.append('<p class="scene-break">……</p>')
+            html_paragraphs.append(f'<p class="scene-break"{anchor}>……</p>')
             continue
-            
+
         # Process inline markdown
         # 1. Bold: **text**
         p_formatted = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', p_str)
         # 2. Italic: *text*
         p_formatted = re.sub(r'\*(.+?)\*', r'<em>\1</em>', p_formatted)
-        
+
         # Replace intra-paragraph single newlines with space
         p_formatted = p_formatted.replace('\n', ' ')
-        
-        html_paragraphs.append(f'<p>{p_formatted}</p>')
-        
+
+        plain = re.sub(r'\*\*?', '', p_str).replace('\n', ' ')
+        SEARCH_PARAS.append((_current_chapter[0], pid, plain))
+
+        html_paragraphs.append(f'<p{anchor}>{p_formatted}</p>')
+
     return "\n    ".join(html_paragraphs)
 
 # Extract chapters
@@ -102,6 +118,7 @@ for i in range(1, len(c_splits), 2):
 total_chapters = len(chapters)
 
 def make_chapter_html(ch, idx):
+    _current_chapter[0] = ch["num"]
     prose_html = parse_markdown_prose(ch["body"])
     
     # Previous Button (Bottom and Top)
@@ -133,7 +150,7 @@ def make_chapter_html(ch, idx):
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,500;1,600&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400..500&family=Noto+Sans+SC:wght@400;500;700;900&family=Playfair+Display:ital,wght@0,700;0,800;1,500;1,700&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=20260923Q">
+<link rel="stylesheet" href="style.css?v=20260923S">
 <link rel="icon" href="favicon.ico" sizes="any">
 <link rel="icon" href="logo-circle.png" type="image/png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -171,6 +188,7 @@ def make_chapter_html(ch, idx):
     <ul class="nav-links">
       <li><a href="index.html">Home</a></li>
       <li><a href="index.html#chapters">Chapters</a></li>
+      <li><a href="search">Search</a></li>
       <li><a href="about">About</a></li>
       <li><a href="support">Support</a></li>
       <li><a href="https://discord.gg/UgwTKn4sQf" target="_blank" rel="noopener">Discord</a></li>
@@ -261,7 +279,7 @@ def make_chapter_html(ch, idx):
   </div>
 </footer>
 
-<script src="app.js?v=20260923Q"></script>
+<script src="app.js?v=20260923S"></script>
 </body>
 </html>
 """
@@ -275,5 +293,15 @@ for idx, ch in enumerate(chapters):
 # Update chapter-001 and chapter-002 for legacy compatibility
 shutil.copy2('/home/user/reverend-insanity/chapter-1.html', '/home/user/reverend-insanity/chapter-001.html')
 shutil.copy2('/home/user/reverend-insanity/chapter-2.html', '/home/user/reverend-insanity/chapter-002.html')
+
+# Emit the client-side search index
+import json
+search_doc = {
+    "chapters": [{"num": c["num"], "title": c["title"], "words": c["words"]} for c in chapters],
+    "paras": [{"c": c, "p": p, "t": t} for (c, p, t) in SEARCH_PARAS],
+}
+with open(os.path.join(WORKSPACE, 'search-index.json'), 'w', encoding='utf-8') as f:
+    json.dump(search_doc, f, ensure_ascii=False, separators=(',', ':'))
+print(f"search-index.json: {len(search_doc['paras'])} paragraphs across {len(search_doc['chapters'])} chapters")
 
 print("Build complete!")
