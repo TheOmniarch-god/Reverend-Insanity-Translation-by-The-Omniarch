@@ -49,7 +49,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Noto+Sans+SC:wght@400&family=Playfair+Display:ital,wght@0,700;0,800;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=20260926-138665af">
+<link rel="stylesheet" href="style.css?v=20260926-032b217c">
 <link rel="icon" href="favicon.ico" sizes="32x32">
 <link rel="icon" href="icon-48.png" type="image/png" sizes="48x48">
 <link rel="icon" href="icon-192.png" type="image/png" sizes="192x192">
@@ -74,7 +74,7 @@
 
 <nav class="nav">
   <div class="nav-inner">
-    <a class="nav-logo" href="index.html">
+    <a class="nav-logo" href="./">
       <img class="nav-logo-img"  src="logo-circle.png" width="30" height="30" alt="The Omniarch logo" loading="lazy" decoding="async">
       <span class="wordmark"><span class="brand-name">The Omniarch</span><span class="brand-sub"> Translation</span></span>
     </a>
@@ -87,7 +87,7 @@
       <button class="nav-burger" aria-label="Menu">☰</button>
     </div>
     <ul class="nav-links">
-      <li><a href="index.html">Home</a></li>
+      <li><a href="./">Home</a></li>
       <li><a href="#chapters">Chapters</a></li>
       <li><a href="search">Search</a></li>
       <li><a href="about">About</a></li>
@@ -102,7 +102,7 @@
 <section class="hero" id="featured">
   <div class="wrap hero-grid">
     <figure class="cover-card reveal">
-      <img  src="cover.jpg" alt="Reverend Insanity — cover art by The Omniarch" width="1080" height="1440" loading="lazy" decoding="async">
+      <img fetchpriority="high" src="cover.jpg?v=20260926-032b217c" alt="Reverend Insanity — official cover art" width="1080" height="1440">
     </figure>
 
     <div class="hero-copy">
@@ -117,7 +117,6 @@
         <span>Drama</span>
       </div>
       <div class="synopsis-plate reveal d2">
-        <span class="plate-diamond" aria-hidden="true"></span>
         <p class="plate-label">Synopsis</p>
         <p class="plate-lede">Humans are the spirit of all living things; Gu are the true essence of heaven and earth.</p>
         <div class="plate-mid">
@@ -132,8 +131,7 @@
           <span>Black Hair Gu</span>
           <span>Hope Gu</span>
         </div>
-        <div class="plate-rule" aria-hidden="true"><i></i><b></b><i></i></div>
-        <blockquote class="plate-poem">Say not that the mighty mountains are truly like iron;<br>Today, I stride forward and cross them anew.<br>Facing peril, I fashion my body from the essence of Heaven and Earth;<br>My heart, as ever, gazes at the Heavens.</blockquote>
+        <blockquote class="plate-poem">Say not that the mighty mountains stand unyielding as iron;<br>Today, I stride forward and cross them anew.<br>Facing peril, I fashion my body from the essence of Heaven and Earth;<br>My heart, as ever, gazes at the Heavens.</blockquote>
       </div>
       <div class="status-row reveal d2">
         <span class="status"><span class="dot dot-red"></span><!-- BUILD:status -->Re-translation in progress · 4 / 2,334 typeset<!-- /BUILD:status --></span>
@@ -143,6 +141,7 @@
         <a class="btn btn-primary" href="chapter-1">Start Reading</a>
         <a class="btn btn-ghost" href="#chapters">All Chapters</a>
       </div>
+      <p class="cta-note reveal d2"><a href="preface">Begin with the Author&rsquo;s Preface &rarr;</a></p>
     </div>
   </div>
 </section>
@@ -173,14 +172,23 @@
     </div>
     <!-- /BUILD:frontmatter -->
 
-    <div class="vol-band reveal">
+    <div class="ch-search reveal d1">
+      <label class="ch-search-label" for="chapterFilter">Find a chapter</label>
+      <input class="ch-search-input" id="chapterFilter" type="search"
+             autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"
+             placeholder="Type a number, or a word from the title">
+      <p class="ch-search-count" id="chapterFilterCount" role="status"></p>
+    </div>
+
+    <div class="vol-panel reveal">
+    <div class="vol-band">
       <div>
         <p class="vol-kicker">Volume 1 <span class="cjk">魔性不改</span></p>
         <h3 class="vol-name">Demonic Nature Never Changes</h3>
       </div>
     </div>
 
-    <div class="ch-list reveal d1"><!-- BUILD:chapters -->
+    <div class="ch-list"><!-- BUILD:chapters -->
       <a class="ch-row" href="chapter-1">
         <span class="ch-num">1</span>
         <span class="ch-name">Chapter 1<small>Though The Flesh Perish, The Demonic Heart Knows No Regret</small></span>
@@ -219,6 +227,7 @@
       </div>
         <!-- /BUILD:chapters -->
     </div>
+    </div><!-- /.vol-panel -->
     <p class="list-note reveal d2">The list grows as chapters clear the bench.</p>
   </div>
 </section>
@@ -297,6 +306,6 @@
   </div>
 </footer>
 
-<script src="app.js?v=20260926-138665af"></script>
+<script src="app.js?v=20260926-032b217c"></script>
 </body>
 </html>

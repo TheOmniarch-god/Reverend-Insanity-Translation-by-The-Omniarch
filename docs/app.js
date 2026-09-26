@@ -279,24 +279,29 @@ document.addEventListener("DOMContentLoaded", function () {
   // Anti-theft & copy protection on chapter reader pages
   var readerBody = document.querySelector(".chapter-body");
   if (readerBody) {
-    // 1. Disable context menu (right-click)
+    // 1. Disable context menu (right-click) — except in text boxes, where the
+    //    menu is how a reader pastes
     document.addEventListener("contextmenu", function (e) {
+      if (isField(e.target)) return;
       e.preventDefault();
       return false;
     });
 
     // 2. Disable text selection and dragging
     document.addEventListener("selectstart", function (e) {
+      if (isField(e.target)) return;
       e.preventDefault();
       return false;
     });
     document.addEventListener("dragstart", function (e) {
+      if (isField(e.target)) return;
       e.preventDefault();
       return false;
     });
 
     // 3. Clear and intercept copy / cut
     document.addEventListener("copy", function (e) {
+      if (isField(e.target)) return;
       e.preventDefault();
       if (e.clipboardData) {
         e.clipboardData.setData("text/plain", "");
@@ -304,24 +309,90 @@ document.addEventListener("DOMContentLoaded", function () {
       return false;
     });
     document.addEventListener("cut", function (e) {
+      if (isField(e.target)) return;
       e.preventDefault();
       return false;
     });
 
-    // 4. Block common copy & inspect shortcuts (Ctrl/Cmd + C, A, U, S, P, F12)
-    document.addEventListener("keydown", function (e) {
-      var isMac = navigator.platform.toUpperCase().indexOf("MAC") >= 0;
-      var ctrl = isMac ? e.metaKey : e.ctrlKey;
-      var key = e.key ? e.key.toLowerCase() : "";
-      if (ctrl && (key === "c" || key === "a" || key === "u" || key === "s" || key === "p")) {
-        e.preventDefault();
-        return false;
+    // 4. Keyboard shortcuts are deliberately NOT blocked any more. Ctrl+A/C/S/P/U
+    //    and F12 are all reachable from the browser menu, so blocking them only
+    //    broke honest use — selecting a name to look it up, quoting a line,
+    //    select-to-translate. The visible protection is right-click, selection
+    //    and drag on the prose, kept in steps 1–3 above.
+  }
+
+  // chapter finder (homepage): filters the list as you type; Enter opens the first match
+  var finder = document.getElementById("chapterFilter");
+  if (finder) {
+    var countOut = document.getElementById("chapterFilterCount");
+    var allRows = Array.prototype.slice.call(document.querySelectorAll(".ch-list .ch-row"));
+    var queuedRows = allRows.filter(function (r) { return !r.getAttribute("href"); });
+    var queuedNums = queuedRows.map(function (r) {
+      var n = r.querySelector(".ch-num");
+      return (n ? n.textContent : "").trim();
+    });
+    var shelves = allRows.filter(function (r) { return r.getAttribute("href"); })
+      .map(function (r) {
+        var n = r.querySelector(".ch-num"), t = r.querySelector(".ch-name");
+        return {
+          el: r,
+          num: (n ? n.textContent : "").trim(),
+          hay: ((n ? n.textContent : "") + " " + (t ? t.textContent : "")).toLowerCase()
+        };
+      });
+
+    function applyFinder() {
+      var q = finder.value.trim().toLowerCase();
+      var digits = q.replace(/^(chapter|ch)\s*/, "");
+      var numeric = /^[0-9]+$/.test(digits);
+      var shown = 0, firstHit = null;
+      shelves.forEach(function (it) {
+        var hit = !q || (numeric ? it.num.indexOf(digits) === 0 : it.hay.indexOf(q) !== -1);
+        it.el.hidden = !hit;
+        if (hit) { shown++; if (!firstHit) firstHit = it.el; }
+      });
+      queuedRows.forEach(function (r) { r.hidden = !!q; });
+      if (countOut) {
+        countOut.textContent = "";
+        if (!q) {
+          // nothing to say yet
+        } else if (shown) {
+          countOut.textContent = shown + (shown === 1 ? " chapter" : " chapters") +
+            " \u2014 press Enter to open";
+        } else if (numeric && queuedNums.indexOf(digits) !== -1) {
+          countOut.textContent = "Chapter " + digits +
+            " is still at the bench \u2014 not published yet";
+        } else {
+          // no chapter by that name: offer the whole text
+          var phrase = finder.value.trim();
+          countOut.appendChild(document.createTextNode("No chapter matches \u201c" + phrase + "\u201d \u2014 "));
+          var go = document.createElement("a");
+          go.className = "ch-search-fallback";
+          go.href = "search?q=" + encodeURIComponent(phrase);
+          go.textContent = "search the text for \u201c" + phrase + "\u201d \u2192";
+          countOut.appendChild(go);
+        }
       }
-      if (e.key === "F12") {
+      return firstHit;
+    }
+
+    var firstHit = null;
+    finder.addEventListener("input", function () { firstHit = applyFinder(); });
+    finder.addEventListener("keydown", function (e) {
+      if (e.key === "Enter") {
+        var target = firstHit || applyFinder();
         e.preventDefault();
-        return false;
+        if (target) {
+          window.location.href = target.getAttribute("href");
+        } else if (finder.value.trim()) {
+          // nothing in the chapter list — send the phrase to the full-text search
+          window.location.href = "search?q=" + encodeURIComponent(finder.value.trim());
+        }
+      } else if (e.key === "Escape") {
+        finder.value = ""; firstHit = null; applyFinder();
       }
     });
+    applyFinder();
   }
 
     // footer year

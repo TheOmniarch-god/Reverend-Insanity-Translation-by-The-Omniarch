@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Search the Translation — Reverend Insanity | The Omniarch Translation</title>
+<title>Search — Reverend Insanity | The Omniarch Translation</title>
 <meta name="description" content="Full-text search across every published chapter of The Omniarch's Reverend Insanity re-translation.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Noto+Sans+SC:wght@400&family=Playfair+Display:ital,wght@0,700;0,800;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=20260926-138665af">
+<link rel="stylesheet" href="style.css?v=20260926-032b217c">
 <link rel="icon" href="favicon.ico" sizes="32x32">
 <link rel="icon" href="icon-48.png" type="image/png" sizes="48x48">
 <link rel="icon" href="icon-192.png" type="image/png" sizes="192x192">
@@ -32,7 +32,7 @@
 
 <nav class="nav">
   <div class="nav-inner">
-    <a class="nav-logo" href="index.html">
+    <a class="nav-logo" href="./">
       <img class="nav-logo-img" src="logo-circle.png" width="32" height="32" alt="The Omniarch Translation logo">
       <span class="wordmark"><span class="brand-name">The Omniarch</span><span class="brand-sub"> Translation</span></span>
     </a>
@@ -45,8 +45,8 @@
       <button class="nav-burger" aria-label="Menu">☰</button>
     </div>
     <ul class="nav-links">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="index.html#chapters">Chapters</a></li>
+      <li><a href="./">Home</a></li>
+      <li><a href="./#chapters">Chapters</a></li>
       <li><a href="search">Search</a></li>
       <li><a href="about">About</a></li>
       <li><a href="support">Support</a></li>
@@ -57,14 +57,13 @@
 
 <main class="search-wrap">
   <div class="search-head">
-    <p class="search-kicker">The Omniarch · Find Any Line</p>
-    <h1>Search the Translation</h1>
-    <p class="search-sub">Every paragraph of every published chapter, indexed. Type a name, a Gu, or a phrase — then jump straight to the exact line in the reader.</p>
+    <h1>Search</h1>
+    <p class="search-sub">Type a name, a Gu, or a phrase to jump straight to the line.</p>
   </div>
 
   <div class="search-bar">
-    <input class="search-input" id="q" type="search" autocomplete="off" spellcheck="false"
-           placeholder="Search chapters… e.g. moon orchids, Spring Autumn Cicada, aperture" aria-label="Search the translation">
+    <input class="search-input" id="q" type="search" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"
+           placeholder="Search chapters… e.g. moon orchids, Spring Autumn Cicada, aperture" aria-label="Search">
   </div>
   <div class="search-chips" aria-label="Suggested searches">
     <button class="search-chip" data-q="Fang Yuan" type="button">Fang Yuan</button>
@@ -86,7 +85,7 @@
   </div>
 </footer>
 
-<script src="app.js?v=20260926-138665af"></script>
+<script src="app.js?v=20260926-032b217c"></script>
 <script>
   (function () {
     var input = document.getElementById("q");
@@ -107,7 +106,10 @@
 
     fetch("search-index.json").then(function (r) { return r.json(); }).then(function (d) {
       DATA = d;
-      countEl.textContent = d.paras.length + " paragraphs indexed across " + d.chapters.length + " chapters. Type to search.";
+      var hasPreface = d.paras.some(function (p) { return p.c === "preface"; });
+      countEl.textContent = d.paras.length + " paragraphs indexed across " +
+        (hasPreface ? "the author\u2019s preface and " : "") +
+        d.chapters.length + " chapter" + (d.chapters.length === 1 ? "" : "s") + ".";
       // if someone typed while the index was still downloading, run it now
       if (input.value.trim().length >= 2) runSearch();
     }).catch(function () {
@@ -149,7 +151,7 @@
         var end = Math.min(raw.length, h.pos + q.length + 100);
         var snippet = (start > 0 ? "…" : "") + raw.slice(start, end) + (end < raw.length ? "…" : "");
         var safe = esc(snippet).replace(re, "<mark>$1</mark>");
-        var link = (h.d.c === "preface") ? "preface.html#p" + h.d.p : "chapter-" + h.d.c + "#p" + h.d.p;
+        var link = (h.d.c === "preface") ? "preface#p" + h.d.p : "chapter-" + h.d.c + "#p" + h.d.p;
         var label = (h.d.c === "preface") ? "Author&#8217;s Preface" : "Chapter " + h.d.c + " · " + esc(titleOf(h.d.c));
         html += '<a class="sr-card" href="' + link + '">' +
           '<div class="sr-meta">' + label + '</div>' +

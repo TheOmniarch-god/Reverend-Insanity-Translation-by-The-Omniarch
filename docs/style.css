@@ -346,15 +346,6 @@ img { max-width: 100%; height: auto; display: block; }
   border: 1px solid #efece3;
   pointer-events: none;
 }
-.plate-diamond {
-  position: absolute;
-  top: -5px;
-  left: 50%;
-  width: 8px;
-  height: 8px;
-  background: var(--red);
-  transform: translateX(-50%) rotate(45deg);
-}
 .plate-label {
   text-align: center;
   font-size: 9.5px;
@@ -405,25 +396,6 @@ img { max-width: 100%; height: auto; display: block; }
   border: 1px solid var(--line);
   padding: 2.5px 9px;
   border-radius: 999px;
-}
-.plate-rule {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
-  margin: 10px auto 8px;
-  width: 100%;
-}
-.plate-rule i {
-  width: 36px;
-  height: 1px;
-  background: #d8d5cc;
-}
-.plate-rule b {
-  width: 5px;
-  height: 5px;
-  background: var(--red);
-  transform: rotate(45deg);
 }
 .plate-poem {
   text-align: center;
@@ -2281,7 +2253,6 @@ html.js-anim .d2 { transition-delay: 0.2s; }
 [data-theme="obsidian"] .plate-mid p {
   color: #c7c1b4;
 }
-[data-theme="obsidian"] .plate-rule i {
   background: #2a251e;
 }
 [data-theme="obsidian"] .plate-poem {
@@ -2520,7 +2491,6 @@ html.js-anim .d2 { transition-delay: 0.2s; }
 
 /* ---------- search ---------- */
 .search-wrap { max-width: 760px; margin: 0 auto; padding: 104px 22px 90px; }
-.search-kicker { font-size: 11px; letter-spacing: 0.3em; text-transform: uppercase; color: var(--red); font-weight: 800; }
 .search-head h1 {
   font-family: "Playfair Display", Georgia, serif;
   font-size: clamp(28px, 4.5vw, 40px); font-weight: 800;
@@ -2686,8 +2656,8 @@ mark { background: linear-gradient(transparent 58%, rgba(217, 178, 76, 0.55) 0);
   animation: prefaceTwinkle 5.5s ease-in-out infinite;
 }
 @keyframes prefaceTwinkle {
-  0%, 100% { opacity: 0.30; transform: translateY(0); }
-  50%      { opacity: 1;    transform: translateY(-3px); }
+  0%, 100% { opacity: 0.24; transform: translateY(0); }
+  50%      { opacity: 0.70; transform: translateY(-2px); }
 }
 
 /* a gold drop cap for the opening paragraph */
@@ -2729,6 +2699,7 @@ mark { background: linear-gradient(transparent 58%, rgba(217, 178, 76, 0.55) 0);
   box-shadow: 0 14px 34px rgba(168, 121, 26, 0.30), inset 0 1px 0 rgba(255, 255, 255, 0.6);
 }
 [data-theme="obsidian"] .frontmatter {
+  animation-name: fmGlowDark;
   border-color: rgba(236, 199, 104, 0.55);
   background: linear-gradient(135deg, rgba(236, 199, 104, 0.22) 0%, rgba(236, 199, 104, 0.11) 42%, rgba(236, 199, 104, 0.20) 100%);
   box-shadow: 0 16px 38px rgba(0, 0, 0, 0.55), inset 0 1px 0 rgba(255, 233, 168, 0.22);
@@ -2777,12 +2748,23 @@ mark { background: linear-gradient(transparent 58%, rgba(217, 178, 76, 0.55) 0);
 .frontmatter { animation: fmGlow 7s ease-in-out infinite; }
 @keyframes fmGlow {
   0%, 100% {
-    box-shadow: 0 14px 34px rgba(168, 121, 26, 0.28), inset 0 1px 0 rgba(255, 255, 255, 0.6);
+    box-shadow: 0 12px 28px rgba(168, 121, 26, 0.19), inset 0 1px 0 rgba(255, 255, 255, 0.55);
   }
   50% {
-    box-shadow: 0 20px 52px rgba(168, 121, 26, 0.44),
-                0 0 38px rgba(217, 178, 76, 0.45),
-                inset 0 1px 0 rgba(255, 255, 255, 0.8);
+    box-shadow: 0 16px 38px rgba(168, 121, 26, 0.29),
+                0 0 24px rgba(217, 178, 76, 0.24),
+                inset 0 1px 0 rgba(255, 255, 255, 0.68);
+  }
+}
+/* dark theme: the same breathing, carried on shadow rather than a gold halo */
+@keyframes fmGlowDark {
+  0%, 100% {
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.50), inset 0 1px 0 rgba(255, 233, 168, 0.18);
+  }
+  50% {
+    box-shadow: 0 16px 38px rgba(0, 0, 0, 0.56),
+                0 0 20px rgba(236, 199, 104, 0.14),
+                inset 0 1px 0 rgba(255, 233, 168, 0.24);
   }
 }
 
@@ -2791,7 +2773,7 @@ mark { background: linear-gradient(transparent 58%, rgba(217, 178, 76, 0.55) 0);
   content: ""; position: absolute; top: 0; bottom: 0; left: 0; width: 100%;
   pointer-events: none;
   background: linear-gradient(105deg,
-    transparent 36%, rgba(255, 255, 255, 0.55) 47%, rgba(255, 255, 255, 0.15) 54%, transparent 62%);
+    transparent 36%, rgba(255, 255, 255, 0.34) 47%, rgba(255, 255, 255, 0.10) 54%, transparent 62%);
   transform: translateX(-120%);
   animation: fmSheen 7s ease-in-out infinite;
 }
@@ -2805,10 +2787,91 @@ mark { background: linear-gradient(transparent 58%, rgba(217, 178, 76, 0.55) 0);
 
 [data-theme="obsidian"] .frontmatter::after {
   background: linear-gradient(105deg,
-    transparent 38%, rgba(255, 233, 168, 0.16) 48%, transparent 60%);
+    transparent 38%, rgba(255, 233, 168, 0.11) 48%, transparent 60%);
 }
 
 @media (prefers-reduced-motion: reduce) {
   .frontmatter { animation: none; }
   .frontmatter::after { animation: none; opacity: 0; }
+}
+
+/* ── VOLUME PANEL LAYER ──────────────────────────────────────────────────────
+   The container carries meaning: a volume owns its chapters, so the volume
+   band and its chapter rows sit inside one panel. Each new volume opens its
+   own panel — the box grows by itself, nothing to redesign later.
+   ────────────────────────────────────────────────────────────────────────── */
+.vol-panel {
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 16px 16px 12px;
+  background: rgba(23, 23, 26, 0.015);
+}
+[data-theme="obsidian"] .vol-panel { background: rgba(255, 255, 255, 0.02); }
+.vol-panel .vol-band {
+  background: transparent;
+  border: 0;
+  border-left: 4px solid var(--red);
+  border-radius: 0;
+  padding: 2px 0 12px 14px;
+  margin-bottom: 12px;
+}
+.vol-panel .ch-list { margin-top: 0; }
+.vol-panel .ch-row   { box-shadow: none; }
+
+/* ── CHAPTER FINDER ──────────────────────────────────────────────────────────
+   Four rows today, 2,334 one day. This is how a reader gets to one then: type
+   the number or a word from the title, press Enter to open the first match.
+   ────────────────────────────────────────────────────────────────────────── */
+.ch-search { margin: 0 0 16px; }
+.ch-search-label {
+  display: block; font-size: 11px; font-weight: 800; letter-spacing: 0.14em;
+  text-transform: uppercase; color: var(--muted); margin: 0 0 8px 2px;
+}
+.ch-search-input {
+  width: 100%; font-family: var(--sans); font-size: 14.5px; color: var(--ink);
+  background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+  padding: 12px 16px; outline: none; transition: border-color 0.2s ease;
+}
+.ch-search-input:focus { border-color: var(--red); }
+.ch-search-count { font-size: 12px; color: var(--muted); margin: 8px 2px 0; min-height: 1em; }
+.ch-list .ch-row[hidden] { display: none; }
+.ch-search-fallback {
+  color: var(--red); font-weight: 600; text-decoration: underline;
+  text-underline-offset: 3px; text-decoration-thickness: 1px;
+}
+.cta-note { margin-top: 14px; font-size: 13.5px; }
+/* gold here is deliberate: this link opens the front matter, which is gold
+   throughout the site. --gold adapts itself in the black theme. */
+.cta-note a {
+  color: var(--gold);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+  transition: text-decoration-thickness .15s ease, color .2s ease;
+}
+.cta-note a:hover { text-decoration-thickness: 2px; }
+
+/* ── the hero's two buttons ───────────────────────────────────────────────────
+   Start Reading stays the red primary. All Chapters is the outlined secondary
+   and now carries the gold outline in both themes. Scoped to the hero, so the
+   reader pages' back buttons keep their quiet neutral border.
+   ───────────────────────────────────────────────────────────────────────────── */
+.cta-row .btn-ghost {
+  border-color: rgba(168, 121, 26, 0.45);
+  color: var(--gold);
+}
+.cta-row .btn-ghost:hover {
+  border-color: var(--gold);
+  color: var(--gold);
+  background: rgba(168, 121, 26, 0.07);
+}
+[data-theme="obsidian"] .cta-row .btn-ghost {
+  border-color: rgba(236, 199, 104, 0.42);
+  background: transparent;
+  color: var(--gold);
+}
+[data-theme="obsidian"] .cta-row .btn-ghost:hover {
+  border-color: var(--gold);
+  background: rgba(236, 199, 104, 0.10);
+  color: var(--gold);
 }
