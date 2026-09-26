@@ -1,3 +1,21 @@
+// Safe storage: if the browser blocks storage (privacy mode, locked-down
+// settings) the reader still works — preferences simply stop persisting.
+var store = (function () {
+  try {
+    var probe = "__ri_probe__";
+    window.localStorage.setItem(probe, "1");
+    window.localStorage.removeItem(probe);
+    return window.localStorage;
+  } catch (e) {
+    var mem = {};
+    return {
+      getItem: function (k) { return Object.prototype.hasOwnProperty.call(mem, k) ? mem[k] : null; },
+      setItem: function (k, v) { mem[k] = String(v); },
+      removeItem: function (k) { delete mem[k]; }
+    };
+  }
+})();
+
   // Silently remove .html from browser address bar
   if (window.location.pathname.endsWith(".html")) {
     var clean = window.location.pathname.replace(/\/index\.html$/, "/").replace(/\.html$/, "");
@@ -47,7 +65,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // reveal on scroll
   var reveals = document.querySelectorAll(".reveal");
-  if ("IntersectionObserver" in window && reveals.length) {
+  var animate = document.documentElement.classList.contains("js-anim");
+  if (animate && "IntersectionObserver" in window && reveals.length) {
     var io = new IntersectionObserver(function (entries) {
       entries.forEach(function (e) {
         if (e.isIntersecting) {
@@ -63,7 +82,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Gentle 3D proximity tilt on the homepage cover (desktop pointers only)
   var coverCard = document.querySelector(".cover-card");
-  if (coverCard && window.matchMedia && window.matchMedia("(pointer: fine)").matches) {
+  var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if (coverCard && !reduceMotion && window.matchMedia && window.matchMedia("(pointer: fine)").matches) {
     var tiltZone = coverCard.closest(".hero") || document.body;
     var tiltAnchor = coverCard.parentElement || coverCard;
     var tX = 0, tY = 0, tiltRaf = null;
@@ -132,11 +152,11 @@ document.addEventListener("DOMContentLoaded", function () {
       var isDark = document.documentElement.getAttribute("data-theme") === "obsidian";
       if (isDark) {
         document.documentElement.removeAttribute("data-theme");
-        localStorage.setItem("theme", "light");
+        store.setItem("theme", "light");
         updateThemeUI("light");
       } else {
         document.documentElement.setAttribute("data-theme", "obsidian");
-        localStorage.setItem("theme", "obsidian");
+        store.setItem("theme", "obsidian");
         updateThemeUI("obsidian");
       }
     });
@@ -145,7 +165,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Chapter keyboard navigation (ArrowLeft = previous, ArrowRight = next)
   document.addEventListener("keydown", function (e) {
-    if (e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA" || e.isComposing) return;
+    if (e.isComposing || e.ctrlKey || e.metaKey || e.altKey) return;
+    var tag = (e.target && e.target.tagName) ? e.target.tagName.toLowerCase() : "";
+    if (tag === "input" || tag === "textarea" || tag === "select" || tag === "button" ||
+        tag === "a" || tag === "option" || tag === "summary" || e.target.isContentEditable) return;
     if (e.key === "ArrowLeft") {
       var prevBtn = document.querySelector(".chapter-nav .btn-ghost[href]");
       if (prevBtn && prevBtn.getAttribute("href") && prevBtn.getAttribute("href") !== "#") {
@@ -177,7 +200,7 @@ document.addEventListener("DOMContentLoaded", function () {
   };
 
   function currentReaderFont() {
-    var f = localStorage.getItem("readerFont");
+    var f = store.getItem("readerFont");
     return (f && READER_FONTS[f]) ? f : "inter";
   }
 
@@ -187,7 +210,7 @@ document.addEventListener("DOMContentLoaded", function () {
       var scale = READER_FONTS[f].scale;
       proseEl.style.fontSize = (Math.round(size * scale * 10) / 10) + "px";
       proseEl.style.lineHeight = (f === "inter") ? (size >= 19 ? "1.9" : "1.95") : "";
-      localStorage.setItem("readerFontSize", size);
+      store.setItem("readerFontSize", size);
     }
   }
 
@@ -195,8 +218,8 @@ document.addEventListener("DOMContentLoaded", function () {
     if (!READER_FONTS[key]) key = "inter";
     document.documentElement.classList.remove("rf-opendyslexic", "rf-cormorant", "rf-newsreader", "rf-spectral");
     if (key !== "inter") document.documentElement.classList.add("rf-" + key);
-    if (persist !== false) localStorage.setItem("readerFont", key);
-    applyFontSize(parseInt(localStorage.getItem("readerFontSize") || "17", 10));
+    if (persist !== false) store.setItem("readerFont", key);
+    applyFontSize(parseInt(store.getItem("readerFontSize") || "17", 10));
     var opts = document.querySelectorAll(".font-panel .font-option");
     for (var i = 0; i < opts.length; i++) {
       if (opts[i].getAttribute("data-font") === key) opts[i].classList.add("active");
@@ -230,20 +253,20 @@ document.addEventListener("DOMContentLoaded", function () {
       for (var i = 0; i < fpOpts.length; i++) {
         fpOpts[i].addEventListener("click", function () {
           applyReaderFont(this.getAttribute("data-font"));
-          fpPanel.classList.remove("open");
+          closeFontPanel();
         });
       }
     }
 
     if (fontDec && fontInc) {
       fontDec.addEventListener("click", function () {
-        var current = parseInt(localStorage.getItem("readerFontSize") || "17", 10);
+        var current = parseInt(store.getItem("readerFontSize") || "17", 10);
         var idx = fontSizes.indexOf(current);
         if (idx === -1) idx = 1;
         if (idx > 0) applyFontSize(fontSizes[idx - 1]);
       });
       fontInc.addEventListener("click", function () {
-        var current = parseInt(localStorage.getItem("readerFontSize") || "17", 10);
+        var current = parseInt(store.getItem("readerFontSize") || "17", 10);
         var idx = fontSizes.indexOf(current);
         if (idx === -1) idx = 1;
         if (idx < fontSizes.length - 1) applyFontSize(fontSizes[idx + 1]);

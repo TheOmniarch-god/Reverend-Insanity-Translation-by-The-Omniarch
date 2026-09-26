@@ -1016,7 +1016,8 @@ footer {
   align-items: center;
   gap: 8px;
 }
-.gamepad-btn {
+.gamepad-btn,
+.nav-arrow-btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -1034,18 +1035,21 @@ footer {
   user-select: none;
   cursor: pointer;
 }
-.gamepad-btn:hover:not(.disabled) {
+.gamepad-btn:hover:not(.disabled),
+.nav-arrow-btn:hover:not(.disabled) {
   transform: translateY(-2px);
   border-color: var(--red);
   color: var(--red);
   box-shadow: 0 6px 16px rgba(184, 51, 42, 0.16);
   background: #ffffff;
 }
-.gamepad-btn:active:not(.disabled) {
+.gamepad-btn:active:not(.disabled),
+.nav-arrow-btn:active:not(.disabled) {
   transform: translateY(1px);
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
-.gamepad-btn.disabled {
+.gamepad-btn.disabled,
+.nav-arrow-btn.disabled {
   opacity: 0.25;
   cursor: not-allowed;
   pointer-events: none;
@@ -1055,7 +1059,7 @@ footer {
 
 /* Also support alias classes for backwards compatibility */
 .top-nav-ctrls { display: inline-flex; align-items: center; gap: 8px; }
-.nav-arrow-btn { composes: gamepad-btn; }
+
 .kbd {
   font-family: var(--sans);
   font-size: 10px;
@@ -1115,7 +1119,7 @@ footer {
   background: #faf8f4 !important;
   border-radius: 0 8px 8px 0 !important;
   font-family: "Playfair Display", Georgia, serif !important;
-  font-size: 17.5px !important;
+  font-size: 1.03em !important;
   line-height: 1.85 !important;
   color: var(--ink) !important;
 }
@@ -1222,14 +1226,15 @@ html.rf-spectral .chapter-body {
 
 /* ---------- reveal ---------- */
 
-.reveal {
+.reveal { opacity: 1; }
+html.js-anim .reveal {
   opacity: 0;
   transform: translateY(16px);
   transition: opacity 0.7s ease, transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
 }
-.reveal.in { opacity: 1; transform: none; }
-.d1 { transition-delay: 0.1s; }
-.d2 { transition-delay: 0.2s; }
+html.js-anim .reveal.in { opacity: 1; transform: none; }
+html.js-anim .d1 { transition-delay: 0.1s; }
+html.js-anim .d2 { transition-delay: 0.2s; }
 
 @media (prefers-reduced-motion: reduce) {
   .reveal { opacity: 1; transform: none; transition: none; }
@@ -2378,7 +2383,8 @@ html.rf-spectral .chapter-body {
   background: #1f1c17;
   color: #ffffff;
 }
-[data-theme="obsidian"] .gamepad-btn:hover:not(.disabled) {
+[data-theme="obsidian"] .gamepad-btn:hover:not(.disabled),
+[data-theme="obsidian"] .nav-arrow-btn:hover:not(.disabled) {
   border-color: var(--red);
   color: #ffffff;
   background: #1b1915;
@@ -2513,7 +2519,7 @@ html.rf-spectral .chapter-body {
 }
 
 /* ---------- search ---------- */
-.search-wrap { max-width: 760px; margin: 0 auto; padding: 40px 22px 90px; }
+.search-wrap { max-width: 760px; margin: 0 auto; padding: 104px 22px 90px; }
 .search-kicker { font-size: 11px; letter-spacing: 0.3em; text-transform: uppercase; color: var(--red); font-weight: 800; }
 .search-head h1 {
   font-family: "Playfair Display", Georgia, serif;
@@ -2562,4 +2568,247 @@ html.rf-spectral .chapter-body {
 @keyframes hitFlash {
   0% { background: rgba(155,28,28,0.18); box-shadow: 0 0 0 6px rgba(155,28,28,0.18); }
   100% { background: transparent; box-shadow: 0 0 0 6px transparent; }
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   GOLD ACCENT LAYER — 2026-09-25
+   Restrained on purpose: paper, ink and cinnabar, with gold as the one
+   accent. No rainbow. Delete this block to return to the plain palette.
+   ═══════════════════════════════════════════════════════════════════ */
+
+:root {
+  --gold:        #a8791a;
+  --gold-bright: #d9b24c;
+  --gold-bg:     #fbf3e0;
+  --rule:        linear-gradient(90deg, #8f1d1d 0%, #b8451f 46%, #a8791a 100%);
+}
+
+[data-theme="obsidian"] {
+  --gold:        #ecc768;
+  --gold-bright: #ffe9a8;
+  --gold-bg:     rgba(236, 199, 104, 0.14);
+  --rule:        linear-gradient(90deg, #c92a2a 0%, #c07a2c 46%, #ecc768 100%);
+}
+
+/* ── one warm glow behind the page, nothing more ── */
+body {
+  background-image: radial-gradient(1000px 560px at 82% -8%, rgba(168, 121, 26, 0.10), transparent 66%);
+  background-attachment: fixed;
+}
+[data-theme="obsidian"] body {
+  background-image: radial-gradient(1100px 620px at 82% -10%, rgba(236, 199, 104, 0.11), transparent 64%);
+}
+
+/* ── the cover gets a warm gold halo ── */
+.cover-card {
+  border-color: rgba(168, 121, 26, 0.42) !important;
+  box-shadow: 0 20px 54px rgba(143, 29, 29, 0.16), 0 0 0 1px rgba(168, 121, 26, 0.14);
+}
+[data-theme="obsidian"] .cover-card {
+  border-color: rgba(236, 199, 104, 0.38) !important;
+  box-shadow: 0 22px 60px rgba(201, 42, 42, 0.22), 0 0 0 1px rgba(236, 199, 104, 0.16);
+}
+
+/* ── rules: cinnabar running into gold ── */
+/* footer separator: a plain structural line, not an ornament */
+footer { border-top: 1px solid var(--line); }
+
+/* ── meter and progress bar: two hues, not five ── */
+.meter-track { background: rgba(168, 121, 26, 0.14); }
+.meter-fill  { background: var(--rule); }
+.progress    { background: var(--rule); }
+
+/* ── volume band: warm paper, gold kicker ── */
+.vol-kicker { color: var(--gold); font-weight: 800; }
+.vol-band   { border-left-width: 4px; }
+
+/* ── hover states pick up gold instead of new colours ── */
+.ch-row:hover { border-color: rgba(168, 121, 26, 0.55); box-shadow: 0 12px 30px rgba(143, 29, 29, 0.12); }
+.ch-row:hover .ch-link { color: var(--gold); }
+.btn-ghost:hover { border-color: var(--gold); color: var(--gold); }
+.nav-links a { position: relative; }
+.nav-links a::after {
+  content: ""; position: absolute; left: 0; right: 0; bottom: -6px; height: 2px;
+  border-radius: 2px; background: var(--gold); transform: scaleX(0);
+  transform-origin: left; transition: transform 0.22s ease;
+}
+.nav-links a:hover::after { transform: scaleX(1); }
+.sr-card:hover { border-color: rgba(168, 121, 26, 0.5); box-shadow: 0 10px 26px rgba(168, 121, 26, 0.14); }
+mark { background: linear-gradient(transparent 58%, rgba(217, 178, 76, 0.55) 0); color: inherit; }
+.end-mark { color: var(--gold); }
+
+/* ═══════════════════════════════════════════════════════════════════
+   THE AUTHOR'S PREFACE — gold, and sparkling
+   Scoped to body.page-preface so no other page is affected.
+   ═══════════════════════════════════════════════════════════════════ */
+
+.page-preface .reader-head { position: relative; }
+
+/* gold title, with a slow shimmer travelling through the letters */
+.page-preface .reader-head h1 {
+  font-size: clamp(30px, 5vw, 44px);
+  background: linear-gradient(100deg,
+    #8a6114 0%, #c9a233 22%, #f4e2a4 42%, #d9b24c 56%, #a8791a 74%, #8a6114 100%);
+  background-size: 260% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  animation: prefaceShimmer 9s ease-in-out infinite;
+}
+@keyframes prefaceShimmer {
+  0%, 100% { background-position: 0% 50%; }
+  50%      { background-position: 100% 50%; }
+}
+
+/* the essay title beneath it, solid gold */
+.page-preface .ch-title { color: var(--gold); font-weight: 600; }
+
+/* gold rule under the header, fading at both ends */
+.page-preface .reader-head::after {
+  content: ""; display: block; width: min(420px, 78%); height: 1px;
+  margin: 20px auto 0;
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+  opacity: 0.7;
+}
+
+/* twinkling gold specks */
+.page-preface .reader-head::before {
+  content: ""; position: absolute; inset: 0; pointer-events: none;
+  background-image:
+    radial-gradient(circle, var(--gold-bright) 1.1px, transparent 1.7px),
+    radial-gradient(circle, var(--gold-bright) 1.6px, transparent 2.3px),
+    radial-gradient(circle, var(--gold) 1.2px, transparent 1.8px),
+    radial-gradient(circle, var(--gold-bright) 1.9px, transparent 2.6px),
+    radial-gradient(circle, var(--gold) 1.4px, transparent 2px);
+  background-repeat: no-repeat;
+  background-position: 12% 42%, 27% 74%, 63% 30%, 79% 66%, 91% 38%;
+  animation: prefaceTwinkle 5.5s ease-in-out infinite;
+}
+@keyframes prefaceTwinkle {
+  0%, 100% { opacity: 0.30; transform: translateY(0); }
+  50%      { opacity: 1;    transform: translateY(-3px); }
+}
+
+/* a gold drop cap for the opening paragraph */
+.page-preface .prose > p:first-of-type::first-letter {
+  float: left;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 3.4em;
+  line-height: 0.86;
+  padding: 4px 12px 0 0;
+  color: var(--gold);
+  font-weight: 700;
+}
+
+/* the reading controls stay quiet; the nav arrows pick up gold */
+.page-preface .gamepad-btn:hover {
+  border-color: var(--gold); color: var(--gold);
+  box-shadow: 0 6px 16px rgba(168, 121, 26, 0.18);
+}
+
+/* motion preferences: the gold stays, the movement goes */
+@media (prefers-reduced-motion: reduce) {
+  .page-preface .reader-head h1 { animation: none; background-position: 40% 50%; }
+  .page-preface .reader-head::before { animation: none; opacity: 0.6; }
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   FRONT MATTER — book level, and gold
+   The preface opens the BOOK, so it sits above the volumes in its own
+   gold container, and its page header is a gold container too.
+   ═══════════════════════════════════════════════════════════════════ */
+
+/* homepage: the front-matter block, above the volume band */
+.frontmatter {
+  margin: 0 0 22px;
+  padding: 16px 20px 15px;
+  border: 1px solid #c9a233;
+  border-radius: 14px;
+  background: linear-gradient(135deg, #f9e7ae 0%, #f2d585 40%, #e7c463 76%, #f6e3a6 100%);
+  box-shadow: 0 14px 34px rgba(168, 121, 26, 0.30), inset 0 1px 0 rgba(255, 255, 255, 0.6);
+}
+[data-theme="obsidian"] .frontmatter {
+  border-color: rgba(236, 199, 104, 0.55);
+  background: linear-gradient(135deg, rgba(236, 199, 104, 0.22) 0%, rgba(236, 199, 104, 0.11) 42%, rgba(236, 199, 104, 0.20) 100%);
+  box-shadow: 0 16px 38px rgba(0, 0, 0, 0.55), inset 0 1px 0 rgba(255, 233, 168, 0.22);
+}
+.fm-kicker {
+  margin: 0 0 10px;
+  font-size: 10.5px; font-weight: 800;
+  letter-spacing: 0.22em; text-transform: uppercase;
+  color: #7a5a10;
+}
+[data-theme="obsidian"] .fm-kicker { color: var(--gold); }
+.fm-row {
+  display: flex; align-items: center; gap: 16px;
+  text-decoration: none; color: inherit;
+}
+.fm-text { display: flex; flex-direction: column; gap: 3px; flex: 1; min-width: 0; }
+.fm-title { font-size: 15.5px; font-weight: 700; color: var(--ink); }
+.fm-sub { font-size: 12.5px; color: #6b551f; }
+[data-theme="obsidian"] .fm-sub { color: #cbbf9e; }
+.fm-link { font-size: 13px; font-weight: 700; color: var(--red-dark); white-space: nowrap; }
+[data-theme="obsidian"] .fm-link { color: var(--gold-bright); }
+.fm-row:hover .fm-link { text-decoration: underline; }
+.fm-row:hover .fm-title { color: #5e3f05; }
+[data-theme="obsidian"] .fm-row:hover .fm-title { color: var(--gold-bright); }
+
+/* gold hairline under the header */
+.page-preface .reader-head::after {
+  width: min(460px, 82%);
+  margin-top: 22px;
+}
+
+@media (max-width: 700px) {
+  .frontmatter { padding: 14px 16px 13px; }
+  .fm-row { gap: 12px; }
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════
+   FRONT MATTER CONTAINER — glows in the light theme,
+   like the Author's Preface text does on the reading page.
+   ═══════════════════════════════════════════════════════════════════ */
+
+.frontmatter { position: relative; overflow: hidden; }
+
+/* a slow breathing gold aura */
+.frontmatter { animation: fmGlow 7s ease-in-out infinite; }
+@keyframes fmGlow {
+  0%, 100% {
+    box-shadow: 0 14px 34px rgba(168, 121, 26, 0.28), inset 0 1px 0 rgba(255, 255, 255, 0.6);
+  }
+  50% {
+    box-shadow: 0 20px 52px rgba(168, 121, 26, 0.44),
+                0 0 38px rgba(217, 178, 76, 0.45),
+                inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  }
+}
+
+/* a sheen that sweeps across the gold */
+.frontmatter::after {
+  content: ""; position: absolute; top: 0; bottom: 0; left: 0; width: 100%;
+  pointer-events: none;
+  background: linear-gradient(105deg,
+    transparent 36%, rgba(255, 255, 255, 0.55) 47%, rgba(255, 255, 255, 0.15) 54%, transparent 62%);
+  transform: translateX(-120%);
+  animation: fmSheen 7s ease-in-out infinite;
+}
+@keyframes fmSheen {
+  0%   { transform: translateX(-120%); }
+  62%  { transform: translateX(120%); }
+  100% { transform: translateX(120%); }
+}
+.frontmatter .fm-kicker,
+.frontmatter .fm-row { position: relative; }
+
+[data-theme="obsidian"] .frontmatter::after {
+  background: linear-gradient(105deg,
+    transparent 38%, rgba(255, 233, 168, 0.16) 48%, transparent 60%);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .frontmatter { animation: none; }
+  .frontmatter::after { animation: none; opacity: 0; }
 }

@@ -7,21 +7,28 @@
 <meta name="description" content="Compare the four reading typefaces of The Omniarch Translation reader and test them live.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,500;1,600&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400..500&family=Noto+Sans+SC:wght@400;500;700;900&family=Playfair+Display:ital,wght@0,700;0,800;1,500;1,700&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=20260923S">
-<link rel="icon" href="favicon.ico" sizes="any">
-<link rel="icon" href="logo-circle.png" type="image/png">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Noto+Sans+SC:wght@400&family=Playfair+Display:ital,wght@0,700;0,800;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=20260926-138665af">
+<link rel="icon" href="favicon.ico" sizes="32x32">
+<link rel="icon" href="icon-48.png" type="image/png" sizes="48x48">
+<link rel="icon" href="icon-192.png" type="image/png" sizes="192x192">
+<link rel="apple-touch-icon" href="apple-touch-icon.png" sizes="180x180">
+<link rel="manifest" href="site.webmanifest">
 <script>
   (function() {
+    try {
     var saved = localStorage.getItem('theme');
     if (saved === 'obsidian' || (!saved && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-      document.documentElement.setAttribute('data-theme', 'obsidian');
+    document.documentElement.setAttribute('data-theme', 'obsidian');
+    }
+    } catch (e) { /* storage unavailable */ }
+    if ("IntersectionObserver" in window && !(window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches)) {
+      document.documentElement.classList.add("js-anim");
     }
   })();
 </script>
 <style>
-  .lab-wrap { max-width: 1180px; margin: 0 auto; padding: 34px 22px 90px; }
+  .lab-wrap { max-width: 1180px; margin: 0 auto; padding: 104px 22px 90px; }
   .lab-head { text-align: center; max-width: 640px; margin: 0 auto 30px; }
   .lab-kicker {
     font-size: 11px; letter-spacing: 0.3em; text-transform: uppercase;
@@ -54,7 +61,7 @@
   .lab-theme-btn:hover { border-color: var(--red); color: var(--red); }
 
   .lab-grid {
-    display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(min(340px, 100%), 1fr));
     gap: 22px;
   }
   .lab-card {
@@ -248,7 +255,7 @@
   </div>
 </footer>
 
-<script src="app.js?v=20260923S"></script>
+<script src="app.js?v=20260926-138665af"></script>
 <script>
   (function () {
     // Size slider drives all four samples at once

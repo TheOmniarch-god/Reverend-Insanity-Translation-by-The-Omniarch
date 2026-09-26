@@ -7,16 +7,23 @@
 <meta name="description" content="Full-text search across every published chapter of The Omniarch's Reverend Insanity re-translation.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,500;1,600&family=Playfair+Display:ital,wght@0,700;0,800;1,500;1,700&family=Noto+Sans+SC:wght@400;500;700;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=20260923S">
-<link rel="icon" href="favicon.ico" sizes="any">
-<link rel="icon" href="logo-circle.png" type="image/png">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Noto+Sans+SC:wght@400&family=Playfair+Display:ital,wght@0,700;0,800;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=20260926-138665af">
+<link rel="icon" href="favicon.ico" sizes="32x32">
+<link rel="icon" href="icon-48.png" type="image/png" sizes="48x48">
+<link rel="icon" href="icon-192.png" type="image/png" sizes="192x192">
+<link rel="apple-touch-icon" href="apple-touch-icon.png" sizes="180x180">
+<link rel="manifest" href="site.webmanifest">
 <script>
   (function() {
+    try {
     var saved = localStorage.getItem('theme');
     if (saved === 'obsidian' || (!saved && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-      document.documentElement.setAttribute('data-theme', 'obsidian');
+    document.documentElement.setAttribute('data-theme', 'obsidian');
+    }
+    } catch (e) { /* storage unavailable */ }
+    if ("IntersectionObserver" in window && !(window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches)) {
+      document.documentElement.classList.add("js-anim");
     }
   })();
 </script>
@@ -79,7 +86,7 @@
   </div>
 </footer>
 
-<script src="app.js?v=20260923S"></script>
+<script src="app.js?v=20260926-138665af"></script>
 <script>
   (function () {
     var input = document.getElementById("q");
@@ -101,6 +108,8 @@
     fetch("search-index.json").then(function (r) { return r.json(); }).then(function (d) {
       DATA = d;
       countEl.textContent = d.paras.length + " paragraphs indexed across " + d.chapters.length + " chapters. Type to search.";
+      // if someone typed while the index was still downloading, run it now
+      if (input.value.trim().length >= 2) runSearch();
     }).catch(function () {
       countEl.textContent = "The search index could not be loaded.";
     });
@@ -140,12 +149,21 @@
         var end = Math.min(raw.length, h.pos + q.length + 100);
         var snippet = (start > 0 ? "…" : "") + raw.slice(start, end) + (end < raw.length ? "…" : "");
         var safe = esc(snippet).replace(re, "<mark>$1</mark>");
-        html += '<a class="sr-card" href="chapter-' + h.d.c + '#p' + h.d.p + '">' +
-          '<div class="sr-meta">Chapter ' + h.d.c + ' · ' + esc(titleOf(h.d.c)) + '</div>' +
+        var link = (h.d.c === "preface") ? "preface.html#p" + h.d.p : "chapter-" + h.d.c + "#p" + h.d.p;
+        var label = (h.d.c === "preface") ? "Author&#8217;s Preface" : "Chapter " + h.d.c + " · " + esc(titleOf(h.d.c));
+        html += '<a class="sr-card" href="' + link + '">' +
+          '<div class="sr-meta">' + label + '</div>' +
           '<div class="sr-text">' + safe + '</div></a>';
       }
       resultsEl.innerHTML = html;
     }
+
+    // a shared link like /search?q=moon%20orchid pre-fills the box;
+    // the index finishes loading and the pending query runs itself
+    try {
+      var initial = new URLSearchParams(window.location.search).get("q");
+      if (initial) input.value = initial;
+    } catch (e) { /* older browser: no shareable search links */ }
 
     var timer = null;
     input.addEventListener("input", function () {

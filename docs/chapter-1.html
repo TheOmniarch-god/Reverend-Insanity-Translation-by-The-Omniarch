@@ -7,23 +7,42 @@
 <meta name="description" content="Chapter 1 of Reverend Insanity, translated by The Omniarch. 2170 words · ~10 min read.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,500;1,600&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400..500&family=Noto+Sans+SC:wght@400;500;700;900&family=Playfair+Display:ital,wght@0,700;0,800;1,500;1,700&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=20260923S">
-<link rel="icon" href="favicon.ico" sizes="any">
-<link rel="icon" href="logo-circle.png" type="image/png">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Noto+Sans+SC:wght@400&family=Playfair+Display:ital,wght@0,700;0,800;1,400&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=20260926-138665af">
+<link rel="icon" href="favicon.ico" sizes="32x32">
+<link rel="icon" href="icon-48.png" type="image/png" sizes="48x48">
+<link rel="icon" href="icon-192.png" type="image/png" sizes="192x192">
+<link rel="apple-touch-icon" href="apple-touch-icon.png" sizes="180x180">
+<link rel="manifest" href="site.webmanifest">
 <script>
   (function() {
+    try {
     var saved = localStorage.getItem('theme');
     if (saved === 'obsidian' || (!saved && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-      document.documentElement.setAttribute('data-theme', 'obsidian');
+    document.documentElement.setAttribute('data-theme', 'obsidian');
     }
     var f = localStorage.getItem('readerFont');
     if (f === 'opendyslexic' || f === 'cormorant' || f === 'newsreader' || f === 'spectral') {
-      document.documentElement.className = (document.documentElement.className + ' rf-' + f).trim();
+    document.documentElement.className = (document.documentElement.className + ' rf-' + f).trim();
+    }
+    } catch (e) { /* storage unavailable */ }
+    if ("IntersectionObserver" in window && !(window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches)) {
+      document.documentElement.classList.add("js-anim");
     }
   })();
 </script>
+<link rel="canonical" href="https://ri.theomniarch.com.ng/chapter-1.html">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="The Omniarch Translation">
+<meta property="og:title" content="Chapter 1: Though The Flesh Perish, The Demonic Heart Knows No Regret — Reverend Insanity">
+<meta property="og:description" content="Chapter 1 of 4 in The Omniarch's literary English re-translation of Reverend Insanity by Gu Zhen Ren. 2,170 words, about 10 minutes.">
+<meta property="og:url" content="https://ri.theomniarch.com.ng/chapter-1.html">
+<meta property="og:image" content="https://ri.theomniarch.com.ng/cover.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Chapter 1: Though The Flesh Perish, The Demonic Heart Knows No Regret — Reverend Insanity">
+<meta name="twitter:description" content="Chapter 1 of 4 in The Omniarch's literary English re-translation of Reverend Insanity by Gu Zhen Ren. 2,170 words, about 10 minutes.">
+<meta name="twitter:image" content="https://ri.theomniarch.com.ng/cover.jpg">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Chapter", "name": "Chapter 1: Though The Flesh Perish, The Demonic Heart Knows No Regret — Reverend Insanity", "position": 1, "url": "https://ri.theomniarch.com.ng/chapter-1.html", "wordCount": 2170, "inLanguage": "en", "isPartOf": {"@type": "Book", "name": "Reverend Insanity", "alternateName": "蛊真人", "author": {"@type": "Person", "name": "Gu Zhen Ren"}, "inLanguage": "zh", "numberOfPages": 2334}, "translator": {"@type": "Person", "name": "The Omniarch"}, "publisher": {"@type": "Organization", "name": "The Omniarch Translation", "url": "https://ri.theomniarch.com.ng/"}}</script>
 </head>
 <body>
 
@@ -103,7 +122,7 @@
       </span>
     </div>
     <div class="reader-gamepad" aria-label="Chapter navigation">
-      <span class="gamepad-btn prev disabled" aria-disabled="true" title="First Chapter">←</span>
+      <a class="gamepad-btn prev" href="preface" title="Author's Preface">←</a>
       <a class="gamepad-btn next" href="chapter-2" title="Next Chapter: Chapter 2">→</a>
     </div>
   </div>
@@ -191,7 +210,7 @@
 </main>
 
 <nav class="chapter-nav">
-  <a class="btn btn-ghost" href="index.html#chapters">← Chapters</a>
+  <a class="btn btn-ghost" href="preface">← Author's Preface</a>
   <a class="btn btn-primary" href="chapter-2">Chapter 2 →</a>
 </nav>
 
@@ -211,6 +230,6 @@
   </div>
 </footer>
 
-<script src="app.js?v=20260923S"></script>
+<script src="app.js?v=20260926-138665af"></script>
 </body>
 </html>
