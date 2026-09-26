@@ -398,13 +398,81 @@ document.addEventListener("DOMContentLoaded", function () {
     applyFinder();
   }
 
-    // codex: remember the furthest chapter reached. Same origin, so the wiki
-  // can gate its entries at the reader's own position.
+    // codex & resume: remember reading progress and current paragraph position
   var chAttr = document.body.getAttribute("data-chapter");
   if (chAttr) {
     var chNum = parseInt(chAttr, 10);
     var prevCh = parseInt(store.getItem("riProgress") || "0", 10);
     if (chNum > prevCh) store.setItem("riProgress", String(chNum));
+
+    var activeHash = window.location.hash ? window.location.hash.substring(1) : "";
+    var saveResumeState = function (paraId) {
+      try {
+        var state = {
+          ch: chNum,
+          p: paraId || "",
+          t: Date.now()
+        };
+        store.setItem("ri_resume", JSON.stringify(state));
+      } catch (e) {}
+    };
+
+    // If user arrived directly without a hash, check if there was a saved paragraph
+    if (!activeHash) {
+      try {
+        var prevResume = JSON.parse(store.getItem("ri_resume") || "null");
+        if (prevResume && prevResume.ch === chNum && prevResume.p && prevResume.p !== "p1") {
+          var targetEl = document.getElementById(prevResume.p);
+          if (targetEl) {
+            var pill = document.createElement("a");
+            pill.className = "resume-pill";
+            pill.href = "#" + prevResume.p;
+            pill.innerHTML = '<span class="rp-icon">\u21B4</span> Resume at \u00b6' + prevResume.p.replace(/^p/, '');
+            pill.addEventListener("click", function (ev) {
+              ev.preventDefault();
+              targetEl.scrollIntoView({ behavior: "smooth", block: "center" });
+              try { history.replaceState(null, "", "#" + prevResume.p); } catch (e) {}
+              pill.classList.add("fade-out");
+              setTimeout(function () { if (pill.parentNode) pill.parentNode.removeChild(pill); }, 400);
+            });
+            document.body.appendChild(pill);
+
+            var dismissTimer = setTimeout(function () {
+              pill.classList.add("fade-out");
+              setTimeout(function () { if (pill.parentNode) pill.parentNode.removeChild(pill); }, 400);
+            }, 9000);
+
+            var onDismissScroll = function () {
+              if (window.scrollY > 400) {
+                clearTimeout(dismissTimer);
+                pill.classList.add("fade-out");
+                setTimeout(function () { if (pill.parentNode) pill.parentNode.removeChild(pill); }, 400);
+                window.removeEventListener("scroll", onDismissScroll);
+              }
+            };
+            window.addEventListener("scroll", onDismissScroll, { passive: true });
+          }
+        }
+      } catch (e) {}
+    }
+
+    // Observe paragraph visibility to record current reading paragraph
+    var proseParas = document.querySelectorAll(".prose p[id]");
+    if (proseParas.length && "IntersectionObserver" in window) {
+      var pObs = new IntersectionObserver(function (entries) {
+        for (var pi = 0; pi < entries.length; pi++) {
+          var ent = entries[pi];
+          if (ent.isIntersecting && ent.target.id) {
+            saveResumeState(ent.target.id);
+          }
+        }
+      }, { rootMargin: "0px 0px -70% 0px" });
+      for (var pi = 0; pi < proseParas.length; pi++) {
+        pObs.observe(proseParas[pi]);
+      }
+    } else {
+      saveResumeState(activeHash || "p1");
+    }
   }
 
   var revealed = document.body.getAttribute("data-revealed");
@@ -471,6 +539,56 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     }
   }
+
+  // Resume reading banner / dynamic CTA on index page & chapter progress markers
+  try {
+    var resumeRaw = store.getItem("ri_resume");
+    var maxRead = parseInt(store.getItem("riProgress") || "0", 10);
+    if (resumeRaw || maxRead > 0) {
+      var rData = resumeRaw ? JSON.parse(resumeRaw) : null;
+      var targetCh = rData && rData.ch ? rData.ch : maxRead;
+      var targetP = rData && rData.ch === targetCh && rData.p ? rData.p : "";
+
+      var ctaRow = document.querySelector(".cta-row");
+      var primaryBtn = ctaRow ? ctaRow.querySelector(".btn-primary") : null;
+      if (primaryBtn && targetCh > 0) {
+        var pHash = targetP && targetP !== "p1" ? "#" + targetP : "";
+        var pLabel = targetP && targetP !== "p1" ? " \u00b7 \u00b6" + targetP.replace(/^p/, "") : "";
+        primaryBtn.href = "/chapter-" + targetCh + pHash;
+        primaryBtn.textContent = "Resume Chapter " + targetCh + pLabel + " \u2192";
+        primaryBtn.classList.add("btn-resumed");
+
+        var ctaNote = document.querySelector(".cta-note");
+        if (ctaNote) {
+          ctaNote.innerHTML = '<span>Picking up where you left off. Or <a href="/preface">read the Preface &rarr;</a></span>';
+        }
+      }
+
+      // Mark chapters in chapter list
+      if (targetCh > 0) {
+        var chRows = document.querySelectorAll(".ch-row[href]");
+        for (var cri = 0; cri < chRows.length; cri++) {
+          var row = chRows[cri];
+          var href = row.getAttribute("href") || "";
+          var m = href.match(/chapter-(\d+)/);
+          if (m) {
+            var num = parseInt(m[1], 10);
+            if (num === targetCh) {
+              row.classList.add("ch-current");
+              var pill = row.querySelector(".pill");
+              if (pill) pill.textContent = "Current";
+              var link = row.querySelector(".ch-link");
+              if (link) link.textContent = "Resume \u2192";
+            } else if (num < targetCh) {
+              row.classList.add("ch-read");
+              var pillR = row.querySelector(".pill");
+              if (pillR) pillR.textContent = "\u2713 Read";
+            }
+          }
+        }
+      }
+    }
+  } catch (e) {}
 
   // footer year
   var y = document.querySelector(".year");

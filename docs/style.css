@@ -3484,6 +3484,39 @@ a.fc.on:hover { box-shadow: 0 0 0 2px rgba(143,29,29,.35); }
 .fw-foot { padding: 18px 24px 40px; text-align: center; font-size: 12px; color: var(--muted); }
 .fw-foot a { color: var(--red); }
 
+/* World section lock curtain */
+.world-lock-curtain {
+  position: absolute; inset: 0; z-index: 99;
+  background: rgba(14, 13, 11, 0.88); backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  display: flex; align-items: center; justify-content: center;
+  padding: 24px;
+}
+[data-theme="light"] .world-lock-curtain {
+  background: rgba(246, 244, 239, 0.92);
+}
+.world-lock-card {
+  max-width: 480px; width: 100%;
+  background: var(--card); border: 1px solid var(--line);
+  border-radius: 16px; padding: 36px 30px; text-align: center;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.35);
+}
+.world-lock-kicker {
+  font-size: 11px; font-weight: 800; letter-spacing: 0.2em; text-transform: uppercase;
+  color: var(--red); margin-bottom: 8px;
+}
+.world-lock-title {
+  font-family: "Playfair Display", Georgia, serif; font-size: 28px;
+  font-weight: 800; margin: 0 0 12px; color: var(--ink);
+}
+.world-lock-desc {
+  font-family: "Cormorant Garamond", Georgia, serif; font-size: 17.5px;
+  line-height: 1.5; color: var(--body); margin: 0 0 24px;
+}
+.world-lock-actions {
+  display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;
+}
+
 @media (max-width: 900px) {
   .fw { height: auto; min-height: 100vh; }
   .fw .world-canvas { position: relative; height: 60vh; }
@@ -3539,218 +3572,8 @@ a.fc.on:hover { box-shadow: 0 0 0 2px rgba(143,29,29,.35); }
 }
 
 /* ============================================================
-   WIKI WORLD: IN-PROGRESS PUBLIC LOCK & BLURRED PREVIEW
+   WIKI WORLD: 3D SCENE STYLES
    ============================================================ */
-
-.world-lock-curtain {
-  position: fixed;
-  inset: 0;
-  z-index: 999;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 1.5rem;
-  background: radial-gradient(circle at 50% 45%, rgba(18, 16, 14, 0.72) 0%, rgba(10, 9, 8, 0.88) 100%);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  transition: opacity 0.4s ease, visibility 0.4s ease;
-  pointer-events: auto;
-}
-
-[data-theme="light"] .world-lock-curtain,
-body:not([data-theme="obsidian"]) .world-lock-curtain {
-  background: radial-gradient(circle at 50% 45%, rgba(247, 246, 242, 0.78) 0%, rgba(228, 224, 214, 0.90) 100%);
-}
-
-.world-lock-curtain.unlocked {
-  opacity: 0;
-  visibility: hidden;
-  pointer-events: none;
-}
-
-.world-canvas.is-locked {
-  filter: blur(7px) saturate(0.9);
-  transition: filter 0.5s ease;
-  pointer-events: none;
-}
-
-.world-pins.is-locked {
-  opacity: 0.15;
-  pointer-events: none;
-  filter: blur(4px);
-  transition: opacity 0.5s ease, filter 0.5s ease;
-}
-
-.world-lock-card {
-  position: relative;
-  max-width: 480px;
-  width: 100%;
-  padding: 2.25rem 2rem;
-  border-radius: 16px;
-  background: rgba(20, 20, 24, 0.95);
-  border: 1px solid rgba(216, 180, 90, 0.35);
-  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.5), 0 0 30px rgba(216, 180, 90, 0.12);
-  text-align: center;
-  color: #e8e3d8;
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  animation: lockCardFade 0.45s ease-out;
-}
-
-@keyframes lockCardFade {
-  from { opacity: 0; transform: scale(0.96) translateY(10px); }
-  to { opacity: 1; transform: scale(1) translateY(0); }
-}
-
-[data-theme="light"] .world-lock-card,
-body:not([data-theme="obsidian"]) .world-lock-card {
-  background: rgba(255, 255, 255, 0.96);
-  border: 1px solid rgba(143, 29, 29, 0.25);
-  box-shadow: 0 24px 60px rgba(20, 18, 12, 0.16), 0 0 30px rgba(143, 29, 29, 0.08);
-  color: var(--ink);
-}
-
-.world-lock-badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  padding: 5px 14px;
-  border-radius: 999px;
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  background: rgba(216, 180, 90, 0.15);
-  border: 1px solid rgba(216, 180, 90, 0.4);
-  color: var(--gold-bright, #ecc768);
-  margin-bottom: 1.1rem;
-}
-
-[data-theme="light"] .world-lock-badge,
-body:not([data-theme="obsidian"]) .world-lock-badge {
-  background: rgba(143, 29, 29, 0.08);
-  border-color: rgba(143, 29, 29, 0.25);
-  color: var(--red);
-}
-
-.world-lock-dot {
-  width: 7px;
-  height: 7px;
-  border-radius: 50%;
-  background: currentColor;
-  box-shadow: 0 0 8px currentColor;
-  animation: pulseLock 2s infinite ease-in-out;
-}
-
-@keyframes pulseLock {
-  0%, 100% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.35; transform: scale(0.85); }
-}
-
-.world-lock-title {
-  font-family: "Playfair Display", Georgia, serif;
-  font-size: clamp(24px, 3.2vw, 32px);
-  font-weight: 800;
-  letter-spacing: -0.01em;
-  line-height: 1.15;
-  margin: 0 0 0.85rem;
-  color: #f5f0e6;
-}
-[data-theme="light"] .world-lock-title,
-body:not([data-theme="obsidian"]) .world-lock-title {
-  color: var(--ink);
-}
-
-.world-lock-desc {
-  font-family: "Cormorant Garamond", Georgia, serif;
-  font-size: 17.5px;
-  line-height: 1.5;
-  margin: 0 0 0.85rem;
-  color: #cbbf9e;
-}
-[data-theme="light"] .world-lock-desc,
-body:not([data-theme="obsidian"]) .world-lock-desc {
-  color: var(--body);
-}
-
-.world-lock-note {
-  font-size: 12.5px;
-  line-height: 1.55;
-  color: var(--muted);
-  margin: 0 0 1.5rem;
-}
-
-.world-lock-actions {
-  display: flex;
-  gap: 12px;
-  justify-content: center;
-  flex-wrap: wrap;
-  margin-bottom: 1.25rem;
-}
-
-.world-lock-preview {
-  margin-top: 0.5rem;
-  border-top: 1px solid rgba(255, 255, 255, 0.08);
-  padding-top: 1rem;
-}
-[data-theme="light"] .world-lock-preview,
-body:not([data-theme="obsidian"]) .world-lock-preview {
-  border-top: 1px solid var(--line);
-}
-
-.world-lock-toggle-btn {
-  background: none;
-  border: none;
-  color: var(--muted);
-  font-size: 12px;
-  font-family: var(--sans);
-  cursor: pointer;
-  padding: 5px 12px;
-  border-radius: 4px;
-  transition: color 0.2s, background 0.2s;
-}
-.world-lock-toggle-btn:hover {
-  color: var(--gold-bright, #ecc768);
-  background: rgba(216, 180, 90, 0.1);
-}
-[data-theme="light"] .world-lock-toggle-btn:hover,
-body:not([data-theme="obsidian"]) .world-lock-toggle-btn:hover {
-  color: var(--red);
-  background: rgba(143, 29, 29, 0.08);
-}
-
-.world-relock-btn {
-  position: fixed;
-  bottom: 24px;
-  right: 24px;
-  z-index: 100;
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  background: rgba(20, 20, 24, 0.88);
-  color: #cbbf9e;
-  border: 1px solid rgba(216, 180, 90, 0.35);
-  border-radius: 20px;
-  padding: 6px 14px;
-  font-size: 11.5px;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  cursor: pointer;
-  backdrop-filter: blur(6px);
-  transition: all 0.2s ease;
-}
-[data-theme="light"] .world-relock-btn,
-body:not([data-theme="obsidian"]) .world-relock-btn {
-  background: rgba(255, 255, 255, 0.92);
-  color: var(--ink);
-  border-color: var(--line);
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
-}
-.world-relock-btn:hover {
-  background: rgba(143, 29, 29, 0.9);
-  color: #fff;
-  border-color: transparent;
-}
 
 .badge-in-progress {
   display: inline-block;
@@ -3770,4 +3593,69 @@ body:not([data-theme="obsidian"]) .world-relock-btn {
   background: rgba(216, 180, 90, 0.15);
   color: var(--gold-bright);
   border-color: rgba(216, 180, 90, 0.35);
+}
+
+/* Resume Reading Pill & Reading States */
+.resume-pill {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  z-index: 1000;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.7rem 1.35rem;
+  background: var(--card);
+  color: var(--fg);
+  border: 1px solid var(--accent);
+  border-radius: 9999px;
+  font-family: var(--sans);
+  font-size: 0.88rem;
+  font-weight: 600;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.28);
+  text-decoration: none;
+  cursor: pointer;
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.3s ease, background 0.2s ease, border-color 0.2s ease;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+.resume-pill:hover {
+  transform: translateY(-2px);
+  background: var(--surface);
+  color: var(--accent);
+  border-color: var(--accent);
+  text-decoration: none;
+}
+.resume-pill .rp-icon {
+  color: var(--accent);
+  display: inline-block;
+  font-size: 1.05rem;
+  line-height: 1;
+}
+.resume-pill.fade-out {
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(6px);
+}
+.btn.btn-resumed {
+  background: linear-gradient(135deg, var(--accent) 0%, #b8903c 100%);
+  color: #121214 !important;
+  font-weight: 700;
+  box-shadow: 0 4px 18px rgba(216, 180, 90, 0.32);
+}
+.ch-row.ch-current {
+  border-left: 3px solid var(--accent);
+  background: var(--surface);
+}
+.ch-row.ch-current .ch-link {
+  color: var(--accent);
+  font-weight: 700;
+}
+.ch-row.ch-current .pill {
+  background: rgba(216, 180, 90, 0.16);
+  color: var(--accent);
+  border-color: rgba(216, 180, 90, 0.4);
+}
+.ch-row.ch-read .pill {
+  opacity: 0.75;
 }
