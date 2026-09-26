@@ -9,11 +9,11 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Playfair+Display:ital,wght@0,700;0,800;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../../style.css?v=20260926-98624934">
-<link rel="icon" href="../../favicon.ico" sizes="32x32">
-<link rel="icon" href="../../icon-192.png" type="image/png" sizes="192x192">
-<link rel="apple-touch-icon" href="../../apple-touch-icon.png" sizes="180x180">
-<link rel="manifest" href="../../site.webmanifest">
+<link rel="stylesheet" href="/style.css?v=20260926-e72a3520">
+<link rel="icon" href="/favicon.ico" sizes="32x32">
+<link rel="icon" href="/icon-192.png" type="image/png" sizes="192x192">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+<link rel="manifest" href="/site.webmanifest">
 <script>
   (function () {
     try {
@@ -42,14 +42,45 @@
 <body class="page-world">
 
 <main class="fw">
-  <canvas id="worldCanvas" class="world-canvas" data-zoom="1" aria-hidden="true"></canvas>
-  <div class="world-pins" id="worldPins" data-pins="[{&quot;t&quot;: &quot;Gu Yue Village&quot;, &quot;s&quot;: &quot;gu-yue-village&quot;, &quot;c&quot;: 1, &quot;x&quot;: 0.9, &quot;z&quot;: 1.1}, {&quot;t&quot;: &quot;Qing Mao Mountain&quot;, &quot;s&quot;: &quot;qing-mao-mountain&quot;, &quot;c&quot;: 1, &quot;x&quot;: 6.1, &quot;z&quot;: -2.4}, {&quot;t&quot;: &quot;Southern Border&quot;, &quot;s&quot;: &quot;southern-border&quot;, &quot;c&quot;: 4, &quot;x&quot;: -11.0, &quot;z&quot;: 9.5}]"></div>
+  <canvas id="worldCanvas" class="world-canvas is-locked" data-zoom="1" aria-hidden="true"></canvas>
+  <div class="world-pins is-locked" id="worldPins" data-pins="[{&quot;t&quot;: &quot;Gu Yue Village&quot;, &quot;s&quot;: &quot;gu-yue-village&quot;, &quot;c&quot;: 1, &quot;x&quot;: 0.9, &quot;z&quot;: 1.1}, {&quot;t&quot;: &quot;Qing Mao Mountain&quot;, &quot;s&quot;: &quot;qing-mao-mountain&quot;, &quot;c&quot;: 1, &quot;x&quot;: 6.1, &quot;z&quot;: -2.4}, {&quot;t&quot;: &quot;Southern Border&quot;, &quot;s&quot;: &quot;southern-border&quot;, &quot;c&quot;: 4, &quot;x&quot;: -11.0, &quot;z&quot;: 9.5}]"></div>
+
+  <!-- Public View Lock Curtain & Blurred Preview -->
+  <div class="world-lock-curtain" id="worldLockCurtain" role="dialog" aria-modal="true" aria-labelledby="lockTitle">
+    <div class="world-lock-card">
+      <div class="world-lock-badge">
+        <span class="world-lock-dot"></span>
+        <span>In Progress &middot; Under Cultivation</span>
+      </div>
+      <h2 class="world-lock-title" id="lockTitle">The World is Taking Shape</h2>
+      <p class="world-lock-desc">
+        The full 3D interactive terrain of Qing Mao Mountain, its clan compounds, and character inspection chambers are currently under active refinement.
+      </p>
+      <p class="world-lock-note">
+        Geological domain warping, slope stratification, and atmospheric mist ribbons are softly previewing in the background. Full public navigation will unlock as the translation advances.
+      </p>
+      <div class="world-lock-actions">
+        <a href="/wiki/" class="btn btn-primary">&larr; Return to Wiki Codex</a>
+        <a href="/chapter-1" class="btn btn-ghost">Read Chapter 1</a>
+      </div>
+      <div class="world-lock-preview">
+        <button type="button" class="world-lock-toggle-btn" id="btnUnlockPreview">
+          Inspect 3D Scene (Preview Mode) &darr;
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Floating Re-lock button when preview is active -->
+  <button type="button" class="world-relock-btn" id="btnRelock" hidden aria-label="Lock 3D Scene View">
+    <span>🔒 Lock View</span>
+  </button>
 
   <header class="fw-head">
     <p class="fw-kicker">The Omniarch Translation</p>
     <h1 class="fw-title">The world</h1>
     <p class="fw-sub">Every place and person the published chapters name, standing in the world
-      they were named in. <a href="../">Back to the wiki</a></p>
+      they were named in. <a href="/wiki/">Back to the wiki</a></p>
   </header>
 
   <!-- Character Inspection Card in 3D -->
@@ -72,15 +103,35 @@
     </div>
   </aside>
 
-  <!-- Camera Vantage Presets Bar -->
+  <!-- Camera Vantage Presets Bar (All Places) -->
   <nav class="fw-vantage-bar" id="fwVantageBar" aria-label="Camera viewpoints">
-    <p class="fw-vantage-title">Vantage Point</p>
-    <button class="fw-vantage-btn active" data-vantage="overview" type="button">🏔️ Mountain Crest</button>
-    <button class="fw-vantage-btn" data-vantage="village" type="button">🏮 Gu Yue Village</button>
-    <button class="fw-vantage-btn" data-vantage="hall" type="button">🏛️ Clan Council Hall</button>
-    <button class="fw-vantage-btn" data-vantage="bai" type="button">❄️ Bai Clan Peak</button>
-    <button class="fw-vantage-btn" data-vantage="cavern" type="button">🌊 Spirit Cavern</button>
+    <div class="fw-vantage-head">
+      <p class="fw-vantage-title">Vantage Points</p>
+      <span class="fw-vantage-count">13 places</span>
+    </div>
+    <div class="fw-vantage-scroll">
+      <button class="fw-vantage-btn active" data-vantage="overview" type="button">🏔️ Qing Mao Peak</button>
+      <button class="fw-vantage-btn" data-vantage="village" type="button">🏮 Gu Yue Village</button>
+      <button class="fw-vantage-btn" data-vantage="hall" type="button">🏛️ Grand Council Hall</button>
+      <button class="fw-vantage-btn" data-vantage="academy" type="button">📜 Clan Academy</button>
+      <button class="fw-vantage-btn" data-vantage="cavern" type="button">🌊 Spirit Cavern</button>
+      <button class="fw-vantage-btn" data-vantage="mo-manor" type="button">🦅 Mo Faction Manor</button>
+      <button class="fw-vantage-btn" data-vantage="chi-manor" type="button">🐅 Chi Faction Manor</button>
+      <button class="fw-vantage-btn" data-vantage="fang-residence" type="button">🏡 Fang Family Home</button>
+      <button class="fw-vantage-btn" data-vantage="mountain-gate" type="button">🚪 Mountain Gate</button>
+      <button class="fw-vantage-btn" data-vantage="north-tower" type="button">🔭 North Watchtower</button>
+      <button class="fw-vantage-btn" data-vantage="south-tower" type="button">🔥 South Watchtower</button>
+      <button class="fw-vantage-btn" data-vantage="bai" type="button">❄️ Bai Clan Peak</button>
+      <button class="fw-vantage-btn" data-vantage="southern-border" type="button">🌄 Southern Border</button>
+    </div>
   </nav>
+
+  <!-- Interactive Closer Zoom HUD -->
+  <div class="fw-zoom-hud" id="fwZoomHud" aria-label="Camera zoom controls">
+    <button class="fw-zoom-btn" id="btnZoomIn" type="button" title="Zoom in closer (+)" aria-label="Zoom in closer">&plus;</button>
+    <button class="fw-zoom-btn" id="btnZoomOut" type="button" title="Zoom out (&minus;)" aria-label="Zoom out">&minus;</button>
+    <button class="fw-zoom-btn fw-zoom-reset" id="btnZoomReset" type="button" title="Reset overview" aria-label="Reset overview">&#8635;</button>
+  </div>
 
   <div class="fw-panel">
     <div class="fw-panel-section">
@@ -108,14 +159,38 @@
 
 <footer class="fw-foot">
   <p>The Omniarch Translation &middot; 24 entries from 4 chapters.
-    <a href="../">The wiki</a></p>
+    <a href="/wiki/">The wiki</a></p>
 </footer>
 
-<script src="../../app.js?v=20260926-98624934"></script>
+<script src="/app.js?v=20260926-e72a3520"></script>
 <script>window.RI_WORLD_CAST = [{"t": "Bai Ning Bing", "s": "bai-ning-bing", "c": 1, "x": 3.4, "z": -1.8, "kind": "", "desc": "The unmatched genius youth of Bai Clan, reaching Rank 3 at sixteen winters.", "rank": 3, "img": "bai-ning-bing-3d.webp"}, {"t": "Fang Yuan", "s": "fang-yuan", "c": 1, "x": 0.62, "z": 0.72, "kind": "demonic", "desc": "Five hundred years of memories reborn as a fifteen-year-old youth.", "grade": "C", "img": "fang-yuan-3d.webp"}, {"t": "Gu Yue Clan Leader", "s": "gu-yue-clan-leader", "c": 1, "x": -0.35, "z": 2.3, "kind": "elder", "desc": "Fourth generation leader of the Gu Yue clan, Rank 4 elder on Qing Mao Mountain.", "img": "gu-yue-clan-leader-3d.webp"}, {"t": "Fang Zheng", "s": "fang-zheng", "c": 2, "x": 0.85, "z": 1.15, "kind": "", "desc": "Twin brother to Fang Yuan, tested with supreme Grade A primeval talent.", "img": "fang-zheng-3d.webp"}, {"t": "Shen Cui", "s": "shen-cui", "c": 3, "x": 0.95, "z": 0.4, "kind": "", "desc": "Maidservant serving the brothers at their aunt and uncle’s courtyard.", "img": "shen-cui-3d.webp"}, {"t": "Academy Elder", "s": "academy-elder", "c": 4, "x": -0.15, "z": 1.75, "kind": "elder", "desc": "Strict academy elder presiding over the youths at the Aperture Opening Ceremony.", "img": "academy-elder-3d.webp"}, {"t": "Gu Yue Chen Bo", "s": "gu-yue-chen-bo", "c": 4, "x": 0.25, "z": 1.15, "kind": "", "desc": "First youth to enter the river of light, testing as a mortal with no aperture.", "img": "gu-yue-chen-bo-3d.webp"}, {"t": "Gu Yue Chi Cheng", "s": "gu-yue-chi-cheng", "c": 4, "x": -1.05, "z": 1.45, "kind": "", "desc": "Heir of the Chi faction, announced Grade B through clan deception.", "grade": "B", "img": "gu-yue-chi-cheng-3d.webp"}, {"t": "Gu Yue Chi Lian", "s": "gu-yue-chi-lian", "c": 4, "x": -1.35, "z": 1.85, "kind": "elder", "desc": "Elder heading the Chi faction, grandfather to Chi Cheng.", "img": "gu-yue-chi-lian-3d.webp"}, {"t": "Gu Yue Mo Bei", "s": "gu-yue-mo-bei", "c": 4, "x": 1.35, "z": 1.55, "kind": "", "desc": "Heir of the Mo faction, announced with sixty-six percent Grade B primeval sea.", "grade": "B", "img": "gu-yue-mo-bei-3d.webp"}, {"t": "Gu Yue Mo Chen", "s": "gu-yue-mo-chen", "c": 4, "x": 1.55, "z": 1.95, "kind": "elder", "desc": "Elder heading the Mo faction, rival to Chi Lian, grandfather to Mo Bei.", "img": "gu-yue-mo-chen-3d.webp"}];</script>
-<script src="../../world.js?v=20260926-98624934"></script>
+<script src="/world.js?v=20260926-e72a3520"></script>
 <script>
   (function () {
+    // Lock & Preview Mode Controls
+    var lockCurtain = document.getElementById('worldLockCurtain');
+    var btnUnlock = document.getElementById('btnUnlockPreview');
+    var btnRelock = document.getElementById('btnRelock');
+    var canvasEl = document.getElementById('worldCanvas');
+    var pinsEl = document.getElementById('worldPins');
+
+    function unlockWorld() {
+      if (lockCurtain) lockCurtain.classList.add('unlocked');
+      if (canvasEl) canvasEl.classList.remove('is-locked');
+      if (pinsEl) pinsEl.classList.remove('is-locked');
+      if (btnRelock) btnRelock.hidden = false;
+    }
+
+    function lockWorld() {
+      if (lockCurtain) lockCurtain.classList.remove('unlocked');
+      if (canvasEl) canvasEl.classList.add('is-locked');
+      if (pinsEl) pinsEl.classList.add('is-locked');
+      if (btnRelock) btnRelock.hidden = true;
+    }
+
+    if (btnUnlock) btnUnlock.addEventListener('click', unlockWorld);
+    if (btnRelock) btnRelock.addEventListener('click', lockWorld);
+
     var cast = window.RI_WORLD_CAST || [];
     var box = document.getElementById('worldPins');
     var range = document.getElementById('fwRange');
@@ -547,6 +622,31 @@
       });
     }
 
+    var btnZoomIn = document.getElementById('btnZoomIn');
+    var btnZoomOut = document.getElementById('btnZoomOut');
+    var btnZoomReset = document.getElementById('btnZoomReset');
+    if (btnZoomIn) {
+      btnZoomIn.addEventListener('click', function () {
+        if (window.RIWorld && window.RIWorld.zoomIn) window.RIWorld.zoomIn();
+      });
+    }
+    if (btnZoomOut) {
+      btnZoomOut.addEventListener('click', function () {
+        if (window.RIWorld && window.RIWorld.zoomOut) window.RIWorld.zoomOut();
+      });
+    }
+    if (btnZoomReset) {
+      btnZoomReset.addEventListener('click', function () {
+        if (window.RIWorld && window.RIWorld.reset) window.RIWorld.reset();
+        if (vantageBar) {
+          var vBtns = vantageBar.querySelectorAll('.fw-vantage-btn');
+          for (var k = 0; k < vBtns.length; k++) {
+            vBtns[k].classList.toggle('active', vBtns[k].getAttribute('data-vantage') === 'overview');
+          }
+        }
+      });
+    }
+
     if (vantageBar) {
       var vBtns = vantageBar.querySelectorAll('.fw-vantage-btn');
       for (var vi = 0; vi < vBtns.length; vi++) {
@@ -695,6 +795,9 @@
 
     try {
       var params = new URLSearchParams(window.location.search);
+      if (params.get('preview') === '1' || params.get('unlock') === '1') {
+        unlockWorld();
+      }
       var focus = params.get('focus');
       if (focus) {
         setTimeout(function () { selectPerson(focus); }, 350);

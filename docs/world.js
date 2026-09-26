@@ -2,14 +2,16 @@
    The World Plate — a live 3D scene of Qing Mao Mountain and
    Gu Yue Village, drawn from the published chapters.
 
-   Engineered with pure Canvas 2D: perspective projection,
-   multi-octave ridged crag geology, Lambertian sun diffuse
-   shading, and 3D architectural geometry for Gu Yue Village.
+   Engineered with pure Canvas 2D: high-resolution geological
+   heightfield with domain warping, slope-aware rock & biome
+   stratification, Lambertian sun diffuse lighting, crevice
+   ambient occlusion, drifting volumetric mist ribbons, close-up
+   camera zoom, and 3D architectural geometry for Gu Yue Village.
    ============================================================ */
 (function () {
   'use strict';
 
-  var GRID = 56;                 // heightfield resolution
+  var GRID = 64;                 // high-resolution terrain grid (65x65 vertices)
   var SPAN = 26;                 // world units across
   var REACH = 8.4;               // where the translation currently stops
   var REACH_AT = { 1: 7.4, 2: 7.7, 3: 8.0, 4: 8.4 };   // how far the mists had drawn back
@@ -50,28 +52,37 @@
     }
     return out / norm;
   }
+  // domain warping: produces natural tectonic folds and fluid rock strata
+  function domainWarp(x, z) {
+    var wx = fbm(x * 0.088 + 3.1, z * 0.088 + 1.7) * 2.2;
+    var wz = fbm(x * 0.088 + 8.4, z * 0.088 + 5.9) * 2.2;
+    return fbm((x + wx) * 0.082 + 11.3, (z + wz) * 0.082 + 7.7);
+  }
 
   var VILLAGE = { x: 0.25, z: 1.35 };
 
   function heightAt(x, z) {
-    // 1. Natural mountain foundation with sharp crags
-    var base = fbm(x * 0.082 + 11.3, z * 0.082 + 7.7) * 1.5;
-    var crags = ridged(x * 0.11 + 4.3, z * 0.11 + 2.7) * 2.2;
-    var h = 0.35 + base + crags * 0.58;
+    // 1. Natural mountain folds with geological domain warping
+    var base = domainWarp(x, z) * 1.85;
+    var crags = ridged(x * 0.11 + 4.3, z * 0.11 + 2.7) * 2.35;
+    var h = 0.32 + base + crags * 0.55;
 
-    // 2. Main Qing Mao Mountain Peak (青茅主峰): towering crest behind the village
+    // 2. Subtle horizontal geological rock strata steps
+    h += Math.sin(h * 5.2) * 0.06;
+
+    // 3. Main Qing Mao Mountain Peak (青茅主峰): towering crest behind the village
     var dq = Math.hypot(x - 5.5, z + 2.8);
-    h += 5.6 * Math.exp(-(dq * dq) / 26);
+    h += 5.8 * Math.exp(-(dq * dq) / 25);
 
-    // 3. North-western crag precipice & gorge
+    // 4. North-western crag precipice & gorge
     var dn = Math.hypot(x + 5.2, z - 2.5);
-    h += 3.6 * Math.exp(-(dn * dn) / 18);
+    h += 3.7 * Math.exp(-(dn * dn) / 18);
 
-    // 4. Distant eastern horizon ridge
+    // 5. Distant eastern horizon ridge
     var de = Math.hypot(x + 8.8, z + 7.8);
-    h += 2.6 * Math.exp(-(de * de) / 46);
+    h += 2.8 * Math.exp(-(de * de) / 46);
 
-    // 5. Gu Yue Village Shelf: natural mountain terrace where the clan built their settlement
+    // 6. Gu Yue Village Shelf: natural mountain terrace where the clan built their settlement
     var dx = (x - VILLAGE.x) / 1.85;
     var dz = (z - VILLAGE.z) / 1.35;
     var shelf = Math.exp(-(dx * dx + dz * dz) / 1.6);
@@ -115,7 +126,7 @@
 
   // ── camera & projection ───────────────────────────────────────────────────
   var cam = { az: 0.62, pitch: 0.30, dist: 40, f: 900, cx: 0, cy: 0, ty: 1.1, tx: 0, tz: 0 };
-  var target = { dist: 40, ty: 1.1, tx: 0, tz: 0 };
+  var target = { dist: 40, ty: 1.1, tx: 0, tz: 0, az: 0.62, pitch: 0.30 };
   var drag = { on: false, x: 0, y: 0, az0: 0, pitch0: 0, moved: 0 };
   var pitchBase = 0.30;
   var parallax = { x: 0, y: 0, tx: 0, ty: 0 };
@@ -129,7 +140,8 @@
     var cp = Math.cos(cam.pitch), sp = Math.sin(cam.pitch);
     var y2 = ry * cp - rz * sp;
     var z2 = ry * sp + rz * cp + cam.dist;
-    if (z2 < 0.6) z2 = 0.6;
+    // closer zoom near-plane clamp: allows zooming close without clipping
+    if (z2 < 0.25) z2 = 0.25;
     var f = cam.f / z2;
     return { x: cam.cx + rx * f, y: cam.cy - y2 * f, z: z2, f: f };
   }
@@ -143,6 +155,8 @@
     this.w = 0; this.h = 0; this.dpr = 1;
     this.heights = new Float32Array((GRID + 1) * (GRID + 1));
     this.shade = new Float32Array((GRID + 1) * (GRID + 1));
+    this.slope = new Float32Array((GRID + 1) * (GRID + 1));
+    this.ao = new Float32Array((GRID + 1) * (GRID + 1));
     this.build();
   }
 
@@ -155,12 +169,14 @@
 
   World.prototype.build = function () {
     var step = SPAN / GRID;
+    var n = GRID + 1;
     for (var j = 0; j <= GRID; j++) {
       for (var i = 0; i <= GRID; i++) {
         var x = -SPAN / 2 + i * step;
         var z = -SPAN / 2 + j * step;
         var h = heightAt(x, z);
-        this.heights[j * (GRID + 1) + i] = h;
+        var idx = j * n + i;
+        this.heights[idx] = h;
 
         // 3D Lambertian normal calculation: sunlight from northwest (-0.52, 0.72, -0.45)
         var hx = heightAt(x + step * 0.5, z) - heightAt(x - step * 0.5, z);
@@ -168,7 +184,13 @@
         var len = Math.hypot(hx, step, hz);
         var nx = -hx / len, ny = step / len, nz = -hz / len;
         var sunDot = nx * (-0.48) + ny * 0.76 + nz * (-0.42);
-        this.shade[j * (GRID + 1) + i] = Math.max(0.15, Math.min(1.0, (sunDot + 0.35) / 1.35));
+
+        this.shade[idx] = Math.max(0.12, Math.min(1.0, (sunDot + 0.35) / 1.35));
+        this.slope[idx] = ny; // vertical normal: ny > 0.8 is flat plateau, ny < 0.68 is steep cliff
+
+        // Crevice Ambient Occlusion (AO) from local terrain curvature
+        var avgSurround = (heightAt(x + step, z) + heightAt(x - step, z) + heightAt(x, z + step) + heightAt(x, z - step)) * 0.25;
+        this.ao[idx] = Math.max(0.65, Math.min(1.22, 1.0 + (h - avgSurround) * 1.6));
       }
     }
   };
@@ -221,7 +243,7 @@
       ctx.fillRect(0, by - bh, this.w, bh * 2);
     }
 
-    // 4. Solid, photorealistic terrain with natural biome stratification
+    // 4. Solid, photorealistic terrain with slope-aware biome stratification
     var n = GRID + 1, step = SPAN / GRID;
     var reach = this.reachNow();
     var ca = Math.cos(cam.az), sa = Math.sin(cam.az);
@@ -255,44 +277,52 @@
 
         var hgt = (this.heights[k0] + this.heights[k1] + this.heights[k2] + this.heights[k3]) / 4;
         var light = this.shade[k0];
+        var ny = this.slope[k0];
+        var ao = this.ao[k0];
 
-        // Biome Color Palette with 3D Sun Lighting
+        // Slope-Aware Biome Color Palette with 3D Sun Lighting & Ambient Occlusion
         var col;
         if (pal.dark) {
           // Obsidian Mode:
-          if (hgt > 5.2) {
-            // Summit snow / frost on high crag
-            col = mix('#3b404d', '#c2c9d6', Math.min(1, (hgt - 5.2) / 1.5) * light);
+          if (ny < 0.68) {
+            // Sheer vertical granite cliffs & fissures
+            col = mix('#13151b', '#363d4d', light * ao);
+          } else if (hgt > 5.2) {
+            // Summit snowpack & frost mantle
+            col = mix('#3b404d', '#dbe2ef', Math.min(1, (hgt - 5.2) / 1.5) * light * ao);
           } else if (hgt > 3.4) {
-            // High rocky granite crags
-            col = mix('#181b22', '#4b5263', (hgt - 3.4) / 1.8 * 0.7 + light * 0.3);
-          } else if (hgt > 1.3) {
-            // Dense alpine pine forest slope
-            col = mix('#111c16', '#253d2f', light * 0.85);
+            // Weathered upper granite crags
+            col = mix('#181b22', '#4b5263', ((hgt - 3.4) / 1.8 * 0.7 + light * 0.3) * ao);
+          } else if (hgt > 1.25) {
+            // Dense alpine pine forest slopes
+            col = mix('#101c15', '#2a4a37', light * ao);
           } else if (hgt > 0.85) {
-            // Living village terrace stone and compacted earth
-            col = mix('#1c1a17', '#38332c', light * 0.9);
+            // Village terrace cobblestone & living loam
+            col = mix('#1c1916', '#3b342b', light * ao);
           } else {
-            // Deep mist-veiled valley basin
-            col = mix('#0c0d12', '#1a1b24', light * 0.6);
+            // Deep mist-veiled valley basins
+            col = mix('#0a0c10', '#181a24', light * 0.6 * ao);
           }
         } else {
           // Light Mode (Classical Chinese Shanshui Landscape):
-          if (hgt > 5.2) {
-            // High snow cap and pale granite
-            col = mix('#e0dad0', '#ffffff', Math.min(1, (hgt - 5.2) / 1.5) * light);
+          if (ny < 0.68) {
+            // Exposed sheer granite cliff faces
+            col = mix('#4d473d', '#8a8274', light * ao);
+          } else if (hgt > 5.2) {
+            // High snow cap & pale granite
+            col = mix('#ded7cc', '#ffffff', Math.min(1, (hgt - 5.2) / 1.5) * light * ao);
           } else if (hgt > 3.4) {
-            // Weathered granite crags with warm sun highlights
-            col = mix('#635e54', '#b8b0a2', light);
-          } else if (hgt > 1.3) {
-            // Alpine pine green slope wash
-            col = mix('#526955', '#9bb09e', light);
+            // Weathered granite crags catching warm sunlight
+            col = mix('#5e594f', '#bcb3a4', light * ao);
+          } else if (hgt > 1.25) {
+            // Lush pine-needle green slope wash
+            col = mix('#4d6650', '#95ab98', light * ao);
           } else if (hgt > 0.85) {
-            // Village terrace cobblestone and warm earth
-            col = mix('#b8b0a0', '#dfd9cc', light);
+            // Village terrace cobblestone & flagstone trails
+            col = mix('#b5ad9e', '#ded7ca', light * ao);
           } else {
-            // Soft valley mist and riverbed
-            col = mix('#cdc7ba', '#e8e4dc', light * 0.8);
+            // Soft valley mist & riverbed
+            col = mix('#cac4b6', '#e6e1d8', light * 0.8 * ao);
           }
         }
 
@@ -313,38 +343,86 @@
         ctx.closePath();
         ctx.fill();
 
-        // Forest: organic pine clusters on middle slopes without grid lines
-        if (hgt > 1.4 && hgt < 4.2 && fog < 0.50) {
+        // Forest: tiered evergreen pine clusters on gentle middle slopes
+        if (hgt > 1.35 && hgt < 4.2 && ny >= 0.70 && fog < 0.48) {
           var seed = hash(i * 3.1 + 0.7, j * 2.7 + 1.3);
-          if (seed > 0.82) {
+          if (seed > 0.80) {
             var cx = (pts[k0 * 4] + pts[k3 * 4]) / 2;
             var cy = (pts[k0 * 4 + 1] + pts[k3 * 4 + 1]) / 2;
-            var sc = Math.max(1.2, pts[k0 * 4 + 3] * 0.06);
-            ctx.globalAlpha = alpha * 0.65;
-            ctx.fillStyle = pal.dark ? '#0c150e' : '#2d3d2e';
-            // triangular pine silhouette
+            var sc = Math.max(1.4, pts[k0 * 4 + 3] * 0.065);
+            ctx.globalAlpha = alpha * 0.75;
+            // dark timber trunk
+            ctx.fillStyle = pal.dark ? '#0a0d0a' : '#1f261e';
+            ctx.fillRect(cx - sc * 0.2, cy - sc * 0.6, sc * 0.4, sc * 0.6);
+            // tiered pine evergreen canopy
+            ctx.fillStyle = pal.dark ? '#0d1810' : '#2d3d2e';
             ctx.beginPath();
-            ctx.moveTo(cx, cy - sc * 3.0);
-            ctx.lineTo(cx - sc * 1.1, cy);
-            ctx.lineTo(cx + sc * 1.1, cy);
-            ctx.closePath();
-            ctx.fill();
+            ctx.moveTo(cx, cy - sc * 3.2);
+            ctx.lineTo(cx - sc * 0.9, cy - sc * 1.8);
+            ctx.lineTo(cx + sc * 0.9, cy - sc * 1.8);
+            ctx.closePath(); ctx.fill();
+
+            ctx.beginPath();
+            ctx.moveTo(cx, cy - sc * 2.1);
+            ctx.lineTo(cx - sc * 1.25, cy - sc * 0.5);
+            ctx.lineTo(cx + sc * 1.25, cy - sc * 0.5);
+            ctx.closePath(); ctx.fill();
           }
         }
       }
     }
     ctx.globalAlpha = 1;
 
-    // 5. Tangible 3D Village Architecture & Landmarks
+    // 5. Volumetric mountain mist ribbons drifting through the gorges
+    this.drawMistRibbons(pal, clock || 0);
+
+    // 6. Tangible 3D Village Architecture & Landmarks
     this.drawVillageBuildings(pal, clock || 0);
     this.drawSubterraneanCavern(pal, clock || 0);
 
-    // 6. Cultivators standing in the world
+    // 7. Cultivators standing in the world
     this.drawPeople(pal, clock || 0);
 
-    // 7. Translation frontier & atmosphere
+    // 8. Translation frontier & atmosphere
     this.drawFrontier(pal);
     this.drawAir(pal, clock || 0);
+  };
+
+  // ── Volumetric Mist Ribbons (云雾缭绕) ────────────────────────────────────
+  World.prototype.drawMistRibbons = function (pal, clock) {
+    var ctx = this.ctx, m;
+    var t = (clock || 0) * 0.00018;
+    var belts = [
+      { y: 1.15, r: 8.5, speed: 0.8, alpha: 0.18 },
+      { y: 2.25, r: 12.0, speed: -0.6, alpha: 0.14 },
+      { y: 3.45, r: 15.5, speed: 0.4, alpha: 0.12 }
+    ];
+    for (m = 0; m < belts.length; m++) {
+      var b = belts[m];
+      ctx.save();
+      ctx.beginPath();
+      var first = true;
+      for (var s = 0; s <= 28; s++) {
+        var angle = (s / 28) * Math.PI * 1.6 + t * b.speed;
+        var mx = Math.cos(angle) * b.r + Math.sin(angle * 2.5) * 1.2;
+        var mz = Math.sin(angle) * b.r * 0.75 + Math.cos(angle * 1.8) * 1.0;
+        var my = b.y + Math.sin(angle * 3.0 + t) * 0.25;
+        var mp = project(mx, my, mz);
+        if (mp.z > 1) {
+          if (first) { ctx.moveTo(mp.x, mp.y); first = false; }
+          else { ctx.lineTo(mp.x, mp.y); }
+        }
+      }
+      var mg = ctx.createLinearGradient(0, this.h * 0.2, 0, this.h * 0.8);
+      mg.addColorStop(0, pal.dark ? 'rgba(210, 220, 235, ' + b.alpha + ')' : 'rgba(255, 255, 255, ' + (b.alpha * 2.2) + ')');
+      mg.addColorStop(1, 'rgba(255, 255, 255, 0)');
+      ctx.strokeStyle = mg;
+      ctx.lineWidth = Math.max(14, 130 / (cam.dist * 0.45));
+      ctx.lineCap = 'round';
+      ctx.lineJoin = 'round';
+      ctx.stroke();
+      ctx.restore();
+    }
   };
 
   // ── 3D village architecture: tangible pavilions, gates, manors & cottages ──
@@ -383,7 +461,7 @@
       var s = VILLAGE_STRUCTURES[i];
       var y = heightAt(s.x, s.z);
       var p = project(s.x, y, s.z);
-      if (p.z > 1) {
+      if (p.z > 0.3) {
         list.push({ s: s, y: y, p: p });
       }
     }
@@ -584,7 +662,6 @@
   // ── Subterranean Spirit Spring & River of Light (地下灵泉与觉醒光河) ─────────
   World.prototype.drawSubterraneanCavern = function (pal, clock) {
     var ctx = this.ctx, i;
-    // The river of light flows through the cavern beneath the village
     var riverPts = [
       [-0.15, 0.45, 1.40],
       [0.05, 0.35, 1.65],
@@ -595,7 +672,7 @@
     var projectedRiver = [];
     for (i = 0; i < riverPts.length; i++) {
       var rp = project(riverPts[i][0], riverPts[i][1], riverPts[i][2]);
-      if (rp.z > 1) projectedRiver.push(rp);
+      if (rp.z > 0.25) projectedRiver.push(rp);
     }
     if (projectedRiver.length >= 2) {
       ctx.save();
@@ -632,7 +709,7 @@
         var gy = pA[1] + (pB[1] - pA[1]) * subFrac + 0.12 + Math.abs(Math.sin(t * 2.0 + gi * 0.7)) * 0.18;
         var gz = pA[2] + (pB[2] - pA[2]) * subFrac;
         var gp = project(gx, gy, gz);
-        if (gp.z > 1) {
+        if (gp.z > 0.25) {
           var gr = Math.max(1.8, gp.f * 0.022);
           var gg = ctx.createRadialGradient(gp.x, gp.y, 0, gp.x, gp.y, gr * 2.2);
           gg.addColorStop(0, '#ffffff');
@@ -649,7 +726,7 @@
   World.prototype.drawFrontier = function (pal) {
     var ctx = this.ctx, i;
     var p = project(0, 0, 0);
-    if (p.z < 1) return;
+    if (p.z < 0.25) return;
     var reach = this.reachNow();
     ctx.save();
     ctx.strokeStyle = pal.red;
@@ -683,7 +760,7 @@
       var bz = -12 + i * 2.4 + sway;
       var byy = 5.3 + i * 0.5 + Math.cos(t * 0.00018 + i * 1.7) * 0.2;
       var bp = project(bx, byy, bz);
-      if (bp.z < 1) continue;
+      if (bp.z < 0.25) continue;
       var bw = Math.max(2.2, bp.f * 0.085);
       ctx.globalAlpha = 0.4;
       ctx.strokeStyle = pal.ink;
@@ -706,7 +783,7 @@
       if (chapterOf(f) > this.reach) continue;
       var y = heightAt(f.x, f.z);
       var p = project(f.x, y, f.z);
-      if (p.z < 1) continue;
+      if (p.z < 0.25) continue;
       placed.push({ p: p, f: f, y: y });
     }
     placed.sort(function (a, b) { return b.p.z - a.p.z; });
@@ -837,32 +914,44 @@
 
     var azBase = cam.az;
 
+    // Vantage points directory covering all canonical landmarks
+    var VANTAGE_PRESETS = {
+      'overview':         { tx: 0, tz: 0, ty: 1.1, dist: 42, az: 0.62, pitch: 0.32 },
+      'village':          { tx: 0.25, tz: 0.70, ty: 1.15, dist: 5.5, az: 0.45, pitch: 0.18 },
+      'hall':             { tx: -0.35, tz: 2.30, ty: 2.05, dist: 4.6, az: 0.28, pitch: 0.16 },
+      'academy':          { tx: -0.15, tz: 1.65, ty: 1.55, dist: 4.8, az: 0.55, pitch: 0.19 },
+      'cavern':           { tx: 0.25, tz: 1.85, ty: 0.55, dist: 5.2, az: 1.10, pitch: 0.14 },
+      'mo-manor':         { tx: 1.55, tz: 1.85, ty: 1.65, dist: 4.8, az: 0.95, pitch: 0.20 },
+      'chi-manor':        { tx: -1.35, tz: 1.75, ty: 1.60, dist: 4.8, az: 0.15, pitch: 0.20 },
+      'fang-residence':   { tx: 0.70, tz: 0.95, ty: 1.35, dist: 4.2, az: 0.75, pitch: 0.18 },
+      'mountain-gate':    { tx: 0.20, tz: 0.15, ty: 1.00, dist: 4.5, az: 0.35, pitch: 0.15 },
+      'north-tower':      { tx: 1.85, tz: 0.60, ty: 1.65, dist: 4.6, az: 1.15, pitch: 0.22 },
+      'south-tower':      { tx: -0.85, tz: 0.65, ty: 1.55, dist: 4.6, az: 0.15, pitch: 0.22 },
+      'bai':              { tx: 3.40, tz: -1.80, ty: 3.80, dist: 5.5, az: 2.10, pitch: 0.22 },
+      'southern-border':  { tx: 0, tz: 0, ty: 1.1, dist: 52, az: 0.62, pitch: 0.32 }
+    };
+
     window.RIWorld = {
       setReach: function (n) { world.reach = n; },
       setPeople: function (list) { world.people = list || []; },
-      zoom: function (d) { target.dist = Math.max(12, Math.min(70, target.dist + d)); },
+      zoom: function (d) { target.dist = Math.max(3.2, Math.min(75, target.dist + d)); },
+      zoomIn: function () { target.dist = Math.max(3.2, target.dist - 3.5); },
+      zoomOut: function () { target.dist = Math.min(75, target.dist + 3.5); },
       look: function (deg) { azBase = deg * Math.PI / 180; },
       vantage: function (name) {
-        var presets = {
-          'overview': { tx: 0, tz: 0, ty: 1.1, dist: 40, az: 0.62, pitch: 0.30 },
-          'village':  { tx: 0.45, tz: 1.25, ty: 1.45, dist: 16, az: 0.85, pitch: 0.24 },
-          'hall':     { tx: -0.35, tz: 2.30, ty: 2.15, dist: 11, az: 0.35, pitch: 0.18 },
-          'bai':      { tx: 3.40, tz: -1.80, ty: 3.80, dist: 13, az: 2.15, pitch: 0.25 },
-          'cavern':   { tx: 0.25, tz: 1.85, ty: 0.65, dist: 12, az: 1.15, pitch: 0.15 }
-        };
-        var p = presets[name] || presets['overview'];
+        var p = VANTAGE_PRESETS[name] || VANTAGE_PRESETS['overview'];
         target.tx = p.tx; target.tz = p.tz; target.ty = p.ty; target.dist = p.dist;
         target.az = p.az; target.pitch = p.pitch;
       },
       focus: function (x, z) {
         target.tx = x; target.tz = z;
         target.ty = heightAt(x, z) + 0.35;
-        target.dist = 14;
+        target.dist = 6.2; // closer, intimate zoom for character inspection
       },
       reset: function () {
         target.tx = 0; target.tz = 0;
         target.ty = 1.1;
-        target.dist = 40;
+        target.dist = 42;
         target.az = 0.62;
         target.pitch = 0.30;
       }
@@ -880,7 +969,7 @@
             azBase += daz * 0.07;
           }
         } else {
-          azBase += 0.0012;
+          azBase += 0.0011;
         }
         if (target.pitch !== undefined) {
           var dp = target.pitch - pitchBase;
@@ -906,12 +995,12 @@
       var walkers = world.peoplePins(peopleEls, t);
       for (var wi = 0; wi < walkers.length; wi++) {
         var wk = walkers[wi];
-        wk.el.style.opacity = wk.live && wk.z > 1 ? '1' : '0';
+        wk.el.style.opacity = wk.live && wk.z > 0.3 ? '1' : '0';
         wk.el.style.transform = 'translate(' + Math.round(wk.x) + 'px,' + Math.round(wk.y) + 'px)';
       }
       for (var k = 0; k < placed.length; k++) {
         var it = placed[k];
-        var vis = it.z > 1 && it.x > -60 && it.x < world.w + 60 && it.y > -40 && it.y < world.h + 60;
+        var vis = it.z > 0.3 && it.x > -60 && it.x < world.w + 60 && it.y > -40 && it.y < world.h + 60;
         it.el.style.opacity = vis ? '1' : '0';
         it.el.style.transform = 'translate(' + Math.round(it.x) + 'px,' + Math.round(it.y) + 'px)';
       }
@@ -942,6 +1031,7 @@
     canvas.addEventListener('pointerdown', function (e) {
       drag.on = true; drag.x = e.clientX; drag.y = e.clientY;
       drag.az0 = azBase; drag.pitch0 = pitchBase;
+      delete target.az; delete target.pitch;
       if (hint) hint.style.opacity = '0';
     });
     window.addEventListener('pointerup', function () { drag.on = false; });
@@ -950,11 +1040,30 @@
       azBase = drag.az0 - (e.clientX - drag.x) * 0.006;
       pitchBase = Math.max(0.10, Math.min(0.60, drag.pitch0 + (e.clientY - drag.y) * 0.004));
     });
+    // Smooth closer zoom on wheel
     canvas.addEventListener('wheel', function (e) {
       if (!canvas.getAttribute('data-zoom')) return;
       e.preventDefault();
-      target.dist = Math.max(12, Math.min(70, target.dist + (e.deltaY > 0 ? 2.5 : -2.5)));
+      target.dist = Math.max(3.2, Math.min(75, target.dist + (e.deltaY > 0 ? 2.2 : -2.2)));
     }, { passive: false });
+
+    // Multi-touch pinch-to-zoom on mobile
+    var touchDist0 = null;
+    canvas.addEventListener('touchstart', function (e) {
+      if (e.touches.length === 2) {
+        touchDist0 = Math.hypot(e.touches[0].clientX - e.touches[1].clientX, e.touches[0].clientY - e.touches[1].clientY);
+      }
+    }, { passive: true });
+    canvas.addEventListener('touchmove', function (e) {
+      if (e.touches.length === 2 && touchDist0) {
+        var d = Math.hypot(e.touches[0].clientX - e.touches[1].clientX, e.touches[0].clientY - e.touches[1].clientY);
+        var diff = touchDist0 - d;
+        target.dist = Math.max(3.2, Math.min(75, target.dist + diff * 0.05));
+        touchDist0 = d;
+      }
+    }, { passive: true });
+    canvas.addEventListener('touchend', function () { touchDist0 = null; });
+
     document.documentElement.addEventListener('themechange', function () { pal = palette(); });
 
     var obs = new MutationObserver(function () { pal = palette(); });

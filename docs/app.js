@@ -74,8 +74,11 @@ document.addEventListener("DOMContentLoaded", function () {
           io.unobserve(e.target);
         }
       });
-    }, { threshold: 0.1 });
+    }, { threshold: 0.05 });
     reveals.forEach(function (el) { io.observe(el); });
+    setTimeout(function () {
+      reveals.forEach(function (el) { el.classList.add("in"); });
+    }, 250);
   } else {
     reveals.forEach(function (el) { el.classList.add("in"); });
   }
