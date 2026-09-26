@@ -395,7 +395,81 @@ document.addEventListener("DOMContentLoaded", function () {
     applyFinder();
   }
 
-    // footer year
+    // codex: remember the furthest chapter reached. Same origin, so the wiki
+  // can gate its entries at the reader's own position.
+  var chAttr = document.body.getAttribute("data-chapter");
+  if (chAttr) {
+    var chNum = parseInt(chAttr, 10);
+    var prevCh = parseInt(store.getItem("riProgress") || "0", 10);
+    if (chNum > prevCh) store.setItem("riProgress", String(chNum));
+  }
+
+  var revealed = document.body.getAttribute("data-revealed");
+  if (revealed) {
+    var reached = parseInt(store.getItem("riProgress") || "0", 10);
+    var prog = document.getElementById("wikiProgress");
+    if (prog) prog.textContent = reached ? "You have read to chapter " + reached : "Not started yet";
+    if (reached < parseInt(revealed, 10)) {
+      var gate = document.getElementById("wikiGate");
+      var wbody = document.getElementById("wikiBody");
+      var gm = document.getElementById("wikiGateMsg");
+      if (gate && wbody) {
+        wbody.hidden = true;
+        gate.hidden = false;
+        if (gm) gm.textContent = "This entry continues past chapter " + revealed +
+          ". You have read to chapter " + (reached || 0) + ".";
+      }
+    }
+  }
+
+  // the trace obeys the reader's position as well: marks from chapters you have
+  // not reached are not shown, and the count is recomputed from what is left.
+  var trace = document.querySelector(".wiki-trace");
+  if (trace && revealed) {
+    var reachedT = parseInt(store.getItem("riProgress") || "0", 10);
+    if (reachedT && reachedT < 2334) {
+      var segs = trace.querySelectorAll(".trace-ch");
+      var kept = 0, total = 0, firstA = null, lastA = null;
+      for (var si = 0; si < segs.length; si++) {
+        var seg = segs[si];
+        var cnm = seg.getAttribute("data-ch");
+        var cnum = cnm === "preface" ? 0 : parseInt(cnm, 10);
+        var open = cnum === 0 || cnum <= reachedT;
+        var cells = seg.querySelectorAll(".tc");
+        for (var ci = 0; ci < cells.length; ci++) {
+          var cell = cells[ci];
+          if (!open) {
+            cell.removeAttribute("title");
+            if (cell.tagName === "A") { cell.removeAttribute("href"); }
+            continue;
+          }
+          total++;
+          if (cell.className.indexOf("on") !== -1) {
+            kept++;
+            if (!firstA) firstA = cell;
+            lastA = cell;
+          }
+        }
+        if (!open) seg.className += " trace-off";
+      }
+      var sum = trace.querySelector(".trace-sum");
+      if (sum && firstA) {
+        var nameOf = function (a) {
+          var m = (a.getAttribute("title") || "").match(/^\s*(Chapter \d+|Preface)\s*\u00b6(\d+)/);
+          return m ? [m[1], m[2]] : ["", ""];
+        };
+        var f = nameOf(firstA), l = nameOf(lastA);
+        var pct = total ? Math.round(kept * 100 / total) : 0;
+        sum.innerHTML = "Written into <strong>" + kept + "</strong> of <strong>" + total +
+          "</strong> paragraphs up to chapter " + reachedT + " (" + pct + "%) \u2014 first at " +
+          '<a href="' + firstA.getAttribute("href") + '">' + f[0] + ", \u00b6" + f[1] + "</a>, " +
+          "most recently at " + '<a href="' + lastA.getAttribute("href") + '">' + l[0] +
+          ", \u00b6" + l[1] + "</a>.";
+      }
+    }
+  }
+
+  // footer year
   var y = document.querySelector(".year");
   if (y) y.textContent = new Date().getFullYear();
 });

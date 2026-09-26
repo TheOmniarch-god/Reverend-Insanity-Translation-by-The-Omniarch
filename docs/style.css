@@ -2256,7 +2256,10 @@ html.js-anim .d2 { transition-delay: 0.2s; }
   background: #2a251e;
 }
 [data-theme="obsidian"] .plate-poem {
-  color: #ffffff;
+  /* was #ffffff at weight 700: a heavy serif in pure white haloes on black and
+     reads as an outline. Lighter weight and a warm off-white settle it. */
+  color: #ded7c8;
+  font-weight: 500;
 }
 [data-theme="obsidian"] .gu-tokens span {
   background: #11100e;
@@ -2874,4 +2877,637 @@ mark { background: linear-gradient(transparent 58%, rgba(217, 178, 76, 0.55) 0);
   border-color: var(--gold);
   background: rgba(236, 199, 104, 0.10);
   color: var(--gold);
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   WIKI LAYER — the codex. Removable as one block.
+   An entry is reference material, so it is set like one: a serif name,
+   a plain lede anyone may read, and a body that appears only once the
+   reader has reached the chapter it belongs to.
+   ═══════════════════════════════════════════════════════════════════ */
+.wiki-wrap {
+  max-width: 1080px; margin: 0 auto; padding: 56px 24px 80px;
+  display: grid; grid-template-columns: minmax(0, 1fr) 260px; gap: 48px;
+  align-items: start;
+}
+.page-wiki-index .wiki-wrap { display: block; max-width: 860px; }
+.wiki-kicker {
+  font-size: 10.5px; font-weight: 800; letter-spacing: 0.22em;
+  text-transform: uppercase; color: var(--red); margin-bottom: 10px;
+}
+.wiki-title {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: clamp(30px, 5vw, 46px); font-weight: 800; letter-spacing: -0.015em;
+  line-height: 1.1; color: var(--ink);
+}
+.wiki-aka { margin-top: 8px; font-size: 13px; color: var(--muted); letter-spacing: 0.02em; }
+.wiki-badges { margin-top: 12px; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.wiki-lede {
+  margin: 26px 0 0; font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 19px; line-height: 1.66; color: var(--ink);
+}
+.wiki-body { margin-top: 30px; }
+.wiki-body h2 {
+  font-size: 15px; font-weight: 800; letter-spacing: 0.02em;
+  margin: 32px 0 10px; color: var(--ink);
+}
+.wiki-body p { font-size: 16px; line-height: 1.78; color: var(--ink); margin-bottom: 16px; }
+.wiki-body strong { font-weight: 700; }
+.wiki-body table { width: 100%; border-collapse: collapse; margin-top: 8px; font-size: 14px; }
+.wiki-body th, .wiki-body td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--line); }
+.wiki-body th { font-weight: 700; color: var(--muted); font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; }
+
+.wiki-gate { margin: 30px 0; padding: 22px 24px; border: 1px solid var(--line); border-radius: 14px; background: var(--card); }
+.wiki-gate-msg { font-size: 15px; color: var(--ink); margin-bottom: 14px; }
+
+.wiki-side { position: sticky; top: 90px; }
+.wiki-card { border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; background: var(--card); }
+.wiki-card-label { font-size: 10px; font-weight: 800; letter-spacing: 0.2em; text-transform: uppercase; color: var(--red); margin-bottom: 12px; }
+.wiki-card-row { display: flex; justify-content: space-between; gap: 12px; font-size: 12.5px; padding: 5px 0; color: var(--muted); }
+.wiki-card-row strong { color: var(--ink); font-weight: 600; text-align: right; }
+.wiki-note { margin-top: 14px; font-size: 12px; color: var(--muted); line-height: 1.7; }
+.wiki-back { margin-top: 16px; font-size: 13px; }
+.wiki-back a { color: var(--muted); text-decoration: none; border-bottom: 1px solid var(--line); }
+.wiki-back a:hover { color: var(--red); border-color: var(--red); }
+
+.wiki-progress { margin-top: 14px; font-size: 13px; color: var(--muted); }
+.wiki-rows { margin-top: 34px; display: flex; flex-direction: column; gap: 10px; }
+.wiki-row {
+  display: grid; grid-template-columns: 200px 1fr auto; gap: 18px; align-items: baseline;
+  padding: 16px 20px; border: 1px solid var(--line); border-radius: 12px;
+  text-decoration: none; background: var(--card);
+  transition: border-color .2s ease, transform .2s ease;
+}
+.wiki-row:hover { border-color: rgba(143, 29, 29, 0.45); transform: translateY(-1px); }
+.wiki-row-title { font-family: "Playfair Display", Georgia, serif; font-size: 18px; font-weight: 700; color: var(--ink); }
+.wiki-row-sub { font-size: 13.5px; color: var(--muted); line-height: 1.5; }
+.wiki-row-ch { font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); white-space: nowrap; }
+
+[data-theme="obsidian"] .wiki-row:hover { border-color: rgba(236, 199, 104, 0.4); }
+
+@media (max-width: 900px) {
+  .wiki-wrap { grid-template-columns: 1fr; gap: 32px; padding: 40px 20px 64px; }
+  .wiki-side { position: static; }
+  .wiki-row { grid-template-columns: 1fr; gap: 6px; }
+}
+
+
+/* ============================================================
+   The trace + the frontier  (wiki v3)
+   A trace is a measurement of the published text: one mark per
+   paragraph, inked where the entry's name is written. The frontier
+   is the same idea for the novel's full length: one square per
+   chapter, and only the published ones carry ink.
+   ============================================================ */
+
+.wiki-trace { margin: 26px 0 30px; }
+.wiki-trace-label {
+  font-size: 10.5px; font-weight: 800; letter-spacing: 0.2em; text-transform: uppercase;
+  color: var(--muted); margin-bottom: 10px; display: flex; flex-wrap: wrap; gap: 12px;
+  align-items: baseline;
+}
+.trace-hint { font-weight: 500; letter-spacing: 0.06em; text-transform: none; opacity: 0.75; }
+.trace { display: flex; gap: 10px; align-items: flex-end; flex-wrap: wrap; }
+.trace-ch { display: flex; flex: 0 1 0; flex-grow: var(--n, 1); min-width: 0; gap: 1px;
+            align-items: flex-end; padding-bottom: 14px; position: relative; }
+.trace-ch-name {
+  position: absolute; bottom: 0; left: 0; font-size: 9.5px; letter-spacing: 0.14em;
+  text-transform: uppercase; color: var(--muted); font-family: var(--sans);
+}
+.tc { flex: 1 1 0; min-width: 2px; height: 26px; border-radius: 1px;
+      background: var(--line); display: block; }
+a.tc.on { background: var(--red); opacity: 0.9; }
+a.tc.on:hover { opacity: 1; box-shadow: 0 0 0 2px var(--red); }
+.trace-sum { font-size: 12.5px; color: var(--muted); margin-top: 12px; }
+.trace-sum a { color: var(--red); text-decoration: none; border-bottom: 1px solid rgba(143,29,29,.3); }
+.trace-sum a:hover { border-bottom-color: var(--red); }
+.trace-note { font-size: 13px; color: var(--muted); line-height: 1.6; }
+
+.wiki-frontier { margin: 30px 0 34px; }
+.frontier-line { font-size: 14px; color: var(--body); line-height: 1.65; margin-bottom: 14px; }
+.frontier-line strong { color: var(--ink); font-weight: 700; }
+.frontier-grid {
+  display: grid; grid-template-columns: repeat(48, 1fr); gap: 2px;
+  padding: 14px; border: 1px solid var(--line); border-radius: 12px; background: var(--card);
+}
+.fc { display: block; aspect-ratio: 1 / 1; border-radius: 1px; background: #eceae3; }
+a.fc.on { background: var(--red); }
+a.fc.on:hover { box-shadow: 0 0 0 2px rgba(143,29,29,.35); }
+.frontier-ledger { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.fl-ch {
+  display: flex; flex-direction: column; gap: 1px; text-decoration: none;
+  border: 1px solid var(--line); border-radius: 9px; padding: 7px 12px; background: var(--card);
+}
+.fl-ch:hover { border-color: rgba(143,29,29,.4); }
+.fl-n { font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--red);
+        font-weight: 800; }
+.fl-v { font-size: 12px; color: var(--muted); }
+
+[data-theme="obsidian"] .fc { background: #26262b; }
+[data-theme="obsidian"] a.tc.on, [data-theme="obsidian"] a.fc.on { background: #c8412f; }
+
+@media (max-width: 700px) {
+  .frontier-grid { grid-template-columns: repeat(24, 1fr); }
+  .trace-ch { flex-basis: 100%; }
+}
+
+.trace-off { opacity: 0.28; }
+.trace-off .tc, .trace-off .tc.on { background: var(--line); }
+
+
+}
+
+
+/* ============================================================
+   The plate as the front door, and the catalogue as a shelf
+   ============================================================ */
+
+.page-wiki-index .wiki-wrap { display: block; max-width: none; padding: 0; }
+.page-wiki-index .wiki-shelf {
+  max-width: 860px; margin: 0 auto; padding: 34px 24px 80px;
+  display: block;
+}
+
+.wiki-world {
+  position: relative; width: 100%; height: clamp(470px, 74vh, 780px);
+  margin: 0; overflow: hidden; border: 0;
+  border-bottom: 1px solid var(--line);
+  background: linear-gradient(180deg, var(--card) 0%, var(--bg) 60%, var(--card) 100%);
+}
+.wiki-world::after {                 /* the scrim that carries the masthead */
+  content: ""; position: absolute; inset: 0; z-index: 2; pointer-events: none;
+  background: linear-gradient(180deg,
+    rgba(255, 255, 255, 0) 30%,
+    rgba(255, 255, 255, 0.35) 62%,
+    rgba(255, 255, 255, 0.86) 100%);
+}
+[data-theme="obsidian"] .wiki-world::after {
+  background: linear-gradient(180deg,
+    rgba(10, 10, 12, 0) 30%,
+    rgba(10, 10, 12, 0.45) 62%,
+    rgba(10, 10, 12, 0.9) 100%);
+}
+.world-copy { left: max(24px, calc(50% - 430px)); bottom: 34px; max-width: min(560px, 62%); }
+.wiki-world .wiki-title {
+  font-family: "Playfair Display", Georgia, serif; font-weight: 800;
+  font-size: clamp(38px, 6.4vw, 76px); line-height: 0.98; letter-spacing: -0.025em;
+  margin: 6px 0 10px; color: var(--ink);
+}
+.world-line { font-family: "Cormorant Garamond", Georgia, serif; font-size: clamp(16px, 2vw, 22px);
+  line-height: 1.5; max-width: 34ch; }
+.world-count { font-size: 12.5px; color: var(--muted); margin-top: 12px; letter-spacing: 0.02em; }
+.world-count strong { color: var(--ink); font-weight: 700; }
+.world-key { right: max(24px, calc(50% - 430px)); bottom: 36px; }
+
+/* the shelf of cards */
+.wiki-shelf-cards { margin: 34px 0 44px; }
+.wiki-shelf-cards .wiki-trace-label { margin-bottom: 16px; }
+.scard {
+  border: 1px solid var(--line); border-radius: 14px; background: var(--card);
+  padding: 18px 20px 16px; margin-bottom: 12px;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+.scard:hover { border-color: rgba(143, 29, 29, 0.35); }
+.scard-head { display: flex; align-items: baseline; justify-content: space-between; gap: 14px; }
+.scard-name { font-family: "Playfair Display", Georgia, serif; font-size: 22px; font-weight: 800;
+  letter-spacing: -0.01em; }
+.scard-name a { text-decoration: none; color: var(--ink); }
+.scard-name a:hover { color: var(--red); }
+.scard-n {
+  font-family: "Playfair Display", Georgia, serif; font-size: 24px; font-weight: 800;
+  color: var(--red); line-height: 1;
+}
+.scard-items { display: flex; flex-wrap: wrap; gap: 6px 8px; margin: 12px 0 10px; }
+.scard-item {
+  font-size: 13.5px; text-decoration: none; color: var(--body);
+  border-bottom: 1px solid var(--line); padding-bottom: 1px;
+}
+.scard-item:hover { color: var(--red); border-bottom-color: rgba(143, 29, 29, 0.4); }
+.scard-foot { font-size: 11.5px; letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--muted); }
+.scard-more { color: var(--red); text-decoration: none; margin-left: 8px; }
+
+@media (max-width: 860px) {
+  .wiki-world { height: clamp(380px, 62vh, 520px); }
+  .world-copy { left: 20px; right: 20px; bottom: 24px; max-width: none; }
+  .world-key { display: none; }
+  .scard-name { font-size: 19px; }
+  .scard-n { font-size: 20px; }
+}
+
+/* the plate's parts: canvas, pins, hint  (kept with the v5 hero above) */
+.world-canvas { display: block; width: 100%; height: 100%; touch-action: pan-y; cursor: grab; }
+.world-canvas:active { cursor: grabbing; }
+.world-kicker {
+  font-size: 10.5px; font-weight: 800; letter-spacing: 0.22em; text-transform: uppercase;
+  color: var(--red); margin-bottom: 8px;
+}
+.world-key-dot { width: 22px; height: 0; border-top: 1px dashed var(--red); opacity: 0.6; }
+.world-hint {
+  position: absolute; left: max(24px, calc(50% - 430px)); top: 22px; z-index: 3;
+  font-size: 10.5px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted);
+  transition: opacity 0.6s ease; pointer-events: none;
+}
+.world-pins { position: absolute; inset: 0; z-index: 4; pointer-events: none; }
+.world-pin {
+  position: absolute; left: 0; top: 0; opacity: 0; pointer-events: auto; text-decoration: none;
+  transition: opacity 0.25s ease; will-change: transform;
+}
+.world-pin-dot {
+  position: absolute; left: -5px; top: -5px; width: 10px; height: 10px; border-radius: 50%;
+  background: var(--red);
+  box-shadow: 0 0 0 4px rgba(143, 29, 29, 0.16), 0 1px 6px rgba(0, 0, 0, 0.25);
+}
+.world-pin.is-live .world-pin-dot::after {
+  content: ""; position: absolute; inset: -6px; border-radius: 50%;
+  border: 1px solid rgba(143, 29, 29, 0.45); animation: worldPulse 3.2s ease-out infinite;
+}
+@keyframes worldPulse { 0% { transform: scale(0.6); opacity: 0.9; } 100% { transform: scale(1.9); opacity: 0; } }
+.world-pin-label {
+  position: absolute; left: 14px; top: -30px; white-space: nowrap;
+  display: flex; align-items: baseline; gap: 7px;
+  background: var(--card); border: 1px solid var(--line); border-radius: 99px;
+  padding: 5px 12px; font-size: 12px; font-weight: 600; color: var(--ink);
+  box-shadow: 0 6px 18px rgba(20, 18, 12, 0.10);
+}
+.world-pin-label em { font-style: normal; font-size: 10px; letter-spacing: 0.14em;
+  text-transform: uppercase; color: var(--muted); }
+.world-pin:hover .world-pin-label { border-color: rgba(143, 29, 29, 0.45); color: var(--red); }
+@media (max-width: 860px) {
+  .world-hint { left: 20px; top: 16px; }
+  .world-pin-label { left: 12px; top: -28px; font-size: 11px; padding: 4px 10px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .world-pin.is-live .world-pin-dot::after { animation: none; }
+}
+
+
+/* ============================================================
+   Cultivation, as stated  (wiki v6)
+   Not an infobox: the sentences the chapters actually wrote,
+   each addressed to its paragraph, and a dial for the one
+   primeval sea the text measures.
+   ============================================================ */
+
+.wiki-primeval { margin: 28px 0 30px; }
+.pv-grid { display: flex; gap: 26px; align-items: flex-start; flex-wrap: wrap; }
+.pv-dial-wrap { margin: 0; display: flex; flex-direction: column; gap: 10px; max-width: 210px; }
+.pv-dial { width: 132px; height: 132px; }
+.pv-track { fill: none; stroke: var(--line); stroke-width: 5; }
+.pv-fill { fill: none; stroke: var(--red); stroke-width: 5; stroke-linecap: round; }
+.pv-num { fill: var(--ink); font-family: "Playfair Display", Georgia, serif; font-size: 24px;
+  font-weight: 800; text-anchor: middle; }
+.pv-cap { fill: var(--muted); font-family: var(--sans); font-size: 8.5px; letter-spacing: 0.14em;
+  text-transform: uppercase; text-anchor: middle; }
+.pv-note { font-size: 11.5px; line-height: 1.5; color: var(--muted); margin: 0; }
+.pv-facts { list-style: none; flex: 1 1 320px; min-width: 260px; margin: 0; padding: 0; }
+.pv-row { display: grid; grid-template-columns: 150px 1fr auto; gap: 14px; align-items: baseline;
+  padding: 9px 0; border-bottom: 1px solid var(--line); }
+.pv-row:last-child { border-bottom: 0; }
+.pv-k { font-size: 11px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--muted); }
+.pv-v { font-size: 15px; color: var(--ink); }
+.pv-c { font-size: 11px; letter-spacing: 0.06em; color: var(--red); text-decoration: none;
+  border-bottom: 1px solid rgba(143, 29, 29, 0.3); white-space: nowrap; }
+.pv-c:hover { border-bottom-color: var(--red); }
+
+@media (max-width: 700px) {
+  .pv-row { grid-template-columns: 1fr; gap: 3px; }
+  .pv-dial-wrap { max-width: none; }
+}
+
+
+/* ============================================================
+   The world in full view  (wiki v7)
+   ============================================================ */
+
+.page-world { background: var(--bg); }
+.fw { position: relative; width: 100%; height: 100vh; overflow: hidden; }
+.fw .world-canvas { position: absolute; inset: 0; width: 100%; height: 100%; touch-action: none; }
+.fw-head {
+  position: absolute; left: max(22px, calc(50% - 540px)); top: 32px; z-index: 5;
+  max-width: 400px; padding: 18px 22px; border-radius: 14px;
+  background: var(--card); border: 1px solid var(--line);
+  box-shadow: 0 16px 44px rgba(20, 18, 12, 0.12);
+  pointer-events: auto;
+}
+[data-theme="obsidian"] .fw-head { background: rgba(20, 20, 24, 0.94); }
+.fw-kicker { font-size: 10.5px; font-weight: 800; letter-spacing: 0.22em; text-transform: uppercase;
+  color: var(--red); margin-bottom: 6px; }
+.fw-title { font-family: "Playfair Display", Georgia, serif; font-size: clamp(26px, 3.8vw, 42px);
+  font-weight: 800; letter-spacing: -0.02em; line-height: 1.05; margin: 0 0 8px; color: var(--ink); }
+.fw-sub { font-family: "Cormorant Garamond", Georgia, serif; font-size: 15.5px; line-height: 1.45;
+  color: var(--body); margin: 0; }
+.fw-sub a { color: var(--red); text-decoration: underline; text-underline-offset: 3px; }
+
+/* character card */
+.fw-card {
+  position: absolute; left: max(22px, calc(50% - 560px)); bottom: 34px; z-index: 6;
+  width: 340px; border-radius: 14px; overflow: hidden;
+  background: var(--card); border: 1px solid var(--line);
+  box-shadow: 0 20px 50px rgba(15, 12, 8, 0.22);
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+[data-theme="obsidian"] .fw-card { background: rgba(18, 18, 22, 0.96); }
+.fw-card-close {
+  position: absolute; right: 10px; top: 10px; z-index: 5;
+  background: rgba(0, 0, 0, 0.65); color: #fff; border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 50%; width: 26px; height: 26px; font-size: 16px; line-height: 24px;
+  cursor: pointer; display: flex; align-items: center; justify-content: center;
+  backdrop-filter: blur(4px);
+}
+.fw-card-close:hover { background: var(--red); color: #fff; }
+.fw-card-media { width: 100%; height: 230px; overflow: hidden; background: var(--bg); position: relative; }
+
+/* 3D Rotatable Turntable Stage */
+.stage-3d-box {
+  width: 100%; height: 100%; position: relative;
+  background: radial-gradient(circle at 50% 35%, rgba(201, 162, 39, 0.15) 0%, rgba(12, 12, 16, 0.95) 85%);
+  overflow: hidden; user-select: none; touch-action: none; cursor: grab;
+}
+.stage-3d-box.is-dragging { cursor: grabbing; }
+
+.stage-3d-viewport {
+  width: 100%; height: 100%; perspective: 720px;
+  display: flex; align-items: center; justify-content: center; position: relative;
+}
+
+.stage-3d-turntable {
+  position: relative; width: 140px; height: 165px;
+  transform-style: preserve-3d; will-change: transform;
+  display: flex; align-items: center; justify-content: center;
+}
+
+/* 3D Carved Stone Dais / Pedestal */
+.stage-3d-dais {
+  position: absolute; bottom: 8px; width: 130px; height: 130px;
+  border-radius: 50%;
+  background: radial-gradient(circle, #2d2b27 30%, #151518 70%);
+  border: 2px solid rgba(201, 162, 39, 0.45);
+  box-shadow: 0 0 16px rgba(201, 162, 39, 0.25), inset 0 0 12px rgba(0, 0, 0, 0.85);
+  transform: rotateX(78deg) translateZ(-35px);
+  pointer-events: none;
+}
+.stage-3d-dais::after {
+  content: ""; position: absolute; inset: 6px; border-radius: 50%;
+  border: 1px dashed rgba(201, 162, 39, 0.35);
+}
+
+/* 3D Cultivator Standee / Figure */
+.stage-3d-standee {
+  position: relative; width: 125px; height: 155px;
+  transform-style: preserve-3d;
+  filter: drop-shadow(0 12px 16px rgba(0, 0, 0, 0.65));
+}
+
+.stage-3d-img {
+  width: 100%; height: 100%; object-fit: cover; object-position: center 20%;
+  border-radius: 8px; border: 1px solid rgba(201, 162, 39, 0.35);
+  display: block; pointer-events: none; backface-visibility: hidden;
+}
+
+/* Dynamic 3D Specular Sheen across the figure */
+.stage-3d-sheen {
+  position: absolute; inset: 0; border-radius: 8px;
+  background: linear-gradient(115deg, rgba(255,255,255,0) 25%, rgba(255,255,255,0.22) 50%, rgba(255,255,255,0) 75%);
+  pointer-events: none; mix-blend-mode: overlay;
+}
+
+/* 3D Cultivation Rank Sigil floating above */
+.stage-3d-rank-sigil {
+  position: absolute; top: -14px; left: 50%; transform: translateX(-50%);
+  display: flex; gap: 3.5px; pointer-events: none;
+}
+.stage-3d-rank-bar {
+  width: 5px; height: 10px; border-radius: 1.5px;
+  background: var(--gold-bright);
+  box-shadow: 0 0 8px rgba(235, 175, 55, 0.75);
+}
+
+/* 3D Aptitude Halo floating around waist */
+.stage-3d-halo {
+  position: absolute; bottom: 35px; left: 50%; width: 110px; height: 32px;
+  margin-left: -55px; border-radius: 50%;
+  border: 1.5px dashed var(--gold);
+  box-shadow: 0 0 12px rgba(201, 162, 39, 0.4);
+  transform: rotateX(75deg); pointer-events: none;
+}
+
+/* Stage Overlays & Controls */
+.stage-3d-bar {
+  position: absolute; top: 8px; left: 10px; right: 10px;
+  display: flex; justify-content: space-between; align-items: center;
+  pointer-events: none; z-index: 4;
+}
+.stage-3d-badge {
+  font-size: 9px; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase;
+  padding: 3px 7px; border-radius: 4px;
+  background: rgba(15, 15, 18, 0.80); color: var(--gold);
+  border: 1px solid rgba(201, 162, 39, 0.35); backdrop-filter: blur(4px);
+}
+.stage-3d-btn-auto {
+  pointer-events: auto;
+  font-size: 9.5px; font-weight: 700; padding: 3px 8px; border-radius: 4px;
+  background: rgba(15, 15, 18, 0.80); color: #fff; border: 1px solid var(--line);
+  cursor: pointer; backdrop-filter: blur(4px); transition: background 0.15s ease;
+}
+.stage-3d-btn-auto:hover { background: var(--red); color: #fff; }
+.stage-3d-btn-auto.active { background: var(--gold); color: #000; border-color: var(--gold); }
+
+/* Interactive Rotation Slider & Preset Angles */
+.stage-3d-controls {
+  position: absolute; bottom: 6px; left: 8px; right: 8px; z-index: 4;
+  display: flex; flex-direction: column; gap: 4px;
+  background: rgba(15, 15, 20, 0.85); backdrop-filter: blur(6px);
+  padding: 5px 8px; border-radius: 7px; border: 1px solid rgba(255, 255, 255, 0.08);
+}
+.stage-3d-hint {
+  font-size: 8.5px; color: var(--muted); text-align: center; margin: 0;
+  display: flex; justify-content: space-between;
+}
+.stage-3d-slider {
+  width: 100%; accent-color: var(--gold); height: 4px; cursor: pointer; margin: 2px 0;
+}
+.stage-3d-presets {
+  display: flex; gap: 4px; justify-content: center;
+}
+.stage-3d-preset-btn {
+  font-size: 8.5px; font-weight: 700; padding: 2px 6px; border-radius: 3px;
+  border: 1px solid rgba(255, 255, 255, 0.12); background: rgba(255, 255, 255, 0.06);
+  color: var(--body); cursor: pointer; line-height: 1.2;
+}
+.stage-3d-preset-btn:hover { background: rgba(201, 162, 39, 0.25); color: var(--gold-bright); }
+.stage-3d-preset-btn.active { background: var(--gold); color: #000; border-color: var(--gold); }
+
+.fw-card-fig-placeholder { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; background: var(--bg); }
+.fw-card-avatar { width: 44px; height: 44px; border-radius: 50%; background: var(--line); display: block; }
+.fw-card-body { padding: 14px 16px 16px; }
+.fw-card-kicker { font-size: 9.5px; font-weight: 800; letter-spacing: 0.18em; text-transform: uppercase; color: var(--red); margin: 0 0 4px; }
+.fw-card-title { font-family: "Playfair Display", Georgia, serif; font-size: 20px; font-weight: 700; margin: 0 0 4px; color: var(--ink); }
+.fw-card-meta { font-size: 11.5px; color: var(--gold); font-weight: 600; margin: 0 0 8px; }
+.fw-card-desc { font-size: 12.5px; line-height: 1.5; color: var(--muted); margin: 0 0 14px; }
+.fw-card-actions { display: flex; gap: 8px; }
+
+/* Card tabs */
+.fw-card-tabs {
+  display: flex; border-bottom: 1px solid var(--line); background: var(--bg);
+}
+.fw-tab-btn {
+  flex: 1; padding: 8px 12px; font-size: 10.5px; font-weight: 700;
+  text-transform: uppercase; letter-spacing: 0.08em;
+  background: transparent; border: none; color: var(--muted);
+  cursor: pointer; transition: all 0.15s ease;
+  border-bottom: 2px solid transparent;
+}
+.fw-tab-btn:hover { color: var(--ink); }
+.fw-tab-btn.active { color: var(--red); border-bottom-color: var(--red); background: var(--card); }
+
+/* Aperture & Primeval Sea Simulation */
+.stage-aperture-box {
+  width: 100%; height: 100%; position: relative;
+  background: radial-gradient(circle at 50% 50%, #15161e 0%, #08090c 90%);
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  overflow: hidden;
+}
+.stage-aperture-canvas {
+  width: 100%; height: 100%; display: block;
+}
+.stage-aperture-overlay {
+  position: absolute; bottom: 8px; left: 10px; right: 10px;
+  background: rgba(15, 16, 22, 0.85); backdrop-filter: blur(6px);
+  border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 8px;
+  padding: 6px 10px; display: flex; justify-content: space-between; align-items: center;
+}
+.aperture-overlay-left { display: flex; flex-direction: column; }
+.aperture-overlay-name { font-size: 11px; font-weight: 700; color: var(--gold-bright); }
+.aperture-overlay-sub { font-size: 9.5px; color: var(--muted); }
+.aperture-overlay-badge {
+  font-size: 13px; font-weight: 800; color: #fff;
+  padding: 2px 8px; border-radius: 99px; background: rgba(201, 162, 39, 0.25);
+  border: 1px solid var(--gold);
+}
+
+/* Vantage Presets Bar */
+.fw-vantage-bar {
+  position: absolute; top: 120px; right: max(22px, calc(50% - 540px));
+  z-index: 5; display: flex; flex-direction: column; gap: 5px;
+  background: var(--card); padding: 8px; border-radius: 12px;
+  border: 1px solid var(--line); box-shadow: 0 12px 30px rgba(15, 12, 8, 0.12);
+  width: 170px;
+}
+[data-theme="obsidian"] .fw-vantage-bar { background: rgba(20, 20, 24, 0.94); }
+.fw-vantage-title {
+  font-size: 9px; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase;
+  color: var(--muted); margin: 0 0 4px; padding: 0 4px;
+}
+.fw-vantage-btn {
+  font-size: 11px; font-weight: 600; padding: 5px 8px; border-radius: 6px;
+  background: var(--bg); color: var(--body); border: 1px solid var(--line);
+  cursor: pointer; text-align: left; display: flex; align-items: center; gap: 6px;
+  transition: all 0.15s ease;
+}
+.fw-vantage-btn:hover { border-color: var(--red); color: var(--red); }
+.fw-vantage-btn.active { background: var(--red); color: #fff; border-color: var(--red); }
+
+@media (max-width: 900px) {
+  .fw-vantage-bar { position: static; width: auto; margin: 12px 18px 0; }
+}
+
+/* right-side control panel */
+.fw-panel {
+  position: absolute; right: max(22px, calc(50% - 540px)); bottom: 34px; z-index: 5;
+  width: 320px; padding: 18px 20px; border-radius: 14px;
+  background: var(--card); border: 1px solid var(--line);
+  box-shadow: 0 16px 44px rgba(20, 18, 12, 0.12);
+  display: flex; flex-direction: column; gap: 16px;
+}
+[data-theme="obsidian"] .fw-panel { background: rgba(20, 20, 24, 0.94); }
+.fw-label { font-size: 10px; font-weight: 800; letter-spacing: 0.2em; text-transform: uppercase;
+  color: var(--muted); margin: 0 0 8px; }
+.fw-sub-hint { text-transform: none; font-size: 10px; letter-spacing: normal; font-weight: 400; color: var(--muted); }
+.fw-slider { display: flex; align-items: center; gap: 12px; }
+.fw-slider input[type="range"] { flex: 1; accent-color: var(--red); }
+#fwOut { font-size: 11.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--red);
+  font-weight: 700; white-space: nowrap; }
+.fw-note { font-size: 11.5px; line-height: 1.5; color: var(--muted); margin: 8px 0 0; }
+.fw-cast-grid { display: flex; flex-wrap: wrap; gap: 6px; max-height: 120px; overflow-y: auto; padding-right: 2px; }
+.fw-cast-btn {
+  font-size: 11px; padding: 4px 9px; border-radius: 99px;
+  background: var(--bg); color: var(--body); border: 1px solid var(--line);
+  cursor: pointer; transition: all 0.15s ease; white-space: nowrap;
+}
+.fw-cast-btn:hover { border-color: var(--red); color: var(--red); }
+.fw-cast-btn.active { background: var(--red); color: #fff; border-color: var(--red); }
+.fw-cast-btn.fw-out { opacity: 0.35; pointer-events: none; }
+.fw-hint { font-size: 10.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin: 0 0 8px; }
+.fw-btn-reset { width: 100%; font-size: 11px; padding: 6px 10px; cursor: pointer; }
+
+.world-pin.fw-out { opacity: 0 !important; pointer-events: none; }
+.world-figure .world-pin-dot { width: 7px; height: 7px; left: -3.5px; top: -3.5px;
+  box-shadow: 0 0 0 3px rgba(143, 29, 29, 0.12); }
+.world-figure .world-pin-label { left: 11px; top: -26px; font-size: 11px; padding: 4px 10px; }
+
+.world-link { position: absolute; z-index: 3; right: max(24px, calc(50% - 430px)); top: 24px; margin: 0; }
+.world-link a {
+  font-size: 11.5px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--red); text-decoration: none; border: 1px solid rgba(143, 29, 29, 0.35);
+  border-radius: 99px; padding: 7px 14px; background: var(--card);
+}
+.world-link a:hover { background: var(--red); color: #fff; }
+
+.fw-foot { padding: 18px 24px 40px; text-align: center; font-size: 12px; color: var(--muted); }
+.fw-foot a { color: var(--red); }
+
+@media (max-width: 900px) {
+  .fw { height: auto; min-height: 100vh; }
+  .fw .world-canvas { position: relative; height: 60vh; }
+  .fw-head { position: static; padding: 20px 18px 0; max-width: none; }
+  .fw-card { position: static; width: auto; margin: 14px 18px 0; }
+  .fw-panel { position: static; width: auto; margin: 16px 18px 0; }
+  .world-link { position: static; margin: 14px 18px 0; }
+  .world-link a { display: inline-block; }
+}
+
+
+/* ============================================================
+   The standing figure & 3D character visualization  (wiki v7)
+   ============================================================ */
+
+.fig-art-hero {
+  margin: 22px 0 18px; border-radius: 14px; overflow: hidden;
+  border: 1px solid var(--line); position: relative; background: var(--card);
+  box-shadow: 0 12px 34px rgba(20, 18, 12, 0.08);
+}
+.fig-art-img { display: block; width: 100%; height: auto; max-height: 480px; object-fit: cover; }
+.fig-art-bar {
+  display: flex; justify-content: space-between; align-items: center; gap: 12px;
+  padding: 10px 16px; background: var(--card); border-top: 1px solid var(--line);
+}
+.fig-art-tag { font-size: 11px; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+.fig-art-link {
+  font-size: 11.5px; font-weight: 700; color: var(--red); text-decoration: none;
+  padding: 5px 12px; border-radius: 99px; border: 1px solid rgba(143, 29, 29, 0.3);
+  transition: all 0.15s ease;
+}
+.fig-art-link:hover { background: var(--red); color: #fff; }
+
+.wiki-figure {
+  display: grid; grid-template-columns: 240px 1fr; gap: 26px; align-items: center;
+  margin: 20px 0 30px; padding: 18px 22px 18px 18px; border: 1px solid var(--line);
+  border-radius: 16px; background: var(--card);
+}
+.fig-stage { border-radius: 12px; overflow: hidden; border: 1px solid var(--line);
+  background: var(--bg); }
+.fig-svg { display: block; width: 100%; height: auto; }
+.fig-kicker { font-size: 10px; font-weight: 800; letter-spacing: 0.2em; text-transform: uppercase;
+  color: var(--red); margin: 0 0 8px; }
+.fig-facts { font-size: 14px; color: var(--body); margin: 0 0 8px; }
+.fig-note { font-size: 12.5px; line-height: 1.6; color: var(--muted); margin: 0; }
+.fig-note a { color: var(--red); text-decoration: none; border-bottom: 1px solid rgba(143, 29, 29, 0.3); }
+.fig-note a:hover { border-bottom-color: var(--red); }
+
+@media (max-width: 720px) {
+  .wiki-figure { grid-template-columns: 1fr; gap: 16px; padding: 16px; }
+  .fig-stage { max-width: 240px; }
+  .fig-art-bar { flex-direction: column; align-items: flex-start; gap: 8px; }
 }
