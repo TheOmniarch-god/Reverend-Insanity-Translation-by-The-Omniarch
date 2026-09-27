@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Playfair+Display:ital,wght@0,700;0,800;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/style.css?v=20260926-a4866c13">
+<link rel="stylesheet" href="/style.css?v=20260927-7f175425">
 <link rel="icon" href="/favicon.ico" sizes="32x32">
 <link rel="icon" href="/icon-192.png" type="image/png" sizes="192x192">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
@@ -41,19 +41,25 @@
 </head>
 <body class="page-world">
 
-<main class="fw is-locked">
-  <div class="world-lock-curtain" id="worldLockCurtain" aria-modal="true" role="dialog">
-    <div class="world-lock-card">
-      <p class="world-lock-kicker">The Gu World &middot; Codex Map</p>
-      <h2 class="world-lock-title">World Section Closed</h2>
-      <p class="world-lock-desc">The interactive 3D world section has been closed while manuscript prose, human punctuation, and literary translation craftsmanship are undergoing deep refinement.</p>
-      <div class="world-lock-actions">
-        <a class="btn btn-primary" href="/wiki/">&larr; Return to Wiki Codex</a>
-        <a class="btn btn-ghost" href="/chapter-1">Read Chapter 1 &rarr;</a>
-      </div>
+<div class="world-lock-curtain">
+  <div class="world-lock-card">
+    <div class="world-padlock-icon">
+      <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+        <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+      </svg>
+    </div>
+    <p class="world-lock-kicker">Gu World &middot; Interactive 3D</p>
+    <h2 class="world-lock-title">The World is Under Refinement</h2>
+    <p class="world-lock-desc">The character codex and 3D terrain are currently being compiled. They will unlock as the translation progresses.</p>
+    <div class="world-lock-actions">
+      <a class="btn btn-primary" href="/chapter-1">Return to Chapter 1 &rarr;</a>
+      <a class="btn btn-ghost" href="/">Homepage</a>
     </div>
   </div>
+</div>
 
+<main class="fw">
   <canvas id="worldCanvas" class="world-canvas" data-zoom="1" aria-hidden="true"></canvas>
   <div class="world-pins" id="worldPins" data-pins="[{&quot;t&quot;: &quot;Gu Yue Village&quot;, &quot;s&quot;: &quot;gu-yue-village&quot;, &quot;c&quot;: 1, &quot;x&quot;: 0.9, &quot;z&quot;: 1.1}, {&quot;t&quot;: &quot;Qing Mao Mountain&quot;, &quot;s&quot;: &quot;qing-mao-mountain&quot;, &quot;c&quot;: 1, &quot;x&quot;: 5.5, &quot;z&quot;: -2.8}, {&quot;t&quot;: &quot;Southern Border&quot;, &quot;s&quot;: &quot;southern-border&quot;, &quot;c&quot;: 4, &quot;x&quot;: -16.0, &quot;z&quot;: 16.0}]"></div>
 
@@ -119,9 +125,9 @@
     <div class="fw-panel-section">
       <p class="fw-label">How the wiki grew</p>
       <div class="fw-slider">
-        <input type="range" id="fwRange" min="1" max="4" step="1" value="4"
+        <input type="range" id="fwRange" min="1" max="5" step="1" value="5"
                aria-label="Show the wiki as it stood at this chapter">
-        <output id="fwOut">chapter 4</output>
+        <output id="fwOut">chapter 5</output>
       </div>
       <p class="fw-note" id="fwNote">The mists stand where the translation has reached. Drag the
         slider back to watch the wiki grow.</p>
@@ -140,13 +146,14 @@
 </main>
 
 <footer class="fw-foot">
-  <p>The Omniarch Translation &middot; 24 entries from 4 chapters.
+  <p>The Omniarch Translation &middot; 30 entries from 5 chapters.
     <a href="/wiki/">The wiki</a></p>
 </footer>
 
-<script src="/app.js?v=20260926-a4866c13"></script>
+<script src="/app.js?v=20260927-7f175425"></script>
 <script>window.RI_WORLD_CAST = [{"t": "Bai Ning Bing", "s": "bai-ning-bing", "c": 1, "x": 3.4, "z": -1.8, "kind": "", "desc": "The unmatched genius youth of Bai Clan, reaching Rank 3 at sixteen winters.", "rank": 3, "img": "bai-ning-bing-3d.webp"}, {"t": "Fang Yuan", "s": "fang-yuan", "c": 1, "x": 0.62, "z": 0.72, "kind": "demonic", "desc": "Five hundred years of memories reborn as a fifteen-year-old youth.", "grade": "C", "img": "fang-yuan-3d.webp"}, {"t": "Gu Yue Clan Leader", "s": "gu-yue-clan-leader", "c": 1, "x": -0.35, "z": 2.3, "kind": "elder", "desc": "Fourth generation leader of the Gu Yue clan, Rank 4 elder on Qing Mao Mountain.", "img": "gu-yue-clan-leader-3d.webp"}, {"t": "Fang Zheng", "s": "fang-zheng", "c": 2, "x": 0.85, "z": 1.15, "kind": "", "desc": "Twin brother to Fang Yuan, tested with supreme Grade A primeval talent.", "img": "fang-zheng-3d.webp"}, {"t": "Shen Cui", "s": "shen-cui", "c": 3, "x": 0.95, "z": 0.4, "kind": "", "desc": "Maidservant serving the brothers at their aunt and uncle’s courtyard.", "img": "shen-cui-3d.webp"}, {"t": "Academy Elder", "s": "academy-elder", "c": 4, "x": -0.15, "z": 1.75, "kind": "elder", "desc": "Strict academy elder presiding over the youths at the Aperture Opening Ceremony.", "img": "academy-elder-3d.webp"}, {"t": "Gu Yue Chen Bo", "s": "gu-yue-chen-bo", "c": 4, "x": 0.25, "z": 1.15, "kind": "", "desc": "First youth to enter the river of light, testing as a mortal with no aperture.", "img": "gu-yue-chen-bo-3d.webp"}, {"t": "Gu Yue Chi Cheng", "s": "gu-yue-chi-cheng", "c": 4, "x": -1.05, "z": 1.45, "kind": "", "desc": "Heir of the Chi faction, announced Grade B through clan deception.", "grade": "B", "img": "gu-yue-chi-cheng-3d.webp"}, {"t": "Gu Yue Chi Lian", "s": "gu-yue-chi-lian", "c": 4, "x": -1.35, "z": 1.85, "kind": "elder", "desc": "Elder heading the Chi faction, grandfather to Chi Cheng.", "img": "gu-yue-chi-lian-3d.webp"}, {"t": "Gu Yue Mo Bei", "s": "gu-yue-mo-bei", "c": 4, "x": 1.35, "z": 1.55, "kind": "", "desc": "Heir of the Mo faction, announced with sixty-six percent Grade B primeval sea.", "grade": "B", "img": "gu-yue-mo-bei-3d.webp"}, {"t": "Gu Yue Mo Chen", "s": "gu-yue-mo-chen", "c": 4, "x": 1.55, "z": 1.95, "kind": "elder", "desc": "Elder heading the Mo faction, rival to Chi Lian, grandfather to Mo Bei.", "img": "gu-yue-mo-chen-3d.webp"}];</script>
-<script src="/world.js?v=20260926-a4866c13"></script>
+<script src="/three.min.js?v=20260927-7f175425"></script>
+<script src="/world.js?v=20260927-7f175425"></script>
 <script>
   (function () {
     var cast = window.RI_WORLD_CAST || [];
@@ -167,7 +174,7 @@
     var tabBtnAperture = document.getElementById('tabBtnAperture');
     var vantageBar = document.getElementById('fwVantageBar');
     var overviewBtn = document.getElementById('fwOverviewBtn');
-    var total = 4;
+    var total = 5;
     var activeSlug = null;
     var selectedCultivator = null;
     var currentCardTab = '3d';

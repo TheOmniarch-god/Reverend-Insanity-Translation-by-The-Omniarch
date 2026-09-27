@@ -3484,16 +3484,25 @@ a.fc.on:hover { box-shadow: 0 0 0 2px rgba(143,29,29,.35); }
 .fw-foot { padding: 18px 24px 40px; text-align: center; font-size: 12px; color: var(--muted); }
 .fw-foot a { color: var(--red); }
 
-/* World section lock curtain */
+/* World section lock curtain with blur & padlock */
 .world-lock-curtain {
   position: absolute; inset: 0; z-index: 99;
-  background: rgba(14, 13, 11, 0.88); backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
+  background: rgba(14, 13, 11, 0.76);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
   display: flex; align-items: center; justify-content: center;
   padding: 24px;
 }
 [data-theme="light"] .world-lock-curtain {
-  background: rgba(246, 244, 239, 0.92);
+  background: rgba(246, 244, 239, 0.78);
+}
+.world-padlock-icon {
+  margin: 0 auto 16px;
+  width: 52px; height: 52px; border-radius: 50%;
+  background: rgba(201, 162, 39, 0.12);
+  border: 1px solid rgba(201, 162, 39, 0.35);
+  color: var(--gold, #d4af37);
+  display: flex; align-items: center; justify-content: center;
 }
 .world-lock-card {
   max-width: 480px; width: 100%;
@@ -3659,3 +3668,110 @@ a.fc.on:hover { box-shadow: 0 0 0 2px rgba(143,29,29,.35); }
 .ch-row.ch-read .pill {
   opacity: 0.75;
 }
+
+
+.dot-gold {
+  background: var(--gold);
+  box-shadow: 0 0 8px rgba(236, 199, 104, 0.4);
+}
+
+/* ============================================================
+   Wiki Under Construction Modal Notice
+   ============================================================ */
+
+.wiki-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 99999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.wiki-modal[hidden] {
+  display: none !important;
+}
+
+.wiki-modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(10, 10, 12, 0.72);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+.wiki-modal-box {
+  position: relative;
+  z-index: 1;
+  max-width: 440px;
+  width: 100%;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 34px 28px 28px;
+  text-align: center;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.4);
+}
+
+[data-theme="obsidian"] .wiki-modal-box {
+  background: #141418;
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.wiki-modal-close {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  line-height: 1;
+  color: var(--muted);
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 6px;
+  transition: color 0.15s ease;
+}
+
+.wiki-modal-close:hover {
+  color: var(--head, var(--ink));
+}
+
+.wiki-modal-icon {
+  font-size: 38px;
+  margin-bottom: 12px;
+}
+
+.wiki-modal-kicker {
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin: 0 0 6px;
+}
+
+.wiki-modal-title {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 24px;
+  font-weight: 600;
+  color: var(--head, var(--ink));
+  margin: 0 0 10px;
+}
+
+.wiki-modal-desc {
+  font-size: 14.5px;
+  line-height: 1.5;
+  color: var(--muted);
+  margin: 0 0 22px;
+}
+
+.wiki-modal-actions {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+

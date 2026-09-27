@@ -590,6 +590,65 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   } catch (e) {}
 
+  // ── Wiki Click Interceptor: Show notice modal ───────────────────────────
+  function showWikiNotice() {
+    var modal = document.getElementById("wikiNoticeModal");
+    if (!modal) {
+      modal = document.createElement("div");
+      modal.className = "wiki-modal";
+      modal.id = "wikiNoticeModal";
+      modal.setAttribute("role", "dialog");
+      modal.setAttribute("aria-modal", "true");
+      modal.innerHTML =
+        '<div class="wiki-modal-backdrop"></div>' +
+        '<div class="wiki-modal-box">' +
+        '  <button type="button" class="wiki-modal-close" aria-label="Close message">&times;</button>' +
+        '  <div class="wiki-modal-icon">📜</div>' +
+        '  <p class="wiki-modal-kicker">Gu World &middot; Codex</p>' +
+        '  <h3 class="wiki-modal-title">Wiki is under refinement</h3>' +
+        '  <p class="wiki-modal-desc">The character codex and 3D world are currently being refined. They will unlock as more chapters are published.</p>' +
+        '  <div class="wiki-modal-actions">' +
+        '    <button type="button" class="btn btn-primary wiki-modal-dismiss">Got it</button>' +
+        '    <a class="btn btn-ghost" href="/chapter-1">Read Chapter 1 &rarr;</a>' +
+        '  </div>' +
+        '</div>';
+      document.body.appendChild(modal);
+
+      modal.addEventListener("click", function (e) {
+        if (e.target.classList.contains("wiki-modal-backdrop") ||
+            e.target.classList.contains("wiki-modal-close") ||
+            e.target.classList.contains("wiki-modal-dismiss")) {
+          modal.hidden = true;
+        }
+      });
+
+      document.addEventListener("keydown", function (e) {
+        if (e.key === "Escape" && !modal.hidden) {
+          modal.hidden = true;
+        }
+      });
+    }
+
+    modal.hidden = false;
+  }
+
+  document.addEventListener("click", function (e) {
+    var a = e.target.closest("a");
+    if (!a) return;
+    var href = a.getAttribute("href") || "";
+    // Intercept clicks to wiki
+    if (href === "wiki" || href === "/wiki" || href === "/wiki/" || href === "../wiki" || href === "../wiki/") {
+      e.preventDefault();
+      var burger = document.querySelector(".nav-burger");
+      var links = document.querySelector(".nav-links");
+      if (burger && links && links.classList.contains("open")) {
+        links.classList.remove("open");
+        burger.setAttribute("aria-expanded", "false");
+      }
+      showWikiNotice();
+    }
+  });
+
   // footer year
   var y = document.querySelector(".year");
   if (y) y.textContent = new Date().getFullYear();
