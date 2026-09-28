@@ -1,6 +1,6 @@
 # Reverend Insanity — Author's Preface
+
 ## Either Toward Success or Toward Destruction
-### 不是走向成功，就是走向毁灭
 
 In the past few months, I have lived through a kind of pain that life bestows, and both body and mind have struggled within it.
 
@@ -12,7 +12,7 @@ That is what happened to me. In pain, I felt waves of bewilderment.
 
 In the rest since my last book was completed until now, I have been trying to find my direction, to recover the reason I first set out.
 
-It was five or six years ago. By then I had already been reading novels for some time. *The Ethereal Journey* was the first, then *Blasphemy*, *Zhu Xian*, *Mad God*, *The Beast-Taming Studio*, *Boiling Beast Blood*, *Mount Shu*, *I Alone Am Immortal*, and so on.
+It was five or six years ago. By then I had already been reading novels for some time. The Ethereal Journey was the first, then Blasphemy, Zhu Xian, Mad God, The Beast-Taming Studio, Boiling Beast Blood, Mount Shu, I Alone Am Immortal, and so on.
 
 I read a great many novels, but a frustration built up inside me. Most protagonists I met enjoyed extraordinary fortune and were upright and virtuous. Most villains, meanwhile, were foolish, crazed, and ugly. Their reputations were impressive, but they were paper tigers, imposing until they met the protagonist, when they wilted.
 
@@ -36,13 +36,11 @@ As it happened, I needed to create an account on Qidian at the time. Okay, and s
 
 Some television dramas often play out like this: the villain defeats the protagonist and needs only one final blow to kill him. Then the villain starts rambling. Meanwhile, the protagonist secretly gathers strength, makes one last desperate effort, and invariably turns the tables to win a complete victory.
 
-If the villain is the one at a disadvantage, the scene goes like this instead: after the protagonist unleashes his power, the defeated villain lies sprawled on the ground. Facing the protagonist's sword, he suddenly bursts into tears and vows to mend his ways. The “kindhearted” protagonist hesitates. The villain seizes the moment to counterattack, and fails. The protagonist, “seeing through everything with perfect clarity,” thoroughly subdues him. His heart hardens, he shouts, “Despicable, shameless scum!” and finally kills the villain.
+If the villain is the one at a disadvantage, the scene goes like this instead: after the protagonist unleashes his power, the defeated villain lies sprawled on the ground. Facing the protagonist’s sword, he suddenly bursts into tears and vows to mend his ways. The ’kindhearted’ protagonist hesitates. The villain seizes the moment to counterattack, and fails. The protagonist, ’seeing through everything with perfect clarity,’ thoroughly subdues him. His heart hardens, he shouts, ’Despicable, shameless scum!’ and finally kills the villain.
 
-Then there are villains who kidnap the protagonist's friends and family but almost never succeed in using them as leverage. Even with an enormous advantage, they somehow lose to the protagonist through all manner of circumstances beyond their control.
+Then there are villains who kidnap the protagonist’s friends and family but almost never succeed in using them as leverage. Even with an enormous advantage, they somehow lose to the protagonist through all manner of circumstances beyond their control.
 
-It was about six years ago that I created the ID Gu Zhen Ren, with a wish in my heart: to witness an evil archvillain.
-
-He would have his own way of doing things. Rejected by the world, he would act freely and without restraint, disdaining explanation. He would be decisive in killing, never entangled by affection, and never weak at the knees before a beautiful woman.
+It was about six years ago that I created the ID Gu Zhen Ren, with a wish in my heart: to witness an evil archvillain. He would have his own way of doing things. Rejected by the world, he would act freely and without restraint, disdaining explanation. He would be decisive in killing, never entangled by affection, and never weak at the knees before a beautiful woman.
 
 His fearsome reputation would make the four seas tremble, people would pale at the mention of him.
 
@@ -66,13 +64,15 @@ Some of the past was painful to look back on. The dream, too, became buried in t
 
 But these past few days, I stopped moving forward and looked back. Suddenly, I understood something: life is not cooking. When you cook, you usually prepare the oil, salt, soy sauce, and vinegar before you begin.
 
-Life does not come prepared. Even when “everything is ready,” is not one crucial condition still missing?
+Life does not come prepared. Even when ’everything is ready,’ is not one crucial condition still missing?
 
-Life is always hurried. Many things happen suddenly, with little preparation, or none at all. Fate changes unpredictably. No one can foresee what tomorrow will bring.
+Life is always hurried. Many things happen suddenly, with little preparation, or none at all.
+
+Fate changes unpredictably. No one can foresee what tomorrow will bring.
 
 So I made a decision. Against the backdrop of the approaching, prophesied end of the world in 2012, I would write a new book.
 
-Its title would be *Gu Zhen Ren* — *Reverend Insanity*.
+Its title would be Gu Zhen Ren — Reverend Insanity.
 
 No title could suit it better.
 
@@ -80,7 +80,7 @@ This is the fruit of a seed planted six years ago.
 
 Giving the novel the same name has no other significance. It is not narcissism or arrogance, but simply an expression of fulfilling a dream. I want to realize that original dream. I want to recover the feeling that once moved me.
 
-Undoubtedly, this is a book that will invite controversy. In the view of the LK crowd, this is what they call “three views not upright.”
+Undoubtedly, this is a book that will invite controversy. In the view of the LK crowd, this is what they call ’three views not upright.’
 
 Yes, I frankly admit it here: this is a book with three views not upright.
 
