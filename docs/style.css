@@ -1052,12 +1052,20 @@ footer {
   -webkit-touch-callout: none;
 }
 .chapter-body {
-  max-width: 700px;
+  max-width: 680px;
   margin: 0 auto;
-  padding: 26px 24px 80px;
+  padding: 32px 20px 80px;
   font-size: 17px;
-  line-height: 1.95;
+  line-height: 1.9;
   color: #23221f;
+}
+
+.prose {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 36px 32px;
+  box-shadow: 0 2px 16px rgba(23, 23, 26, 0.04);
 }
 .chapter-body p { margin-bottom: 1.4em; }
 
@@ -3775,3 +3783,38 @@ a.fc.on:hover { box-shadow: 0 0 0 2px rgba(143,29,29,.35); }
 }
 
 
+
+
+/* Mobile reading container improvements */
+
+@media (max-width: 700px) {
+  .chapter-body {
+    max-width: 100%;
+    padding: 12px 12px 60px;
+    font-size: 16px;
+    line-height: 1.8;
+  }
+  .prose {
+    padding: 22px 18px;
+    border-radius: 10px;
+    box-shadow: 0 1px 10px rgba(23, 23, 26, 0.06);
+  }
+  .reader-head {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  .chapter-body {
+    padding: 8px 8px 50px;
+    font-size: 15.5px;
+    line-height: 1.75;
+  }
+  .prose {
+    padding: 18px 14px;
+    border-radius: 8px;
+    border: none;
+    box-shadow: 0 1px 8px rgba(23, 23, 26, 0.05);
+  }
+}
