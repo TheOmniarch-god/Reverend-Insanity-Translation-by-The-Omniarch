@@ -1,0 +1,67 @@
+import requests
+import json
+import os
+
+def download_media(url, folder_path, filename):
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # Raises an HTTPError for bad responses
+        
+        file_path = os.path.join(folder_path, filename)
+        with open(file_path, 'wb') as file:
+            file.write(response.content)
+        
+        print(f"Successfully downloaded: {filename}")
+        return True
+    except requests.RequestException as e:
+        print(f"Failed to download {filename}: {e}")
+        return False
+
+def retrieve_messages(channel_id, auth_token):
+   
+    headers = {
+        'authorization': auth_token
+    }
+    
+    # Define and create the storage directory
+    target_directory = 'extracted_media'
+    if not os.path.exists(target_directory):
+        os.makedirs(target_directory)
+    
+    # Execute API request
+    try:
+        response = requests.get(
+            f'https://discord.com/api/v9/channels/{channel_id}/messages', 
+            headers=headers
+        )
+        response.raise_for_status()
+    except requests.RequestException as e:
+        print(f"API request failed: {e}")
+        return
+    
+    # Parse JSON response
+    try:
+        json_data = response.json()
+    except json.JSONDecodeError as e:
+        print(f"Failed to parse JSON response: {e}")
+        return
+    
+    for message in json_data:
+        # Extract text content if it exists
+        content = message.get('content', '')
+        if content:
+            print(f"Text payload: {content}")
+
+        attachments = message.get('attachments', [])
+        for attachment in attachments:
+            url = attachment.get('url')
+            filename = attachment.get('filename')
+            
+
+            if url and filename:
+                download_media(url, target_directory, filename)
+
+if __name__ == "__main__":
+    CHANNEL_ID = ""  
+    AUTH_TOKEN = " " 
+    retrieve_messages(CHANNEL_ID, AUTH_TOKEN)
