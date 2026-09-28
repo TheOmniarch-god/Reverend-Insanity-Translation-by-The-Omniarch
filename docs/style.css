@@ -3790,7 +3790,7 @@ a.fc.on:hover { box-shadow: 0 0 0 2px rgba(143,29,29,.35); }
 @media (max-width: 700px) {
   .chapter-body {
     max-width: 100%;
-    padding: 12px 12px 60px;
+    padding: 8px 12px 60px;
     font-size: 16px;
     line-height: 1.8;
   }
@@ -3800,8 +3800,7 @@ a.fc.on:hover { box-shadow: 0 0 0 2px rgba(143,29,29,.35); }
     box-shadow: 0 1px 10px rgba(23, 23, 26, 0.06);
   }
   .reader-head {
-    padding-left: 12px;
-    padding-right: 12px;
+    padding: 72px 12px 8px;
   }
 }
 
