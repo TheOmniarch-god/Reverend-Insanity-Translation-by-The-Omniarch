@@ -1058,6 +1058,11 @@ footer {
   font-size: 17px;
   line-height: 1.9;
   color: #23221f;
+  text-align: justify;
+  hyphens: auto;
+  text-justify: inter-word;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
 }
 
 .prose {
@@ -3793,6 +3798,8 @@ a.fc.on:hover { box-shadow: 0 0 0 2px rgba(143,29,29,.35); }
     padding: 8px 12px 60px;
     font-size: 16px;
     line-height: 1.8;
+    text-align: left;
+    hyphens: none;
   }
   .prose {
     padding: 22px 18px;
