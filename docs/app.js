@@ -230,8 +230,68 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
+  // Alignment freedom — justify vs left, persisted
+  var readerAlign = store.getItem("readerAlign");
+  // Default: null means use CSS default (justify on web, left on mobile)
+  // If user has chosen, apply class
+  var chapterBodyEl = document.querySelector(".chapter-body");
+  function applyAlignment(align, persist) {
+    if (!chapterBodyEl) return;
+    chapterBodyEl.classList.remove("align-justify", "align-left");
+    var prose = chapterBodyEl.querySelector(".prose");
+    if (prose) prose.classList.remove("align-justify", "align-left");
+    if (align === "justify" || align === "left") {
+      chapterBodyEl.classList.add("align-" + align);
+      if (prose) prose.classList.add("align-" + align);
+      if (persist !== false) store.setItem("readerAlign", align);
+    } else {
+      if (persist !== false) store.removeItem("readerAlign");
+    }
+    // Update button UI if exists
+    var alignBtn = document.getElementById("alignToggle");
+    if (alignBtn) {
+      var isJustify = chapterBodyEl.classList.contains("align-justify") || (!chapterBodyEl.classList.contains("align-left") && window.innerWidth > 700);
+      // If no explicit class, infer from computed style or default
+      if (!readerAlign) {
+        // No user choice yet — show current effective alignment
+        var computed = window.getComputedStyle(chapterBodyEl).textAlign;
+        isJustify = computed === "justify";
+      } else {
+        isJustify = align === "justify" || (align !== "left" && readerAlign === "justify");
+      }
+      // For button label, show opposite action
+      if (chapterBodyEl.classList.contains("align-justify")) {
+        alignBtn.textContent = "Left";
+        alignBtn.setAttribute("title", "Switch to left-aligned text");
+        alignBtn.setAttribute("aria-label", "Switch to left-aligned text");
+      } else if (chapterBodyEl.classList.contains("align-left")) {
+        alignBtn.textContent = "Justify";
+        alignBtn.setAttribute("title", "Switch to justified text");
+        alignBtn.setAttribute("aria-label", "Switch to justified text");
+      } else {
+        // No explicit choice — show current state
+        var eff = window.getComputedStyle(chapterBodyEl).textAlign;
+        if (eff === "justify") {
+          alignBtn.textContent = "Left";
+          alignBtn.setAttribute("title", "Switch to left-aligned text");
+        } else {
+          alignBtn.textContent = "Justify";
+          alignBtn.setAttribute("title", "Switch to justified text");
+        }
+      }
+    }
+  }
+
+  // Apply saved alignment on load
+  if (readerAlign === "justify" || readerAlign === "left") {
+    // Need chapterBodyEl defined — will be set below, so defer
+  }
+
   if (proseEl) {
-    applyReaderFont(currentReaderFont(), false);
+    // Apply saved alignment now that proseEl and chapterBodyEl exist
+    if (chapterBodyEl && (readerAlign === "justify" || readerAlign === "left")) {
+      applyAlignment(readerAlign, false);
+    }
 
     // Typeface picker ("Aa" button)
     var fpBtn = document.getElementById("fontPickerBtn");
@@ -273,6 +333,39 @@ document.addEventListener("DOMContentLoaded", function () {
         var idx = fontSizes.indexOf(current);
         if (idx === -1) idx = 1;
         if (idx < fontSizes.length - 1) applyFontSize(fontSizes[idx + 1]);
+      });
+    }
+  }
+
+    // Alignment toggle button — added for freedom of choice
+    var fontCtrls = document.querySelector(".font-ctrls");
+    if (fontCtrls && chapterBodyEl) {
+      var alignBtn = document.createElement("button");
+      alignBtn.className = "font-btn";
+      alignBtn.id = "alignToggle";
+      alignBtn.type = "button";
+      // Initial label based on current effective alignment
+      var effAlign = window.getComputedStyle(chapterBodyEl).textAlign;
+      alignBtn.textContent = effAlign === "justify" ? "Left" : "Justify";
+      alignBtn.setAttribute("title", effAlign === "justify" ? "Switch to left-aligned text" : "Switch to justified text");
+      alignBtn.setAttribute("aria-label", "Toggle text alignment");
+      fontCtrls.appendChild(alignBtn);
+
+      // Apply saved alignment on load (if any)
+      var savedAlign = store.getItem("readerAlign");
+      if (savedAlign === "justify" || savedAlign === "left") {
+        applyAlignment(savedAlign, false);
+      }
+
+      alignBtn.addEventListener("click", function () {
+        var current = store.getItem("readerAlign");
+        // If no saved, infer from current class or computed
+        if (!current) {
+          var comp = window.getComputedStyle(chapterBodyEl).textAlign;
+          current = comp === "justify" ? "justify" : "left";
+        }
+        var next = current === "justify" ? "left" : "justify";
+        applyAlignment(next, true);
       });
     }
   }

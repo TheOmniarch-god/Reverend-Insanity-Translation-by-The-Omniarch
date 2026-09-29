@@ -1065,12 +1065,41 @@ footer {
   -ms-hyphens: auto;
 }
 
+
+/* Alignment freedom — user choice overrides default */
+.chapter-body.align-justify,
+.chapter-body.align-justify .prose,
+.prose.align-justify {
+  text-align: justify !important;
+  text-justify: inter-word !important;
+  hyphens: auto !important;
+  -webkit-hyphens: auto !important;
+  -ms-hyphens: auto !important;
+}
+.chapter-body.align-left,
+.chapter-body.align-left .prose,
+.prose.align-left {
+  text-align: left !important;
+  hyphens: none !important;
+  -webkit-hyphens: none !important;
+  -ms-hyphens: none !important;
+}
+.chapter-body.align-justify p,
+.chapter-body.align-left p {
+  text-align: inherit;
+}
+
 .prose {
   background: var(--card);
   border: 1px solid var(--line);
   border-radius: 12px;
   padding: 36px 32px;
   box-shadow: 0 2px 16px rgba(23, 23, 26, 0.04);
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
 }
 .chapter-body p { margin-bottom: 1.4em; }
 
@@ -3824,3 +3853,16 @@ a.fc.on:hover { box-shadow: 0 0 0 2px rgba(143,29,29,.35); }
     box-shadow: 0 1px 8px rgba(23, 23, 26, 0.05);
   }
 }
+
+
+@media (max-width: 700px) {
+  .chapter-body.align-justify,
+  .chapter-body.align-justify .prose {
+    text-align: justify !important;
+  }
+  .chapter-body.align-left,
+  .chapter-body.align-left .prose {
+    text-align: left !important;
+  }
+}
+
