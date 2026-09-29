@@ -34,7 +34,7 @@ No, no, no.
 
 After thinking it over, I thought, why not call him Gu Zhen Ren?
 
-As it happened, I needed an account on Qidian at the time, so that ID was born.
+As it happened, I needed an account on Qidian at the time, so this ID was born.
 
 Some TV dramas always do it like this: the villain defeats the protagonist and is just one final lethal strike away from killing him. Then the villain starts rambling on and on, while the protagonist secretly gathers his strength for one last gamble, and every time he turns the tables and wins.
 
