@@ -294,15 +294,24 @@ document.addEventListener("DOMContentLoaded", function () {
       var alignBtn = document.getElementById("alignToggle");
       if (alignBtn) {
         if (chapterBodyEl.classList.contains("align-justify")) {
-          alignBtn.textContent = "Left";
+          alignBtn.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><line x1="3" y1="6" x2="15" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="18" y2="18"/></svg>';
           alignBtn.title = "Switch to left-aligned text";
+          alignBtn.setAttribute("aria-label", "Switch to left-aligned text");
         } else if (chapterBodyEl.classList.contains("align-left")) {
-          alignBtn.textContent = "Justify";
+          alignBtn.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>';
           alignBtn.title = "Switch to justified text";
+          alignBtn.setAttribute("aria-label", "Switch to justified text");
         } else {
           var eff = window.getComputedStyle(chapterBodyEl).textAlign;
-          alignBtn.textContent = eff === "justify" ? "Left" : "Justify";
-          alignBtn.title = eff === "justify" ? "Switch to left-aligned text" : "Switch to justified text";
+          if (eff === "justify") {
+            alignBtn.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><line x1="3" y1="6" x2="15" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="18" y2="18"/></svg>';
+            alignBtn.title = "Switch to left-aligned text";
+            alignBtn.setAttribute("aria-label", "Switch to left-aligned text");
+          } else {
+            alignBtn.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>';
+            alignBtn.title = "Switch to justified text";
+            alignBtn.setAttribute("aria-label", "Switch to justified text");
+          }
         }
       }
     }
@@ -320,9 +329,15 @@ document.addEventListener("DOMContentLoaded", function () {
       alignBtn.id = "alignToggle";
       alignBtn.type = "button";
       var effAlign = window.getComputedStyle(chapterBodyEl).textAlign;
-      alignBtn.textContent = effAlign === "justify" ? "Left" : "Justify";
-      alignBtn.title = effAlign === "justify" ? "Switch to left-aligned text" : "Switch to justified text";
-      alignBtn.setAttribute("aria-label", "Toggle text alignment");
+      if (effAlign === "justify") {
+        alignBtn.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><line x1="3" y1="6" x2="15" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="18" y2="18"/></svg>';
+        alignBtn.title = "Switch to left-aligned text";
+        alignBtn.setAttribute("aria-label", "Switch to left-aligned text");
+      } else {
+        alignBtn.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>';
+        alignBtn.title = "Switch to justified text";
+        alignBtn.setAttribute("aria-label", "Switch to justified text");
+      }
       fontCtrls.appendChild(alignBtn);
       alignBtn.addEventListener("click", function () {
         var cur = store.getItem("readerAlign");
