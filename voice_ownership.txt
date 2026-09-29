@@ -1,0 +1,39 @@
+# Voice Ownership — Reverend Insanity Preface V4.4
+# Crisp Male Voice you liked
+
+Voice ID: voice-00
+Battle ID: 00
+Gender: masculine
+Use Case: narration
+Language: en (English, BCP-47)
+Description: Crisp male voice, clear enunciation, steady narration pace, not deep bass, not robotic, suitable for literary reading
+
+Registered Text (audition sample):
+"In the past few months I have lived through pain in both body and mind, and I have been struggling with it. Life is like a balance scale, with reality on one end and the inner self on the other. For me the side of reality grew heavier and heavier until the scale tipped."
+
+Source: Arena.ai Agent Mode TTS voice library — synthetic AI voice, not a real person. Provided via add_voice tool which auditions 2 candidates from platform's model pool. User selects preferred.
+
+Audio Files Created With This Voice:
+- /home/user/audio/preface_v4_4_part1.mp3
+- /home/user/audio/preface_v4_4_part2.mp3
+- /home/user/audio/preface_v4_4_part3.mp3
+- /home/user/audio/preface_v4_4_chunk4_soft.mp3 (softened: defy god/Buddha)
+- /home/user/audio/preface_v4_4_chunk5_fixed.mp3 (fixed order: wisp before final condition)
+- /home/user/audio/preface_v4_4_chunk6_soft.mp3 (softened: no favoritism)
+- /home/user/audio/preface_v4_4_chunk7.mp3
+- /home/user/audio/preface_v4_4_full_fixed.mp3 (full combined 3.5MB, fixed order)
+
+How to Reuse in Another Arena Agent:
+1. Start new chat with agent
+2. Say: "I want to use my saved voice-00: crisp male narration, masculine, English. It was registered for Reverend Insanity preface V4.4 with audition text 'In the past few months I have lived through pain...' If voice-00 exists, use it. If not, call add_voice with language=en, gender=masculine, use_case=narration, text=same opening, index=0, and pick the crisper male."
+3. Then: "Generate speech with voice_id you get, file_path audio/...mp3, text=..."
+
+If you want me to re-generate any future chapter with same voice-00 in this session, just say "use voice-00" and I will.
+
+Ownership: This voice is private to your Arena workspace. No one else can access voice-00 unless you share the ID. The underlying model voice is from Arena's library, but your selection (voice-00) is your preferred instance.
+
+Created: 2026-09-29
+Project: Reverend Insanity Translation by The Omniarch
+File: Preface V4.4 Practical Rule (side of reality fixed, wisp before final condition, thorns -> cutting through every obstacle)
+Live Status: LOCKED at 05c1b46 — https://ri.theomniarch.com.ng/preface returns 🔒 Locked
+Local Draft: /home/user/preface_retranslate/Preface_V4_4_Practical_Rule.md

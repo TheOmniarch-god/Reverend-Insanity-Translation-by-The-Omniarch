@@ -1,0 +1,36 @@
+# BLOCKED PARAGRAPHS — Cannot generate with Arena TTS due to content filter
+# Send these to Minimax for audio with original "kill" wording
+# These are exact V4.4 text (live version)
+
+# --- PARAGRAPH 1: God/Buddha kill (L27) ---
+# Arena blocked without fictional disclaimer, passed with disclaimer, but you wanted exact original without disclaimer
+# Original exact V4.4:
+He was a warrior, making a lone pilgrimage through darkness, cutting through every obstacle in his path. No matter what stood in his way, nothing could stop him. If a god stood in his way, he would kill the god. If a Buddha stood in his way, he would kill the Buddha!
+
+# --- PARAGRAPH 2: Kill women (L45-L46) ---
+# Arena hard-blocks ALL variants even with fictional disclaimer: kill women, kill female characters, killed women, etc.
+# Original exact V4.4:
+That is right. This book will kill women, and beautiful women at that. It will kill them in great numbers and without restraint.
+
+And it will never hold back. No matter what kind of existence it is, as long as it is an enemy. No matter how powerful he is, it will fight him. No matter how beautiful she is, it will kill her all the same.
+
+This book is very evil. Read with caution.
+
+# --- FULL CONTEXT L45-L47 for Minimax ---
+That is right. This book will kill women, and beautiful women at that. It will kill them in great numbers and without restraint.
+
+And it will never hold back. No matter what kind of existence it is, as long as it is an enemy. No matter how powerful he is, it will fight him. No matter how beautiful she is, it will kill her all the same.
+
+This book is very evil. Read with caution.
+
+# --- Notes for Minimax ---
+# Voice: Use same crisp male narration style if possible
+# Text is fictional, from author's preface to Reverend Insanity (2012), describing villain protagonist
+# Keep "kill" exactly as written — author intent is to shock and declare warped values
+
+# --- Also include people having changed paragraph (already generated but include for completeness) ---
+And so, so many years passed. I went through some things, and compared with when I first started writing, much of it is now a case of things remaining but people having changed.
+
+# Source files:
+# V4.4 doc: /home/user/preface_retranslate/Preface_V4_4_Practical_Rule.md
+# Live: https://ri.theomniarch.com.ng/preface (commit 4fa727a, 1533 words)
