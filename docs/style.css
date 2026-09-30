@@ -3658,7 +3658,7 @@ a.fc.on:hover { box-shadow: 0 0 0 2px rgba(143,29,29,.35); }
   padding: 0.7rem 1.35rem;
   background: var(--card);
   color: var(--fg);
-  border: 1px solid var(--accent);
+  border: 1px solid var(--gold);
   border-radius: 9999px;
   font-family: var(--sans);
   font-size: 0.88rem;
@@ -3673,12 +3673,12 @@ a.fc.on:hover { box-shadow: 0 0 0 2px rgba(143,29,29,.35); }
 .resume-pill:hover {
   transform: translateY(-2px);
   background: var(--surface);
-  color: var(--accent);
-  border-color: var(--accent);
+  color: var(--gold);
+  border-color: var(--gold);
   text-decoration: none;
 }
 .resume-pill .rp-icon {
-  color: var(--accent);
+  color: var(--gold);
   display: inline-block;
   font-size: 1.05rem;
   line-height: 1;
@@ -3689,22 +3689,22 @@ a.fc.on:hover { box-shadow: 0 0 0 2px rgba(143,29,29,.35); }
   transform: translateY(6px);
 }
 .btn.btn-resumed {
-  background: linear-gradient(135deg, var(--accent) 0%, #b8903c 100%);
-  color: #121214 !important;
+  background: linear-gradient(135deg, var(--gold) 0%, #b8903c 100%);
+  color: #ffffff !important;
   font-weight: 700;
   box-shadow: 0 4px 18px rgba(216, 180, 90, 0.32);
 }
 .ch-row.ch-current {
-  border-left: 3px solid var(--accent);
+  border-left: 3px solid var(--gold);
   background: var(--surface);
 }
 .ch-row.ch-current .ch-link {
-  color: var(--accent);
+  color: var(--gold);
   font-weight: 700;
 }
 .ch-row.ch-current .pill {
   background: rgba(216, 180, 90, 0.16);
-  color: var(--accent);
+  color: var(--gold);
   border-color: rgba(216, 180, 90, 0.4);
 }
 .ch-row.ch-read .pill {
