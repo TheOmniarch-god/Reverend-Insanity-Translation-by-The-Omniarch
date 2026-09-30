@@ -4,7 +4,7 @@
 
 ---
 
-In the past few months I have lived through the pain life has dealt me, and I have been struggling both physically and mentally.
+In the past few months, I have experienced the pain of life, and I have struggled physically and mentally.
 
 Life is like a balance scale, with reality on one end and the inner self on the other. For me the side of reality grew heavier and heavier until the scale tipped, and that is where the pain came from.
 
