@@ -95,13 +95,13 @@ Over these past few days, he had bought a lot of wine and wandered idly around t
 
 "If I could find that Liquor Worm and refine it into my vital Gu, it would be far better than the clan's Moonlight Gu. In the blink of an eye, it is already April; time waits for no man." Fang Yuan sighed, turning his gaze out the window.
 
-Under the blue sky and white clouds, verdant mountains stretched endlessly into the distance. In the proximity lay a bamboo forest.
+Under the blue sky and white clouds, a luxuriant verdant massif stretched endlessly into the distance. In the proximity lay a bamboo forest.
 
 This was the spear bamboo unique to Qing Mao Mountain, each one as straight as a line, its tip exceptionally sharp, just like a spearhead.
 
-Not far away, the woods had already taken on a flush of fresh green. The newly sprouted tender shoots formed a sprawling expanse of yellow-green where beautiful plumaged birds would perch upon the branches from time to time.
+Not far away, the woods had already taken on a flush of virent green. The newly sprouted tender shoots formed a sprawling smaragdine expanse of yellow-green where beautiful plumaged birds would perch upon the branches from time to time.
 
-The spring wind blew in, carrying the fresh air of green mountains and clear waters and scattering it across the world.
+The spring wind blew in, carrying the fresh air of verdant mountains and clear waters and scattering it across the world.
 
 Without realizing it, the lesson was drawing to a close. The academy elder finally announced, "This week, I have taught you how to meditate and examine the primeval sea within your apertures, as well as how to sit cross-legged and circulate the primeval essence inside your bodies. Now, it is time to refine your vital Gu. Once this class dismisses, you will go to the academy's Gu chamber to choose a Gu worm. Once selected, return home to cultivate in seclusion. Only after you have refined your Gu may you return to the academy to resume your lessons. At the same time, this will be your first assessment. Whoever takes first place will receive a generous reward of twenty primeval stones."
 

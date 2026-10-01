@@ -1214,7 +1214,7 @@ This was Qing Mao Mountain's unique spear bamboo, each bamboo stick as straight 
 蓝天白云 means blue sky white clouds, common phrase. 葱茏 means lush, verdant, similar to 万物之灵 lush spirit [3](https://www.zdic.net/hans/%E4%B8%87%E7%89%A9%E4%B9%8B%E7%81%B5). 延绵 means stretch continuously, similar to 繁衍生息 continuous multiply [11](https://baike.baidu.com/item/%E7%B9%81%E8%A1%8D%E7%94%9F%E6%81%AF/4527814).
 
 4. Proposed rendering
-Under the blue sky and white clouds, verdant mountains stretched endlessly into the distance. In the proximity lay a bamboo forest.
+Under the blue sky and white clouds, a luxuriant verdant massif stretched endlessly into the distance. In the proximity lay a bamboo forest.
 
 ---
 
@@ -1266,7 +1266,7 @@ The wind of spring blew, wrapping up the freshness of the mountains and rivers, 
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "The woods not far away had already taken on a fresh green. Tender shoots had sprouted, a sheet of yellow green. From tim..." -> improved.
 
 4. Proposed rendering
-Not far away, the woods had already taken on a flush of fresh green. The newly sprouted tender shoots formed a sprawling expanse of yellow-green where beautiful plumaged birds would perch upon the branches from time to time.
+Not far away, the woods had already taken on a flush of virent green. The newly sprouted tender shoots formed a sprawling smaragdine expanse of yellow-green where beautiful plumaged birds would perch upon the branches from time to time.
 
 ---
 
@@ -1292,7 +1292,7 @@ Without knowing it, the class was almost over. The academy elder finally informe
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "Spring wind blew in, wrapping the fresh scent of green mountains and clear waters and scattering it across the human wor..." -> improved.
 
 4. Proposed rendering
-The spring wind blew in, carrying the fresh air of green mountains and clear waters and scattering it across the world.
+The spring wind blew in, carrying the fresh air of verdant mountains and clear waters and scattering it across the world.
 
 ---
 
