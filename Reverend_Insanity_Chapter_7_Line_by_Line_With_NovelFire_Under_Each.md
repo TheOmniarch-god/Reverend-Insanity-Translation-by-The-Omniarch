@@ -1036,7 +1036,7 @@ The Liquor worm was a very precious and expensive type of Gu. The half drunk Gu 
 大喜 means overjoyed, similar to 很快 very happy quickly [1](https://www.omgchinese.com/dictionary/chinese/%E5%BE%88%E5%BF%AB). 紧追不舍 means chase without giving up, similar to 我行我素 persist own way [46](https://en.pons.com/translate/chinese-english/%E6%88%91%E8%A1%8C%E6%88%91%E7%B4%A0). 洞口 means cave entrance, aperture opening [19](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/aperture).
 
 4. Proposed rendering
-The Gu Master was overjoyed and wanted to catch it. The Liquor Worm fled in panic. The Gu Master chased closely without letting up, and following the Liquor Worm's trail, he discovered a hidden cave entrance leading underground.
+The Gu Master was overjoyed and tried to catch it. The Liquor Worm fled in panic, but the Gu Master chased closely without letting up; following its trail, he discovered a hidden cave entrance leading underground.
 
 ---
 
@@ -1061,7 +1061,7 @@ When the Gu Master returned to the village, he reported his discoveries and imme
 珍贵 means precious, valuable, similar to 奥妙 marvelous [15](https://www.purpleculture.net/dictionary-details?word=%E5%A5%A5%E5%A6%99). 酒意 means wine intent, drunkenness, similar to 烂醉如泥 drunk [40](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E7%83%82%E9%86%89%E5%A6%82%E6%B3%A5). 尸骸 means remains.
 
 4. Proposed rendering
-A Liquor Worm is a very precious kind of Gu. That Gu Master, still flushed with wine, risked entering the cave entrance and came to a secret underground cave. There, he discovered the skeletal remains of the Flower Wine Monk, along with the inheritance he had left behind.
+A Liquor Worm is a very precious kind of Gu. Still flushed with wine, that Gu Master risked entering the cave and reached a clandestine chamber. There, he discovered the skeletal remains of the Flower Wine Monk, along with the inheritance left behind.
 
 ---
 
@@ -1084,7 +1084,7 @@ Later on that Gu Master benefitted much from it, his cultivation base suddenly b
 汇报 means report, similar to 侃侃而谈 speak [23](https://hanzii.net/search/word/%E4%BE%83%E4%BE%83%E8%80%8C%E8%AB%87). 轰动 means sensation, stir, similar to 惊天动地 earth-shaking [57](https://www.chineseidioms.com/blog/jing-tian-dong-di).
 
 4. Proposed rendering
-After the Gu Master returned to the village and reported all his findings, his report immediately caused a huge sensation throughout the entire clan.
+After the Gu Master returned to the village and reported all his findings, it immediately caused a massive sensation throughout the entire clan.
 
 ---
 
@@ -1111,7 +1111,7 @@ After the Gu Master returned to the village and reported all his findings, his r
  Generic sources: Aperture definition [19](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/aperture) and Reverend Insanity wiki [17](https://en.wikipedia.org/wiki/Reverend_Insanity).
 
 4. Proposed rendering
-That Gu Master also benefited greatly from it. His cultivation became increasingly outstanding, and in turn, he attracted the lover who had once abandoned him to have a change of heart. He became a prominent figure of the moment.
+That Gu Master also benefited greatly from this fortune; his cultivation grew increasingly outstanding, even changing the heart of the lover who had once abandoned him. For a time, he became a prominent figure in the clan.
 
 ---
 
@@ -1135,7 +1135,7 @@ These few days he had been buying a lot of wine, wandering around the village as
 大概 means general, approximate, similar to 成千上万 approximate thousands [7](https://www.dong-chinese.com/wiki/%E6%88%90%E5%8D%83%E4%B8%8A%E8%90%AC). 确切 means exact, precise. 重生 means rebirth, reincarnation, central to Reverend Insanity [17](https://en.wikipedia.org/wiki/Reverend_Insanity).
 
 4. Proposed rendering
-"What a pity that I only heard the general outline of this news back then and didn't know the exact location. At that time, I never thought there would be a day when I would be reborn. Flower Wine Monk, where on earth did you die?"
+"What a pity that I only heard a general outline back then and didn't know the exact location. At that time, I never thought there would be a day when I would be reborn. Flower Wine Monk, where on earth did you die?"
 
 ---
 
@@ -1162,7 +1162,7 @@ These few days he had been buying a lot of wine, wandering around the village as
 闲逛 means stroll idly, wander, similar to 游荡 wander [39](https://dragonmandarin.com/words/%E9%87%87%E8%8A%B1%E5%A4%A7%E7%9B%97/c%C7%8Ei-hu%C4%81-d%C3%A0-d%C3%A0o). 散发 means emit, spread, similar to 四溢 spread [40](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E7%83%82%E9%86%89%E5%A6%82%E6%B3%A5). 失望 means disappointed.
 
 4. Proposed rendering
-These past few days, he had bought a lot of wine and wandered idly around the village every night. He wanted to use the spreading aroma of wine to lure the Liquor Worm into showing itself. Unfortunately, there was no sign of the Liquor Worm at all, and the result was deeply disappointing.
+Over these past few days, he had bought a lot of wine and wandered idly around the village every night. He wanted to use the redolence of the wine to lure the Liquor Worm into showing itself. Unfortunately, there was no sign of the creature at all, and the result was deeply disappointing.
 
 ---
 
@@ -1190,7 +1190,7 @@ Under the blue sky and white clouds, verdant mountains stretched into the distan
 眨眼间 means in the blink of an eye [63](https://www.bbc.co.uk/learningenglish/chinese/features/authentic-real-english/ep-160809), in blink of an eye [64](https://context.reverso.net/translation/english-chinese/in+the+blink+of+an+eye). 时不我待 means Time and tide wait for no man [65](https://chineseidioms.net/idiom-1-how-to-say-time-and-tide-wait-for-none-in-chinese/), Time and tide wait for no man [66](https://en.bab.la/dictionary/chinese-english/%E6%97%B6%E4%B8%8D%E6%88%91%E5%BE%85).
 
 4. Proposed rendering
-"If I could find that Liquor Worm and refine it into my vital Gu, it would be far better than the clan's Moonlight Gu. In the blink of an eye, it was already April. Time waits for no one." Fang Yuan sighed and turned his gaze out the window.
+"If I could find that Liquor Worm and refine it into my vital Gu, it would be far better than the clan's Moonlight Gu. In the blink of an eye, it is already April; time waits for no man." Fang Yuan sighed, turning his gaze out the window.
 
 ---
 
@@ -1214,7 +1214,7 @@ This was Qing Mao Mountain's unique spear bamboo, each bamboo stick as straight 
 蓝天白云 means blue sky white clouds, common phrase. 葱茏 means lush, verdant, similar to 万物之灵 lush spirit [3](https://www.zdic.net/hans/%E4%B8%87%E7%89%A9%E4%B9%8B%E7%81%B5). 延绵 means stretch continuously, similar to 繁衍生息 continuous multiply [11](https://baike.baidu.com/item/%E7%B9%81%E8%A1%8D%E7%94%9F%E6%81%AF/4527814).
 
 4. Proposed rendering
-Under a blue sky and white clouds, lush green mountains stretched endlessly into the distance. Nearby was a stretch of bamboo forest.
+Under the blue sky and white clouds, verdant mountains stretched endlessly into the distance. In the proximity lay a bamboo forest.
 
 ---
 
@@ -1266,7 +1266,7 @@ The wind of spring blew, wrapping up the freshness of the mountains and rivers, 
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "The woods not far away had already taken on a fresh green. Tender shoots had sprouted, a sheet of yellow green. From tim..." -> improved.
 
 4. Proposed rendering
-Not far away, the woods had already turned green. Tender shoots had sprouted in a sea of yellow-green. Every now and then, beautiful colorful sparrows would perch on the branches.
+Not far away, the woods had already taken on a flush of fresh green. The newly sprouted tender shoots formed a sprawling expanse of yellow-green where beautiful plumaged birds would perch upon the branches from time to time.
 
 ---
 
@@ -1329,7 +1329,7 @@ Oh!
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "Without realizing it, this lesson was nearing its end. The academy elder announced at last, "In this past week, I have t..." -> improved.
 
 4. Proposed rendering
-Without realizing it, the lesson was nearing its end. The academy elder finally announced, "This week, I have taught you how to meditate and examine your own aperture and primeval sea, and how to sit and circulate the primeval essence inside your body. Now is the time for you to refine your vital Gu. After this class ends, you will all go to the academy's Gu chamber and pick a Gu worm. After choosing your Gu, go home and focus on refining it. Only when you have finally refined your Gu may you come back to the academy and continue attending lessons. At the same time, this is your first assessment. Whoever can finish this assessment first will be rewarded with a generous sum of twenty primeval stones."
+Without realizing it, the lesson was drawing to a close. The academy elder finally announced, "This week, I have taught you how to meditate and examine the primeval sea within your apertures, as well as how to sit cross-legged and circulate the primeval essence inside your bodies. Now, it is time to refine your vital Gu. Once this class dismisses, you will go to the academy's Gu chamber to choose a Gu worm. Once selected, return home to cultivate in seclusion. Only after you have refined your Gu may you return to the academy to resume your lessons. At the same time, this will be your first assessment. Whoever takes first place will receive a generous reward of twenty primeval stones."
 
 ---
 
@@ -1375,7 +1375,7 @@ Oh!
 下一刻 means next moment, similar to 眨眼间 blink of an eye [63](https://www.bbc.co.uk/learningenglish/chinese/features/authentic-real-english/ep-160809). 欢呼 means cheer, shout with joy, similar to 叫嚷 shout [51](https://www.chinesepod.com/dictionary/%E4%B9%89%E6%84%A4%E5%A1%AB%E8%86%BA).
 
 4. Proposed rendering
-The next moment, the entire academy cheered.
+The next moment, the entire classroom cheered.
 
 ---
 
