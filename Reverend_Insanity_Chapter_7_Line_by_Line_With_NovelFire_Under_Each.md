@@ -713,7 +713,7 @@ As he said this he heaved a deep sigh.
 天资卓越 means outstanding natural talent [48](https://dictionary.cambridge.org/us/dictionary/chinese-simplified-english/%E5%A4%A9%E8%B5%84), innate talent [32](https://www.omgchinese.com/dictionary/chinese/%E5%A4%A9%E8%B5%84). 卑鄙无耻 means despicable and shameless [49](https://www.chilearner.com/post/2912/), shameless and immoral [50](https://en.wiktionary.org/wiki/%E5%8D%91%E9%84%99%E7%84%A1%E6%81%A5). 魔头 means demon head, fiend.
 
 4. Proposed rendering
-As he thought this, the academy elder continued aloud with the previous topic. "In the history of our clan, many strong figures have appeared. Among them, there have been two Rank 5 experts. One was the first generation clan leader, our founding ancestor, the one who established Gu Yue Village. The other was the fourth generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank 5 Gu Master. If not for that despicable and shameless demonic fiend Flower Wine Monk launching a sneak attack, he might even have advanced to become a Rank 6 Gu Master. Alas..."
+As he thought this, the academy elder continued aloud with the previous topic. "In our clan's history, many strong figures have appeared. Among them, there have been two Rank 5 experts. One was the first-generation clan leader, our founding ancestor, who established the Gu Yue Village. The other was the fourth-generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank 5 Gu Master. If not for that despicable and shameless demonic fiend, the Flower Wine Monk, launching a sneak attack, he might have advanced to Rank 6. Alas..."
 
 ---
 
@@ -781,7 +781,7 @@ Below the lectern, the youths all cried out, filled with righteous indignation.
  Additional source: 阴险 means sinister [79](https://www.purpleculture.net/dictionary-details?word=%E9%98%B4%E9%99%A9) and 狡诈 means cunning [80](https://www.purpleculture.net/dictionary-details?word=%E7%8B%A1%E8%AF%88).
 
 4. Proposed rendering
-"It is all that Flower Wine Monk's doing, too sinister and cunning!"
+"It's all that Flower Wine Monk's fault, he was too sinister and cunning!"
 
 ---
 
@@ -803,7 +803,7 @@ Below the lectern, the youths all cried out, filled with righteous indignation.
 宅心仁厚 means benevolent and generous nature (idiom) [53](https://www.purpleculture.net/dictionary-details/?word=%E5%AE%85%E5%BF%83%E4%BB%81%E5%8E%9A), kind, good-hearted [54](https://www.chtoen.com/%E5%AE%85%E5%BF%83%E4%BB%81%E5%8E%9A%E7%9A%84%E8%8B%B1%E6%96%87%E6%80%8E%E9%BA%BC%E8%AA%AA). 英年早逝 means early death.
 
 4. Proposed rendering
-"It is a pity that our fourth generation clan leader was so kind-hearted and benevolent, yet died young."
+"It's a pity our fourth-generation clan leader was so kind-hearted and benevolent, yet died in his prime."
 
 ---
 
@@ -829,7 +829,7 @@ The fourth clan head and the Flower Wine Monk's story is something that the enti
  Additional source: 拼死 means fight to death [81](https://www.purpleculture.net/dictionary-details?word=%E6%8B%BC%E6%AD%BB) and 丑恶 means ugly evil [82](https://www.purpleculture.net/dictionary-details?word=%E4%B8%91%E6%81%B6).
 
 4. Proposed rendering
-"I only hate that I was not born a few hundred years earlier. Otherwise, if I had met that demon, I would certainly have fought to the death to expose his ugly true face."
+"I only hate that I wasn't born a few hundred years earlier. Otherwise, if I had met that demon, I would certainly have fought him to the death to expose his vile nature!"
 
 ---
 
@@ -852,7 +852,7 @@ The Flower Wine Monk was also a Rank five Gu Master, famous among the Demon fact
  Additional source: 典故 means allusion [83](https://www.purpleculture.net/dictionary-details?word=%E5%85%B8%E6%95%85) and story [84](https://www.chinesepod.com/dictionary/%E5%85%B8%E6%95%85).
 
 4. Proposed rendering
-There was not a single Gu Yue clansman who did not know the story of the fourth generation clan leader and the Flower Wine Monk.
+There was not a single Gu Yue clansman who did not know the story of the fourth-generation clan leader and the Flower Wine Monk.
 
 ---
 
@@ -884,7 +884,7 @@ The clan head flew into a rage, killing the Flower Wine Monk on the spot. Howeve
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "Flower Wine Monk was also a Rank 5 Gu Master, a lecherous bandit who had done evil for many years and was notorious in t..." -> improved.
 
 4. Proposed rendering
-Flower Wine Monk was also a Rank 5 Gu Master, a notorious lecherous bandit who had done evil for many years and was infamous in the demonic path at that time. Several hundred years ago, he drifted to Qing Mao Mountain and tried to commit crimes in Gu Yue Village, but was seen through by the fourth generation clan leader. After a fierce earth-shaking battle, Flower Wine Monk was beaten to his knees, begging for mercy. The fourth generation clan leader, kind-hearted and benevolent, intended to spare his life. As a result, Flower Wine Monk suddenly launched a sneak attack and gravely wounded the fourth generation clan leader.
+The Flower Wine Monk was also a Rank 5 Gu Master, a notorious flower thief who had committed evil for many years and was infamous in the demonic path at that time. Several hundred years ago, he prowled to Qing Mao Mountain and attempted to commit crimes in the Gu Yue Village, but was seen through by the fourth-generation clan leader. After an earth-shaking battle, the Flower Wine Monk was beaten to his knees, begging for mercy. The fourth-generation clan leader, kind-hearted and benevolent, intended to spare his life. Instead, the Flower Wine Monk suddenly launched a sneak attack, gravely wounding the fourth-generation clan leader.
 
 ---
 
@@ -907,7 +907,7 @@ Therefore in the hearts of the Gu Yue clansmen, the fourth generation clan head 
 击毙 means shoot dead, kill on spot. 撒手人寰 means to pass away, to die [59](https://en.wiktionary.org/wiki/%E6%92%92%E6%89%8B%E4%BA%BA%E5%AF%B0), metaphor for person passing away [60](https://dict.idioms.moe.edu.tw/idiomView.jsp?ID=9449&webMd=2&la=1).
 
 4. Proposed rendering
-The clan leader flew into a great rage and killed Flower Wine Monk on the spot, but afterward his grave injuries could not be treated, and he passed away.
+The clan leader was consumed by rage and killed the Flower Wine Monk on the spot. However, he subsequently succumbed to his severe wounds and departed from this mortal world.
 
 ---
 
@@ -932,7 +932,7 @@ The clan leader flew into a great rage and killed Flower Wine Monk on the spot, 
  Additional source: 牺牲 means sacrifice [85](https://www.purpleculture.net/dictionary-details?word=%E7%89%BA%E7%89%B2) and 英雄 means hero [86](https://www.purpleculture.net/dictionary-details?word=%E8%8B%B1%E9%9B%84).
 
 4. Proposed rendering
-Therefore, in the hearts of all Gu Yue clansmen, the fourth generation clan leader was a heroic figure who sacrificed himself for the village.
+Therefore, in the hearts of all Gu Yue clansmen, the fourth-generation clan leader was a heroic figure who had sacrificed himself for the village.
 
 ---
 
@@ -956,7 +956,7 @@ He stretched his body and thought with resentment in his heart, this Flower Wine
  Additional source: 声讨 means denunciation [87](https://www.purpleculture.net/dictionary-details?word=%E5%A3%B0%E8%AE%A8) and 朦胧 means hazy [88](https://www.purpleculture.net/dictionary-details?word=%E6%9C%A6%E8%83%A7).
 
 4. Proposed rendering
-"Flower Wine Monk, huh..." Woken by the denunciations in the academy, Fang Yuan in the corner opened his bleary, sleepy eyes.
+"Flower Wine Monk, huh..." Woken by the denunciations in the classroom, Fang Yuan opened his bleary, sleepy eyes from his corner.
 
 ---
 
@@ -983,7 +983,7 @@ In his memories, there was a Gu Master from the clan who was brokenhearted and s
  Additional source: 伸懒腰 means stretch [89](https://www.purpleculture.net/dictionary-details?word=%E4%BC%B8%E6%87%92%E8%85%B0) and 遗产 means inheritance [90](https://www.purpleculture.net/dictionary-details?word=%E9%81%97%E4%BA%A7).
 
 4. Proposed rendering
-He gave a long, lazy stretch, and in his heart he could not help but feel a bit resentful. "Where on earth did this Flower Wine Monk die? Why have I searched all around the village and still not found his inheritance?"
+He gave a long, lazy stretch, and in his heart he could not help but feel resentful. "Where on earth did this Flower Wine Monk die? Why have I searched all around the village and still haven't found his inheritance?"
 
 ---
 
@@ -1010,7 +1010,7 @@ The Gu Master was ecstatic, fully intent on catching it. The Liquor worm hurried
 烂醉如泥 means lit. as drunk as mud, completely drunk [40](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E7%83%82%E9%86%89%E5%A6%82%E6%B3%A5), lit. as drunk as mud [41](https://www.omgchinese.com/dictionary/chinese/%E9%86%89). 酒虫 is Liquor worm, food path Gu [61](https://zelskytranslations.wordpress.com/novels/reverend-insanity/index/ri-chapter-17/), food path suppressed [62](https://www.reddit.com/r/ReverendInsanity/comments/100d7c8/liquor_worm/).
 
 4. Proposed rendering
-In his memory, about two months from now, a clan Gu Master who got drunk because of a broken heart would lie dead drunk outside the village. As a result, the rich aroma of wine spreading in all directions would unexpectedly attract a Liquor Worm.
+In his memory, about two months from now, a clan Gu Master who got drunk over a broken heart would lie dead drunk outside the village. The rich aroma of wine spreading in all directions would unexpectedly attract a Liquor Worm.
 
 ---
 
@@ -1061,7 +1061,7 @@ When the Gu Master returned to the village, he reported his discoveries and imme
 珍贵 means precious, valuable, similar to 奥妙 marvelous [15](https://www.purpleculture.net/dictionary-details?word=%E5%A5%A5%E5%A6%99). 酒意 means wine intent, drunkenness, similar to 烂醉如泥 drunk [40](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E7%83%82%E9%86%89%E5%A6%82%E6%B3%A5). 尸骸 means remains.
 
 4. Proposed rendering
-A Liquor Worm is a very precious kind of Gu. That Gu Master, still carrying the flush of wine, risked entering the cave entrance and came to an underground secret cave. Then he discovered the skeletal remains of Flower Wine Monk, along with the inheritance he left behind.
+A Liquor Worm is a very precious kind of Gu. That Gu Master, still flushed with wine, risked entering the cave entrance and came to a secret underground cave. There, he discovered the skeletal remains of the Flower Wine Monk, along with the inheritance he had left behind.
 
 ---
 
@@ -1111,7 +1111,7 @@ After the Gu Master returned to the village and reported all his findings, his r
  Generic sources: Aperture definition [19](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/aperture) and Reverend Insanity wiki [17](https://en.wikipedia.org/wiki/Reverend_Insanity).
 
 4. Proposed rendering
-That Gu Master also benefited from it. His cultivation became more and more outstanding, and in turn he attracted the lover who had once abandoned him to have a change of heart. He became a prominent figure of the moment.
+That Gu Master also benefited greatly from it. His cultivation became increasingly outstanding, and in turn, he attracted the lover who had once abandoned him to have a change of heart. He became a prominent figure of the moment.
 
 ---
 
@@ -1135,7 +1135,7 @@ These few days he had been buying a lot of wine, wandering around the village as
 大概 means general, approximate, similar to 成千上万 approximate thousands [7](https://www.dong-chinese.com/wiki/%E6%88%90%E5%8D%83%E4%B8%8A%E8%90%AC). 确切 means exact, precise. 重生 means rebirth, reincarnation, central to Reverend Insanity [17](https://en.wikipedia.org/wiki/Reverend_Insanity).
 
 4. Proposed rendering
-"What a pity that I only heard the general outline of this news back then and did not know the exact location. At that time I never thought there would be a day when I would be reborn. Flower Wine Monk, where on earth did you die?"
+"What a pity that I only heard the general outline of this news back then and didn't know the exact location. At that time, I never thought there would be a day when I would be reborn. Flower Wine Monk, where on earth did you die?"
 
 ---
 
@@ -1162,7 +1162,7 @@ These few days he had been buying a lot of wine, wandering around the village as
 闲逛 means stroll idly, wander, similar to 游荡 wander [39](https://dragonmandarin.com/words/%E9%87%87%E8%8A%B1%E5%A4%A7%E7%9B%97/c%C7%8Ei-hu%C4%81-d%C3%A0-d%C3%A0o). 散发 means emit, spread, similar to 四溢 spread [40](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E7%83%82%E9%86%89%E5%A6%82%E6%B3%A5). 失望 means disappointed.
 
 4. Proposed rendering
-These past few days, he had bought a lot of wine and wandered idly around the village every night. He wanted to use the spreading aroma of wine to lure the Liquor Worm into showing itself. Unfortunately, there was no sign of the Liquor Worm at all, and the result was very disappointing.
+These past few days, he had bought a lot of wine and wandered idly around the village every night. He wanted to use the spreading aroma of wine to lure the Liquor Worm into showing itself. Unfortunately, there was no sign of the Liquor Worm at all, and the result was deeply disappointing.
 
 ---
 
@@ -1190,7 +1190,7 @@ Under the blue sky and white clouds, verdant mountains stretched into the distan
 眨眼间 means in the blink of an eye [63](https://www.bbc.co.uk/learningenglish/chinese/features/authentic-real-english/ep-160809), in blink of an eye [64](https://context.reverso.net/translation/english-chinese/in+the+blink+of+an+eye). 时不我待 means Time and tide wait for no man [65](https://chineseidioms.net/idiom-1-how-to-say-time-and-tide-wait-for-none-in-chinese/), Time and tide wait for no man [66](https://en.bab.la/dictionary/chinese-english/%E6%97%B6%E4%B8%8D%E6%88%91%E5%BE%85).
 
 4. Proposed rendering
-"If I could find that Liquor Worm and refine it into my vital Gu, it would be much better than the clan's Moonlight Gu. In the blink of an eye, it was already April. Time waits for no one." Fang Yuan sighed and turned his gaze out the window.
+"If I could find that Liquor Worm and refine it into my vital Gu, it would be far better than the clan's Moonlight Gu. In the blink of an eye, it was already April. Time waits for no one." Fang Yuan sighed and turned his gaze out the window.
 
 ---
 
@@ -1238,7 +1238,7 @@ Not too far away, the woods were already turning green. The tender shoots sprout
 特有 means unique, special, similar to 天地之精 unique essence [5](https://www.wisdomlib.org/definition/tian-de-jing-hua). 矛竹 is spear bamboo, local plant. 笔直 means straight, similar to 正襟危坐 upright [37](https://www.wenlinshe.com/tw/chengyu/zheng-jin-wei-zuo-021410). 锋锐 means sharp.
 
 4. Proposed rendering
-This was the spear bamboo unique to Qing Mao Mountain, each one as straight as a line, and at the same time its tip was exceptionally sharp, just like a spearhead.
+This was the spear bamboo unique to Qing Mao Mountain, each one as straight as a line, its tip exceptionally sharp, just like a spearhead.
 
 ---
 
@@ -1329,7 +1329,7 @@ Oh!
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "Without realizing it, this lesson was nearing its end. The academy elder announced at last, "In this past week, I have t..." -> improved.
 
 4. Proposed rendering
-Without realizing it, the lesson was nearing its end. The academy elder finally announced, "This week I have taught you how to meditate and examine your own aperture and primeval sea, and how to sit and circulate the primeval essence inside your body. Now is the time for you to refine your vital Gu. After this class ends, you will all go to the academy's Gu chamber and pick a Gu worm. After choosing your Gu, go home and focus on refining it. Only when you have finally refined your Gu may you come back to the academy and continue attending lessons. At the same time, this is your first assessment. Whoever can finish this assessment first will be rewarded with a generous sum of twenty primeval stones."
+Without realizing it, the lesson was nearing its end. The academy elder finally announced, "This week, I have taught you how to meditate and examine your own aperture and primeval sea, and how to sit and circulate the primeval essence inside your body. Now is the time for you to refine your vital Gu. After this class ends, you will all go to the academy's Gu chamber and pick a Gu worm. After choosing your Gu, go home and focus on refining it. Only when you have finally refined your Gu may you come back to the academy and continue attending lessons. At the same time, this is your first assessment. Whoever can finish this assessment first will be rewarded with a generous sum of twenty primeval stones."
 
 ---
 
@@ -1397,7 +1397,7 @@ NovelFire translation not available
 终于 means finally. 挑选 means pick, choose, similar to 拔得头筹 pick first [67](https://baike.baidu.com/item/%E6%8B%94%E5%BE%97%E5%A4%B4%E7%AD%B9/9653961). 精芒 means sharp light, gleam, gleam definition [69](https://www.collinsdictionary.com/dictionary/english/gleam), gleam as flash [70](https://www.wordreference.com/definition/gleam). 一闪而逝 means flash and vanish.
 
 4. Proposed rendering
-"Finally it is time to refine a Gu worm. So which Gu worm should I pick?" A sharp gleam flashed and vanished in Fang Yuan's eyes.
+"Finally, it's time to refine a Gu worm. So which Gu worm should I pick?" A sharp gleam flashed and vanished in Fang Yuan's eyes.
 
 ---
 
