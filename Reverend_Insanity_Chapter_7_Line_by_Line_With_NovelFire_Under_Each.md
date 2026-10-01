@@ -1292,7 +1292,7 @@ Without knowing it, the class was almost over. The academy elder finally informe
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "Spring wind blew in, wrapping the fresh scent of green mountains and clear waters and scattering it across the human wor..." -> improved.
 
 4. Proposed rendering
-The spring wind blew in, carrying the fresh scent of green mountains and clear waters and scattering it across the world.
+The spring wind blew in, carrying the fresh air of green mountains and clear waters and scattering it across the world.
 
 ---
 
