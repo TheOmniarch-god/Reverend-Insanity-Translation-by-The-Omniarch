@@ -303,7 +303,7 @@ Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idio
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: ""As for Gu Masters of Rank 6 and above, each one is a legend. I am not too clear on the specifics myself. Our Gu Yue cla..." -> improved.
 
 4. Proposed rendering
-"As for Gu Masters of Rank 6 and above, each one is a legend. I myself am not too clear on the specifics. Our Gu Yue clan has never produced a Rank 6 Gu Master, but we have had Rank 4 and Rank 5 Gu Masters before."
+"As for Gu Masters of Rank 6 and above, every single one is a legend. I am not too clear on the specifics myself. Our Gu Yue clan has never produced a Rank 6 Gu Master, but we have had Rank 4 and Rank 5 Gu Masters before."
 
 ---
 
