@@ -326,7 +326,7 @@ The teenagers' ears all pricked up, their eyes shining brightly as they listened
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "The youths all pricked up their ears and listened with eyes shining bright...." -> improved.
 
 4. Proposed rendering
-The youths all pricked up their ears and listened with eyes shining bright.
+The youths all pricked up their ears, listening intently with eyes shining bright.
 
 ---
 
