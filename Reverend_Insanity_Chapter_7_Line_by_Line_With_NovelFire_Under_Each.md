@@ -658,7 +658,7 @@ Fang Yuan was just a C grade, compared to his younger brother Fang Zheng, who wa
 心性 means temperament, nature of heart, similar to 天资 innate [32](https://www.omgchinese.com/dictionary/chinese/%E5%A4%A9%E8%B5%84). 难堪大用 means hardly usable for great purpose, similar to 拔得头筹 not getting first [29](https://baike.baidu.com/item/%E6%8B%94%E5%BE%97%E5%A4%B4%E7%AD%B9/9653961). 浪费 means waste.
 
 4. Proposed rendering
-"Forget it, he is just Grade C anyway. He cannot even withstand such a small blow. Even if someone with such a temperament were cultivated, he could hardly be put to great use. It would instead be a waste of clan resources." The elder was thoroughly disappointed in Fang Yuan.
+"Forget it, he is just Grade C anyway. He cannot even withstand a blow like this. With a temperament like that, even if he were nurtured, he could hardly amount to anything; it would instead be a waste of the clan's resources." The elder was thoroughly disappointed in Fang Yuan.
 
 ---
 
@@ -683,7 +683,7 @@ While the academy elder thought about all this, he was also replying to the late
  Additional source: 拥有 means possess [75](https://www.purpleculture.net/dictionary-details?word=%E6%8B%A5%E6%9C%89) and 花 means spend [76](https://www.purpleculture.net/dictionary-details?word=%E8%8A%B1).
 
 4. Proposed rendering
-Fang Yuan was only of Grade C aptitude. In comparison, his younger brother Fang Zheng possessed Grade A aptitude. He was truly worth the clan spending great effort to cultivate.
+Fang Yuan was only of Grade C aptitude. In comparison, his younger brother, Fang Zheng, possessed Grade A aptitude; he was the one truly worth the clan's greatest efforts to nurture.
 
 ---
 
