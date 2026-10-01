@@ -99,7 +99,7 @@ Under the blue sky and white clouds, a luxuriant verdant massif stretched endles
 
 This was the spear bamboo unique to Qing Mao Mountain, each one as straight as a line, its tip exceptionally sharp, just like a spearhead.
 
-Not far away, the woods had already taken on a flush of virent green. The newly sprouted tender shoots formed a sprawling smaragdine expanse of chlorovirent where beautiful plumaged birds would perch upon the branches from time to time.
+Not far away, the woods had already taken on a flush of luteovirescent green. The newly sprouted tender shoots formed a sprawling, chartreuse expanse, where beautifully plumaged birds would perch upon the prasinous branches from time to time.
 
 The spring wind blew in, carrying the fresh air of verdant mountains and clear waters and scattering it across the world.
 
