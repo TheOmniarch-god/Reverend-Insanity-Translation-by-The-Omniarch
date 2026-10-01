@@ -352,7 +352,7 @@ Many of them couldn't help but look at Gu Yue Fang Zheng who was sitting rigidly
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "Many could not help looking toward Gu Yue Fang Zheng, who sat bolt upright in the first row. He had Grade A aptitude aft..." -> improved.
 
 4. Proposed rendering
-Many could not help but look toward Gu Yue Fang Zheng, who sat straight and proper in the first row. This was a Grade A aptitude, after all! Their gazes were filled with envy and jealousy.
+Many could not help but look toward Gu Yue Fang Zheng, who sat in solemn posture in the first row. This was a Grade A aptitude, after all! Their gazes were filled with envy and jealousy.
 
 ---
 
