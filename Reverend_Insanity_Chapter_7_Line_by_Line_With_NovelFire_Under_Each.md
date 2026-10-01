@@ -983,7 +983,7 @@ In his memories, there was a Gu Master from the clan who was brokenhearted and s
  Additional source: 伸懒腰 means stretch [89](https://www.purpleculture.net/dictionary-details?word=%E4%BC%B8%E6%87%92%E8%85%B0) and 遗产 means inheritance [90](https://www.purpleculture.net/dictionary-details?word=%E9%81%97%E4%BA%A7).
 
 4. Proposed rendering
-He gave a long, lazy stretch, and in his heart he could not help but feel resentful. "Where on earth did this Flower Wine Monk die? Why have I combed through the entire area surrounding the village and still haven't found his inheritance?"
+He gave a long, lazy stretch, and in his heart he could not help but feel resentful. "Where on earth did this Flower Wine Monk die? Why have I searched all around the village and still haven't found his inheritance?"
 
 ---
 
