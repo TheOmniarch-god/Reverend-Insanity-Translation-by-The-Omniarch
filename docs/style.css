@@ -1101,7 +1101,8 @@ footer {
   -webkit-hyphens: auto;
   -ms-hyphens: auto;
 }
-.chapter-body p { margin-bottom: 1.4em; }
+.chapter-body p { margin-bottom: 1.4em; text-indent: 2em; }
+.chapter-body p.scene-break { text-indent: 0; }
 
 .chapter-body strong {
   font-weight: 700;
