@@ -352,7 +352,7 @@ Many of them couldn't help but look at Gu Yue Fang Zheng who was sitting rigidly
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "Many could not help looking toward Gu Yue Fang Zheng, who sat bolt upright in the first row. He had Grade A aptitude aft..." -> improved.
 
 4. Proposed rendering
-Many could not help but glance toward Gu Yue Fang Zheng, who sat bolt upright in the first row. With Grade A aptitude, he drew gazes filled with envy and jealousy.
+Many could not help but look toward Gu Yue Fang Zheng, who sat straight and proper in the first row. This was a Grade A aptitude, after all! Their gazes were filled with envy and jealousy.
 
 ---
 
@@ -376,7 +376,7 @@ Leaning against the window at the corner was Gu Yue Fang Yuan, who was bent over
 飘 means float, drift, similar to 很快 quickly moving [1](https://www.omgchinese.com/dictionary/chinese/%E5%BE%88%E5%BF%AB) but gentle. 角落 means corner, from aperture as corner opening [19](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/aperture). Contrast admired vs neglected.
 
 4. Proposed rendering
-At the same time, some gazes drifted toward that corner in the very last row of the academy.
+At the same time, some gazes drifted toward that corner in the very last row of the classroom.
 
 ---
 
@@ -402,7 +402,7 @@ At the same time, some gazes drifted toward that corner in the very last row of 
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "In that corner by the window, Gu Yue Fang Yuan was sprawled over his desk, fast asleep and snoring...." -> improved.
 
 4. Proposed rendering
-In that corner by the window, Gu Yue Fang Yuan lay sprawled over his desk, fast asleep and snoring softly.
+In that corner by the window, Gu Yue Fang Yuan was sprawled over his desk, fast asleep and snoring soundly.
 
 ---
 
@@ -424,7 +424,7 @@ In that corner by the window, Gu Yue Fang Yuan lay sprawled over his desk, fast 
 轻轻 means softly, gently, similar to 很快 quickly but soft [1](https://www.omgchinese.com/dictionary/chinese/%E5%BE%88%E5%BF%AB). 道 means say, speak, similar to 侃侃而谈 speak [23](https://hanzii.net/search/word/%E4%BE%83%E4%BE%83%E8%80%8C%E8%AB%87). Gossip whisper.
 
 4. Proposed rendering
-"Look, he is still sleeping," someone said softly.
+"Look, he's still sleeping," someone whispered.
 
 ---
 
@@ -448,7 +448,7 @@ In that corner by the window, Gu Yue Fang Yuan lay sprawled over his desk, fast 
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: ""He has been sleeping for a week straight, has he not? Still has not recovered?" someone said with a curl of the lip...." -> improved.
 
 4. Proposed rendering
-"He has been sleeping for a whole week straight. Has he not recovered yet?" someone said with a sneer.
+"He's been sleeping through classes for a week straight. Hasn't he recovered yet?" someone said with a sneer.
 
 ---
 
@@ -474,7 +474,7 @@ Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idio
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: ""Not just that. I heard he does not even come home at night, wandering around outside the village."..." -> improved.
 
 4. Proposed rendering
-"That is not all. I heard he does not even return home at night and wanders around outside the village."
+"More than that! I heard he doesn't even return home at night, wandering all around the outskirts of the village."
 
 ---
 
@@ -501,7 +501,7 @@ Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idio
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: ""Someone has seen him more than once at night, hugging a wine jar and dead drunk outside. Luckily in recent years the su..." -> improved.
 
 4. Proposed rendering
-"Some people have seen him more than once at night, hugging a wine jar and dead drunk outside. Luckily, in recent years the surroundings of the village have been cleared, so it is relatively safe." The classmates whispered among themselves, and all kinds of hearsay spread quickly.
+"People have seen him more than once at night, hugging a wine jar and dead drunk outside. Luckily, in recent years, the village surroundings have been cleared, so it is relatively safe." The classmates huddled and whispered among themselves, and all kinds of hearsay spread rapidly.
 
 ---
 
@@ -525,7 +525,7 @@ Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idio
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: ""Ah, the blow was really too great. He carried the name of genius for so many years, who would have thought that in the ..." -> improved.
 
 4. Proposed rendering
-"Alas, the blow was really too great. He carried the name of genius for so many years. Who would have thought that in the end he would only be Grade C, heh."
+"Alas, the blow was truly too great. He carried the title of a genius for so many years; who would've thought that in the end, he'd only be a Grade C? Hehe."
 
 ---
 
@@ -553,7 +553,7 @@ As the discussion amongst the students got louder and louder, the academy elder'
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: ""If it were just that, it would be one thing. But his own younger brother was tested as Grade A, and now enjoys the atte..." -> improved.
 
 4. Proposed rendering
-"If it were just that, it would be one thing. But his own younger brother was tested as Grade A and now enjoys the attention of all and the best treatment. The younger brother is in heaven while the elder brother is on earth, tsk tsk..."
+"If it were just that, it would be one thing. But his own younger brother was tested as a Grade A, and now he's the center of attention, enjoying the best treatment. The younger brother is high in the heavens while the older brother is down in the dirt, tsk tsk..."
 
 ---
 
@@ -577,7 +577,7 @@ In the whole classroom all the teenagers were sitting respectfully, showing live
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "Hearing the discussion by his ears grow louder and louder, the academy elder's brows had already knotted into a lump...." -> improved.
 
 4. Proposed rendering
-As the murmurs around him grew louder and louder, the academy elder knit his brows together.
+As the murmurs around him grew louder and louder, the academy elder's frown had already deepened.
 
 ---
 
