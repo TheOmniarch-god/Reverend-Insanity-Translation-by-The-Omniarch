@@ -1397,7 +1397,7 @@ NovelFire translation not available
 终于 means finally. 挑选 means pick, choose, similar to 拔得头筹 pick first [67](https://baike.baidu.com/item/%E6%8B%94%E5%BE%97%E5%A4%B4%E7%AD%B9/9653961). 精芒 means sharp light, gleam, gleam definition [69](https://www.collinsdictionary.com/dictionary/english/gleam), gleam as flash [70](https://www.wordreference.com/definition/gleam). 一闪而逝 means flash and vanish.
 
 4. Proposed rendering
-"Finally, the hour to refine a Gu worm has arrived. Which Gu worm shall I select?" A keen, lambent gleam flashed and vanished in Fang Yuan's eyes.
+"Finally, it's time to refine a Gu worm. So which Gu worm should I pick?" A sharp gleam flashed and vanished in Fang Yuan's eyes.
 
 ---
 

@@ -109,4 +109,4 @@ Oh!
 
 The next moment, the entire classroom cheered.
 
-"Finally, the hour to refine a Gu worm has arrived. Which Gu worm shall I select?" A keen, lambent gleam flashed and vanished in Fang Yuan's eyes.
+"Finally, it's time to refine a Gu worm. So which Gu worm should I pick?" A sharp gleam flashed and vanished in Fang Yuan's eyes.
