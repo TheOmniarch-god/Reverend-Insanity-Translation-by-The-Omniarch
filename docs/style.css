@@ -1105,14 +1105,13 @@ footer {
 .chapter-body.indent-on p { text-indent: 2em; }
 .chapter-body.indent-off p { text-indent: 0; }
 .chapter-body p.scene-break { text-indent: 0 !important; }
-/* First paragraph with drop cap - indent but everything follows along */
-.chapter-body.indent-on .prose > p:first-of-type { text-indent: 2em; }
-.chapter-body.indent-on .prose > p:first-of-type::first-letter {
+/* Best practice: first paragraph (with drop cap) NO indent - drop cap is the marker, close to text */
+.chapter-body.indent-on .prose > p:first-of-type,
+.chapter-body.indent-on > p:first-of-type {
   text-indent: 0;
-  float: left;
-  margin-right: 0.02em;
-  margin-left: 0;
-  padding-right: 2px;
+}
+.chapter-body.indent-on p.scene-break + p {
+  text-indent: 0;
 }
 
 
@@ -1217,8 +1216,20 @@ html.rf-spectral .chapter-body {
   line-height: 0.8;
   font-weight: 800;
   color: var(--red);
-  padding: 5px 4px 0 0;
-  margin-right: 0;
+  padding: 0;
+  margin: 0.08em 0.08em 0 0;
+  /* Modern drop cap - better alignment */
+  initial-letter: 3;
+  -webkit-initial-letter: 3;
+}
+
+@supports not (initial-letter: 3) {
+  .chapter-body .prose > p:first-of-type::first-letter {
+    float: left;
+    font-size: 3.3em;
+    line-height: 0.8;
+    padding: 4px 6px 0 0;
+  }
 }
 .end-mark {
   display: flex; align-items: center; gap: 18px;
