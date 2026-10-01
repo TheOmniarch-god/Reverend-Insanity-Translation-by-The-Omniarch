@@ -603,7 +603,7 @@ As the murmurs around him grew louder and louder, the academy elder's frown had 
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "In the whole classroom, the youths all sat upright and radiated youthful vigor, which made Fang Yuan, sprawled asleep on..." -> improved.
 
 4. Proposed rendering
-In the entire classroom, the youths all sat upright and radiated youthful vigor, which made Fang Yuan, sprawled asleep over his desk, stand out even more glaringly.
+In the entire classroom, the youths all sat straight and proper, radiating youthful vigor; this made Fang Yuan, who lay sprawled asleep over his desk, stand out even more glaringly.
 
 ---
 
@@ -633,7 +633,7 @@ In the entire classroom, the youths all sat upright and radiated youthful vigor,
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: ""A whole week has passed, and he is still so dispirited. Humph, I misjudged him back then. How could such a person possi..." -> improved.
 
 4. Proposed rendering
-"A whole week has passed, and he is still so dispirited. Humph, I must have misjudged him back then. How could such a person possibly be a genius!" The elder snorted coldly with displeasure in his heart. He had already spoken to Fang Yuan about this situation many times, but it had no effect at all. Fang Yuan continued to do as he pleased. He slept through every lesson, which gave the elder in charge of teaching a terrible headache and much annoyance.
+"A whole week has passed, and he is still so dispirited. Humph, I must have misjudged him back then. How could such a person possibly be a genius!" The elder snorted coldly with displeasure in his heart. He had already spoken to Fang Yuan about this situation many times, but it had no effect at all. Fang Yuan continued to do as he pleased. He slept through every lesson, which gave the academy elder a terrible headache and much annoyance.
 
 ---
 
