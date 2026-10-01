@@ -956,7 +956,7 @@ He stretched his body and thought with resentment in his heart, this Flower Wine
  Additional source: 声讨 means denunciation [87](https://www.purpleculture.net/dictionary-details?word=%E5%A3%B0%E8%AE%A8) and 朦胧 means hazy [88](https://www.purpleculture.net/dictionary-details?word=%E6%9C%A6%E8%83%A7).
 
 4. Proposed rendering
-"Flower Wine Monk, huh..." Woken by the denunciations in the classroom, Fang Yuan opened his bleary, sleepy eyes from his corner.
+"Flower Wine Monk, huh..." Woken by the denunciations in the classroom, Fang Yuan opened his bleary, sleepy eyes.
 
 ---
 
