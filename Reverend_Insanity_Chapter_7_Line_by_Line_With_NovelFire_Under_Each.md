@@ -577,7 +577,7 @@ In the whole classroom all the teenagers were sitting respectfully, showing live
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "Hearing the discussion by his ears grow louder and louder, the academy elder's brows had already knotted into a lump...." -> improved.
 
 4. Proposed rendering
-As the murmurs around him grew louder and louder, the academy elder's frown had already deepened.
+As the murmurs around him grew louder and louder, the academy elder's frown deepened.
 
 ---
 

@@ -45,7 +45,7 @@ In that corner by the window, Gu Yue Fang Yuan was sprawled over his desk, fast 
 
 "If it were just that, it would be one thing. But his own younger brother was tested as a Grade A, and now he's the center of attention, enjoying the best treatment. The younger brother is high in the heavens while the older brother is down in the dirt, tsk tsk..."
 
-As the murmurs around him grew louder and louder, the academy elder's frown had already deepened.
+As the murmurs around him grew louder and louder, the academy elder's frown deepened.
 
 In the entire classroom, the youths all sat straight and proper, radiating youthful vigor; this made Fang Yuan, who lay sprawled asleep over his desk, stand out even more glaringly.
 
