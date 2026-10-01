@@ -1110,8 +1110,9 @@ footer {
 .chapter-body.indent-on .prose > p:first-of-type::first-letter {
   text-indent: 0;
   float: left;
-  margin-right: 0.08em;
+  margin-right: 0.02em;
   margin-left: 0;
+  padding-right: 2px;
 }
 
 
@@ -1216,7 +1217,8 @@ html.rf-spectral .chapter-body {
   line-height: 0.8;
   font-weight: 800;
   color: var(--red);
-  padding: 5px 10px 0 0;
+  padding: 5px 4px 0 0;
+  margin-right: 0;
 }
 .end-mark {
   display: flex; align-items: center; gap: 18px;
