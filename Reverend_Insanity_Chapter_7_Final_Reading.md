@@ -1,4 +1,4 @@
-# Chapter 7: Gu Masters Have Nine Ranks, Flower-Wine Monk Leaves His Hidden Inheritance
+# Chapter 7: Gu Masters Have Nine Ranks; Flower-Wine Monk Leaves His Hidden Inheritance
 ## 第七节：蛊师有九转，花酒留遗藏
 
 Soon, a week had gone by.

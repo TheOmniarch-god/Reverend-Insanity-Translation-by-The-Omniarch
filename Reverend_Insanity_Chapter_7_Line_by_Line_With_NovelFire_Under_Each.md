@@ -1,6 +1,6 @@
 # Reverend Insanity Chapter 7 - Line by Line Perfect Translation - Fully Sourced (2+ refs per line) - With NovelFire
 ## 第七节：蛊师有九转，花酒留遗藏
-## Gu Masters Have Nine Ranks, Flower-Wine Monk Leaves His Hidden Inheritance
+## Gu Masters Have Nine Ranks; Flower-Wine Monk Leaves His Hidden Inheritance
 Source EPUB canonical Chapter 7 - Raw at Reverend_Insanity_Chapter_7_Raw_Chinese.txt
 Rules: OSASCOMP, no em dashes, tense agreement, idiom spectrum, natural English, NovelFire attached under each line
 
