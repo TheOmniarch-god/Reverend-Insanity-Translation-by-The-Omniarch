@@ -348,6 +348,61 @@ document.addEventListener("DOMContentLoaded", function () {
         var nxt = cur === "justify" ? "left" : "justify";
         applyAlignment(nxt, true);
       });
+
+      // Indent toggle - two toggles design
+      var readerIndent = store.getItem("readerIndent");
+      function applyIndent(indent, persist) {
+        if (!chapterBodyEl) return;
+        chapterBodyEl.classList.remove("indent-on", "indent-off");
+        var prose2 = chapterBodyEl.querySelector(".prose");
+        if (prose2) prose2.classList.remove("indent-on", "indent-off");
+        if (indent === "on" || indent === "off") {
+          chapterBodyEl.classList.add("indent-" + indent);
+          if (prose2) prose2.classList.add("indent-" + indent);
+          if (persist !== false) store.setItem("readerIndent", indent);
+        } else {
+          if (persist !== false) store.removeItem("readerIndent");
+        }
+        var indentBtn = document.getElementById("indentToggle");
+        if (indentBtn) {
+          if (chapterBodyEl.classList.contains("indent-on")) {
+            indentBtn.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><line x1="3" y1="4" x2="21" y2="4"/><line x1="3" y1="8" x2="21" y2="8"/><line x1="7" y1="12" x2="21" y2="12"/><line x1="7" y1="16" x2="21" y2="16"/><line x1="7" y1="20" x2="21" y2="20"/></svg>';
+            indentBtn.title = "Switch to no indent";
+            indentBtn.setAttribute("aria-label", "Switch to no indent");
+          } else {
+            indentBtn.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><line x1="3" y1="4" x2="21" y2="4"/><line x1="3" y1="8" x2="21" y2="8"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="16" x2="21" y2="16"/><line x1="3" y1="20" x2="21" y2="20"/></svg>';
+            indentBtn.title = "Switch to indented paragraphs";
+            indentBtn.setAttribute("aria-label", "Switch to indented paragraphs");
+          }
+        }
+      }
+
+      if (chapterBodyEl && (readerIndent === "on" || readerIndent === "off")) {
+        applyIndent(readerIndent, false);
+      } else {
+        // Default: indent on for book style, but first paragraph no indent for drop cap
+        applyIndent("on", false);
+      }
+
+      var indentBtn = document.createElement("button");
+      indentBtn.className = "font-btn";
+      indentBtn.id = "indentToggle";
+      indentBtn.type = "button";
+      if (chapterBodyEl.classList.contains("indent-on")) {
+        indentBtn.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><line x1="3" y1="4" x2="21" y2="4"/><line x1="3" y1="8" x2="21" y2="8"/><line x1="7" y1="12" x2="21" y2="12"/><line x1="7" y1="16" x2="21" y2="16"/><line x1="7" y1="20" x2="21" y2="20"/></svg>';
+        indentBtn.title = "Switch to no indent";
+        indentBtn.setAttribute("aria-label", "Switch to no indent");
+      } else {
+        indentBtn.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><line x1="3" y1="4" x2="21" y2="4"/><line x1="3" y1="8" x2="21" y2="8"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="16" x2="21" y2="16"/><line x1="3" y1="20" x2="21" y2="20"/></svg>';
+        indentBtn.title = "Switch to indented paragraphs";
+        indentBtn.setAttribute("aria-label", "Switch to indented paragraphs");
+      }
+      fontCtrls.appendChild(indentBtn);
+      indentBtn.addEventListener("click", function () {
+        var cur = store.getItem("readerIndent") || "on";
+        var nxt = cur === "on" ? "off" : "on";
+        applyIndent(nxt, true);
+      });
     }
   }
 

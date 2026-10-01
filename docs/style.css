@@ -1101,8 +1101,13 @@ footer {
   -webkit-hyphens: auto;
   -ms-hyphens: auto;
 }
-.chapter-body p { margin-bottom: 1.4em; text-indent: 2em; }
-.chapter-body p.scene-break { text-indent: 0; }
+.chapter-body p { margin-bottom: 1.4em; }
+.chapter-body.indent-on p { text-indent: 2em; }
+.chapter-body.indent-off p { text-indent: 0; }
+.chapter-body.indent-on p:first-of-type { text-indent: 0; }
+.chapter-body.indent-on p.scene-break,
+.chapter-body.indent-off p.scene-break { text-indent: 0; }
+.chapter-body.indent-on .prose > p:first-of-type { text-indent: 0; }
 
 .chapter-body strong {
   font-weight: 700;
