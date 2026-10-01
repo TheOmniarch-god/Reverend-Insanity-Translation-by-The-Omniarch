@@ -1111,7 +1111,7 @@ After the Gu Master returned to the village and reported all his findings, it im
  Generic sources: Aperture definition [19](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/aperture) and Reverend Insanity wiki [17](https://en.wikipedia.org/wiki/Reverend_Insanity).
 
 4. Proposed rendering
-That Gu Master also benefited greatly from this fortune; his cultivation grew increasingly outstanding, even changing the heart of the lover who had once abandoned him. For a time, he became a prominent figure in the clan.
+That Gu Master also benefited greatly from this fortune; his cultivation grew increasingly outstanding, even changing the heart of the lover who had once abandoned him. For a time, he became a prominent figure.
 
 ---
 

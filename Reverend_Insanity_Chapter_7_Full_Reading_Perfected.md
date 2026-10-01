@@ -87,7 +87,7 @@ A Liquor Worm is a very precious kind of Gu. Still flushed with wine, that Gu Ma
 
 After the Gu Master returned to the village and reported all his findings, it immediately caused a massive sensation throughout the entire clan.
 
-That Gu Master also benefited greatly from this fortune; his cultivation grew increasingly outstanding, even changing the heart of the lover who had once abandoned him. For a time, he became a prominent figure in the clan.
+That Gu Master also benefited greatly from this fortune; his cultivation grew increasingly outstanding, even changing the heart of the lover who had once abandoned him. For a time, he became a prominent figure.
 
 "What a pity that I only heard a general outline back then and didn't know the exact location. At that time, I never thought there would be a day when I would be reborn. Flower Wine Monk, where on earth did you die?"
 
