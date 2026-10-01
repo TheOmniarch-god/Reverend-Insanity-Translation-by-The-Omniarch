@@ -1266,7 +1266,7 @@ The wind of spring blew, wrapping up the freshness of the mountains and rivers, 
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "The woods not far away had already taken on a fresh green. Tender shoots had sprouted, a sheet of yellow green. From tim..." -> improved.
 
 4. Proposed rendering
-Not far away, the woods had already taken on a flush of virent green. The newly sprouted tender shoots formed a sprawling smaragdine expanse of yellow-green where beautiful plumaged birds would perch upon the branches from time to time.
+Not far away, the woods had already taken on a flush of virent green. The newly sprouted tender shoots formed a sprawling smaragdine expanse of chlorovirent where beautiful plumaged birds would perch upon the branches from time to time.
 
 ---
 
