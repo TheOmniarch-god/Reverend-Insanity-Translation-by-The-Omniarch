@@ -1,4 +1,4 @@
-# Reverend Insanity - Chapter 7: Gu Masters Have Nine Ranks, Flower Wine Leaves His Hidden Inheritance
+# Reverend Insanity - Chapter 7: Gu Masters Have Nine Ranks, Flower-Wine Monk Leaves His Hidden Inheritance
 ## 第七节：蛊师有九转，花酒留遗藏
 
 **Source:** EPUB `Gu Zhen Ren/Gu Zhen Ren - Gu Zhen Ren.epub` OEBPS/Text/chapter15.html - Title: 第七节：蛊师有九转，花酒留遗藏 - verified as canonical Chapter 7. Raw Chinese saved at `Reverend_Insanity_Chapter_7_Raw_Chinese.txt`.
