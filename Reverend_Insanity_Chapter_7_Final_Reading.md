@@ -55,7 +55,7 @@ In the entire classroom, the youths all sat straight and proper, radiating youth
 
 Fang Yuan was only of Grade C aptitude. In comparison, his younger brother, Fang Zheng, possessed Grade A aptitude; he was the one truly worth the clan's greatest efforts to nurture.
 
-As he thought this, the academy elder continued aloud with the previous topic. "In our clan's history, many strong figures have appeared. Among them, there have been two Rank 5 experts. One was the first-generation clan leader, our founding ancestor, who established the Gu Yue Village. The other was the fourth-generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank 5 Gu Master. If not for that despicable and shameless demonic fiend, the Flower Wine Monk, launching a sneak attack, he might have advanced to Rank 6. Alas..."
+As he thought this, the academy elder continued aloud with the previous topic. "In our clan's history, many strong figures have appeared. Among them, there have been two Rank 5 experts. One was the first-generation clan leader, our founding ancestor, who established the Gu Yue Village. The other was the fourth-generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank 5 Gu Master. If not for that shameless demon, the Flower Wine Monk, launching a sneak attack, he might have advanced to Rank 6. Alas..."
 
 At this point, Elder Gu Yue let out a deep sigh.
 

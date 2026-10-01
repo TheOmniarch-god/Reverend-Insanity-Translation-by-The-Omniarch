@@ -713,7 +713,7 @@ As he said this he heaved a deep sigh.
 天资卓越 means outstanding natural talent [48](https://dictionary.cambridge.org/us/dictionary/chinese-simplified-english/%E5%A4%A9%E8%B5%84), innate talent [32](https://www.omgchinese.com/dictionary/chinese/%E5%A4%A9%E8%B5%84). 卑鄙无耻 means despicable and shameless [49](https://www.chilearner.com/post/2912/), shameless and immoral [50](https://en.wiktionary.org/wiki/%E5%8D%91%E9%84%99%E7%84%A1%E6%81%A5). 魔头 means demon head, fiend.
 
 4. Proposed rendering
-As he thought this, the academy elder continued aloud with the previous topic. "In our clan's history, many strong figures have appeared. Among them, there have been two Rank 5 experts. One was the first-generation clan leader, our founding ancestor, who established the Gu Yue Village. The other was the fourth-generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank 5 Gu Master. If not for that despicable and shameless demonic fiend, the Flower Wine Monk, launching a sneak attack, he might have advanced to Rank 6. Alas..."
+As he thought this, the academy elder continued aloud with the previous topic. "In our clan's history, many strong figures have appeared. Among them, there have been two Rank 5 experts. One was the first-generation clan leader, our founding ancestor, who established the Gu Yue Village. The other was the fourth-generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank 5 Gu Master. If not for that shameless demon, the Flower Wine Monk, launching a sneak attack, he might have advanced to Rank 6. Alas..."
 
 ---
 
