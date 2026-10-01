@@ -9,7 +9,7 @@ Soon, a week had gone by.
 
 "Seven days ago, during the Aperture Opening Ceremony, all of you successfully opened your apertures and condensed your primeval essence seas. As of now, you are all Rank 1 Gu Masters."
 
-In the village academy, the academy elder spoke with calm assurance and fluent ease.
+In the village academy, the academy elder spoke with confident composure.
 
 Before him, fifty-seven youths sat upright, each listening with rapt attention.
 
@@ -29,7 +29,7 @@ The youths all pricked up their ears, listening intently with eyes shining brigh
 
 Many could not help but look toward Gu Yue Fang Zheng, who sat in solemn posture in the first row. This was a Grade A aptitude, after all! Their gazes were filled with envy and jealousy.
 
-At the same time, some gazes drifted toward that corner in the very last row of the classroom.
+At the same time, some gazes drifted toward the corner in the very last row of the classroom.
 
 In that corner by the window, Gu Yue Fang Yuan was sprawled over his desk, fast asleep and snoring soundly.
 

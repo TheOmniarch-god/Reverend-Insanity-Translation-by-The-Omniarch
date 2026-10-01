@@ -124,7 +124,7 @@ Improved: "in the Aperture Opening Ceremony" -> "during the Aperture Opening Cer
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "Inside the academy of the village, the academy elder was speaking with calm assurance and fluent ease...." -> improved.
 
 4. Proposed rendering
-In the village academy, the academy elder spoke with calm assurance and fluent ease.
+In the village academy, the academy elder spoke with confident composure.
 
 ---
 
@@ -376,7 +376,7 @@ Leaning against the window at the corner was Gu Yue Fang Yuan, who was bent over
 飘 means float, drift, similar to 很快 quickly moving [1](https://www.omgchinese.com/dictionary/chinese/%E5%BE%88%E5%BF%AB) but gentle. 角落 means corner, from aperture as corner opening [19](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/aperture). Contrast admired vs neglected.
 
 4. Proposed rendering
-At the same time, some gazes drifted toward that corner in the very last row of the classroom.
+At the same time, some gazes drifted toward the corner in the very last row of the classroom.
 
 ---
 
