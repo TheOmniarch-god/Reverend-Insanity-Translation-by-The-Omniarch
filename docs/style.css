@@ -1104,10 +1104,8 @@ footer {
 .chapter-body p { margin-bottom: 1.4em; }
 .chapter-body.indent-on p { text-indent: 2em; }
 .chapter-body.indent-off p { text-indent: 0; }
-.chapter-body.indent-on p:first-of-type { text-indent: 0; }
-.chapter-body.indent-on p.scene-break,
-.chapter-body.indent-off p.scene-break { text-indent: 0; }
-.chapter-body.indent-on .prose > p:first-of-type { text-indent: 0; }
+.chapter-body p.scene-break { text-indent: 0 !important; }
+.chapter-body .prose > p:first-of-type::first-letter { margin-left: 0; }
 
 .chapter-body strong {
   font-weight: 700;
@@ -3872,3 +3870,7 @@ a.fc.on:hover { box-shadow: 0 0 0 2px rgba(143,29,29,.35); }
   }
 }
 
+
+
+.chapter-body.indent-on .prose > p:first-of-type { text-indent: 2em; }
+.chapter-body.indent-on .prose > p:first-of-type::first-letter { text-indent: 0; float: left; margin-left: -0.1em; }
