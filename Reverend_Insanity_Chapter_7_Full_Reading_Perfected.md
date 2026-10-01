@@ -77,7 +77,7 @@ Therefore, in the hearts of all Gu Yue clansmen, the fourth-generation clan lead
 
 "Flower Wine Monk, huh..." Woken by the denunciations in the classroom, Fang Yuan opened his bleary, sleepy eyes.
 
-He gave a long, lazy stretch, and in his heart he could not help but feel resentful. "Where on earth did this Flower Wine Monk die? Why have I searched all around the village and still haven't found his inheritance?"
+He gave a long, lazy stretch, and in his heart he could not help but feel resentful. "Where on earth did this Flower Wine Monk die? Why have I combed through the entire area surrounding the village and still haven't found his inheritance?"
 
 In his memory, about two months from now, a clan Gu Master who got drunk over a broken heart would lie dead drunk outside the village. The rich aroma of wine spreading in all directions would unexpectedly attract a Liquor Worm.
 
