@@ -226,7 +226,7 @@ The Gu Yue teacher nodded and waved his hand to ask the young man to sit down. "
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "Elder Gu Yue nodded and waved his hand for the youth to sit down. "Gu Masters have nine great realms in total. From lowe..." -> improved.
 
 4. Proposed rendering
-Elder Gu Yue nodded and waved his hand for the youth to sit down. "Gu Masters have nine great realms in total. From lowest to highest, they are Rank 1, Rank 2, Rank 3, all the way to Rank 9. Within each great realm there are four small realms: initial stage, middle stage, upper stage, and peak stage. You have just become Gu Masters, so you are all at Rank 1 initial stage."
+Elder Gu Yue nodded and waved his hand for the youth to sit down. "Gu Masters have nine major realms in total. From lowest to highest, they are Rank 1, Rank 2, Rank 3, all the way to Rank 9. Within each major realm there are four minor realms: initial stage, middle stage, upper stage, and peak stage. You have just become Gu Masters, so you are all at Rank 1 initial stage."
 
 ---
 
