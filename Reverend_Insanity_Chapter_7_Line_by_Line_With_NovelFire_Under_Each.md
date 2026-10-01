@@ -663,7 +663,7 @@ Fang Yuan was just a C grade, compared to his younger brother Fang Zheng, who wa
 ---
 
 5. NovelFire's Translation (Attached)
-While the academy elder thought about all this, he was also replying to the latest question. "In the clan history, there have been many strong masters. For Rank five masters there were two. One of them is the first generation clan head, our ancestor. He was the one who established Gu Yue Village. Another one was the fourth clan head. He had remarkable talent, and managed to cultivate all the way to the realm of a Rank five Gu Master. If it wasn't for that despicable shameless demon Flower-wine Monk's sneak attack, he might have been able to achieve Rank six, but who knows…"
+While the academy elder thought about all this, he was also replying to the latest question. "In the clan history, there have been many strong masters. For Rank five masters there were two. One of them is the first generation clan head, our ancestor. He was the one who established Gu Yue Village. Another one was the fourth clan head. He had remarkable talent, and managed to cultivate all the way to the realm of a Rank five Gu Master. If it wasn't for that despicable shameless demon Flower-Wine Monk's sneak attack, he might have been able to achieve Rank six, but who knows…"
 
 ---
 
@@ -713,7 +713,7 @@ As he said this he heaved a deep sigh.
 天资卓越 means outstanding natural talent [48](https://dictionary.cambridge.org/us/dictionary/chinese-simplified-english/%E5%A4%A9%E8%B5%84), innate talent [32](https://www.omgchinese.com/dictionary/chinese/%E5%A4%A9%E8%B5%84). 卑鄙无耻 means despicable and shameless [49](https://www.chilearner.com/post/2912/), shameless and immoral [50](https://en.wiktionary.org/wiki/%E5%8D%91%E9%84%99%E7%84%A1%E6%81%A5). 魔头 means demon head, fiend.
 
 4. Proposed rendering
-As he thought this, the academy elder continued aloud with the previous topic. "In our clan's history, many strong figures have appeared. Among them, there have been two Rank 5 experts. One was the first-generation clan leader, our founding ancestor, who established the Gu Yue Village. The other was the fourth-generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank 5 Gu Master. If not for that despicable and shameless demon, the Flower-wine Monk, launching a sneak attack, he might have advanced to Rank 6. Alas..."
+As he thought this, the academy elder continued aloud with the previous topic. "In our clan's history, many strong figures have appeared. Among them, there have been two Rank 5 experts. One was the first-generation clan leader, our founding ancestor, who established the Gu Yue Village. The other was the fourth-generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank 5 Gu Master. If not for that despicable and shameless demon, the Flower-Wine Monk, launching a sneak attack, he might have advanced to Rank 6. Alas..."
 
 ---
 
@@ -741,7 +741,7 @@ At this point, Elder Gu Yue let out a deep sigh.
 ---
 
 5. NovelFire's Translation (Attached)
-"It's all because of that Flower-wine Monk, he was too sinister and cunning!"
+"It's all because of that Flower-Wine Monk, he was too sinister and cunning!"
 
 ---
 
@@ -781,7 +781,7 @@ Below the lectern, the youths all cried out, filled with righteous indignation.
  Additional source: 阴险 means sinister [79](https://www.purpleculture.net/dictionary-details?word=%E9%98%B4%E9%99%A9) and 狡诈 means cunning [80](https://www.purpleculture.net/dictionary-details?word=%E7%8B%A1%E8%AF%88).
 
 4. Proposed rendering
-"It's all that Flower-wine Monk's fault, he was too sinister and cunning!"
+"It's all that Flower-Wine Monk's fault, he was too sinister and cunning!"
 
 ---
 
@@ -808,7 +808,7 @@ Below the lectern, the youths all cried out, filled with righteous indignation.
 ---
 
 5. NovelFire's Translation (Attached)
-The fourth clan head and the Flower-wine Monk's story is something that the entire Gu Yue clan knows.
+The fourth clan head and the Flower-Wine Monk's story is something that the entire Gu Yue clan knows.
 
 ---
 
@@ -834,7 +834,7 @@ The fourth clan head and the Flower-wine Monk's story is something that the enti
 ---
 
 5. NovelFire's Translation (Attached)
-The Flower-wine Monk was also a Rank five Gu Master, famous among the Demon faction in his time for his many years as a big flower thief. A few hundred years ago he travelled to Qing Mao Mountain. He attempted to commit crimes in Gu Yue Village, but was found out by the fourth generation clan leader in the end. After an earthshaking huge battle, the Flower-wine Monk was beaten to the point he had to beg for mercy on his knees. The fourth clan head was merciful and kind, intending to spare his life. Yet the Flower Wink Monk suddenly launched a sneak attack, successfully inflicting heavy wounds on the fourth clan head.
+The Flower-Wine Monk was also a Rank five Gu Master, famous among the Demon faction in his time for his many years as a big flower thief. A few hundred years ago he travelled to Qing Mao Mountain. He attempted to commit crimes in Gu Yue Village, but was found out by the fourth generation clan leader in the end. After an earthshaking huge battle, the Flower-Wine Monk was beaten to the point he had to beg for mercy on his knees. The fourth clan head was merciful and kind, intending to spare his life. Yet the Flower Wink Monk suddenly launched a sneak attack, successfully inflicting heavy wounds on the fourth clan head.
 
 ---
 
@@ -852,12 +852,12 @@ The Flower-wine Monk was also a Rank five Gu Master, famous among the Demon fact
  Additional source: 典故 means allusion [83](https://www.purpleculture.net/dictionary-details?word=%E5%85%B8%E6%95%85) and story [84](https://www.chinesepod.com/dictionary/%E5%85%B8%E6%95%85).
 
 4. Proposed rendering
-There was not a single Gu Yue clansman who did not know the story of the fourth-generation clan leader and the Flower-wine Monk.
+There was not a single Gu Yue clansman who did not know the story of the fourth-generation clan leader and the Flower-Wine Monk.
 
 ---
 
 5. NovelFire's Translation (Attached)
-The clan head flew into a rage, killing the Flower-wine Monk on the spot. However his heavy injuries were not curable and thus, he died.
+The clan head flew into a rage, killing the Flower-Wine Monk on the spot. However his heavy injuries were not curable and thus, he died.
 
 ---
 
@@ -881,10 +881,10 @@ The clan head flew into a rage, killing the Flower-wine Monk on the spot. Howeve
 3. Translation judgment with sources
 采花大盗 means lit. flower thief, fig. rapist [55](https://dragonmandarin.com/words/%E9%87%87%E8%8A%B1%E5%A4%A7%E7%9B%97/c%C7%8Ei-hu%C4%81-d%C3%A0-d%C3%A0o), lit. flower thief [56](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E7%9B%97). 惊天动地 means literally Startle heaven shake earth, earth-shaking tremendous [57](https://www.chineseidioms.com/blog/jing-tian-dong-di), world-shaking [58](https://en.wiktionary.org/wiki/%E9%A9%9A%E5%A4%A9%E5%8B%95%E5%9C%B0).
 
-Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "Flower-wine Monk was also a Rank 5 Gu Master, a lecherous bandit who had done evil for many years and was notorious in t..." -> improved.
+Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "Flower-Wine Monk was also a Rank 5 Gu Master, a lecherous bandit who had done evil for many years and was notorious in t..." -> improved.
 
 4. Proposed rendering
-The Flower-wine Monk was also a Rank 5 Gu Master, a notorious flower thief who had committed evil for many years and was infamous in the demonic path at that time. Several hundred years ago, he prowled to Qing Mao Mountain and attempted to commit crimes in the Gu Yue Village, but was seen through by the fourth-generation clan leader. After an earth-shaking battle, the Flower-wine Monk was beaten to his knees, begging for mercy. The fourth-generation clan leader, kind-hearted and benevolent, intended to spare his life. Instead, the Flower-wine Monk suddenly launched a sneak attack, gravely wounding the fourth-generation clan leader.
+The Flower-Wine Monk was also a Rank 5 Gu Master, a notorious flower thief who had committed evil for many years and was infamous in the demonic path at that time. Several hundred years ago, he prowled to Qing Mao Mountain and attempted to commit crimes in the Gu Yue Village, but was seen through by the fourth-generation clan leader. After an earth-shaking battle, the Flower-Wine Monk was beaten to his knees, begging for mercy. The fourth-generation clan leader, kind-hearted and benevolent, intended to spare his life. Instead, the Flower-Wine Monk suddenly launched a sneak attack, gravely wounding the fourth-generation clan leader.
 
 ---
 
@@ -907,12 +907,12 @@ Therefore in the hearts of the Gu Yue clansmen, the fourth generation clan head 
 击毙 means shoot dead, kill on spot. 撒手人寰 means to pass away, to die [59](https://en.wiktionary.org/wiki/%E6%92%92%E6%89%8B%E4%BA%BA%E5%AF%B0), metaphor for person passing away [60](https://dict.idioms.moe.edu.tw/idiomView.jsp?ID=9449&webMd=2&la=1).
 
 4. Proposed rendering
-The clan leader was consumed by rage and killed the Flower-wine Monk on the spot. However, he subsequently succumbed to his severe wounds and departed from this mortal world.
+The clan leader was consumed by rage and killed the Flower-Wine Monk on the spot. However, he subsequently succumbed to his severe wounds and departed from this mortal world.
 
 ---
 
 5. NovelFire's Translation (Attached)
-"Flower-wine Monk huh…" Awoken by the classroom's noisy chatter, Fang Yuan opened his sleepy eyes.
+"Flower-Wine Monk huh…" Awoken by the classroom's noisy chatter, Fang Yuan opened his sleepy eyes.
 
 ---
 
@@ -937,7 +937,7 @@ Therefore, in the hearts of all Gu Yue clansmen, the fourth-generation clan lead
 ---
 
 5. NovelFire's Translation (Attached)
-He stretched his body and thought with resentment in his heart, this Flower-wine Monk, where did he die? Why is it that I still can't find his legacy after searching around the entire village?
+He stretched his body and thought with resentment in his heart, this Flower-Wine Monk, where did he die? Why is it that I still can't find his legacy after searching around the entire village?
 
 ---
 
@@ -946,7 +946,7 @@ He stretched his body and thought with resentment in his heart, this Flower-wine
 “花酒行者么……”被学堂中的声讨吵醒，角落里方源睁开了朦胧的睡眼。
 
 2. Literal breakdown
-• 花酒行者么 - Flower-wine Monk, huh
+• 花酒行者么 - Flower-Wine Monk, huh
 • 被声讨吵醒 - woken by denunciations
 • 睁开了朦胧的睡眼 - opened bleary sleepy eyes
 
@@ -956,7 +956,7 @@ He stretched his body and thought with resentment in his heart, this Flower-wine
  Additional source: 声讨 means denunciation [87](https://www.purpleculture.net/dictionary-details?word=%E5%A3%B0%E8%AE%A8) and 朦胧 means hazy [88](https://www.purpleculture.net/dictionary-details?word=%E6%9C%A6%E8%83%A7).
 
 4. Proposed rendering
-"Flower-wine Monk, huh..." Woken by the denunciations in the classroom, Fang Yuan opened his bleary, sleepy eyes.
+"Flower-Wine Monk, huh..." Woken by the denunciations in the classroom, Fang Yuan opened his bleary, sleepy eyes.
 
 ---
 
@@ -983,7 +983,7 @@ In his memories, there was a Gu Master from the clan who was brokenhearted and s
  Additional source: 伸懒腰 means stretch [89](https://www.purpleculture.net/dictionary-details?word=%E4%BC%B8%E6%87%92%E8%85%B0) and 遗产 means inheritance [90](https://www.purpleculture.net/dictionary-details?word=%E9%81%97%E4%BA%A7).
 
 4. Proposed rendering
-He gave a long, lazy stretch, and in his heart he could not help but feel resentful. "Where on earth did this Flower-wine Monk die? Why have I searched all around the village and still haven't found his inheritance?"
+He gave a long, lazy stretch, and in his heart he could not help but feel resentful. "Where on earth did this Flower-Wine Monk die? Why have I searched all around the village and still haven't found his inheritance?"
 
 ---
 
@@ -1015,7 +1015,7 @@ In his memory, about two months from now, a clan Gu Master who got drunk over a 
 ---
 
 5. NovelFire's Translation (Attached)
-The Liquor worm was a very precious and expensive type of Gu. The half drunk Gu Master decided to risk it and enter the hole, finding himself in a secret underground cave. After that he discovered the bones of the Flower-wine Monk and the inheritance he left behind.
+The Liquor worm was a very precious and expensive type of Gu. The half drunk Gu Master decided to risk it and enter the hole, finding himself in a secret underground cave. After that he discovered the bones of the Flower-Wine Monk and the inheritance he left behind.
 
 ---
 
@@ -1061,7 +1061,7 @@ When the Gu Master returned to the village, he reported his discoveries and imme
 珍贵 means precious, valuable, similar to 奥妙 marvelous [15](https://www.purpleculture.net/dictionary-details?word=%E5%A5%A5%E5%A6%99). 酒意 means wine intent, drunkenness, similar to 烂醉如泥 drunk [40](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E7%83%82%E9%86%89%E5%A6%82%E6%B3%A5). 尸骸 means remains.
 
 4. Proposed rendering
-A Liquor Worm is a very precious kind of Gu. Still flushed with wine, that Gu Master risked entering the cave and reached a clandestine chamber. There, he discovered the skeletal remains of the Flower-wine Monk, along with the inheritance left behind.
+A Liquor Worm is a very precious kind of Gu. Still flushed with wine, that Gu Master risked entering the cave and reached a clandestine chamber. There, he discovered the skeletal remains of the Flower-Wine Monk, along with the inheritance left behind.
 
 ---
 
@@ -1089,7 +1089,7 @@ After the Gu Master returned to the village and reported all his findings, it im
 ---
 
 5. NovelFire's Translation (Attached)
-"Sadly I only heard bits and pieces about this piece of news, so I don't know where the accurate location is. It wasn't like I knew I would be reborn again to this day. Flower-wine Monk, where in the world did you die off to?"
+"Sadly I only heard bits and pieces about this piece of news, so I don't know where the accurate location is. It wasn't like I knew I would be reborn again to this day. Flower-Wine Monk, where in the world did you die off to?"
 
 ---
 
@@ -1135,7 +1135,7 @@ These few days he had been buying a lot of wine, wandering around the village as
 大概 means general, approximate, similar to 成千上万 approximate thousands [7](https://www.dong-chinese.com/wiki/%E6%88%90%E5%8D%83%E4%B8%8A%E8%90%AC). 确切 means exact, precise. 重生 means rebirth, reincarnation, central to Reverend Insanity [17](https://en.wikipedia.org/wiki/Reverend_Insanity).
 
 4. Proposed rendering
-"What a pity that I only heard a general outline back then and didn't know the exact location. At that time, I never thought there would be a day when I would be reborn. Flower-wine Monk, where on earth did you die?"
+"What a pity that I only heard a general outline back then and didn't know the exact location. At that time, I never thought there would be a day when I would be reborn. Flower-Wine Monk, where on earth did you die?"
 
 ---
 

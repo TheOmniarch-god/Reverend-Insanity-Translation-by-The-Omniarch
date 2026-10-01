@@ -15,7 +15,7 @@
   - Reserve literal+gloss for distinctive image (not needed heavily in this chapter, but applied to 惊天动地 as earth-shaking which keeps image)
 - Basic English so...that avoided: Chinese resultative structures rendered as natural English clauses.
 - Natural English: avoid Chinglish, prefer "radiated youthful vigor" over literal "glowing with vitality".
-- Names consistent: 古月 Gu Yue, 方源 Fang Yuan, 方正 Fang Zheng, 学堂家老 Academy Elder, 花酒行者 Flower-wine Monk, 月光蛊 Moonlight Gu, 酒虫 Liquor Worm, 空窍 aperture, 元海 primeval sea, 真元 primeval essence, 元石 primeval stones.
+- Names consistent: 古月 Gu Yue, 方源 Fang Yuan, 方正 Fang Zheng, 学堂家老 Academy Elder, 花酒行者 Flower-Wine Monk, 月光蛊 Moonlight Gu, 酒虫 Liquor Worm, 空窍 aperture, 元海 primeval sea, 真元 primeval essence, 元石 primeval stones.
 
 ---
 
@@ -111,7 +111,7 @@
 **Translation:** Fang Yuan was only of Grade C aptitude. In comparison, his younger brother Fang Zheng possessed Grade A aptitude. He was the one truly worth the clan spending great effort to cultivate.
 
 #### 28. 学堂家老一边想着，一边口中又继续刚刚的话题：“在我族的历史上，出现过许多的强者。其中五转强者，就有两位。一位是一代族长，是我们的老祖宗，就是他创立了古月山寨。还有一位，是四代族长。天资卓越，一直修行到了五转蛊师的境界。要不是那个卑鄙无耻的魔头花酒行者偷袭的话，兴许能晋升成六转蛊师也说不定。唉……”
-**Translation:** As he thought this, the academy elder continued aloud with the previous topic. "In the history of our clan, many strong figures have appeared. Among them, there have been two Rank 5 experts. One was the first generation clan leader, our founding ancestor, the one who established Gu Yue Village. The other was the fourth generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank 5 Gu Master. If not for that despicable and shameless demonic fiend Flower-wine Monk launching a sneak attack, he might even have advanced to become a Rank 6 Gu Master. Alas..."
+**Translation:** As he thought this, the academy elder continued aloud with the previous topic. "In the history of our clan, many strong figures have appeared. Among them, there have been two Rank 5 experts. One was the first generation clan leader, our founding ancestor, the one who established Gu Yue Village. The other was the fourth generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank 5 Gu Master. If not for that despicable and shameless demonic fiend Flower-Wine Monk launching a sneak attack, he might even have advanced to become a Rank 6 Gu Master. Alas..."
 
 #### 29. 说到这里，古月师深深一叹。
 **Translation:** At this point, Elder Gu Yue let out a deep sigh.
@@ -121,7 +121,7 @@
 **Idiom:** 义愤填膺 - righteous indignation fills one's breast (idiom); to feel indignant at injustice [9](https://www.chinesepod.com/dictionary/%E4%B9%89%E6%84%A4%E5%A1%AB%E8%86%BA), righteous indignation fills one's breast [10](https://www.omgchinese.com/dictionary/chinese/%E4%B9%89%E6%84%A4%E5%A1%AB%E8%86%BA) - figurative must be figurative, "filled with righteous indignation" is direct idiom-for-idiom.
 
 #### 31. “都是那花酒行者，太阴险狡诈了！”
-**Translation:** "It is all that Flower-wine Monk, too sinister and cunning!"
+**Translation:** "It is all that Flower-Wine Monk, too sinister and cunning!"
 
 #### 32. “可惜我们四代族长宅心仁厚，英年早逝。”
 **Translation:** "It is a pity our fourth generation clan leader was so kind hearted and benevolent, yet died young."
@@ -131,23 +131,23 @@
 **Translation:** "I only hate that I was not born a few hundred years earlier. Otherwise, if I had met that demon, I would certainly have fought to the death to expose his ugly true face."
 
 #### 34. 四代族长和花酒行者的典故，古月族人没有一个不知道的。
-**Translation:** There was not a single Gu Yue clansman who did not know the story of the fourth generation clan leader and the Flower-wine Monk.
+**Translation:** There was not a single Gu Yue clansman who did not know the story of the fourth generation clan leader and the Flower-Wine Monk.
 
 #### 35. 花酒行者同样是五转蛊师，是为恶多年的采花大盗，在当时的魔道中赫赫有名。数百年前，他流窜到青茅山，企图在古月山寨中作案，结果被四代族长识破。一场惊天动地的大激战之后，花酒行者被打的跪地求饶，四代族长心慈仁厚，打算饶他一命。结果花酒行者突然发难偷袭，重伤四代族长。
-**Translation:** Flower-wine Monk was also a Rank 5 Gu Master, a lecherous bandit who had done evil for many years and was notorious in the demonic path at that time. Several hundred years ago, he drifted to Qing Mao Mountain and tried to commit crimes in Gu Yue Village, but was seen through by the fourth generation clan leader. After an earth-shaking fierce battle, Flower-wine Monk was beaten to his knees begging for mercy. The fourth generation clan leader, kind hearted and benevolent, intended to spare his life. As a result, Flower-wine Monk suddenly launched a sneak attack and gravely wounded the fourth generation clan leader.
+**Translation:** Flower-Wine Monk was also a Rank 5 Gu Master, a lecherous bandit who had done evil for many years and was notorious in the demonic path at that time. Several hundred years ago, he drifted to Qing Mao Mountain and tried to commit crimes in Gu Yue Village, but was seen through by the fourth generation clan leader. After an earth-shaking fierce battle, Flower-Wine Monk was beaten to his knees begging for mercy. The fourth generation clan leader, kind hearted and benevolent, intended to spare his life. As a result, Flower-Wine Monk suddenly launched a sneak attack and gravely wounded the fourth generation clan leader.
 **Idiom:** 惊天动地 - literally "Startle heaven shake earth" and expresses "earth-shaking; tremendous" [12](https://www.chineseidioms.com/blog/jing-tian-dong-di), world-shaking, earth-shattering [13](https://en.wiktionary.org/wiki/%E9%A9%9A%E5%A4%A9%E5%8B%95%E5%9C%B0) - distinctive image worth keeping literal, same energy as "earth-shaking" in English, so idiom-for-idiom works.
 
 #### 36. 族长大怒，当场击毙了花酒行者，但是随后也重伤不治，撒手人寰。
-**Translation:** The clan leader flew into a great rage and killed Flower-wine Monk on the spot, but afterward his grave injuries could not be treated, and he passed away.
+**Translation:** The clan leader flew into a great rage and killed Flower-Wine Monk on the spot, but afterward his grave injuries could not be treated, and he passed away.
 
 #### 37. 因此，在所有古月族人的心中，四代族长是为了山寨而牺牲的英雄人物。
 **Translation:** Therefore, in the hearts of all Gu Yue clansmen, the fourth generation clan leader was a heroic figure who sacrificed himself for the village.
 
 #### 38. “花酒行者么……”被学堂中的声讨吵醒，角落里方源睁开了朦胧的睡眼。
-**Translation:** "Flower-wine Monk, huh..." Woken by the denunciations in the academy, Fang Yuan in the corner opened his bleary sleepy eyes.
+**Translation:** "Flower-Wine Monk, huh..." Woken by the denunciations in the academy, Fang Yuan in the corner opened his bleary sleepy eyes.
 
 #### 39. 他结结实实地伸了个大懒腰，心中也不无怨念：“这个花酒行者，到底死在哪里？为什么我将山寨周围都转了个遍，还未找到他的遗产？”
-**Translation:** He stretched out in a long lazy stretch, and in his heart he could not help feeling a bit resentful. "Where on earth did this Flower-wine Monk die? Why have I searched all around the village and still not found his inheritance?"
+**Translation:** He stretched out in a long lazy stretch, and in his heart he could not help feeling a bit resentful. "Where on earth did this Flower-Wine Monk die? Why have I searched all around the village and still not found his inheritance?"
 **Note:** OSASCOMP - "long lazy" (size + purpose) correct order, avoids "solid big" confusion.
 
 #### 40. 记忆中，大约是两个月后，一位因为失恋而醉酒的族内蛊师，烂醉如泥地躺在山寨外，结果四溢的酒香气息，意外地引来了一头酒虫。
@@ -158,7 +158,7 @@
 **Translation:** The Gu Master was overjoyed and wanted to catch it. The Liquor Worm fled in panic, the Gu Master chased closely without letting up, and following the Liquor Worm's trail, he discovered a hidden cave entrance leading underground.
 
 #### 42. 酒虫是很珍贵的一种蛊，这蛊师带着酒意，就冒险进入洞口，来到地下秘洞。然后就发现了花酒行者的尸骸，还有留下来的遗产。
-**Translation:** Liquor Worm is a very precious kind of Gu. That Gu Master, still carrying the flush of wine, risked entering the cave entrance and came to an underground secret cave. Then he discovered the skeletal remains of Flower-wine Monk, along with the inheritance he left behind.
+**Translation:** Liquor Worm is a very precious kind of Gu. That Gu Master, still carrying the flush of wine, risked entering the cave entrance and came to an underground secret cave. Then he discovered the skeletal remains of Flower-Wine Monk, along with the inheritance he left behind.
 
 #### 43. 蛊师回到山寨后，汇报了所有的发现，立即引起了整个家族的大轰动。
 **Translation:** After the Gu Master returned to the village and reported all his findings, it immediately caused a huge sensation throughout the entire clan.
@@ -167,7 +167,7 @@
 **Translation:** And that Gu Master also benefited from it, his cultivation becoming more and more outstanding, and on the contrary attracting the lover who had once abandoned him to have a change of heart. He became a prominent figure of the moment.
 
 #### 45. “可惜这个消息，我也只听说了大概，并不知道确切的位置。当时也没想到会有重生的这一天啊。花酒行者，你到底死在哪里？”
-**Translation:** "What a pity that I only heard the general outline of this news back then, and did not know the exact location. At that time I never thought there would be a day when I would be reborn. Flower-wine Monk, where on earth did you die?"
+**Translation:** "What a pity that I only heard the general outline of this news back then, and did not know the exact location. At that time I never thought there would be a day when I would be reborn. Flower-Wine Monk, where on earth did you die?"
 
 #### 46. 他这些天来，买了许多酒，一到夜晚就在山寨周围闲逛。想借着散发的酒气，来吸引到酒虫露面。可惜，就是不见那酒虫，结果令人十分失望。
 **Translation:** In these past days, he had bought a lot of wine and wandered idly around the village every night. He wanted to use the spreading aroma of wine to lure the Liquor Worm into showing itself. Unfortunately, there was no sign of the Liquor Worm at all, and the result was very disappointing.
@@ -260,41 +260,41 @@ In the whole classroom, the youths all sat upright and radiated youthful vigor, 
 
 Fang Yuan was only of Grade C aptitude. In comparison, his younger brother Fang Zheng possessed Grade A aptitude. He was the one truly worth the clan spending great effort to cultivate.
 
-As he thought this, the academy elder continued aloud with the previous topic. "In the history of our clan, many strong figures have appeared. Among them, there have been two Rank 5 experts. One was the first generation clan leader, our founding ancestor, the one who established Gu Yue Village. The other was the fourth generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank 5 Gu Master. If not for that despicable and shameless demonic fiend Flower-wine Monk launching a sneak attack, he might even have advanced to become a Rank 6 Gu Master. Alas..."
+As he thought this, the academy elder continued aloud with the previous topic. "In the history of our clan, many strong figures have appeared. Among them, there have been two Rank 5 experts. One was the first generation clan leader, our founding ancestor, the one who established Gu Yue Village. The other was the fourth generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank 5 Gu Master. If not for that despicable and shameless demonic fiend Flower-Wine Monk launching a sneak attack, he might even have advanced to become a Rank 6 Gu Master. Alas..."
 
 At this point, Elder Gu Yue let out a deep sigh.
 
 Below the lectern, the youths all cried out, filled with righteous indignation.
 
-"It is all that Flower-wine Monk, too sinister and cunning!"
+"It is all that Flower-Wine Monk, too sinister and cunning!"
 
 "It is a pity our fourth generation clan leader was so kind hearted and benevolent, yet died young."
 
 "I only hate that I was not born a few hundred years earlier. Otherwise, if I had met that demon, I would certainly have fought to the death to expose his ugly true face."
 
-There was not a single Gu Yue clansman who did not know the story of the fourth generation clan leader and the Flower-wine Monk.
+There was not a single Gu Yue clansman who did not know the story of the fourth generation clan leader and the Flower-Wine Monk.
 
-Flower-wine Monk was also a Rank 5 Gu Master, a lecherous bandit who had done evil for many years and was notorious in the demonic path at that time. Several hundred years ago, he drifted to Qing Mao Mountain and tried to commit crimes in Gu Yue Village, but was seen through by the fourth generation clan leader. After an earth-shaking fierce battle, Flower-wine Monk was beaten to his knees begging for mercy. The fourth generation clan leader, kind hearted and benevolent, intended to spare his life. As a result, Flower-wine Monk suddenly launched a sneak attack and gravely wounded the fourth generation clan leader.
+Flower-Wine Monk was also a Rank 5 Gu Master, a lecherous bandit who had done evil for many years and was notorious in the demonic path at that time. Several hundred years ago, he drifted to Qing Mao Mountain and tried to commit crimes in Gu Yue Village, but was seen through by the fourth generation clan leader. After an earth-shaking fierce battle, Flower-Wine Monk was beaten to his knees begging for mercy. The fourth generation clan leader, kind hearted and benevolent, intended to spare his life. As a result, Flower-Wine Monk suddenly launched a sneak attack and gravely wounded the fourth generation clan leader.
 
-The clan leader flew into a great rage and killed Flower-wine Monk on the spot, but afterward his grave injuries could not be treated, and he passed away.
+The clan leader flew into a great rage and killed Flower-Wine Monk on the spot, but afterward his grave injuries could not be treated, and he passed away.
 
 Therefore, in the hearts of all Gu Yue clansmen, the fourth generation clan leader was a heroic figure who sacrificed himself for the village.
 
-"Flower-wine Monk, huh..." Woken by the denunciations in the academy, Fang Yuan in the corner opened his bleary sleepy eyes.
+"Flower-Wine Monk, huh..." Woken by the denunciations in the academy, Fang Yuan in the corner opened his bleary sleepy eyes.
 
-He stretched out in a long lazy stretch, and in his heart he could not help feeling a bit resentful. "Where on earth did this Flower-wine Monk die? Why have I searched all around the village and still not found his inheritance?"
+He stretched out in a long lazy stretch, and in his heart he could not help feeling a bit resentful. "Where on earth did this Flower-Wine Monk die? Why have I searched all around the village and still not found his inheritance?"
 
 In his memory, about two months from now, a clan Gu Master who got drunk because of a broken heart would lie dead drunk outside the village. As a result, the rich aroma of wine spreading in all directions would unexpectedly attract a Liquor Worm.
 
 The Gu Master was overjoyed and wanted to catch it. The Liquor Worm fled in panic, the Gu Master chased closely without letting up, and following the Liquor Worm's trail, he discovered a hidden cave entrance leading underground.
 
-Liquor Worm is a very precious kind of Gu. That Gu Master, still carrying the flush of wine, risked entering the cave entrance and came to an underground secret cave. Then he discovered the skeletal remains of Flower-wine Monk, along with the inheritance he left behind.
+Liquor Worm is a very precious kind of Gu. That Gu Master, still carrying the flush of wine, risked entering the cave entrance and came to an underground secret cave. Then he discovered the skeletal remains of Flower-Wine Monk, along with the inheritance he left behind.
 
 After the Gu Master returned to the village and reported all his findings, it immediately caused a huge sensation throughout the entire clan.
 
 And that Gu Master also benefited from it, his cultivation becoming more and more outstanding, and on the contrary attracting the lover who had once abandoned him to have a change of heart. He became a prominent figure of the moment.
 
-"What a pity that I only heard the general outline of this news back then, and did not know the exact location. At that time I never thought there would be a day when I would be reborn. Flower-wine Monk, where on earth did you die?"
+"What a pity that I only heard the general outline of this news back then, and did not know the exact location. At that time I never thought there would be a day when I would be reborn. Flower-Wine Monk, where on earth did you die?"
 
 In these past days, he had bought a lot of wine and wandered idly around the village every night. He wanted to use the spreading aroma of wine to lure the Liquor Worm into showing itself. Unfortunately, there was no sign of the Liquor Worm at all, and the result was very disappointing.
 

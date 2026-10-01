@@ -55,41 +55,41 @@ In the entire classroom, the youths all sat straight and proper, radiating youth
 
 Fang Yuan was only of Grade C aptitude. In comparison, his younger brother, Fang Zheng, possessed Grade A aptitude; he was the one truly worth the clan's greatest efforts to nurture.
 
-As he thought this, the academy elder continued aloud with the previous topic. "In our clan's history, many strong figures have appeared. Among them, there have been two Rank 5 experts. One was the first-generation clan leader, our founding ancestor, who established the Gu Yue Village. The other was the fourth-generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank 5 Gu Master. If not for that despicable and shameless demon, the Flower-wine Monk, launching a sneak attack, he might have advanced to Rank 6. Alas..."
+As he thought this, the academy elder continued aloud with the previous topic. "In our clan's history, many strong figures have appeared. Among them, there have been two Rank 5 experts. One was the first-generation clan leader, our founding ancestor, who established the Gu Yue Village. The other was the fourth-generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank 5 Gu Master. If not for that despicable and shameless demon, the Flower-Wine Monk, launching a sneak attack, he might have advanced to Rank 6. Alas..."
 
 At this point, Elder Gu Yue let out a deep sigh.
 
 Below the lectern, the youths all cried out, filled with righteous indignation.
 
-"It's all that Flower-wine Monk's fault, he was too sinister and cunning!"
+"It's all that Flower-Wine Monk's fault, he was too sinister and cunning!"
 
 "It's a pity our fourth-generation clan leader was so kind-hearted and benevolent, yet died in his prime."
 
 "I only hate that I wasn't born a few hundred years earlier. Otherwise, if I had met that demon, I would certainly have fought him to the death to expose his vile nature!"
 
-There was not a single Gu Yue clansman who did not know the story of the fourth-generation clan leader and the Flower-wine Monk.
+There was not a single Gu Yue clansman who did not know the story of the fourth-generation clan leader and the Flower-Wine Monk.
 
-The Flower-wine Monk was also a Rank 5 Gu Master, a notorious flower thief who had committed evil for many years and was infamous in the demonic path at that time. Several hundred years ago, he prowled to Qing Mao Mountain and attempted to commit crimes in the Gu Yue Village, but was seen through by the fourth-generation clan leader. After an earth-shaking battle, the Flower-wine Monk was beaten to his knees, begging for mercy. The fourth-generation clan leader, kind-hearted and benevolent, intended to spare his life. Instead, the Flower-wine Monk suddenly launched a sneak attack, gravely wounding the fourth-generation clan leader.
+The Flower-Wine Monk was also a Rank 5 Gu Master, a notorious flower thief who had committed evil for many years and was infamous in the demonic path at that time. Several hundred years ago, he prowled to Qing Mao Mountain and attempted to commit crimes in the Gu Yue Village, but was seen through by the fourth-generation clan leader. After an earth-shaking battle, the Flower-Wine Monk was beaten to his knees, begging for mercy. The fourth-generation clan leader, kind-hearted and benevolent, intended to spare his life. Instead, the Flower-Wine Monk suddenly launched a sneak attack, gravely wounding the fourth-generation clan leader.
 
-The clan leader was consumed by rage and killed the Flower-wine Monk on the spot. However, he subsequently succumbed to his severe wounds and departed from this mortal world.
+The clan leader was consumed by rage and killed the Flower-Wine Monk on the spot. However, he subsequently succumbed to his severe wounds and departed from this mortal world.
 
 Therefore, in the hearts of all Gu Yue clansmen, the fourth-generation clan leader was a heroic figure who had sacrificed himself for the village.
 
-"Flower-wine Monk, huh..." Woken by the denunciations in the classroom, Fang Yuan opened his bleary, sleepy eyes.
+"Flower-Wine Monk, huh..." Woken by the denunciations in the classroom, Fang Yuan opened his bleary, sleepy eyes.
 
-He gave a long, lazy stretch, and in his heart he could not help but feel resentful. "Where on earth did this Flower-wine Monk die? Why have I searched all around the village and still haven't found his inheritance?"
+He gave a long, lazy stretch, and in his heart he could not help but feel resentful. "Where on earth did this Flower-Wine Monk die? Why have I searched all around the village and still haven't found his inheritance?"
 
 In his memory, about two months from now, a clan Gu Master who got drunk over a broken heart would lie dead drunk outside the village. The rich aroma of wine spreading in all directions would unexpectedly attract a Liquor Worm.
 
 The Gu Master was overjoyed and tried to catch it. The Liquor Worm fled in panic, but the Gu Master chased closely without letting up; following its trail, he discovered a hidden cave entrance leading underground.
 
-A Liquor Worm is a very precious kind of Gu. Still flushed with wine, that Gu Master risked entering the cave and reached a clandestine chamber. There, he discovered the skeletal remains of the Flower-wine Monk, along with the inheritance left behind.
+A Liquor Worm is a very precious kind of Gu. Still flushed with wine, that Gu Master risked entering the cave and reached a clandestine chamber. There, he discovered the skeletal remains of the Flower-Wine Monk, along with the inheritance left behind.
 
 After the Gu Master returned to the village and reported all his findings, it immediately caused a massive sensation throughout the entire clan.
 
 That Gu Master also benefited greatly from this fortune; his cultivation grew increasingly outstanding, even changing the heart of the lover who had once abandoned him. For a time, he became a prominent figure.
 
-"What a pity that I only heard a general outline back then and didn't know the exact location. At that time, I never thought there would be a day when I would be reborn. Flower-wine Monk, where on earth did you die?"
+"What a pity that I only heard a general outline back then and didn't know the exact location. At that time, I never thought there would be a day when I would be reborn. Flower-Wine Monk, where on earth did you die?"
 
 Over these past few days, he had bought a lot of wine and wandered idly around the village every night. He wanted to use the redolence of the wine to lure the Liquor Worm into showing itself. Unfortunately, there was no sign of the creature at all, and the result was deeply disappointing.
 
