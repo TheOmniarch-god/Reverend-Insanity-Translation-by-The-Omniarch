@@ -1150,6 +1150,10 @@ footer {
   line-height: 1.9 !important;
   color: var(--ink) !important;
   font-style: italic !important;
+  text-indent: 0 !important;
+}
+.prose-poem p {
+  text-indent: 0 !important;
 }
 .prose-poem p {
   margin-bottom: 0 !important;
