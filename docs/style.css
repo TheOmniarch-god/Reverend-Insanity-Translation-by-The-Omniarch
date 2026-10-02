@@ -1149,6 +1149,7 @@ footer {
   font-size: 1em !important;
   line-height: 1.9 !important;
   color: var(--ink) !important;
+  font-style: italic !important;
 }
 .prose-poem p {
   margin-bottom: 0 !important;
