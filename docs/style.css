@@ -1145,9 +1145,9 @@ footer {
   border-left: 3px solid var(--red) !important;
   background: #faf8f4 !important;
   border-radius: 0 8px 8px 0 !important;
-  font-family: "Playfair Display", Georgia, serif !important;
-  font-size: 1.03em !important;
-  line-height: 1.85 !important;
+  font-family: inherit !important;
+  font-size: 1em !important;
+  line-height: 1.9 !important;
   color: var(--ink) !important;
 }
 .prose-poem p {
