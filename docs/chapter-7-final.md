@@ -7,7 +7,7 @@ Soon, a week had gone by.
 
 "As humanity thrived and multiplied, our forebears gradually discovered the profound mysteries of Gu worms. Those who have opened their apertures and use their own primeval essence to feed, refine, and manipulate these Gu to achieve various ends are collectively known as Gu Masters."
 
-"Seven days ago, during the Aperture Opening Ceremony, all of you successfully opened your apertures and condensed your primeval essence seas. As of now, you are all Rank 1 Gu Masters."
+"Seven days ago, during the Aperture Opening Ceremony, all of you successfully opened your apertures and condensed your primeval essence seas. As of now, you are all Rank I Gu Masters."
 
 In the village academy, the academy elder spoke with confident composure.
 
@@ -15,15 +15,15 @@ Before him, fifty-seven youths sat upright, each listening with rapt attention.
 
 The wonder and power of Gu Masters had long taken root in the youths' hearts, so everything the elder taught left them completely captivated.
 
-At that moment, a youth raised his hand. After the elder gave his permission, he stood and asked, "My lord academy elder, I have known since I was very young that Gu Masters are divided into Rank 1, Rank 2, and so on. Could you explain it to us in detail?"
+At that moment, a youth raised his hand. After the elder gave his permission, he stood and asked, "My lord academy elder, I have known since I was very young that Gu Masters are divided into Rank I, Rank II, and so on. Could you explain it to us in detail?"
 
-Elder Gu Yue nodded and waved his hand for the youth to sit down. "Gu Masters have nine major realms in total. From lowest to highest, they are Rank 1, Rank 2, Rank 3, all the way to Rank 9. Within each major realm there are four minor realms: initial stage, middle stage, upper stage, and peak stage. You have just become Gu Masters, so you are all at Rank 1 initial stage."
+Elder Gu Yue nodded and waved his hand for the youth to sit down. "Gu Masters have nine major realms in total. From lowest to highest, they are Rank I, Rank II, Rank III, all the way to Rank IX. Within each major realm there are four minor realms: initial stage, middle stage, upper stage, and peak stage. You have just become Gu Masters, so you are all at Rank I initial stage."
 
-"If you cultivate diligently from now on, your cultivation will naturally rise, and advancing to Rank 2 or Rank 3 will also be possible. Of course, the higher your aptitude, the greater the chance of advancement."
+"If you cultivate diligently from now on, your cultivation will naturally rise, and advancing to Rank II or Rank III will also be possible. Of course, the higher your aptitude, the greater the chance of advancement."
 
-"With Grade D aptitude, the primeval sea occupies twenty to thirty percent of the aperture; such people can at most cultivate to Rank 1 or Rank 2. With Grade C aptitude, the primeval sea occupies forty to fifty percent of the aperture; such people usually stall at Rank 2, with only a tiny fraction lucky enough to break through to Rank 3 initial stage. With Grade B aptitude, the primeval sea occupies sixty to seventy percent of the aperture; such people can cultivate to Rank 3, and even as high as Rank 4. With Grade A aptitude, the primeval sea occupies eighty to ninety percent of the aperture and is abundant; naturally, such people possess the highest talent and are the most suited to Gu cultivation, capable of reaching Rank 5."
+"With Grade D aptitude, the primeval sea occupies twenty to thirty percent of the aperture; such people can at most cultivate to Rank I or Rank II. With Grade C aptitude, the primeval sea occupies forty to fifty percent of the aperture; such people usually stall at Rank II, with only a tiny fraction lucky enough to break through to Rank III initial stage. With Grade B aptitude, the primeval sea occupies sixty to seventy percent of the aperture; such people can cultivate to Rank III, and even as high as Rank IV. With Grade A aptitude, the primeval sea occupies eighty to ninety percent of the aperture and is abundant; naturally, such people possess the highest talent and are the most suited to Gu cultivation, capable of reaching Rank V."
 
-"As for Gu Masters of Rank 6 and above, every single one is a legend. I am not too clear on the specifics myself. Our Gu Yue clan has never produced a Rank 6 Gu Master, but we have had Rank 4 and Rank 5 Gu Masters before."
+"As for Gu Masters of Rank VI and above, every single one is a legend. I am not too clear on the specifics myself. Our Gu Yue clan has never produced a Rank VI Gu Master, but we have had Rank IV and Rank V Gu Masters before."
 
 The youths all pricked up their ears, listening intently with eyes shining bright.
 
@@ -55,7 +55,7 @@ In the entire classroom, the youths all sat straight and proper, radiating youth
 
 Fang Yuan was only of Grade C aptitude. In comparison, his younger brother, Fang Zheng, possessed Grade A aptitude; he was the one truly worth the clan's greatest efforts to nurture.
 
-As he thought this, the academy elder continued aloud with the previous topic. "In our clan's history, many strong figures have appeared. Among them, there have been two Rank 5 experts. One was the first-generation clan leader, our founding ancestor, who established the Gu Yue Village. The other was the fourth-generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank 5 Gu Master. If not for that despicable and shameless demon, the Flower-Wine Monk, launching a sneak attack, he might have advanced to Rank 6. Alas..."
+As he thought this, the academy elder continued aloud with the previous topic. "In our clan's history, many strong figures have appeared. Among them, there have been two Rank V experts. One was the first-generation clan leader, our founding ancestor, who established the Gu Yue Village. The other was the fourth-generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank V Gu Master. If not for that despicable and shameless demon, the Flower-Wine Monk, launching a sneak attack, he might have advanced to Rank VI. Alas..."
 
 At this point, Elder Gu Yue let out a deep sigh.
 
@@ -69,7 +69,7 @@ Below the lectern, the youths all cried out, filled with righteous indignation.
 
 There was not a single Gu Yue clansman who did not know the story of the fourth-generation clan leader and the Flower-Wine Monk.
 
-The Flower-Wine Monk was also a Rank 5 Gu Master, a notorious flower thief who had committed evil for many years and was infamous in the demonic path at that time. Several hundred years ago, he prowled to Qing Mao Mountain and attempted to commit crimes in the Gu Yue Village, but was seen through by the fourth-generation clan leader. After an earth-shaking battle, the Flower-Wine Monk was beaten to his knees, begging for mercy. The fourth-generation clan leader, kind-hearted and benevolent, intended to spare his life. Instead, the Flower-Wine Monk suddenly launched a sneak attack, gravely wounding the fourth-generation clan leader.
+The Flower-Wine Monk was also a Rank V Gu Master, a notorious flower thief who had committed evil for many years and was infamous in the demonic path at that time. Several hundred years ago, he prowled to Qing Mao Mountain and attempted to commit crimes in the Gu Yue Village, but was seen through by the fourth-generation clan leader. After an earth-shaking battle, the Flower-Wine Monk was beaten to his knees, begging for mercy. The fourth-generation clan leader, kind-hearted and benevolent, intended to spare his life. Instead, the Flower-Wine Monk suddenly launched a sneak attack, gravely wounding the fourth-generation clan leader.
 
 The clan leader was consumed by rage and killed the Flower-Wine Monk on the spot. However, he subsequently succumbed to his severe wounds and departed from this mortal world.
 

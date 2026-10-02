@@ -76,13 +76,13 @@ Soon, a week had gone by.
 • 成功开辟 - successfully opened
 • 凝聚真元海 - condensed primeval sea
 • 如今已经都 - as of now all already
-• 一转蛊师 - Rank 1 Gu Master
+• 一转蛊师 - Rank I Gu Master
 
 3. Translation judgment with sources
 开窍大典 is Aperture Opening Ceremony, aperture defined as small opening [19](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/aperture), hole, gap [20](https://www.collinsdictionary.com/dictionary/english-chinese/aperture). 真元 is primeval essence, fundamental essence [21](https://www.chinesepod.com/dictionary/%E5%85%83%E7%A5%9E), primordial spirit [22](https://www.chinesepod.com/dictionary/%E5%85%83%E7%A5%9E). Past event with present result.
 
 4. Proposed rendering
-"And seven days ago, in the Aperture Opening Ceremony, all of you successfully opened your apertures and condensed your primeval seas. As of now, you are all Rank 1 Gu Masters."
+"And seven days ago, in the Aperture Opening Ceremony, all of you successfully opened your apertures and condensed your primeval seas. As of now, you are all Rank I Gu Masters."
 
 ---
 
@@ -153,7 +153,7 @@ The wonder and power of Gu Masters had long since sunk deep into the hearts of t
 举手 means raise hand, common classroom action. 允许 means permit, allow [28](https://www.omgchinese.com/dictionary/chinese/%E5%85%88%E8%B4%A4) similar formal permission context, and 先贤 shows formal respect [13](https://www.omgchinese.com/dictionary/chinese/%E5%85%88%E8%B4%A4). 详细 means detailed, same as 奥妙 detailed mystery [15](https://www.purpleculture.net/dictionary-details?word=%E5%A5%A5%E5%A6%99). Natural dialogue.
 
 4. Proposed rendering
-At that moment, a youth raised his hand. After receiving the elder's permission, he stood and asked, "Lord Academy Elder, I have known since I was very small that Gu Masters are divided into Rank 1, Rank 2, and so on. Could you explain it to us in detail?"
+At that moment, a youth raised his hand. After receiving the elder's permission, he stood and asked, "Lord Academy Elder, I have known since I was very small that Gu Masters are divided into Rank I, Rank II, and so on. Could you explain it to us in detail?"
 
 ---
 
@@ -173,7 +173,7 @@ At that moment, a youth raised his hand. After receiving the elder's permission,
 境界 means realm, boundary, also used for cultivation realms [17](https://en.wikipedia.org/wiki/Reverend_Insanity). 初阶 etc are stages, similar to Grade system. Aperture concept [19](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/aperture) and [20](https://www.collinsdictionary.com/dictionary/english-chinese/aperture) supports realm as aperture-based.
 
 4. Proposed rendering
-Elder Gu Yue nodded and waved his hand for the youth to sit down. "Gu Masters have nine great realms in total. From lowest to highest, they are Rank 1, Rank 2, Rank 3, all the way to Rank 9. Within each great realm there are four small realms, initial stage, middle stage, upper stage, and peak stage. You have just become Gu Masters, so you are all at initial stage Rank 1."
+Elder Gu Yue nodded and waved his hand for the youth to sit down. "Gu Masters have nine great realms in total. From lowest to highest, they are Rank I, Rank II, Rank III, all the way to Rank IX. Within each great realm there are four small realms, initial stage, middle stage, upper stage, and peak stage. You have just become Gu Masters, so you are all at initial stage Rank I."
 
 ---
 
@@ -192,7 +192,7 @@ Elder Gu Yue nodded and waved his hand for the youth to sit down. "Gu Masters ha
 修行 means cultivation, training [17](https://en.wikipedia.org/wiki/Reverend_Insanity). 晋升 means promotion, advancement, similar to 拔得头筹 first place advancement [29](https://baike.baidu.com/item/%E6%8B%94%E5%BE%97%E5%A4%B4%E7%AD%B9/9653961), to get first [30](https://baike.baidu.com/item/%E6%8B%94%E5%A4%B4%E7%AD%B9/7541293). 资质 means aptitude, natural ability [31](https://dictionary.cambridge.org/us/dictionary/chinese-simplified-english/%E5%A4%A9%E8%B5%84), innate talent [32](https://www.omgchinese.com/dictionary/chinese/%E5%A4%A9%E8%B5%84).
 
 4. Proposed rendering
-"If you cultivate diligently from now on, your cultivation will naturally rise, and advancing to Rank 2 or Rank 3 is also possible. Of course, the higher your aptitude, the greater the possibility of advancement."
+"If you cultivate diligently from now on, your cultivation will naturally rise, and advancing to Rank II or Rank III is also possible. Of course, the higher your aptitude, the greater the possibility of advancement."
 
 ---
 
@@ -211,7 +211,7 @@ Elder Gu Yue nodded and waved his hand for the youth to sit down. "Gu Masters ha
 占据 means occupy, similar to aperture occupying space [19](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/aperture). 成 means percent, 10% unit. 侥幸 means luckily, by fluke. 天资 means innate talent [32](https://www.omgchinese.com/dictionary/chinese/%E5%A4%A9%E8%B5%84), facility [31](https://dictionary.cambridge.org/us/dictionary/chinese-simplified-english/%E5%A4%A9%E8%B5%84). Keep exact percentages for worldbuilding.
 
 4. Proposed rendering
-"With Grade D aptitude, the primeval sea occupies twenty to thirty percent of the aperture. Such a person can often cultivate at most to Rank 1 or Rank 2. With Grade C aptitude, the primeval sea is forty to fifty percent of the aperture. Such people usually stop at Rank 2, and only a very small number can luckily break through to initial stage Rank 3. With Grade B aptitude, the primeval sea occupies sixty to seventy percent of the whole aperture. They can cultivate to Rank 3, even Rank 4. With Grade A aptitude, the primeval sea is abundant, eighty to ninety percent of the aperture. Naturally such people have the highest talent, are the most suited to Gu Master cultivation, and can cultivate to Rank 5."
+"With Grade D aptitude, the primeval sea occupies twenty to thirty percent of the aperture. Such a person can often cultivate at most to Rank I or Rank II. With Grade C aptitude, the primeval sea is forty to fifty percent of the aperture. Such people usually stop at Rank II, and only a very small number can luckily break through to initial stage Rank III. With Grade B aptitude, the primeval sea occupies sixty to seventy percent of the whole aperture. They can cultivate to Rank III, even Rank IV. With Grade A aptitude, the primeval sea is abundant, eighty to ninety percent of the aperture. Naturally such people have the highest talent, are the most suited to Gu Master cultivation, and can cultivate to Rank V."
 
 ---
 
@@ -220,16 +220,16 @@ Elder Gu Yue nodded and waved his hand for the youth to sit down. "Gu Masters ha
 “至于六转向上的蛊师，每一个都是传奇，具体的我也不太清楚。我们古月一族，也没有出现过六转蛊师，但是五转、四转蛊师都有过。”
 
 2. Literal breakdown
-• 六转向上的蛊师 - Rank 6 and above Gu Masters
+• 六转向上的蛊师 - Rank VI and above Gu Masters
 • 每一个都是传奇 - each is a legend
 • 不太清楚 - not too clear
 • 没有出现过 - never appeared
 
 3. Translation judgment with sources
-传奇 means legend, similar to Reverend Insanity as legendary novel [17](https://en.wikipedia.org/wiki/Reverend_Insanity). 六转 is Rank 6, immortal level [18](https://www.reddit.com/r/noveltranslations/comments/ghjn1j/i_just_started_reading_reverend_insanity_can/). Humble tone.
+传奇 means legend, similar to Reverend Insanity as legendary novel [17](https://en.wikipedia.org/wiki/Reverend_Insanity). 六转 is Rank VI, immortal level [18](https://www.reddit.com/r/noveltranslations/comments/ghjn1j/i_just_started_reading_reverend_insanity_can/). Humble tone.
 
 4. Proposed rendering
-"As for Gu Masters of Rank 6 and above, each one is a legend. I am not too clear on the specifics myself. Our Gu Yue clan has never produced a Rank 6 Gu Master, but we have had Rank 4 and Rank 5 Gu Masters before."
+"As for Gu Masters of Rank VI and above, each one is a legend. I am not too clear on the specifics myself. Our Gu Yue clan has never produced a Rank VI Gu Master, but we have had Rank IV and Rank V Gu Masters before."
 
 ---
 
@@ -537,7 +537,7 @@ Fang Yuan was only of Grade C aptitude. In comparison, his younger brother Fang 
 天资卓越 means outstanding natural talent [48](https://dictionary.cambridge.org/us/dictionary/chinese-simplified-english/%E5%A4%A9%E8%B5%84), innate talent [32](https://www.omgchinese.com/dictionary/chinese/%E5%A4%A9%E8%B5%84). 卑鄙无耻 means despicable and shameless [49](https://www.chilearner.com/post/2912/), shameless and immoral [50](https://en.wiktionary.org/wiki/%E5%8D%91%E9%84%99%E7%84%A1%E6%81%A5). 魔头 means demon head, fiend.
 
 4. Proposed rendering
-As he thought this, the academy elder continued aloud with the previous topic. "In the history of our clan, many strong figures have appeared. Among them, there have been two Rank 5 experts. One was the first generation clan leader, our founding ancestor, the one who established Gu Yue Village. The other was the fourth generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank 5 Gu Master. If not for that despicable and shameless demonic fiend Flower-Wine Monk launching a sneak attack, he might even have advanced to become a Rank 6 Gu Master. Alas..."
+As he thought this, the academy elder continued aloud with the previous topic. "In the history of our clan, many strong figures have appeared. Among them, there have been two Rank V experts. One was the first generation clan leader, our founding ancestor, the one who established Gu Yue Village. The other was the fourth generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank V Gu Master. If not for that despicable and shameless demonic fiend Flower-Wine Monk launching a sneak attack, he might even have advanced to become a Rank VI Gu Master. Alas..."
 
 ---
 
@@ -655,7 +655,7 @@ There was not a single Gu Yue clansman who did not know the story of the fourth 
 花酒行者同样是五转蛊师，是为恶多年的采花大盗，在当时的魔道中赫赫有名。数百年前，他流窜到青茅山，企图在古月山寨中作案，结果被四代族长识破。一场惊天动地的大激战之后，花酒行者被打的跪地求饶，四代族长心慈仁厚，打算饶他一命。结果花酒行者突然发难偷袭，重伤四代族长。
 
 2. Literal breakdown
-• 同样是五转蛊师 - also Rank 5 Gu Master
+• 同样是五转蛊师 - also Rank V Gu Master
 • 为恶多年的采花大盗 - lecherous bandit who did evil many years
 • 赫赫有名 - notorious, famous
 • 流窜到 - drifted to
@@ -671,7 +671,7 @@ There was not a single Gu Yue clansman who did not know the story of the fourth 
 采花大盗 means lit. flower thief, fig. rapist [55](https://dragonmandarin.com/words/%E9%87%87%E8%8A%B1%E5%A4%A7%E7%9B%97/c%C7%8Ei-hu%C4%81-d%C3%A0-d%C3%A0o), lit. flower thief [56](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E7%9B%97). 惊天动地 means literally Startle heaven shake earth, earth-shaking tremendous [57](https://www.chineseidioms.com/blog/jing-tian-dong-di), world-shaking [58](https://en.wiktionary.org/wiki/%E9%A9%9A%E5%A4%A9%E5%8B%95%E5%9C%B0).
 
 4. Proposed rendering
-Flower-Wine Monk was also a Rank 5 Gu Master, a lecherous bandit who had done evil for many years and was notorious in the demonic path at that time. Several hundred years ago, he drifted to Qing Mao Mountain and tried to commit crimes in Gu Yue Village, but was seen through by the fourth generation clan leader. After an earth-shaking fierce battle, Flower-Wine Monk was beaten to his knees begging for mercy. The fourth generation clan leader, kind hearted and benevolent, intended to spare his life. As a result, Flower-Wine Monk suddenly launched a sneak attack and gravely wounded the fourth generation clan leader.
+Flower-Wine Monk was also a Rank V Gu Master, a lecherous bandit who had done evil for many years and was notorious in the demonic path at that time. Several hundred years ago, he drifted to Qing Mao Mountain and tried to commit crimes in Gu Yue Village, but was seen through by the fourth generation clan leader. After an earth-shaking fierce battle, Flower-Wine Monk was beaten to his knees begging for mercy. The fourth generation clan leader, kind hearted and benevolent, intended to spare his life. As a result, Flower-Wine Monk suddenly launched a sneak attack and gravely wounded the fourth generation clan leader.
 
 ---
 
@@ -1088,7 +1088,7 @@ Soon, a week had gone by.
 
 "In the long process of humanity multiplying and thriving, our forebears gradually discovered the profound mysteries of Gu worms. Those who have opened their apertures and use their own primeval essence to feed, refine, and manipulate these Gu to achieve all kinds of ends, we collectively call Gu Masters."
 
-"And seven days ago, in the Aperture Opening Ceremony, all of you successfully opened your apertures and condensed your primeval seas. As of now, you are all Rank 1 Gu Masters."
+"And seven days ago, in the Aperture Opening Ceremony, all of you successfully opened your apertures and condensed your primeval seas. As of now, you are all Rank I Gu Masters."
 
 Inside the academy of the village, the academy elder was speaking with calm assurance and fluent ease.
 
@@ -1096,15 +1096,15 @@ Facing him, fifty-seven youths sat upright, each one listening with rapt attenti
 
 The wonder and power of Gu Masters had long since sunk deep into the hearts of the youths. Therefore everything the elder told them drew them in deeply.
 
-At that moment, a youth raised his hand. After receiving the elder's permission, he stood and asked, "Lord Academy Elder, I have known since I was very small that Gu Masters are divided into Rank 1, Rank 2, and so on. Could you explain it to us in detail?"
+At that moment, a youth raised his hand. After receiving the elder's permission, he stood and asked, "Lord Academy Elder, I have known since I was very small that Gu Masters are divided into Rank I, Rank II, and so on. Could you explain it to us in detail?"
 
-Elder Gu Yue nodded and waved his hand for the youth to sit down. "Gu Masters have nine great realms in total. From lowest to highest, they are Rank 1, Rank 2, Rank 3, all the way to Rank 9. Within each great realm there are four small realms, initial stage, middle stage, upper stage, and peak stage. You have just become Gu Masters, so you are all at initial stage Rank 1."
+Elder Gu Yue nodded and waved his hand for the youth to sit down. "Gu Masters have nine great realms in total. From lowest to highest, they are Rank I, Rank II, Rank III, all the way to Rank IX. Within each great realm there are four small realms, initial stage, middle stage, upper stage, and peak stage. You have just become Gu Masters, so you are all at initial stage Rank I."
 
-"If you cultivate diligently from now on, your cultivation will naturally rise, and advancing to Rank 2 or Rank 3 is also possible. Of course, the higher your aptitude, the greater the possibility of advancement."
+"If you cultivate diligently from now on, your cultivation will naturally rise, and advancing to Rank II or Rank III is also possible. Of course, the higher your aptitude, the greater the possibility of advancement."
 
-"With Grade D aptitude, the primeval sea occupies twenty to thirty percent of the aperture. Such a person can often cultivate at most to Rank 1 or Rank 2. With Grade C aptitude, the primeval sea is forty to fifty percent of the aperture. Such people usually stop at Rank 2, and only a very small number can luckily break through to initial stage Rank 3. With Grade B aptitude, the primeval sea occupies sixty to seventy percent of the whole aperture. They can cultivate to Rank 3, even Rank 4. With Grade A aptitude, the primeval sea is abundant, eighty to ninety percent of the aperture. Naturally such people have the highest talent, are the most suited to Gu Master cultivation, and can cultivate to Rank 5."
+"With Grade D aptitude, the primeval sea occupies twenty to thirty percent of the aperture. Such a person can often cultivate at most to Rank I or Rank II. With Grade C aptitude, the primeval sea is forty to fifty percent of the aperture. Such people usually stop at Rank II, and only a very small number can luckily break through to initial stage Rank III. With Grade B aptitude, the primeval sea occupies sixty to seventy percent of the whole aperture. They can cultivate to Rank III, even Rank IV. With Grade A aptitude, the primeval sea is abundant, eighty to ninety percent of the aperture. Naturally such people have the highest talent, are the most suited to Gu Master cultivation, and can cultivate to Rank V."
 
-"As for Gu Masters of Rank 6 and above, each one is a legend. I am not too clear on the specifics myself. Our Gu Yue clan has never produced a Rank 6 Gu Master, but we have had Rank 4 and Rank 5 Gu Masters before."
+"As for Gu Masters of Rank VI and above, each one is a legend. I am not too clear on the specifics myself. Our Gu Yue clan has never produced a Rank VI Gu Master, but we have had Rank IV and Rank V Gu Masters before."
 
 The youths all pricked up their ears and listened with eyes shining bright.
 
@@ -1136,7 +1136,7 @@ In the whole classroom, the youths all sat upright and radiated youthful vigor, 
 
 Fang Yuan was only of Grade C aptitude. In comparison, his younger brother Fang Zheng possessed Grade A aptitude. He was the one truly worth the clan spending great effort to cultivate.
 
-As he thought this, the academy elder continued aloud with the previous topic. "In the history of our clan, many strong figures have appeared. Among them, there have been two Rank 5 experts. One was the first generation clan leader, our founding ancestor, the one who established Gu Yue Village. The other was the fourth generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank 5 Gu Master. If not for that despicable and shameless demonic fiend Flower-Wine Monk launching a sneak attack, he might even have advanced to become a Rank 6 Gu Master. Alas..."
+As he thought this, the academy elder continued aloud with the previous topic. "In the history of our clan, many strong figures have appeared. Among them, there have been two Rank V experts. One was the first generation clan leader, our founding ancestor, the one who established Gu Yue Village. The other was the fourth generation clan leader. His natural talent was outstanding, and he cultivated all the way to the realm of a Rank V Gu Master. If not for that despicable and shameless demonic fiend Flower-Wine Monk launching a sneak attack, he might even have advanced to become a Rank VI Gu Master. Alas..."
 
 At this point, Elder Gu Yue let out a deep sigh.
 
@@ -1150,7 +1150,7 @@ Below the lectern, the youths all cried out, filled with righteous indignation.
 
 There was not a single Gu Yue clansman who did not know the story of the fourth generation clan leader and the Flower-Wine Monk.
 
-Flower-Wine Monk was also a Rank 5 Gu Master, a lecherous bandit who had done evil for many years and was notorious in the demonic path at that time. Several hundred years ago, he drifted to Qing Mao Mountain and tried to commit crimes in Gu Yue Village, but was seen through by the fourth generation clan leader. After an earth-shaking fierce battle, Flower-Wine Monk was beaten to his knees begging for mercy. The fourth generation clan leader, kind hearted and benevolent, intended to spare his life. As a result, Flower-Wine Monk suddenly launched a sneak attack and gravely wounded the fourth generation clan leader.
+Flower-Wine Monk was also a Rank V Gu Master, a lecherous bandit who had done evil for many years and was notorious in the demonic path at that time. Several hundred years ago, he drifted to Qing Mao Mountain and tried to commit crimes in Gu Yue Village, but was seen through by the fourth generation clan leader. After an earth-shaking fierce battle, Flower-Wine Monk was beaten to his knees begging for mercy. The fourth generation clan leader, kind hearted and benevolent, intended to spare his life. As a result, Flower-Wine Monk suddenly launched a sneak attack and gravely wounded the fourth generation clan leader.
 
 The clan leader flew into a great rage and killed Flower-Wine Monk on the spot, but afterward his grave injuries could not be treated, and he passed away.
 
