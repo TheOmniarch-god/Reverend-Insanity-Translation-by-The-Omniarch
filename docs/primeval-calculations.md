@@ -189,3 +189,45 @@ We will use corrected 6400x where math matters, but note popular 10,000x as in-u
 [12] https://forums.spacebattles.com/threads/reverend-fortuity-reverend-insanity-cyoa-si.1259362/page-2
 [13] https://reverend-insanity.fandom.com/wiki/Gu_Master (B grade example)
 
+
+---
+
+## 11. The Popular 8×8 = 88 Meme — What It Really Means
+
+Yes, we are aware.
+
+In the community, "8×8 = 88" is a running joke about Gu Zhen Ren's math [1](https://www.reddit.com/r/ReverendInsanity/comments/1c6fggr/primeval_stones_vs_primeval_essence/) and [2](https://www.reddit.com/r/ReverendInsanity/comments/1kl1q1o/its_my_2nd_time_im_seeing_this_sub_so_here_it_goes/).
+
+Origin:
+- Comment: "Later on you will realize that, eight times eight is eighty-eight. or was it sixty-six?" [1](https://www.reddit.com/r/ReverendInsanity/comments/1c6fggr/primeval_stones_vs_primeval_essence/)
+- Reply: "what is 8x8? ... it’s quite the opposite as 8x8 is obviously 88" [2](https://www.reddit.com/r/ReverendInsanity/comments/1kl1q1o/its_my_2nd_time_im_seeing_this_sub_so_here_it_goes/)
+- Explanation: "Math and numbers in the gu world is superior to the ones here. 1+1 can equal 2 but sometimes even 3 or 4 or even more so dont worry if you are confused" [1](https://www.reddit.com/r/ReverendInsanity/comments/1c6fggr/primeval_stones_vs_primeval_essence/)
+
+What it refers to:
+1. Primeval stones vs primeval essence inconsistency: primeval stones are same quality but higher rank needs more stones to refill [3](https://www.reddit.com/r/ReverendInsanity/comments/1crl0iu/how_do_primeval_stones_work/), yet numbers in early chapters (Chapter 10: 6 stones to refine Moonlight Gu) don't scale linearly with later Rank V costs (30 million stones to replace immortal essence [4](https://www.webnovel.com/book/reverend-insanity(english)_32605619408374705/chapter-379-all-according-to-plan_87895047034434400)).
+2. Small vs Great condensation mismatch: 4×4×4 = 64, but text says 10,000x for Rank I peak -> Rank III initial, which would be 8×8=64 vs 10×10×10=1000 mismatch, leading to joke that in Gu world 8×8=88 (i.e., math is intentionally superior/mystical).
+3. Aptitude percentages vs breakthrough costs: D 20-39%, C 40-59%, B 60-79%, A 80-99% [5](https://reverend-insanity.fandom.com/wiki/Gu_Master) vs breakthrough needing 55%/75%/95%/115% [6](https://www.reddit.com/r/ReverendInsanity/comments/1crzwjw/how_much_primeval_essence_do_you_need_to_break/) — 115% > 100% max, so even A needs stones, which is mathematically impossible without external help, hence "8×8=88" as in-universe superior math.
+
+**Is our document the corrected version? Yes.**
+
+We state as fact:
+
+- This document uses **mathematically correct** condensation: 4:1 small realm [7](https://reverend-insanity.fandom.com/wiki/Primeval_Essence), 10:1 great realm [7], giving 6400% initial = 100% peak, and Rank II initial = 640% Rank I initial (not 1000%). Where original text says 10,000x Rank I peak for Rank III initial [7], we note it as **unconfirmed/popular approximation** and use **6400x** corrected.
+
+- Recovery formula `Aptitude% * 0.10/h` [8](https://forums.sufficientvelocity.com/threads/reverend-fortuity-reverend-insanity-cyoa-si.147760/) is mathematically consistent with 4%/h for 44% and 8%/h for ~80% [9](https://www.wattpad.com/1038063629-reverend-insanity-chapter-10-a-storm-may-arise/page/2), correcting rounding errors.
+
+- Breakthrough costs 55%/75%/95%/115% [6] are used as corrected thresholds, explaining why stones are mandatory beyond Rank IV.
+
+Thus, **this is factually the corrected version** for translation consistency. We keep the meme as lore: in-story characters may say "8×8=88" to show Gu world math superiority [1], but our translator notes use correct math.
+
+Sources:
+[1] https://www.reddit.com/r/ReverendInsanity/comments/1c6fggr/primeval_stones_vs_primeval_essence/
+[2] https://www.reddit.com/r/ReverendInsanity/comments/1kl1q1o/its_my_2nd_time_im_seeing_this_sub_so_here_it_goes/
+[3] https://www.reddit.com/r/ReverendInsanity/comments/1crl0iu/how_do_primeval_stones_work/
+[4] https://www.webnovel.com/book/reverend-insanity(english)_32605619408374705/chapter-379-all-according-to-plan_87895047034434400
+[5] https://reverend-insanity.fandom.com/wiki/Gu_Master
+[6] https://www.reddit.com/r/ReverendInsanity/comments/1crzwjw/how_much_primeval_essence_do_you_need_to_break/
+[7] https://reverend-insanity.fandom.com/wiki/Primeval_Essence
+[8] https://forums.sufficientvelocity.com/threads/reverend-fortuity-reverend-insanity-cyoa-si.147760/
+[9] https://www.wattpad.com/1038063629-reverend-insanity-chapter-10-a-storm-may-arise/page/2
+
