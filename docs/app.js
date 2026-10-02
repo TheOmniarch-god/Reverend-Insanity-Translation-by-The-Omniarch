@@ -778,6 +778,52 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 
+
+  // ── Translator Notes — Dimmed + Spoiler Blur ─────────────────────────
+  // When a TN with data-spoiler is opened, blur the previous story <p>
+  document.addEventListener('toggle', function(e) {
+    var details = e.target;
+    if (!details.classList || !details.classList.contains('tn-details')) return;
+    var isOpen = details.open;
+    var isSpoiler = details.hasAttribute('data-spoiler');
+    // Find previous <p> sibling that is story text (skip other TNs)
+    var prev = details.previousElementSibling;
+    while (prev && !prev.matches('p[id^="p"]')) {
+      prev = prev.previousElementSibling;
+    }
+    if (!prev) return;
+    if (isOpen && isSpoiler) {
+      prev.classList.add('tn-blurred');
+      // Add unblur hint if not exists
+      if (!prev.querySelector('.tn-unblur-hint')) {
+        var hint = document.createElement('span');
+        hint.className = 'tn-unblur-hint';
+        hint.textContent = 'Spoiler — tap to unblur';
+        hint.addEventListener('click', function(ev) {
+          ev.stopPropagation();
+          prev.classList.remove('tn-blurred');
+          hint.remove();
+        });
+        prev.appendChild(hint);
+      }
+    } else {
+      prev.classList.remove('tn-blurred');
+      var existing = prev.querySelector('.tn-unblur-hint');
+      if (existing) existing.remove();
+    }
+  }, true);
+
+  // Also allow tapping blurred paragraph to unblur
+  document.addEventListener('click', function(e) {
+    var blurred = e.target.closest('p.tn-blurred');
+    if (!blurred) return;
+    // Don't unblur if clicking the hint itself (hint handles itself)
+    if (e.target.classList.contains('tn-unblur-hint')) return;
+    blurred.classList.remove('tn-blurred');
+    var hint = blurred.querySelector('.tn-unblur-hint');
+    if (hint) hint.remove();
+  });
+
   // footer year
   var y = document.querySelector(".year");
   if (y) y.textContent = new Date().getFullYear();

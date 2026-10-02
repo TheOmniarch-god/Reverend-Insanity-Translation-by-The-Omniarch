@@ -3954,3 +3954,49 @@ a.fc.on:hover { box-shadow: 0 0 0 2px rgba(143,29,29,.35); }
   color: #9a9aaa;
   border-left-color: #8a7a5a;
 }
+
+/* TN — More Dimmed + Spoiler Blur */
+.tn-details {
+  opacity: 0.72;
+  transition: opacity 0.2s ease;
+}
+.tn-details:hover,
+.tn-details[open] {
+  opacity: 1;
+}
+.tn-details summary {
+  opacity: 0.68;
+  font-size: 0.78em;
+  padding: 3px 8px;
+}
+.tn-details[open] summary {
+  opacity: 0.9;
+}
+p.tn-blurred {
+  filter: blur(6px);
+  position: relative;
+  user-select: none;
+  transition: filter 0.3s ease;
+  cursor: pointer;
+}
+.tn-unblur-hint {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0,0,0,0.78);
+  color: #fff;
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 0.85em;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  pointer-events: auto;
+  z-index: 2;
+  filter: none;
+}
+[data-theme="obsidian"] .tn-unblur-hint {
+  background: rgba(255,255,255,0.88);
+  color: #111;
+}
