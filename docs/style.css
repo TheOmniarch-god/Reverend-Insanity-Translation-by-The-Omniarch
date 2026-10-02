@@ -3901,3 +3901,20 @@ a.fc.on:hover { box-shadow: 0 0 0 2px rgba(143,29,29,.35); }
 
 
 
+
+/* Translator Notes for Lore Corrections */
+.translator-note {
+  font-size: 0.88em;
+  font-style: italic;
+  color: var(--muted, #6b6b7a);
+  background: rgba(120, 120, 130, 0.08);
+  border-left: 3px solid var(--gold, #b89a5a);
+  padding: 10px 14px;
+  margin: 12px 0 20px 0;
+  line-height: 1.6;
+}
+[data-theme="obsidian"] .translator-note {
+  background: rgba(255,255,255,0.06);
+  color: #9a9aaa;
+  border-left-color: #8a7a5a;
+}
