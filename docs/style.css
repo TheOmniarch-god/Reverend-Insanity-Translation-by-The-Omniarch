@@ -419,12 +419,13 @@ img { max-width: 100%; height: auto; display: block; }
   text-align:center;
   margin:10px auto 0;
   max-width:520px;
-  font-family:"Playfair Display",Georgia,serif;
-  font-size:13.5px;
-  font-style:italic;
-  font-weight:700;
+  font-family:var(--sans);
+  font-size:12.5px;
+  font-style:normal;
+  font-weight:600;
   color:var(--red);
-  line-height:1.48;
+  line-height:1.5;
+  letter-spacing:0.02em;
 }
 .gu-list-plain p{margin:0}
 [data-theme="obsidian"] .gu-list-plain{color:#c92a2a}
@@ -2378,12 +2379,13 @@ html.js-anim .d2 { transition-delay: 0.1s; }
   text-align:center;
   margin:10px auto 0;
   max-width:520px;
-  font-family:"Playfair Display",Georgia,serif;
-  font-size:13.5px;
-  font-style:italic;
-  font-weight:700;
+  font-family:var(--sans);
+  font-size:12.5px;
+  font-style:normal;
+  font-weight:600;
   color:var(--red);
-  line-height:1.48;
+  line-height:1.5;
+  letter-spacing:0.02em;
 }
 .gu-list-plain p{margin:0}
 [data-theme="obsidian"] .gu-list-plain{color:#c92a2a}
