@@ -352,7 +352,7 @@ img { max-width: 100%; height: auto; display: block; }
   font-weight: 700;
   letter-spacing: 0.28em;
   text-transform: uppercase;
-  color: var(--muted);
+  color: var(--red);
   margin-bottom: 8px;
 }
 .plate-lede {
@@ -423,11 +423,11 @@ img { max-width: 100%; height: auto; display: block; }
   font-size:13.5px;
   font-style:italic;
   font-weight:500;
-  color:#5a5750;
+  color:var(--red);
   line-height:1.48;
 }
 .gu-list-plain p{margin:0}
-[data-theme="obsidian"] .gu-list-plain{color:#c7c1b4}
+[data-theme="obsidian"] .gu-list-plain{color:#c92a2a}
 .gu-tokens span {
   font-size: 10.5px;
   font-weight: 500;
@@ -2382,11 +2382,11 @@ html.js-anim .d2 { transition-delay: 0.1s; }
   font-size:13.5px;
   font-style:italic;
   font-weight:500;
-  color:#5a5750;
+  color:var(--red);
   line-height:1.48;
 }
 .gu-list-plain p{margin:0}
-[data-theme="obsidian"] .gu-list-plain{color:#c7c1b4}
+[data-theme="obsidian"] .gu-list-plain{color:#c92a2a}
 .gu-tokens span {
   background: #11100e;
   border-color: #26211a;
