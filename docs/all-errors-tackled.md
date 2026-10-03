@@ -2,7 +2,19 @@
 
 *The Omniarch Translation Team*
 
-Every claim below comes from the raw text. We have identified them but not yet perfected them. We will continue to perfect these fixations as we re-translate one of the most well written pieces of fiction ever.
+**Master Version: Zhi Xuan Cang Shu (知轩藏书)**
+
+This audit is based on Zhi Xuan Cang Shu, our master version. Zhi Xuan Cang Shu is a highly popular and well known Chinese digital archive and website dedicated to providing fully proofread, complete text TXT format versions of Chinese web novels. It is considered the gold standard for clean, proofread raw.
+
+Our EPUB "Gu Zhen Ren - Gu Zhen Ren.epub" uses Zhi Xuan Cang Shu整理校对的文本作为底本 [text organized and proofread by Zhi Xuan Cang Shu as base]. As stated in the排版说明 [Typesetting Notes] from the image you provided:
+
+"本书采用知轩藏书整理校对的文本作为底本，封面自主设计制作完成。在此对在制作过程中进行指导的友人表示感谢。没有他们的参与和帮助，不会有此书。二次编排在网络下载本书，发现讹误、多版本校对后留下的部分作者注，和收藏版本的编者注，评议必看解答和内容简介。由于大部分显示是其他网友完成的，二次编排就不留名了。"
+
+[This book adopts the text organized and proofread by Zhi Xuan Cang Shu as base, cover independently designed and produced. Here we express thanks to friends who guided during production. Without their participation and help, this book would not exist. Second typesetting downloaded this book from internet, discovered errors, after multi version proofreading left some author notes, and collector edition editor notes, commentary must read Q and A and content introduction. Since most display was completed by other netizens, second typesetting leaves no name.]
+
+So this is not random fandom wiki text. This is fully proofread, complete, 2342 files, 2334 chapters, used as our source of truth for every claim below.
+
+Every claim below comes from this raw text. We have identified them but not yet perfected them. We will continue to perfect these fixations as we re-translate one of the most well written pieces of fiction ever.
 
 ---
 
@@ -138,8 +150,6 @@ This is the core math that decides everything else. We are using the correct and
 - We confirm from raw that Ch189 and Ch194 contain no death of Xiong Jiao Man. Only Ch197 contains death. So claim of two deaths is not supported by this raw edition, it may be fandom confusion or different edition. Fandom post confirms same person same Chinese characters died twice, but our raw shows only once. If we follow other edition where two deaths exist, we will treat it as author error for minor side character, continuity slip that went unedited because she is minor. We will not use defensive Gu saves from decapitation. Instead, if we need continuity for two deaths claim, we will write first as near decapitation, severe wound, not complete severing, so survival plausible with healing Gu. In this edition where only Ch197 death exists, we keep that as final death, no second death. We use lore accurate handling directly in prose.
 
 **Lore correction:** Minor side characters sometimes have continuity slips in long serialization. We correct by making first supposed decapitation a near decapitation, severe wound, not complete severing, so survival is plausible with healing Gu. But raw verification shows only one complete decapitation at Ch197 in this edition.
-
----
 
 ---
 
