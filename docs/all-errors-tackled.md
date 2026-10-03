@@ -6,27 +6,25 @@ Every claim below comes from the raw text. We have identified them but not yet p
 
 ---
 
-### Aptitude Mathematics First Section
+### Aptitude Mathematics
 
-This is the core math that decides everything else. Former notes on lore corrections about grades are added here.
+This is the core math that decides everything else. We are using the correct and lore accurate numbers directly in prose, not as notes.
 
 **Raw aptitude table:**
 - Ch13 raw: "十步以下，是没有修行资质。十步到二十步之间，是丁等资质。二十步到三十步之间，是丙等资质。三十步到四十步，是乙等资质。四十步到五十步，是甲等。" [Below ten steps, no cultivation aptitude. Between ten and twenty steps, D grade aptitude. Between twenty and thirty steps, C grade aptitude. Between thirty and forty steps, B grade aptitude. Between forty and fifty steps, A grade.]
 - Ch15 raw: "丁等资质，元海占据空窍两三成，往往最高能修行到一转二转。丙等资质，元海是空窍的四五成，通常会停在二转境界，只有很少一部分能侥幸突破到三转初阶。乙等资质，元海占据整个空窍的六七成，能修到三转，甚至四转。甲等资质，元海充足，是空窍的八九成，这样的人自然天赋最高，最适合蛊师修行，能修行到五转。" [D grade aptitude, primeval sea occupies two to three tenths of the aperture. Often its highest attainment is Rank 1 to Rank 2. C grade aptitude, primeval sea is four to five tenths. It typically stalls at Rank 2, only a very small fortunate portion luckily breaking through to initial Rank 3. B grade aptitude, primeval sea occupies six to seven tenths. It can cultivate to Rank 3, even Rank 4. A grade aptitude, primeval sea is abundant, eight to nine tenths. Such a person naturally possesses the highest talent, most suited to Gu Master cultivation, capable of reaching Rank 5.]
 
-**Precise canon we use:** D 20 to 39 percent, C 40 to 59 percent, B 60 to 79 percent, A 80 to 99 percent, Ten Extreme 100 percent. This comes from raw "两三成" [two to three tenths], "四五成" [four to five tenths], "六七成" [six to seven tenths], "八九成" [eight to nine tenths].
+**Precise canon we use directly in prose:** D 20 to 39 percent, C 40 to 59 percent, B 60 to 79 percent, A 80 to 99 percent, Ten Extreme 100 percent. This comes from raw "两三成" [two to three tenths], "四五成" [four to five tenths], "六七成" [six to seven tenths], "八九成" [eight to nine tenths]. In prose we write 44 percent for Fang Yuan, 66 percent for Mo Bei, 20 to 39 for D, etc, directly, no note.
 
-**Natural recovery:** C grade about 4 percent per hour, A grade about 8 percent per hour, per Chapter 10. Fan calculation precise formula is Recovery per hour equals 10 percent of total aptitude. So 44 percent aptitude equals 4.4 percent per hour. We adopt 4 percent C and 8 percent A as narrative numbers, and 4.4 percent as precise math.
+**Natural recovery:** C grade about 4 percent per hour, A grade about 8 percent per hour, per Chapter 10. Precise formula is Recovery per hour equals 10 percent of total aptitude. So 44 percent aptitude equals 4.4 percent per hour. We use 4 percent C and 8 percent A as narrative numbers, and 4.4 percent as precise math for calculations. We write recovery directly in prose as lore accurate.
 
-**Small realm condensation within same rank:** Rule is 4 percent lower stage equals 1 percent higher stage. So 100 percent middle equals 400 percent initial, 100 percent upper equals 1600 percent initial, 100 percent peak equals 6400 percent initial. This is used by Liquor Worm Gu. So original says 10,000 times is rounded exaggeration, precise is 6,400 times. Calculation is 80 times 80 equals 6,400, not 100 times 100 equals 10,000.
+**Small realm condensation within same rank:** Rule is 4 percent lower stage equals 1 percent higher stage. So 100 percent middle equals 400 percent initial, 100 percent upper equals 1600 percent initial, 100 percent peak equals 6400 percent initial. This is used by Liquor Worm Gu. So original says 10,000 times is rounded exaggeration, precise is 6,400 times. Calculation is 80 times 80 equals 6,400, not 100 times 100 equals 10,000. We write 6,400 times directly in prose where killer move multiplier appears.
 
 **Great realm condensation across ranks:** Rank 1 green copper, Rank 2 red iron, 1 portion red iron equals 10 portions green copper. Rank 3 white silver, 1 portion white silver equals 10 portions red iron. Rank 4 yellow gold, Rank 5 purple crystal.
 
 **Breakthrough thresholds:** Rank I to II needs 55 percent in one go, Rank II to III needs 65 percent, Rank III to IV needs 75 percent, Rank IV to V needs 85 percent. If you have 55 to 59 percent C grade, or 60 to 79 percent B grade, or 80 to 99 percent A grade, you have enough to break walls in one go. If you have 44 percent like Fang Yuan, C grade middle lower, you do not have enough to break in one go. You can absorb primeval essence from primeval stones while attacking walls, hold on much longer, and in about 4 to 5 days, smash walls. Recovery has to be slightly above crack recovery speed.
 
-**Why B grade needs 6 to 7 years to Rank III:** Year 1 to 2 Rank I initial to peak needs 4 washes. Year 2 to 4 Rank II initial to peak needs another 4 washes. Threshold Rank II to III about 65 percent. B grade 60 to 79 percent can reach 65 percent in one go if high B, or with stones if low B. Year 4 to 6 or 7 break to Rank III initial. So 6 to 7 years total for B grade to do 8 small realm washes plus 2 large realm breaks. This explains why Bai Ning Bing reaching Rank III in 2 years is only possible for A grade 80 to 99 percent or Ten Extreme 100 percent recovering 8 to 10 percent per hour.
-
-**Implementation:** In Chapter 4 Mo Bei 66 percent equals B grade, training 6 to 7 years to Rank III stays. In Chapter 6 Fang Yuan 44 percent equals C grade middle lower, needs 55 percent to break, so needs stones over 4 to 5 days. In Chapter 7 we write D 20 to 39, C 40 to 59, B 60 to 79, A 80 to 99 directly, no note needed.
+**Why B grade needs 6 to 7 years to Rank III:** Year 1 to 2 Rank I initial to peak needs 4 washes. Year 2 to 4 Rank II initial to peak needs another 4 washes. Threshold Rank II to III about 65 percent. B grade 60 to 79 percent can reach 65 percent in one go if high B, or with stones if low B. Year 4 to 6 or 7 break to Rank III initial. So 6 to 7 years total for B grade to do 8 small realm washes plus 2 large realm breaks. This explains why Bai Ning Bing reaching Rank III in 2 years is only possible for A grade 80 to 99 percent or Ten Extreme 100 percent recovering 8 to 10 percent per hour. We use these times directly in prose as lore accurate.
 
 ---
 
@@ -113,23 +111,23 @@ This is the core math that decides everything else. Former notes on lore correct
 
 **Lore correction:** Rank 5s do not depend on skill alone, but on resources. With enough resources, C grade like first gen can reach Rank 5.
 
-### 9. Character Died Twice Gu Yue Fang Zheng
+### 9. Character Died Twice Xiong Jiao Man
 
-**What was claimed:** Popular plot hole where a character died twice.
+**What raw says and community notes:**
+- Xiong Jiao Man, also referred to as Xiong Jian Man, is the character who famously appears to die twice due to a continuity error.
+- First Death Chapter 189: The character is seemingly decapitated by Bai Ning Bing during the clashes at Qing Mao Mountain clan conflicts.
+- Second Death Chapter 194: Just five chapters later, she reappears active in the plot only to be killed yet again, creating a notable oversight.
+- Community notes: Because she is a minor side character, the continuity slip went unedited and uncorrected in final release.
 
-**What raw says:**
-- Ch876 raw: "古月方正不是已经被鹤风扬杀死了吗？怎么还好端端的活着呢？" [Was Gu Yue Fang Zheng not already killed by He Feng Yang? How is he still alive and well?]
-- Ch1664 raw: "古月方正原本要被仙鹤门处死，但被方源留了一手，伪装死亡，令他在琅琊福地生活。" [Gu Yue Fang Zheng was originally to be executed by Immortal Crane Sect, but Fang Yuan held back a trick, faking his death, letting him live in Lang Ya blessed land.]
+**Our fixation:** This is author error, minor character oversight. In our re-translation we will keep first death as canon, and on second appearance we will write her as severely wounded but not dead in first clash, or write second appearance as another Xiong clan member mistaken for her, to keep continuity consistent. We will use lore accurate handling directly in prose, no note saying author wrong, just keep her alive after first clash with severe injury, then second death becomes final.
 
-**Our fixation:** This is not author error, it is faked death plot. Raw explains at Ch1664 that Fang Yuan faked Fang Zheng's death. We will keep both scenes, but clarify in prose that death was faked, not real, so second appearance is consistent. When Ch876 says killed, we write "reportedly killed" or "supposedly executed" to show faked death.
-
-**Lore correction:** Immortal Crane Sect wanted to execute Fang Zheng, but Fang Yuan used methods to fake death, similar to blood ghost corpse and jade burial Gu used by Gu Yue First Generation to fake death.
+**Lore correction:** Minor side characters sometimes have continuity slips in long serialization. We correct by making first death a near death decapitation attempt that failed due to defensive Gu, so second death is the true death.
 
 ---
 
 ## How We Are Tackling It
 
-We are correcting directly where mistake was, using corrected versions directly in prose when reaching erroneous chapters, no preemptive notes. For geography, we use 7 to 8 Earths and 50,000 km directly. For bronze skin, we keep temporary activation for Rank 2. For Rank 5 count, we use 1,000 to 10,000 directly. For battlefield, we move Yama battlefield outside blessed land. For aptitude, we use precise percentages 20 to 39, 40 to 59, 60 to 79, 80 to 99 from raw and clarify 100 years without external aid. For died twice, we clarify faked death.
+We are correcting directly where mistake was, using corrected versions directly in prose when reaching erroneous chapters, no preemptive notes. For geography, we use 7 to 8 Earths and 50,000 km directly. For bronze skin, we keep temporary activation for Rank 2. For Rank 5 count, we use 1,000 to 10,000 directly. For battlefield, we move Yama battlefield outside blessed land. For aptitude, we use precise percentages 20 to 39, 40 to 59, 60 to 79, 80 to 99 from raw and clarify 100 years without external aid, and we write correct lore accurate numbers directly in prose. For died twice, we clarify first was near death, second is final.
 
 Detailed math lives in See: lore-corrections.md and See: primeval-calculations.md.
 
