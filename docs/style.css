@@ -415,6 +415,18 @@ img { max-width: 100%; height: auto; display: block; }
   gap: 5px;
   margin-top: 8px;
 }
+.gu-list-plain{
+  text-align:center;
+  margin:10px auto 0;
+  max-width:520px;
+  font-family:"Playfair Display",Georgia,serif;
+  font-size:12.5px;
+  font-style:italic;
+  color:#6f6e69;
+  line-height:1.5;
+}
+.gu-list-plain p{margin:0}
+[data-theme="obsidian"] .gu-list-plain{color:#8e887d}
 .gu-tokens span {
   font-size: 10.5px;
   font-weight: 500;
@@ -2361,7 +2373,19 @@ html.js-anim .d2 { transition-delay: 0.1s; }
   color: #ded7c8;
   font-weight: 500;
 }
-[data-theme="obsidian"] .gu-tokens span {
+[data-theme="obsidian"] .gu-list-plain{
+  text-align:center;
+  margin:10px auto 0;
+  max-width:520px;
+  font-family:"Playfair Display",Georgia,serif;
+  font-size:12.5px;
+  font-style:italic;
+  color:#6f6e69;
+  line-height:1.5;
+}
+.gu-list-plain p{margin:0}
+[data-theme="obsidian"] .gu-list-plain{color:#8e887d}
+.gu-tokens span {
   background: #11100e;
   border-color: #26211a;
   color: #dad4c8;
