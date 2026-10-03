@@ -6,13 +6,13 @@
 
 This audit is based on Zhi Xuan Cang Shu, our master version. Zhi Xuan Cang Shu is a highly respected and widely known Chinese digital archive that provides fully proofread, complete text versions of Chinese web novels in TXT format. It is regarded as the gold standard for clean and accurate raw text.
 
-This edition is the proofread version released after Zhi Xuan Cang Shu. It has removed all textual errors, has been edited over a very long period, and is far more polished than other circulating versions. The English fandom is still struggling to address the same issues that this Chinese proofread edition has already corrected.
+This edition is the proofread version released after Zhi Xuan Cang Shu. It has removed all textual errors, has been edited over a very long period, and is far more polished than other circulating versions. After the work by Zhi Xuan, this version incorporates additional proofreading done by the fanbase. It is a sad thing that they did not include their names, as noted in the original typesetting notes. The English fandom is still struggling to address the same issues that this Chinese proofread edition has already corrected.
 
 As stated in the typesetting notes from the image:
 
-"本书采用知轩藏书整理校对的文本作为底本，封面自主设计制作完成。在此对在制作过程中进行指导的友人表示感谢。没有他们的参与和帮助，不会有此书。"
+"本书采用知轩藏书整理校对的文本作为底本，封面自主设计制作完成。在此对在制作过程中进行指导的友人表示感谢。没有他们的参与和帮助，不会有此书。二次编排在网络下载本书，发现讹误、多版本校对后留下的部分作者注，和收藏版本的编者注，评议必看解答和内容简介。由于大部分显示是其他网友完成的，二次编排就不留名了。"
 
-[This book uses the text collated and proofread by Zhi Xuan Cang Shu as its base. The cover was independently designed and produced. We would like to thank the friends who provided guidance during the production process. Without their participation and help, this book would not exist.]
+[This book uses the text collated and proofread by Zhi Xuan Cang Shu as its base. The cover was independently designed and produced. We would like to thank the friends who provided guidance during the production process. Without their participation and help, this book would not exist. Second typesetting downloaded this book from the internet, discovered errors, and after multi version proofreading left some author notes, collector edition editor notes, commentary must read Q and A, and content introduction. Since most of the work was completed by other netizens, the second typesetting leaves no name. It is unfortunate that the contributors did not leave their names.]
 
 This is not random fandom wiki text. This is a fully proofread, complete edition with 2342 files and 2334 chapters. It serves as our source of truth for every claim below.
 
