@@ -9,7 +9,7 @@
 ### The Synopsis
 
 This is the story of a transmigrator continuously reborn through time.  
-A wondrous, bizarre world of raising, refining, and weaponizing Gu.  
+A wondrous, bizarre world of raising, refining, and using Gu.  
 
 Spring Autumn Cicada, Moonlight Gu, Liquor Worm, One Qi Golden Light Worm, Black Hair Gu, Hope Gu...  
 
