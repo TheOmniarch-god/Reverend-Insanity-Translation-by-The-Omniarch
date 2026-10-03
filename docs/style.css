@@ -4005,3 +4005,20 @@ p.tn-blurred {
   background: rgba(255,255,255,0.88);
   color: #111;
 }
+
+
+/* FIXED: Spoiler TN should blur note itself, not story — CSS fallback */
+.tn-details[data-spoiler][open] .tn-note {
+  filter: blur(8px);
+  position: relative;
+  user-select: none;
+  cursor: pointer;
+  transition: filter 0.3s ease;
+}
+.tn-details[data-spoiler][open] .tn-note.tn-revealed,
+.tn-details[data-spoiler][open] .tn-note:not(.tn-blurred).revealed {
+  filter: none;
+  user-select: auto;
+  cursor: auto;
+}
+

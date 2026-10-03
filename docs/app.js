@@ -780,28 +780,19 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
   // ── Translator Notes — Dimmed + Spoiler Blur (FIXED: blur TN itself, not story) ──
-  // When a TN with data-spoiler is opened, blur the TN note content, not the previous <p>
+  // CSS handles initial blur via .tn-details[data-spoiler][open] .tn-note { filter: blur(8px) }
+  // JS handles unblurring on click
   document.addEventListener('toggle', function(e) {
     var details = e.target;
     if (!details.classList || !details.classList.contains('tn-details')) return;
     var isOpen = details.open;
     var isSpoiler = details.hasAttribute('data-spoiler');
-    // Find the note content inside the details (not the story paragraph)
     var note = details.querySelector('.tn-note');
-    if (!note) {
-      // fallback: first div or p inside details that is not summary
-      var candidates = details.querySelectorAll('div, p');
-      for (var i=0;i<candidates.length;i++) {
-        if (candidates[i].tagName.toLowerCase() !== 'summary' && !candidates[i].classList.contains('tn-unblur-hint')) {
-          note = candidates[i];
-          break;
-        }
-      }
-    }
     if (!note) return;
     if (isOpen && isSpoiler) {
+      // Ensure blurred by default (CSS does it, but also add class for JS tracking)
       note.classList.add('tn-blurred');
-      // Add unblur hint if not exists
+      note.classList.remove('tn-revealed');
       if (!note.querySelector('.tn-unblur-hint')) {
         var hint = document.createElement('span');
         hint.className = 'tn-unblur-hint';
@@ -809,28 +800,28 @@ document.addEventListener("DOMContentLoaded", function () {
         hint.addEventListener('click', function(ev) {
           ev.stopPropagation();
           note.classList.remove('tn-blurred');
+          note.classList.add('tn-revealed');
           hint.remove();
         });
         note.appendChild(hint);
       }
-    } else {
+    } else if (!isOpen) {
+      // Reset on close
       note.classList.remove('tn-blurred');
+      note.classList.remove('tn-revealed');
       var existing = note.querySelector('.tn-unblur-hint');
       if (existing) existing.remove();
     }
   }, true);
 
-  // Also allow tapping blurred TN note to unblur
   document.addEventListener('click', function(e) {
-    var blurred = e.target.closest('.tn-note.tn-blurred, div.tn-blurred, p.tn-blurred');
-    // Only handle if inside a tn-details
-    if (!blurred) return;
-    var parentDetails = blurred.closest('.tn-details');
-    if (!parentDetails) return;
-    // Don't unblur if clicking the hint itself (hint handles itself)
+    var note = e.target.closest('.tn-details[data-spoiler] .tn-note');
+    if (!note) return;
+    if (!note.classList.contains('tn-blurred')) return;
     if (e.target.classList.contains('tn-unblur-hint')) return;
-    blurred.classList.remove('tn-blurred');
-    var hint = blurred.querySelector('.tn-unblur-hint');
+    note.classList.remove('tn-blurred');
+    note.classList.add('tn-revealed');
+    var hint = note.querySelector('.tn-unblur-hint');
     if (hint) hint.remove();
   });
 
