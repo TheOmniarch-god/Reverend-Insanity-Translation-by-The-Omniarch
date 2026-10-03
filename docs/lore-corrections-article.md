@@ -22,7 +22,7 @@ The reader sees correct lore in the story. Detailed calculations live in See: lo
 
 **What is aperture and primeval sea?**
 
-Aperture is mysterious spherical space inside Gu Master body around stomach area. It does not occupy physical space. Some call it Purple Prefecture or Primeval Sea Aperture. When aperture awakens, it is filled up to certain point, which is how talent is measured [4].
+Aperture is mysterious spherical space inside a Gu Master's body around stomach area. It does not occupy physical space. Some call it Purple Prefecture or Primeval Sea Aperture. When aperture awakens, it is filled up to certain point, which is how talent is measured [4].
 
 Aperture surface is light membrane, formed from Hope Gu explosion that condensed. Inside aperture is primeval sea. Each drop of sea water is primeval essence, representing Gu Master vital energy and life potential accumulation.
 
