@@ -779,51 +779,64 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
 
-  // ── Translator Notes — Dimmed + Spoiler Blur (FIXED: blur TN itself, not story) ──
-  // CSS handles initial blur via .tn-details[data-spoiler][open] .tn-note { filter: blur(8px) }
-  // JS handles unblurring on click
-  document.addEventListener('toggle', function(e) {
-    var details = e.target;
-    if (!details.classList || !details.classList.contains('tn-details')) return;
-    var isOpen = details.open;
-    var isSpoiler = details.hasAttribute('data-spoiler');
-    var note = details.querySelector('.tn-note');
-    if (!note) return;
-    if (isOpen && isSpoiler) {
-      // Ensure blurred by default (CSS does it, but also add class for JS tracking)
-      note.classList.add('tn-blurred');
-      note.classList.remove('tn-revealed');
-      if (!note.querySelector('.tn-unblur-hint')) {
-        var hint = document.createElement('span');
-        hint.className = 'tn-unblur-hint';
-        hint.textContent = 'Spoiler — tap to unblur';
-        hint.addEventListener('click', function(ev) {
-          ev.stopPropagation();
-          note.classList.remove('tn-blurred');
-          note.classList.add('tn-revealed');
-          hint.remove();
-        });
-        note.appendChild(hint);
-      }
-    } else if (!isOpen) {
-      // Reset on close
-      note.classList.remove('tn-blurred');
-      note.classList.remove('tn-revealed');
-      var existing = note.querySelector('.tn-unblur-hint');
-      if (existing) existing.remove();
-    }
-  }, true);
+  // ── TN — Fresh Rewrite: Blur TN note itself, NOT story ──
+  // Logic: When details[data-spoiler] opens, blur .tn-note inside it. Click note/hint to reveal.
+  (function initTNBlur() {
+    function setupTN(details) {
+      if (!details.classList.contains('tn-details')) return;
+      if (!details.hasAttribute('data-spoiler')) return;
 
-  document.addEventListener('click', function(e) {
-    var note = e.target.closest('.tn-details[data-spoiler] .tn-note');
-    if (!note) return;
-    if (!note.classList.contains('tn-blurred')) return;
-    if (e.target.classList.contains('tn-unblur-hint')) return;
-    note.classList.remove('tn-blurred');
-    note.classList.add('tn-revealed');
-    var hint = note.querySelector('.tn-unblur-hint');
-    if (hint) hint.remove();
-  });
+      details.addEventListener('toggle', function() {
+        var note = details.querySelector('.tn-note');
+        if (!note) return;
+
+        if (details.open) {
+          // On open: blur note, show hint
+          note.classList.add('tn-blurred');
+          note.classList.remove('is-revealed');
+
+          // Remove old hint if exists
+          var oldHint = note.querySelector('.tn-unblur-hint');
+          if (oldHint) oldHint.remove();
+
+          var hint = document.createElement('button');
+          hint.type = 'button';
+          hint.className = 'tn-unblur-hint';
+          hint.textContent = 'Spoiler — tap to reveal';
+          hint.addEventListener('click', function(ev) {
+            ev.stopPropagation();
+            note.classList.remove('tn-blurred');
+            note.classList.add('is-revealed');
+            hint.remove();
+          });
+          note.appendChild(hint);
+        } else {
+          // On close: reset
+          note.classList.remove('tn-blurred');
+          note.classList.remove('is-revealed');
+          var h = note.querySelector('.tn-unblur-hint');
+          if (h) h.remove();
+        }
+      });
+    }
+
+    // Setup existing TNs
+    var allTN = document.querySelectorAll('.tn-details[data-spoiler]');
+    for (var i = 0; i < allTN.length; i++) {
+      setupTN(allTN[i]);
+    }
+
+    // Click on blurred note itself to reveal (not just hint)
+    document.addEventListener('click', function(e) {
+      var note = e.target.closest('.tn-details[data-spoiler][open] .tn-note.tn-blurred');
+      if (!note) return;
+      if (e.target.closest('.tn-unblur-hint')) return; // hint handles itself
+      note.classList.remove('tn-blurred');
+      note.classList.add('is-revealed');
+      var hint = note.querySelector('.tn-unblur-hint');
+      if (hint) hint.remove();
+    });
+  })();
 
   // footer year
   var y = document.querySelector(".year");
