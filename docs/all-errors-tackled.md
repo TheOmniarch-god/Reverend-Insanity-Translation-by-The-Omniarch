@@ -155,6 +155,9 @@ This is the core calculation that determines everything else. We are using the c
 
 ---
 
+
+So, truly after the fans did their proofread, after Zhi Xuan Cang Shu work and the additional fanbase proofreading, there were still errors from the author. It seems that even a fully proofread edition with 2342 files, edited over a very long period, still retains author level continuity and scale errors. Anywhich way, we will work on them.
+
 ## How We Are Tackling It
 
 We are correcting directly where the mistake was, using corrected versions directly in prose when reaching erroneous chapters, with no preemptive notes. For geography, we use 7 to 8 Earths and 50,000 km directly. For bronze skin, we keep temporary activation for Rank 2. For Rank 5 count, we use 1,000 to 10,000 directly. For battlefield, we move Yama battlefield outside blessed land. For aptitude, we use precise percentages 20 to 39, 40 to 59, 60 to 79, 80 to 99 from raw and clarify 100 years without external aid, and we write correct lore accurate numbers directly in prose. For died twice, we checked raw Ch189 and Ch194, found no death there, only one death at Ch197 with head flew far, blood sprayed like fountain, defensive Gu cannot save from that, so we correct to near death severe wound if we need continuity.
