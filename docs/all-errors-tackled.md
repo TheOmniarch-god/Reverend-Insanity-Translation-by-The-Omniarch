@@ -111,20 +111,22 @@ This is the core math that decides everything else. We are using the correct and
 
 **Lore correction:** Rank 5s do not depend on skill alone, but on resources. With enough resources, C grade like first gen can reach Rank 5.
 
-### 9. Character Died Twice Xiong Jiao Man Raw Check of Ch189 and Ch194
+### 9. Character Died Twice Xiong Jiao Man Raw Check of Ch189 and Ch194 plus Fandom Post
 
-**What Research file claims:**
+**What Research file and fandom post https://reverend-insanity.fandom.com/f/p/4400000000002358343 claims:**
 - Xiong Jiao Man, also referred to as Xiong Jian Man, famously appears to die twice.
-- First Death Chapter 189 in Research: seemingly decapitated by Bai Ning Bing.
-- Second Death Chapter 194 in Research: five chapters later, reappears active only to be killed yet again.
+- First Death Chapter 189 in fandom, Chapter 197 in our raw: seemingly decapitated by Bai Ning Bing during clashes at Qing Mao Mountain.
+- Second Death Chapter 194 in fandom: just five chapters later, she reappears active only to be killed yet again.
+- Fandom post question: Is it for sure that she dies twice? I find it hard to believe that Gu Zhen Ren would do such a mistake in only 5 chapters. Is it really confirmed that Xiong Jiao Man equals Xiong Jian Man? Talking about chapters 189 and 194.
+- Reply: Yes they are the same person, the name is the same down to the chinese characters. Yes Gu Zhen Ren does not give a flying fuck about a jobber whose job was to be decapitated by Bai Ning Bing and unknowingly revive her just to kill her again.
 
 **What our raw check of Ch189 and Ch194 actually shows:**
-- Ch189 raw full: This chapter is about Tie Ruo Nan deducing Fang Yuan is Ten Extreme. It starts "铁姑娘，你这是什么意思？方正不解。" [Iron girl, what do you mean, Fang Zheng does not understand.] and ends with Fang Zheng's breakdown. No mention of Xiong Jiao Man, no decapitation, no death. We verified all paragraphs.
+- Ch189 raw full: This chapter is about Tie Ruo Nan deducing Fang Yuan is Ten Extreme. It starts "铁姑娘，你这是什么意思？方正不解。" [Iron girl, what do you mean, Fang Zheng does not understand.] and ends with Fang Zheng breakdown. No mention of Xiong Jiao Man, no decapitation, no death. We verified all paragraphs.
 - Ch194 raw full: This chapter is about Gu Yue First Generation versus Tie Xue Leng in blood lake, with blood bat groups, and then three clans pre selection for competition. It starts "血湖中，两强对立！" [In blood lake, two strong oppose!] and includes "山坡上，古月博以及白家、熊家三位族长，并肩而立。" [On mountain slope, Gu Yue Bo and Bai clan, Xiong clan three clan leaders, stand shoulder to shoulder.] No mention of Xiong Jiao Man death. No decapitation.
 - So Ch189 and Ch194 in this raw edition contain zero death of Xiong Jiao Man.
 
 **What our exhaustive scan for Xiong Jiao Man across all 2342 files shows:**
-- Found 47 occurrences total, all between Ch132 and Ch197, last at Ch197.
+- Searched entire raw for "熊骄嫚" and "熊娇蛮" and "熊剑蛮": Found 47 occurrences total, all between Ch132 and Ch197, last at Ch197.
 - Ch197 raw: "熊群早已经全灭，甚至就连熊骄嫚也被白凝冰一刀枭首，娇丽的头颅飞出老远去，脖颈血喷如泉。" [Bear horde already completely annihilated, even Xiong Jiao Man was beheaded by Bai Ning Bing with one blade, her lovely head flew far away, neck blood sprayed like fountain.]
 - No occurrence after Ch197. Search for beheading "枭首" plus "熊" across all chapters: Only Ch197 for her.
 - So in this raw edition, she dies only once at Ch197, not twice. The Research file's Ch189 and Ch194 may be from different edition or fandom memory mixing with another Xiong clan member, but raw verification shows only one death.
@@ -132,10 +134,12 @@ This is the core math that decides everything else. We are using the correct and
 **How does defensive Gu save from decapitation:**
 - It cannot when raw says head flew far away and neck blood sprayed like fountain. That is complete severing, fatal. Defensive Gu like Bronze Skin, Jade Skin, Iron Skin can increase skin defense to resist cuts, but cannot reattach head after it flies far. If raw had said near decapitation, severe neck wound, then healing Gu could save. But raw says complete decapitation, so defensive Gu explanation does not hold.
 
-**Our fixation after checking Ch189 and Ch194 raw:**
-- We confirm from raw that Ch189 and Ch194 contain no death of Xiong Jiao Man. Only Ch197 contains death. So claim of two deaths is not supported by this raw edition, it is fandom confusion. If we follow other edition where two deaths exist, we would treat it as author error for minor side character, continuity slip that went unedited because she is minor. We will not use defensive Gu saves from decapitation. Instead, if we need continuity for two deaths claim, we will write first as near decapitation, severe wound, not complete severing, so survival plausible with healing Gu. In this edition where only Ch197 death exists, we keep that as final death, no second death. We use lore accurate handling directly in prose.
+**Our fixation after checking Ch189 and Ch194 raw plus fandom post:**
+- We confirm from raw that Ch189 and Ch194 contain no death of Xiong Jiao Man. Only Ch197 contains death. So claim of two deaths is not supported by this raw edition, it may be fandom confusion or different edition. Fandom post confirms same person same Chinese characters died twice, but our raw shows only once. If we follow other edition where two deaths exist, we will treat it as author error for minor side character, continuity slip that went unedited because she is minor. We will not use defensive Gu saves from decapitation. Instead, if we need continuity for two deaths claim, we will write first as near decapitation, severe wound, not complete severing, so survival plausible with healing Gu. In this edition where only Ch197 death exists, we keep that as final death, no second death. We use lore accurate handling directly in prose.
 
 **Lore correction:** Minor side characters sometimes have continuity slips in long serialization. We correct by making first supposed decapitation a near decapitation, severe wound, not complete severing, so survival is plausible with healing Gu. But raw verification shows only one complete decapitation at Ch197 in this edition.
+
+---
 
 ---
 
