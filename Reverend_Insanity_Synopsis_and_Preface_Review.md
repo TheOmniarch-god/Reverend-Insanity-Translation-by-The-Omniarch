@@ -4,9 +4,9 @@
 
 *Humans are the spirit of all living things; Gu are the true essence of heaven and earth.*
 
-A story of a transmigrator continuously reborn through time.
+This is the story of a transmigrator continuously reborn through time.
 
-A wondrous, bizarre world of raising Gu, refining Gu, and using Gu.
+A wondrous, bizarre world of raising, refining, and weaponizing Gu.
 
 Spring Autumn Cicada, Moonlight Gu, Liquor Worm, One Qi Golden Light Worm, Black Hair Gu, Hope Gu…
 
