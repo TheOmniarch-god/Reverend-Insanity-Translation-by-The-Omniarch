@@ -113,21 +113,24 @@ This is the core math that decides everything else. We are using the correct and
 
 ### 9. Character Died Twice Xiong Jiao Man
 
-**What raw says and community notes:**
+**What Research file says:**
 - Xiong Jiao Man, also referred to as Xiong Jian Man, is the character who famously appears to die twice due to a continuity error.
-- First Death Chapter 189: The character is seemingly decapitated by Bai Ning Bing during the clashes at Qing Mao Mountain clan conflicts.
-- Second Death Chapter 194: Just five chapters later, she reappears active in the plot only to be killed yet again, creating a notable oversight.
-- Community notes: Because she is a minor side character, the continuity slip went unedited and uncorrected in final release.
+- First Death Chapter 189 in Research, but our raw scan finds actual death at Chapter 197: "熊群早已经全灭，甚至就连熊骄嫚也被白凝冰一刀枭首，娇丽的头颅飞出老远去，脖颈血喷如泉。" [Bear horde already completely annihilated, even Xiong Jiao Man was beheaded by Bai Ning Bing with one blade, her lovely head flew far away, neck blood sprayed like fountain.]
+- Second Death Chapter 194 in Research: Just five chapters later, she reappears active only to be killed yet again.
 
-**Our fixation:** This is author error, minor character oversight. In our re-translation we will keep first death as canon, and on second appearance we will write her as severely wounded but not dead in first clash, or write second appearance as another Xiong clan member mistaken for her, to keep continuity consistent. We will use lore accurate handling directly in prose, no note saying author wrong, just keep her alive after first clash with severe injury, then second death becomes final.
+**What our full raw scan of 2342 files shows:**
+- Searched entire raw for "熊娇嫚" and "熊剑蛮" and "娇蛮": Found only at Ch132, Ch134, Ch154, Ch155, Ch156, Ch157, Ch158, Ch159, Ch197. No second appearance after Ch197. So in this edition, she dies only once at Ch197. The Research file's Ch189 and Ch194 may be from different edition or fandom memory, but Ch197 raw is clear: head flew far, blood sprayed like fountain.
+- Defensive Gu cannot save from decapitation when raw says head flew far and neck blood sprayed like fountain. If head is severed and flies far, no defensive Gu can reattach instantly. So defensive Gu explanation does not hold. This is author error for minor side character, continuity slip that went unedited because she is minor.
 
-**Lore correction:** Minor side characters sometimes have continuity slips in long serialization. We correct by making first death a near death decapitation attempt that failed due to defensive Gu, so second death is the true death.
+**Our fixation:** We acknowledge raw verification. We will not use defensive Gu saves from decapitation, because raw says head flew far, blood sprayed like fountain, that is fatal. Instead we will correct directly in prose: At first supposed death, we will write she was severely wounded, her bear horde annihilated, she was struck down and nearly beheaded, but survived with severe neck wound due to timely treatment Gu, so she can reappear. Then second death, if it exists in other edition, becomes final death. In our edition where only Ch197 death exists, we keep that as final death, no second death. We use lore accurate handling directly in prose, no note saying author wrong, just keep continuity consistent by not killing her twice.
+
+**Lore correction:** Minor side characters sometimes have continuity slips in long serialization. We correct by making first supposed decapitation a near decapitation, severe wound, not complete severing, so survival is plausible with healing Gu.
 
 ---
 
 ## How We Are Tackling It
 
-We are correcting directly where mistake was, using corrected versions directly in prose when reaching erroneous chapters, no preemptive notes. For geography, we use 7 to 8 Earths and 50,000 km directly. For bronze skin, we keep temporary activation for Rank 2. For Rank 5 count, we use 1,000 to 10,000 directly. For battlefield, we move Yama battlefield outside blessed land. For aptitude, we use precise percentages 20 to 39, 40 to 59, 60 to 79, 80 to 99 from raw and clarify 100 years without external aid, and we write correct lore accurate numbers directly in prose. For died twice, we clarify first was near death, second is final.
+We are correcting directly where mistake was, using corrected versions directly in prose when reaching erroneous chapters, no preemptive notes. For geography, we use 7 to 8 Earths and 50,000 km directly. For bronze skin, we keep temporary activation for Rank 2. For Rank 5 count, we use 1,000 to 10,000 directly. For battlefield, we move Yama battlefield outside blessed land. For aptitude, we use precise percentages 20 to 39, 40 to 59, 60 to 79, 80 to 99 from raw and clarify 100 years without external aid, and we write correct lore accurate numbers directly in prose. For died twice, we checked raw, found only one death at Ch197 with head flew far, blood sprayed like fountain, defensive Gu cannot save from that, so we correct to near death severe wound if we need continuity.
 
 Detailed math lives in See: lore-corrections.md and See: primeval-calculations.md.
 
