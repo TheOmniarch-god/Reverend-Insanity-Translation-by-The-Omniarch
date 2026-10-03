@@ -20,6 +20,8 @@ This is not random fandom wiki text. This is a fully proofread, complete edition
 
 Every claim below comes from this raw text. We have identified the issues but have not yet perfected all of them. We will continue to refine these corrections as we re-translate one of the most well written works of fiction ever created.
 
+So, truly after the fans did their proofread, after Zhi Xuan Cang Shu work and the additional fanbase proofreading, there were still errors from the author. It seems that even a fully proofread edition with 2342 files, edited over a very long period, still retains author level continuity and scale errors. Anywhich way, we will work on them.
+
 ---
 
 ### Aptitude Mathematics
@@ -127,42 +129,48 @@ This is the core calculation that determines everything else. We are using the c
 
 **Lore correction:** Rank 5 does not depend on skill alone, but on resources. With enough resources, C grade like the first generation can reach Rank 5.
 
-### 9. Character Died Twice — Xiong Jiao Man — Raw Check of Ch189 and Ch194 plus Fandom Post
+### 9. Character Died Twice Xiong Jiao Man Raw Check of Ch189, Ch194, Ch197 plus Fandom Post
 
 **What the Research file and fandom post https://reverend-insanity.fandom.com/f/p/4400000000002358343 claims:**
 - Xiong Jiao Man, also referred to as Xiong Jian Man, famously appears to die twice.
 - First Death Chapter 189 in fandom, Chapter 197 in our raw: seemingly decapitated by Bai Ning Bing during clashes at Qing Mao Mountain.
 - Second Death Chapter 194 in fandom: just five chapters later, she reappears active only to be killed yet again.
-- Fandom post question: Is it for sure that she dies twice? I find it hard to believe that Gu Zhen Ren would do such a mistake in only 5 chapters. Is it really confirmed that Xiong Jiao Man equals Xiong Jian Man? Talking about chapters 189 and 194.
-- Reply: Yes they are the same person, the name is the same down to the Chinese characters. Yes Gu Zhen Ren does not give a flying fuck about a jobber whose job was to be decapitated by Bai Ning Bing and unknowingly revive her just to kill her again.
 
-**What our raw check of Ch189 and Ch194 actually shows:**
-- Ch189 raw full: This chapter is about Tie Ruo Nan deducing Fang Yuan is Ten Extreme. It starts "铁姑娘，你这是什么意思？方正不解。" [Iron girl, what do you mean, Fang Zheng does not understand.] and ends with Fang Zheng breakdown. No mention of Xiong Jiao Man, no decapitation, no death. We verified all paragraphs.
-- Ch194 raw full: This chapter is about Gu Yue First Generation versus Tie Xue Leng in blood lake, with blood bat groups, and then three clans pre selection for competition. It starts "血湖中，两强对立！" [In blood lake, two strong oppose!] and includes "山坡上，古月博以及白家、熊家三位族长，并肩而立。" [On mountain slope, Gu Yue Bo and Bai clan, Xiong clan three clan leaders, stand shoulder to shoulder.] No mention of Xiong Jiao Man death. No decapitation.
-- So Ch189 and Ch194 in this raw edition contain zero death of Xiong Jiao Man.
+**What our raw check actually shows:**
 
-**What our exhaustive scan for Xiong Jiao Man across all 2342 files shows:**
-- Searched entire raw for "熊骄嫚" and "熊娇蛮" and "熊剑蛮": Found 47 occurrences total, all between Ch132 and Ch197, last at Ch197.
-- Ch197 raw: "熊群早已经全灭，甚至就连熊骄嫚也被白凝冰一刀枭首，娇丽的头颅飞出老远去，脖颈血喷如泉。" [Bear horde already completely annihilated, even Xiong Jiao Man was beheaded by Bai Ning Bing with one blade, her lovely head flew far away, neck blood sprayed like fountain.]
-- No occurrence after Ch197. Search for beheading "枭首" plus "熊" across all chapters: Only Ch197 for her.
-- So in this raw edition, she dies only once at Ch197, not twice. The Research file's Ch189 and Ch194 may be from different edition or fandom memory mixing with another Xiong clan member, but raw verification shows only one death.
+We checked Ch189 and Ch194 raw full as you requested.
 
-**How does defensive Gu save from decapitation:**
-- It cannot when raw says head flew far away and neck blood sprayed like fountain. That is complete severing, fatal. Defensive Gu like Bronze Skin, Jade Skin, Iron Skin can increase skin defense to resist cuts, but cannot reattach head after it flies far. If raw had said near decapitation, severe neck wound, then healing Gu could save. But raw says complete decapitation, so defensive Gu explanation does not hold.
+- Ch189 raw: Starts "铁姑娘，你这是什么意思？方正不解。" [Iron girl, what do you mean, Fang Zheng does not understand.] This entire chapter is Tie Ruo Nan deducing Fang Yuan is Ten Extreme. No mention of Xiong Jiao Man, no decapitation, no death.
 
-**Our fixation after checking Ch189 and Ch194 raw plus fandom post:**
-- We confirm from raw that Ch189 and Ch194 contain no death of Xiong Jiao Man. Only Ch197 contains death. So claim of two deaths is not supported by this raw edition, it may be fandom confusion or different edition. Fandom post confirms same person same Chinese characters died twice, but our raw shows only once. If we follow other edition where two deaths exist, we will treat it as author error for minor side character, continuity slip that went unedited because she is minor. We will not use defensive Gu saves from decapitation. Instead, if we need continuity for two deaths claim, we will write first as near decapitation, severe wound, not complete severing, so survival is plausible with healing Gu. In this edition where only Ch197 death exists, we keep that as final death, no second death. We use lore accurate handling directly in prose.
+- Ch194 raw: Starts "血湖中，两强对立！" [In blood lake, two strong oppose!] This entire chapter is Gu Yue First Generation versus Tie Xue Leng in blood lake, plus three clans pre selection. It includes "山坡上，古月博以及白家、熊家三位族长，并肩而立。" [On mountain slope, Gu Yue Bo and Bai clan, Xiong clan three clan leaders, stand shoulder to shoulder.] No mention of Xiong Jiao Man death.
 
-**Lore correction:** Minor side characters sometimes have continuity slips in long serialization. We correct by making first supposed decapitation a near decapitation, severe wound, not complete severing, so survival is plausible with healing Gu. But raw verification shows only one complete decapitation at Ch197 in this edition.
+- Ch197 raw is the only death we found: "熊群早已经全灭，甚至就连熊骄嫚也被白凝冰一刀枭首，娇丽的头颅飞出老远去，脖颈血喷如泉。" [Bear horde already completely annihilated, even Xiong Jiao Man was beheaded by Bai Ning Bing with one blade, her lovely head flew far away, neck blood sprayed like fountain.]
+
+- Exhaustive scan of all 2342 files for "熊骄嫚" and "熊娇蛮" and "熊剑蛮": Found 47 occurrences total, all between Ch132 and Ch197, last at Ch197. No occurrence after Ch197. So in this proofread Zhi Xuan Cang Shu edition, she dies only once at Ch197, not twice.
+
+**So what were we getting at with lore correction:**
+
+You asked: If we confirm there is no decapitation, what is the inclusion of lore correction again?
+
+We confirm there IS decapitation, but only once at Ch197, with head flying far and blood spraying like fountain. That is fatal. Defensive Gu cannot save from complete decapitation when head flies far. So defensive Gu explanation does not hold. This is why we questioned it.
+
+If we had followed the fandom claim of two deaths, the lore correction would have been to make first death a near decapitation, severe neck wound, not complete severing, so survival with healing Gu would be plausible. But raw verification shows only one complete decapitation at Ch197 in this proofread edition, which has already removed many errors and is far more polished than other versions. Therefore, in this edition there is no two deaths error to correct. The popular claim of died twice appears to be from a different edition or fandom memory mixing.
+
+**Our fixation after raw verification of Ch189, Ch194, Ch197:**
+
+- In this Zhi Xuan Cang Shu proofread edition, Xiong Jiao Man dies only once at Ch197, with complete decapitation. No second death. So no lore correction needed for died twice in this edition. We keep single death as final.
+
+- If we encounter other edition where she dies twice, we will correct first to near death severe wound, not complete decapitation, to keep continuity. But in our master version, raw shows only one death, so we do not need to apply that correction.
+
+- This also proves that even after fanbase proofreading after Zhi Xuan work, some minor continuity slips may still be discussed by English fandom, but in this proofread edition they have already been cleaned to one death.
+
+**Lore correction:** Minor side characters sometimes have continuity slips in long serialization. If two deaths existed, we would correct first to near decapitation. In our verified raw, only one death exists, so we keep it as final.
 
 ---
 
-
-So, truly after the fans did their proofread, after Zhi Xuan Cang Shu work and the additional fanbase proofreading, there were still errors from the author. It seems that even a fully proofread edition with 2342 files, edited over a very long period, still retains author level continuity and scale errors. Anywhich way, we will work on them.
-
 ## How We Are Tackling It
 
-We are correcting directly where the mistake was, using corrected versions directly in prose when reaching erroneous chapters, with no preemptive notes. For geography, we use 7 to 8 Earths and 50,000 km directly. For bronze skin, we keep temporary activation for Rank 2. For Rank 5 count, we use 1,000 to 10,000 directly. For battlefield, we move Yama battlefield outside blessed land. For aptitude, we use precise percentages 20 to 39, 40 to 59, 60 to 79, 80 to 99 from raw and clarify 100 years without external aid, and we write correct lore accurate numbers directly in prose. For died twice, we checked raw Ch189 and Ch194, found no death there, only one death at Ch197 with head flew far, blood sprayed like fountain, defensive Gu cannot save from that, so we correct to near death severe wound if we need continuity.
+We are correcting directly where the mistake was, using corrected versions directly in prose when reaching erroneous chapters, with no preemptive notes. For geography, we use 7 to 8 Earths and 50,000 km directly. For bronze skin, we keep temporary activation for Rank 2. For Rank 5 count, we use 1,000 to 10,000 directly. For battlefield, we move Yama battlefield outside blessed land. For aptitude, we use precise percentages 20 to 39, 40 to 59, 60 to 79, 80 to 99 from raw and clarify 100 years without external aid, and we write correct lore accurate numbers directly in prose. For died twice, we checked raw Ch189 and Ch194, found no death there, only one death at Ch197 with head flew far, blood sprayed like fountain, defensive Gu cannot save from that, so in this proofread edition there is no two deaths error.
 
 Detailed math lives in See: lore-corrections.md and See: primeval-calculations.md.
 
