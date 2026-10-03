@@ -111,20 +111,27 @@ This is the core math that decides everything else. We are using the correct and
 
 **Lore correction:** Rank 5s do not depend on skill alone, but on resources. With enough resources, C grade like first gen can reach Rank 5.
 
-### 9. Character Died Twice Xiong Jiao Man
+### 9. Character Died Twice Xiong Jiao Man Raw Verification Shows Only One Death
 
-**What Research file says:**
-- Xiong Jiao Man, also referred to as Xiong Jian Man, is the character who famously appears to die twice due to a continuity error.
-- First Death Chapter 189 in Research, but our raw scan finds actual death at Chapter 197: "熊群早已经全灭，甚至就连熊骄嫚也被白凝冰一刀枭首，娇丽的头颅飞出老远去，脖颈血喷如泉。" [Bear horde already completely annihilated, even Xiong Jiao Man was beheaded by Bai Ning Bing with one blade, her lovely head flew far away, neck blood sprayed like fountain.]
-- Second Death Chapter 194 in Research: Just five chapters later, she reappears active only to be killed yet again.
+**What Research file claims:**
+- Xiong Jiao Man, also referred to as Xiong Jian Man, famously appears to die twice.
+- First Death Chapter 189 in Research: seemingly decapitated by Bai Ning Bing during clashes at Qing Mao Mountain.
+- Second Death Chapter 194 in Research: just five chapters later, she reappears active only to be killed yet again.
 
-**What our full raw scan of 2342 files shows:**
-- Searched entire raw for "熊娇嫚" and "熊剑蛮" and "娇蛮": Found only at Ch132, Ch134, Ch154, Ch155, Ch156, Ch157, Ch158, Ch159, Ch197. No second appearance after Ch197. So in this edition, she dies only once at Ch197. The Research file's Ch189 and Ch194 may be from different edition or fandom memory, but Ch197 raw is clear: head flew far, blood sprayed like fountain.
-- Defensive Gu cannot save from decapitation when raw says head flew far and neck blood sprayed like fountain. If head is severed and flies far, no defensive Gu can reattach instantly. So defensive Gu explanation does not hold. This is author error for minor side character, continuity slip that went unedited because she is minor.
+**What our full raw scan of 2342 files actually shows:**
+- Searched entire raw for "熊骄嫚" and "熊娇蛮" and "熊剑蛮": Found 47 occurrences total, all between Ch132 and Ch197, last at Ch197.
+- No occurrence after Ch197. No second death after Ch197.
+- Ch197 raw: "熊群早已经全灭，甚至就连熊骄嫚也被白凝冰一刀枭首，娇丽的头颅飞出老远去，脖颈血喷如泉。" [Bear horde already completely annihilated, even Xiong Jiao Man was beheaded by Bai Ning Bing with one blade, her lovely head flew far away, neck blood sprayed like fountain.]
+- Search for beheading "枭首" plus "熊" across all chapters: Only Ch197 for Xiong Jiao Man, plus Ch543 for unrelated Chang Shan Yin.
+- So in this raw edition, she dies only once at Ch197, not twice. The Research file's Ch189 and Ch194 may be from different edition or fandom memory mixing with another Xiong clan member.
 
-**Our fixation:** We acknowledge raw verification. We will not use defensive Gu saves from decapitation, because raw says head flew far, blood sprayed like fountain, that is fatal. Instead we will correct directly in prose: At first supposed death, we will write she was severely wounded, her bear horde annihilated, she was struck down and nearly beheaded, but survived with severe neck wound due to timely treatment Gu, so she can reappear. Then second death, if it exists in other edition, becomes final death. In our edition where only Ch197 death exists, we keep that as final death, no second death. We use lore accurate handling directly in prose, no note saying author wrong, just keep continuity consistent by not killing her twice.
+**How does defensive Gu save from decapitation:**
+- It cannot. Raw says head flew far away, neck blood sprayed like fountain, that is complete severing, fatal. Defensive Gu like Bronze Skin, Jade Skin, Iron Skin can increase skin defense to resist cuts, but cannot reattach head after it flies far. If raw had said near decapitation, severe neck wound, then healing Gu could save. But raw says head flew far, so defensive Gu explanation does not hold.
 
-**Lore correction:** Minor side characters sometimes have continuity slips in long serialization. We correct by making first supposed decapitation a near decapitation, severe wound, not complete severing, so survival is plausible with healing Gu.
+**Our fixation after raw verification:**
+- This is not two deaths in our raw, it is one death at Ch197. If we follow Research file's claim of two deaths, we will treat it as author error for minor side character, continuity slip that went unedited because she is minor. We will not use defensive Gu saves from decapitation. Instead we will correct directly in prose: At first supposed death, we write she was severely wounded, bear horde annihilated, struck down and nearly beheaded, but survived with severe neck wound due to timely treatment Gu, so she can reappear. Then second death, if it exists in other edition, becomes final death. In our edition where only Ch197 death exists, we keep that as final death, no second death. We use lore accurate handling directly in prose, no note saying author wrong, just keep continuity consistent.
+
+**Lore correction:** Minor side characters sometimes have continuity slips in long serialization. We correct by making first supposed decapitation a near decapitation, severe wound, not complete severing, so survival is plausible with healing Gu. But raw verification shows only one complete decapitation at Ch197, so no need for second death fix in this edition.
 
 ---
 
