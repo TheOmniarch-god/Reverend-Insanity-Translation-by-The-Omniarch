@@ -28,7 +28,7 @@ A peerless demonic overlord who roams free and unfettered!
 > **雄山漫道真如铁，如今迈步从头越。**  
 > **险就一身乾坤精，我心依旧望苍天！**  
 >  
-> *Say not that the mighty mountains are truly like iron;*  
+> *Say not that mighty mountains are truly like iron;*  
 > *Today, I stride forward and cross them anew.*  
 > *Facing peril, I fashion my body from the essence of Heaven and Earth;*  
 > *My heart, as ever, gazes at the Heavens.*
