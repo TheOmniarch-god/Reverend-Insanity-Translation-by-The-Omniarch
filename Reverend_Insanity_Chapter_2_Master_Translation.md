@@ -10,7 +10,7 @@ Humans are the spirit of all living things; Gu are the essence of heaven and ear
 
 To be able to be reborn, the loss of the Spring Autumn Cicada was entirely acceptable. Moreover, he still carried a priceless treasure; he was far from empty-handed. This treasure was his five hundred years of memories and experience. Within his memory lay countless secret troves, currently unopened by anyone. There lay major historical events one by one, allowing him to easily grasp the pulse of history. There lay countless figures: some were hidden experts who cultivate in deep seclusion, some were extraordinary prodigies, and some were not even born yet. There also lay the grueling experience of bitter cultivation over these five hundred years, and a rich reservoir of battle experience.
 
-With these, he undoubtedly held the overall situation and the initiative. As long as he played his cards well, roaming the mortal realm and recreating his former glory as a demonic overlord and ruthless hegemon would be no problem at all, and he could even take a step further, charging towards an even higher realm!
+With these, he undoubtedly held the overall situation and the initiative. As long as he played his cards well, roaming the mortal realm and recreating his former glory as an Overlord of the Demonic Path and ruthless hegemon would be no problem at all, and he could even take a step further, charging towards an even higher realm!
 
 “Then how should I proceed…?” Fang Yuan was extremely rational. He quickly gathered his emotions and turned toward the night rain outside the window, falling into deep thought.
 
