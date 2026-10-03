@@ -420,13 +420,14 @@ img { max-width: 100%; height: auto; display: block; }
   margin:10px auto 0;
   max-width:520px;
   font-family:"Playfair Display",Georgia,serif;
-  font-size:12.5px;
+  font-size:13.5px;
   font-style:italic;
-  color:#6f6e69;
-  line-height:1.5;
+  font-weight:500;
+  color:#5a5750;
+  line-height:1.48;
 }
 .gu-list-plain p{margin:0}
-[data-theme="obsidian"] .gu-list-plain{color:#8e887d}
+[data-theme="obsidian"] .gu-list-plain{color:#c7c1b4}
 .gu-tokens span {
   font-size: 10.5px;
   font-weight: 500;
@@ -442,7 +443,7 @@ img { max-width: 100%; height: auto; display: block; }
   font-family: "Playfair Display", Georgia, serif;
   font-size: 13.5px;
   font-style: italic;
-  font-weight: 700;
+  font-weight: 500;
   color: var(--ink);
   line-height: 1.46;
   margin: 0;
@@ -2378,13 +2379,14 @@ html.js-anim .d2 { transition-delay: 0.1s; }
   margin:10px auto 0;
   max-width:520px;
   font-family:"Playfair Display",Georgia,serif;
-  font-size:12.5px;
+  font-size:13.5px;
   font-style:italic;
-  color:#6f6e69;
-  line-height:1.5;
+  font-weight:500;
+  color:#5a5750;
+  line-height:1.48;
 }
 .gu-list-plain p{margin:0}
-[data-theme="obsidian"] .gu-list-plain{color:#8e887d}
+[data-theme="obsidian"] .gu-list-plain{color:#c7c1b4}
 .gu-tokens span {
   background: #11100e;
   border-color: #26211a;
