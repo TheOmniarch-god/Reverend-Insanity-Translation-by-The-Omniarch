@@ -380,6 +380,34 @@ img { max-width: 100%; height: auto; display: block; }
   margin: 0;
 }
 .plate-mid p + p { margin-top: 2px; }
+
+/* blurb vs synopsis separation */
+.blurb-tagline{
+  text-align:center;
+  margin:10px auto 0;
+  max-width:520px;
+  font-size:11px;
+  font-weight:600;
+  letter-spacing:0.08em;
+  text-transform:uppercase;
+  color:#8a8780;
+  line-height:1.5;
+}
+.blurb-tagline p{margin:0;font-family:var(--sans)}
+.blurb-closer{
+  text-align:center;
+  margin:12px auto 0;
+  max-width:480px;
+  font-family:"Playfair Display",Georgia,serif;
+  font-size:13px;
+  font-style:italic;
+  font-weight:600;
+  color:#5a5750;
+  line-height:1.4;
+}
+[data-theme="obsidian"] .blurb-tagline{color:#8e887d}
+[data-theme="obsidian"] .blurb-closer{color:#c7c1b4}
+
 .gu-tokens {
   display: flex;
   flex-wrap: wrap;
