@@ -6,6 +6,8 @@
 
 This audit is based on Zhi Xuan Cang Shu, our master version. Zhi Xuan Cang Shu is a highly respected and widely known Chinese digital archive that provides fully proofread, complete text versions of Chinese web novels in TXT format. It is regarded as the gold standard for clean and accurate raw text.
 
+![Zhi Xuan Cang Shu Typesetting Notes](zhi-xuan-cang-shu-typesetting.png)
+
 This edition is the proofread version released after Zhi Xuan Cang Shu. It has removed all textual errors, has been edited over a very long period, and is far more polished than other circulating versions. After the work by Zhi Xuan, this version incorporates additional proofreading done by the fanbase. It is a sad thing that they did not include their names, as noted in the original typesetting notes. The English fandom is still struggling to address the same issues that this Chinese proofread edition has already corrected.
 
 As stated in the typesetting notes from the image:
