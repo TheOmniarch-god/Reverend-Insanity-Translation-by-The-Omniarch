@@ -779,44 +779,54 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
 
-  // ── Translator Notes — Dimmed + Spoiler Blur ─────────────────────────
-  // When a TN with data-spoiler is opened, blur the previous story <p>
+  // ── Translator Notes — Dimmed + Spoiler Blur (FIXED: blur TN itself, not story) ──
+  // When a TN with data-spoiler is opened, blur the TN note content, not the previous <p>
   document.addEventListener('toggle', function(e) {
     var details = e.target;
     if (!details.classList || !details.classList.contains('tn-details')) return;
     var isOpen = details.open;
     var isSpoiler = details.hasAttribute('data-spoiler');
-    // Find previous <p> sibling that is story text (skip other TNs)
-    var prev = details.previousElementSibling;
-    while (prev && !prev.matches('p[id^="p"]')) {
-      prev = prev.previousElementSibling;
+    // Find the note content inside the details (not the story paragraph)
+    var note = details.querySelector('.tn-note');
+    if (!note) {
+      // fallback: first div or p inside details that is not summary
+      var candidates = details.querySelectorAll('div, p');
+      for (var i=0;i<candidates.length;i++) {
+        if (candidates[i].tagName.toLowerCase() !== 'summary' && !candidates[i].classList.contains('tn-unblur-hint')) {
+          note = candidates[i];
+          break;
+        }
+      }
     }
-    if (!prev) return;
+    if (!note) return;
     if (isOpen && isSpoiler) {
-      prev.classList.add('tn-blurred');
+      note.classList.add('tn-blurred');
       // Add unblur hint if not exists
-      if (!prev.querySelector('.tn-unblur-hint')) {
+      if (!note.querySelector('.tn-unblur-hint')) {
         var hint = document.createElement('span');
         hint.className = 'tn-unblur-hint';
         hint.textContent = 'Spoiler — tap to unblur';
         hint.addEventListener('click', function(ev) {
           ev.stopPropagation();
-          prev.classList.remove('tn-blurred');
+          note.classList.remove('tn-blurred');
           hint.remove();
         });
-        prev.appendChild(hint);
+        note.appendChild(hint);
       }
     } else {
-      prev.classList.remove('tn-blurred');
-      var existing = prev.querySelector('.tn-unblur-hint');
+      note.classList.remove('tn-blurred');
+      var existing = note.querySelector('.tn-unblur-hint');
       if (existing) existing.remove();
     }
   }, true);
 
-  // Also allow tapping blurred paragraph to unblur
+  // Also allow tapping blurred TN note to unblur
   document.addEventListener('click', function(e) {
-    var blurred = e.target.closest('p.tn-blurred');
+    var blurred = e.target.closest('.tn-note.tn-blurred, div.tn-blurred, p.tn-blurred');
+    // Only handle if inside a tn-details
     if (!blurred) return;
+    var parentDetails = blurred.closest('.tn-details');
+    if (!parentDetails) return;
     // Don't unblur if clicking the hint itself (hint handles itself)
     if (e.target.classList.contains('tn-unblur-hint')) return;
     blurred.classList.remove('tn-blurred');
