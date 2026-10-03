@@ -1,12 +1,12 @@
 # All Errors Tackled Together: Full 2334-Chapters Raw Audit
 
-*We, The Omniarch Translation Team — checked entire Chinese raw EPUB 2342 files on GitHub, not fandom. Every claim below is from raw text with elevated English translation in brackets.*
+*We, The Omniarch Translation Team, checked entire Chinese raw EPUB 2342 files on GitHub, not fandom. Every claim below is from raw text with elevated English translation in brackets.*
 
 We tackle all 8 errors directly in prose where they appear, with correct numbers, no preemptive TNs, clean reading. Detailed math lives in See: lore-corrections.md and See: 100-debates.md.
 
 ---
 
-### 1. 50 Suns Continents vs Caravans — Fandom Bullshit, Raw Says 7-8 Earths
+### 1. 50 Suns Continents vs Caravans, Fandom Bullshit, Raw Says 7-8 Earths
 
 **Alleged error:** Mortal Gu Masters caravan around continents while continents supposed to be size of 50 suns combined.
 
@@ -14,7 +14,7 @@ We tackle all 8 errors directly in prose where they appear, with correct numbers
 - Search for "五十" + "太阳" across all 2342 files: 0 results.
 - Search for "5000万公里" "五十万公里" "中洲" + "公里": 0 geography results.
 - Only size line in entire raw:
-  - Ch37 raw: "这个世界面积广大无边，单单方源生活的南疆，就比七八个地球的总面积还要广阔。这里的生活环境十分恶劣，人类通常以家族的形式，建造山寨，龟缩一隅。" [This world is vast and boundless. Southern Border alone — where Fang Yuan dwells — is vaster than seven to eight Earths combined. The environment here is brutally inhospitable; mankind survives by clustering into clans, raising fortified villages upon the mountains, each cowering within its own secluded corner.]
+  - Ch37 raw: "这个世界面积广大无边，单单方源生活的南疆，就比七八个地球的总面积还要广阔。这里的生活环境十分恶劣，人类通常以家族的形式，建造山寨，龟缩一隅。" [This world is vast and boundless. Southern Border alone, where Fang Yuan dwells, is vaster than seven to eight Earths combined. The environment here is brutally inhospitable; mankind survives by clustering into clans, raising fortified villages upon the mountains, each cowering within its own secluded corner.]
 
 **Classification:** Fandom bullshit / TN error, not author error.
 
@@ -24,14 +24,14 @@ We tackle all 8 errors directly in prose where they appear, with correct numbers
 - Central Continent: If 50,000,000 km wide, area = 2.5 quadrillion km², about 5 million times Earth. Absurd. Corrected to 50,000 km wide = ~7.8B km² same ballpark.
 - Total 5 regions ~45× Earth, +2 Heavens = ~105-120× Earth.
 
-### 2. Bronze Skin Gu Rank 2 Temporary vs Rank 3 Permanent — Fandom Misreading, Raw Is Consistent
+### 2. Bronze Skin Gu Rank 2 Temporary vs Rank 3 Permanent, Fandom Misreading, Raw Is Consistent
 
 **Alleged error:** Combat instructor has bronze skin presumed Rank 2, later says Rank 2 temporary and Rank 3 permanent.
 
 **Full raw scan 24 mentions:**
-- Ch32 raw: "就像这位拳脚教头，他浑身的皮肤都是古铜色。这当然不是他的肌肤本色，而是一种铜皮蛊的效果。" [Much like this combat instructor — his entire skin bears a burnished bronze hue. Naturally, this is not his native complexion, but the effect of a Bronze Skin Gu.]
+- Ch32 raw: "就像这位拳脚教头，他浑身的皮肤都是古铜色。这当然不是他的肌肤本色，而是一种铜皮蛊的效果。" [Much like this combat instructor, his entire skin bears a burnished bronze hue. Naturally, this is not his native complexion, but the effect of a Bronze Skin Gu.]
 - Ch32 raw: "铜皮蛊会让蛊师的皮肤防御力大增，能让蛊师承受更多的伤害。" [Bronze Skin Gu greatly augments a Gu Master's dermal defense, allowing him to endure far greater harm.]
-- Ch70 raw: "这是一只铜皮蛊。近战蛊师常常选择的对象。" [This is a Bronze Skin Gu — an object of frequent choice among close-combat Gu Masters.]
+- Ch70 raw: "这是一只铜皮蛊。近战蛊师常常选择的对象。" [This is a Bronze Skin Gu, an object of frequent choice among close-combat Gu Masters.]
 - Ch70 raw: "学堂的拳脚教头，就是养育了这么一只铜皮蛊，一旦催动，就是浑身泛黄，防御大增。" [The academy's combat instructor raises precisely such a Bronze Skin Gu; once activated, his entire body flushes sallow yellow, and his defense surges dramatically.] Key phrase 一旦催动 [once activated] = temporary.
 - Ch309 raw: "这几个月来，方源不仅又增添了一龟之力，还动用了三转铜皮蛊，将自己的肌肤增添一份防御力量。" [In recent months, Fang Yuan has not only added another turtle's worth of strength, but has also employed a Rank 3 Bronze Skin Gu, bestowing upon his flesh an additional layer of defensive power.]
 - Ch309 raw: "二转的铜皮蛊，只能在有限的时间内，为蛊师肌肤表面增添防御。" [A Rank 2 Bronze Skin Gu can only, for a limited duration, augment the defense of a Gu Master's skin surface.]
@@ -42,26 +42,26 @@ We tackle all 8 errors directly in prose where they appear, with correct numbers
 
 **Classification:** Fandom misreading, not author error. Raw explicitly temporary vs permanent.
 
-### 3. Too Few Rank 5 Gu Masters — Author Error in Raw
+### 3. Too Few Rank 5 Gu Masters, Author Error in Raw
 
 **Full raw scan:**
-- Ch345 raw: "至于五转，则占据世俗巅峰，数量稀少。偌大的南疆，十万名山，无数英杰，也不过一百多名罢了。" [As for Rank 5, they occupy the pinnacle of the mortal world; their numbers are sparse. Throughout the vast Southern Border — a hundred thousand famed mountains, countless outstanding heroes — there are but a little over a hundred of them.]
-- Ch420 raw: "一转、二转蛊师极为常见，三转蛊师已经稀有，到了四转更少，五转蛊师，百万人中只出一两位。" [Rank 1 and Rank 2 Gu Masters are exceedingly common; Rank 3 already rare; Rank 4 rarer still; Rank 5 Gu Masters — among a million people, only one or two emerge.]
+- Ch345 raw: "至于五转，则占据世俗巅峰，数量稀少。偌大的南疆，十万名山，无数英杰，也不过一百多名罢了。" [As for Rank 5, they occupy the pinnacle of the mortal world; their numbers are sparse. Throughout the vast Southern Border, a hundred thousand famed mountains, countless outstanding heroes, there are but a little over a hundred of them.]
+- Ch420 raw: "一转、二转蛊师极为常见，三转蛊师已经稀有，到了四转更少，五转蛊师，百万人中只出一两位。" [Rank 1 and Rank 2 Gu Masters are exceedingly common; Rank 3 already rare; Rank 4 rarer still; Rank 5 Gu Masters, among a million people, only one or two emerge.]
 
 **Classification:** Author error. Ch345 contradicts Ch420 population math.
 
-### 4. Jia Jin Sheng D Grade Talent — Raw Canon, Not Error
+### 4. Jia Jin Sheng D Grade Talent, Raw Canon, Not Error
 
 **Full raw scan:**
 - Ch53 raw: "兄弟几个当中，他年龄最小，长得最英俊，和父亲最像，因此受到父亲的宠爱。但是偏偏上天的捉弄，让他只有区区丁等的天赋。" [Among several brothers, he is the youngest, the most handsome, the most resembling his father, and thus the most doted upon. Yet heaven, in its capricious mockery, granted him only meager D grade talent.]
 - Ch54 raw: "我虽然只有丁等资质，但是继承了花酒行者的遗藏，说不定就能改变自己的资质。" [Although I possess only D grade aptitude, should I inherit Flower Wine Wanderer's hidden inheritance, perhaps I might yet transform my own aptitude.]
 - Ch55 raw: "贾金生修为虽然薄弱，资质低下，但是地位特殊。" [Jia Jin Sheng's cultivation may be feeble and his aptitude lowly, yet his status is exceptional.]
-- Ch15 aptitude table raw: "丁等资质，元海占据空窍两三成，往往最高能修行到一转二转。丙等资质，元海是空窍的四五成，通常会停在二转境界，只有很少一部分能侥幸突破到三转初阶。乙等资质，元海占据整个空窍的六七成，能修到三转，甚至四转。甲等资质，元海充足，是空窍的八九成，这样的人自然天赋最高，最适合蛊师修行，能修行到五转。" [D grade aptitude — primeval sea occupies two to three tenths of the aperture; often its highest attainment is Rank 1 to Rank 2. C grade aptitude — primeval sea is four to five tenths of the aperture; it typically stalls at Rank 2, only a very small fortunate portion luckily breaking through to initial Rank 3. B grade aptitude — primeval sea occupies six to seven tenths of the entire aperture; it can cultivate to Rank 3, even Rank 4. A grade aptitude — primeval sea is abundant, eight to nine tenths of the aperture; such a person naturally possesses the highest talent, most suited to Gu Master cultivation, capable of reaching Rank 5.]
-- Ch13 raw: "十步以下，是没有修行资质。十步到二十步之间，是丁等资质。二十步到三十步之间，是丙等资质。三十步到四十步，是乙等资质。四十步到五十步，是甲等。" [Below ten steps — no cultivation aptitude. Between ten and twenty steps — D grade aptitude. Between twenty and thirty steps — C grade aptitude. Between thirty and forty steps — B grade aptitude. Between forty and fifty steps — A grade.]
+- Ch15 aptitude table raw: "丁等资质，元海占据空窍两三成，往往最高能修行到一转二转。丙等资质，元海是空窍的四五成，通常会停在二转境界，只有很少一部分能侥幸突破到三转初阶。乙等资质，元海占据整个空窍的六七成，能修到三转，甚至四转。甲等资质，元海充足，是空窍的八九成，这样的人自然天赋最高，最适合蛊师修行，能修行到五转。" [D grade aptitude, primeval sea occupies two to three tenths of the aperture; often its highest attainment is Rank 1 to Rank 2. C grade aptitude, primeval sea is four to five tenths of the aperture; it typically stalls at Rank 2, only a very small fortunate portion luckily breaking through to initial Rank 3. B grade aptitude, primeval sea occupies six to seven tenths of the entire aperture; it can cultivate to Rank 3, even Rank 4. A grade aptitude, primeval sea is abundant, eight to nine tenths of the aperture; such a person naturally possesses the highest talent, most suited to Gu Master cultivation, capable of reaching Rank 5.]
+- Ch13 raw: "十步以下，是没有修行资质。十步到二十步之间，是丁等资质。二十步到三十步之间，是丙等资质。三十步到四十步，是乙等资质。四十步到五十步，是甲等。" [Below ten steps, no cultivation aptitude. Between ten and twenty steps, D grade aptitude. Between twenty and thirty steps, C grade aptitude. Between thirty and forty steps, B grade aptitude. Between forty and fifty steps, A grade.]
 
 **Classification:** Not error, plausible. Blood Skull Gu requires killing blood kin, demonic.
 
-### 5. Battlefield Killer Moves Damaging Blessed Land — Author Error
+### 5. Battlefield Killer Moves Damaging Blessed Land, Author Error
 
 **Full raw scan:**
 - Ch906 raw: "琅琊地灵不敢在福地中，铺设战场杀招，对战秦百胜一行强敌时，也只用了十二波云迷澜蛊阵。琅琊地灵就是害怕铺设战场杀招，形成的短暂道痕，对福地大有损伤。" [Lang Ya land spirit dared not lay a battlefield killer move within the blessed land; when confronting Qin Bai Sheng and his host of formidable enemies, it used only the Twelve Wave Cloud Mist Confusion Gu Formation. Lang Ya land spirit feared that laying a battlefield killer move, with its fleeting dao marks, would inflict grave damage upon the blessed land.]
@@ -75,19 +75,19 @@ We tackle all 8 errors directly in prose where they appear, with correct numbers
 
 **Classification:** Author error. Ch906/935 rule vs Ch1594 Yama inside Lang Ya.
 
-### 6. Fang Yuan 100 Years Rank II to III vs Rank III at Start — Needs Clarification
+### 6. Fang Yuan 100 Years Rank II to III vs Rank III at Start, Needs Clarification
 
 - Ch203 raw: "我们都是孤儿，被师傅收养，但从小到大，从来都是师傅更宠你。为什么？还不是因为你的资质是甲等，而我的资质只是丙等吗？" [We were both orphans, adopted by Master; yet from childhood to adulthood, Master always doted on you more. Why? Is it not simply because your aptitude is A grade, while mine is only C grade?]
 
-### 7. Killer Moves Absent Early — Author Evolution, Not Error
+### 7. Killer Moves Absent Early, Author Evolution, Not Error
 
 - Ch200 raw: "天鹤上人和古月一代，皆师承中洲仙鹤门。在数百年前，乃是师兄弟，亲密无间。" [Heaven Crane Hermit and Gu Yue First Generation both studied under Central Continent's Immortal Crane Sect. Several centuries ago, they were martial brothers, inseparable in intimacy.]
-- Ch200 raw: "天鹤上人先行一步，得到传承。重利熏心，古月一代便实施暗算，尽夺蛊重，企图杀死天鹤上人，却并未成功，被他逃走。" [Heaven Crane Hermit took the first step and obtained the inheritance. Blinded by heavy profit, Gu Yue First Generation launched a treacherous ambush, seizing all the valuable Gu, attempting to kill Heaven Crane Hermit, yet did not succeed — he escaped.]
+- Ch200 raw: "天鹤上人先行一步，得到传承。重利熏心，古月一代便实施暗算，尽夺蛊重，企图杀死天鹤上人，却并未成功，被他逃走。" [Heaven Crane Hermit took the first step and obtained the inheritance. Blinded by heavy profit, Gu Yue First Generation launched a treacherous ambush, seizing all the valuable Gu, attempting to kill Heaven Crane Hermit, yet did not succeed, he escaped.]
 - Ch200 raw: "古月一代见事情暴露，只好隐姓埋名，四处逃窜，防备师门的追杀。辗转数十年，他未寻到寿蛊，只好在暮年，立足在南疆的青茅山，改头换面，自姓古月，创建了古月山寨。" [Seeing his deed exposed, Gu Yue First Generation had no choice but to conceal his name and identity, fleeing in all directions, guarding against his sect's pursuit. After decades of wandering, failing to find a lifespan Gu, in his twilight years he finally established himself upon Southern Border's Qing Mao Mountain, altering his appearance and name, taking the surname Gu Yue, and founding Gu Yue Village.]
 
-### 8. Gu Yue Ancestor C Grade Reaching Rank V Peak — Raw Canon, Not Error
+### 8. Gu Yue Ancestor C Grade Reaching Rank V Peak, Raw Canon, Not Error
 
-- Ch15 raw: "在我族的历史上，出现过许多的强者。其中五转强者，就有两位。一位是一代族长，是我们的老祖宗，就是他创立了古月山寨。还有一位，是四代族长。" [In our clan's history, many powerhouses have appeared. Among them, there have been two Rank 5 powerhouses. One is the First Generation Clan Leader — our old ancestor, he who founded Gu Yue Village. The other is the Fourth Generation Clan Leader.]
+- Ch15 raw: "在我族的历史上，出现过许多的强者。其中五转强者，就有两位。一位是一代族长，是我们的老祖宗，就是他创立了古月山寨。还有一位，是四代族长。" [In our clan's history, many powerhouses have appeared. Among them, there have been two Rank 5 powerhouses. One is the First Generation Clan Leader, our old ancestor, he who founded Gu Yue Village. The other is the Fourth Generation Clan Leader.]
 - Ch39 raw: "五转的蛊师很少见了，古月一族的历史上，也只有一代族长和四代族长。" [Rank 5 Gu Masters are rarely seen; in Gu Yue Clan's entire history, there have been only the First Generation Clan Leader and the Fourth Generation Clan Leader.]
 - Ch203 raw: "我的资质只是丙等" [My aptitude is merely C grade]
 - Ch203 raw: "古月一代杀得古月族人越多，他的资质就越高。咀嚼了元石之后，他的真元也就存储越多，战斗力更加强大。" [The more Gu Yue First Generation slaughtered his own clansmen, the higher his aptitude rose. After chewing primeval stones, the more primeval essence he could store, and the more formidable his battle strength became.]
@@ -98,11 +98,11 @@ We tackle all 8 errors directly in prose where they appear, with correct numbers
 
 ## Summary Classification
 
-- **Fandom bullshit / TN error:** #1 geography 50 suns and 50M km — zero raw evidence, only Ch37 7-8 Earths raw [vaster than seven to eight Earths combined].
-- **Fandom misreading:** #2 bronze skin — raw Ch70 "一旦催动" [once activated] and Ch309 limited time vs permanent proves consistency.
-- **Author error:** #3 Rank5 count 100+ in Southern Border raw Ch345 "不过一百多名罢了" [but a little over a hundred of them] contradicts Ch420 "百万人中只出一两位" [among a million people, only one or two emerge]. #5 battlefield damaging blessed land — Ch906/935 rule vs Ch1594 Yama inside Lang Ya.
-- **Not error, plausible:** #4 Jia Jin Sheng D grade raw Ch53 "只有区区丁等的天赋" [only meager D grade talent], #7 killer moves absent early, #8 Gu Yue ancestor C grade Rank5 — raw Ch203 "我的资质只是丙等" [My aptitude is merely C grade].
-- **Timeline needs clarification:** #6 100 years Rank II to III — if raw says 100 years, need "without external aid".
+- **Fandom bullshit / TN error:** #1 geography 50 suns and 50M km, zero raw evidence, only Ch37 7-8 Earths raw [vaster than seven to eight Earths combined].
+- **Fandom misreading:** #2 bronze skin, raw Ch70 "一旦催动" [once activated] and Ch309 limited time vs permanent proves consistency.
+- **Author error:** #3 Rank5 count 100+ in Southern Border raw Ch345 "不过一百多名罢了" [but a little over a hundred of them] contradicts Ch420 "百万人中只出一两位" [among a million people, only one or two emerge]. #5 battlefield damaging blessed land, Ch906/935 rule vs Ch1594 Yama inside Lang Ya.
+- **Not error, plausible:** #4 Jia Jin Sheng D grade raw Ch53 "只有区区丁等的天赋" [only meager D grade talent], #7 killer moves absent early, #8 Gu Yue ancestor C grade Rank5, raw Ch203 "我的资质只是丙等" [My aptitude is merely C grade].
+- **Timeline needs clarification:** #6 100 years Rank II to III, if raw says 100 years, need "without external aid".
 
 ## Community Call-Out
 
