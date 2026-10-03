@@ -19,7 +19,7 @@ A wondrous, bizarre world of nurturing, refining, and using Gu.
 
 Spring Autumn Cicada, Moonlight Gu, Liquor Worm, Single Qi Golden Light Worm, Black Hair Gu, Hope Gu...  
 
-And a peerless demonic overlord who roams free and unfettered!
+A peerless demonic overlord who roams free and unfettered!
 
 ---
 
