@@ -31,7 +31,7 @@ Barring exceptional circumstances, novice Gu Masters invariably select a Rank I 
 
 The very first Gu worm a Gu Master refines carries great significance; known as their vital Gu, it is inextricably bound to their life force. Should it perish, the Gu Master will inevitably suffer devastating damage.
 
-"Sigh, I had originally hoped to obtain the Flower Wine Monk's Liquor Worm and refine it as my vital Gu. But now, searching for the Flower Wine Monk's remains still yields no clue, and I don't know when I will find it, or if someone else will find it first. To be safe, I should still choose a Moonlight Gu." 
+"Alas, I had originally hoped to obtain the Flower Wine Monk's Liquor Worm and refine it as my vital Gu. But now, the search for the Flower Wine Monk's remains still yields no clues; there is no telling when I might find them, or if someone else will discover them first. To be safe, I should still choose a Moonlight Gu." 
 
 Fang Yuan sighed inwardly while walking straight toward the left-hand wall.
 
