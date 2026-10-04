@@ -129,7 +129,7 @@ Rules: British spelling, no em dashes, Gu Master's body possessive, the aperture
 **1. Original:** “唉，原本指望能得到花酒行者的酒虫，炼化它成为我的本命蛊。但是现在，寻找花酒行者尸骨仍旧未见端倪，也不知道什么时候能找到，或者被别人发现。保险起见，还是选一只月光蛊吧。”
 **2. Literal breakdown:** Sigh, originally / hoped / can obtain / Flower Wine Monk's / Liquor Worm, refine it / become / my / vital Gu. But / now, searching / Flower Wine Monk / remains / still not / see / clue, also not know / what time / can find, or / be / others / discover. For safety / sake, still / choose / one / Moonlight Gu.
 **3. Translation judgment with sources:** General elevated rendering, British spelling, no em dashes [1](https://dictionary.cambridge.org/dictionary/english/elevated) [2](https://en.wiktionary.org/wiki/16)
-**4. Proposed rendering (elevated, lore-accurate):** "Sigh, I had originally hoped to obtain the Flower Wine Monk's Liquor Worm and refine it as my vital Gu. But now, searching for the Flower Wine Monk's remains still shows no clue, and I don't know when I will find it, or if someone else will find it first. To be safe, I should still choose a Moonlight Gu."
+**4. Proposed rendering (elevated, lore-accurate):** "Sigh, I had originally hoped to obtain the Flower Wine Monk's Liquor Worm and refine it as my vital Gu. But now, searching for the Flower Wine Monk's remains still yields no clue, and I don't know when I will find it, or if someone else will find it first. To be safe, I should still choose a Moonlight Gu."
 
 ---
 
