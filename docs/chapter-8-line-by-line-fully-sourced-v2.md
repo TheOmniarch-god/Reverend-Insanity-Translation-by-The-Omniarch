@@ -145,7 +145,7 @@ Rules: British spelling, no em dashes, Gu Master's body possessive, the aperture
 **1. Original:** 在这面墙洞位置稍稍靠上的其中一层，是一排的白银盘子。每个盘子上都摆放着一只蛊虫。
 **2. Literal breakdown:** At / this wall / holes / position / slightly / leaning up's / among / one tier, is / one row's / silver plates. Every / plate / on / all placed / one / Gu worm.
 **3. Translation judgment with sources:** General elevated rendering, British spelling, no em dashes [1](https://dictionary.cambridge.org/dictionary/english/elevated) [2](https://en.wiktionary.org/wiki/18)
-**4. Proposed rendering (elevated, lore-accurate):** On that wall, slightly above, on one tier, was a row of silver plates. On each plate was placed a Gu worm.
+**4. Proposed rendering (elevated, lore-accurate):** Slightly higher up among those wall recesses, on one tier, was a row of silver plates. Upon each plate rested a Gu worm.
 
 ---
 
