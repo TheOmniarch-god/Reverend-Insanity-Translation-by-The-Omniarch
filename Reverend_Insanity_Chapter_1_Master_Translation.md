@@ -4,7 +4,7 @@
 
 “Old Demon Fang, harbour no delusions of defiance! Today, the revered sects of the Righteous Path have united for one purpose: to trample your demonic lair into dust. We have long since laid an inescapable dragnet here. This time, you shall be beheaded!”
 
-“Fang Yuan, you damned devil! To refine that cursed Spring Autumn Cicada, you slaughtered tens of millions of innocent lives! You have committed towering atrocities, unpardonable, unredeemable, innumerable, beyond all count!”
+“Fang Yuan, you damned devil! To refine that cursed Spring Autumn Cicada, you slaughtered tens of millions of innocents! You have committed towering atrocities, unpardonable and beyond all count!”
 
 “Monster! Three hundred years ago, you violated me and robbed me of my chastity. You killed my entire family and slaughtered all my kin. From that moment on, I’ve wanted nothing more than to devour your flesh and drink your blood! Today, I’ll make you wish you were dead!”
 
@@ -12,20 +12,29 @@
 
 Fang Yuan stood cloaked in a tattered emerald robe, his hair wild and unkempt, his body bathed in blood, as his eyes swept over the surrounding host. The mountain wind whipped his blood-soaked garments, fluttering and snapping like a war banner. Fresh blood gushed out from the hundreds of wounds across his body. In the mere moment he had stood there, a large pool of blood had already gathered at his feet. Besieged on every flank by bitter foes, every path to life had long been severed. The trap had snapped shut; on this day, death was absolute.
 
-Fang Yuan perceived his doom with crystalline clarity. Yet even as the shadow of death loomed before him, he remained expressionless, his demeanor unmoved. His gaze was dark and deep, like an ancient well, bottomless as ever. The righteous host besieging him comprised distinguished sect leaders and young heroes renowned far and wide. Yet as they surrounded Fang Yuan, their composure fractured: some bared their teeth in savage roars, some sneered with brittle arrogance, some narrowed their eyes with venomous suspicion, while others clutched bleeding wounds, looking upon him with lingering dread.
+Fang Yuan perceived his doom with perfect clarity. Yet even as the shadow of death loomed before him, he remained expressionless, his demeanor unmoved. His gaze was dark and deep, like an ancient well, bottomless as ever. The righteous host besieging him comprised distinguished sect leaders and young heroes renowned far and wide. Yet as they surrounded Fang Yuan, their composure fractured: some bared their teeth in savage roars, some sneered with brittle arrogance, some narrowed their eyes with venomous suspicion, while others clutched bleeding wounds, looking upon him with lingering dread.
 
 None dared to make a move, all feared Fang Yuan's final counterattack before death. Thus they confronted each other tensely for six hours, until the sun set in the west, and the afterglow lit the evening clouds by the mountainside, momentarily resplendent as fire. Fang Yuan, who had stood as motionless as a statue, slowly turned around. That solitary motion sent a convulsion through the host; the multitude recoiled in unison, retreating a full pace in panic. At this moment, the grey-white mountain rocks beneath Fang Yuan’s feet had long been dyed dark red with fresh blood. His face, pale from excessive blood loss, was reflected by the sunset glow, suddenly taking on an alluring, delicate radiance.
 
 Gazing upon the green mountains and the setting sun, Fang Yuan let slip a soft, low chuckle:
 
-“Green mountains beneath the setting sun, autumn moon and spring breeze.
-Truly, in the morning one's hair is like black silk, by dusk it turns to snow. Right and wrong, success and failure, all vanish in the turning of a head.” As the verse left his lips, memories of his past life on Earth surged unbidden before his eyes. He had originally been a Chinese student on Earth, cast into this foreign world through a serendipitous twist of fortune. Three hundred years of drifting, tossed like flotsam upon tempestuous tides; two hundred years of unbridled dominion, carving his will across the world, more than five centuries, yet in the retrospect of memory, gone in the span of an eyeblink.
+“Green mountains beneath the setting sun,
+Autumn moon and spring breeze.
+In the morning one's hair is like black silk,
+By dusk it turns to snow.
+Right and wrong, success and failure,
+All vanish in a turn of the head.”
+
+[^1]: 朝如青丝暮成雪 ,  from Li Bai's poetry on the swift passage of time.
+[^2]: 是非成败转头空 ,  from Yang Shen's Lin Jiang Xian (Immortal by the River), famously used in Romance of the Three Kingdoms opening.
+
+As the verse left his lips, memories of his past life on Earth surged unbidden before his eyes. He had originally been a Chinese student on Earth, cast into this foreign world through a serendipitous twist of fortune. Three hundred years of drifting, tossed like flotsam upon tempestuous tides; two hundred years of unbridled dominion, carving his will across the world, more than five centuries, yet in the retrospect of memory, gone in the span of an eyeblink.
 
 Countless memories buried deep within the bedrock of his soul awakened, playing across his mind with breathtaking, indelible clarity.
 
 “In the end, I failed after all,” Fang Yuan sighed in his heart. A trace of wistfulness stirred, yet not the faintest whisper of regret.
 
-This outcome was nothing he had not foreseen; the moment he made his choice centuries ago, he was already mentally prepared. For what was the Demonic Path? It was to cultivate no virtuous karma, committing murder and arson; spurned by heaven and reviled by earth, making enemies with the whole world, and still running wild, following the whim of one’s own heart to the very end.
+This outcome was nothing he had not foreseen; the moment he made his choice centuries ago, he was already mentally prepared. For what was the Demonic Path? It was to accumulate no good karma, only murder and arson; spurned by heaven and reviled by earth, making enemies with the whole world, and still running wild, following the whim of one's own heart to the very end.
 
 “If this newly refined Spring Autumn Cicada works, I will still be a demon in my next life!”
 
@@ -41,13 +50,13 @@ The righteous host surged forward, greed and panic driving them into frenzy. And
 
 * * *
 
-Spring rain fell continuously, silently nourishing Qing Mao Mountain. Night was already deep, and threads of cool wind blew through the fine rain. Qing Mao Mountain was not dark, however; from the mountainside down to the foothills, faint, shimmering lights glowed, as if draping a brilliant ribbon of radiance across the slope. These lights came from the stilt houses, not ten thousand households, but several thousand nonetheless. This was Gu Yue Village, nestled upon Qing Mao Mountain, giving the vast, tranquil mountain range a distinct sense of human habitation. At the very heart of Gu Yue Village stood a grand and glorious pavilion. Right now a grand sacrificial ceremony was being held, so it was brightly lit and brilliantly glorious.
+Spring rain fell continuously, silently nourishing Qing Mao Mountain. Night was already deep, and threads of cool wind blew through the fine rain. Qing Mao Mountain was not dark, however; from the mountainside down to the foothills, faint, shimmering lights glowed, as if draping a brilliant ribbon of radiance across the slope. These lights came from the stilt houses, not ten thousand households, but several thousand nonetheless. This was Gu Yue Village, nestled upon Qing Mao Mountain, giving the vast, tranquil mountain range a distinct sense of human habitation. At the very heart of Gu Yue Village stood a grand pavilion. Right now a solemn sacrificial ceremony was being held, so it was brightly lit and resplendent.
 
-“Ancestors bless us! Hope that in this Aperture Opening Ceremony, many youths with excellent aptitude can emerge to bring fresh blood and hope to our clan!”
+“Ancestors bless us! May this Aperture Opening Ceremony produce many youths of excellent aptitude to bring fresh blood and hope to our clan!”
 
-The Gu Yue Clan Leader appeared middle-aged, his temples touched with frost. Wearing plain white, solemn sacrificial robes, he knelt upon the brownish-yellow floorboards, his upper body erect, hands pressed together, closing both eyes to pray sincerely. He faced a tall, black-lacquered altar table with three tiers, enshrining the spirit tablets of the ancestors. On both sides of the tablets stood red-copper incense burners, thin plumes of fragrant smoke coiling upward. Behind him, ten-odd figures knelt in matching white sacrificial robes. These were the clan elders and decision-makers, each wielding power over various affairs of the clan.
+The Gu Yue Clan Leader appeared middle-aged, his temples touched with frost. Wearing plain white ceremonial robes, he knelt upon the amber floorboards, his upper body erect, hands pressed together, closing both eyes to pray sincerely. He faced a tall, black-lacquered altar table with three tiers, enshrining the spirit tablets of the ancestors. On both sides of the tablets stood red-copper incense burners, thin plumes of fragrant smoke coiling upward. Behind him, ten-odd figures knelt in matching white sacrificial robes. These were the clan elders and decision-makers, each wielding power over various affairs of the clan.
 
-After concluding his prayers, the Clan Leader was the first to bend down, palms flat against the wooden floorboards, kowtowing. His forehead met the brown floor with soft, rhythmic thuds. The elders behind him, their expressions solemn, followed suit in silence. For a time, the ancestral hall was filled only with the gentle cadence of foreheads knocking against the floor. When the ceremony concluded, everyone slowly rose from the floor and quietly filed out of the solemn hall. In the corridor, the elders breathed a quiet sigh of relief, the tense atmosphere easing noticeably.
+After concluding his prayers, the Clan Leader was the first to bend down, palms flat against the wooden floorboards, kowtowing. His forehead met the floor with soft, rhythmic thuds. The elders behind him, their expressions solemn, followed suit in silence. For a time, the ancestral hall was filled only with the gentle cadence of foreheads knocking against the floor. When the ceremony concluded, everyone slowly rose from the floor and quietly filed out of the hallowed hall. In the corridor, the elders breathed a quiet sigh of relief, the tense atmosphere easing noticeably.
 
 Murmurs of conversation soon began to rise:
 
@@ -67,7 +76,7 @@ Whoever mentioned the name Bai Ning Bing, a shadow of worry involuntarily crosse
 
 “Quite right. A genius youth has appeared in the Fang lineage. He could speak at three months and walk at four. By age five, he could compose poems and recite verses, exceptionally intelligent and overflowing with talent. It is just a pity his parents died early, and he is currently being raised by his aunt and uncle.”
 
-“Mm, he possesses precocious wisdom and grand ambitions. In recent years, I have heard of the poems he composed, Bring in the Wine, Ode to the Plum Blossom, and River Town. He is truly a genius!”
+“Mm, he possesses precocious wisdom and grand ambitions. In recent years, I have heard of the poems he composed, Bring in the Wine, Ode to the Plum Blossom, and Jiang Cheng Zi. He is truly a genius!”
 
 The Gu Yue Clan Leader was the last to exit the ancestral hall. As he slowly closed the door, the murmurs of the elders reached his ears. He immediately knew that the elders were discussing a youth named Gu Yue Fang Yuan. As the leader of the clan, he naturally paid close attention to outstanding juniors, and Gu Yue Fang Yuan was the most prominent and dazzling among them. Experience had shown that those gifted with photographic memories or strength rivaling an adult from childhood almost always possessed superior cultivation talent.
 
@@ -81,7 +90,7 @@ It was indeed time to rest and gather strength, so they could contend fiercely t
 
 “We wouldn’t dare, we wouldn’t dare.”
 
-“We shall definitely keep it firmly in mind.”
+“We shall definitely keep it well in mind.”
 
 “Then we shall take our leave. Lord Clan Leader, please do not trouble yourself to see us off.”
 
