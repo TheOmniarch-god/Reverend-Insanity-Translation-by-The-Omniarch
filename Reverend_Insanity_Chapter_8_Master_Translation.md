@@ -3,7 +3,7 @@
 
 Beside the academy stood a Gu chamber. The chamber was not large, only sixty square metres.
 
-In the cultivation of a Gu Master, Gu worms are the ultimate key to strength.
+In the cultivation of a Gu Master, Gu worms were the ultimate key to strength.
 
 As soon as lessons ended, the excited youths swarmed toward the Gu chamber.
 
@@ -21,17 +21,17 @@ In these vessels were kept all kinds of Gu worms.
 
 Some Gu worms were quiescent and mute, while others were clamorous, emanating a din of chirps, clucks, and rustles that coalesced into a symphony of life.
 
-"Gu worms are likewise divided into nine major ranks, corresponding to the nine ranks of Gu Masters. The Gu worms here are all Rank I." Fang Yuan surveyed the chamber, comprehending at a single glance.
+"Gu worms were likewise divided into nine major ranks, corresponding to the nine ranks of Gu Masters. The Gu worms here were all Rank I." Fang Yuan surveyed the chamber, comprehending at a single glance.
 
-Generally, a Rank I Gu Master can only use Rank I Gu worms. Should they attempt to activate a higher-ranked Gu worm exceeding their current rank, they will invariably incur a devastating toll.
+Generally, a Rank I Gu Master could only use Rank I Gu worms. Should they attempt to activate a higher-ranked Gu worm exceeding their current rank, they would invariably incur a devastating toll.
 
-Moreover, Gu worms require constant sustenance; the toll of nurturing a superior Gu worm is frequently far more than an inferior Gu Master can bear.
+Moreover, Gu worms required constant sustenance; the toll of nurturing a superior Gu worm was frequently far more than an inferior Gu Master could bear.
 
-Barring exceptional circumstances, novice Gu Masters invariably select a Rank I Gu worm for their first refinement.
+Barring exceptional circumstances, novice Gu Masters invariably selected a Rank I Gu worm for their first refinement.
 
-The very first Gu worm a Gu Master refines carries great significance; known as their vital Gu, it is inextricably bound to their life force. Should it perish, the Gu Master will inevitably suffer devastating damage.
+The very first Gu worm a Gu Master refined carried great significance; known as their vital Gu, it was inextricably bound to their life force. Should it perish, the Gu Master would inevitably suffer devastating damage.
 
-"Alas, I had originally hoped to obtain the Flower Wine Monk's Liquor Worm and refine it as my vital Gu. But now, the search for the Flower Wine Monk's remains still yields no clues; there is no telling when I might find them, or if someone else will discover them first. To be safe, I should still choose a Moonlight Gu." 
+"Alas, I had originally hoped to obtain the Flower Wine Monk's Liquor Worm and refine it as my vital Gu. But now, the search for the Flower Wine Monk's remains still yielded no clues; there was no telling when I might find them, or if someone else would discover them first. To be safe, I should still choose a Moonlight Gu."
 
 Fang Yuan sighed inwardly even as he walked straight towards the wall on his left.
 
@@ -39,9 +39,9 @@ Slightly higher up among those wall recesses was a row of silver plates. Upon ea
 
 This Gu worm was crystal clear and curved like a crescent moon, resembling a piece of blue crystal. Set against the silver base of the plate, it radiated a serene, ethereal aura.
 
-Its name is Moonlight, the guardian Gu worm of the Gu Yue clan, chosen by the vast majority as their vital Gu. It is no wild Gu worm, but one cultivated through the Gu Yue clan's secret methods and found nowhere else. It can be said to be the very emblem of the Gu Yue clan.
+Its name was Moonlight, the guardian Gu worm of the Gu Yue clan, chosen by the vast majority as their vital Gu. It was no wild Gu worm, but one cultivated through the Gu Yue clan's secret methods and found nowhere else. It could be said to be the very emblem of the Gu Yue clan.
 
-All were Rank I Moonlight Gu, differences extremely subtle. Fang Yuan casually picked one and held it in his hand.
+All were Rank I Moonlight Gu, differences were extremely subtle. Fang Yuan casually picked one and held it in his hand.
 
 Moonlight Gu was very light, comparable to the weight of a thin sheet of paper. It only occupied a small patch of his palm, about the size of a common jade pendant. Held in his hand, he could see through it the lines of his palm beneath.
 
@@ -65,25 +65,25 @@ The shopkeeper was a short, middle-aged fat man, his face oily; after these days
 
 Then he weighed them in his hand, feeling the weight was not lacking, the shopkeeper's smile grew a bit more cordial.
 
-Primeval stones are the currency of this world, used to measure the value of all commodities. At the same time they are the condensation of heaven and earth's essence, usable in themselves, and important in helping a Gu Master in cultivation.
+Primeval stones were the currency of this world, used to measure the value of all commodities. At the same time they were the condensation of heaven and earth's essence, usable in themselves, and important in helping a Gu Master in cultivation.
 
-Having both monetary and commodity attributes, they are extremely similar to gold on Earth. Earth had a single gold standard system; in this world it is a single primeval stone standard system.
+Having both monetary and commodity attributes, they were extremely similar to gold on Earth. Earth had once operated on a single gold standard; in this world it was a single primeval stone standard.
 
-Compared to gold, the purchasing power of primeval stones is even more astonishing.
+Compared to gold, the purchasing power of primeval stones was even more astonishing.
 
 However, no matter how many primeval stones one had, they could not withstand Fang Yuan's continuous consumption like this.
 
-"Two jars of wine every day, for seven days straight. The primeval stones I had saved up are almost all spent." Carrying two jars out of the shop, Fang Yuan's brows furrowed slightly.
+"Two jars of wine every day, for seven days straight. The primeval stones I had saved up were almost all spent." Carrying two jars out of the shop, Fang Yuan's brows furrowed slightly.
 
-Once one becomes a Gu Master, one can directly extract pure primeval essence from a primeval stone to replenish the primeval sea in the aperture.
+Once one became a Gu Master, one could directly extract pure primeval essence from a primeval stone to replenish the primeval sea in the aperture.
 
-Therefore for Gu Masters, primeval stones are not only currency, but also an aid in cultivation.
+Therefore for Gu Masters, primeval stones were not only currency, but also an aid in cultivation.
 
-With sufficient primeval stones, cultivation speed can increase greatly; this can more or less make up for some shortcomings in aptitude.
+With sufficient primeval stones, cultivation speed could increase greatly; this could more or less make up for some shortcomings in aptitude.
 
-"Tomorrow I will have no primeval stones to buy wine. Yet the Liquor Worm still shows no sign of itself. Must I really refine Moonlight Gu as my vital Gu?" Fang Yuan felt somewhat unwilling in his heart.
+"Tomorrow I would have no primeval stones to buy wine. Yet the Liquor Worm still showed no sign of itself. Must I really refine Moonlight Gu as my vital Gu?" Fang Yuan felt somewhat unwilling in his heart.
 
-Leaving the wine shop, Fang Yuan carried two jars of wine, walking while pondering: "The academy elder said, the first person to refine vital Gu in this assessment will be rewarded with twenty primeval stones. Right now I guess many are at home mustering all their energy, refining Gu worms, vying for first place. Alas, refining vital Gu extremely tests aptitude. Those with good aptitude have huge advantage. With my Grade C aptitude, without other means, I fundamentally have no hope of winning."
+Leaving the wine shop, Fang Yuan carried two jars of wine, walking while pondering: "The academy elder said, the first person to refine vital Gu in this assessment would be rewarded with twenty primeval stones. Right now I guess many were at home mustering all their energy, refining Gu worms, vying for first place. Alas, refining vital Gu extremely tested aptitude. Those with good aptitude had huge advantage. With my Grade C aptitude, without other means, I fundamentally had no hope of winning."
 
 Just then, Gu Yue Fang Zheng's voice sounded behind him: "Brother, you really came to the wine shop to get drunk again! Come with me, uncle and aunt want to see you."
 
@@ -97,17 +97,17 @@ A gust of wind blew, lifting the elder brother's messy black hair and fluttering
 
 A mere month, yet things had remained while people had changed.
 
-A week ago, the Aperture Opening Ceremony was a huge change for both elder and younger brother.
+A week ago, the Aperture Opening Ceremony had been a huge change for both elder and younger brother.
 
-Elder brother Fang Yuan fell from the clouds, the halo of genius ruthlessly stripped away. Younger brother began to shine, like a new star, slowly rising.
+Elder brother Fang Yuan had fallen from the clouds, the halo of genius ruthlessly stripped away. Younger brother had begun to shine, like a new star, slowly rising.
 
-This change, for younger brother Gu Yue Fang Zheng, held a meaning of earth-shaking overturn.
+This change, for younger brother Gu Yue Fang Zheng, had held a meaning of earth-shaking overturn.
 
-He finally tasted the feeling his brother once had — being entrusted with hopes, being watched with envious or jealous gazes.
+He had finally tasted the feeling his brother once had — being entrusted with hopes, being watched with envious or jealous gazes.
 
-He felt as though he had suddenly moved from a gloomy corner into a heaven filled with light.
+He had felt as though he had suddenly moved from a gloomy corner into a heaven filled with light.
 
-Every day waking, he felt as if he were living a beautiful dream. The vastly different treatment still left him somewhat disbelieving, and at the same time strongly uncomfortable.
+Every day waking, he had felt as if he were living a beautiful dream. The vastly different treatment still left him somewhat disbelieving, and at the same time strongly uncomfortable.
 
 Unaccustomed.
 
@@ -115,23 +115,23 @@ Suddenly from being unknown, to being closely watched, pointed at and discussed.
 
 Sometimes Fang Zheng walking on the road, hearing passers-by discuss him, praising him, would feel his face burn, hands and feet at a loss, eyes evading, almost not knowing how to walk!
 
-For the first ten-odd days, Gu Yue Fang Zheng inexplicably lost weight, but his spirit grew more vigorous.
+For the first ten-odd days, Gu Yue Fang Zheng had inexplicably lost weight, but his spirit had grown more vigorous.
 
-From the deepest part of his heart, something called "confidence" began to grow.
+From the deepest part of his heart, something called "confidence" had begun to grow.
 
-"So this is what brother used to feel, truly wonderful and painful!" He could not help thinking of his elder brother Gu Yue Fang Yuan — facing such discussion and attention, how did brother handle it before?
+"So this is what brother used to feel, truly wonderful and painful!" He could not help thinking of his elder brother Gu Yue Fang Yuan — facing such discussion and attention, how had brother handled it before?
 
-He subconsciously began to imitate Fang Yuan, pretending to be expressionless, but quickly found he was not cut out for it.
+He had subconsciously begun to imitate Fang Yuan, pretending to be expressionless, but quickly found he was not cut out for it.
 
 Sometimes in the academy, a girl's shout could make him blush furiously. On the road, the teasing of aunties made him flee in disarray many times.
 
 He was like an infant learning to walk, stumbling as he adapted to new life.
 
-In this process, he inevitably heard rumours about his brother — dejected and decadent, turned to alcohol, not returning home at night, sleeping heavily in academy.
+In this process, he had inevitably heard rumours about his brother — dejected and decadent, turned to alcohol, not returning home at night, sleeping heavily in academy.
 
-At first he was extremely shocked — his brother, that powerful, genius existence, had become like this?!
+At first he had been extremely shocked — his brother, that powerful, genius existence, had become like this?!
 
-But gradually, he began to somewhat understand. Brother is also an ordinary person; encountering such setback and blow, dejection is inevitable.
+But gradually, he had begun to somewhat understand. Brother was also an ordinary person; encountering such setback and blow, dejection was inevitable.
 
 Accompanying this understanding, Fang Zheng faintly felt a burst of indescribable pleasure.
 
