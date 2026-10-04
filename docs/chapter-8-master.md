@@ -33,7 +33,7 @@ The very first Gu worm a Gu Master refines carries great significance; known as 
 
 "Alas, I had originally hoped to obtain the Flower Wine Monk's Liquor Worm and refine it as my vital Gu. But now, the search for the Flower Wine Monk's remains still yields no clues; there is no telling when I might find them, or if someone else will discover them first. To be safe, I should still choose a Moonlight Gu." 
 
-Fang Yuan sighed inwardly while walking straight toward the left-hand wall.
+Fang Yuan sighed inwardly even as he walked straight towards the wall on his left.
 
 On that wall, slightly above, on one tier, was a row of silver plates. On each plate was placed a Gu worm.
 

@@ -137,7 +137,7 @@ Rules: British spelling, no em dashes, Gu Master's body possessive, the aperture
 **1. Original:** 方源一边心中暗叹，一边径直走向左手墙侧。
 **2. Literal breakdown:** Fang Yuan / one side / heart inside / secretly sighs, one side / directly / walks toward / left hand / wall side.
 **3. Translation judgment with sources:** General elevated rendering, British spelling, no em dashes [1](https://dictionary.cambridge.org/dictionary/english/elevated) [2](https://en.wiktionary.org/wiki/17)
-**4. Proposed rendering (elevated, lore-accurate):** Fang Yuan sighed inwardly while walking straight toward the left-hand wall.
+**4. Proposed rendering (elevated, lore-accurate):** Fang Yuan sighed inwardly even as he walked straight towards the wall on his left.
 
 ---
 
