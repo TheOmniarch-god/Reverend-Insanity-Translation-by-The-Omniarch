@@ -31,7 +31,7 @@ Barring exceptional circumstances, novice Gu Masters invariably selected a Rank 
 
 The very first Gu worm a Gu Master refined carried great significance; known as their vital Gu, it was inextricably bound to their life force. Should it perish, the Gu Master would inevitably suffer devastating damage.
 
-"Alas, I had originally hoped to obtain the Flower Wine Monk's Liquor Worm and refine it as my vital Gu. But now, the search for the Flower Wine Monk's remains still yielded no clues; there was no telling when I might find them, or if someone else would discover them first. To be safe, I should still choose a Moonlight Gu."
+"Alas, I had originally hoped to obtain the Flower-Wine Monk's Liquor Worm and refine it as my vital Gu. But now, the search for the Flower-Wine Monk's remains still yielded no clues; there was no telling when I might find them, or if someone else would discover them first. To be safe, I should still choose a Moonlight Gu."
 
 Fang Yuan sighed inwardly even as he walked straight towards the wall on his left.
 
@@ -103,7 +103,7 @@ Elder brother Fang Yuan had fallen from the clouds, the halo of genius ruthlessl
 
 This change, for younger brother Gu Yue Fang Zheng, had held a meaning of earth-shaking overturn.
 
-He had finally tasted the feeling his brother once had — being entrusted with hopes, being watched with envious or jealous gazes.
+He had finally tasted the feeling his brother once had ,  being entrusted with hopes, being watched with envious or jealous gazes.
 
 He had felt as though he had suddenly moved from a gloomy corner into a heaven filled with light.
 
@@ -119,7 +119,7 @@ For the first ten-odd days, Gu Yue Fang Zheng had inexplicably lost weight, but 
 
 From the deepest part of his heart, something called "confidence" had begun to grow.
 
-"So this is what brother used to feel, truly wonderful and painful!" He could not help thinking of his elder brother Gu Yue Fang Yuan — facing such discussion and attention, how had brother handled it before?
+"So this is what brother used to feel, truly wonderful and painful!" He could not help thinking of his elder brother Gu Yue Fang Yuan ,  facing such discussion and attention, how had brother handled it before?
 
 He had subconsciously begun to imitate Fang Yuan, pretending to be expressionless, but quickly found he was not cut out for it.
 
@@ -127,9 +127,9 @@ Sometimes in the academy, a girl's shout could make him blush furiously. On the 
 
 He was like an infant learning to walk, stumbling as he adapted to new life.
 
-In this process, he had inevitably heard rumours about his brother — dejected and decadent, turned to alcohol, not returning home at night, sleeping heavily in academy.
+In this process, he had inevitably heard rumours about his brother ,  dejected and decadent, turned to alcohol, not returning home at night, sleeping heavily in academy.
 
-At first he had been extremely shocked — his brother, that powerful, genius existence, had become like this?!
+At first he had been extremely shocked ,  his brother, that powerful, genius existence, had become like this?!
 
 But gradually, he had begun to somewhat understand. Brother was also an ordinary person; encountering such setback and blow, dejection was inevitable.
 

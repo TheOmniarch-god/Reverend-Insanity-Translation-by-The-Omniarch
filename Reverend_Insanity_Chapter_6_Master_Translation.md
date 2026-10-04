@@ -1,3 +1,6 @@
+# Chapter 6: The Road to the Future Will Be Interesting
+## 第六节：未来的路，会很精彩
+
 The aperture was a thing of surpassing mystery. Though it was lodged within Fang Yuan’s body, it did not share the same space as his internal organs. You could call it infinitely vast, and you could just as well call it infinitely small. Some called it the Purple Palace. Others called it the Flowery Pool. Most, however, called it the Primeval Sea Aperture. This was what the Hope Gu had become: burst apart, then drawn together into a single layer of light. It was precisely this membrane of light that held the aperture together and kept it from collapsing.
 
 Within the aperture, naturally, lay the primeval sea. The water lay smooth as a mirror, a sheet of jade green, yet viscous beyond any water, and it carried the sheen of bronze. This was the bronze primeval essence that only a Rank 1 Gu Master possessed, condensed together. Commonly, it was called the bronze sea. The surface of the sea did not reach half the height of the aperture. It stood at only forty-four percent. This too was the limit of a Grade C aptitude. Every drop of that water was primeval essence. It represented the condensing of Fang Yuan’s essence, qi and spirit, and it stood for the vital potential he had accumulated over fifteen years.
