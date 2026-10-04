@@ -57,7 +57,7 @@ Rules: British spelling, no em dashes, Gu Master's body possessive, the aperture
 **1. Original:** 只见这房间内大有乾坤，四壁都做成隔洞，这些内嵌的方格子一个挨着一个。格子有大有小，大的超不过砂锅，小的小不过拳头。
 **2. Literal breakdown:** Only see / this room / inside / greatly has / universe (idiom: far more than meets eye), four walls / all made into / separated holes, these / inward embedded / square compartments / one / next to / one. Compartments / have big have small, big's / exceed not / clay pot, small's / small not exceed / fist.
 **3. Translation judgment with sources:** recessed alcoves 隔洞 [1](https://dictionary.cambridge.org/dictionary/english/recessed) [2](https://en.wiktionary.org/wiki/%E9%9A%94%E6%B4%9E)
-**4. Proposed rendering (elevated, lore-accurate):** Inside, he saw that there was far more to the room than met the eye. The four walls were carved into recessed alcoves, these inset square compartments crowding one after another. They varied in size, the largest no bigger than a clay pot, and the smallest no larger than a fist.
+**4. Proposed rendering (elevated, lore-accurate):** Inside, he saw that there was far more to the room than met the eye. The four walls were carved into wall recesses, these inset square compartments crowding one after another. They varied in size, the largest no bigger than a clay pot, and the smallest no larger than a fist.
 
 ---
 
