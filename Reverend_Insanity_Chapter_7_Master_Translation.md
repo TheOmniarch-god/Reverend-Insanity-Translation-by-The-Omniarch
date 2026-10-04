@@ -85,7 +85,7 @@ The Gu Master was overjoyed and tried to catch it. The Liquor Worm fled in panic
 
 A Liquor Worm is a very precious kind of Gu. Still flushed with wine, that Gu Master risked entering the cave and reached a clandestine chamber. There, he discovered the skeletal remains of the Flower-Wine Monk, along with the inheritance left behind.
 
-After the Gu Master returned to the village and reported all his findings, it immediately caused a massive sensation throughout the entire clan.
+After the Gu Master returned to the village and reported all his findings, it immediately caused a great stir throughout the entire clan.
 
 That Gu Master also benefited greatly from this fortune; his cultivation grew increasingly outstanding, even changing the heart of the lover who had once abandoned him. For a time, he became a prominent figure.
 
@@ -95,13 +95,13 @@ Over these past few days, he had bought a lot of wine and wandered idly around t
 
 "If I could find that Liquor Worm and refine it into my vital Gu, it would be far better than the clan's Moonlight Gu. In the blink of an eye, it is already April; time waits for no man." Fang Yuan sighed, turning his gaze out the window.
 
-Under the blue sky and white clouds, a luxuriant verdant massif stretched endlessly into the distance. In the proximity lay a bamboo forest.
+Under blue sky and white cloud, a verdant massif stretched away without end. Close by lay a bamboo grove.
 
-This was the spear bamboo unique to Qing Mao Mountain, each one as straight as a line, its tip exceptionally sharp, just like a spearhead.
+This was the spear bamboo found only on Qing Mao Mountain, each stalk straight as a line, its tip sharp as a spearhead.
 
-Not far away, the woods had already taken on a flush of luteovirescent green. The newly sprouted tender shoots formed a sprawling, chartreuse expanse, where beautifully plumaged birds would perch upon the branches from time to time.
+Not far off, the woods had come into new leaf. Tender shoots had just opened, a pale wash of chartreuse, where plumaged finches perched among the branches from time to time.
 
-The spring wind blew in, carrying the fresh air of verdant mountains and clear waters and scattering it across the world.
+A spring wind blew in, carrying the clean scent of green hills and clear water.
 
 Without realizing it, the lesson was drawing to a close. The academy elder finally announced, "This week, I have taught you how to meditate and examine the primeval sea within your apertures, as well as how to sit cross-legged and circulate the primeval essence inside your bodies. Now, it is time to refine your vital Gu. Once this class dismisses, you will go to the academy's Gu chamber to choose a Gu worm. Once selected, return home to cultivate in seclusion. Only after you have refined your Gu may you return to the academy to resume your lessons. At the same time, this will be your first assessment. Whoever takes first place will receive a generous reward of twenty primeval stones."
 
