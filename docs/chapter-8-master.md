@@ -37,7 +37,7 @@ Fang Yuan sighed inwardly even as he walked straight towards the wall on his lef
 
 Slightly higher up among those wall recesses was a row of silver plates. Upon each plate rested a Gu worm.
 
-This Gu worm was crystal clear and curved like a crescent moon, resembling a shard of flawless blue crystal. Set against the stark silver base of the plate, it radiated a serene, ethereal aura.
+This Gu worm was crystal clear and curved like a crescent moon, resembling a piece of blue crystal. Set against the silver base of the plate, it radiated a serene, ethereal aura.
 
 Its name was Moonlight, the clan's guardian Gu worm of Gu Yue clan, the vast majority of clansmen choose it as vital Gu. It is not a natural Gu worm, but cultivated through Gu Yue clan's secret method, nowhere else exists; it can be said to be the emblem of Gu Yue clan.
 

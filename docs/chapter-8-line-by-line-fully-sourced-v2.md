@@ -153,7 +153,7 @@ Rules: British spelling, no em dashes, Gu Master's body possessive, the aperture
 **1. Original:** 这蛊虫晶莹剔透，弯弯如月，好像是一块蓝水晶，在白银底盘的映衬下，显现出一股清幽之气。
 **2. Literal breakdown:** This / Gu worm / crystal clear transparent, curved / like moon, as if / is / one piece / blue crystal, at / silver / base plate's / contrast under, displays / one / quiet secluded / aura.
 **3. Translation judgment with sources:** Moonlight Gu 月光蛊 [1](https://dictionary.cambridge.org/dictionary/english/moonlight) [2](https://en.wiktionary.org/wiki/%E6%9C%88%E5%85%89), emblem 标志 [1](https://dictionary.cambridge.org/dictionary/english/emblem) [2](https://en.wiktionary.org/wiki/%E6%A0%87%E5%BF%97)
-**4. Proposed rendering (elevated, lore-accurate):** This Gu worm was crystal clear and curved like a crescent moon, resembling a shard of flawless blue crystal. Set against the stark silver base of the plate, it radiated a serene, ethereal aura.
+**4. Proposed rendering (elevated, lore-accurate):** This Gu worm was crystal clear and curved like a crescent moon, resembling a piece of blue crystal. Set against the silver base of the plate, it radiated a serene, ethereal aura.
 
 ---
 
