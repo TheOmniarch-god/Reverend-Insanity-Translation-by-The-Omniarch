@@ -2806,6 +2806,17 @@ mark { background: linear-gradient(transparent 58%, rgba(217, 178, 76, 0.55) 0);
   box-shadow: 0 6px 16px rgba(168, 121, 26, 0.18);
 }
 
+/* preface copyable override — allow selection/copy only on preface */
+.page-preface .chapter-body,
+.page-preface .prose,
+.page-preface .reader-head {
+  -webkit-user-select: text !important;
+  -moz-user-select: text !important;
+  -ms-user-select: text !important;
+  user-select: text !important;
+  -webkit-touch-callout: default !important;
+}
+
 /* motion preferences: the gold stays, the movement goes */
 @media (prefers-reduced-motion: reduce) {
   .page-preface .reader-head h1 { animation: none; background-position: 40% 50%; }

@@ -411,29 +411,36 @@ document.addEventListener("DOMContentLoaded", function () {
   // Anti-theft & copy protection on chapter reader pages
   var readerBody = document.querySelector(".chapter-body");
   if (readerBody) {
+    function isPrefacePage() {
+      return document.body.classList.contains("page-preface");
+    }
     // 1. Disable context menu (right-click) — except in text boxes, where the
-    //    menu is how a reader pastes
+    //    menu is how a reader pastes — and except preface which is copyable
     document.addEventListener("contextmenu", function (e) {
       if (isField(e.target)) return;
+      if (isPrefacePage()) return;
       e.preventDefault();
       return false;
     });
 
-    // 2. Disable text selection and dragging
+    // 2. Disable text selection and dragging — allow on preface
     document.addEventListener("selectstart", function (e) {
       if (isField(e.target)) return;
+      if (isPrefacePage()) return;
       e.preventDefault();
       return false;
     });
     document.addEventListener("dragstart", function (e) {
       if (isField(e.target)) return;
+      if (isPrefacePage()) return;
       e.preventDefault();
       return false;
     });
 
-    // 3. Clear and intercept copy / cut
+    // 3. Clear and intercept copy / cut — allow on preface
     document.addEventListener("copy", function (e) {
       if (isField(e.target)) return;
+      if (isPrefacePage()) return;
       e.preventDefault();
       if (e.clipboardData) {
         e.clipboardData.setData("text/plain", "");
@@ -442,6 +449,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
     document.addEventListener("cut", function (e) {
       if (isField(e.target)) return;
+      if (isPrefacePage()) return;
       e.preventDefault();
       return false;
     });
