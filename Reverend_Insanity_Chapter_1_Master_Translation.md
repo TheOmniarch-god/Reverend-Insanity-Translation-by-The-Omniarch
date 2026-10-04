@@ -106,7 +106,7 @@ At this very moment, another pair of clear eyes quietly gazed upon those twinkli
 
 “Gu Yue Village… this is five hundred years ago?! The Spring Autumn Cicada really had effect…”
 
-Fang Yuan’s gaze was dark and profound as he stood beside the window, letting the wind and rain beat against his body. The effect of the Spring Autumn Cicada was to reverse time. Ranked seventh among the Ten Mystical Gu, it was naturally no ordinary existence.
+Fang Yuan’s gaze was dark and profound as he stood beside the window, letting the wind and rain beat against his body. The effect of the Spring Autumn Cicada was to reverse time. Ranked seventh among the Ten Great Mystical Gu, it was naturally no ordinary existence.
 
 In short: rebirth.
 
