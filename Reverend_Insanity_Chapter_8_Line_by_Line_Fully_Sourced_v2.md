@@ -161,7 +161,7 @@ Rules: British spelling, no em dashes, Gu Master's body possessive, the aperture
 **1. Original:** 蛊名月光，是古月一族的镇族蛊虫，绝大多数的族人都选择它成为本命蛊。它并非是天然蛊虫，而是经过古月一族的秘法培育而来，其他地方没有，可以说是古月一族的标志象征。
 **2. Literal breakdown:** Gu name / Moonlight, is / Gu Yue / one clan's / clan-guarding / Gu worm, vast majority's / clansmen / all choose it / become / vital Gu. It / not at all / is / natural / Gu worm, but / through / Gu Yue clan's / secret method / nurtured / come, other places / not have, can say / is / Gu Yue clan's / emblem / symbol.
 **3. Translation judgment with sources:** Moonlight Gu 月光蛊 [1](https://dictionary.cambridge.org/dictionary/english/moonlight) [2](https://en.wiktionary.org/wiki/%E6%9C%88%E5%85%89), emblem 标志 [1](https://dictionary.cambridge.org/dictionary/english/emblem) [2](https://en.wiktionary.org/wiki/%E6%A0%87%E5%BF%97)
-**4. Proposed rendering (elevated, lore-accurate):** Its name was Moonlight, the clan's guardian Gu worm of Gu Yue clan, the vast majority of clansmen choose it as vital Gu. It is not a natural Gu worm, but cultivated through Gu Yue clan's secret method, nowhere else exists; it can be said to be the emblem of Gu Yue clan.
+**4. Proposed rendering (elevated, lore-accurate):** Its name is Moonlight, the guardian Gu worm of the Gu Yue clan, chosen by the vast majority as their vital Gu. It is no wild Gu worm, but one cultivated through the Gu Yue clan's secret methods and found nowhere else. It can be said to be the very emblem of the Gu Yue clan.
 
 ---
 

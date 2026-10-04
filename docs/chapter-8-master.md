@@ -39,7 +39,7 @@ Slightly higher up among those wall recesses was a row of silver plates. Upon ea
 
 This Gu worm was crystal clear and curved like a crescent moon, resembling a piece of blue crystal. Set against the silver base of the plate, it radiated a serene, ethereal aura.
 
-Its name was Moonlight, the clan's guardian Gu worm of Gu Yue clan, the vast majority of clansmen choose it as vital Gu. It is not a natural Gu worm, but cultivated through Gu Yue clan's secret method, nowhere else exists; it can be said to be the emblem of Gu Yue clan.
+Its name is Moonlight, the guardian Gu worm of the Gu Yue clan, chosen by the vast majority as their vital Gu. It is no wild Gu worm, but one cultivated through the Gu Yue clan's secret methods and found nowhere else. It can be said to be the very emblem of the Gu Yue clan.
 
 All were Rank I Moonlight Gu, differences extremely subtle. Fang Yuan casually picked one and held it in his hand.
 
