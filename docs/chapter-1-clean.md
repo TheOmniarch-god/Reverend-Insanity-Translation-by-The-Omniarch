@@ -28,7 +28,7 @@ All vanish in a turn of the head.”
 [^1]: 朝如青丝暮成雪 ,  from Li Bai's poetry on the swift passage of time.
 [^2]: 是非成败转头空 ,  from Yang Shen's Lin Jiang Xian (Immortal by the River), famously used in Romance of the Three Kingdoms opening.
 
-As the verse left his lips, memories of his past life on Earth surged unbidden before his eyes. He had originally been a Chinese student on Earth, cast into this foreign world through a serendipitous twist of fortune. Three hundred years of drifting, tossed like flotsam upon tempestuous tides; two hundred years of unbridled dominion, carving his will across the world, more than five centuries, yet in the retrospect of memory, gone in the span of an eyeblink.
+As the verse left his lips, memories of his past life on Earth surged unbidden before his eyes. He had originally been a student of Huaxia on Earth, cast into this foreign world through a serendipitous twist of fortune. Three hundred years of drifting, tossed like flotsam upon tempestuous tides; two hundred years of unbridled dominion, carving his will across the world, more than five centuries, yet in the retrospect of memory, gone in the span of an eyeblink.
 
 Countless memories buried deep within the bedrock of his soul awakened, playing across his mind with breathtaking, indelible clarity.
 
@@ -74,7 +74,7 @@ Whoever mentioned the name Bai Ning Bing, a shadow of worry involuntarily crosse
 
 “However, among the youths participating in this year’s Aperture Opening Ceremony, it is not as though we have no hope.”
 
-“Quite right. A genius youth has appeared in the Fang lineage. He could speak at three months and walk at four. By age five, he could compose poems and recite verses, exceptionally intelligent and overflowing with talent. It is just a pity his parents died early, and he is currently being raised by his aunt and uncle.”
+“Quite right. A genius youth has appeared in the Fang lineage. He could speak at three months and walk at four. By age five, he could compose Tang poetry and Song lyrics, exceptionally intelligent and overflowing with talent. It is just a pity his parents died early, and he is currently being raised by his aunt and uncle.”
 
 “Mm, he possesses precocious wisdom and grand ambitions. In recent years, I have heard of the poems he composed, Bring in the Wine, Ode to the Plum Blossom, and Jiang Cheng Zi. He is truly a genius!”
 
