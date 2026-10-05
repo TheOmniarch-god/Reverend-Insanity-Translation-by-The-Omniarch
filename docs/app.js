@@ -828,6 +828,21 @@ document.addEventListener("DOMContentLoaded", function () {
       });
     }
 
+  // Style Rank Roman numerals to avoid i/l confusion — wrap I, II, III, IV, V, etc.
+  (function styleRankRomans() {
+    var prose = document.querySelectorAll(".prose, .chapter-body");
+    if (!prose.length) return;
+    var rankRe = /\bRank\s+([IVX]+)\b/g;
+    prose.forEach(function(container) {
+      // Avoid double-wrapping
+      if (container.dataset.rankStyled) return;
+      container.dataset.rankStyled = "1";
+      container.innerHTML = container.innerHTML.replace(rankRe, function(match, roman) {
+        return 'Rank <span class="rank-roman">' + roman.toLowerCase() + '</span>';
+      });
+    });
+  })();
+
     // Setup existing TNs
     var allTN = document.querySelectorAll('.tn-details[data-spoiler]');
     for (var i = 0; i < allTN.length; i++) {

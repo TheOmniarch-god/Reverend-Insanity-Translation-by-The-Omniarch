@@ -2817,6 +2817,24 @@ mark { background: linear-gradient(transparent 58%, rgba(217, 178, 76, 0.55) 0);
   -webkit-touch-callout: default !important;
 }
 
+/* Rank Roman numerals — styled to avoid i/l confusion for new readers */
+.rank-roman {
+  font-family: "Playfair Display", "Times New Roman", serif;
+  font-weight: 800;
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  font-size: 0.95em;
+  padding: 0 1px;
+  /* subtle distinction, not gamey */
+  color: var(--ink);
+  /* optional: small caps makes I look like I, not l */
+  text-transform: lowercase;
+  font-feature-settings: "smcp" 1;
+}
+[data-theme="obsidian"] .rank-roman {
+  color: var(--gold);
+}
+
 /* motion preferences: the gold stays, the movement goes */
 @media (prefers-reduced-motion: reduce) {
   .page-preface .reader-head h1 { animation: none; background-position: 40% 50%; }
