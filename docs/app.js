@@ -838,7 +838,7 @@ document.addEventListener("DOMContentLoaded", function () {
       if (container.dataset.rankStyled) return;
       container.dataset.rankStyled = "1";
       container.innerHTML = container.innerHTML.replace(rankRe, function(match, roman) {
-        return 'Rank <span class="rank-roman">' + roman.toLowerCase() + '</span>';
+        return 'Rank <span class="rank-roman">' + roman + '</span>';
       });
     });
   })();

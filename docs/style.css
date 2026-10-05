@@ -2817,22 +2817,20 @@ mark { background: linear-gradient(transparent 58%, rgba(217, 178, 76, 0.55) 0);
   -webkit-touch-callout: default !important;
 }
 
-/* Rank Roman numerals — styled to avoid i/l confusion for new readers */
+/* Rank Roman numerals — bold and royal, not shy subtext */
 .rank-roman {
-  font-family: "Playfair Display", "Times New Roman", serif;
-  font-weight: 800;
-  font-variant: small-caps;
-  letter-spacing: 0.08em;
-  font-size: 0.95em;
+  font-family: "Playfair Display", Georgia, serif;
+  font-weight: 700;
+  font-variant: normal;
+  letter-spacing: 0.04em;
+  font-size: 1em;
   padding: 0 1px;
-  /* subtle distinction, not gamey */
   color: var(--ink);
-  /* optional: small caps makes I look like I, not l */
-  text-transform: lowercase;
-  font-feature-settings: "smcp" 1;
+  text-transform: none;
 }
 [data-theme="obsidian"] .rank-roman {
-  color: var(--gold);
+  color: var(--ink);
+  font-weight: 700;
 }
 
 /* motion preferences: the gold stays, the movement goes */
