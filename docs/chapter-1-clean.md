@@ -28,7 +28,7 @@ All vanish in a turn of the head.”
 [^1]: 朝如青丝暮成雪 ,  from Li Bai's poetry on the swift passage of time.
 [^2]: 是非成败转头空 ,  from Yang Shen's Lin Jiang Xian (Immortal by the River), famously used in Romance of the Three Kingdoms opening.
 
-As the verse left his lips, memories of his past life on Earth surged unbidden before his eyes. He had originally been a student of Huaxia on Earth, cast into this foreign world through a serendipitous twist of fortune. Three hundred years of drifting, tossed like flotsam upon tempestuous tides; two hundred years of unbridled dominion, carving his will across the world, more than five centuries, yet in the retrospect of memory, gone in the span of an eyeblink.
+As the verse left his lips, memories of his past life on Earth surged unbidden before his eyes. He had originally been a Huaxia student on Earth, cast into this foreign world through a serendipitous twist of fortune. Three hundred years of drifting, tossed like flotsam upon tempestuous tides; two hundred years of unbridled dominion, carving his will across the world, more than five centuries, yet in the retrospect of memory, gone in the span of an eyeblink.
 
 Countless memories buried deep within the bedrock of his soul awakened, playing across his mind with breathtaking, indelible clarity.
 
