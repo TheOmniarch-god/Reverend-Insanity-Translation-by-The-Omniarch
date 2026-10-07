@@ -10,7 +10,7 @@ The youths went in one by one, and then came out.
 
 It was Fang Yuan's turn to enter.
 
-Inside, he saw that there was far more to the room than met the eye. The four walls were carved into wall recesses, these inset square compartments crowding one after another. They varied in size, the largest no bigger than a clay pot, and the smallest no larger than a fist.
+Inside, he saw that there was far more to the room than met the eye. The four walls were carved into recesses, square compartments set into the walls and crowding one after another. They varied in size, the largest no bigger than a clay pot, and the smallest no larger than a fist.
 
 Within the tightly packed compartments sat a vast array of vessels: grey stone basins, vibrant green jade dishes, delicate grass cages, and earthenware braziers.
 
