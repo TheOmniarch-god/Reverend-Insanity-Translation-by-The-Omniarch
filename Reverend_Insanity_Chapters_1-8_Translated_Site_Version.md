@@ -734,7 +734,7 @@ The first Gu worm a Gu Master refines carries great significance. It is called t
 
 Fang Yuan sighed inwardly even as he walked straight towards the wall on his left.
 
-Slightly higher up on this wall, on one of the tiers, stood a row of silver plates. Upon each plate rested a Gu worm.
+Slightly higher up on the wall, on one of the layers, stood a row of silver plates. Upon each plate rested a Gu worm.
 
 This Gu worm was crystal clear, curved like a crescent moon, resembling a piece of blue crystal. Set against the silver base, it exuded a serene and ethereal aura.
 
