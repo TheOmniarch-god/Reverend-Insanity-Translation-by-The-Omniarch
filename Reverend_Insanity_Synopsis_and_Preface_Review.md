@@ -19,7 +19,7 @@ Spring Autumn Cicada, Moonlight Gu, Liquor Worm, One Qi Golden Light Worm, Black
 
 ---
 
-## Author’s Preface: Either Toward Success or Toward Destruction
+## Author’s Preface: Either Towards Success or Towards Destruction
 
 *By Gu Zhen Ren — English review draft*
 
@@ -73,7 +73,7 @@ He would scoff at criticism and rejection. Faced with extravagant praise and fla
 
 He could endure solitude—even enjoy it.
 
-He would either move toward success or toward destruction.
+He would either move towards success or towards destruction.
 
 He would be a warrior, making a solitary pilgrimage through the darkness, cutting through every obstacle. Nothing could stop him. If a god stood in his way, he would kill the god; if a Buddha stood in his way, he would kill the Buddha!
 

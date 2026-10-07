@@ -27,9 +27,9 @@ Elder Gu Yue nodded and waved his hand for the youth to sit down. "Gu Masters ha
 
 The youths all pricked up their ears, listening intently with eyes shining bright.
 
-Many could not help but look toward Gu Yue Fang Zheng, who sat in solemn posture in the first row. This was a Grade A aptitude, after all! Their gazes were filled with envy and jealousy.
+Many could not help but look towards Gu Yue Fang Zheng, who sat in solemn posture in the first row. This was a Grade A aptitude, after all! Their gazes were filled with envy and jealousy.
 
-At the same time, some gazes drifted toward the corner in the very last row of the classroom.
+At the same time, some gazes drifted towards the corner in the very last row of the classroom.
 
 In that corner by the window, Gu Yue Fang Yuan was sprawled over his desk, fast asleep and snoring soundly.
 

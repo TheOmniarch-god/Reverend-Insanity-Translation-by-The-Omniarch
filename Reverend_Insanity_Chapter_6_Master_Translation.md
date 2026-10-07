@@ -75,7 +75,7 @@ The laughter grew louder still, and the academy elder did not step forward to st
 
 “He’s obviously only of Grade C aptitude. So why is my elder brother still this calm?” Fang Zheng filled with doubt in spite of himself.
 
-Fang Yuan said nothing further. He patted Fang Zheng on the back, turned, and walked away. Still dazed, Fang Zheng walked toward the flower field.
+Fang Yuan said nothing further. He patted Fang Zheng on the back, turned, and walked away. Still dazed, Fang Zheng walked towards the flower field.
 
 “I’d never have thought my elder brother could be this calm. If it were me, I’m afraid…” His head was down and he walked on without thinking, not knowing that he was in the middle of staging a miraculous performance.
 

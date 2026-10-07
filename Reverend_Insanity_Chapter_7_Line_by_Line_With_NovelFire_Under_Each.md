@@ -341,7 +341,7 @@ Many of them couldn't help but look at Gu Yue Fang Zheng who was sitting rigidly
 许多人不由自主地看向第一排正襟危坐的古月方正，这可是甲等资质啊，目光中无不充满了羡慕嫉妒的情感。
 
 2. Literal breakdown
-• 不由自主地看向 - could not help looking toward
+• 不由自主地看向 - could not help looking towards
 • 第一排 - first row
 • 正襟危坐 - sit upright solemnly
 • 甲等资质 - Grade A aptitude
@@ -350,10 +350,10 @@ Many of them couldn't help but look at Gu Yue Fang Zheng who was sitting rigidly
 3. Translation judgment with sources
 不由自主 means can't help, involuntarily [35](https://www.omgchinese.com/dictionary/chinese/%E4%B8%8D%E7%94%B1%E8%87%AA%E4%B8%BB), inability to control oneself [36](https://www.wisdomlib.org/definition/bu-you-zi-zhu). 正襟危坐 means to sit bolt upright [37](https://www.wenlinshe.com/tw/chengyu/zheng-jin-wei-zuo-021410), to straighten clothes and sit upright solemnly [38](https://dict.idioms.moe.edu.tw/idiomView.jsp?ID=398&webMd=1&la=1).
 
-Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "Many could not help looking toward Gu Yue Fang Zheng, who sat bolt upright in the first row. He had Grade A aptitude aft..." -> improved.
+Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: "Many could not help looking towards Gu Yue Fang Zheng, who sat bolt upright in the first row. He had Grade A aptitude aft..." -> improved.
 
 4. Proposed rendering
-Many could not help but look toward Gu Yue Fang Zheng, who sat in solemn posture in the first row. This was a Grade A aptitude, after all! Their gazes were filled with envy and jealousy.
+Many could not help but look towards Gu Yue Fang Zheng, who sat in solemn posture in the first row. This was a Grade A aptitude, after all! Their gazes were filled with envy and jealousy.
 
 ---
 
@@ -369,7 +369,7 @@ Leaning against the window at the corner was Gu Yue Fang Yuan, who was bent over
 2. Literal breakdown
 • 同时 - at same time
 • 一部分目光 - portion of gazes
-• 飘向 - drift toward
+• 飘向 - drift towards
 • 最后一排 - very last row
 • 那个角落 - that corner
 
@@ -377,7 +377,7 @@ Leaning against the window at the corner was Gu Yue Fang Yuan, who was bent over
 飘 means float, drift, similar to 很快 quickly moving [1](https://www.omgchinese.com/dictionary/chinese/%E5%BE%88%E5%BF%AB) but gentle. 角落 means corner, from aperture as corner opening [19](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/aperture). Contrast admired vs neglected.
 
 4. Proposed rendering
-At the same time, some gazes drifted toward the corner in the very last row of the classroom.
+At the same time, some gazes drifted towards the corner in the very last row of the classroom.
 
 ---
 

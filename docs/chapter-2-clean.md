@@ -15,7 +15,7 @@ To be able to be reborn, the loss of the Spring Autumn Cicada was entirely accep
 
 With these, he undoubtedly held the overall situation and the initiative. As long as he played his cards well, roaming the mortal realm and recreating his former glory as a demonic overlord and ruthless hegemon would be no problem at all, and he could even take a step further, charging towards an even higher realm!
 
-“Then how should I proceed…?” Fang Yuan was extremely rational. He quickly gathered his emotions and turned toward the night rain outside the window, falling into deep thought.
+“Then how should I proceed…?” Fang Yuan was extremely rational. He quickly gathered his emotions and turned towards the night rain outside the window, falling into deep thought.
 
 Thinking like this, he felt a thousand loose ends and ten thousand tangled threads. After pondering for a moment, his brow furrowed deeper and deeper. A span of five hundred years was truly rather long. Not to mention those memories that were already blurred and could no longer be recalled, even among the secret treasure grounds and immortal opportunities he did remember, although numerous, most were either separated by hundreds of thousands of miles, or required specific times to open.
 
@@ -51,7 +51,7 @@ He remembered very clearly that the parents of this body had both fallen during 
 
 Just testing his hands like this, he was amazed at as a heavenly being, receiving widespread attention. Under external pressure, it also made the young Fang Yuan have to choose a cold expression to disguise and protect himself, reducing the chance of exposing his secrets. Over time, coldness instead became his habitual expression. Just like this, his uncle and aunt could no longer treat him and his brother harshly. As his age grew and his future looked brighter, his treatment also increased along with it. However, this was not love, but an investment.
 
-The laughable thing was that this brother of his had never seen through this truth. Not only was he blinded by their uncle and aunt, but he had even harboured a buried resentment toward Fang Yuan. Don’t look at him being so well-behaved and honest now; in Fang Yuan’s memories, once he tested with Grade A aptitude and was heavily nurtured by the clan, all of his hidden hatred and jealousy had been released, and he had spared no effort in targeting, making things difficult for, and suppressing his own elder brother.
+The laughable thing was that this brother of his had never seen through this truth. Not only was he blinded by their uncle and aunt, but he had even harboured a buried resentment towards Fang Yuan. Don’t look at him being so well-behaved and honest now; in Fang Yuan’s memories, once he tested with Grade A aptitude and was heavily nurtured by the clan, all of his hidden hatred and jealousy had been released, and he had spared no effort in targeting, making things difficult for, and suppressing his own elder brother.
 
 And as for his own aptitude…? Heh. At best, merely of Grade C. Fate always loved to play jokes. Born as twins, the elder brother’s aptitude was only of Grade C, yet monopolized the name of genius for over a decade. The younger brother had been unknown, yet possessed Grade A natural talent. The result of the Aperture Opening Ceremony had left the entire clan stunned. It also completely reversed the two brothers’ situation and treatment. The younger brother was like a crouching dragon ascending the heavens; the elder brother was like a fledgling phoenix crashing to the earth.
 
@@ -67,7 +67,7 @@ Thinking from their perspective, he could also understand his brother, his uncle
 
 If someone stood in the way of this pursuit, no matter who, it was nothing more than: either you die or I live. The wild ambition in his heart was too immense. Stepping onto this path, one was destined to make enemies of the entire world, destined to walk alone, and destined to face relentless tribulations. This was the enlightenment distilled from five hundred years of life.
 
-“Vengeance is not my intention, and the demonic path also never has the word compromise.” Thinking to this point, Fang Yuan could not help laughing. Turning his head toward this brother of his, taking a faint glance, he said: “You can go.”
+“Vengeance is not my intention, and the demonic path also never has the word compromise.” Thinking to this point, Fang Yuan could not help laughing. Turning his head towards this brother of his, taking a faint glance, he said: “You can go.”
 
 Fang Zheng felt a sudden tremor in his heart, feeling that his brother’s gaze was as sharp as an icy blade, seeming to pierce into the deepest part of his heart. Under that gaze, he felt as if he were standing naked in the snow, every secret laid bare.
 

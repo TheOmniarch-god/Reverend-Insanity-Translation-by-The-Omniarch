@@ -54,7 +54,7 @@ When faced with criticism and rejection, he scoffed with disdain. When faced wit
 
 He could endure solitude. He could even enjoy it.
 
-If he was not walking toward success, then he was walking toward destruction.
+If he was not walking towards success, then he was walking towards destruction.
 
 He was a warrior, making a lone pilgrimage through darkness, cutting through every obstacle in his path. No matter what stood in his way, nothing could stop him. If a god stood in his way, he would kill the god. If a Buddha stood in his way, he would kill the Buddha!
 

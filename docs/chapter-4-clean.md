@@ -43,7 +43,7 @@ Just then, the Academy Elder called, “Gu Yue Chi Cheng.” At the name, the el
 
 “Another Grade B!” the Academy Elder exclaimed.
 
-A stir ran through the youths as they turned envious eyes toward Gu Yue Chi Cheng.
+A stir ran through the youths as they turned envious eyes towards Gu Yue Chi Cheng.
 
 “Thirty-six steps! Thirty-six!” Gu Yue Chi Lian shouted with a triumphant laugh, glaring challengingly at Gu Yue Mo Chen.
 

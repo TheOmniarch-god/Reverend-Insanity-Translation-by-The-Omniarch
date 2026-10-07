@@ -1,7 +1,7 @@
 # Reverend Insanity - Translated Chapters 1-7 - The Omniarch Translation (Site Version) - CLEAN
 British spelling, no em dashes, past-backshifted, Flower-Wine Monk locked, headings normalised
 
-# Preface: Either Toward Success or Toward Destruction
+# Preface: Either Towards Success or Towards Destruction
 
 In the past few months I have lived through pain in both body and mind, and I have been struggling with it.
 
@@ -53,7 +53,7 @@ When faced with criticism and rejection, he scoffed with disdain. When faced wit
 
 He could endure solitude. He could even enjoy it.
 
-If he was not walking toward success, then he was walking toward destruction.
+If he was not walking towards success, then he was walking towards destruction.
 
 He was a warrior, making a lone pilgrimage through darkness, cutting through thorns and brambles all the way. No matter what stood in his way, nothing could stop him. If a god stood in his way, he would kill the god. If a Buddha stood in his way, he would kill the Buddha!
 
@@ -197,7 +197,7 @@ It was indeed time to rest and gather strength, so they could contend fiercely t
 
 “Then we shall take our leave. Lord Clan Leader, please do not trouble yourself to see us off.”
 
-Harbouring their own calculations, the elders dispersed one by one. Before long, the long corridor grew quiet and desolate. Spring rain and slanted wind blew through the window; the Clan Leader stepped lightly toward the window frame. Instantly, a mouthful of fresh, moist mountain air filled his chest, refreshing to the soul. This was the third floor of the attic; the Clan Leader looked out, and more than half of Gu Yue Village could be seen in a single glance. Though it was late at night, lights still burned in most homes in the village, quite unlike usual.
+Harbouring their own calculations, the elders dispersed one by one. Before long, the long corridor grew quiet and desolate. Spring rain and slanted wind blew through the window; the Clan Leader stepped lightly towards the window frame. Instantly, a mouthful of fresh, moist mountain air filled his chest, refreshing to the soul. This was the third floor of the attic; the Clan Leader looked out, and more than half of Gu Yue Village could be seen in a single glance. Though it was late at night, lights still burned in most homes in the village, quite unlike usual.
 
 Tomorrow was the Aperture Opening Ceremony, touching upon everyone’s personal interests. An excited and nervous atmosphere covered the clansmen’s hearts, naturally making many sleep restlessly.
 
@@ -242,7 +242,7 @@ To be able to be reborn, the loss of the Spring Autumn Cicada was entirely accep
 
 With these, he undoubtedly held the overall situation and the initiative. As long as he played his cards well, roaming the mortal realm and recreating his former glory as a demonic overlord and ruthless hegemon would be no problem at all, and he could even take a step further, charging towards an even higher realm!
 
-“Then how should I proceed…?” Fang Yuan was extremely rational. He quickly gathered his emotions and turned toward the night rain outside the window, falling into deep thought.
+“Then how should I proceed…?” Fang Yuan was extremely rational. He quickly gathered his emotions and turned towards the night rain outside the window, falling into deep thought.
 
 Thinking like this, he felt a thousand loose ends and ten thousand tangled threads. After pondering for a moment, his brow furrowed deeper and deeper. A span of five hundred years was truly rather long. Not to mention those memories that were already blurred and could no longer be recalled, even among the secret treasure grounds and immortal opportunities he did remember, although numerous, most were either separated by hundreds of thousands of miles, or required specific times to open.
 
@@ -278,7 +278,7 @@ He remembered very clearly that the parents of this body had both fallen during 
 
 Just testing his hands like this, he was amazed at as a heavenly being, receiving widespread attention. Under external pressure, it also made the young Fang Yuan have to choose a cold expression to disguise and protect himself, reducing the chance of exposing his secrets. Over time, coldness instead became his habitual expression. Just like this, his uncle and aunt could no longer treat him and his brother harshly. As his age grew and his future looked brighter, his treatment also increased along with it. However, this was not love, but an investment.
 
-The laughable thing was that this brother of his had never seen through this truth. Not only was he blinded by their uncle and aunt, but he had even harboured a buried resentment toward Fang Yuan. Don’t look at him being so well-behaved and honest now; in Fang Yuan’s memories, once he tested with Grade A aptitude and was heavily nurtured by the clan, all of his hidden hatred and jealousy had been released, and he had spared no effort in targeting, making things difficult for, and suppressing his own elder brother.
+The laughable thing was that this brother of his had never seen through this truth. Not only was he blinded by their uncle and aunt, but he had even harboured a buried resentment towards Fang Yuan. Don’t look at him being so well-behaved and honest now; in Fang Yuan’s memories, once he tested with Grade A aptitude and was heavily nurtured by the clan, all of his hidden hatred and jealousy had been released, and he had spared no effort in targeting, making things difficult for, and suppressing his own elder brother.
 
 And as for his own aptitude…? Heh. At best, merely of Grade C. Fate always loved to play jokes. Born as twins, the elder brother’s aptitude was only of Grade C, yet monopolized the name of genius for over a decade. The younger brother had been unknown, yet possessed Grade A natural talent. The result of the Aperture Opening Ceremony had left the entire clan stunned. It also completely reversed the two brothers’ situation and treatment. The younger brother was like a crouching dragon ascending the heavens; the elder brother was like a fledgling phoenix crashing to the earth.
 
@@ -294,7 +294,7 @@ Thinking from their perspective, he could also understand his brother, his uncle
 
 If someone stood in the way of this pursuit, no matter who, it was nothing more than: either you die or I live. The wild ambition in his heart was too immense. Stepping onto this path, one was destined to make enemies of the entire world, destined to walk alone, and destined to face relentless tribulations. This was the enlightenment distilled from five hundred years of life.
 
-“Vengeance is not my intention, and the demonic path also never has the word compromise.” Thinking to this point, Fang Yuan could not help laughing. Turning his head toward this brother of his, taking a faint glance, he said: “You can go.”
+“Vengeance is not my intention, and the demonic path also never has the word compromise.” Thinking to this point, Fang Yuan could not help laughing. Turning his head towards this brother of his, taking a faint glance, he said: “You can go.”
 
 Fang Zheng felt a sudden tremor in his heart, feeling that his brother’s gaze was as sharp as an icy blade, seeming to pierce into the deepest part of his heart. Under that gaze, he felt as if he were standing naked in the snow, every secret laid bare.
 
@@ -332,7 +332,7 @@ To her, Fang Yuan had a bright future and was very likely to possess Grade A apt
 
 Shen Cui pouted slightly, feeling puzzled and a little hurt by his indifference to her advances today. She wanted to say something coquettish, but an inexplicable air about Fang Yuan, barely perceptible, intimidated her. She opened her mouth several times, but in the end merely said, “Yes,” and obediently left.
 
-“Are you ready?” Fang Yuan looked toward Fang Zheng.
+“Are you ready?” Fang Yuan looked towards Fang Zheng.
 
 His younger brother stood blankly at the doorway. Lowering his head to look at his toes, he gave a quiet murmur of assent. He had actually woken during the fourth watch. Too nervous to sleep, he had slipped out of bed and prepared himself early. There were dark circles under both his eyes. Fang Yuan nodded. In his previous life, he had not understood what was on his younger brother’s mind. But in this life, how could he fail to understand? There was no point in exposing it now, however. He simply said, “Then let’s go.”
 
@@ -410,7 +410,7 @@ Just then, the Academy Elder called, “Gu Yue Chi Cheng.” At the name, the el
 
 “Another Grade B!” the Academy Elder exclaimed.
 
-A stir ran through the youths as they turned envious eyes toward Gu Yue Chi Cheng.
+A stir ran through the youths as they turned envious eyes towards Gu Yue Chi Cheng.
 
 “Thirty-six steps! Thirty-six!” Gu Yue Chi Lian shouted with a triumphant laugh, glaring challengingly at Gu Yue Mo Chen.
 
@@ -434,7 +434,7 @@ A sharp gleam flickered in Fang Yuan’s eyes as he considered how to exploit th
 # Chapter 5: Ren Zu's Three Gu, Hope Opens the Aperture
 ## 第五节：人祖三蛊，希望开窍
 
-His surroundings fell quiet in an instant. Countless eyes turned toward him.
+His surroundings fell quiet in an instant. Countless eyes turned towards him.
 
 “This is getting more and more interesting.” Fang Yuan smiled inwardly. Under everyone’s watchful eyes, he waded across the river and stepped onto the opposite bank.
 
@@ -562,7 +562,7 @@ The laughter grew louder still, and the academy elder did not step forward to st
 
 “He’s obviously only of Grade C aptitude. So why is my elder brother still this calm?” Fang Zheng filled with doubt in spite of himself.
 
-Fang Yuan said nothing further. He patted Fang Zheng on the back, turned, and walked away. Still dazed, Fang Zheng walked toward the flower field.
+Fang Yuan said nothing further. He patted Fang Zheng on the back, turned, and walked away. Still dazed, Fang Zheng walked towards the flower field.
 
 “I’d never have thought my elder brother could be this calm. If it were me, I’m afraid…” His head was down and he walked on without thinking, not knowing that he was in the middle of staging a miraculous performance.
 
@@ -616,9 +616,9 @@ Elder Gu Yue nodded and waved his hand for the youth to sit down. "Gu Masters ha
 
 The youths all pricked up their ears, listening intently with eyes shining bright.
 
-Many could not help but look toward Gu Yue Fang Zheng, who sat in solemn posture in the first row. This was a Grade A aptitude, after all! Their gazes were filled with envy and jealousy.
+Many could not help but look towards Gu Yue Fang Zheng, who sat in solemn posture in the first row. This was a Grade A aptitude, after all! Their gazes were filled with envy and jealousy.
 
-At the same time, some gazes drifted toward the corner in the very last row of the classroom.
+At the same time, some gazes drifted towards the corner in the very last row of the classroom.
 
 In that corner by the window, Gu Yue Fang Yuan was sprawled over his desk, fast asleep and snoring soundly.
 

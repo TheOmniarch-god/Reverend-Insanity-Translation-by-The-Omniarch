@@ -1,4 +1,4 @@
-# Preface: Either Toward Success or Toward Destruction
+# Preface: Either Towards Success or Towards Destruction
 
 In the past few months I have lived through pain in both body and mind, and I have been struggling with it.
 
@@ -50,7 +50,7 @@ When faced with criticism and rejection, he scoffed with disdain. When faced wit
 
 He could endure solitude. He could even enjoy it.
 
-If he was not walking toward success, then he was walking toward destruction.
+If he was not walking towards success, then he was walking towards destruction.
 
 He was a warrior, making a lone pilgrimage through darkness, cutting through thorns and brambles all the way. No matter what stood in his way, nothing could stop him. If a god stood in his way, he would kill the god. If a Buddha stood in his way, he would kill the Buddha!
 

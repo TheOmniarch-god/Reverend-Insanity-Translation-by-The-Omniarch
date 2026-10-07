@@ -94,7 +94,7 @@ It was indeed time to rest and gather strength, so they could contend fiercely t
 
 “Then we shall take our leave. Lord Clan Leader, please do not trouble yourself to see us off.”
 
-Harbouring their own calculations, the elders dispersed one by one. Before long, the long corridor grew quiet and desolate. Spring rain and slanted wind blew through the window; the Clan Leader stepped lightly toward the window frame. Instantly, a mouthful of fresh, moist mountain air filled his chest, refreshing to the soul. This was the third floor of the attic; the Clan Leader looked out, and more than half of Gu Yue Village could be seen in a single glance. Though it was late at night, lights still burned in most homes in the village, quite unlike usual.
+Harbouring their own calculations, the elders dispersed one by one. Before long, the long corridor grew quiet and desolate. Spring rain and slanted wind blew through the window; the Clan Leader stepped lightly towards the window frame. Instantly, a mouthful of fresh, moist mountain air filled his chest, refreshing to the soul. This was the third floor of the attic; the Clan Leader looked out, and more than half of Gu Yue Village could be seen in a single glance. Though it was late at night, lights still burned in most homes in the village, quite unlike usual.
 
 Tomorrow was the Aperture Opening Ceremony, touching upon everyone’s personal interests. An excited and nervous atmosphere covered the clansmen’s hearts, naturally making many sleep restlessly.
 

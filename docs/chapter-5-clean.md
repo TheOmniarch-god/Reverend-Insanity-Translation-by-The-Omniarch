@@ -1,7 +1,7 @@
 # Chapter 5: Ren Zu's Three Gu, Hope Opens the Aperture
 ## 第五节：人祖三蛊，希望开窍
 
-His surroundings fell quiet in an instant. Countless eyes turned toward him.
+His surroundings fell quiet in an instant. Countless eyes turned towards him.
 
 “This is getting more and more interesting.” Fang Yuan smiled inwardly. Under everyone’s watchful eyes, he waded across the river and stepped onto the opposite bank.
 

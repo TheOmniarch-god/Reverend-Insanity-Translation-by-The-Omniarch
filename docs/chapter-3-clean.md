@@ -27,7 +27,7 @@ To her, Fang Yuan had a bright future and was very likely to possess Grade A apt
 
 Shen Cui pouted slightly, feeling puzzled and a little hurt by his indifference to her advances today. She wanted to say something coquettish, but an inexplicable air about Fang Yuan, barely perceptible, intimidated her. She opened her mouth several times, but in the end merely said, “Yes,” and obediently left.
 
-“Are you ready?” Fang Yuan looked toward Fang Zheng.
+“Are you ready?” Fang Yuan looked towards Fang Zheng.
 
 His younger brother stood blankly at the doorway. Lowering his head to look at his toes, he gave a quiet murmur of assent. He had actually woken during the fourth watch. Too nervous to sleep, he had slipped out of bed and prepared himself early. There were dark circles under both his eyes. Fang Yuan nodded. In his previous life, he had not understood what was on his younger brother’s mind. But in this life, how could he fail to understand? There was no point in exposing it now, however. He simply said, “Then let’s go.”
 
