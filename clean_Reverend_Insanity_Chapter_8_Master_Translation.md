@@ -8,97 +8,97 @@ As soon as lessons ended, the excited youths swarmed towards the Gu chamber.
 
 The youths went in one by one, and then came out.
 
-It was Fang Yuan's turn to enter.
+It was Fang Yuan's turn to enter the Gu chamber.
 
 Inside, he saw that there was far more to the room than met the eye. The four walls were carved into recesses, square compartments set into the walls, densely packed and crowding one after another. They varied in size, the largest no bigger than a clay pot, and the smallest no larger than a fist.
 
-Within the tightly packed compartments sat a vast array of vessels: grey stone basins, vibrant green jade dishes, delicate grass cages, and earthenware braziers.
+Within the densely packed compartments sat a vast array of vessels: grey stone basins, vibrant green jade plates, delicate grass cages, and earthenware braziers.
 
 In these vessels were kept all kinds of Gu worms.
 
-In the centre of the chamber stood a square table. Behind the table sat a middle-aged Gu Master with a goatee, as well as two attendants.
+Some Gu worms were silent, while others were noisy, emitting chirps, clucks, rustles and all manner of sounds, converging into a symphony of life.
 
-This Gu Master was clearly in charge here. The words 'Gu Yue Yao Ji' were written upon the black plaque on the table.
+"Gu worms are likewise divided into nine major ranks, corresponding to the nine ranks of Gu Masters. The Gu worms here are all Rank one." Fang Yuan swept his gaze around and understood at a glance.
 
-He sat behind the table with his eyes half-closed, seeming to rest.
+Generally, a Rank one Gu Master can only use Rank one Gu worms. Should he attempt to activate a higher-ranked Gu worm beyond his rank, he will often pay an extremely heavy price.
 
-The two attendants stood on either side of him.
+Moreover, Gu worms require feeding, and the cost of feeding higher-ranked Gu worms is often more than a lower-ranked Gu Master can bear.
 
-"Stretch out your right hand and inject primeval essence into these Gu worms. If you can induce a reaction, it proves that the Gu worm is fated to be yours. You can take it away then," the attendant on the left said.
+For novice Gu Masters, barring exceptional circumstances, they will choose a Rank one Gu worm for their first refinement.
 
-Fang Yuan followed the instructions. He had long since known the method of choosing Gu worms.
+The first Gu worm a Gu Master refines carries great significance. It is called their vital Gu, bound to their life. Should it perish, the Gu Master will inevitably suffer a devastating blow.
 
-He did not immediately walk towards the Gu worm that contained the Liquor Worm, but first tried his hand elsewhere.
+"Alas, I had hoped to obtain the Flower Wine Monk's Liquor Worm and refine it as my vital Gu. But now, the search for the Flower Wine Monk's remains still yields no clues. There is no telling when I might find it, or if someone else will discover it first. To be safe, I should still choose a Moonlight Gu."
 
 Fang Yuan sighed inwardly even as he walked straight towards the wall on his left.
 
-Here, three bamboo baskets hung from the wall. Each bamboo basket contained a Gu worm, resembling a ladybird, the size of a fingernail.
+Slightly higher up on this wall, on one of the tiers, stood a row of silver plates. Upon each plate rested a Gu worm.
 
-These were Jade Skin Gu, all Rank one Gu. Once refined, they could improve the skin all over the body, making it as moist as white jade, exuding a jade-like lustre.
+This Gu worm was crystal clear, curved like a crescent moon, resembling a piece of blue crystal. Set against the silver base, it exuded a serene and ethereal aura.
 
-This sort of Gu was naturally favoured by girls.
+Its name was Moonlight Gu, the clan's signature Gu of the Gu Yue clan. The vast majority of clansmen choose it as their vital Gu. It is not a natural Gu worm, but one cultivated through the Gu Yue clan's secret method. Found nowhere else, it can be said to be the emblem of the Gu Yue clan.
 
-Even before Fang Yuan arrived, two girls had already stood here, struggling to make a choice. They were evidently tempted by the Jade Skin Gu, but the price of such Gu was even higher than that of the Moonlight Gu.
+All were Rank one Moonlight Gu, the differences between them extremely subtle. Fang Yuan picked one at random and took it in his hand.
 
-Fang Yuan only glanced at them before moving on, his gaze passing over a myriad of Gu worms as he searched for that one.
+Moonlight Gu was very light, comparable to the weight of a thin sheet of paper. It occupied only a patch of his palm, about the size of an ordinary jade pendant. Holding it in his hand, Fang Yuan could see through it the lines of his palm hidden beneath.
 
-After a while, he stopped before a withered grass cage.
+After a final glance to confirm there was nothing amiss, Fang Yuan placed it in his pocket and left the Gu chamber.
 
-Inside the grass cage lay a Gu worm that looked like a large bee, its body covered with black and yellow stripes, and its form plump and clumsy. This was none other than the Liquor Worm.
+Outside the Gu chamber a long queue still remained. Seeing Fang Yuan come out, the next youth hurried excitedly into the Gu chamber.
 
-Compared to the surrounding Gu worms, the Liquor Worm's price was neither high nor low, at five hundred and eighty primeval stones.
+Had it been anyone else, upon obtaining a Gu worm, their first instinct would be to rush home and refine it. But Fang Yuan did not hurry to do so. His mind was still set upon that Liquor Worm.
 
-In truth, however, it was not even worth fifty-eight primeval stones.
+The Liquor Worm was more precious. Although Moonlight Gu was a speciality of Gu Yue Village, it was not as helpful to a Gu Master as the Liquor Worm.
 
-For most Gu Masters, this Gu had no great use.
+Leaving the Gu chamber, Fang Yuan went straight to the wine shop.
 
-The Liquor Worm's only function was to purify primeval essence. For a Rank one Gu Master, refining primeval essence once would consume sixty percent of their Rank one initial primeval essence. But with the help of a Liquor Worm, refining primeval essence a second time would only consume forty percent of the Rank one initial primeval essence.
+"Shopkeeper, two jars of aged wine." Fang Yuan fished in his pocket and laid his remaining fragments of primeval stones upon the counter.
 
-That was all it could do.
+In recent days, he had been coming here to buy wine, then wandering around the village outskirts in search, hoping to lure that Liquor Worm into appearing.
 
-Moreover, this effect had its limitations. Only Rank one Gu Masters could use the Liquor Worm to refine primeval essence, thereby achieving the effect of raising their aptitude. For example, a Grade C aptitude Gu Master could, with the help of a Liquor Worm, refine primeval essence of Grade B aptitude. But once a Gu Master advanced to Rank two, the Liquor Worm would be of no use whatsoever.
+The shopkeeper was a short, middle-aged fatty, his face shining with oil. After these past days, he had already come to remember Fang Yuan.
 
-Precisely because of this, the Liquor Worm's price was so low.
+"Customer, you're here." As he greeted him, he stretched out his thick, stubby hand and deftly swept away Fang Yuan's fragments of primeval stones.
 
-But in Fang Yuan's eyes, this Gu was different. It could allow a Gu Master to refine primeval essence, thereby raising their aptitude. With it, a Grade C aptitude Gu Master could possess a cultivation speed comparable to a Grade B aptitude. How much did aptitude affect a Gu Master? A Grade A aptitude Gu Master, with forty percent primeval essence already condensed in his aperture, was comparable to a Grade B aptitude Gu Master. At the same time, the primeval essence of a Grade B aptitude Gu Master was twice that of a Grade C aptitude Gu Master. That was to say, the cultivation speed of a Grade B aptitude Gu Master was twice that of a Grade C aptitude Gu Master, and the cultivation speed of a Grade A aptitude Gu Master was twice that of a Grade B aptitude Gu Master. It was also said that the cultivation speed of a Grade A aptitude Gu Master was four times that of a Grade C aptitude Gu Master.
+He tossed them in his hand, weighing them, and finding the amount not lacking, the smile on the shopkeeper's face grew a touch more cordial.
 
-What did four times the cultivation speed mean? It meant the others would need four years to achieve what a Grade A aptitude Gu Master could achieve in just one year. Even with the help of a Liquor Worm, a Grade C aptitude Gu Master could only be comparable to a Grade B aptitude Gu Master. But that was still a twofold improvement over their original cultivation speed. This was a huge difference. In the early stages of a Gu Master's growth, the first few steps were crucial, as a single step ahead could lead to being ahead at every subsequent step. It could be said that Fang Yuan had long set his sights on the Liquor Worm.
+Primeval stones are the currency of this world, used to measure the value of all commodities. At the same time, they are the condensed essence of heaven and earth, and can themselves be used to help Gu Masters better cultivate.
 
-"Shopkeeper, two jars of aged wine." Fang Yuan fished in his pocket and laid his last fragments of primeval stone on the counter.
+Possessing both monetary and commodity attributes, they are remarkably similar to gold on Earth. Earth once utilised a gold standard; in this world, it is a primeval stone standard.
 
-The shopkeeper took them and weighed them. "Sixteen primeval stones, young man. The price of the wine has risen again."
+Compared to gold, therefore, the purchasing power of primeval stones is also quite astonishing.
 
-"Hmm?" Fang Yuan raised his brows, but did not haggle. He left the Gu chamber, carrying the two jars of wine towards the wine shop.
+However, no amount of primeval stones could withstand Fang Yuan's continuous consumption like this.
 
-With two jars of wine in hand, he returned to the Gu chamber and once again stood before that grass cage.
+"Two jars of wine every day, for seven days straight. The primeval stones I had saved up are almost all spent." Carrying two jars of wine out of the shop, Fang Yuan's brows furrowed slightly.
 
-Under the astonished gaze of the attendant, Fang Yuan poured the two jars of aged wine into the grass cage.
+Once one becomes a Gu Master, one can directly extract pure primeval essence from primeval stones to replenish the primeval sea within one's aperture.
 
-The wine splashed and flowed, soaking the withered grass cage and dripping down through the gaps.
+Therefore, for Gu Masters, primeval stones are not only currency, but also an aid to cultivation.
 
-The Liquor Worm, which had been lying motionless, suddenly stirred. It flapped its wings and flew up, hovering in the air, its nose twitching as it sniffed the aroma of the wine.
+With sufficient primeval stones, the speed of cultivation can be increased considerably, which can more or less make up for some shortcomings in aptitude.
 
-Fang Yuan chuckled and extended his right hand.
+"Tomorrow I will have no primeval stones left to buy wine, yet the Liquor Worm still refuses to appear. Must I really refine the Moonlight Gu as my vital Gu?" Fang Yuan felt somewhat unwilling in his heart.
 
-The Liquor Worm immediately flew over and landed in his palm.
+Leaving the wine shop, Fang Yuan carried two jars of wine in his hands, pondering as he walked: "The academy elder said that the first person to refine a vital Gu in this assessment will be rewarded with twenty primeval stones. Now I fear many are at home straining with all their might to refine their Gu worms, competing for first place. Alas, refining a vital Gu is a great test of aptitude. Those with good aptitude have a huge advantage. With my Grade C aptitude and no other means, I have no hope of winning at all."
 
-At the same time, Fang Yuan felt a slight chill in his palm, and a white light suddenly shone forth, enveloping the Liquor Worm.
+Just then, Gu Yue Fang Zheng's voice sounded from behind: "Brother, you really have come to the wine shop to get drunk again! Come with me, uncle and aunt want to see you."
 
-The white light lasted for a few breaths before dissipating.
+Fang Yuan stopped and looked back.
 
-The Liquor Worm had been refined.
+He found his younger brother no longer spoke with his head lowered as before.
 
-Fang Yuan put the Liquor Worm into his pocket and left the Gu chamber.
+The brothers' eyes met.
 
-The attendant stared after him, his mouth agape, unable to close it for a long time.
+A gust of wind whistled past, ruffling the elder brother's dishevelled black hair and fluttering the younger brother's robes.
 
-Outside the Gu chamber, the youths were still gathered, chattering excitedly about the Gu worms they had obtained.
+In just a short month, things had remained, but people had changed.
 
-Fang Yuan paid them no heed and walked straight home.
+The Aperture Opening Ceremony a week ago had been a huge change, both for elder brother and younger brother.
 
-Since that day when Fang Yuan's aptitude had plummeted to Grade C, the gazes of those around him had changed. The praise and attention he had once enjoyed vanished overnight. Even his uncle and aunt, who had once doted on him, now treated him coldly. The servants in the household no longer fawned over him, and even his younger brother, Gu Yue Fang Zheng, who had once looked up to him, now avoided him. All of this made Fang Yuan feel as though he had fallen from the clouds into the abyss. Yet he did not care. He had long since grown accustomed to such things. In his previous life, he had experienced far worse. What did such trivial matters amount to?
+Elder brother Fang Yuan had fallen from the clouds, his halo of genius mercilessly stripped away. Younger brother, by contrast, had begun to shine, like a new star slowly rising.
 
-But for Gu Yue Fang Zheng, this matter bore earth-shattering significance.
+For younger brother Gu Yue Fang Zheng, this change carried an earth-shattering significance all the more.
 
 The clan's high hopes, which had once been entrusted to his elder brother, now fell entirely upon his shoulders. He became the focus of the clan, drawing the gazes of envy and jealousy from all around.
 
@@ -107,8 +107,6 @@ The clan's high hopes, which had once been entrusted to his elder brother, now f
 Each day upon waking, he felt as though he were living a beautiful dream. The vastly different treatment still left him somewhat incredulous and, at the same time, profoundly ill at ease.
 
 Unaccustomed to being the centre of attention, he was at a loss as to how to handle it.
-
-In the past, he had been a youth of utter obscurity, never pointed at and whispered about wherever he went. Now, as he walked along the road and heard the discussions of others, he would feel his face flush, his hands and feet at a loss, evading their gazes.
 
 In the past, he had been a youth of utter obscurity, never pointed at and whispered about wherever he went. Now, as he walked along the road and heard the discussions of others, he would feel his face flush, his hands and feet at a loss, evading their gazes.
 
