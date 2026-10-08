@@ -52,7 +52,7 @@ Leaving the Gu chamber, Fang Yuan went directly to the wine shop.
 
 For the past few days, he would come here to buy wine, then wander the outskirts of the village, searching for a way to lure that Liquor Worm into the open.
 
-The shopkeeper was a short, fat, middle-aged man, his face greasy and shining with oil, who by now had grown familiar with Fang Yuan.
+The shopkeeper was a short, fat, middle-aged man, his face shining with oil. After these past days, he had already come to remember Fang Yuan.
 
 "Honoured customer, you're here." As he spoke, he stretched out his stubby, fat hand and deftly swept away Fang Yuan's primeval stone fragments.
 
