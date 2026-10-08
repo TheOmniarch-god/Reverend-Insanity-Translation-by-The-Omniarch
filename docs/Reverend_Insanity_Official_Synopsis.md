@@ -5,7 +5,7 @@
 > *Humans are the spirit of all living things; Gu are the true essence of heaven and earth.*
 
 > **三观不正，魔头重生。**  
-> *Warped values. A demon lord reborn.*
+> *Three views warped, the demon lord is reborn.*
 
 > **昔日旧梦，同名新作。**  
 > *An old dream of yesteryear, a new work bearing the same name.*
