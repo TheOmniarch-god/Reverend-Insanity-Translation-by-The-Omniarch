@@ -34,7 +34,7 @@ Once a Gu Master, a person can directly extract pure primeval essence from prime
 
 "Tomorrow, I will lack the primeval stones to purchase wine, yet the Liquor Worm has still failed to show itself. Must I truly refine the Moonlight Gu into my vital Gu?" Fang Yuan felt a pang of reluctance.
 
-Leaving the wine shop with two jars of wine in hand, Fang Yuan pondered as he walked: "The academy elder stated that the first to refine their vital Gu in this assessment would be rewarded with twenty primeval stones. Presently, many are likely exerting every ounce of effort at home, refining their Gu worms to vie for first place. Alas, refining a vital Gu severely tests one's aptitude. Those blessed with superior talent possess an immense advantage. Given my C-grade aptitude, lacking alternative means, I fundamentally have no hope of victory."
+Leaving the wine shop with two jars of wine in hand, Fang Yuan pondered as he walked: "The academy elder stated that the first to refine their vital Gu in this assessment would be rewarded with twenty primeval stones. Presently, many are likely exerting every ounce of effort at home, refining their Gu worms to vie for first place. Alas, refining a vital Gu severely tests one's aptitude. Those blessed with superior talent possess an immense advantage. Given my Grade C aptitude, lacking alternative means, I fundamentally have no hope of victory."
 
 Just then, Gu Yue Fang Zheng's voice resonated from behind him: "Brother, you have truly returned to the wine shop to indulge in wine once more! Come with me; our uncle and aunt wish to see you."
 
