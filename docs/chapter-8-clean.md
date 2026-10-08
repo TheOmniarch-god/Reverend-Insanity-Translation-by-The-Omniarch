@@ -6,7 +6,7 @@ Inside, he saw that there was far more to the room than met the eye. The four wa
 
 Some Gu worms were quiescent and mute, while others were clamorous, emanating a din of chirps, clucks, and rustles that coalesced into a symphony of life.
 
-"Gu worms are likewise divided into nine major ranks, corresponding to the nine ranks of Gu Masters. The Gu worms here are all Rank I." Fang Yuan surveyed the chamber, comprehending at a single glance. Generally, a Rank I Gu Master can only use Rank I Gu worms. Should they attempt to activate a higher-ranked Gu worm exceeding their current rank, they will invariably incur a devastating toll.
+"Gu worms are likewise divided into nine ranks, corresponding to the nine major realms of Gu Masters. The Gu worms here are all Rank I." Fang Yuan surveyed the chamber, comprehending at a single glance. Generally, a Rank I Gu Master can only use Rank I Gu worms. Should they attempt to activate a higher-ranked Gu worm exceeding their current rank, they will invariably incur a devastating toll.
 
 Moreover, Gu worms require constant sustenance; the toll of nurturing a superior Gu worm is frequently far more than an inferior Gu Master can bear. The very first Gu worm a Gu Master refines carries great significance; known as their vital Gu, it is inextricably bound to their life force. Should it perish, the Gu Master will inevitably suffer devastating damage.
 

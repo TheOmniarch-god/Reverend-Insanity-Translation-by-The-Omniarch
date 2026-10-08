@@ -720,7 +720,7 @@ In these vessels were kept all kinds of Gu worms.
 
 Some Gu worms were silent, while others were noisy, emitting chirps, clucks, rustles and all manner of sounds, converging into a symphony of life.
 
-"Gu worms are likewise divided into nine major ranks, corresponding to the nine ranks of Gu Masters. The Gu worms here are all Rank one." Fang Yuan swept his gaze around and understood at a glance.
+"Gu worms are likewise divided into nine ranks, corresponding to the nine major realms of Gu Masters. The Gu worms here are all Rank one." Fang Yuan swept his gaze around and understood at a glance.
 
 Generally, a Rank one Gu Master can only use Rank one Gu worms. Should he attempt to activate a higher-ranked Gu worm beyond his rank, he will often pay an extremely heavy price.
 
