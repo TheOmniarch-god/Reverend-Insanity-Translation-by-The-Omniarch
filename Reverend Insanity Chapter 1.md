@@ -36,7 +36,7 @@ Countless memories buried deep within the bedrock of his soul awakened, playing 
 
 This outcome was nothing he had not foreseen; the moment he made his choice centuries ago, he was already mentally prepared. For what was the Demonic Path? It was to accumulate no good karma, only murder and arson; spurned by heaven and reviled by earth, making enemies with the whole world, and still running wild, following the whim of one's own heart to the very end.
 
-“If this newly refined Spring Autumn Cicada takes effect, I will still be a demon in my next life!”
+“Should this Spring Autumn Cicada I have just refined prove effective, I shall yet remain a demon in the life to come!
 
 Thinking like this, Fang Yuan could not help laughing out loud.
 
