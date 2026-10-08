@@ -32,7 +32,7 @@ Primeval stones are the currency of this world, used to measure the value of all
 
 Once a Gu Master, a person can directly extract pure primeval essence from primeval stones to replenish the primeval sea within their aperture. Therefore for Gu Masters, primeval stones are not only a currency, but also an aid in cultivation. With sufficient primeval stones, cultivation speed can increase significantly; this can more or less compensate for shortcomings in aptitude.
 
-"Tomorrow, I will lack the primeval stones to purchase wine, yet the Liquor Worm has still failed to manifest. Must I truly refine the Moonlight Gu into my vital Gu?" Fang Yuan felt a pang of reluctance.
+"Tomorrow, I will lack the primeval stones to purchase wine, yet the Liquor Worm has still failed to show itself. Must I truly refine the Moonlight Gu into my vital Gu?" Fang Yuan felt a pang of reluctance.
 
 Leaving the wine shop with two jars of wine in hand, Fang Yuan pondered as he walked: "The academy elder stated that the first to refine their vital Gu in this assessment would be rewarded with twenty primeval stones. Presently, many are likely exerting every ounce of effort at home, refining their Gu worms to vie for first place. Alas, refining a vital Gu severely tests one's aptitude. Those blessed with superior talent possess an immense advantage. Given my C-grade aptitude, lacking alternative means, I fundamentally have no hope of victory."
 
