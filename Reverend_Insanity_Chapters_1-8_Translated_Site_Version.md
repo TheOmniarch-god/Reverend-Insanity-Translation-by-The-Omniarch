@@ -740,7 +740,7 @@ This Gu worm was crystal clear, curved like a crescent moon, resembling a piece 
 
 Its name was Moonlight Gu, the clan's signature Gu of the Gu Yue clan. The vast majority of clansmen choose it as their vital Gu. It is not a natural Gu worm, but one cultivated through the Gu Yue clan's secret method. Found nowhere else, it can be said to be the emblem of the Gu Yue clan.
 
-All were Rank one Moonlight Gu, the differences between them extremely subtle. Fang Yuan picked one at random and took it in his hand.
+All were Rank I Moonlight Gu, the differences between them extremely subtle. Fang Yuan picked one at random and took it in his hand.
 
 Moonlight Gu was very light, comparable to the weight of a thin sheet of paper. It occupied only a patch of his palm, about the size of an ordinary jade pendant. Holding it in his hand, Fang Yuan could see through it the lines of his palm hidden beneath.
 
@@ -868,7 +868,7 @@ Seeing his brother already walking away, he could only hasten after him.
 
 Only this time, his head was no longer lowered. It was raised, facing the sunset.
 
-His gaze was fixed upon his own feet, which trod step by step upon his brother Fang Yuan's shadow.
+His gaze was fixed upon his own feet, which trod step by step upon the shadow of his brother Fang Yuan.
 
 ---
 

@@ -12,7 +12,7 @@ Moreover, Gu worms require constant sustenance; the cost of nurturing a superior
 
 Fang Yuan sighed inwardly even as he walked straight towards the wall on his left. Slightly higher up on the wall, on one of the levels, stood a row of silver plates. Upon each plate rested a Gu worm. This Gu worm was crystal clear and curved like a crescent moon, resembling a piece of blue crystal. Set against the silver base, it revealed a wisp of clear and ethereal aura.
 
-Its name was Moonlight Gu, the Gu Yue clan's signature Gu. The vast majority of clansmen choose it as their vital Gu. It is not a natural Gu worm, but one cultivated through the Gu Yue clan's secret method. Found nowhere else, it can be said to be the emblem of the Gu Yue clan. All were Rank one Moonlight Gu; the differences between them were extremely subtle. Fang Yuan picked one at random and took it in his hand.
+Its name was Moonlight Gu, the Gu Yue clan's signature Gu. The vast majority of clansmen choose it as their vital Gu. It is not a natural Gu worm, but one cultivated through the Gu Yue clan's secret method. Found nowhere else, it can be said to be the emblem of the Gu Yue clan. All were Rank I Moonlight Gu; the differences between them were extremely subtle. Fang Yuan picked one at random and took it in his hand.
 
 The Moonlight Gu was very light, no heavier than a thin sheet of paper. Occupying only a small patch of his palm, it was the size of an ordinary jade pendant. Holding it in his hand, Fang Yuan could look right through it to see the obscured lines of his palm. After a final glance confirming nothing was amiss, Fang Yuan slipped it into his pocket and left the Gu chamber.
 
@@ -82,4 +82,4 @@ With this thought, his gaze sharpened again and swept back. But Fang Yuan was no
 
 Fang Zheng's breathing faltered. The breath he had built up in his chest now had nowhere to go, leaving him with an inexpressible frustration. Seeing his brother already walking away, he could only hasten after him.
 
-Only this time, his head was no longer lowered. It was raised, facing the sunset. His gaze was fixed upon his own feet, which trod step by step upon his brother Fang Yuan's shadow.
+Only this time, his head was no longer lowered. It was raised, facing the sunset. His gaze was fixed upon his own feet, which trod step by step upon the shadow of his brother Fang Yuan.
