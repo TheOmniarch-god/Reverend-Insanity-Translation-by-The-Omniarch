@@ -804,7 +804,7 @@ For younger brother Gu Yue Fang Zheng, this change carried an earth-shattering s
 
 The clan's high hopes, which had once been entrusted to his elder brother, now fell entirely upon his shoulders. He became the focus of the clan, drawing the gazes of envy and jealousy from all around.
 
-……
+* * *
 
 Each day upon waking, he felt as though he were living a beautiful dream. The vastly different treatment still left him somewhat incredulous and, at the same time, profoundly ill at ease.
 
