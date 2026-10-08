@@ -4,9 +4,9 @@
 
 “Old Demon Fang, harbour no delusions of defiance! Today, the revered sects of the Righteous Path have united for one purpose: to trample your demonic lair into dust. We have long since laid an inescapable dragnet here. This time, you shall be beheaded!”
 
-“Fang Yuan, you damned devil! To refine that cursed Spring Autumn Cicada, you slaughtered tens of millions of innocents! You have committed towering atrocities, unpardonable and beyond all count!”
+“Fang Yuan, you damned devil! To refine that cursed Spring Autumn Cicada, you slaughtered ten million of innocents! You have committed towering atrocities, unpardonable and beyond all count!”
 
-“Monster! Three hundred years ago, you violated me and robbed me of my chastity. You killed my entire family and slaughtered all my kin. From that moment on, I’ve wanted nothing more than to devour your flesh and drink your blood! Today, I’ll make you wish you were dead!”
+“Demon! Three hundred years ago, you violated me and robbed me of my chastity. You killed my entire family and slaughtered all my kin. From that moment on, I’ve wanted nothing more than to devour your flesh and drink your blood! Today, I’ll make you wish you were dead!”
 
 * * *
 
