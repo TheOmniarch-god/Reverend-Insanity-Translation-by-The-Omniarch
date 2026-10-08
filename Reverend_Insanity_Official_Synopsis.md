@@ -44,3 +44,4 @@ A peerless demonic overlord who acts as he pleases and roams the world unfettere
 > 一个养蛊、炼蛊、用蛊的奇特世界。  
 > 春秋蝉、月光蛊、酒虫、一气金光虫、青丝蛊、希望蛊……  
 > 还有一个纵情纵横的绝世大魔头！
+<!-- rebuild Thu Oct  8 08:37:05 UTC 2026 -->
