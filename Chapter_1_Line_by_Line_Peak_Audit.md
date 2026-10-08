@@ -22,20 +22,21 @@
 **Analysis:** Excellent. 天罗地网 = inescapable dragnet (idiomatic, not literal heaven earth net). 身首异处 = beheaded (not severed asunder). Harbour is British. Keep.
 **Proposed Peak:** Keep live. This is our approved dragnet wording. Note: We once used heaven and earth net, now dragnet is idiomatic and right.
 
-### P3 — Cost of Refinement — Ten Million vs Tens of Millions
+### P3 — Cost of Refinement — Ten Million Locked
 **Chinese:** “方源你个该死的魔头，你为了练成春秋蝉，杀了千万人的性命。你已经犯下了滔天的罪孽，罪无可恕，罄竹难书！”
 **Literal:** Fang Yuan you damned demon, for refining Spring Autumn Cicada, killed ten million people's lives. You committed towering sin, unpardonable, cannot be fully recorded even if bamboo used as paper
-**Current Live:** “Fang Yuan, you damned devil! To refine that cursed Spring Autumn Cicada, you slaughtered tens of millions of innocents! You have committed towering atrocities, unpardonable and beyond all count!”
-**Analysis:** Chinese says 千万人 = ten million people. Not thousands. Live says tens of millions. Both convey vastness. Ten million is literal, tens of millions is literary amplification. For peak literary, ten million is more precise and matches Chinese number, but tens of millions is also acceptable for dramatic weight. Your note: when he came back as 15 year old he said price was a thousand lives? That is confusion with village size (several thousand households). The cost for SAC is ten million, village is several thousand households. Different scales, different times. One is future sin, one is present village.
-**Proposed Peak:** Keep tens of millions for dramatic weight, or change to ten million for literal accuracy. I recommend **ten million** for accuracy to Chinese, but keep tens of millions if you want weight. Let's lock as **ten million** to respect Chinese: "you slaughtered ten million innocents!" — then note in discovery article that some translations say tens of millions. For now keep live as is, but flag for decision. No grammar issue.
-**Decision:** Keep live for now (tens of millions), but add translator note: Chinese literally ten million.
+**Current Live (OLD):** “Fang Yuan, you damned devil! To refine that cursed Spring Autumn Cicada, you slaughtered tens of millions of innocents! You have committed towering atrocities, unpardonable and beyond all count!”
+**Current Live (NEW - 9eeb1a8):** “Fang Yuan, you damned devil! To refine that cursed Spring Autumn Cicada, you slaughtered ten million innocents! You have committed towering atrocities, unpardonable and beyond all count!”
+**Analysis:** Chinese says 千万人 = ten million people. Not thousands. The thousands you remembered is village size: several thousand households in Gu Yue Village (present), vs ten million slaughtered as Demon Lord (future). Different scales, different times. One is present intimate, one is future vast and terrible. User locked to literal accuracy: ten million, not tens of millions. Tens of millions was dramatic weight for speech, but ten million is literal and still terrifying. Good call for accuracy.
+**Proposed Peak:** Locked as ten million per user decision 9eeb1a8. Perfect literal accuracy. Keep as new live.
 
-### P4 — Chastity and Kin
+### P4 — Chastity and Kin — Demon! Locked
 **Chinese:** “魔头，三百年前你侮辱了我，夺走了我的清白之身，杀光我全家，诛了我的九族。从那刻起，我恨不得吃你肉，喝你的血！今天，我要让你生不如死！！”
-**Literal:** Demon, 300 years ago you humiliated me, took my pure body, killed my whole family, executed my nine clans. From that moment I want to eat your flesh drink your blood, today make you wish dead is better
-**Current Live:** “Monster! Three hundred years ago, you violated me and robbed me of my chastity. You killed my entire family and slaughtered all my kin. From that moment on, I’ve wanted nothing more than to devour your flesh and drink your blood! Today, I’ll make you wish you were dead!”
-**Analysis:** Perfect. 九族 = nine clans / all my kin (ancient Chinese punishment of nine familial exterminations). Slaughtered all my kin is right, not nine generations. Chastity kept. Devour flesh and drink blood is vivid. Keep.
-**Proposed Peak:** Keep live. No change.
+**Literal:** Demon, 300 years ago you humiliated me, took my pure body, killed my whole family, executed my nine clans. From that moment I want to eat your flesh drink your blood, today make you wish dead is better. 魔头 literally means demon head, archfiend, demon chief.
+**Current Live (OLD):** “Monster! Three hundred years ago, you violated me and robbed me of my chastity. You killed my entire family and slaughtered all my kin. From that moment on, I've wanted nothing more than to devour your flesh and drink your blood! Today, I'll make you wish you were dead!”
+**Current Live (NEW - 9eeb1a8):** “Demon! Three hundred years ago, you violated me and robbed me of my chastity. You killed my entire family and slaughtered all my kin. From that moment on, I've wanted nothing more than to devour your flesh and drink your blood! Today, I'll make you wish you were dead!”
+**Analysis:** Monster was visceral, personal trauma voice for victim. Demon is literal to 魔头 and fire, as you said Demon is quite fire and better. Both valid, but Demon is literal and still powerful. We had varied voices: Old Demon Fang (P2), damned devil (P3), Demon (P4) — still varied, all literal to 魔头 family. 九族 = nine clans / all my kin (ancient punishment of nine familial exterminations). Slaughtered all my kin is right, not nine generations. Chastity kept. Devour flesh and drink blood vivid. User locked Demon!
+**Proposed Peak:** Locked as Demon! per user decision 9eeb1a8. Perfect literal + fire. Keep as new live.
 
 ### P5 — Scene Break
 **Chinese:** ……
@@ -198,18 +199,24 @@ Based on side-by-side audit, Chapter 1 live (docs/chapter-1.html) is already ver
 
 All other paras are perfect and should be kept as live master.
 
-**Recommendation for video progress:** Yes, update Chapters 1-7 to Ch8 standard before video. Ch1 already 99% there, only P23 tweak. Ch2-7 need similar light pass for consistency (especially Grade C, making enemies of, Huaxia, wandering and struggle).
+**Updates Locked in this audit (6d1ae35 + 9eeb1a8):**
+- P3: tens of millions -> ten million — Chinese 千万人 literally ten million, user locked literal accuracy over dramatic weight
+- P4: Monster! -> Demon! — Chinese 魔头 literally demon, user says Demon! is fire and literal, better
+- P23: not ten thousand households -> numbering not ten thousand households — fixes awkward sentence start for TTS, matches Ch8 standard
+
+**Recommendation for video progress:** Yes, update Chapters 1-7 to Ch8 standard before video. Ch1 now 100% at Ch8 peak after P3/P4/P23 fixes. Ch2-7 need similar light pass for consistency (especially Grade C, making enemies of, Huaxia, wandering and struggle).
 
 **Chinese original confirms:**
-- 千万人 = ten million (live says tens of millions, acceptable but literal is ten million)
-- 华夏学子 = Huaxia student (live correct)
-- 辗转颠簸三百年 = wandering and struggle (live correct, not drifting)
-- 若是刚炼成的春秋蝉有效 = If newly refined Spring Autumn Cicada works / had an effect (live uses had an effect for 15yo wonder, correct)
-- 天地不容，举世皆敌 = spurned by heaven and reviled by earth, making enemies of whole world (live correct)
-- 开窍大典 = Aperture Opening Ceremony (Kai Qiao = open aperture, not awakening)
+- 千万人 = ten million — now live says ten million (literal accuracy locked 9eeb1a8)
+- 华夏学子 = Huaxia student — live correct
+- 辗转颠簸三百年 = wandering and struggle — live correct, not drifting tossed like flotsam
+- 若是刚炼成的春秋蝉有效 = If newly refined Spring Autumn Cicada works / had an effect — live uses had an effect for 15yo wonder, correct
+- 天地不容，举世皆敌 = spurned by heaven and reviled by earth, making enemies of whole world — live correct
+- 开窍大典 = Aperture Opening Ceremony — Kai Qiao = open aperture physical space, not awakening Jue Xing consciousness
+- 魔头 = Demon! — now live says Demon! literal and fire
 
-**All rules respected:** British towards, harbour, honourably, no em dashes, Tolkien narration + natural earnest dialogue, upon/on distinction, lowered not bowed, etc.
+**All rules respected:** British towards, harbour, honourably, no em dashes, Tolkien narration + natural earnest dialogue, upon/on distinction, lowered not bowed, TTS friendly no equals signs, etc.
 
 ---
 
-*End of Chapter 1 Audit — Every line from first to last checked against Chinese original and live master. Only P23 needs update. Ready to push.*
+*End of Chapter 1 Audit V2 — Every line from first to last checked against Chinese original and live master. P3, P4, P23 updated and live verified. Ready for video. Next: Chapter 2 audit.*
