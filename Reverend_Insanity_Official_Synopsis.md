@@ -5,7 +5,7 @@
 > *Humans are the spirit of all living things; Gu are the true essence of heaven and earth.*
 
 > **三观不正，魔头重生。**  
-> *Three views warped, the demon lord is reborn.*
+> *Three views warped; the demon lord is reborn.*
 
 > **昔日旧梦，同名新作。**  
 > *An old dream of yesteryear, a new work bearing the same name.*
@@ -44,4 +44,3 @@ A peerless demonic overlord who acts as he pleases and roams the world unfettere
 > 一个养蛊、炼蛊、用蛊的奇特世界。  
 > 春秋蝉、月光蛊、酒虫、一气金光虫、青丝蛊、希望蛊……  
 > 还有一个纵情纵横的绝世大魔头！
-<!-- rebuild Thu Oct  8 08:37:05 UTC 2026 -->
