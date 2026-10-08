@@ -59,7 +59,7 @@ It is Rank Seven, and it is one of the Ten Great Mystical Gu. In a world where m
 
 Its ability is to reverse time. Not to travel to the future, but to send the will back.
 
-Its cost is ten million of lives. The text says Fang Yuan slaughtered ten million of innocents to refine it. That number is important to keep separate from the village description later. When Fang Yuan is fifteen again, the text says Gu Yue Village has not ten thousand households, but several thousand nonetheless. That is the size of a mountain village. Tens of millions is the scale of his sin as a Demon Lord five hundred years later. One is present, small and intimate. The other is future, vast and terrible.
+Its cost is tens of millions of lives. The text says Fang Yuan slaughtered tens of millions of innocents to refine it. That number is important to keep separate from the village description later. When Fang Yuan is fifteen again, the text says Gu Yue Village has not ten thousand households, but several thousand nonetheless. That is the size of a mountain village. Tens of millions is the scale of his sin as a Demon Lord five hundred years later. One is present, small and intimate. The other is future, vast and terrible.
 
 Why is it called Spring Autumn Cicada? Spring and Autumn refers to the Spring and Autumn Annals, the ancient chronicle where Chinese history was first recorded as moral history. A cicada is an insect that lives a short life, from spring to autumn, yet in Chinese culture it symbolizes rebirth because it sheds its skin. A Gu named after a short lived insect that spans the seasons and hears history being recorded, and can reverse history itself, is pure Gu Zhen Ren naming. The Gu is its philosophy.
 
