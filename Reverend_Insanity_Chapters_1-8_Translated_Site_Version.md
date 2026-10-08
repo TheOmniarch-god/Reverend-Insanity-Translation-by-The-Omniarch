@@ -830,7 +830,7 @@ At first, he was utterly shocked: his own brother, a being of such power and gen
 
 Yet gradually, he began to understand somewhat. Elder brother, too, was but an ordinary man; faced with such setbacks and blows, dejection was inevitable.
 
-With this understanding came a faint, indescribable thrill of pleasure for Fang Zheng.
+With this understanding came a faint, indescribable thrill of pleasure within Fang Zheng.
 
 It was a pleasure he dearly wished to deny, yet it undeniably existed.
 

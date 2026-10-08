@@ -60,7 +60,7 @@ At times in the academy, a single exclamation from a girl could send him blushin
 
 In this process, he inevitably heard rumours about his brother: dejected and dissolute, turned to drink, absent from home at night, sleeping heavily in the academy. At first, he was utterly shocked: his own brother, a being of such power and genius, had come to this?!
 
-Yet gradually, he began to understand somewhat. Elder brother, too, was but an ordinary man; faced with such setbacks and blows, dejection was inevitable. With this understanding came a faint, indescribable thrill of pleasure for Fang Zheng. It was a pleasure he dearly wished to deny, yet it undeniably existed.
+Yet gradually, he began to understand somewhat. Elder brother, too, was but an ordinary man; faced with such setbacks and blows, dejection was inevitable. With this understanding came a faint, indescribable thrill of pleasure within Fang Zheng. It was a pleasure he dearly wished to deny, yet it undeniably existed.
 
 His elder brother, once lauded as a genius who had loomed over him like a shadow, now seemed so downfallen and dejected. Seen from the other side, did this not all the more attest to his own growth?
 
