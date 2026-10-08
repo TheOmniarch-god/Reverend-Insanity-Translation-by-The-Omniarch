@@ -96,11 +96,13 @@
 **Analysis:** Live already says making enemies of the whole world, which is correct formal literary per Google. Earlier draft had making enemies with which is informal. Live is fixed. Spurned by heaven and reviled by earth is elevated. Accumulate no good karma, only murder and arson is natural. Following whim of one's own heart to very end is perfect. Keep.
 **Proposed Peak:** Keep live. This is peak.
 
-### P16 — Next Life Demon Vow
+### P16 — Next Life Demon Vow — Effect Noun Locked a514cfb
 **Chinese:** “若是刚炼成的春秋蝉有效，来生还是要做邪魔！”
-**Current Live:** “If this newly refined Spring Autumn Cicada works, I will still be a demon in my next life!”
-**Analysis:** 有效 = works, had an effect. Live uses works which is good. Could also be proves effective. Works is natural for speech. Keep.
-**Proposed Peak:** Keep.
+**Literal:** If newly refined Spring Autumn Cicada effective, next life still want to be evil demon
+**Current Live (OLD):** “If this newly refined Spring Autumn Cicada works, I will still be a demon in my next life!”
+**Current Live (NEW - a514cfb):** “If this newly refined Spring Autumn Cicada takes effect, I will still be a demon in my next life!”
+**Analysis:** Chinese 有效 = effective, takes effect, has effect, works. 有效 as adjective = effective, as verb phrase = takes effect / has an effect. User requested P16 should be effect noun to link with P50 had an effect. Works is natural but uses different root. Takes effect uses effect noun and links future vow (P16 takes effect) with past realization (P50 had an effect). Both share effect root, showing Gu's effect spanning 500 years. Peak literary: takes effect is slightly more formal than works, fits demon vow.
+**Proposed Peak:** Locked as takes effect per user request a514cfb. Perfect effect noun link.
 
 ### P17-P21 — Laughter and Self-Detonation
 **Chinese:** 这般想着，方源情不自禁放声大笑。“老魔，你笑什么？”“大家小心，魔头死到临头要反扑了！”“快快交出春秋蝉！！”群雄逼迫而来，恰在这时，轰的一声，方源悍然自爆。
