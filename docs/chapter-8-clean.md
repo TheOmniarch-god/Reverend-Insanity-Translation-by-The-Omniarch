@@ -8,7 +8,7 @@ Some Gu worms were quiescent and mute, while others were clamorous, emanating a 
 
 "Gu worms are likewise divided into nine ranks, corresponding to the nine major realms of Gu Masters. The Gu worms here are all Rank I." Fang Yuan surveyed the chamber, comprehending at a single glance. Generally, a Rank I Gu Master can only use Rank I Gu worms. Should they attempt to activate a higher-ranked Gu worm exceeding their current rank, they will invariably incur a devastating toll.
 
-Moreover, Gu worms require constant sustenance; the toll of nurturing a superior Gu worm is frequently far more than an inferior Gu Master can bear. The very first Gu worm a Gu Master refines carries great significance; known as their vital Gu, it is inextricably bound to their life force. Should it perish, the Gu Master will inevitably suffer devastating damage.
+Moreover, Gu worms require constant sustenance; the cost of nurturing a superior Gu worm is frequently far more than an inferior Gu Master can bear. The very first Gu worm a Gu Master refines carries great significance; known as their vital Gu, it is inextricably bound to their life force. Should it perish, the Gu Master will inevitably suffer grievous damage.
 
 Fang Yuan sighed inwardly even as he walked straight towards the wall on his left. Slightly higher up on the wall, on one of the levels, stood a row of silver plates. Upon each plate rested a Gu worm. This Gu worm was crystal clear and curved like a crescent moon, resembling a piece of blue crystal. Set against the silver base, it revealed a wisp of clear and ethereal aura.
 
