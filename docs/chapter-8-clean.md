@@ -1,4 +1,4 @@
-Beside the academy stood a Gu chamber. The chamber was not large, only sixty square metres.
+Beside the academy stood a Gu chamber, not large, only sixty square metres in size.
 
 In the cultivation of a Gu Master, Gu worms are the ultimate key to strength.
 
@@ -8,93 +8,93 @@ As soon as lessons ended, the excited youths swarmed towards the Gu chamber.
 
 The youths went in one by one, and then came out.
 
-It was Fang Yuan's turn to enter the Gu chamber.
+It was Fang Yuan's turn to enter.
 
 Inside, he saw that there was far more to the room than met the eye. The four walls were carved into recesses, square compartments set into the walls, densely packed and crowding one after another. They varied in size, the largest no bigger than a clay pot, and the smallest no larger than a fist.
 
-Within the densely packed compartments sat a vast array of vessels: grey stone basins, vibrant green jade plates, delicate grass cages, and earthenware braziers.
+Within the tightly packed compartments sat a vast array of vessels: grey stone basins, vibrant green jade plates, delicate grass cages, and earthenware braziers.
 
 In these vessels were kept all kinds of Gu worms.
 
-Some Gu worms were silent, while others were noisy, emitting chirps, clucks, rustles and all manner of sounds, converging into a symphony of life.
+Some Gu worms were quiescent and mute, while others were clamorous, emanating a din of chirps, clucks, and rustles that coalesced into a symphony of life.
 
-"Gu worms are likewise divided into nine major ranks, corresponding to the nine ranks of Gu Masters. The Gu worms here are all Rank one." Fang Yuan swept his gaze around and understood at a glance.
+"Gu worms are likewise divided into nine major ranks, corresponding to the nine ranks of Gu Masters. The Gu worms here are all Rank I." Fang Yuan surveyed the chamber, comprehending at a single glance.
 
-Generally, a Rank one Gu Master can only use Rank one Gu worms. Should he attempt to activate a higher-ranked Gu worm beyond his rank, he will often pay an extremely heavy price.
+Generally, a Rank I Gu Master can only use Rank I Gu worms. Should they attempt to activate a higher-ranked Gu worm exceeding their current rank, they will invariably incur a devastating toll.
 
-Moreover, Gu worms require feeding, and the cost of feeding higher-ranked Gu worms is often more than a lower-ranked Gu Master can bear.
+Moreover, Gu worms require constant sustenance; the toll of nurturing a superior Gu worm is frequently far more than an inferior Gu Master can bear.
 
-For novice Gu Masters, barring exceptional circumstances, they will choose a Rank one Gu worm for their first refinement.
-
-The first Gu worm a Gu Master refines carries great significance. It is called their vital Gu, bound to their life. Should it perish, the Gu Master will inevitably suffer a devastating blow.
-
-"Alas, I had hoped to obtain the Flower Wine Monk's Liquor Worm and refine it as my vital Gu. But now, the search for the Flower Wine Monk's remains still yields no clues. There is no telling when I might find it, or if someone else will discover it first. To be safe, I should still choose a Moonlight Gu."
+The very first Gu worm a Gu Master refines carries great significance; known as their vital Gu, it is inextricably bound to their life force. Should it perish, the Gu Master will inevitably suffer devastating damage.
 
 Fang Yuan sighed inwardly even as he walked straight towards the wall on his left.
 
 Slightly higher up on the wall, on one of the levels, stood a row of silver plates. Upon each plate rested a Gu worm.
 
-This Gu worm was crystal clear, curved like a crescent moon, resembling a piece of blue crystal. Set against the silver base, it exuded a serene and ethereal aura.
+This Gu worm was crystal clear and curved like a crescent moon, resembling a piece of blue crystal. Set against the silver base, it revealed a wisp of clear and ethereal aura.
 
-Its name was Moonlight Gu, the clan's signature Gu of the Gu Yue clan. The vast majority of clansmen choose it as their vital Gu. It is not a natural Gu worm, but one cultivated through the Gu Yue clan's secret method. Found nowhere else, it can be said to be the emblem of the Gu Yue clan.
+Its name was Moonlight Gu, the Gu Yue clan's signature Gu. The vast majority of clansmen choose it as their vital Gu. It is not a natural Gu worm, but one cultivated through the Gu Yue clan's secret method. Found nowhere else, it can be said to be the emblem of the Gu Yue clan.
 
-All were Rank one Moonlight Gu, the differences between them extremely subtle. Fang Yuan picked one at random and took it in his hand.
+All were Rank one Moonlight Gu; the differences between them were extremely subtle. Fang Yuan picked one at random and took it in his hand.
 
-Moonlight Gu was very light, comparable to the weight of a thin sheet of paper. It occupied only a patch of his palm, about the size of an ordinary jade pendant. Holding it in his hand, Fang Yuan could see through it the lines of his palm hidden beneath.
+The Moonlight Gu was very light, no heavier than a thin sheet of paper. Occupying only a small patch of his palm, it was the size of an ordinary jade pendant. Holding it in his hand, Fang Yuan could look right through it to see the obscured lines of his palm.
 
-After a final glance to confirm there was nothing amiss, Fang Yuan placed it in his pocket and left the Gu chamber.
+After a final glance confirming nothing was amiss, Fang Yuan slipped it into his pocket and left the Gu chamber.
 
-Outside the Gu chamber a long queue still remained. Seeing Fang Yuan come out, the next youth hurried excitedly into the Gu chamber.
+Outside the Gu chamber, the long queue was still lined up. Seeing Fang Yuan walk out, the next youth hurried eagerly into the chamber.
 
-Had it been anyone else, upon obtaining a Gu worm, their first instinct would be to rush home and refine it. But Fang Yuan did not hurry to do so. His mind was still set upon that Liquor Worm.
+Had it been anyone else, upon obtaining a Gu worm, their first instinct would be to rush home and refine it. Fang Yuan did not hurry; his mind remained fixed on that Liquor Worm.
 
-The Liquor Worm was more precious. Although Moonlight Gu was a speciality of Gu Yue Village, it was not as helpful to a Gu Master as the Liquor Worm.
+The Liquor Worm is more precious; although the Moonlight Gu is a specialty of Gu Yue Village, it lacks the sheer utility a Liquor Worm offers a Gu Master.
 
-Leaving the Gu chamber, Fang Yuan went straight to the wine shop.
+Leaving the Gu chamber, Fang Yuan went directly to the wine shop.
 
-"Shopkeeper, two jars of aged wine." Fang Yuan fished in his pocket and laid his remaining fragments of primeval stones upon the counter.
+"Shopkeeper, two jars of aged wine." Fang Yuan fished in his pocket and laid his last fragments of primeval stone on the counter.
 
-In recent days, he had been coming here to buy wine, then wandering around the village outskirts in search, hoping to lure that Liquor Worm into appearing.
+For the past few days, he would come here to buy wine, then wander the outskirts of the village, searching for a way to lure that Liquor Worm into the open.
 
-The shopkeeper was a short, middle-aged fatty, his face shining with oil. After these past days, he had already come to remember Fang Yuan.
+The shopkeeper was a short, fat, middle-aged man, his face shining with oil. After these past days, he had already come to remember Fang Yuan.
 
-"Customer, you're here." As he greeted him, he stretched out his thick, stubby hand and deftly swept away Fang Yuan's fragments of primeval stones.
+"Honoured customer, you're here." As he spoke, he stretched out his stubby, fat hand and deftly swept away Fang Yuan's primeval stone fragments.
 
-He tossed them in his hand, weighing them, and finding the amount not lacking, the smile on the shopkeeper's face grew a touch more cordial.
+He hefted them in his palm, and finding the weight sufficient, his smile grew a touch more cordial.
 
-Primeval stones are the currency of this world, used to measure the value of all commodities. At the same time, they are the condensed essence of heaven and earth, and can themselves be used to help Gu Masters better cultivate.
+Primeval stones are the currency of this world, used to measure the value of all commodities. They are also the condensed essence of heaven and earth, capable of being directly absorbed to aid a Gu Master's cultivation.
 
 Possessing both monetary and commodity attributes, they are remarkably similar to gold on Earth. Earth once utilised a gold standard; in this world, it is a primeval stone standard.
 
-Compared to gold, therefore, the purchasing power of primeval stones is also quite astonishing.
+Compared to gold, the purchasing power of primeval stones is even more astonishing.
 
-However, no amount of primeval stones could withstand Fang Yuan's continuous consumption like this.
+However, no amount of primeval stones can withstand Fang Yuan's continuous consumption like this.
 
-"Two jars of wine every day, for seven days straight. The primeval stones I had saved up are almost all spent." Carrying two jars of wine out of the shop, Fang Yuan's brows furrowed slightly.
+"Two jars of wine every day for seven days straight. The primeval stones I accumulated are almost all spent." Carrying two jars out of the shop, Fang Yuan furrowed his brows slightly.
 
-Once one becomes a Gu Master, one can directly extract pure primeval essence from primeval stones to replenish the primeval sea within one's aperture.
+Once a Gu Master, a person can directly extract pure primeval essence from primeval stones to replenish the primeval sea within their aperture.
 
-Therefore, for Gu Masters, primeval stones are not only currency, but also an aid to cultivation.
+Therefore for Gu Masters, primeval stones are not only a currency, but also an aid in cultivation.
 
-With sufficient primeval stones, the speed of cultivation can be increased considerably, which can more or less make up for some shortcomings in aptitude.
+With sufficient primeval stones, cultivation speed can increase significantly; this can more or less compensate for shortcomings in aptitude.
 
-"Tomorrow I will have no primeval stones left to buy wine, yet the Liquor Worm still refuses to appear. Must I really refine the Moonlight Gu as my vital Gu?" Fang Yuan felt somewhat unwilling in his heart.
+"Tomorrow, I will lack the primeval stones to purchase wine, yet the Liquor Worm has still failed to manifest. Must I truly refine the Moonlight Gu into my vital Gu?" Fang Yuan felt a pang of reluctance.
 
-Leaving the wine shop, Fang Yuan carried two jars of wine in his hands, pondering as he walked: "The academy elder said that the first person to refine a vital Gu in this assessment will be rewarded with twenty primeval stones. Now I fear many are at home straining with all their might to refine their Gu worms, competing for first place. Alas, refining a vital Gu is a great test of aptitude. Those with good aptitude have a huge advantage. With my Grade C aptitude and no other means, I have no hope of winning at all."
+Leaving the wine shop with two jars of wine in hand, Fang Yuan pondered as he walked: "The academy elder stated that the first to refine their vital Gu in this assessment would be rewarded with twenty primeval stones. Presently, many are likely exerting every ounce of effort at home, refining their Gu worms to vie for first place. Alas, refining a vital Gu severely tests one's aptitude. Those blessed with superior talent possess an immense advantage. Given my C-grade aptitude, lacking alternative means, I fundamentally have no hope of victory."
 
-Just then, Gu Yue Fang Zheng's voice sounded from behind: "Brother, you really have come to the wine shop to get drunk again! Come with me, uncle and aunt want to see you."
+Just then, Gu Yue Fang Zheng's voice resonated from behind him: "Brother, you have truly returned to the wine shop to indulge in wine once more! Come with me; our uncle and aunt wish to see you."
 
-Fang Yuan stopped and looked back.
+Fang Yuan stopped and turned.
 
-He found his younger brother no longer spoke with his head lowered as before.
+He observed that his brother no longer spoke with a lowered head as before.
 
-The brothers' eyes met.
+The brothers' gazes collided.
 
-A gust of wind whistled past, ruffling the elder brother's dishevelled black hair and fluttering the younger brother's robes.
+A gust of wind howled past, lifting the elder brother's dishevelled black hair and fluttering the younger brother's robes.
 
-In just a short month, things had remained, but people had changed.
+A mere month, yet things remained while people had changed.
 
-The Aperture Opening Ceremony a week ago had been a huge change, both for elder brother and younger brother.
+A week prior, the Aperture Opening Ceremony marked a momentous change for both brothers.
+
+The elder brother, Fang Yuan, plummeted from the clouds, the halo of genius mercilessly stripped away, while his younger brother began to radiate like a nascent star, slowly ascending.
+
+For the younger brother, Gu Yue Fang Zheng, this change bore earth-shattering significance.
 
 Elder brother Fang Yuan had fallen from the clouds, his halo of genius mercilessly stripped away. Younger brother, by contrast, had begun to shine, like a new star slowly rising.
 
