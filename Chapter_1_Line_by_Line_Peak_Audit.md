@@ -81,11 +81,15 @@
 **Analysis:** Live uses Huaxia which is right per your note (live uses Huaxia, correct). 辗转颠簸 = wandering and struggle is perfect, not drifting tossed like flotsam which you hated. Wandering captures Piao Bo, struggle captures active hardship. 纵横世间 = unbridled dominion, carving his will across world is Tolkien peak. User correctly noted serendipitous twist of fortune is tautology: serendipitous = fortunate chance, twist of fortune = fortunate chance. Redundant. Fix: keep serendipitously as adverb alone, no fortune, no fate. Now: serendipitously cast into this foreign world — clean Tolkien peak, no tautology, keeps serendipitous root as adverb per your suggestion serendipitously or something.
 **Proposed Peak:** Locked as serendipitously cast into this foreign world per e4cda8a. Perfect — no tautology, sure Tolkien peak, one after other as requested.
 
-### P13 — Memories Awakened
+### P13 — Memories Awakened — Match Author + Tolkien Peak d90b545
 **Chinese:** 深埋在心底的许多记忆，在此刻鲜活起来，栩栩如生地在眼前回现着。
-**Current Live:** Countless memories buried in the depths of his soul awakened, coalescing in his mind with breathtaking clarity.
-**Analysis:** Buried in depths of soul awakened, coalescing with breathtaking clarity is peak. Keep.
-**Proposed Peak:** Keep.
+**Literal:** many memories deeply buried in bottom of heart, at this moment become vivid, vividly lifelike reappear before eyes
+**Chinese shades:** 心底 = bottom of heart, depths — depths matches author, bedrock = 岩床 not in text. We ain't just putting what we want.
+**Current Live (OLD):** Countless memories buried in the depths of his soul awakened, coalescing in his mind with breathtaking clarity.
+**Current Live (16f73ac):** Countless memories long buried in the depths of his soul awakened at this moment, returning before his eyes with lifelike clarity.
+**Current Live (NEW - d90b545):** Countless memories long buried in the depths of his soul awakened in this moment, returning before his eyes with a clarity as vivid as life itself.
+**Analysis:** 深埋 = long buried, 心底 = depths of soul (elevated heart to soul but keeps depths sense, matches author, not bedrock), 在此刻 = in this moment, 在眼前回现 = returning before eyes, 栩栩如生 = vividly lifelike. Old lifelike clarity flat, not Tolkien peak. New with a clarity as vivid as life itself captures 栩栩如生地 + clarity with Tolkien simile as vivid as life itself, more elevated, sure Tolkien peak and matches author. User correctly noted bedrock does NOT match author.
+**Proposed Peak:** Locked as clarity as vivid as life itself per d90b545. Perfect match author + Tolkien peak.
 
 ### P14 — Failed Yet No Regret
 **Chinese:** “终究是失败了呀。”方源心中叹着，有些感慨，却并不后悔。
