@@ -2,7 +2,7 @@ Beside the academy stood a Gu chamber, not large, only sixty square metres in si
 
 "Queue up, come in one by one!" A stern shout rang out. Guards were naturally stationed outside the Gu chamber door. The youths went in one by one, and then came out. It was Fang Yuan's turn to enter.
 
-Inside, he saw that there was far more to the room than met the eye. The four walls were carved into recesses, inset square compartments densely packed and crowding one after another. They varied in size, the largest no bigger than a clay pot, and the smallest no larger than a fist. Within the tightly packed compartments sat a vast array of vessels: grey stone basins, vibrant green jade plates, delicate grass cages, and earthenware braziers. In these vessels were kept all kinds of Gu worms.
+Inside, he saw that there was far more to the room than met the eye. The four walls were carved into recesses, inset square compartments densely packed and crowding one after another. They varied in size, the largest was no bigger than a clay pot, and the smallest was no larger than a fist. Within the tightly packed compartments sat a vast array of vessels: grey stone basins, vibrant green jade plates, delicate grass cages, and earthenware braziers. In these vessels were kept all kinds of Gu worms.
 
 Some Gu worms were quiescent and mute, while others were clamorous, emanating a din of chirps, clucks, and rustles that coalesced into a symphony of life.
 
