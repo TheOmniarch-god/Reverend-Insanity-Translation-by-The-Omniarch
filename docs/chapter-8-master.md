@@ -76,7 +76,7 @@ The brothers' eyes met. Gu Yue Fang Zheng's eyes shone bright, revealing a sharp
 
 But the moment he came to himself, anger surged in his heart. An anger towards himself.
 
-What's wrong with me? Don't even have courage to look brother in the eye? I have changed, I have completely changed!
+What's wrong with me? Don't I even have the courage to look my brother in the eye? I have changed! I have completely changed!
 
 With this thought, his gaze sharpened again and swept back. But Fang Yuan was no longer looking at him. Carrying a jar of wine in each hand, he walked past him and said flatly: "What are you standing there for? Let's go."
 
