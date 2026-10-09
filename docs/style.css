@@ -1112,7 +1112,7 @@ footer {
   -webkit-touch-callout: none;
 }
 .chapter-body {
-  max-width: 1360px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 20px 20px 80px;
   font-size: 17px;
