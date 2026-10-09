@@ -1,4 +1,4 @@
-# Chapter 7: Gu Masters Have Nine Ranks; Flower-Wine Monk Leaves His Hidden Inheritance — My Perfection After Leo — Polished Literary Revision
+# Chapter 7: Gu Masters Have Nine Ranks; Flower-Wine Monk Leaves His Hidden Inheritance — My Perfection - British Tolkien No Em Dashes - Before Leo — Polished Literary Revision
 
 Soon, a week had gone by.
 
