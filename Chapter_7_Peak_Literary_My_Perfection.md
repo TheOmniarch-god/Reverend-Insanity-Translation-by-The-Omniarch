@@ -120,6 +120,6 @@ The next moment, the entire classroom cheered.
 | "How could such a person possibly be a genius!" | "How could such a person possibly be a genius." | Period for elder's cold inner judgement, not shouting |
 | "Where on earth did this Flower-Wine Monk die? Why have I searched..." | Italicised internal monologue | Fang Yuan's 500-year overlord perspective, consistent with Ch5-6 italic thoughts |
 | "redolence" "clandestine chamber" "verdant massif" "chartreuse" "plumaged" | Kept | One erudite per image rule from Ch7_Balanced_Erudite_Final — redolence for wine aroma, clandestine for hidden chamber, verdant massif for mountain, chartreuse for new leaves, plumaged for finches — stacking avoided |
-| "Without realizing it" | "Without realising it" | British spelling |
+| "Without realising it" | "Without realising it" | British spelling |
 | Final line "So which Gu worm should I pick?" | Kept as internal gleam | Sharp gleam flashed and vanished — shows overlord calculation, not excitement |
 

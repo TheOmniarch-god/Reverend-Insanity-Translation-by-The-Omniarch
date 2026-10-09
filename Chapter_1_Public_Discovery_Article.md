@@ -81,7 +81,7 @@ Chapter 1 gives us the only definition we need, from Fang Yuan's inner voice:
 
 > "For what was the Demonic Path? It was to accumulate no good karma, only murder and arson; spurned by heaven and reviled by earth, making enemies with the whole world, and still running wild, following the whim of one's own heart to the very end."
 
-Most xianxia says demonic = evil. Gu Zhen Ren says demonic = **freedom at absolute cost**. No good karma, no heaven's favor, enemies everywhere, and you still do it.
+Most xianxia says demonic = evil. Gu Zhen Ren says demonic = **freedom at absolute cost**. No good karma, no heaven's favour, enemies everywhere, and you still do it.
 
 And crucially: **"A trace of wistfulness stirred, yet not the faintest whisper of regret."**
 

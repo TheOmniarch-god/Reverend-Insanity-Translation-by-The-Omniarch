@@ -73,7 +73,7 @@ And when he wakes up at fifteen, the text says:
 
 > Gu Yue Village... this is five hundred years ago?! The Spring Autumn Cicada really had an effect...
 
-We use had an effect on purpose in the live version, not was effective. Was effective sounds like a lab report. Had an effect sounds like a fifteen year old boy feeling his young palm and realizing a myth actually worked. It links wonder to result. That wording is intentional and matches his age and shock.
+We use had an effect on purpose in the live version, not was effective. Was effective sounds like a lab report. Had an effect sounds like a fifteen year old boy feeling his young palm and realising a myth actually worked. It links wonder to result. That wording is intentional and matches his age and shock.
 
 ---
 
