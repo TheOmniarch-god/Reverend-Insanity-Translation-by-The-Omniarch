@@ -38,7 +38,7 @@ Gu Yue Mo Chen had the same horse-like face. Already smiling, he cast a challeng
 
 “Alas, our bloodline grows ever more diluted, and few Rank IV experts have emerged in recent years to strengthen it. The fourth clan leader was our only Rank V expert, but he perished alongside the Flower Wine Monk and left no descendants. The aptitude of our younger generations keeps declining.” The clan leader sighed deeply.
 
-Just then, the Academy Elder called, *“Gu Yue Chi Cheng.”* At the name, the elders turned to look at Gu Yue Chi Lian. This was his grandson. Gu Yue Chi Cheng was short and slight, his face covered in pockmarks. With his fists clenched and sweat covering his face, he looked especially nervous. He stepped onto the opposite bank, and points of light entered his body one after another. He continued for thirty-six steps before stopping.
+Just then, the Academy Elder called, “Gu Yue Chi Cheng.” At the name, the elders turned to look at Gu Yue Chi Lian. This was his grandson. Gu Yue Chi Cheng was short and slight, his face covered in pockmarks. With his fists clenched and sweat covering his face, he looked especially nervous. He stepped onto the opposite bank, and points of light entered his body one after another. He continued for thirty-six steps before stopping.
 
 “Another Grade B!” the Academy Elder exclaimed.
 
@@ -48,7 +48,7 @@ A stir ran through the youths as they turned envious eyes towards Gu Yue Chi Che
 
 This time, it was Gu Yue Mo Chen’s turn to look livid.
 
-*“Gu Yue Chi Cheng…”* Amid the crowd, Fang Yuan thoughtfully rubbed his chin.
+“Gu Yue Chi Cheng…” Amid the crowd, Fang Yuan thoughtfully rubbed his chin.
 
 Fang Yuan remembered that Chi Cheng had been severely punished by the clan for cheating during the Aperture Opening Ceremony. His aptitude was actually only Grade C, but his grandfather, Gu Yue Chi Lian, had arranged the deception that made it appear to be Grade B. If Fang Yuan wanted to cheat, he had dozens of methods in mind, some more sophisticated than the one used for Gu Yue Chi Cheng. If he appeared to possess Grade B or even Grade A aptitude, the clan would certainly devote substantial resources to his development.
 

@@ -30,13 +30,13 @@ The shopkeeper was a short, fat, middle-aged man, his face shining with oil. Aft
 
 Primeval stones are the currency of this world, used to measure the value of all commodities. They are also the condensed essence of heaven and earth, capable of being directly absorbed to aid a Gu Master's cultivation. Possessing both monetary and commodity attributes, they are remarkably similar to gold on Earth. Earth once utilised a gold standard; in this world, it is a primeval stone standard. Compared to gold, the purchasing power of primeval stones is even more astonishing. However, no amount of primeval stones can withstand Fang Yuan's continuous consumption like this.
 
-*“Two jars of wine every day for seven days straight. The primeval stones I accumulated are almost all spent.”* Carrying two jars out of the shop, Fang Yuan furrowed his brows slightly.
+“Two jars of wine every day for seven days straight. The primeval stones I accumulated are almost all spent.” Carrying two jars out of the shop, Fang Yuan furrowed his brows slightly.
 
 Once a Gu Master, a person can directly extract pure primeval essence from primeval stones to replenish the primeval sea within their aperture. Therefore for Gu Masters, primeval stones are not only a currency, but also an aid in cultivation. With sufficient primeval stones, cultivation speed can increase significantly; this can more or less compensate for shortcomings in aptitude.
 
-*“Tomorrow, I will lack the primeval stones to purchase wine, yet the Liquor Worm has still failed to show itself. Must I truly refine the Moonlight Gu into my vital Gu?”* Fang Yuan felt a pang of reluctance.
+“Tomorrow, I will lack the primeval stones to purchase wine, yet the Liquor Worm has still failed to show itself. Must I truly refine the Moonlight Gu into my vital Gu?” Fang Yuan felt a pang of reluctance.
 
-Leaving the wine shop with two jars of wine in hand, Fang Yuan pondered as he walked: *“The academy elder stated that the first to refine their vital Gu in this assessment would be rewarded with twenty primeval stones. Presently, many are likely exerting every ounce of effort at home, refining their Gu worms to vie for first place. Alas, refining a vital Gu severely tests one's aptitude. Those blessed with superior talent possess an immense advantage. Given my Grade C aptitude, lacking alternative means, I fundamentally have no hope of victory.”*
+Leaving the wine shop with two jars of wine in hand, Fang Yuan pondered as he walked: “The academy elder stated that the first to refine their vital Gu in this assessment would be rewarded with twenty primeval stones. Presently, many are likely exerting every ounce of effort at home, refining their Gu worms to vie for first place. Alas, refining a vital Gu severely tests one's aptitude. Those blessed with superior talent possess an immense advantage. Given my Grade C aptitude, lacking alternative means, I fundamentally have no hope of victory.”
 
 Just then, Gu Yue Fang Zheng's voice resonated from behind him: “Brother, you have truly returned to the wine shop to indulge in wine once more! Come with me; our uncle and aunt wish to see you.”
 
@@ -50,7 +50,7 @@ A week prior, the Aperture Opening Ceremony marked a momentous change for both b
 
 The clan's high hopes, which had once been entrusted to his elder brother, now fell entirely upon his shoulders. He became the focus of the clan, drawing the gazes of envy and jealousy from all around.
 
-* * *
+  
 
 Each day upon waking, he felt as though he were living a beautiful dream. The vastly different treatment still left him somewhat incredulous and, at the same time, profoundly ill at ease. Unaccustomed to being the centre of attention, he was at a loss as to how to handle it.
 
@@ -66,7 +66,7 @@ Yet gradually, he began to understand somewhat. Elder brother, too, was but an o
 
 His elder brother, once lauded as a genius who had loomed over him like a shadow, now seemed so downfallen and dejected. Seen from the other side, did this not all the more attest to his own growth?
 
-*“I am exceptional. That alone is the truth!”*
+“I am exceptional. That alone is the truth!”
 
 Therefore, seeing Fang Yuan with wine jars in hand, his hair dishevelled and clothes untidy, Gu Yue Fang Zheng breathed a fierce sigh of relief, his breathing inexplicably eased.
 
@@ -78,7 +78,7 @@ The brothers' eyes met. Gu Yue Fang Zheng's eyes shone bright, revealing a sharp
 
 But the moment he came to himself, anger surged in his heart. An anger towards himself.
 
-*“What's wrong with me? Don't I even have the courage to look my brother in the eye? I have changed! I have completely changed!”*
+“What's wrong with me? Don't I even have the courage to look my brother in the eye? I have changed! I have completely changed!”
 
 With this thought, his gaze sharpened again and swept back. But Fang Yuan was no longer looking at him. Carrying a jar of wine in each hand, he walked past him and said flatly: “What are you standing there for? Let's go.”
 

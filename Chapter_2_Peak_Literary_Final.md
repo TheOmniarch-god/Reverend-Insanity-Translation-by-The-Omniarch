@@ -4,7 +4,7 @@ In legend, there exists a River of Time in this world, supporting the flow of al
 
 This price was truly too steep, and what made it even harder to accept was that even after paying with one’s life, the outcome remained unknown. Even if someone obtained the Spring Autumn Cicada, they would never dare use it on a whim. What if the rumour was false, nothing more than a hoax? If Fang Yuan had not been driven to a dead end, he would not have used it so readily. Now, however, Fang Yuan believed completely and thoroughly. For the ironclad truth lay before his eyes, beyond all dispute. He had indeed been reborn!
 
-*“It is a pity, such a fine Gu. Back then, it took monumental effort, the slaughter of hundreds of thousands of people, stirring the wrath of heaven and the resentment of men, enduring endless tribulations before I finally refined it…”* Fang Yuan sighed inwardly. Though he had been reborn, the Spring Autumn Cicada had not traveled back with him.
+“It is a pity, such a fine Gu. Back then, it took monumental effort, the slaughter of hundreds of thousands of people, stirring the wrath of heaven and the resentment of men, enduring endless tribulations before I finally refined it…” Fang Yuan sighed inwardly. Though he had been reborn, the Spring Autumn Cicada had not traveled back with him.
 
 Humans are the spirit of all living things; Gu are the essence of heaven and earth. Gu were bizarre and varied, countless in number. Some Gu would completely dissipate after being used once or twice. Others, so long as they were not overused, could be used repeatedly. Perhaps the Spring Autumn Cicada was simply that kind of expendable Gu that could only be used once.
 
@@ -14,7 +14,7 @@ To have been reborn, the loss of the Spring Autumn Cicada was entirely acceptabl
 
 With these, he undoubtedly held the overall situation and the initiative. As long as he played his cards well, roaming the mortal realm and recreating his former glory as an Overlord of the Demonic Path and ruthless hegemon would pose no difficulty at all, and he could even take a step further, charging towards an even higher realm!
 
-*“Then how should I proceed…?”* Fang Yuan was extremely rational. He quickly gathered his emotions and turned towards the night rain outside the window, falling into deep thought.
+“Then how should I proceed…?” Fang Yuan was extremely rational. He quickly gathered his emotions and turned towards the night rain outside the window, falling into deep thought.
 
 Thinking this over, his thoughts became a tangled skein. After a moment, his brow furrowed deeper. Five hundred years was a very long time. Many memories were already blurred and faded, beyond recall. Even among the hidden troves and fortuitous encounters he did remember, numerous though they were, most lay worlds apart or required specific times to open.
 
@@ -44,7 +44,7 @@ Fang Zheng lowered his head, looking down at his toes, his trademark habit. “S
 
 Born from the same womb at the same time, why was heaven so unfair? It had given his brother diamond-like talent, while he was ordinary like a roadside stone. Everyone around him, whenever mentioning him, would always say: “This is Fang Yuan’s brother.” His uncle and aunt also often lectured him: “You must learn from your brother.” Sometimes, even looking at his own face in the mirror filled him with a certain disgust! These thoughts had existed for many years, accumulating deep inside his heart day by day. They weighed on his chest like a boulder. Over the years, Fang Zheng’s head had hung lower and lower, and he had grown increasingly silent.
 
-*“Worry…?”* Thinking of his uncle and aunt, Fang Yuan scoffed inwardly.
+“Worry…?” Thinking of his uncle and aunt, Fang Yuan scoffed inwardly.
 
 He remembered very clearly that the parents of this body had both fallen during a clan mission. When he was merely three years old, he and his brother had become orphans. Under the pretext of raising them, his uncle and aunt had openly and legally usurped their parents’ inheritance and treated the two brothers harshly. Originally, as a transmigrator, he had planned to bide his time in obscurity. But the hardship of survival had forced Fang Yuan to choose to display talent beyond that of ordinary folk. The so-called “genius” was actually nothing more than the rationality of a mature soul, paired with a few Tang poems and Song verses from Earth that echoed through generations.
 

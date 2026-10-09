@@ -6,7 +6,7 @@ Within the aperture lay the primeval sea. The water lay smooth as a mirror, a sh
 
 It was with this primeval essence that a Gu Master drove his Gu worms. From this moment on, Fang Yuan had formally stepped into the ranks of Rank 1 Gu Masters. The aperture was open. No more Hope Gu flowed into his body. Fang Yuan withdrew his attention. He felt only that the pressure ahead was as thick and solid as a wall, and that he could not advance another step.
 
-*“Just as in my previous life.”* He gave a faint, indifferent smile at the result.
+“Just as in my previous life.” He gave a faint, indifferent smile at the result.
 
 “Can you go no further?” the Academy Elder called from across the river, still clinging to that one chance in ten thousand.
 
@@ -38,7 +38,7 @@ Among the elders watching in secret, some knitted their brows, some lowered thei
 
 “Haa. The greater the hope, the greater the disappointment. The Gu Yue clan grows worse with every generation.”
 
-* * *
+  
 
 The icy river water soaked through his socks, cold enough to bite at the bone. Fang Yuan walked on, his face as expressionless as ever. The distance closed, and he could clearly see the heavy look on the Academy Elder’s face. He could feel keenly the eyes of more than a hundred youths fixed on him. In those eyes there was astonishment, shock, mockery, delight at his misfortune, sudden understanding, and cold indifference. The scene was identical, and it drew Fang Yuan’s thoughts back to his previous life.
 
@@ -74,11 +74,11 @@ The laughter grew louder still, and the Academy Elder did not step forward to st
 
 Fang Zheng’s mouth fell open in surprise. Fang Yuan had his back to the crowd just then, so no one on the bank could see clearly. But Fang Zheng felt his calm distinctly, and saw that as he spoke, the corners of his mouth even curved faintly upward, letting slip a deep, savouring trace of a smile.
 
-*“He’s obviously only of Grade C aptitude. So why is my elder brother still this calm?”* Fang Zheng filled with doubt in spite of himself.
+“He’s obviously only of Grade C aptitude. So why is my elder brother still this calm?” Fang Zheng filled with doubt in spite of himself.
 
 Fang Yuan said nothing further. He patted Fang Zheng on the back, turned, and walked away. Still dazed, Fang Zheng walked towards the flower field.
 
-*“I’d never have thought my elder brother could be this calm. If it were me, I’m afraid…”* His head was down and he walked on without thinking, not knowing that he was in the middle of staging a miraculous performance.
+“I’d never have thought my elder brother could be this calm. If it were me, I’m afraid…” His head was down and he walked on without thinking, not knowing that he was in the middle of staging a miraculous performance.
 
 By the time he came to himself with a start, he was standing deep in the flower field, at a distance no one before him had reached.
 

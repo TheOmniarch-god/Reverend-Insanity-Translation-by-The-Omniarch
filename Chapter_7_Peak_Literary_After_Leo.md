@@ -48,7 +48,7 @@ As the murmurs around him grew louder and louder, the Academy Elder’s frown de
 
 In the entire classroom, the youths all sat straight and proper, radiating youthful vigour; this made Fang Yuan, who lay sprawled asleep over his desk, stand out even more glaringly.
 
-*“A whole week has passed, and he is still so dispirited. Humph, I must have misjudged him back then. How could such a person possibly be a genius.”* The elder snorted coldly with displeasure in his heart. He had already spoken to Fang Yuan about this situation many times, but it had no effect at all. Fang Yuan continued to do as he pleased. He slept through every lesson, which gave the Academy Elder a terrible headache and much annoyance.
+“A whole week has passed, and he is still so dispirited. Humph, I must have misjudged him back then. How could such a person possibly be a genius.” The elder snorted coldly with displeasure in his heart. He had already spoken to Fang Yuan about this situation many times, but it had no effect at all. Fang Yuan continued to do as he pleased. He slept through every lesson, which gave the Academy Elder a terrible headache and much annoyance.
 
 “Forget it, he is just Grade C anyway. He cannot even withstand a blow like this. With a temperament like that, even if he were nurtured, he could hardly amount to anything; it would instead be a waste of the clan's resources.” The elder was thoroughly disappointed in Fang Yuan.
 
@@ -74,9 +74,9 @@ The clan leader was consumed by rage and killed the Flower-Wine Monk on the spot
 
 Therefore, in the hearts of all Gu Yue clansmen, the fourth-generation clan leader was a heroic figure who had sacrificed himself for the village.
 
-*“Flower-Wine Monk, huh...”* Woken by the denunciations in the classroom, Fang Yuan opened his bleary, sleepy eyes.
+“Flower-Wine Monk, huh...” Woken by the denunciations in the classroom, Fang Yuan opened his bleary, sleepy eyes.
 
-He gave a long, lazy stretch, and in his heart he could not help but feel resentful. *“Where on earth did this Flower-Wine Monk die? Why have I searched all around the village and still haven’t found his inheritance?”*
+He gave a long, lazy stretch, and in his heart he could not help but feel resentful. “Where on earth did this Flower-Wine Monk die? Why have I searched all around the village and still haven’t found his inheritance?”
 
 In his memory, about two months from now, a clan Gu Master who got drunk over a broken heart would lie dead drunk outside the village. The rich aroma of wine spreading in all directions would unexpectedly attract a Liquor Worm.
 
@@ -88,11 +88,11 @@ After the Gu Master returned to the village and reported all his findings, it im
 
 That Gu Master also benefited greatly from this fortune; his cultivation grew increasingly outstanding, even changing the heart of the lover who had once abandoned him. For a time, he became a prominent figure.
 
-*“What a pity that I only heard a general outline back then and didn’t know the exact location. At that time, I never thought there would be a day when I would be reborn. Flower-Wine Monk, where on earth did you die?”*
+“What a pity that I only heard a general outline back then and didn’t know the exact location. At that time, I never thought there would be a day when I would be reborn. Flower-Wine Monk, where on earth did you die?”
 
 Over these past few days, he had bought a lot of wine and wandered idly around the village every night. He wanted to use the redolence of the wine to lure the Liquor Worm into showing itself. Unfortunately, there was no sign of the creature at all, and the result was deeply disappointing.
 
-*“If I could find that Liquor Worm and refine it into my vital Gu, it would be far better than the clan’s Moonlight Gu. In the blink of an eye, it is already April; time waits for no man.”* Fang Yuan sighed, turning his gaze out the window.
+“If I could find that Liquor Worm and refine it into my vital Gu, it would be far better than the clan’s Moonlight Gu. In the blink of an eye, it is already April; time waits for no man.” Fang Yuan sighed, turning his gaze out the window.
 
 Under blue sky and white cloud, a verdant massif stretched away without end. Close by lay a bamboo grove.
 
@@ -108,4 +108,4 @@ Oh.
 
 The next moment, the entire classroom cheered.
 
-*“Finally, it’s time to refine a Gu worm. So which Gu worm should I pick?”* A sharp gleam flashed and vanished in Fang Yuan’s eyes.
+“Finally, it’s time to refine a Gu worm. So which Gu worm should I pick?” A sharp gleam flashed and vanished in Fang Yuan’s eyes.

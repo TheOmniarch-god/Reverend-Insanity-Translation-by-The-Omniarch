@@ -2,11 +2,11 @@
 
 His surroundings fell silent in an instant. Countless eyes turned toward him.
 
-*“This grows more interesting by the moment.”* Fang Yuan smiled inwardly. Under everyone’s watchful gaze, he waded across the river and stepped onto the opposite bank.
+“This grows more interesting by the moment.” Fang Yuan smiled inwardly. Under everyone’s watchful gaze, he waded across the river and stepped onto the opposite bank.
 
 Immediately, he felt a pressure bearing down upon him. It emanated from the spirit spring deep within the flower field; the primeval qi it produced was so concentrated that it generated this tangible weight. But soon, a cluster of lights rose from the flowers beside his feet. They drifted around him, enveloping his entire body before every last one entered his skin.
 
-*“These are Hope Gu,”* Fang Yuan murmured inwardly. The elder in charge had not explained, but Fang Yuan knew perfectly well.
+“These are Hope Gu,” Fang Yuan murmured inwardly. The elder in charge had not explained, but Fang Yuan knew perfectly well.
 
 Every point of light was an individual Gu.
 
@@ -44,7 +44,7 @@ The Clan Leader frowned as well. These were certainly not the signs one would ex
 
 Fang Yuan continued forward against the pressure.
 
-*“Fewer than ten steps means no aptitude. Ten to twenty is Grade D; twenty to thirty, Grade C; thirty to forty, Grade B; forty to fifty, Grade A. So far, I have taken twenty-three steps. Twenty-four… twenty-five… twenty-six… twenty-seven.”*
+“Fewer than ten steps means no aptitude. Ten to twenty is Grade D; twenty to thirty, Grade C; thirty to forty, Grade B; forty to fifty, Grade A. So far, I have taken twenty-three steps. Twenty-four… twenty-five… twenty-six… twenty-seven.”
 
 At his twenty-seventh step, he seemed to hear a boom. The mass of light in his abdomen, between his kidneys, had reached its limit and suddenly burst.
 

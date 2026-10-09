@@ -14,7 +14,7 @@ Shen Cui attended him with gentle care, a bright smile on her face and coquettis
 
 When Fang Zheng came in, he saw Shen Cui smoothing the creases in Fang Yuan’s clothes over his chest, and a glint of envy and jealousy involuntarily flickered in his eyes. Living with his elder brother all these years and benefiting from Fang Yuan’s care, he too had a servant to attend him. Yet it was not a young maid like Shen Cui, but a fat, bloated old woman.
 
-*“If Shen Cui could attend to me like this one day, how would that feel?”* Fang Zheng entertained the thought, yet dared not dwell on it.
+“If Shen Cui could attend to me like this one day, how would that feel?” Fang Zheng entertained the thought, yet dared not dwell on it.
 
 That their aunt and uncle favoured Fang Yuan was common knowledge throughout the household. Originally, he had no servant to attend him; it was actually Fang Yuan who took the initiative to demand one for him. Although Fang Zheng was the master and Shen Cui the servant, he ordinarily did not dare look down on her. Her mother was Granny Shen, who attended their aunt and also managed the entire household. Deeply trusted by their aunt, she wielded considerable authority.
 
@@ -42,13 +42,13 @@ The two brothers left their residence. Along the way, they encountered quite a f
 
 Fang Zheng listened expressionlessly. He had long grown accustomed to such talk. Head lowered, he followed silently behind his elder brother. By now, the horizon glowed with the light of dawn, and Fang Yuan’s shadow fell across his face. The morning sun was gradually rising, yet Fang Zheng suddenly felt that he was walking into darkness. This darkness came from his elder brother. Perhaps, for his entire life, he would never escape the enormous shadow his brother cast over him. Tightness gripped his chest again and again, until even breathing became difficult. This damned feeling brought one word to mind: suffocation!
 
-*“Hmph. Such talk. Truly, the tree that rises above the forest bears the brunt of the wind.”* Listening to the comments around him, Fang Yuan sneered inwardly.
+“Hmph. Such talk. Truly, the tree that rises above the forest bears the brunt of the wind.” Listening to the comments around him, Fang Yuan sneered inwardly.
 
 No wonder that, after his aptitude had been tested as Grade C, he had found himself surrounded by enemies, subjected to harsh treatment, cold disdain, and neglect for a long time. He also caught every sound of his younger brother’s increasingly labored breathing behind him. What he had failed to notice in his previous life, he now perceived down to the smallest detail. This keen insight came entirely from five hundred years of life experience. He suddenly thought of his uncle and aunt. They certainly had their methods. They had assigned Shen Cui to monitor him at close quarters, while giving his younger brother an old woman. There were other differences in their treatment, too, in the details of daily life. All of this was deliberate, intended to stir his younger brother’s sense of injustice and sow discord in the brotherly bond between them.
 
 People worry not about having little, but about having unequal shares. In his previous life, he had been too inexperienced, and his younger brother too foolish and naive. Their uncle and aunt had succeeded in sowing that discord. Now that he had been reborn, the Aperture Opening Ceremony was already at hand. The situation seemed too deeply entrenched to reverse, but with Fang Yuan’s methods and wisdom as an Overlord of the Demonic Path, it could still be changed. This younger brother of his could certainly be subdued and brought to heel. Shen Cui, a mere slip of a maid, could all the more easily be taken as one of his concubines ahead of time. As for his uncle and aunt, the clan leader, and the clan elders, he had at least several hundred ways to put them in their place.
 
-*“But I have no wish to do any of that…”* Fang Yuan sighed inwardly, untroubled.
+“But I have no wish to do any of that…” Fang Yuan sighed inwardly, untroubled.
 
 So what if he was his own younger brother? Without familial affection to speak of, he was merely an outsider. Discard him, and so be it. Even if Shen Cui were even more beautiful, so what? Devoid of love and loyalty, she is nothing more than flesh. Take her as one of my concubines? She’s not worthy. So what if they were his uncle and aunt, the clan leader, or the clan elders? They were all merely passing through his life. Why exhaust his ingenuity and waste his energy putting these passersby in their place?
 
