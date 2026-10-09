@@ -1,0 +1,110 @@
+# Chapter 1: Though the Flesh Perish, the Demonic Heart Knows No Regret - Peak Literary After Leo - British Tolkien No Em Dashes
+
+**HEAD 136b384 - Perfected - Modern Tolkien + Natural Earnest + British + No Em Dashes + TTS Friendly**
+
+“Fang Yuan! Hand over the Spring Autumn Cicada without struggle, and I shall grant you a quick death!”
+
+“Old Demon Fang, harbour no delusions of defiance! Today, the revered sects of the Righteous Path have united for one purpose: to trample your demonic lair into dust. We have long since cast an inescapable dragnet here. This time, you shall be beheaded!”
+
+“Fang Yuan, you damned devil! To refine that cursed Spring Autumn Cicada, you slaughtered ten million innocents! You have committed towering atrocities, unpardonable and beyond all count!”
+
+“Demon! Three hundred years ago, you violated me and robbed me of my chastity. You killed my entire family and slaughtered all my kin. From that moment, I’ve wanted nothing more than to devour your flesh and drink your blood! Today, I’ll make you wish you were dead!”
+
+Fang Yuan stood cloaked in a tattered emerald robe, his hair wild and unkempt, his body bathed in blood, as his eyes swept over the surrounding host. The mountain wind whipped his blood-soaked garments, fluttering and snapping like a war banner. Fresh blood gushed from the hundreds of wounds across his body. In the brief moment he stood there, a large pool of blood had already gathered at his feet. Besieged on every flank by bitter foes, he found every path to life long severed. The trap had snapped shut; on this day, death was absolute.
+
+Fang Yuan perceived his doom with perfect clarity. Yet even as the shadow of death loomed before him, he remained expressionless, his demeanor unmoved. His gaze was dark and deep, like an ancient well, bottomless as ever. The righteous host besieging him comprised distinguished sect leaders and young heroes renowned far and wide. Yet as they surrounded Fang Yuan, their composure fractured: some bared their teeth in savage roars, some sneered with brittle arrogance, some narrowed their eyes with venomous suspicion, while others clutched bleeding wounds, looking upon him with lingering dread.
+
+None dared to make a move, all fearing Fang Yuan's final counterattack before death. Thus they confronted each other tensely for six hours, until the sun set in the west, and the afterglow lit the evening clouds by the mountainside, momentarily resplendent as fire. Fang Yuan, who had stood as motionless as a statue, slowly turned around. That solitary motion sent a convulsion through the host; the multitude recoiled in unison, retreating a full pace in panic. At this moment, the grey-white mountain rocks beneath Fang Yuan’s feet had long been stained a deep, dark red with fresh blood. His face, pale from excessive blood loss, was illuminated by the sunset glow, suddenly taking on an alluring, delicate radiance.
+
+Gazing upon the green mountains and the setting sun, Fang Yuan let slip a low chuckle:
+
+“Green mountains beneath the setting sun; autumn moon and spring breeze.
+
+Truly, in the morning one’s hair is like black silk, by dusk it turns to snow; right and wrong, success and failure, all vanish in the turning of a head.”
+
+As the verse left his lips, memories of his past life on Earth surged unbidden before his eyes. He had once been a student of Huaxia on Earth, serendipitously cast into this foreign world. Three hundred years of wandering and struggle, two hundred years of unbridled dominion, carving his will across the world. More than five centuries, yet in retrospect, gone in the blink of an eye.
+
+Countless memories long buried in the depths of his heart awakened in this moment, returning before his eyes with a clarity as vivid as life itself.
+
+“In the end, I have failed after all,” Fang Yuan sighed in his heart. A trace of wistfulness stirred, yet not the faintest whisper of regret.
+
+This outcome was nothing he had not foreseen; from the moment he made his choice centuries ago, he had been mentally prepared. For what was the Demonic Path? It was to accumulate no good karma, only murder and arson; spurned by heaven and reviled by earth, making enemies of the whole world, and still running wild, following the whim of one’s own heart to the very end.
+
+“Should this Spring Autumn Cicada I have just refined prove effective, I shall yet remain a demon in the life to come!”
+
+At this thought, Fang Yuan could not help but laugh aloud.
+
+“Old Demon, what are you laughing at?”
+
+“Everyone, be careful! The demon is at death’s door and means to counterattack!”
+
+“Hand over the Spring Autumn Cicada, quickly!”
+
+The righteous host surged forward, greed and panic driving them into a frenzy. Then, in a single heartbeat, Fang Yuan brazenly detonated himself, unleashing a thunderous blast.
+
+Spring rain fell without cease, nourishing Qing Mao Mountain in silence. Night had deepened, and threads of cool wind drifted through the fine drizzle. Yet the mountain was not dark. From the mountainside down to the foothills, faint and shimmering lights glowed, as though a brilliant ribbon of radiance had been draped across the slope. These lights came from the stilt houses. Not ten thousand households, but several thousand nonetheless. This was Gu Yue Village, nestled upon Qing Mao Mountain, lending the vast and tranquil range a distinct sense of human habitation. At the village's very heart stood a grand pavilion, brightly lit and resplendent, where even now a solemn sacrificial ceremony was being held.
+
+“Ancestors bless us! May this Aperture Opening Ceremony produce many youths of excellent aptitude to bring fresh blood and hope to our clan!”
+
+The Gu Yue Clan Leader appeared middle-aged, his temples touched with frost. Clad in plain white ceremonial robes, he knelt upon the amber floorboards, his upper body erect, hands pressed together, eyes closed in sincere prayer. Before him stood a tall, three-tiered altar of black lacquer, enshrining the spirit tablets of the ancestors. On either side of the tablets, red-copper incense burners sent thin plumes of fragrant smoke coiling upward. Behind him, a dozen or so figures knelt in matching white sacrificial robes. These were the clan elders and decision-makers, each wielding power over various affairs of the clan.
+
+Having concluded his prayers, the Clan Leader was the first to bow, palms flat against the wooden floorboards, performing the kowtow. His forehead met the wood with soft, rhythmic thuds. The elders behind him, their expressions solemn, followed suit in silence. For a time, the ancestral hall echoed only with the gentle cadence of foreheads striking the floor. When the ceremony ended, everyone slowly rose and quietly filed out of the hallowed hall. In the corridor, the elders breathed a quiet sigh of relief, the tense atmosphere easing noticeably.
+
+Murmurs of conversation soon began to rise:
+
+“Time truly flies. In the blink of an eye, another full year has gone by.”
+
+“The previous Aperture Opening Ceremony feels like it happened just yesterday; the memory is still vivid.”
+
+“Tomorrow is the annual Aperture Opening Ceremony. I wonder what kind of fresh blood our clan will produce this year?”
+
+“Sigh, I only hope a youth with Grade A aptitude emerges. It has been three years since our Gu Yue clan had such a genius.”
+
+“Indeed. Both Bai Village and Xiong Village have produced remarkable talents in recent years. In particular, Bai Ning Bing of the Bai clan. His natural aptitude is truly terrifying.”
+
+The mere mention of Bai Ning Bing’s name cast an involuntary shadow of worry across the elders’ faces. This youth’s talent was extraordinary. In just two short years, he had already cultivated to Rank III Gu Master, standing unrivaled among the younger generation. Even the older generation felt immense pressure from this rising star. Given time, he would undoubtedly become a pillar of Bai Village, a formidable powerhouse in his own right. No one doubted this.
+
+“However, among the youths participating in this year’s Aperture Opening Ceremony, it is not as though we have no hope.”
+
+“Quite right. A genius has emerged from the Fang lineage. He could speak at three months and walk at four. By age five, he could compose Tang poetry and Song lyrics, exceptionally intelligent and overflowing with talent. It is a pity his parents died early, leaving him to be raised by his aunt and uncle.”
+
+“Mm, he possesses precocious wisdom and grand ambitions. In recent years, I have heard of the poems he composed, Bring in the Wine, Ode to the Plum Blossom, and Jiang Cheng Zi. He is truly a genius!”
+
+The Gu Yue Clan Leader was the last to exit the ancestral hall. As he slowly closed the door, the murmurs of the elders reached his ears. He immediately knew that the elders were discussing a youth named Gu Yue Fang Yuan. As the leader of the clan, he naturally paid close attention to outstanding juniors, and Gu Yue Fang Yuan was the most prominent and dazzling among them. Experience had shown that those gifted with eidetic memory or strength rivaling an adult from childhood almost always possessed superior cultivation talent.
+
+“If this child tests with Grade A aptitude and is properly nurtured, he may well be able to contend with Bai Ning Bing. Even if he only has Grade B aptitude, he will certainly become a stalwart pillar and a banner for the Gu Yue clan in the future. Yet with such precocious intellect, Grade B is unlikely; it is overwhelmingly probable that he has Grade A.”
+
+With this thought, the corners of the Clan Leader’s lips lifted slightly into a smile. He cleared his throat with a dry cough and addressed the elders: “Everyone, the hour is late. For the sake of tomorrow’s Aperture Opening Ceremony, tonight please be sure to rest well and conserve your energy.” Hearing this, the elders paused slightly. In the glances they exchanged, a subtle trace of vigilance was concealed. The Clan Leader’s words were polite and restrained, but everyone understood their deeper meaning. Every year, in order to recruit talented juniors into their own factions, the elders fought tooth and nail until their faces flushed red and heads bled.
+
+It was indeed time to rest and gather strength, so they could contend fiercely tomorrow. Especially for that Gu Yue Fang Yuan, the probability of him possessing Grade A aptitude was exceptionally high. Moreover, both his parents were deceased, leaving him and his brother as the only surviving orphans of the Fang lineage. If one could bring him into their own faction and groom him well, it could guarantee a century of prosperity for their line!
+
+“However, let me make one thing abundantly clear from the outset. Compete openly and honourably; underhanded schemes that harm clan unity will not be tolerated. Elders, bear this firmly in mind!” the Clan Leader warned sternly.
+
+“We wouldn’t dare, we wouldn’t dare.”
+
+“We shall definitely keep it well in mind.”
+
+“Then we shall take our leave. Lord Clan Leader, please do not trouble yourself to see us off.”
+
+Harbouring their own calculations, the elders dispersed one by one. Before long, the long corridor grew quiet and desolate. Wind-blown spring rain drifted through the window as the Clan Leader stepped lightly towards it. A mouthful of fresh, moist mountain air filled his chest, refreshing to the soul. From the third floor of the attic, the Clan Leader looked out, taking in more than half of Gu Yue Village in a single glance. Though it was late at night, lights still burned in most homes, unusual for such a late hour.
+
+Tomorrow was the Aperture Opening Ceremony, a matter touching upon everyone’s personal interests. An atmosphere of excitement and nervousness hung over the clansmen, naturally causing many to sleep restlessly.
+
+“This is the future hope of our clan.” With dots of light reflected in his eyes, the Clan Leader sighed softly.
+
+At this very moment, another pair of clear eyes quietly gazed upon those twinkling lights in the deep of the night, brimming with complex emotions.
+
+“Gu Yue Village… this is five hundred years ago?! The Spring Autumn Cicada really had an effect…”
+
+Fang Yuan’s gaze was dark and profound as he stood beside the window, letting the wind and rain beat against his body. The effect of the Spring Autumn Cicada was to reverse time. Ranked seventh among the Ten Great Mystical Gu, it was naturally no common existence.
+
+In short: rebirth.
+
+“Reborn using the Spring Autumn Cicada… back to five hundred years ago!”
+
+Fang Yuan reached out his hand, staring intently at his young, tender, and somewhat pale palm. Then he slowly clenched it into a fist, feeling the vivid reality with all his strength. He heard the gentle pitter-patter of drizzle tapping against the window lattice. He closed his eyes slowly, opening them only after a long moment, letting out a wistful sigh:
+
+“Five hundred years of experience… it truly feels like a dream.”
+
+Yet he knew with absolute certainty: this was no dream.
+
