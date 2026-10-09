@@ -1,4 +1,4 @@
-# Chapter 5: Hope — My Perfection After Leo — Polished Literary Revision
+# Ren Zu’s Three Gu, Hope Opens the Aperture
 
 His surroundings fell silent in an instant. Countless eyes turned toward him.
 
@@ -8,7 +8,9 @@ Immediately, he felt a pressure bearing down upon him. It emanated from the spir
 
 *“These are Hope Gu,”* Fang Yuan murmured inwardly. The elder in charge had not explained, but Fang Yuan knew perfectly well.
 
-Every point of light was an individual Gu. Their name was Hope.
+Every point of light was an individual Gu.
+
+Their name was Hope.
 
 One of the oldest legends told of them. When this world had just formed, it was a wilderness where wild beasts roamed unchecked. The first human came into being, and his name was Ren Zu. He lived a primitive existence, eating raw flesh and drinking blood. Life was exceedingly difficult. In particular, there was a group of wild beasts called Predicaments. They found Ren Zu’s scent especially enticing and sought to devour him. Ren Zu possessed neither a body as tough as mountain rock nor the sharp teeth and claws of wild beasts. How could he contend with such a pack? His food supply was unreliable, and he spent his days fleeing from place to place. At the bottom of nature’s food chain, he was on the verge of extinction.
 
@@ -36,7 +38,7 @@ At that moment, the stream of Hope Gu gathered and entered Fang Yuan’s body. U
 
 The mass grew larger and brighter. But across the river, the elder in charge frowned.
 
-“There seem to be rather few Hope Gu.” At the sight, the hearts of the many elders who had been discreetly watching sank.
+“There seem to be rather few Hope Gu.” At the sight, the hearts of the many elders who had been discreetly watching Fang Yuan sank.
 
 The Clan Leader frowned as well. These were certainly not the signs one would expect from Grade A aptitude.
 
@@ -53,25 +55,3 @@ Though it takes time to describe, the process was exceedingly brief. It came swi
 His aperture had opened successfully.
 
 This was the hope of immortality.
-
----
-
-### Key Reasoning Behind Changes
-
-| Original Phrase | Revision | Reason |
-| :--- | :--- | :--- |
-| "His surroundings fell quiet" | "His surroundings fell silent" | "Silent" is more absolute and dramatic than "quiet," fitting the sudden attention shift. |
-| "primeval qi... generated this pressure" | "...generated this tangible weight" | Avoids repeating "pressure." "Tangible weight" emphasizes the physical sensation of high-concentration Qi. |
-| "Before every last one entered it" | "Before every last one entered his skin" | More visceral and specific than "it." |
-| "How could he contend with this pack..." | "How could he contend with such a pack?" | Tightens the rhetorical question. |
-| "At the lower end... almost at the point where he could no longer survive" | "At the bottom... on the verge of extinction" | More concise and impactful phrasing for his dire situation. |
-| "That Gu gave him strength" | "That Gu gave him Strength" | Capitalizing "Strength," "Wisdom," and "Hope" treats them as proper nouns/deities, fitting the mythological tone. |
-| "mind no longer works as quickly" | "mind slows" | Removes clunky phrasing for a sharper observation on aging. |
-| "devoid of splendour or brilliance" | Kept as is | Excellent description of Hope Gu's humble appearance before activation. |
-| "give your heart to hope" | Kept as is | Core thematic line. Must remain exact. |
-| "clustering of their own accord" | "clustered of their own accord" | Corrected tense consistency with the narrative flow. |
-| "Twenty-four, twenty-five..." | *"Twenty-four… twenty-five…"* | Italics indicate internal counting. Ellipses suggest the rhythmic pacing of his steps. |
-| "between his kidneys" | Kept as is | Anatomically correct translation of *shen shu* (kidney cavity/life gate), crucial for cultivation lore. |
-| "bowstring suddenly pulled back" | "bowstring pulled back to its limit" | Adds tension and precision to the simile. |
-| "light sheen of perspiration" | Kept as is | Precise description of the physical release after breakthrough. |
-| "hope of immortality!" | "hope of immortality." | Removed exclamation mark. Fang Yuan is calm and analytical; a period reflects his cold satisfaction better than excitement. |

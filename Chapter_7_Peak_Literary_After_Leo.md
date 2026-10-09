@@ -1,4 +1,4 @@
-# Chapter 7: Gu Masters Have Nine Ranks; Flower-Wine Monk Leaves His Hidden Inheritance — My Perfection After Leo — Polished Literary Revision
+# Gu Masters Have Nine Ranks; Flower-Wine Monk Leaves His Hidden Inheritance
 
 Soon, a week had passed.
 
@@ -48,7 +48,7 @@ As the murmurs around him grew louder and louder, the Academy Elder’s frown de
 
 In the entire classroom, the youths all sat straight and proper, radiating youthful vigour; this made Fang Yuan, who lay sprawled asleep over his desk, stand out even more glaringly.
 
-“A whole week has passed, and he is still so dispirited. Humph, I must have misjudged him back then. How could such a person possibly be a genius.” The elder snorted coldly with displeasure in his heart. He had already spoken to Fang Yuan about this situation many times, but it had no effect at all. Fang Yuan continued to do as he pleased. He slept through every lesson, which gave the Academy Elder a terrible headache and much annoyance.
+*“A whole week has passed, and he is still so dispirited. Humph, I must have misjudged him back then. How could such a person possibly be a genius.”* The elder snorted coldly with displeasure in his heart. He had already spoken to Fang Yuan about this situation many times, but it had no effect at all. Fang Yuan continued to do as he pleased. He slept through every lesson, which gave the Academy Elder a terrible headache and much annoyance.
 
 “Forget it, he is just Grade C anyway. He cannot even withstand a blow like this. With a temperament like that, even if he were nurtured, he could hardly amount to anything; it would instead be a waste of the clan's resources.” The elder was thoroughly disappointed in Fang Yuan.
 
@@ -108,4 +108,4 @@ Oh.
 
 The next moment, the entire classroom cheered.
 
-“Finally, it’s time to refine a Gu worm. So which Gu worm should I pick?” A sharp gleam flashed and vanished in Fang Yuan’s eyes.
+*“Finally, it’s time to refine a Gu worm. So which Gu worm should I pick?”* A sharp gleam flashed and vanished in Fang Yuan’s eyes.

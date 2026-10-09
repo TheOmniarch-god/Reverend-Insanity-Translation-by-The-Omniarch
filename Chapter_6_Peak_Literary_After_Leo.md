@@ -1,4 +1,4 @@
-# Chapter 6: The Road to the Future Will Be Interesting — My Perfection After Leo — Polished Literary Revision
+# The Road to the Future Will Be Interesting
 
 The aperture was a thing of surpassing mystery. Though lodged within Fang Yuan’s body, it did not share space with his internal organs. You could call it infinitely vast; you could just as well call it infinitely small. Some called it the Purple Palace. Others, the Flowery Pool. Most, however, called it the Primeval Sea Aperture. This was what the Hope Gu had become: burst apart, then drawn together into a single layer of light. It was precisely this membrane of light that held the aperture together and kept it from collapsing.
 
@@ -22,7 +22,7 @@ An uproar swept through the crowd.
 
 “Brother…” In the crowd, Gu Yue Fang Zheng raised his head and stared in shock at Fang Yuan wading back across the river. He could not believe the scene before him. His own elder brother was only of Grade C?
 
-He had always believed his elder brother would be of Grade A aptitude. No—not only he. His uncle and aunt, and many others in the clan, had believed the same. And yet now, this was the result!
+He had always believed his elder brother would be of Grade A aptitude. No-not only he. His uncle and aunt, and many others in the clan, had believed the same. And yet now, this was the result!
 
 “Damn it. Only of Grade C!” The Clan Leader clenched his fists in secret and let out a deep sigh. His disappointment was plain beyond words.
 
@@ -38,15 +38,17 @@ Among the elders watching in secret, some knitted their brows, some lowered thei
 
 “Haa. The greater the hope, the greater the disappointment. The Gu Yue clan grows worse with every generation.”
 
+* * *
+
 The icy river water soaked through his socks, cold enough to bite at the bone. Fang Yuan walked on, his face as expressionless as ever. The distance closed, and he could clearly see the heavy look on the Academy Elder’s face. He could feel keenly the eyes of more than a hundred youths fixed on him. In those eyes there was astonishment, shock, mockery, delight at his misfortune, sudden understanding, and cold indifference. The scene was identical, and it drew Fang Yuan’s thoughts back to his previous life.
 
 Back then, he had felt as if the sky had come down. He had missed his footing crossing the river and gone sprawling, soaked through and out of his wits. Not one person had put out a hand to help him. Those disappointed, indifferent faces and eyes had been like sharp knives slicing his heart away piece by piece. His thoughts had run wild, and a dull ache had spread through his chest. It was like falling from the clouds to the ground. The higher one stood, the harder one fell.
 
-But in this life, standing once more in such a scene, Fang Yuan was utterly calm. He thought of that legend. *When predicaments come, entrust your heart to hope.* And now that hope lay within his own body. It was not a great hope, but it was already better than those with no aptitude for cultivation at all. If others were disappointed by it, then let them be disappointed. What of it? What is the disappointment of others to me? What matters is that one keeps hope in one’s own heart!
+But in this life, standing once more in such a scene, Fang Yuan was utterly calm. He thought of that legend. When predicaments come, entrust your heart to hope. And now that hope lay within his own body. It was not a great hope, but it was already better than those with no aptitude for cultivation at all. If others were disappointed by it, then let them be disappointed. What of it? What is the disappointment of others to me? What matters is that one keeps hope in one’s own heart!
 
 Five hundred years of living had taught him one truth: what makes a life interesting is the pursuit of one’s own dreams. There is no need to demand that others withhold their disappointment, or grant their approval.
 
-Go your own way. Let others be disappointed. Let them disapprove!
+Go your own way, and let others be disappointed and disapprove.
 
 “Haa…” The Academy Elder let out a deep sigh, then called again. “Next. Gu Yue Fang Zheng.”
 
