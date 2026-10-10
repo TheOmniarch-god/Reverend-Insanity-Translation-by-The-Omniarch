@@ -1,68 +1,40 @@
-# Chapter 9 Side Notes — Info Articles Outside Main Notes
+# Chapter 9 Side Notes — Info Articles Outside Main Notes (with WebNovel mistakes + Author contradictions + Important takes)
 
-**Per user:** Keep side notes for all chapters outside main notes info articles
+## WebNovel Mistakes Called Out (Ch9)
 
-## Idioms in Chapter 9
+- **P1 红日西沉 west not east:** Raw 红日西沉 = red sun sinks westward. WebNovel official: "sunset was a red hue setting over the east." [m.webnovel.com/book/reverend-insanity...] — East is impossible, sun sets west. Correct westward. Our literary: The red sun sank westward...
+- **Title:** WebNovel "Two people who start on the same road, gradually becoming distant" over-literal long. Our literary Drifting Further Apart captures parallel to final scene 渐行渐远 drifting into dark road vs myriad lights behind.
 
-### 1. 养育之恩 (P7)
-- Meaning: kindness of raising
-- Source: 晋·袁宏《后汉纪》帝感养育之恩 [baike.baidu.com/item/养育之恩/55849137]
-- Usage: Fang Zheng gratitude speech
+## Author Contradictions / Progress
 
-### 2. 白手起家 (P73)
-- Meaning: start with empty hands, build from nothing
-- Source: 朱子语类, 邹仲翔墓志铭赤手起家, 例窦乂白手起家万贯家财 [baike.baidu.com/item/白手起家/447121]
-- Fang Yuan philosophy: self-reliance
-- Keep consistent: white hands start house vs starting with empty hands — we use starting with empty hands (British idiom)
+- **Ch1 vs Ch9 万家灯火:** Ch1 says 虽称不上万家灯火，却也有数千的规模 [acgo.cn/discuss/rest/53074] — NOT ten thousand but several thousand. Ch9 says 万家灯火 behind. Contradiction? 万家灯火 idiom from Bai Juyi 灯火万家城四畔 [baike 5684092] means many lights, not literal count. So poetic exaggeration, not literal error. Our fix: myriad lights of home not ten thousand homes to avoid number clash.
+- **Grey vs Heavy Darkness:** P2 grey veil, P69 darkness heavy heavy, P60 dense night. Author uses grey for rainy overcast then heavy darkness for night — grey okay for rainy weather as you noted because mountain rain coming, heavy darkness interesting word. Keep both.
+- **黑色 vs Darkness:** P2 沉重的黑色 literal heavy black but black definition includes light absence 漆黑的夜晚 [baike]. So darkness justified.
 
-### 3. 小兔崽子 (P46)
-- Meaning: little rabbit brat, now general insult
-- Origin: 晋·张华《博物志》兔望月而孕, 清代指娈童今泛化骂人 [zhidao.baidu.com/question/52698103]
-- Fang Yuan inner: Group of little bastards? We use little rabbit brats to keep flavour but note insult
+## Idioms Sourced (every line checked as you demanded)
 
-### 4. 渐行渐远 (Title + P76)
-- Meaning: walk slowly, distance grows
-- Source: 欧阳修渐行渐远渐无书 [sogou baike v3167849]
-- Kmcha: 慢慢地走着走着就越来越远，比喻关系疏远 [kmcha.com/cidian/渐行渐远]
+- **真面目 P52:** true features true colours真相 [baike 372098], 暴露真面目 show one's colours — not just face, idiom true nature.
+- **人为财死鸟为食亡 P54:** 旧时俗语人为了追求金钱连生命都可以不要 [zhidao 537965113], 出处明增广贤文顺天者存逆天者亡人为财死鸟为食亡. Ren = Men, Tolkien uses Men capital M.
+- **白手起家 P56:** 在没有基础条件很差情况下自力更生艰苦创业 [baike 447121] — starting with empty hands, springboard.
+- **秋波 P75:** 秋天的水波比喻美女眼睛目光清澈明亮蕴含深情 [zhidao 1435278969], 旧时比喻美女眼睛象秋天明净水波 [zhidao 710418124855957805], 暗送秋波暗中眉目传情.
+- **万家灯火 P68:** 千家万户灯光形容城镇灯光四处闪烁夜景 [y5000], 灯火万家出自白居易江楼夕望招客 [baike 5684092]
+- **飘零 P62:** 花叶等凋谢脱落飘落比喻漂泊流落 [bejson], 轻柔物随风自空中飘落 [zdic] — drifting aimlessly no will.
+- **师长 P56:** 老师与长辈对教师的尊称 [baike 4152239] — teacher and senior, mentor vs teacher debate, we use elder for Tolkien archaic.
+- **浊酒 P64:** 未滤的酒 [baike], 暖意 warm feeling rises.
 
-## Lore Sensitivity
+## Tolkien Kinship Rule (your note)
 
-### 漫天繁星 → sky not heavens
-- You flagged p40 literal sky full of stars but peak used heavens when novel sensitive everything important
-- Fixed: stars filling the sky mostly veiled
-- Reason: heavens = 天 in RI lore (heaven's will, etc), sensitive, keep sky for astronomical
-- Lock for all chapters: 漫天 = filling sky, not heavens
+- Capitalizing kinship title without article transforms title into proper noun, reflecting tightly-knit family-centric culture of hobbits.
+- Aunt was overjoyed = Proper Noun internal intimate family viewpoint warm domestic folkloric
+- The aunt was overjoyed = Common Noun external narrator formal objective
+- We use Aunt/Uncle as proper nouns no article throughout Ch9, consistent Ch1-now, 31 occurrences, 0 bad article.
 
-### Granny Shen Consistency
-- 沈嬷嬷 = Granny Shen (not Shen Momo, not Shen Granny)
-- Daughter 沈翠 = Shen Cui
-- Keep notes: Momo is transliteration of 嬷嬷 but Granny is British Tolkien accessible, lock Granny Shen
-- Housekeeper in all but name: 名副其实管家 explanation
+## Important Takes for All Chapters (as you demanded)
 
-### Pouch Reason
-- 小袋子 for 6 oval grey-white primeval stones = small pouch (soft, drawstring)
-- Bag = large, generic, wrong for 6 stones
-- Lock: 小袋子 (primeval stones) = small pouch
+- Keep glossary for each word consistency except need for change, style consistent, GitHub always updated.
+- Keep side notes outside main notes info articles, no TTS in discoveries.
+- Tolkien perspective third-person limited (Fang Yuan cold inner) + omniscient (clan description).
+- British spelling grey colour etc, 0 em dash, 0 *, 0 <em>, • • • breaks.
+- Check Chinese internet for every line to source usage.
+- Call out WebNovel mistakes and author contradictions for all chapters.
 
-### Living Room vs Hall
-- 客厅 literal living room, you flagged why hall
-- Fix: living room literal, seats of honour for 主位 (not themain typo)
-- Hall is literary but living room more accurate for clan family house
-- Lock: 客厅 = living room (family), main hall only for clan hall building
-
-### Ellipsis
-- …… raw = scene break, not omission
-- Peak = • • • with class scene-break
-- P49 example, P40 also break
-
-## Tolkien Perspective Note
-- Third-person limited: close to Fang Yuan cold inner monologue (Man dies for wealth... six stones buy me? laughable)
-- Third-person omniscient: clan descriptions, dense night spreading, mountains dissolving
-- Apply shifting as Tolkien does hobbits close thoughts + narrator stepping back
-
-## Style Consistency Checks
-- British: grey, colour rose, travelled, behaviour
-- 0 em dashes, 0 *, 0 <em>
-- • • • breaks at P40 and P49 positions
-- Poem box not in Ch9, but preserve if appears later
-- 1000px width
