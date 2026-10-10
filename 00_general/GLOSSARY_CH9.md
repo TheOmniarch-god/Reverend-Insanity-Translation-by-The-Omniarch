@@ -1,0 +1,34 @@
+# Glossary — Chapter 9 Consistency
+
+- 客厅 = living room (literal) / hall (literary reception hall) — fix hall vs living room, use living room literal, hall literary but note
+- 主位 = seats of honour / main seats — NOT themain typo
+- 小袋子 = small pouch — Reason: small soft drawstring for 6 primeval stones, not large bag. Keep pouch consistent
+- 漫天的繁星 = sky filled with stars — NOT heavens, novel sensitive, heavens implies 天 lore
+- 是名副其实的管家 = housekeeper in all but name — means not officially titled but does all duties
+- 沈嬷嬷 = Granny Shen consistent, daughter 沈翠 = Shen Cui
+- …… = scene break • • •
+- 红日西沉 = red sun west sinks
+- 眉头拧成了疙瘩 = brows knitted into knots
+- 养育之恩 = raising grace
+- 过继 = adopt into household
+- 独立门户 = establish own household
+- 小兔崽子 = little bastard (from 博物志)
+- 人赃俱获 = caught red-handed
+- 酒后乱性 = drunken debauchery
+- 丧心病狂 = utter depravity
+- 浓郁的夜色 = dense night
+- 殷勤 = obsequiously
+- 谄媚 = flattering
+- 器重 = most trusted
+- 贴身丫鬟 = personal maid
+- 人为财死鸟为食亡 = Man dies for wealth as bird dies for food
+- 白手起家 = starting with empty hands
+- 跳板 = springboard
+- 浊酒 = turbid wine
+- 渐行渐远 = drifting ever further away
+- 万家灯火 = lights of ten thousand homes
+- 参茶 = ginseng tea
+- 媚意 = flirtatious charm
+- 秋波 = autumn waves (eyes)
+- 甲等资质 = Grade A aptitude
+- 大富贵 = great fortune
