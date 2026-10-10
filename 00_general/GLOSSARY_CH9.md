@@ -1,15 +1,22 @@
-# Glossary — Chapter 9 Consistency
+# Glossary — Chapter 9 Consistency (Updated with full book Volume 1-6)
 
-- 客厅 = living room (literal) / hall (literary reception hall) — fix hall vs living room, use living room literal, hall literary but note
-- 主位 = seats of honour / main seats — NOT themain typo
-- 小袋子 = small pouch — Reason: small soft drawstring for 6 primeval stones, not large bag. Keep pouch consistent
-- 漫天的繁星 = sky filled with stars — NOT heavens, novel sensitive, heavens implies 天 lore
-- 是名副其实的管家 = housekeeper in all but name — means not officially titled but does all duties
+- 客厅 = living room (literal) / hall literary but we use living room per your fix — 客厅光线暗淡
+- 主位 = seats of honour / main seats — NOT themain typo — 主位 = 主人的席位 [baike 3642562], 最具安全感舒适显赫的座位 [baike 4446668], 尊位上位首席
+- 小袋子 = small pouch — Reason: small soft drawstring for 6 primeval stones, not large bag. Pouch British Tolkien, lock consistent
+- 元石 = primeval stones — FULL DESCRIPTION from entire book Volume 1-6:
+  - First description Ch9 (chapter17.html): 六块椭圆的灰白色元石 — six oval grey-white primeval stones
+  - Ch31 (chapter31.html): 灰白色泽，一个个椭圆体，体积都相等，大小如同鸭蛋 — grey-white colour, each oval body, equal volume, size like duck egg
+  - Ch37 (chapter37.html): 椭圆体半透明的石块，灰白色，随着石内天然真元不断损耗，它的体型也会不断缩小 — oval translucent stone, grey-white, shrinks as natural essence depletes
+  - Ch477: 普通的元石，大小如同鸭蛋，是椭圆状的灰白石头 — ordinary, duck egg size, oval grey-white
+  - 仙元石 contrast: 同样鸭蛋大小，却不是椭圆，而是圆珠状 — immortal same size but round bead not oval
+  - Lock: low-grade primeval stones = oval, grey-white, translucent, duck-egg size, shrinks as essence depletes — first introduced Ch9 P7, detailed Ch31/Ch37/Ch477
+- 漫天的繁星 = sky filled with stars — NOT heavens, novel sensitive 天 lore
+- 是名副其实的管家 = housekeeper in all but name — not officially titled but does all duties
 - 沈嬷嬷 = Granny Shen consistent, daughter 沈翠 = Shen Cui
-- …… = scene break • • •
-- 红日西沉 = red sun west sinks
-- 眉头拧成了疙瘩 = brows knitted into knots
-- 养育之恩 = raising grace
+- …… = scene break • • • — raw ellipsis at P49, editorial break also after plotting
+- 红日西沉 = red sun west sinks — west not east, WebNovel official says east [WebNovel Ch9] is wrong, sun sets west, rises east 东升
+- 眉头拧成了疙瘩 = brows knitted into a knot
+- 养育之恩 = kindness of raising
 - 过继 = adopt into household
 - 独立门户 = establish own household
 - 小兔崽子 = little bastard (from 博物志)
@@ -21,14 +28,17 @@
 - 谄媚 = flattering
 - 器重 = most trusted
 - 贴身丫鬟 = personal maid
-- 人为财死鸟为食亡 = Man dies for wealth as bird dies for food
-- 白手起家 = starting with empty hands
+- 人为财死鸟为食亡 = Men die for wealth as birds die for food — Men capital Tolkien, 旧时俗语 [zhidao]
+- 白手起家 = starting with empty hands — 在没有基础条件很差情况下自力更生 [baike 447121]
 - 跳板 = springboard
-- 浊酒 = turbid wine
-- 渐行渐远 = drifting ever further away
-- 万家灯火 = lights of ten thousand homes
+- 浊酒 = turbid wine — 未滤的酒, 暖意 warm feeling
+- 渐行渐远 = drifting ever further away — title parallel to final scene 方源...在黑暗的路中渐行渐远, behind myriad lights
+- 万家灯火 = myriad lights of home — idiom from Bai Juyi 灯火万家城四畔 [baike 5684092], many homes lights not literal ten thousand, Ch1 says 虽称不上万家灯火却也有数千规模 [acgo] — several thousand not ten thousand, so myriad avoids contradiction
 - 参茶 = ginseng tea
 - 媚意 = flirtatious charm
-- 秋波 = autumn waves (eyes)
-- 甲等资质 = Grade A aptitude
+- 秋波 = autumn waves — 秋天的水波比喻美女眼睛目光清澈明亮蕴含深情 [zhidao], 暗送秋波眉目传情
+- 甲等资质 = Grade A aptitude — aptitude consistent not talent
+- 师长 = teacher and senior, teacher and elder — 对教师的尊称 [baike 4152239], we use elder/guidance of any elder for Tolkien archaic, mentor also valid
+- 真面目 = true colours — true features true colours真相 [baike 372098], 暴露真面目 show one's colours, not just face
+- 飘零 = faded and fallen, drifting homeless [bejson], 轻柔物随风自空中飘落 [zdic] — drifting aimlessly no will
 - 大富贵 = great fortune
