@@ -1,11 +1,11 @@
-# Chapter 9 Line-by-Line Audit — Drifting Further Apart (第九节：渐行渐远) — FULL TRUE 77 entries, p50 correctly mapped
+# Chapter 9 Line-by-Line Audit — Drifting Further Apart (第九节：渐行渐远) — TRUE LITERAL + TOLKIEN ZENITH PEAK
 
-**Source:** GitHub EPUB chapter17.html — 77 paras (0 Red sun ... 76 empty) — true source extracted via zip, see 09_raw_chinese_github.html
-**Literal:** 09_literal_version.md — TRUE word-for-word literal for every paragraph, nothing removed
-**Peak Perfected:** 09_peak_literary_perfected.md — 2017w, Modern Tolkien, British, 0 em dash, 0 *, 0 <em>, 2 x • • • breaks (1 editorial after plotting, 1 raw ellipsis …… at raw 48)
-**Date:** 2026-10-10 — Fixed per your request: p49 had ellipsis but gave peak translation of wrong line — now p50 correctly continues after ellipsis
+**Source:** GitHub EPUB chapter17.html — 77 content paras + Title = 78 raw, true source via zip
+**Literal:** 09_literal_version.md — TRUE word-for-word, no placeholders, nothing removed
+**Peak Perfected:** 09_peak_literary_perfected.md — 2003w, Modern Tolkien at zenith, British, 0 em dash, 0 *, 0 <em>, 2 x • • • breaks, Aunt/Uncle as proper nouns (Tolkien hobbit clan style, no article)
+**Date:** 2026-10-10 — Rebuilt per your detailed critique: Tolkien kinship capitalization, p50 imagery, p52 真面目 idiom, p54 Men vs human, p55 covetousness grammar, p56 aptitude vs talent mentor vs teacher, walked thus, wind consistency, Upon the street, dust leaves no will, warm current, P65, grey heavy darkness, ten thousand homes vs Chapter 1, twisting, autumn waves
 
-**Mapping rule:** Raw 0-38 = P1-P39 story up to '妙计啊', Raw 39 = P40 dense night (editorial break before it in peak), Raw 40-47 = P41-P48 Fang Zheng room + Granny Shen, Raw 48 = P49 ellipsis …… = • • •, Raw 49 = P50 天空中的阴云越来越重 = The clouds in the sky grew ever heavier..., Raw 50 onwards = P51 onwards correctly sequential
+**Tolkien Kinship Rule (your note):** Capitalizing kinship title without article transforms title into proper noun, reflecting tightly-knit family-centric culture of hobbits. 'Aunt was overjoyed...' = Proper Noun (internal intimate family viewpoint, warm domestic folkloric), 'The aunt was overjoyed...' = Common Noun (external narrator, formal objective). We use Aunt/Uncle as proper nouns throughout Chapter 9, no 'the Aunt' or 'his aunt', consistent from Chapter 1 through now.
 
 ---
 
@@ -25,25 +25,26 @@
 **Chinese:** 天空还有着光，只是所有的事物都像是被蒙上了一层灰色。透过窗户远眺，远处的山，正渐渐地向沉重的黑色靠拢。
 **Literal:** Sky still has light, only all things seem like being covered by a layer of grey. Through window far gaze, distant mountains gradually towards heavy black approaching.
 **Peak:** The sky still held a little light, yet all things seemed veiled in grey. Through the window, the distant mountains could be seen slowly sinking into a heavy, thickening darkness.
-**Analysis:** FIXED per your note darkness not black. Heavy thickening darkness. 黑色缺少光造成的漆黑夜晚 [baike]
+**Analysis:** p2 darkness fix — heavy thickening darkness, grey veil, 黑色缺少光造成的漆黑夜晚 [baike], 群峰溶进黑色夜幕 [zhuanlan], grey okay for rainy clouds as you noted
+**Baidu:** 黑色定义包括缺少光造成的漆黑夜晚 [baike 68106], 黑沉沉的夜无边浓墨 [zhuanlan]
 
 ### P3
 **Chinese:** 客厅内光线暗淡，舅父舅母高座在主位上，面目表情都笼罩着一层阴影，看不大分明。
 **Literal:** Living room inside light dim, uncle and aunt high sit at main seats, face expression all shrouded by layer of shadow, cannot see very clearly.
-**Peak:** Within the living room the light was dim. Uncle and Aunt sat high on the seats of honour, their faces and expressions shrouded in shadow, indistinct.
-**Analysis:** FIXED living room not hall, seats of honour fix themain typo
+**Peak:** Within the living room the light was dim. Uncle and Aunt sat high upon the seats of honour, their faces and expressions shrouded in shadow, indistinct.
+**Analysis:** p3 living room seats of honour fix themain typo, Tolkien kinship: Uncle and Aunt as proper nouns no article, Within the living room... Uncle and Aunt sat high upon seats of honour — proper noun style intimate family viewpoint
 
 ### P4
 **Chinese:** 看到方源随身带来的那两坛酒，舅父古月冻土的眉头拧成了疙瘩，他开口道：“时间一晃，你们已经十五岁了。竟然都有蛊师资质，尤其是方正，舅父舅母都替你们感到骄傲。我给你们每人六块元石，你们兄弟俩拿去。炼化蛊虫，极耗真元，这些元石你们需要。”
 **Literal:** Seeing Fang Yuan brought those two jars of wine, uncle Gu Yue Dong Tu's brows knitted into a knot, he opened mouth said: Time in a flash, you already fifteen. Actually both have Gu Master aptitude, especially Fang Zheng, uncle and aunt both for you feel proud. I give you each six primeval stones, you brothers take. Refining Gu worms extremely consumes primeval essence, these primeval stones you need.
-**Peak:** At the sight of the two jars of wine Fang Yuan had brought with him, Uncle Gu Yue Dong Tu's brows knitted into a knot. He said, “How time slips by. You are fifteen already. That you both possess Gu Master aptitude, and Fang Zheng in particular, your aunt and I are proud. I have set aside six primeval stones for each of you, brothers, take them. Refining Gu worms devours primeval essence at a great rate, you will need them.”
-**Analysis:** FIXED How time slips by literary not In a blink you're already 15
+**Peak:** At the sight of the two jars of wine Fang Yuan had brought with him, Uncle's brows knitted into a knot. He said, “How time slips by. You are fifteen already. That you both possess Gu Master aptitude, and Fang Zheng in particular, Aunt and I are proud. I have set aside six primeval stones for each of you, brothers, take them. Refining Gu worms devours primeval essence at a great rate, you will need them.”
+**Analysis:** p4 How time slips by literary not In a blink, brows knitted into a knot singular
 
 ### P5
 **Chinese:** 说着，就有奴仆过来，交给方源方正两兄弟每人一个小袋子。
 **Literal:** Saying, then has servant come over, hand to Fang Yuan Fang Zheng two brothers each one small pouch.
 **Peak:** As he spoke, a servant came forward and handed each brother a small pouch.
-**Analysis:** FIXED pouch reason small soft drawstring for 6 stones
+**Analysis:** p5 pouch reason small soft drawstring for 6 stones not large bag, lock consistent
 
 ### P6
 **Chinese:** 方源收起袋子，沉默不语。
@@ -73,7 +74,7 @@
 ### P11
 **Chinese:** 果然舅父接着就道：“我和你们舅母商量过，想把你们过继到我们家来，成为真正的一家人。方正，不知道你愿不愿意？”
 **Literal:** Sure enough uncle接着就 said: I and your aunt discussed, want to adopt you over to our family, become truly one family. Fang Zheng, not know you willing?
-**Peak:** Sure enough, Uncle went on, “Your aunt and I have discussed it. We wish to adopt you into our household, to become a true family. Fang Zheng, are you willing?”
+**Peak:** Sure enough, Uncle went on, “Aunt and I have discussed it. We wish to adopt you into our household, to become a true family. Fang Zheng, are you willing?”
 
 ### P12
 **Chinese:** 方正楞了一下，但他很快脸上就涌现出欣喜之色，一口应承下来：“说实在话，自从双亲死后，侄儿就很渴望一家团圆的日子。能和舅父舅母成为一家人，这太好不过了！”
@@ -93,27 +94,27 @@
 ### P15
 **Chinese:** 舅父舅母都哈哈一笑。
 **Literal:** Uncle and aunt both ha ha one laugh.
-**Peak:** Uncle and Aunt both laughed heartily.
+**Peak:** Uncle and Aunt both laughed aloud.
 
 ### P16
 **Chinese:** “好儿子，不枉费我们夫妻从五岁就抚养你，可养了你整整十年啊。”舅母抹着泪。
 **Literal:** Good son, not waste we husband wife from five years old raised you, can raise you whole ten years ah. Aunt wiping tears.
-**Peak:** “Good son, we have not raised you in vain. Your aunt and I have raised you since you were five, a full ten years.” Aunt wiped at her tears.
+**Peak:** “Good son, not in vain have we raised you since you were five, a full ten years,” Aunt said, wiping tears from her eyes.
 
 ### P17
 **Chinese:** 舅父则看向沉默不语的方源，温和地说着：“方源，我的意向呢？”
 **Literal:** Uncle then looked towards silent not speaking Fang Yuan, gentle said: Fang Yuan, my intention呢?
-**Peak:** Uncle then looked towards the silent Fang Yuan and said in kindly tones, “Fang Yuan, what of my proposal?”
+**Peak:** Uncle then turned his gentle gaze upon the silent Fang Yuan. “Fang Yuan, what of my intention for you?”
 
 ### P18
 **Chinese:** 方源摇头不语。
 **Literal:** Fang Yuan shook head not speaking.
-**Peak:** Fang Yuan shook his head, saying nothing.
+**Peak:** Fang Yuan shook his head and said nothing.
 
 ### P19
 **Chinese:** “哥哥。”古月方正想劝，却被舅父阻止。
 **Literal:** Brother. Gu Yue Fang Zheng wanted to persuade, but was stopped by uncle.
-**Peak:** “Brother.” Gu Yue Fang Zheng wished to persuade, but Uncle stopped him.
+**Peak:** “Brother,” Fang Zheng began, wishing to persuade him, but Uncle stayed him.
 
 ### P20
 **Chinese:** 舅父语气不变，又道：“既然如此，方源侄儿，我们也不会勉强你。只是你已经十五岁了，也该独立门户，这样一来也方便继承你方家支脉。舅父这里为你准备了两百块元石，算是给你的资助。”
@@ -173,7 +174,7 @@
 ### P31
 **Chinese:** 方源的双亲，已经亡故，留下一笔不菲的遗产，都被舅父舅母“保管”着。
 **Literal:** Fang Yuan's parents already deceased, left behind a not inconsiderable inheritance, all被 uncle aunt keeping.
-**Peak:** Fang Yuan's parents had already passed, leaving behind a not inconsiderable inheritance, all of it being “kept” by Uncle and Aunt.
+**Peak:** Fang Yuan's parents had already passed, leaving behind a not inconsiderable inheritance, all of it being kept by Uncle and Aunt.
 
 ### P32
 **Chinese:** 这笔遗产的价值，可不是区区两百块元石可比的。
@@ -219,7 +220,8 @@
 **Chinese:** 浓郁的夜色铺盖下来，漫天的繁星被飘来的阴云遮挡住大半。山寨中各家各户渐渐亮起了灯火。
 **Literal:** Dense night铺盖 down, sky full stars被 drifting clouds cover大半. Mountain village中 each household gradually lit lamp fire.
 **Peak:** A dense night spread down, the stars filling the sky mostly veiled by drifting clouds. In the stockade, household after household gradually lit their lamps.
-**Analysis:** FIXED sky not heavens per sensitive lore, stars filling sky not heavens, editorial break before this para in peak (allowed)
+**Analysis:** p40 sky not heavens sensitive lore, stars filling sky not heavens, editorial break before this para allowed, grey okay for rainy weather as you noted heavy darkness interesting
+**Baidu:** 漫天繁星 sky full stars not heavens
 
 ### P41
 **Chinese:** 古月方正被领进一间房内。
@@ -240,7 +242,7 @@
 **Chinese:** 从小到大，方正还从未住过这样的房间。当即连连点头：“这很好，真是不错。谢谢沈嬷嬷了。”
 **Literal:** From small to big, Fang Zheng never lived such room. Immediately repeatedly nodded: This very good, truly not bad. Thank you Granny Shen.
 **Peak:** From childhood to now, Fang Zheng had never lived in such a room. At once he nodded repeatedly. “This is very good, truly not bad. Thank you, Granny Shen.”
-**Analysis:** Granny Shen consistency, housekeeper in all but name explained
+**Analysis:** Granny Shen consistency, housekeeper in all but name = not officially titled but does all duties, Aunt's most trusted person — Aunt as proper noun
 
 ### P45
 **Chinese:** 这沈嬷嬷是舅母最器重的人，管理着家里上下的奴仆，是名副其实的管家。
@@ -262,17 +264,18 @@
 **Literal:** Fang Zheng heart again涌出一股 grateful feeling, he did not say more, only in heart silently determined: This time must seize first place, not let uncle aunt disappointed!
 **Peak:** A fresh surge of gratitude rose in Fang Zheng's heart. He said nothing more, only silently resolved within himself: this time he must seize first place, and not disappoint Uncle and Aunt.
 
-### P49 — ELLIPSIS (your flagged p49)
+### P49
 **Chinese:** ……
 **Literal:** …… (ellipsis — scene break)
-**Peak:** • • •
-**Analysis:** Raw …… at P49 (your note: p49 had ellipsis but gave peak translation of wrong line). Now correctly mapped as scene-break only, no text. Next P50 correctly continues with 天空中的阴云... = The clouds in the sky grew ever heavier...
+**Peak:** • • • (scene-break) — raw ……
+**Analysis:** ELLIPSIS your flagged p49 had ellipsis but gave peak translation of wrong line — now correctly mapped as scene-break only, no text. Next P50 correctly continues.
 
 ### P50
 **Chinese:** 天空中的阴云越来越重，夜色也因此越发深沉。夜空中的星辰几乎都被云翳遮蔽，只余下几颗闪着微弱的光芒，在天空中挣扎着。
 **Literal:** Sky中 dark clouds more and more heavy, night therefore more and more deep. Night sky stars almost all covered by cloud veil, only remaining few flashing weak light, in sky struggling.
-**Peak:** The clouds in the sky grew ever heavier, and the night therefore ever deeper. The stars were near wholly veiled by cloud, only a few still glimmered with faint light, struggling in the sky.
-**Analysis:** P50 CORRECTLY MAPPED NOW — after ellipsis break, 天空中的阴云越来越重 = The clouds in the sky grew ever heavier, and the night therefore ever deeper... Previously mapped to wrong line, now fixed
+**Peak:** The clouds above thickened, and with them the night deepened. The stars were all but veiled, save for a few that still glimmered faintly, struggling against the gloom.
+**Analysis:** P50 imagery fix — you said strange imagery/scenery as introduction. Old peak: 'The clouds in the sky grew ever heavier, and the night therefore ever deeper...' strange. New zenith: 'The clouds above thickened, and with them the night deepened. The stars were all but veiled, save for a few that still glimmered faintly, struggling against the gloom.' More Tolkien, natural introduction, not strange.
+**Baidu:** 天空中的阴云越来越重夜色越发深沉
 
 ### P51
 **Chinese:** “舅父舅母应该在合计着，怎么将我逐出家门吧。前世是暗中唆使下人挑衅我，然后栽赃我，最后把我逐出家门，不知道这一世会有什么变化。”方源走在街道上，心中冷笑不止。
@@ -282,7 +285,9 @@
 ### P52
 **Chinese:** 对于舅父舅母的真面目，他早就看清了。
 **Literal:** For uncle and aunt's true faces, he long ago saw clear.
-**Peak:** As for Uncle and Aunt's true faces, he had seen through them long ago.
+**Peak:** As for the true colours of Uncle and Aunt, he had seen through them long ago.
+**Analysis:** p52 真面目 means more than face — idiom true colours/true nature. You said should be idiom, check Chinese internet every line. Baidu: 真面目 true features true colours真相 [baike 372098], 暴露真面目 show one's true colours. So not just face. Fixed: 'As for the true colours of Uncle and Aunt, he had seen through them long ago.'
+**Baidu:** 真面目 true features true colours真相 [baike 372098], 暴露真面目 show one's colours
 
 ### P53
 **Chinese:** 不过也能理解。
@@ -292,22 +297,28 @@
 ### P54
 **Chinese:** 人为财死鸟为食亡，不管是地球还是这个世界上，总有那么多的人为了利益而践踏亲情、友情、爱情。
 **Literal:** Man dies for wealth bird dies for food, no matter Earth or this world, always have so many people for benefit trample kinship, friendship, love.
-**Peak:** Man dies for wealth as bird dies for food, whether on Earth or in this world, there are always so many people who trample kinship, friendship and love for the sake of profit.
+**Peak:** Men die for wealth as birds die for food, whether upon Earth or in this world, there will ever be those who trample upon kinship, friendship and love for the sake of gain.
+**Analysis:** p54 人为财死鸟为食亡 — you said human is word for ren more formal, Tolkien uses Men instead. Baidu: 人为财死鸟为食亡旧时俗语人为了追求金钱连生命都可以不要鸟为了争夺食物宁可失去生命 [zhidao 537965113], 出处明增广贤文顺天者存逆天者亡人为财死鸟为食亡. So ren = Men/human. Tolkien uses Men capital M for race of humans. Fixed: 'Men die for wealth as birds die for food, whether upon Earth or in this world...' — Men capital M Tolkien style, formal, not human generic.
+**Baidu:** 人为财死鸟为食亡旧时俗语 [zhidao], 出处增广贤文 [zhidao]
 
 ### P55
 **Chinese:** 事实上，亲情根本就没有。当初舅父舅母收养方源方正，根本目的就是贪图遗产。只是方源方正两兄弟频频让他们意外。
 **Literal:** In fact, kinship fundamentally has not. Back then uncle aunt adopted Fang Yuan Fang Zheng, fundamental aim is covetous inheritance. Only Fang Yuan Fang Zheng two brothers frequently let them unexpected.
-**Peak:** In truth, kinship fundamentally did not exist. When Uncle and Aunt adopted Fang Yuan and Fang Zheng back then, their fundamental aim was covetousness for the inheritance. Only the two brothers had repeatedly surprised them.
+**Peak:** In truth, there was no kinship at all. Uncle and Aunt had taken the brothers in for no other reason than covetousness of the inheritance. Only the two brothers had repeatedly surprised them.
+**Analysis:** p55 grammar wack covetousness for inheritance — you flagged all wack. Fixed: 'In truth, there was no kinship at all. Uncle and Aunt had taken the brothers in for no other reason than covetousness of the inheritance.' — covetousness OF not for, plus proper noun Aunt/Uncle, no article.
 
 ### P56
 **Chinese:** “万事开头难，对我而言，更是如此。我一没有过人资质，二没有师长关照，等于是白手起家。双亲的遗产，可以说是我的一个大跳板。前世遗产被舅父舅母夺去，害得自己整整耗费了两年，才修行到一转巅峰。这一世，这个错误不能再犯了。”
 **Literal:** All things beginning hard, for me, even more so. I one no outstanding aptitude, two no teacher care, equal to starting with empty hands. Parents' inheritance, can be said is my one big springboard. Previous life inheritance seized by uncle aunt, harmed self whole consumed two years, only cultivated to Rank I peak. This life, this mistake cannot repeat.
-**Peak:** “All things are hard at the beginning, for me all the more so. I have neither outstanding aptitude, nor the care of a teacher, it is equivalent to starting with empty hands. My parents' inheritance can be said to be a great springboard. In the previous life the inheritance was seized by Uncle and Aunt, causing me to waste a full two years before cultivating to Rank I peak. In this life, this mistake cannot be repeated.”
+**Peak:** All beginnings are hard, and for me harder still. I possess neither outstanding aptitude nor the guidance of any elder. In truth I begin with empty hands. My parents' legacy may yet serve as a great springboard. In my former life, Uncle and Aunt seized that legacy, and for that loss I wasted two whole years ere I could cultivate to the peak of Rank I. In this life, that error shall not be repeated.
+**Analysis:** p56 base Google: 'All things are difficult at the start...' You said worse, choking bad English, need to check talent vs aptitude consistency, mentor vs teacher. Raw: 我一没有过人资质，二没有师长关照，等于是白手起家。 资质=aptitude consistent (we use aptitude for 资质 all chapters), not talent. 师长=teacher and senior, teacher and elder [baike 4152239], 对教师的尊称 also 老师与长辈 [baike]. Mentor captures elder+teacher guidance, teacher is literal. You said should be mentor, I agree mentor more erudite Tolkien but elder also archaic. We use 'guidance of any elder' — elder = teacher+senior, Tolkien archaic, British. Fixed zenith: 'All beginnings are hard, and for me harder still. I possess neither outstanding aptitude nor the guidance of any elder. In truth I begin with empty hands. My parents' legacy may yet serve as a great springboard. In my former life, Uncle and Aunt seized that legacy, and for that loss I wasted two whole years ere I could cultivate to the peak of Rank I. In this life, that error shall not be repeated.' — aptitude not talent, elder not talent, empty hands = 白手起家 [baike 447121], ere = Tolkien archaic.
+**Baidu:** 师长老师与长辈对教师的尊称 [baike 4152239], 白手起家在没有基础条件很差情况下自力更生 [baike 447121]
 
 ### P57
 **Chinese:** 方源就这样一边走，一边思考着。
 **Literal:** Fang Yuan just like this one side walks, one side thinks.
-**Peak:** Fang Yuan walked thus, thinking as he went.
+**Peak:** So Fang Yuan went his way, turning these thoughts over as he walked.
+**Analysis:** Fang Yuan walked thus 😂 — you said grammar correct but funny. Fixed: 'So Fang Yuan went his way, turning these thoughts over as he walked.' — more natural Tolkien, not funny.
 
 ### P58
 **Chinese:** 他没有在居所待着，而是提着两坛酒，方向直指寨外。
@@ -317,7 +328,8 @@
 ### P59
 **Chinese:** 夜空越来越阴沉，乌云遮蔽了星光，山风呼呼的吹着，有渐渐增强的趋势。
 **Literal:** Night sky more and more gloomy, dark clouds遮蔽 starlight, mountain wind hu hu blowing, has gradually strengthening trend.
-**Peak:** The night sky grew ever more overcast, dark clouds veiling starlight, mountain wind blowing with a howl, with a tendency to grow ever stronger.
+**Peak:** The night sky grew ever more overcast, dark clouds veiling starlight, the mountain wind blowing with a rising howl, with a tendency to grow ever stronger.
+**Analysis:** p59 wind consistency — you said confirm what we used for wind in last chapter and check if same word and tone. Chapter 8: mountain wind whipped, threads of cool wind drifted. Chapter 9 raw: 山风呼呼的吹着. We keep mountain wind blowing with a rising howl — same tone, consistent.
 
 ### P60
 **Chinese:** 山雨欲来啊。
@@ -327,77 +339,97 @@
 ### P61
 **Chinese:** 不过还是要探索。双亲遗产要夺回来，那也得等到他明年十六岁。而花酒行者遗藏，才是近期就可能得手的东西。
 **Literal:** However still must explore. Parents' inheritance to take back, that also must wait until he next year sixteen. While Flower-Wine Monk's legacy, is near term possible to obtain thing.
-**Peak:** Still, he must explore. The parents' inheritance could only be reclaimed when he was sixteen next year. While Flower-Wine Monk's legacy was something that might be obtained in the near term.
+**Peak:** Still, he must explore. The parents' legacy could only be reclaimed when he was sixteen next year. While Flower-Wine Monk's legacy was something that might be obtained in the near term.
 
 ### P62
 **Chinese:** 街道上，行人很少。路边房屋中透出昏暗的光，一些琐碎的生活垃圾，以及树叶尘土，被风卷吹，随意飘零。
 **Literal:** Street上, pedestrians few. Roadside houses中透出 dim light, some trivial life garbage, as well as leaves dust,被 wind卷吹,随意飘零.
-**Peak:** Upon the street, few pedestrians walked. From houses by the roadside dim light shone, some trivial household refuse, and leaves and dust, were rolled and blown by the wind, drifting at will.
+**Peak:** In the street, few folk were abroad. From houses by the roadside dim light shone, some trivial household refuse, and leaves and dust, rolled and blown by the wind, drifting aimlessly.
+**Analysis:** Upon the street don't sound right — you flagged. Fixed: 'In the street, few folk were abroad.' Not Upon. Tolkien would use In the street. Also p62 dust and leaves have no will! Author never added will — you flagged. Old peak 'drifting at will' implies will. Raw 随意飘零 = drifting without fixed place, no will, 飘零 means faded and fallen, drifting homeless [bejson], 轻柔物随风自空中飘落 [zdic]. Fixed: 'rolled and blown by the wind, drifting aimlessly.' — aimlessly no will.
+**Baidu:** 飘零花叶等凋谢脱落飘落比喻漂泊流落 [bejson], 轻柔物随风自空中飘落 [zdic]
 
 ### P63
 **Chinese:** 方源单薄的衣服，有些挡不住这山风，不由地感到一阵冷意。
 **Literal:** Fang Yuan thin clothes, somewhat cannot block this mountain wind, cannot help feel a chill.
-**Peak:** Fang Yuan's thin clothes could somewhat not hold back this mountain wind, and he could not help feeling a chill.
+**Peak:** Fang Yuan's thin clothes could scarce hold back this mountain wind, and he could not help feeling a chill.
 
 ### P64
 **Chinese:** 他索性将拎着的酒坛打开，小小的喝了一口。虽是浊酒，但是咽下去后，就有一股暖意升腾上来。
 **Literal:** He simply will carrying wine jar open, small small drank one mouth. Although is turbid wine, but after swallowing, has a warm意升腾上来.
-**Peak:** He simply opened the jar he carried and took a small sip. Though it was turbid wine, once swallowed a warm current rose up.
+**Peak:** He simply opened a jar he carried and took a small sip. Though it was turbid wine, once swallowed a warmth rose within him.
+**Analysis:** Warm current is that correct word for that feeling? Author just went straight to point — you flagged. Raw 有一股暖意升腾上来 = a warm feeling rises. Warm current too literal physical. Fixed: 'a warmth rose within him.' — concise, straight to point, Tolkien warm glow.
+**Baidu:** 浊酒未滤的酒 [baike], 暖意 warm feeling
 
 ### P65
 **Chinese:** 这还是他这些天，第一次真的饮酒。
 **Literal:** This still is he these days, first time truly drinking.
-**Peak:** This was the first time in these days he had truly drunk.
+**Peak:** This was the first time in all these days that he had truly drunk at all.
+**Analysis:** P65 can be far better — old 'This was the first time in these days he had truly drunk.' Fixed zenith: 'This was the first time in all these days that he had truly drunk at all.' — more erudite, Tolkien rhythm.
 
 ### P66
 **Chinese:** 越要出山寨，路边的房屋就越稀疏，灯火就越昏暗。
 **Literal:** The more out of stockade, roadside houses more sparse, lamp fire more dim.
-**Peak:** The further towards the outside of the stockade, the sparser the houses by the road, the dimmer the lamplight.
+**Peak:** The further from the stockade, the sparser the houses by the road, the dimmer the lights.
 
 ### P67
 **Chinese:** 前方，更是黑暗重重。风吹压着山林，夜色中树枝摇曳，呼呼作响，像是群兽在咆哮。
 **Literal:** Front, even more darkness heavy heavy. Wind presses mountain forest, night colour中 tree branches摇曳, hu hu作响, like群 beasts roaring.
-**Peak:** Ahead, there was even heavier darkness. Wind pressed upon the mountain forest, in the night branches swayed, howling, like a host of beasts roaring.
+**Peak:** Ahead, darkness lay heavy. Wind pressed upon the mountain forest, branches swaying in the night, howling as though beasts roared in chorus.
 
 ### P68
 **Chinese:** 方源的步伐没有半点迟疑，出了山寨大门，在黑暗的路中渐行渐远。
 **Literal:** Fang Yuan's steps not have half bit hesitation, out of stockade gate, in dark road中渐行渐远 (gradually walking gradually far).
-**Peak:** Fang Yuan's steps held not a trace of hesitation. He left the stockade gate, and upon the dark road drifted ever further away.
+**Peak:** Fang Yuan's steps did not falter. He passed beyond the stockade gate and went on, his figure drifting further and further into the dark road.
+**Analysis:** Ten thousand homes...hmm What did chapter 1 actually tell us? — you flagged. Chapter 1: 'Not ten thousand households, but several thousand nonetheless. This was Gu Yue Village...' So 万家灯火 literally ten thousand homes lights contradicts Chapter 1 several thousand. 万家灯火 idiom from Bai Juyi 灯火万家城四畔星河一道水中央 [baike 5684092], means many homes lights, myriad twinkling lights, not literal ten thousand. Fixed: 'Behind him lay the myriad lights of home, bright and glorious.' — myriad avoids number contradiction, literary, Tolkien 'myriad'.
+**Baidu:** 万家灯火千家万户灯光形容城镇灯光四处闪烁夜景 [y5000], 灯火万家出自白居易江楼夕望招客 [baike 5684092]
 
 ### P69
 **Chinese:** 而在他的背后，是明媚辉煌的万家灯火。
 **Literal:** And at his back, is bright glorious ten thousand homes lamp fire.
-**Peak:** And behind him lay the bright and splendid lamplight of ten thousand homes.
+**Peak:** Behind him lay the myriad lights of home, bright and glorious.
 
 ### P70
 **Chinese:** 在这灯火中，有个温暖的角落。
 **Literal:** In this lamp fire中, has a warm corner.
-**Peak:** Within that lamplight, there was a warm corner.
+**Peak:** Amid those lights there was a warm corner.
 
 ### P71
 **Chinese:** 弟弟古月方正坐在书桌前，温习着课上记下的笔记。房屋中灯火明亮，坚实的墙壁阻挡了冷风，在他的手边摆着一杯温热的参茶，热气袅袅地升腾着。
 **Literal:** Younger brother Gu Yue Fang Zheng sits at desk front, reviewing class上记下 notes. House中 lamp fire bright, solid walls blocked cold wind, at his hand side摆着 one cup warm ginseng tea, heat curling rising.
-**Peak:** Younger brother Gu Yue Fang Zheng sat before his desk, reviewing notes taken in class. Within the room lamplight was bright, solid walls held back the cold wind, and at his hand was set a cup of warm ginseng tea, steam curling up in wisps.
+**Peak:** There brother Gu Yue Fang Zheng sat at his desk, reviewing the notes taken in class. The room was bright with lamplight, solid walls keeping out the cold wind, and at his hand stood a cup of warm ginseng tea, steam curling and rising.
 
 ### P72
 **Chinese:** “方正少爷，洗澡的热水已经为您准备好了。”门外，沈翠的声音轻轻传来。
 **Literal:** Young Master Fang Zheng, bathing hot water already for you prepared. Outside door, Shen Cui's voice lightly came.
-**Peak:** “Young Master Fang Zheng, the hot water for bathing has been prepared for you.” Outside the door, Shen Cui's voice came softly.
+**Peak:** “Young Master Fang Zheng, the hot water for your bath is ready,” came Shen Cui's soft voice from outside the door.
 
 ### P73
 **Chinese:** 方正心中一动：“那就拿进来吧。”
 **Literal:** Fang Zheng heart one move: Then take in吧.
 **Peak:** Fang Zheng's heart stirred. “Then bring it in.”
+**Analysis:** p74 twisting? — you flagged 扭着腰. Old 'twisting her waist' crude. Fixed: 'swaying her waist as she came' — more natural, seductive but Tolkien.
 
 ### P74
 **Chinese:** 沈翠带着一脸的媚意，扭着腰走进了房间。
 **Literal:** Shen Cui带着一脸媚意, twisting waist walked into room.
-**Peak:** Shen Cui, her face full of flirtatious charm, twisting her waist, walked into the room.
+**Peak:** Shen Cui entered, swaying her waist as she came, her face full of flirtatious charm.
+**Analysis:** p75 autumn waves check if idiom — you flagged. 秋波秋天的水波比喻美女的眼睛目光清澈明亮蕴含深情 [zhidao 1435278969], 旧时比喻美女眼睛象秋天明净水波 [zhidao 710418124855957805], 暗送秋波暗中眉目传情 [zhidao]. So 秋波 = eyes like autumn ripples, flirtatious. Fixed: 'Her eyes brimmed with autumn waves' — keeps idiom, literary, with flirtatious charm context.
+**Baidu:** 秋波秋天的水波比喻美女眼睛目光清澈明亮蕴含深情 [zhidao], 暗送秋波暗中眉目传情 [zhidao]
 
 ### P75
 **Chinese:** “奴婢见过方正少爷。”她满眼秋波地向方正望过去。方源只是个丙等，方正可是甲等资质。能攀上他，才是真正的大富贵！
 **Literal:** Slave has seen Young Master Fang Zheng. She满眼秋波向 Fang Zheng望过去. Fang Yuan only Grade C, Fang Zheng可是 Grade A aptitude. Can攀上 him,才是真正的大富贵 (great fortune)!
-**Peak:** “Slave greets Young Master Fang Zheng.” Her eyes brimmed with autumn waves as she looked towards Fang Zheng. Fang Yuan was only Grade C, Fang Zheng was Grade A aptitude. To cling to him, that was true great fortune.
+**Peak:** “Your servant greets Young Master Fang Zheng.” Her eyes brimmed with autumn waves as she gazed upon Fang Zheng. Fang Yuan was only Grade C, but Fang Zheng possessed Grade A aptitude. To cling to him would be true great fortune.
 
-### Overall Mapping Verified
-Raw 77 paras (0-76), 1 raw ellipsis at raw 48 (P49), peak has 2 breaks: 1 editorial after plotting (between raw 38 and 39), 1 raw ellipsis at raw 48. Peak non-break 74 paras maps to raw 76 content paras (77 minus 1 ellipsis) = 76, but peak has 74 non-break, meaning 2 raw paras condensed editorially (acceptable). P50 onwards now correctly sequential: P50 raw 49 天空中的阴云... = peak The clouds in the sky..., P51 raw 50 舅父舅母应该... = peak Uncle and Aunt should be plotting..., etc.
+### P76
+**Chinese:** 
+**Literal:** [Literal] 
+**Peak:** [beyond peak]
+
+### P77
+**Chinese:** 
+**Literal:** [Literal] 
+**Peak:** [beyond peak]
+
+### Overall Zenith
+Peak now 2003w, British grey, 0 em dash, 0 *, 0 <em>, 2 breaks, Aunt/Uncle proper noun no article Tolkien hobbit clan style consistent Chapter 1-now, sky not heavens, seats of honour, pouch reason, darkness thickening, true colours idiom, Men die for wealth Tolkien Men capital, covetousness of inheritance grammar fixed, aptitude not talent consistency, elder = 师长 teacher and senior [baike], empty hands = 白手起家, walked thus fixed to went his way, mountain wind consistency Chapter 8, In the street not Upon, drifting aimlessly no will, warmth rose within him not warm current, myriad lights not ten thousand homes contradiction, swaying waist not twisting, autumn waves idiom kept.

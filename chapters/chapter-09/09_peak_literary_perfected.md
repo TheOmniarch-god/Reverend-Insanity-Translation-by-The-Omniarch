@@ -4,9 +4,9 @@ The red sun sank westward, yet had not wholly set.
 
 The sky still held a little light, yet all things seemed veiled in grey. Through the window, the distant mountains could be seen slowly sinking into a heavy, thickening darkness.
 
-Within the living room the light was dim. Uncle and Aunt sat high on the seats of honour, their faces and expressions shrouded in shadow, indistinct.
+Within the living room the light was dim. Uncle and Aunt sat high upon the seats of honour, their faces and expressions shrouded in shadow, indistinct.
 
-At the sight of the two jars of wine Fang Yuan had brought with him, Uncle Gu Yue Dong Tu's brows knitted into a knot. He said, “How time slips by. You are fifteen already. That you both possess Gu Master aptitude, and Fang Zheng in particular, your aunt and I are proud. I have set aside six primeval stones for each of you, brothers, take them. Refining Gu worms devours primeval essence at a great rate, you will need them.”
+At the sight of the two jars of wine Fang Yuan had brought with him, Uncle's brows knitted into a knot. He said, “How time slips by. You are fifteen already. That you both possess Gu Master aptitude, and Fang Zheng in particular, Aunt and I are proud. I have set aside six primeval stones for each of you, brothers, take them. Refining Gu worms devours primeval essence at a great rate, you will need them.”
 
 As he spoke, a servant came forward and handed each brother a small pouch.
 
@@ -20,7 +20,7 @@ Aunt hastily waved her hands and said to Fang Zheng in gentle tones, “Quick, s
 
 These words carried a deep meaning. Fang Zheng did not catch it, but Fang Yuan faintly furrowed his brow.
 
-Sure enough, Uncle went on, “Your aunt and I have discussed it. We wish to adopt you into our household, to become a true family. Fang Zheng, are you willing?”
+Sure enough, Uncle went on, “Aunt and I have discussed it. We wish to adopt you into our household, to become a true family. Fang Zheng, are you willing?”
 
 Fang Zheng was taken aback, but swiftly joy flooded his face and he agreed at once. “To speak truly, since my parents died, nephew has longed for the days when a family is reunited. To become one family with Uncle and Aunt, nothing could be better.”
 
@@ -28,15 +28,15 @@ Aunt's expression eased and she laughed. “Then you are our good son. Do you st
 
 “Father, Mother.” Fang Zheng understood and quickly corrected himself.
 
-Uncle and Aunt both laughed heartily.
+Uncle and Aunt both laughed aloud.
 
-“Good son, we have not raised you in vain. Your aunt and I have raised you since you were five, a full ten years.” Aunt wiped at her tears.
+“Good son, not in vain have we raised you since you were five, a full ten years,” Aunt said, wiping tears from her eyes.
 
-Uncle then looked towards the silent Fang Yuan and said in kindly tones, “Fang Yuan, what of my proposal?”
+Uncle then turned his gentle gaze upon the silent Fang Yuan. “Fang Yuan, what of my intention for you?”
 
-Fang Yuan shook his head, saying nothing.
+Fang Yuan shook his head and said nothing.
 
-“Brother.” Gu Yue Fang Zheng wished to persuade, but Uncle stopped him.
+“Brother,” Fang Zheng began, wishing to persuade him, but Uncle stayed him.
 
 Uncle's tone did not change. He said again, “Since it is so, nephew Fang Yuan, we will not force you. Only you are already fifteen, you ought to set up your own household. Thus it will be convenient for you to inherit your Fang branch. Uncle has prepared here two hundred primeval stones, as support for you.”
 
@@ -60,7 +60,7 @@ After a long while, Uncle's cold voice came from the gloom. “It seems this lit
 
 Among Gu Yue clan rules, there is a clear provision: the eldest son at sixteen possesses the qualification to inherit family property.
 
-Fang Yuan's parents had already passed, leaving behind a not inconsiderable inheritance, all of it being “kept” by Uncle and Aunt.
+Fang Yuan's parents had already passed, leaving behind a not inconsiderable inheritance, all of it being kept by Uncle and Aunt.
 
 The value of this inheritance was not to be compared with a mere two hundred primeval stones.
 
@@ -100,54 +100,55 @@ A fresh surge of gratitude rose in Fang Zheng's heart. He said nothing more, onl
 
 • • •
 
-The clouds in the sky grew ever heavier, and the night therefore ever deeper. The stars were near wholly veiled by cloud, only a few still glimmered with faint light, struggling in the sky.
+The clouds above thickened, and with them the night deepened. The stars were all but veiled, save for a few that still glimmered faintly, struggling against the gloom.
 
 “Uncle and Aunt should be plotting how to expel me from the household. In the previous life they secretly instigated servants to provoke me, then framed me, and in the end expelled me. I wonder what change there will be in this life.” Fang Yuan walked along the street, sneering coldly within his heart.
 
-As for Uncle and Aunt's true faces, he had seen through them long ago.
+As for the true colours of Uncle and Aunt, he had seen through them long ago.
 
 Yet it could be understood.
 
-Man dies for wealth as bird dies for food, whether on Earth or in this world, there are always so many people who trample kinship, friendship and love for the sake of profit.
+Men die for wealth as birds die for food, whether upon Earth or in this world, there will ever be those who trample upon kinship, friendship and love for the sake of gain.
 
-In truth, kinship fundamentally did not exist. When Uncle and Aunt adopted Fang Yuan and Fang Zheng back then, their fundamental aim was covetousness for the inheritance. Only the two brothers had repeatedly surprised them.
+In truth, there was no kinship at all. Uncle and Aunt had taken the brothers in for no other reason than covetousness of the inheritance. Only the two brothers had repeatedly surprised them.
 
-“All things are hard at the beginning, for me all the more so. I have neither outstanding aptitude, nor the care of a teacher, it is equivalent to starting with empty hands. My parents' inheritance can be said to be a great springboard. In the previous life the inheritance was seized by Uncle and Aunt, causing me to waste a full two years before cultivating to Rank I peak. In this life, this mistake cannot be repeated.”
+All beginnings are hard, and for me harder still. I possess neither outstanding aptitude nor the guidance of any elder. In truth I begin with empty hands. My parents' legacy may yet serve as a great springboard. In my former life, Uncle and Aunt seized that legacy, and for that loss I wasted two whole years ere I could cultivate to the peak of Rank I. In this life, that error shall not be repeated.
 
-Fang Yuan walked thus, thinking as he went.
+So Fang Yuan went his way, turning these thoughts over as he walked.
 
 He did not remain in his lodgings, but carrying two jars of wine, headed straight for the outside of the stockade.
 
-The night sky grew ever more overcast, dark clouds veiling starlight, mountain wind blowing with a howl, with a tendency to grow ever stronger.
+The night sky grew ever more overcast, dark clouds veiling starlight, the mountain wind blowing with a rising howl, with a tendency to grow ever stronger.
 
 A mountain rain was about to come.
 
-Still, he must explore. The parents' inheritance could only be reclaimed when he was sixteen next year. While Flower-Wine Monk's legacy was something that might be obtained in the near term.
+Still, he must explore. The parents' legacy could only be reclaimed when he was sixteen next year. While Flower-Wine Monk's legacy was something that might be obtained in the near term.
 
-Upon the street, few pedestrians walked. From houses by the roadside dim light shone, some trivial household refuse, and leaves and dust, were rolled and blown by the wind, drifting at will.
+In the street, few folk were abroad. From houses by the roadside dim light shone, some trivial household refuse, and leaves and dust, rolled and blown by the wind, drifting aimlessly.
 
-Fang Yuan's thin clothes could somewhat not hold back this mountain wind, and he could not help feeling a chill.
+Fang Yuan's thin clothes could scarce hold back this mountain wind, and he could not help feeling a chill.
 
-He simply opened the jar he carried and took a small sip. Though it was turbid wine, once swallowed a warm current rose up.
+He simply opened a jar he carried and took a small sip. Though it was turbid wine, once swallowed a warmth rose within him.
 
-This was the first time in these days he had truly drunk.
+This was the first time in all these days that he had truly drunk at all.
 
-The further towards the outside of the stockade, the sparser the houses by the road, the dimmer the lamplight.
+The further from the stockade, the sparser the houses by the road, the dimmer the lights.
 
-Ahead, there was even heavier darkness. Wind pressed upon the mountain forest, in the night branches swayed, howling, like a host of beasts roaring.
+Ahead, darkness lay heavy. Wind pressed upon the mountain forest, branches swaying in the night, howling as though beasts roared in chorus.
 
-Fang Yuan's steps held not a trace of hesitation. He left the stockade gate, and upon the dark road drifted ever further away.
+Fang Yuan's steps did not falter. He passed beyond the stockade gate and went on, his figure drifting further and further into the dark road.
 
-And behind him lay the bright and splendid lamplight of ten thousand homes.
+Behind him lay the myriad lights of home, bright and glorious.
 
-Within that lamplight, there was a warm corner.
+Amid those lights there was a warm corner.
 
-Younger brother Gu Yue Fang Zheng sat before his desk, reviewing notes taken in class. Within the room lamplight was bright, solid walls held back the cold wind, and at his hand was set a cup of warm ginseng tea, steam curling up in wisps.
+There brother Gu Yue Fang Zheng sat at his desk, reviewing the notes taken in class. The room was bright with lamplight, solid walls keeping out the cold wind, and at his hand stood a cup of warm ginseng tea, steam curling and rising.
 
-“Young Master Fang Zheng, the hot water for bathing has been prepared for you.” Outside the door, Shen Cui's voice came softly.
+“Young Master Fang Zheng, the hot water for your bath is ready,” came Shen Cui's soft voice from outside the door.
 
 Fang Zheng's heart stirred. “Then bring it in.”
 
-Shen Cui, her face full of flirtatious charm, twisting her waist, walked into the room.
+Shen Cui entered, swaying her waist as she came, her face full of flirtatious charm.
 
-“Slave greets Young Master Fang Zheng.” Her eyes brimmed with autumn waves as she looked towards Fang Zheng. Fang Yuan was only Grade C, Fang Zheng was Grade A aptitude. To cling to him, that was true great fortune.
+“Your servant greets Young Master Fang Zheng.” Her eyes brimmed with autumn waves as she gazed upon Fang Zheng. Fang Yuan was only Grade C, but Fang Zheng possessed Grade A aptitude. To cling to him would be true great fortune.
+
