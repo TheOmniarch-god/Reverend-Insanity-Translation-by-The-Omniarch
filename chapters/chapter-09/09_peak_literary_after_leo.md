@@ -4,9 +4,9 @@ Westward the red sun sank, yet had not wholly set.
 
 The sky still held a little light, yet all things seemed veiled in grey. Through the window, the distant mountains could be seen slowly sinking into a heavy, thickening darkness.
 
-Within the living room the light was dim. Uncle and Aunt sat high upon the seats of honour, their faces and expressions shrouded in shadow, scarcely to be discerned.
+Within the living room, the light was dim. Uncle and Aunt sat high upon the seats of honour, their faces and expressions shrouded in shadow, scarcely to be discerned.
 
-At the sight of the two jars of wine Fang Yuan had brought with him, Uncle's brow furrowed. He said, “How time slips by. You are fifteen already. That you both possess Gu Master aptitude, and Fang Zheng in particular, Aunt and I are proud. I have set aside six primeval stones for each of you, brothers, take them. Refining Gu worms devours primeval essence at a great rate, you will need them.”
+At the sight of the two jars of wine Fang Yuan had brought with him, Uncle's brow furrowed. He said, “How time slips by. You are fifteen already. That you both possess Gu Master aptitude, and Fang Zheng in particular, Aunt and I are proud. I have set aside six primeval stones for each of you. Brothers, take them. Refining Gu worms devours primeval essence at a great rate, so you will need them.”
 
 As he spoke, a servant came forward and handed each brother a small pouch.
 
@@ -86,7 +86,7 @@ Gu Yue Fang Zheng was led into a room.
 
 “Young Master Fang Zheng, this is a room this old slave specially tidied and vacated upon Master's personal instruction.” Granny Shen introduced it obsequiously, bowing her back, her face heaped with flattering smiles.
 
-Fang Zheng looked round, his eyes brightening. This room was more than twice as large as the one he had lived in before. At its centre was a broad bed, by the window a desk of sandalwood set with fine brush, ink, paper and inkstone, the surrounding walls hung with exquisite ornaments. Even beneath his feet was not ordinary flooring, but a layer of soft, hand-made carpet.
+Fang Zheng looked round, his eyes brightening. This room was more than twice as large as the one he had lived in before. At its centre was a broad bed; by the window, a desk of sandalwood set with fine brush, ink, paper and inkstone; the surrounding walls hung with exquisite ornaments. Even beneath his feet was not ordinary flooring, but a layer of soft, hand-made carpet.
 
 From childhood to now, Fang Zheng had never lived in such a room. At once he nodded repeatedly. “This is very good, truly not bad. Thank you, Granny Shen.”
 
@@ -112,7 +112,7 @@ Men die for wealth as birds die for food, whether upon Earth or in this world, t
 
 In truth, there was no kinship at all. Uncle and Aunt had taken the brothers in for no other reason than covetousness of the inheritance. Only the two brothers had repeatedly surprised them.
 
-Every beginning is difficult, and for me doubly so. I possess neither outstanding aptitude nor the guidance of any elder. In truth I commence with empty hands. My parents' legacy may yet serve as a great springboard. In my former life, Uncle and Aunt seized that legacy, and for that loss I squandered two whole years ere I could cultivate to the peak of Rank I. In this life, that error shall not be repeated.
+Every beginning is difficult, and for me doubly so. I possess neither outstanding aptitude nor the guidance of any elder. In truth, I commence with empty hands. My parents' legacy may yet serve as a great springboard. In my former life, Uncle and Aunt seized that legacy, and for that loss I squandered two whole years ere I could cultivate to the peak of Rank I. In this life, that error shall not be repeated.
 
 So he went his way, turning these thoughts over as he walked.
 
@@ -122,9 +122,9 @@ The night sky grew ever more overcast, dark clouds veiling starlight, the mounta
 
 A mountain rain was about to come.
 
-Still, he must explore. The parents' legacy could only be reclaimed when he was sixteen next year. While Flower-Wine Monk's legacy was something that might be obtained in the near term.
+Still, he must explore. The parents' legacy could only be reclaimed when he was sixteen next year, while Flower-Wine Monk's legacy was something that might be obtained in the near term.
 
-In the street, few folk were abroad. From houses by the roadside dim light shone, some household refuse, and leaves and dust, rolled and blown by the wind, drifting aimlessly.
+In the street, few folk were abroad. From houses by the roadside, dim light shone, some household refuse, and leaves and dust, rolled and blown by the wind, drifting aimlessly.
 
 Fang Yuan's thin clothes could scarce hold back this mountain wind, and he could not help feeling a chill.
 
@@ -142,7 +142,7 @@ Behind him lay the myriad lights of home, bright and glorious.
 
 Amid those lights there was a warm corner.
 
-There brother Gu Yue Fang Zheng sat at his desk, reviewing the notes taken in class. The room was bright with lamplight, solid walls keeping out the cold wind, and at his hand stood a cup of warm ginseng tea, steam curling and rising.
+There, brother Gu Yue Fang Zheng sat at his desk, reviewing the notes taken in class. The room was bright with lamplight, solid walls keeping out the cold wind, and at his hand stood a cup of warm ginseng tea, steam curling and rising.
 
 “Young Master Fang Zheng, the hot water for your bath is ready,” came Shen Cui's soft voice from outside the door.
 
