@@ -5,32 +5,57 @@
   "redirects": [
     {
       "source": "/wiki/world",
-      "destination": "/World",
+      "destination": "/world",
       "permanent": true
     },
     {
       "source": "/wiki/world/",
-      "destination": "/World",
-      "permanent": true
-    },
-    {
-      "source": "/world",
-      "destination": "/World",
-      "permanent": true
-    },
-    {
-      "source": "/notes",
-      "destination": "/Notes",
+      "destination": "/world",
       "permanent": true
     },
     {
       "source": "/Wiki",
-      "destination": "/World",
+      "destination": "/world",
       "permanent": true
     },
     {
       "source": "/wiki",
-      "destination": "/World",
+      "destination": "/world",
+      "permanent": true
+    },
+    {
+      "source": "/World",
+      "destination": "/world",
+      "permanent": true
+    },
+    {
+      "source": "/Notes",
+      "destination": "/notes",
+      "permanent": true
+    },
+    {
+      "source": "/Search",
+      "destination": "/search",
+      "permanent": true
+    },
+    {
+      "source": "/About",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/Support",
+      "destination": "/support",
+      "permanent": true
+    },
+    {
+      "source": "/Chapters",
+      "destination": "/#chapters",
+      "permanent": true
+    },
+    {
+      "source": "/Preface",
+      "destination": "/preface",
       "permanent": true
     }
   ],
