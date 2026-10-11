@@ -1,15 +1,19 @@
 {
-  "cleanUrls": false,
+  "cleanUrls": true,
   "trailingSlash": false,
+  "outputDirectory": "docs",
   "redirects": [
-    { "source": "/wiki/world", "destination": "/world.html", "permanent": true },
-    { "source": "/Wiki", "destination": "/world.html", "permanent": true },
-    { "source": "/World", "destination": "/world.html", "permanent": true },
-    { "source": "/Notes", "destination": "/notes.html", "permanent": true },
-    { "source": "/Search", "destination": "/search.html", "permanent": true },
-    { "source": "/About", "destination": "/about.html", "permanent": true },
-    { "source": "/Support", "destination": "/support.html", "permanent": true },
-    { "source": "/Preface", "destination": "/preface.html", "permanent": true }
+    { "source": "/wiki/world", "destination": "/world", "permanent": true },
+    { "source": "/wiki/world/", "destination": "/world", "permanent": true },
+    { "source": "/Wiki", "destination": "/world", "permanent": true },
+    { "source": "/wiki", "destination": "/world", "permanent": true },
+    { "source": "/World", "destination": "/world", "permanent": true },
+    { "source": "/Notes", "destination": "/notes", "permanent": true },
+    { "source": "/Search", "destination": "/search", "permanent": true },
+    { "source": "/About", "destination": "/about", "permanent": true },
+    { "source": "/Support", "destination": "/support", "permanent": true },
+    { "source": "/Preface", "destination": "/preface", "permanent": true },
+    { "source": "/Chapters", "destination": "/#chapters", "permanent": true }
   ],
   "github": { "silent": true }
 }
