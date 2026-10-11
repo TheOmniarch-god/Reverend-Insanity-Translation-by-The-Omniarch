@@ -1,4 +1,6 @@
 {
+  "cleanUrls": false,
+  "trailingSlash": false,
   "outputDirectory": "docs",
   "github": { "silent": true }
 }
