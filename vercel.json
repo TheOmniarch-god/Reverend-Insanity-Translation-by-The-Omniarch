@@ -1,6 +1,65 @@
 {
-  "cleanUrls": false,
+  "cleanUrls": true,
   "trailingSlash": false,
   "outputDirectory": "docs",
-  "github": { "silent": true }
+  "redirects": [
+    {
+      "source": "/wiki/world",
+      "destination": "/world",
+      "permanent": true
+    },
+    {
+      "source": "/wiki/world/",
+      "destination": "/world",
+      "permanent": true
+    },
+    {
+      "source": "/Wiki",
+      "destination": "/world",
+      "permanent": true
+    },
+    {
+      "source": "/wiki",
+      "destination": "/world",
+      "permanent": true
+    },
+    {
+      "source": "/World",
+      "destination": "/world",
+      "permanent": true
+    },
+    {
+      "source": "/Notes",
+      "destination": "/notes",
+      "permanent": true
+    },
+    {
+      "source": "/Search",
+      "destination": "/search",
+      "permanent": true
+    },
+    {
+      "source": "/About",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/Support",
+      "destination": "/support",
+      "permanent": true
+    },
+    {
+      "source": "/Chapters",
+      "destination": "/#chapters",
+      "permanent": true
+    },
+    {
+      "source": "/Preface",
+      "destination": "/preface",
+      "permanent": true
+    }
+  ],
+  "github": {
+    "silent": true
+  }
 }
