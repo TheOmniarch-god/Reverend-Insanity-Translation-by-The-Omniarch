@@ -865,3 +865,54 @@ document.addEventListener("DOMContentLoaded", function () {
   var y = document.querySelector(".year");
   if (y) y.textContent = new Date().getFullYear();
 });
+
+// Notes tabs — peak pro complex
+document.addEventListener("DOMContentLoaded", function() {
+  var notesSections = document.querySelectorAll(".notes-section");
+  notesSections.forEach(function(section) {
+    var tabs = section.querySelectorAll(".notes-tab");
+    var panels = section.querySelectorAll(".notes-panel");
+    
+    tabs.forEach(function(tab) {
+      tab.addEventListener("click", function() {
+        var target = tab.getAttribute("data-tab");
+        
+        // Deactivate all
+        tabs.forEach(function(t) { t.classList.remove("active"); });
+        panels.forEach(function(p) { p.classList.remove("active"); });
+        
+        // Activate target
+        tab.classList.add("active");
+        var panel = section.querySelector('.notes-panel[data-panel="'+target+'"]');
+        if (panel) panel.classList.add("active");
+      });
+    });
+  });
+  
+  // Superscript refs scroll to note
+  var allRefs = document.querySelectorAll(".note-ref");
+  allRefs.forEach(function(ref) {
+    ref.addEventListener("click", function(e) {
+      e.preventDefault();
+      var noteId = ref.getAttribute("data-note") || ref.textContent.trim();
+      var targetNote = document.getElementById("note-" + noteId);
+      if (targetNote) {
+        // Switch to correct tab if needed
+        var panel = targetNote.closest(".notes-panel");
+        if (panel) {
+          var panelName = panel.getAttribute("data-panel");
+          var notesSection = document.querySelector(".notes-section");
+          if (notesSection) {
+            var tab = notesSection.querySelector('.notes-tab[data-tab="'+panelName+'"]');
+            if (tab) tab.click();
+          }
+        }
+        setTimeout(function() {
+          targetNote.scrollIntoView({ behavior: "smooth", block: "center" });
+          targetNote.style.animation = "noteFlash 1.8s ease";
+          setTimeout(function() { targetNote.style.animation = ""; }, 1800);
+        }, 100);
+      }
+    });
+  });
+});
