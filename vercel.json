@@ -1,6 +1,9 @@
 {
+  "version": 2,
   "cleanUrls": true,
   "trailingSlash": false,
+  "public": true,
+  "github": { "silent": true },
   "redirects": [
     { "source": "/wiki/world", "destination": "/world", "permanent": true },
     { "source": "/wiki/world/", "destination": "/world", "permanent": true },
@@ -11,8 +14,6 @@
     { "source": "/Search", "destination": "/search", "permanent": true },
     { "source": "/About", "destination": "/about", "permanent": true },
     { "source": "/Support", "destination": "/support", "permanent": true },
-    { "source": "/Preface", "destination": "/preface", "permanent": true },
-    { "source": "/Chapters", "destination": "/#chapters", "permanent": true }
-  ],
-  "github": { "silent": true }
+    { "source": "/Preface", "destination": "/preface", "permanent": true }
+  ]
 }
