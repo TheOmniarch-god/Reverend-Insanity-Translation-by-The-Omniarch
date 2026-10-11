@@ -4923,10 +4923,301 @@ p.tn-blurred {
   }
 }
 
-/* Header: Wiki -> Notes */
+/* ============================================================
+   WORLD — White Controls Peak (Mulan pills example)
+   Clean white organization, not meshed black
+   ============================================================ */
+
+.world-controls-white {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 16px 32px;
+  width: calc(100% - 32px);
+}
+
+.world-controls-inner {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+
+.world-white-card {
+  background: #ffffff;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 20px 22px;
+  box-shadow: 0 8px 24px rgba(23,23,26,0.06);
+}
+
+.world-white-card-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.world-white-card-head h3 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 16px;
+  font-weight: 800;
+  color: var(--ink);
+  margin: 0;
+}
+
+.world-white-count,
+.world-white-badge {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  background: #f6f1e0;
+  border: 1px solid #e8dfc0;
+  color: var(--muted);
+  padding: 4px 10px;
+  border-radius: 999px;
+}
+
+.world-white-hint {
+  font-size: 11px;
+  color: var(--muted);
+  letter-spacing: 0.04em;
+}
+
+.world-white-desc {
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--muted);
+  margin: 0 0 14px;
+}
+
+.world-pill-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.world-pill {
+  background: #ffffff;
+  border: 1px solid #e5e0d0;
+  border-radius: 999px;
+  padding: 8px 14px;
+  font-family: var(--sans);
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--ink);
+  cursor: pointer;
+  transition: all 0.18s ease;
+  white-space: nowrap;
+}
+
+.world-pill:hover {
+  border-color: var(--red);
+  color: var(--red);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(23,23,26,0.08);
+}
+
+.world-pill.active {
+  background: var(--red);
+  border-color: var(--red);
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(143,29,29,0.22);
+}
+
+.world-pill.fw-out {
+  opacity: 0.35;
+  pointer-events: none;
+}
+
+.world-slider-row {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.world-slider-row input[type="range"] {
+  width: 100%;
+  accent-color: var(--red);
+}
+
+.world-slider-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  color: var(--muted);
+}
+
+.world-white-actions {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px dashed #e8e3d0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+/* Qing Mao Mountain Arc — Detailed */
+.world-arc-detailed {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 16px 64px;
+  width: calc(100% - 32px);
+}
+
+.world-arc-inner {
+  background: #ffffff;
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  padding: 32px 28px;
+  box-shadow: 0 12px 36px rgba(23,23,26,0.07);
+}
+
+.world-arc-header {
+  margin-bottom: 28px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--line);
+}
+
+.world-arc-header h2 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 28px;
+  font-weight: 800;
+  color: var(--ink);
+  margin: 8px 0 12px;
+  letter-spacing: -0.02em;
+}
+
+.world-arc-header h2 .cjk {
+  font-family: var(--cjk);
+  font-weight: 500;
+  font-size: 0.7em;
+  color: var(--muted);
+  margin-left: 8px;
+}
+
+.world-arc-header h2 small {
+  font-family: var(--sans);
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--muted);
+  margin-left: 10px;
+}
+
+.world-arc-lede {
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--body);
+  max-width: 800px;
+  margin: 0;
+}
+
+.world-arc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  gap: 18px;
+  margin-bottom: 24px;
+}
+
+.world-arc-card {
+  background: #fcfaf5;
+  border: 1px solid #ebe5d3;
+  border-radius: 14px;
+  padding: 20px 20px 16px;
+  transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+}
+
+.world-arc-card:hover {
+  border-color: rgba(168,121,26,0.4);
+  box-shadow: 0 8px 24px rgba(168,121,26,0.10);
+  transform: translateY(-1px);
+}
+
+.world-arc-card h3 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--ink);
+  margin: 0 0 10px;
+}
+
+.world-arc-card p {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--body);
+  margin: 0 0 10px;
+}
+
+.world-arc-card ul {
+  margin: 8px 0 10px 18px;
+  padding: 0;
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--body);
+}
+
+.world-arc-card ul li {
+  margin-bottom: 6px;
+}
+
+.world-arc-meta {
+  font-size: 11.5px;
+  color: var(--muted);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+  padding-top: 10px;
+  border-top: 1px dashed #e8e3d0;
+  margin-top: 12px;
+}
+
+.world-arc-footer {
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+}
+
+.world-arc-footer p {
+  font-size: 13.5px;
+  line-height: 1.7;
+  color: var(--muted);
+  margin: 0 0 18px;
+}
+
+.world-arc-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 860px) {
+  .world-controls-white,
+  .world-arc-detailed {
+    width: calc(100% - 16px);
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .world-arc-inner {
+    padding: 22px 18px;
+    border-radius: 16px;
+  }
+  .world-arc-grid {
+    grid-template-columns: 1fr;
+  }
+  .world-arc-header h2 {
+    font-size: 22px;
+  }
+}
+
+/* Header: Wiki -> Notes + World */
 .nav-links a[href="notes"],
 .nav-links a[href="/notes"],
-.nav-links a[href="./notes"] {
+.nav-links a[href="./notes"],
+.nav-links a[href="world"],
+.nav-links a[href="/world"],
+.nav-links a[href="./world"],
+.nav-links a[href="wiki/world"] {
   position: relative;
 }
 
