@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Site Name Proposal — Gu Zhen Ren</title>
+<style>
+body{font-family:Inter,system-ui,sans-serif;background:#0f0f0f;color:#e5e5e5;padding:40px;line-height:1.6}
+h2{margin-top:60px;border-bottom:1px solid #333;padding-bottom:10px}
+.proposal{border:1px solid #333;border-radius:12px;padding:24px;margin:20px 0;background:#1a1a1a}
+.wordmark{display:inline-flex;flex-direction:column;line-height:1.1}
+.brand-name{font-weight:800;font-size:28px;letter-spacing:-0.02em}
+.brand-name .hanzi{font-weight:400;font-size:20px;opacity:0.8;margin-left:8px}
+.brand-sub{font-weight:400;font-size:14px;opacity:0.7;letter-spacing:0.02em}
+.brand-sub2{font-size:12px;opacity:0.5}
+.nav{border:1px solid #333;padding:16px 20px;border-radius:8px;background:#151515;display:flex;align-items:center;gap:12px;margin:10px 0}
+.nav-logo-img{width:32px;height:32px;border-radius:50%;background:#333}
+.opt-label{font-size:12px;text-transform:uppercase;letter-spacing:0.1em;opacity:0.5;margin-bottom:8px}
+</style>
+</head>
+<body>
+<h1>Site Name Change Proposal: Gu Zhen Ren</h1>
+<p>Current: <strong>The Omniarch Translation</strong> — generic translator brand, not book title.<br>
+Requested: <strong>Gu Zhen Ren</strong> as main, bracket Reverend Insanity below, and side bracket Chinese 蛊真人 properly.</p>
+
+<h2>Option A — My Recommendation (Clean, Proper Bracketing)</h2>
+<div class="proposal">
+<div class="opt-label">Option A — Main: Gu Zhen Ren + side hanzi, sub: Reverend Insanity bracketed below</div>
+<div class="nav">
+<img class="nav-logo-img" src="logo-circle.png" alt="">
+<span class="wordmark">
+<span class="brand-name">Gu Zhen Ren <span class="hanzi">(蛊真人)</span></span>
+<span class="brand-sub">(Reverend Insanity)</span>
+</span>
+</div>
+<p><strong>Structure:</strong> Gu Zhen Ren (蛊真人)<br>(Reverend Insanity)</p>
+<p><strong>Why:</strong> Gu Zhen Ren is pinyin main title, Chinese hanzi side-bracketed properly as (蛊真人) — standard academic pinyin + hanzi pairing. Reverend Insanity bracketed below as English localized title, smaller, secondary. Clean hierarchy: Original > Chinese > English localized.</p>
+<p><strong>Title tag:</strong> Gu Zhen Ren (蛊真人) — Reverend Insanity | The Omniarch Translation</p>
+</div>
+
+<h2>Option B — Stacked Formal</h2>
+<div class="proposal">
+<div class="opt-label">Option B — Two-line stack</div>
+<div class="nav">
+<img class="nav-logo-img" src="">
+<span class="wordmark">
+<span class="brand-name">Gu Zhen Ren</span>
+<span class="brand-sub">蛊真人 · Reverend Insanity</span>
+</span>
+</div>
+<p><strong>Structure:</strong> Gu Zhen Ren<br>蛊真人 · Reverend Insanity</p>
+<p><strong>Why:</strong> More minimal, Chinese and English as equals below main pinyin. Uses middle dot · as proper separator.</p>
+</div>
+
+<h2>Option C — English Primary, Chinese Side</h2>
+<div class="proposal">
+<div class="opt-label">Option C — Reverend Insanity still visible as main secondary</div>
+<div class="nav">
+<img class="nav-logo-img" src="">
+<span class="wordmark">
+<span class="brand-name">Gu Zhen Ren</span>
+<span class="brand-sub">(Reverend Insanity) <span style="opacity:0.6">(蛊真人)</span></span>
+</span>
+</div>
+<p><strong>Structure:</strong> Gu Zhen Ren<br>(Reverend Insanity) (蛊真人)</p>
+<p><strong>Why:</strong> Both English and Chinese bracketed below main pinyin, but Chinese as second bracket at side. A bit cluttered with double brackets.</p>
+</div>
+
+<h2>Option D — Your Exact Wording: Bracket Below + Side Bracket Properly</h2>
+<div class="proposal">
+<div class="opt-label">Option D — Literal to your request</div>
+<div class="nav">
+<img class="nav-logo-img" src="">
+<span class="wordmark">
+<span class="brand-name">Gu Zhen Ren <span class="hanzi">[蛊真人]</span></span>
+<span class="brand-sub">[Reverend Insanity]</span>
+</span>
+</div>
+<p><strong>Structure:</strong> Gu Zhen Ren [蛊真人]<br>[Reverend Insanity]</p>
+<p><strong>Why:</strong> Uses square brackets properly for Chinese at side, and brackets below for English. Square brackets more formal for hanzi.</p>
+</div>
+
+<h2>My Recommendation</h2>
+<p><strong>Option A</strong> is best for peak literary site:</p>
+<ul>
+<li>Gu Zhen Ren as main — original author pen name + original title, accurate, not localized</li>
+<li>(蛊真人) side-bracketed properly next to pinyin — standard pinyin (hanzi) academic format, proper bracketing</li>
+<li>(Reverend Insanity) bracketed below as smaller subtitle — acknowledges English localized name that readers know, but secondary</li>
+<li>Keeps The Omniarch as translator credit in meta, not as site name — site is about book, not translator</li>
+<li>SEO: Title tags become "Gu Zhen Ren (蛊真人) - Chapter X - Reverend Insanity | The Omniarch Translation" — captures all search terms</li>
+</ul>
+
+<p>How it will be implemented:</p>
+<pre>
+&lt;span class="brand-name"&gt;Gu Zhen Ren &lt;span class="hanzi"&gt;(蛊真人)&lt;/span&gt;&lt;/span&gt;
+&lt;span class="brand-sub"&gt;(Reverend Insanity)&lt;/span&gt;
+</pre>
+
+<p>Plus update all &lt;title&gt; tags, og:title, JSON-LD Book name to Gu Zhen Ren as primary, Reverend Insanity as alternate, 蛊真人 as alternateName.</p>
+
+</body>
+</html>
