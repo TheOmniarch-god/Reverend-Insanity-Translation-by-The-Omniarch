@@ -1,34 +1,15 @@
 {
-  "cleanUrls": false,
+  "cleanUrls": true,
   "trailingSlash": false,
-  "rewrites": [
-    { "source": "/search", "destination": "/search.html" },
-    { "source": "/notes", "destination": "/notes.html" },
-    { "source": "/world", "destination": "/world.html" },
-    { "source": "/about", "destination": "/about.html" },
-    { "source": "/support", "destination": "/support.html" },
-    { "source": "/preface", "destination": "/preface.html" },
-    { "source": "/chapter-1", "destination": "/chapter-1.html" },
-    { "source": "/chapter-2", "destination": "/chapter-2.html" },
-    { "source": "/chapter-3", "destination": "/chapter-3.html" },
-    { "source": "/chapter-4", "destination": "/chapter-4.html" },
-    { "source": "/chapter-5", "destination": "/chapter-5.html" },
-    { "source": "/chapter-6", "destination": "/chapter-6.html" },
-    { "source": "/chapter-7", "destination": "/chapter-7.html" },
-    { "source": "/chapter-8", "destination": "/chapter-8.html" },
-    { "source": "/chapter-9", "destination": "/chapter-9.html" }
-  ],
   "redirects": [
-    { "source": "/wiki/world", "destination": "/world", "permanent": true },
-    { "source": "/wiki/world/", "destination": "/world", "permanent": true },
-    { "source": "/Wiki", "destination": "/world", "permanent": true },
-    { "source": "/wiki", "destination": "/world", "permanent": true },
-    { "source": "/World", "destination": "/world", "permanent": true },
-    { "source": "/Notes", "destination": "/notes", "permanent": true },
-    { "source": "/Search", "destination": "/search", "permanent": true },
-    { "source": "/About", "destination": "/about", "permanent": true },
-    { "source": "/Support", "destination": "/support", "permanent": true },
-    { "source": "/Preface", "destination": "/preface", "permanent": true }
+    {
+      "source": "/world",
+      "destination": "/wiki/world",
+      "permanent": false
+    }
   ],
-  "github": { "silent": true }
+  "github": {
+    "silent": true
+  }
 }
+

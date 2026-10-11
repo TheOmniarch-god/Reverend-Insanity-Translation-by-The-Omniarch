@@ -75,7 +75,7 @@
       <p class="fw-card-meta" id="fwCardMeta"></p>
       <p class="fw-card-desc" id="fwCardDesc"></p>
       <div class="fw-card-actions">
-        <a class="btn btn-primary btn-sm" id="fwCardLink" href="#">Wiki Entry →</a>
+        <a class="btn btn-primary btn-sm" id="fwCardLink" href="#">Lore Entry →</a>
         <button class="btn btn-ghost btn-sm" id="fwCardReset">Overview</button>
       </div>
     </div>
@@ -92,13 +92,13 @@
 <section class="world-controls-white">
   <div class="world-controls-inner">
     
-    <!-- Vantage Points — Pills like Wikipedia / Cast / Plot -->
+    <!-- Vantage Points — Pills like Cast / Plot / Watch -->
     <div class="world-white-card">
       <div class="world-white-card-head">
         <h3>Vantage Points</h3>
         <span class="world-white-count">14 landmarks</span>
       </div>
-      <p class="world-white-desc">Camera viewpoints across Qing Mao Mountain. Click a pill to fly in 3D. Like Mulan's Wikipedia / Cast pills — clean white organization.</p>
+      <p class="world-white-desc">Camera viewpoints across Qing Mao Mountain. Click a pill to fly in 3D. Like Mulan's Cast / Plot pills — clean white organization.</p>
       <div class="world-pill-row" id="fwVantageBar">
         <button class="world-pill active" data-vantage="overview" type="button">🏔️ Qing Mao Peak</button>
         <button class="world-pill" data-vantage="village" type="button">🏮 Gu Yue Village</button>
@@ -117,15 +117,15 @@
       </div>
     </div>
 
-    <!-- How Wiki Grew — White Card -->
+    <!-- How World Grew — White Card -->
     <div class="world-white-card">
       <div class="world-white-card-head">
-        <h3>How the Wiki Grew</h3>
+        <h3>How the World Grew</h3>
         <output id="fwOut" class="world-white-badge">chapter 5</output>
       </div>
-      <p class="world-white-desc" id="fwNote">The mists stand where the translation has reached. Drag back to watch the wiki grow as chapters publish.</p>
+      <p class="world-white-desc" id="fwNote">The mists stand where the translation has reached. Drag back to watch the world grow as chapters publish.</p>
       <div class="world-slider-row">
-        <input type="range" id="fwRange" min="1" max="5" step="1" value="5" aria-label="Wiki growth">
+        <input type="range" id="fwRange" min="1" max="5" step="1" value="5" aria-label="World growth">
         <div class="world-slider-labels"><span>Ch1</span><span>Ch5</span></div>
       </div>
     </div>
@@ -229,7 +229,7 @@
     </div>
 
     <div class="world-arc-footer">
-      <p>✦ This arc explanation is the most detailed anywhere — more detailed than Notes, more detailed than Encyclopedia. It will update as translation progresses beyond Chapter 9: Flower Wine Monk's inheritance, primeval stones, Hope Gu, Moonlight Gu, Liquor Worm. The 3D world above will unlock more terrain, more characters, more Gu. The mists stand where translation has reached — drag slider back to watch wiki grow.</p>
+      <p>✦ This arc explanation is the most detailed anywhere — more detailed than Notes, more detailed than Encyclopedia. It will update as translation progresses beyond Chapter 9: Flower Wine Monk's inheritance, primeval stones, Hope Gu, Moonlight Gu, Liquor Worm. The 3D world above will unlock more terrain, more characters, more Gu. The mists stand where translation has reached — drag slider back to watch world grow.</p>
       <div class="world-arc-actions">
         <a class="btn btn-primary" href="/chapter-1">Start Chapter 1 →</a>
         <a class="btn btn-ghost" href="/notes">Open Notes · 8 in Ch1 →</a>
@@ -714,7 +714,7 @@
     function apply(n) {
       if (window.RIWorld) window.RIWorld.setReach(n);
       out.textContent = 'chapter ' + n;
-      note.textContent = n >= total ? 'The mists stand where translation has reached. Drag back to watch wiki grow.' : 'The wiki as it stood at chapter ' + n + ' — what came later is gone from frame.';
+      note.textContent = n >= total ? 'The mists stand where translation has reached. Drag back to watch world grow.' : 'The world as it stood at chapter ' + n + ' — what came later is veiled in mist.';
       var all = box ? box.querySelectorAll('.world-pin') : [];
       for (var i = 0; i < all.length; i++) {
         var c = parseInt(all[i].getAttribute('data-c') || '0', 10);
