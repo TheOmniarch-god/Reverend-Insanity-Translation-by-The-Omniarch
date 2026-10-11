@@ -2,24 +2,12 @@
 *.wav
 *.mp4
 Gu Zhen Ren/
-Reverend Insanity Chapter 7*.docx
-Reverend Insanity Chapter 7.md
-Preface_V4_4.md
-BLOCKED_PARAGRAPHS_FOR_MINIMAX.txt
-Research/
 00_general/
 chapters/
 editorial_backups/
-_opendyslexic-0.92/
-Gu Zhen Ren/
+opendyslexic-0.92/
+Research/
 *.docx
-*.md
-*.txt
-*.png
-*.webp
-*.jpg
-*.jpeg
-!docs/*.png
-!docs/*.webp
-!docs/*.jpg
-!*.html
+Reverend Insanity Chapter 7.md
+Preface_V4_4.md
+BLOCKED_PARAGRAPHS_FOR_MINIMAX.txt
