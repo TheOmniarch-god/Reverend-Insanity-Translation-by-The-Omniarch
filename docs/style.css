@@ -117,29 +117,38 @@ img { max-width: 100%; height: auto; display: block; }
   white-space: nowrap;
   display: flex;
   flex-direction: column;
-  line-height: 1.2;
+  line-height: 1.05;
+  gap: 2px;
 }
 .nav-logo .brand-name {
-  font-size: 15px;
+  font-size: 15.5px;
   font-weight: 800;
-  letter-spacing: 0.06em;
-  line-height: 1.1;
+  letter-spacing: 0.03em;
+  line-height: 1;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
 }
 .nav-logo .brand-name .hanzi {
-  font-family: var(--cjk);
-  font-weight: 500;
-  font-size: 13px;
-  letter-spacing: 0.02em;
+  font-family: "Noto Serif SC", "Noto Sans SC", var(--cjk);
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 0.01em;
   text-transform: none;
-  opacity: 0.85;
-  margin-left: 6px;
+  opacity: 1;
+  margin-left: 0;
 }
 .nav-logo .brand-sub {
-  font-size: 9px;
-  font-weight: 500;
-  letter-spacing: 0.18em;
+  font-family: "Cormorant Garamond", "Playfair Display", Georgia, serif;
+  font-size: 11px;
+  font-weight: 400;
+  font-style: italic;
+  letter-spacing: 0.04em;
   color: var(--muted);
-  text-transform: uppercase;
+  text-transform: none;
+  line-height: 1;
+  margin-top: 0;
+  opacity: 0.9;
 }
 .nav-links {
   display: flex;
@@ -189,18 +198,47 @@ img { max-width: 100%; height: auto; display: block; }
     height: 28px;
   }
   .nav-logo .wordmark {
-    font-size: 11px;
-    letter-spacing: 0.08em;
-    display: flex;
-    flex-direction: column;
-    line-height: 1.2;
-  }
-  .nav-logo .brand-sub {
-    font-size: 8.5px;
-    font-weight: 500;
-    letter-spacing: 0.24em;
-    color: var(--muted);
-  }
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink);
+  white-space: nowrap;
+  display: flex;
+  flex-direction: column;
+  line-height: 1.05;
+  gap: 2px;
+}
+.nav-logo .brand-name {
+  font-size: 15.5px;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  line-height: 1;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+}
+.nav-logo .brand-name .hanzi {
+  font-family: "Noto Serif SC", "Noto Sans SC", var(--cjk);
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 0.01em;
+  text-transform: none;
+  opacity: 1;
+  margin-left: 0;
+}
+.nav-logo .brand-sub {
+  font-family: "Cormorant Garamond", "Playfair Display", Georgia, serif;
+  font-size: 11px;
+  font-weight: 400;
+  font-style: italic;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  text-transform: none;
+  line-height: 1;
+  margin-top: 0;
+  opacity: 0.9;
+}
   .nav-actions {
     gap: 8px;
     flex-shrink: 0;
@@ -319,6 +357,41 @@ img { max-width: 100%; height: auto; display: block; }
   line-height: 1.05;
   margin: 0;
 }
+
+.hero-title {
+  font-size: clamp(2.2rem, 3.8vw, 3rem);
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  line-height: 0.95;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin: 0;
+}
+.hero-title .hero-main {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.hero-title .hero-main .hanzi {
+  font-family: "Noto Serif SC", "Noto Sans SC", var(--cjk);
+  font-weight: 600;
+  font-size: 0.72em;
+  letter-spacing: 0.01em;
+  opacity: 1;
+}
+.hero-title .hero-sub {
+  font-family: "Cormorant Garamond", "Playfair Display", Georgia, serif;
+  font-size: 0.42em;
+  font-weight: 400;
+  font-style: italic;
+  letter-spacing: 0.03em;
+  color: var(--muted);
+  opacity: 0.85;
+  line-height: 1;
+}
+
 .byline {
   font-size: 14px;
   color: var(--muted);
