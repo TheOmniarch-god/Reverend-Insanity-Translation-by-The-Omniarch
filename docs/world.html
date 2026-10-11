@@ -41,7 +41,7 @@
 </head>
 <body class="page-world">
 
-<div class="world-lock-curtain">
+<div class="world-lock-curtain" id="worldLockCurtain">
   <div class="world-lock-card">
     <div class="world-padlock-icon">
       <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -49,12 +49,12 @@
         <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
       </svg>
     </div>
-    <p class="world-lock-kicker">Gu World &middot; Interactive 3D</p>
-    <h2 class="world-lock-title">The World is Under Refinement</h2>
-    <p class="world-lock-desc">The character codex and 3D terrain are currently being compiled. They will unlock as the translation progresses.</p>
+    <p class="world-lock-kicker">Gu World &middot; Interactive 3D · Squircle</p>
+    <h2 class="world-lock-title">Enter the World</h2>
+    <p class="world-lock-desc">Drag to orbit · Scroll to zoom · Click a person to fly in. 11 characters from Chapter 1-5 stand in 3D on Qing Mao Mountain. The world is in squircle rounded rectangle.</p>
     <div class="world-lock-actions">
-      <a class="btn btn-primary" href="/chapter-1">Return to Chapter 1 &rarr;</a>
-      <a class="btn btn-ghost" href="/">Homepage</a>
+      <button class="btn btn-primary" id="worldEnterBtn" type="button">Explore in 3D →</button>
+      <a class="btn btn-ghost" href="/chapter-1">Chapter 1</a>
     </div>
   </div>
 </div>
@@ -147,111 +147,236 @@
 
 
 <div class="world-notes-below">
-<section class="notes-section" id="notes">
-  <div class="notes-header">
-    <div>
-      <div class="notes-kicker">Translator Notes · Lore · First Appearance Only · Beneath the World</div>
-      <h2 class="notes-title">Notes <span class="cjk">注记</span> <small>Below the Interactive World</small></h2>
-    </div>
-    <div class="notes-header-meta">
-      <span>✦</span> Interactive World is squircle · Notes below
-    </div>
-  </div>
-  <div class="notes-tabs" role="tablist">
-    <button class="notes-tab active" data-tab="terms" role="tab">Terms <span class="tab-count">2</span></button>
-    <button class="notes-tab" data-tab="culture" role="tab">Culture <span class="tab-count">1</span></button>
-    <button class="notes-tab" data-tab="system" role="tab">System <span class="tab-count">1</span></button>
-    <button class="notes-tab" data-tab="world" role="tab">World <span class="tab-count">∞</span></button>
-  </div>
-  <div class="notes-panels">
-    <div class="notes-panel active" data-panel="terms" role="tabpanel">
-      <ol class="notes-list">
-        <li id="world-gu-yue-village">
-          <div class="note-badge">1</div>
-          <div class="note-content">
-            <div class="note-term">Gu Yue Village <span class="cjk">古月山寨</span> <span class="note-first">First Appearance Ch1</span></div>
-            <div class="note-desc">Nestled upon Qing Mao Mountain, several thousand stilt houses draped as brilliant ribbon. Heart is grand pavilion where Aperture Opening Ceremony held. Fang lineage lives here.</div>
-            <div class="note-meta">
-              <span>📖 First seen: Chapter 1</span>
-              <span class="meta-dot"></span>
-              <a href="https://saga-of-gu.fandom.com/wiki/Gu_Yue_Village" target="_blank">Saga of Gu ↗</a>
-              <span class="meta-dot"></span>
-              <a href="https://www.reverendinsanity.com.ng/#/wiki/gu-yue-village" target="_blank">Encyclopedia ↗</a>
-              <span class="meta-dot"></span>
-              <a href="/notes#ch1-gu-yue-village">Full Notes · Ch1 ↗</a>
-            </div>
-          </div>
-        </li>
-        <li id="world-qing-mao-mountain">
-          <div class="note-badge">2</div>
-          <div class="note-content">
-            <div class="note-term">Qing Mao Mountain <span class="cjk">青茅山</span> <span class="note-first">First Appearance Ch1</span></div>
-            <div class="note-desc">Vast tranquil range, nourished by spring rain without cease. Home to three villages: Gu Yue, Bai, Xiong. The mountain wind whips blood-soaked garments like war banner.</div>
-            <div class="note-meta">
-              <span>📖 First seen: Chapter 1</span>
-              <span class="meta-dot"></span>
-              <a href="https://saga-of-gu.fandom.com/wiki/Qing_Mao_Mountain" target="_blank">Saga of Gu ↗</a>
-            </div>
-          </div>
-        </li>
-      </ol>
-    </div>
-    <div class="notes-panel" data-panel="culture" role="tabpanel">
-      <ol class="notes-list">
-        <li id="world-kowtow">
-          <div class="note-badge">1</div>
-          <div class="note-content">
-            <div class="note-term">Kowtow <span class="cjk">叩头</span></div>
-            <div class="note-desc">Forehead meets wood with soft rhythmic thuds — palms flat, upper body erect. Ancestral hall ritual before spirit tablets. Shows clan reverence.</div>
-            <div class="note-meta"><span>📖 Ch1 · p24</span></div>
-          </div>
-        </li>
-      </ol>
-    </div>
-    <div class="notes-panel" data-panel="system" role="tabpanel">
-      <ol class="notes-list">
-        <li id="world-aperture">
-          <div class="note-badge">1</div>
-          <div class="note-content">
-            <div class="note-term">Aperture <span class="cjk">空窍</span> · Primeval Sea Percentages</div>
-            <div class="note-desc">Gu Zhen Ren writes <em>两三成</em> (two-three tenths) = twenty to thirty-nine percent, not %. Forty-four percent Grade C limit. First to Ninth Revolution system.</div>
-            <div class="note-meta">
-              <span>📖 Ch1-Ch7</span>
-              <span class="meta-dot"></span>
-              <a href="/notes#ch1-aperture">Full Notes · Ch1 ↗</a>
-              <span class="meta-dot"></span>
-              <a href="https://saga-of-gu.fandom.com/wiki/Aperture" target="_blank">Saga of Gu ↗</a>
-            </div>
-          </div>
-        </li>
-      </ol>
-    </div>
-    <div class="notes-panel" data-panel="world" role="tabpanel">
-      <a class="world-link-card" href="https://saga-of-gu.fandom.com/wiki/Reverend_Insanity_Wiki" target="_blank" rel="noopener">
-        <div class="world-link-icon">🌏</div>
-        <div class="world-link-text">
-          <strong>Saga of Gu — The Complete World</strong>
-          <span>Friend of the encyclopedia — wholesome, carefully structured companion wiki, cited to the chapter. Wander it at sagaofgu.com. Our wiki will be strictly in rhyme with translation.</span>
+  <div class="notes-page-wrap" style="padding-top:0;">
+    <div class="wrap" style="max-width:100%;">
+      <header class="notes-page-header" style="text-align:left; padding: 32px 0 18px;">
+        <div class="notes-kicker">Translator Notes · Lore · First Appearance Only · Beneath the Squircle World</div>
+        <h2 class="notes-page-title" style="font-size:28px;">Notes <span class="cjk">注记</span> <small>Below the Interactive World — Peak Pro</small></h2>
+        <p class="notes-page-lede" style="max-width:720px;">The interactive 3D world above is fully restored — squircle rounded rectangle, drag to orbit, scroll to zoom, click a person to fly in. Below, the Notes are in peak pro design: Volume 1 with 9 chapters elongating, category tabs Terms/Culture/System/World, first-appearance-only superscript linking. Tap Huaxia² → goes to note on Huaxia in Chapter 1 tab.</p>
+      </header>
+
+      <div class="volume-tabs" id="volumeTabsWorld">
+        <div class="volume-label">Volume 1 <span class="cjk">魔性不改</span></div>
+        <div class="chapter-tabs" id="chapterTabsWorld">
+          <button class="chapter-tab active" data-ch="1">Chapter 1 <span>Though the Flesh Perish...</span></button>
+          <button class="chapter-tab" data-ch="2">Chapter 2 <span>Reversing Time...</span></button>
+          <button class="chapter-tab" data-ch="3">Chapter 3 <span>Kindly Piss Off</span></button>
+          <button class="chapter-tab" data-ch="4">Chapter 4 <span>Gu Yue Fang Yuan!</span></button>
+          <button class="chapter-tab" data-ch="5">Chapter 5 <span>Ren Zu's Three Gu...</span></button>
+          <button class="chapter-tab" data-ch="6">Chapter 6 <span>The Road to the Future...</span></button>
+          <button class="chapter-tab" data-ch="7">Chapter 7 <span>Gu Masters Have Nine Revolutions...</span></button>
+          <button class="chapter-tab" data-ch="8">Chapter 8 <span>Things Remain...</span></button>
+          <button class="chapter-tab" data-ch="9">Chapter 9 <span>Drifting Further Apart</span></button>
         </div>
-        <div class="world-link-arrow">↗</div>
-      </a>
-      <a class="world-link-card" href="https://www.reverendinsanity.com.ng" target="_blank" rel="noopener" style="margin-top:12px;">
-        <div class="world-link-icon" style="background: linear-gradient(135deg, #a8791a 0%, #d9b24c 100%); color:#000;">百科</div>
-        <div class="world-link-text">
-          <strong>Reverend Insanity Encyclopedia — Curated by The Omniarch</strong>
-          <span>Searchable A to Z, timeline, featured Spring Autumn Cicada. Will be linked above Legends of Ren Zu on homepage.</span>
+      </div>
+
+      <div class="category-tabs" id="categoryTabsWorld">
+        <button class="cat-tab active" data-cat="all">All <span class="cat-count">4</span></button>
+        <button class="cat-tab" data-cat="terms">Terms <span class="cat-count">2</span></button>
+        <button class="cat-tab" data-cat="culture">Culture <span class="cat-count">1</span></button>
+        <button class="cat-tab" data-cat="system">System <span class="cat-count">1</span></button>
+        <button class="cat-tab" data-cat="world">World <span class="cat-count">∞</span></button>
+      </div>
+
+      <div class="notes-chapters-container" id="notesChaptersWorld">
+        <div class="chapter-panel active" data-ch="1">
+          <div class="chapter-panel-header">
+            <h2>Chapter 1 <small>Though the Flesh Perish, the Demonic Heart Knows No Regret</small></h2>
+            <p>Smart ordering: Spring Autumn Cicada¹ appears before Huaxia² in reading order — superscript numbers by appearance, not example. First appearance only.</p>
+          </div>
+          <div class="notes-grid" data-cat="terms">
+            <article class="note-card" id="world-ch1-spring-autumn-cicada" data-cat="terms">
+              <div class="note-card-head">
+                <div class="note-badge">1</div>
+                <h3>Spring Autumn Cicada <span class="cjk">春秋蝉</span></h3>
+                <span class="note-first">First Appearance Ch1 · p1</span>
+              </div>
+              <p class="note-desc"><strong>Seventh</strong> among the Ten Great Mystical Gu. Time-path Gu that reverses time. Fang Yuan refines it at cost of ten million lives, self-detonates rather than yield it. Five hundred years collapse into a heartbeat. <em>Chun Qiu Chan</em> — Spring Autumn evokes seasons, history's cycle. <strong>Superscript ¹</strong> because it appears before Huaxia in Chapter 1.</p>
+              <div class="note-meta">
+                <span>📖 Ch1 · p1</span><span class="dot"></span><span>Rank: Seventh Revolution</span><span class="dot"></span><a href="https://saga-of-gu.fandom.com/wiki/Spring_Autumn_Cicada" target="_blank">Saga of Gu ↗</a><span class="dot"></span><a href="/notes#ch1-spring-autumn-cicada">Full Notes · Ch1 ↗</a>
+              </div>
+            </article>
+            <article class="note-card" id="world-ch1-huaxia" data-cat="terms">
+              <div class="note-card-head">
+                <div class="note-badge">2</div>
+                <h3>Huaxia <span class="cjk">华夏</span></h3>
+                <span class="note-first">First Appearance Ch1 · p11</span>
+              </div>
+              <p class="note-desc">Ancient poetic name for China, not modern political China. <strong>Huaxia</strong> = central civilized lands, cradle of Tang poetry and Song lyrics Fang Yuan recites. Retaining pinyin preserves cultural marker. Superscript ² because Spring Autumn Cicada came first. Tap Huaxia² in chapter → lands here.</p>
+              <div class="note-meta">
+                <span>📖 Ch1 · p11</span><span class="dot"></span><span>Also in: Preface, Ch5</span><span class="dot"></span><a href="/notes#ch1-huaxia">Full Notes · Ch1 ↗</a><span class="dot"></span><a href="https://www.reverendinsanity.com.ng/#/wiki/huaxia" target="_blank">Encyclopedia ↗</a>
+              </div>
+            </article>
+            <article class="note-card" id="world-gu-yue-village" data-cat="terms">
+              <div class="note-card-head">
+                <div class="note-badge">3</div>
+                <h3>Gu Yue Village <span class="cjk">古月山寨</span></h3>
+                <span class="note-first">First Appearance Ch1</span>
+              </div>
+              <p class="note-desc">Nestled upon Qing Mao Mountain, several thousand stilt houses draped as brilliant ribbon. Heart is grand pavilion where Aperture Opening Ceremony held. Fang lineage lives here. 3D pin at x0.9 z1.1 in interactive world above.</p>
+              <div class="note-meta">
+                <span>📖 Ch1</span><span class="dot"></span><a href="https://saga-of-gu.fandom.com/wiki/Gu_Yue_Village" target="_blank">Saga of Gu ↗</a><span class="dot"></span><a href="https://www.reverendinsanity.com.ng/#/wiki/gu-yue-village" target="_blank">Encyclopedia ↗</a>
+              </div>
+            </article>
+            <article class="note-card" id="world-qing-mao-mountain" data-cat="terms">
+              <div class="note-card-head">
+                <div class="note-badge">4</div>
+                <h3>Qing Mao Mountain <span class="cjk">青茅山</span></h3>
+                <span class="note-first">First Appearance Ch1</span>
+              </div>
+              <p class="note-desc">Vast tranquil range, nourished by spring rain without cease. Home to three villages: Gu Yue, Bai, Xiong. The mountain wind whips blood-soaked garments like war banner. 3D terrain in squircle world above.</p>
+              <div class="note-meta">
+                <span>📖 Ch1</span><span class="dot"></span><a href="https://saga-of-gu.fandom.com/wiki/Qing_Mao_Mountain" target="_blank">Saga of Gu ↗</a>
+              </div>
+            </article>
+          </div>
+          <div class="notes-grid" data-cat="culture">
+            <article class="note-card" id="world-kowtow" data-cat="culture">
+              <div class="note-card-head">
+                <div class="note-badge">1</div>
+                <h3>Kowtow <span class="cjk">叩头</span></h3>
+                <span class="note-first">Culture · Ch1 p24</span>
+              </div>
+              <p class="note-desc">Forehead meets wood with soft rhythmic thuds — palms flat, upper body erect. Ancestral hall ritual before spirit tablets. Shows clan reverence. Not just bowing — full prostration.</p>
+              <div class="note-meta"><span>📖 Ch1 · p24</span></div>
+            </article>
+          </div>
+          <div class="notes-grid" data-cat="system">
+            <article class="note-card" id="world-aperture" data-cat="system">
+              <div class="note-card-head">
+                <div class="note-badge">1</div>
+                <h3>Aperture <span class="cjk">空窍</span> · Primeval Sea Percentages</h3>
+                <span class="note-first">System · Ch1-Ch7</span>
+              </div>
+              <p class="note-desc">Gu Zhen Ren writes <em>两三成</em> (two-three tenths) = twenty to thirty-nine percent, not %. Forty-four percent Grade C limit. First to Ninth Revolution system. Primeval sea percentages drive talent grading. Click Aperture tab in 3D card to see sea visualization.</p>
+              <div class="note-meta">
+                <span>📖 Ch1-Ch7</span><span class="dot"></span><a href="/notes#ch1-aperture">Full Notes · Ch1 ↗</a><span class="dot"></span><a href="https://saga-of-gu.fandom.com/wiki/Aperture" target="_blank">Saga of Gu ↗</a>
+              </div>
+            </article>
+          </div>
+          <div class="notes-grid" data-cat="world">
+            <a class="world-link-card" href="https://saga-of-gu.fandom.com/wiki/Reverend_Insanity_Wiki" target="_blank" rel="noopener">
+              <div class="world-link-icon">🌏</div>
+              <div class="world-link-text">
+                <strong>Saga of Gu — The Complete World</strong>
+                <span>Friend of the encyclopedia — wholesome, carefully structured companion wiki, cited to the chapter. Wander it at sagaofgu.com. Our wiki will be strictly in rhyme with translation.</span>
+              </div>
+              <div class="world-link-arrow">↗</div>
+            </a>
+            <a class="world-link-card" href="https://www.reverendinsanity.com.ng" target="_blank" rel="noopener" style="margin-top:12px;">
+              <div class="world-link-icon" style="background: linear-gradient(135deg, #a8791a 0%, #d9b24c 100%); color:#000;">百科</div>
+              <div class="world-link-text">
+                <strong>Reverend Insanity Encyclopedia — Curated by The Omniarch</strong>
+                <span>Searchable A to Z, timeline, featured Spring Autumn Cicada. Linked above Legends of Ren Zu on homepage.</span>
+              </div>
+              <div class="world-link-arrow">↗</div>
+            </a>
+          </div>
         </div>
-        <div class="world-link-arrow">↗</div>
-      </a>
+        <div class="chapter-panel" data-ch="2"><div class="chapter-panel-header"><h2>Chapter 2 <small>Reversing Time...</small></h2><p>Notes in progress — Primeval Essence, Hope Gu.</p></div></div>
+        <div class="chapter-panel" data-ch="3"><div class="chapter-panel-header"><h2>Chapter 3 <small>Kindly Piss Off</small></h2><p>Notes in progress.</p></div></div>
+        <div class="chapter-panel" data-ch="4"><div class="chapter-panel-header"><h2>Chapter 4 <small>Gu Yue Fang Yuan!</small></h2><p>Notes in progress — Grade A/B/C/D aptitude.</p></div></div>
+        <div class="chapter-panel" data-ch="5"><div class="chapter-panel-header"><h2>Chapter 5 <small>Ren Zu's Three Gu...</small></h2><p>Notes in progress — Ren Zu parables, Hope Gu.</p></div></div>
+        <div class="chapter-panel" data-ch="6"><div class="chapter-panel-header"><h2>Chapter 6 <small>The Road to the Future...</small></h2><p>Notes in progress.</p></div></div>
+        <div class="chapter-panel" data-ch="7"><div class="chapter-panel-header"><h2>Chapter 7 <small>Gu Masters Have Nine Revolutions...</small></h2><p>Notes in progress — First to Ninth Revolution.</p></div></div>
+        <div class="chapter-panel" data-ch="8"><div class="chapter-panel-header"><h2>Chapter 8 <small>Things Remain...</small></h2><p>Notes in progress.</p></div></div>
+        <div class="chapter-panel" data-ch="9"><div class="chapter-panel-header"><h2>Chapter 9 <small>Drifting Further Apart</small></h2><p>Notes in progress.</p></div></div>
+      </div>
     </div>
   </div>
-</section>
 </div>
 
 <footer class="fw-foot">
-  <p>The Omniarch Translation &middot; 30 entries from 5 chapters.
-    <a href="/notes">Notes</a></p>
+  <p>The Omniarch Translation &middot; 11 characters in 3D · 30 entries from 5 chapters · Squircle 28px · Fully interactive — drag, zoom, click.
+    <a href="/notes">Notes</a> · <a href="/">Home</a></p>
 </footer>
+
+<script>
+// Peak fix: lock curtain dismissible — restores interactive 3D model, user flagged trash blocking
+document.addEventListener('DOMContentLoaded', function(){
+  var curtain = document.getElementById('worldLockCurtain');
+  var btn = document.getElementById('worldEnterBtn');
+  if (curtain && btn){
+    btn.addEventListener('click', function(){
+      curtain.style.transition = 'opacity 0.45s ease, transform 0.45s ease';
+      curtain.style.opacity = '0';
+      curtain.style.transform = 'translateX(-50%) scale(0.98)';
+      setTimeout(function(){ curtain.style.display='none'; }, 460);
+      try{ localStorage.setItem('ri_world_entered','1'); }catch(e){}
+    });
+    try{
+      if (localStorage.getItem('ri_world_entered')==='1'){
+        curtain.style.display='none';
+      }
+    }catch(e){}
+  }
+  // World notes below — volume + category tabs peak pro
+  var volTabs = document.querySelectorAll('#chapterTabsWorld .chapter-tab');
+  var volPanels = document.querySelectorAll('#notesChaptersWorld .chapter-panel');
+  var catTabs = document.querySelectorAll('#categoryTabsWorld .cat-tab');
+  function activateWorldCh(ch){
+    volTabs.forEach(function(t){ t.classList.remove('active'); });
+    volPanels.forEach(function(p){ p.classList.remove('active'); });
+    var tab = document.querySelector('#chapterTabsWorld .chapter-tab[data-ch="'+ch+'"]');
+    var panel = document.querySelector('#notesChaptersWorld .chapter-panel[data-ch="'+ch+'"]');
+    if(tab) tab.classList.add('active');
+    if(panel) panel.classList.add('active');
+    updateWorldCatCounts();
+  }
+  function updateWorldCatCounts(){
+    var activePanel = document.querySelector('#notesChaptersWorld .chapter-panel.active');
+    if(!activePanel) return;
+    var allCards = activePanel.querySelectorAll('.note-card');
+    var counts = { all: allCards.length, terms:0, culture:0, system:0, world:0 };
+    allCards.forEach(function(c){
+      var cat = c.getAttribute('data-cat');
+      if(counts[cat]!==undefined) counts[cat]++;
+    });
+    document.querySelectorAll('#categoryTabsWorld .cat-tab').forEach(function(tab){
+      var cat = tab.getAttribute('data-cat');
+      var countEl = tab.querySelector('.cat-count');
+      if(countEl && counts[cat]!==undefined) countEl.textContent = cat==='world' && counts[cat]===0 ? '∞' : counts[cat];
+    });
+  }
+  function filterWorldCat(cat){
+    var activePanel = document.querySelector('#notesChaptersWorld .chapter-panel.active');
+    if(!activePanel) return;
+    var grids = activePanel.querySelectorAll('.notes-grid');
+    if(cat==='all'){
+      grids.forEach(function(g){ g.style.display=''; });
+      activePanel.querySelectorAll('.note-card').forEach(function(c){ c.style.display=''; });
+      activePanel.querySelectorAll('.world-link-card').forEach(function(c){ c.style.display=''; });
+    }else{
+      grids.forEach(function(g){
+        g.style.display = g.getAttribute('data-cat')===cat ? '' : 'none';
+      });
+      activePanel.querySelectorAll('.note-card').forEach(function(card){
+        card.style.display = card.getAttribute('data-cat')===cat ? '' : 'none';
+      });
+      if(cat==='world'){
+        activePanel.querySelectorAll('.world-link-card').forEach(function(c){ c.style.display=''; });
+      }
+    }
+  }
+  volTabs.forEach(function(tab){
+    tab.addEventListener('click', function(){
+      activateWorldCh(tab.getAttribute('data-ch'));
+      catTabs.forEach(function(t){ t.classList.remove('active'); });
+      var allTab = document.querySelector('#categoryTabsWorld .cat-tab[data-cat="all"]');
+      if(allTab) allTab.classList.add('active');
+      filterWorldCat('all');
+    });
+  });
+  catTabs.forEach(function(tab){
+    tab.addEventListener('click', function(){
+      catTabs.forEach(function(t){ t.classList.remove('active'); });
+      tab.classList.add('active');
+      filterWorldCat(tab.getAttribute('data-cat'));
+    });
+  });
+  updateWorldCatCounts();
+});
+</script>
 
 <script src="/app.js?v=20261003-024655-aptitude-fix"></script>
 <script>window.RI_WORLD_CAST = [{"t": "Bai Ning Bing", "s": "bai-ning-bing", "c": 1, "x": 3.4, "z": -1.8, "kind": "", "desc": "The unmatched genius youth of Bai Clan, reaching Third Revolution at sixteen winters.", "rank": 3, "img": "bai-ning-bing-3d.webp"}, {"t": "Fang Yuan", "s": "fang-yuan", "c": 1, "x": 0.62, "z": 0.72, "kind": "demonic", "desc": "Five hundred years of memories reborn as a fifteen-year-old youth.", "grade": "C", "img": "fang-yuan-3d.webp"}, {"t": "Gu Yue Clan Leader", "s": "gu-yue-clan-leader", "c": 1, "x": -0.35, "z": 2.3, "kind": "elder", "desc": "Fourth generation leader of the Gu Yue clan, Fourth Revolution elder on Qing Mao Mountain.", "img": "gu-yue-clan-leader-3d.webp"}, {"t": "Fang Zheng", "s": "fang-zheng", "c": 2, "x": 0.85, "z": 1.15, "kind": "", "desc": "Twin brother to Fang Yuan, tested with supreme Grade A primeval talent.", "img": "fang-zheng-3d.webp"}, {"t": "Shen Cui", "s": "shen-cui", "c": 3, "x": 0.95, "z": 0.4, "kind": "", "desc": "Maidservant serving the brothers at their aunt and uncle’s courtyard.", "img": "shen-cui-3d.webp"}, {"t": "Academy Elder", "s": "academy-elder", "c": 4, "x": -0.15, "z": 1.75, "kind": "elder", "desc": "Strict academy elder presiding over the youths at the Aperture Opening Ceremony.", "img": "academy-elder-3d.webp"}, {"t": "Gu Yue Chen Bo", "s": "gu-yue-chen-bo", "c": 4, "x": 0.25, "z": 1.15, "kind": "", "desc": "First youth to enter the river of light, testing as a mortal with no aperture.", "img": "gu-yue-chen-bo-3d.webp"}, {"t": "Gu Yue Chi Cheng", "s": "gu-yue-chi-cheng", "c": 4, "x": -1.05, "z": 1.45, "kind": "", "desc": "Heir of the Chi faction, announced Grade B through clan deception.", "grade": "B", "img": "gu-yue-chi-cheng-3d.webp"}, {"t": "Gu Yue Chi Lian", "s": "gu-yue-chi-lian", "c": 4, "x": -1.35, "z": 1.85, "kind": "elder", "desc": "Elder heading the Chi faction, grandfather to Chi Cheng.", "img": "gu-yue-chi-lian-3d.webp"}, {"t": "Gu Yue Mo Bei", "s": "gu-yue-mo-bei", "c": 4, "x": 1.35, "z": 1.55, "kind": "", "desc": "Heir of the Mo faction, announced with sixty-six percent Grade B primeval sea.", "grade": "B", "img": "gu-yue-mo-bei-3d.webp"}, {"t": "Gu Yue Mo Chen", "s": "gu-yue-mo-chen", "c": 4, "x": 1.55, "z": 1.95, "kind": "elder", "desc": "Elder heading the Mo faction, rival to Chi Lian, grandfather to Mo Bei.", "img": "gu-yue-mo-chen-3d.webp"}];</script>

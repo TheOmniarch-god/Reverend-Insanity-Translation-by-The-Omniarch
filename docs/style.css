@@ -4939,3 +4939,513 @@ p.tn-blurred {
   transform: scaleX(1);
   background: var(--red);
 }
+
+/* ============================================================
+   NOTES PEAK PRO — Volume tabs, chapter tabs elongating, 
+   category tabs Terms/Culture/System/World, note cards
+   Restored after user flagged trash design + 3D blocked
+   ============================================================ */
+
+.notes-page-wrap {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 32px 16px 64px;
+  width: calc(100% - 32px);
+}
+
+.notes-page-header {
+  text-align: left;
+  padding: 24px 0 20px;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 28px;
+}
+
+.notes-page-header .notes-kicker {
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--red);
+  margin-bottom: 10px;
+}
+
+.notes-page-title {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 34px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+  line-height: 1.1;
+  margin: 0 0 14px;
+}
+
+.notes-page-title .cjk {
+  font-family: var(--cjk);
+  font-weight: 500;
+  font-size: 0.6em;
+  color: var(--muted);
+  margin-left: 8px;
+}
+
+.notes-page-title small {
+  font-family: var(--sans);
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--muted);
+  letter-spacing: 0;
+  margin-left: 12px;
+}
+
+.notes-page-lede {
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--body);
+  max-width: 720px;
+  margin: 0 0 14px;
+}
+
+.notes-page-meta {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  font-size: 11.5px;
+  color: var(--muted);
+  align-items: center;
+}
+
+.volume-tabs {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 16px 20px;
+  background: linear-gradient(135deg, #ffffff 0%, #fbf8ef 100%);
+  border: 1px solid var(--line);
+  border-radius: 14px 14px 0 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.volume-tabs::-webkit-scrollbar { display: none; }
+
+.volume-label {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 14px;
+  font-weight: 800;
+  color: var(--ink);
+  white-space: nowrap;
+  flex-shrink: 0;
+  padding-right: 12px;
+  border-right: 1px solid var(--line);
+}
+
+.volume-label .cjk {
+  font-family: var(--cjk);
+  font-weight: 500;
+  color: var(--muted);
+  font-size: 0.9em;
+  margin-left: 4px;
+}
+
+.chapter-tabs {
+  display: flex;
+  gap: 8px;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.chapter-tabs::-webkit-scrollbar { display: none; }
+
+.chapter-tab {
+  background: #f6f1e0;
+  border: 1px solid #e8dfc0;
+  border-radius: 999px;
+  padding: 8px 14px;
+  font-family: var(--sans);
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--muted);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.2s ease;
+  flex-shrink: 0;
+}
+
+.chapter-tab span {
+  font-weight: 400;
+  font-size: 11px;
+  color: var(--muted);
+  margin-left: 4px;
+  opacity: 0.8;
+}
+
+.chapter-tab:hover {
+  background: #ffffff;
+  border-color: var(--red);
+  color: var(--ink);
+  transform: translateY(-1px);
+}
+
+.chapter-tab.active {
+  background: var(--red);
+  border-color: var(--red);
+  color: #ffffff;
+  font-weight: 700;
+  box-shadow: 0 4px 12px rgba(143,29,29,0.22);
+}
+
+.chapter-tab.active span {
+  color: rgba(255,255,255,0.85);
+}
+
+.category-tabs {
+  display: flex;
+  gap: 0;
+  padding: 0 12px;
+  background: #faf7ef;
+  border: 1px solid var(--line);
+  border-top: none;
+  border-radius: 0 0 0 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.category-tabs::-webkit-scrollbar { display: none; }
+
+.cat-tab {
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid transparent;
+  padding: 14px 18px 12px;
+  font-family: var(--sans);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--muted);
+  cursor: pointer;
+  white-space: nowrap;
+  position: relative;
+  top: 1px;
+  transition: all 0.2s ease;
+}
+
+.cat-tab:hover {
+  color: var(--ink);
+  background: rgba(255,255,255,0.6);
+}
+
+.cat-tab.active {
+  color: var(--red);
+  border-bottom-color: var(--red);
+  background: #ffffff;
+  font-weight: 700;
+}
+
+.cat-tab .cat-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 18px;
+  height: 18px;
+  padding: 0 5px;
+  border-radius: 999px;
+  background: #efebe0;
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 700;
+  margin-left: 7px;
+  vertical-align: middle;
+}
+
+.cat-tab.active .cat-count {
+  background: #fbeeed;
+  color: var(--red);
+}
+
+.notes-chapters-container {
+  background: #ffffff;
+  border: 1px solid var(--line);
+  border-top: none;
+  border-radius: 0 0 14px 14px;
+  overflow: hidden;
+}
+
+.chapter-panel {
+  display: none;
+  padding: 24px 24px 28px;
+  animation: notesFade 0.22s ease;
+}
+
+.chapter-panel.active {
+  display: block;
+}
+
+.chapter-panel-header {
+  margin-bottom: 20px;
+  padding-bottom: 16px;
+  border-bottom: 1px dashed #e8e3d0;
+}
+
+.chapter-panel-header h2 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 20px;
+  font-weight: 800;
+  color: var(--ink);
+  margin: 0 0 6px;
+}
+
+.chapter-panel-header h2 small {
+  font-family: var(--sans);
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--muted);
+  margin-left: 8px;
+}
+
+.chapter-panel-header p {
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--muted);
+  margin: 0;
+}
+
+.notes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.note-card {
+  background: #fcfaf5;
+  border: 1px solid #ebe5d3;
+  border-radius: 12px;
+  padding: 18px 18px 14px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.note-card::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 3px;
+  background: var(--gold);
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.note-card:hover {
+  border-color: rgba(168,121,26,0.45);
+  box-shadow: 0 6px 20px rgba(168,121,26,0.10);
+  transform: translateY(-1px);
+}
+
+.note-card:hover::before {
+  opacity: 1;
+}
+
+.note-card:target {
+  border-color: var(--red);
+  box-shadow: 0 0 0 3px rgba(143,29,29,0.12);
+}
+
+.note-card-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.note-card-head h3 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--ink);
+  margin: 0;
+  flex: 1;
+}
+
+.note-card-head h3 .cjk {
+  font-family: var(--cjk);
+  font-weight: 500;
+  font-size: 0.85em;
+  color: var(--muted);
+  margin-left: 6px;
+}
+
+.note-first {
+  font-family: var(--sans);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  background: var(--gold-bg);
+  color: var(--gold);
+  border: 1px solid rgba(168,121,26,0.22);
+  padding: 3px 8px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.note-desc {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--body);
+}
+
+.note-desc strong {
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.note-meta {
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px dashed #e8e3d0;
+  font-size: 11.5px;
+  color: var(--muted);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  align-items: center;
+}
+
+.note-meta a {
+  color: var(--red);
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(143,29,29,0.22);
+}
+
+.note-meta a:hover {
+  border-bottom-color: var(--red);
+}
+
+.note-meta .dot {
+  width: 3px;
+  height: 3px;
+  background: #c9c5b8;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.notes-encyclopedia {
+  margin-top: 28px;
+}
+
+/* Dark mode for peak notes */
+[data-theme="obsidian"] .volume-tabs {
+  background: linear-gradient(135deg, #0d0c0a 0%, #171410 100%);
+  border-color: #1f1c17;
+}
+
+[data-theme="obsidian"] .volume-label {
+  color: #ffffff;
+  border-right-color: #1f1c17;
+}
+
+[data-theme="obsidian"] .chapter-tab {
+  background: #1a1814;
+  border-color: #2a261f;
+  color: #8e887d;
+}
+
+[data-theme="obsidian"] .chapter-tab:hover {
+  background: #221e18;
+  color: #e8e3d8;
+}
+
+[data-theme="obsidian"] .chapter-tab.active {
+  background: var(--red);
+  border-color: var(--red);
+  color: #ffffff;
+}
+
+[data-theme="obsidian"] .category-tabs {
+  background: #0a0908;
+  border-color: #1f1c17;
+}
+
+[data-theme="obsidian"] .cat-tab {
+  color: #8e887d;
+}
+
+[data-theme="obsidian"] .cat-tab:hover {
+  color: #e8e3d8;
+  background: #171410;
+}
+
+[data-theme="obsidian"] .cat-tab.active {
+  color: var(--gold-bright);
+  border-bottom-color: var(--gold);
+  background: #0d0c0a;
+}
+
+[data-theme="obsidian"] .notes-chapters-container {
+  background: #0d0c0a;
+  border-color: #1f1c17;
+}
+
+[data-theme="obsidian"] .chapter-panel-header {
+  border-bottom-color: #1f1c17;
+}
+
+[data-theme="obsidian"] .chapter-panel-header h2 {
+  color: #ffffff;
+}
+
+[data-theme="obsidian"] .notes-grid .note-card {
+  background: #11100e;
+  border-color: #1f1c17;
+}
+
+[data-theme="obsidian"] .notes-grid .note-card:hover {
+  border-color: rgba(236,199,104,0.32);
+}
+
+[data-theme="obsidian"] .note-card-head h3 {
+  color: #ffffff;
+}
+
+[data-theme="obsidian"] .note-desc {
+  color: #c9c4b7;
+}
+
+[data-theme="obsidian"] .note-desc strong {
+  color: #ffffff;
+}
+
+[data-theme="obsidian"] .note-meta {
+  border-top-color: #1f1c17;
+  color: #8e887d;
+}
+
+@media (max-width: 800px) {
+  .notes-page-wrap {
+    width: calc(100% - 16px);
+    padding: 20px 0 40px;
+  }
+  .notes-page-title {
+    font-size: 26px;
+  }
+  .volume-tabs {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .volume-label {
+    border-right: none;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 8px;
+    padding-right: 0;
+    width: 100%;
+  }
+  .notes-grid {
+    grid-template-columns: 1fr;
+  }
+  .chapter-panel {
+    padding: 18px 16px 22px;
+  }
+}
