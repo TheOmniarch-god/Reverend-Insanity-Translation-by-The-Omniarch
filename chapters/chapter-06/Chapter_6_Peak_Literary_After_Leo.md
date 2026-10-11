@@ -26,7 +26,7 @@ He had always believed his elder brother would be of Grade A aptitude. No-not on
 
 “Damn it. Only of Grade C!” The Clan Leader clenched his fists in secret and let out a deep sigh. His disappointment was plain beyond words.
 
-Among the elders watching in secret, some knitted their brows, some lowered their heads in discussion, and some tipped their heads back and let out a long sigh.
+Among the elders watching in secret, some furrowed their brows, some lowered their heads in discussion, and some tipped their heads back and let out a long sigh.
 
 “Could there be an error in the test?”
 
@@ -70,7 +70,7 @@ But just then, he felt a great force yank at him, and his head came up out of th
 
 “Haha, the Fang brothers, a matched pair of wretches!” Someone on the bank jeered aloud.
 
-The laughter grew louder still, and the Academy Elder did not step forward to stop it. He frowned deeply, filled with disappointment. Fang Zheng was at a complete loss, and then his elder brother’s voice came at his ear. “Go on. The road to the future will be interesting.”
+The laughter grew louder still, and the Academy Elder did not step forward to stop it. His brow furrowed deeply, filled with disappointment. Fang Zheng was at a complete loss, and then his elder brother’s voice came at his ear. “Go on. The road to the future will be interesting.”
 
 Fang Zheng’s mouth fell open in surprise. Fang Yuan had his back to the crowd just then, so no one on the bank could see clearly. But Fang Zheng felt his calm distinctly, and saw that as he spoke, the corners of his mouth even curved faintly upward, letting slip a deep, savouring trace of a smile.
 

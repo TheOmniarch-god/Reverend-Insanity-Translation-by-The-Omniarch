@@ -34,11 +34,11 @@ Beside Strength Gu, this Gu had the frailest form: nothing more than a tiny poin
 
 Ren Zu stared, eyes wide and mouth agape. From that moment on, he understood: when facing predicaments, give your heart to hope. At that moment, the Hope Gu gathered into a stream of light and entered Fang Yuan’s body. Under the external pressure, they quickly gathered in Fang Yuan’s abdomen, clustering of their own accord roughly ten centimeters below his navel. Fang Yuan immediately felt the pressure ease slightly. He stepped forward and continued on. With every step he took, more Hope Gu rose from the flower field, entered his body, and joined the mass of light.
 
-The mass of light grew larger and brighter. But across the river, the elder in charge frowned.
+The mass of light grew larger and brighter. But across the river, the elder in charge's brow furrowed.
 
 “There seem to be rather few Hope Gu.” At the sight, the hearts of the many elders who had been discreetly watching Fang Yuan sank.
 
-The Clan Leader frowned as well. These were certainly not the signs one would expect from Grade A aptitude! Fang Yuan continued forward against the pressure.
+The Clan Leader's brow furrowed as well. These were certainly not the signs one would expect from Grade A aptitude! Fang Yuan continued forward against the pressure.
 
 “Fewer than ten steps means no aptitude for cultivation. Ten to twenty steps means Grade D; twenty to thirty, Grade C; thirty to forty, Grade B; forty to fifty, Grade A. So far, I have taken twenty-three steps. Twenty-four, twenty-five, twenty-six… twenty-seven.” Fang Yuan counted silently. At his twenty-seventh step, he seemed to hear a boom: the mass of light in his abdomen, between his kidneys, had reached its limit and suddenly burst.
 

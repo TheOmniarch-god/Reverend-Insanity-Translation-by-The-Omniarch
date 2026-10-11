@@ -26,7 +26,7 @@ The elder sighed at the sight. As he recorded the result, he announced, “Gu Yu
 
 Many looked at him with pity, but even more had turned their attention to the second youth, who had reached the opposite bank. Unfortunately, this youth managed only four steps. He, too, lacked aptitude. Not everyone possessed the aptitude to cultivate. Generally, five people out of ten being able to cultivate was already considered good. In the Gu Yue clan, the proportion was somewhat higher: six out of ten. This was because the Gu Yue ancestor, the first clan leader, had been a renowned, legendary expert. His cultivation had caused genes carrying power to lie hidden within his bloodline. As his descendants, members of the Gu Yue clan generally possessed higher aptitude.
 
-The two youths had proved, one after the other, to have no aptitude. The expressions of the other clan elders observing discreetly darkened. Even the seasoned, composed Gu Yue Clan Leader frowned slightly. Just then, the Academy Elder called out the third name: “Gu Yue Mo Bei.”
+The two youths had proved, one after the other, to have no aptitude. The expressions of the other clan elders observing discreetly darkened. Even the seasoned, composed Gu Yue Clan Leader's brow furrowed slightly. Just then, the Academy Elder called out the third name: “Gu Yue Mo Bei.”
 
 “Here!” A horse-faced youth in hemp clothing answered with a short shout and stepped out from the crowd. He was tall and broad, far sturdier than others his age, with a hint of fierceness about him.
 

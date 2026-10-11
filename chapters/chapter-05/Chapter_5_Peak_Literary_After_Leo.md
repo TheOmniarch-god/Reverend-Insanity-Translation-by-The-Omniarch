@@ -36,11 +36,11 @@ Ren Zu stared, eyes wide and mouth agape. From that moment on, he understood: wh
 
 At that moment, the stream of Hope Gu gathered and entered Fang Yuan’s body. Under the external pressure, they clustered of their own accord roughly ten centimetres below his navel. Fang Yuan immediately felt the pressure ease slightly. He stepped forward. With every step, more Hope Gu rose from the flower field, entered his body, and joined the mass of light.
 
-The mass grew larger and brighter. But across the river, the elder in charge frowned.
+The mass grew larger and brighter. But across the river, the elder in charge's brow furrowed.
 
 “There seem to be rather few Hope Gu.” At the sight, the hearts of the many elders who had been discreetly watching Fang Yuan sank.
 
-The Clan Leader frowned as well. These were certainly not the signs one would expect from Grade A aptitude.
+The Clan Leader's brow furrowed as well. These were certainly not the signs one would expect from Grade A aptitude.
 
 Fang Yuan continued forward against the pressure.
 

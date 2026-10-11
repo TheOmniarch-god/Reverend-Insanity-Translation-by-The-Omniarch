@@ -4,9 +4,9 @@ Westward the red sun sank, yet had not wholly set.
 
 The sky still held a little light, yet all things seemed veiled in grey. Through the window, the distant mountains could be seen slowly sinking into a heavy, thickening darkness.
 
-Within the living room the light was dim. Uncle and Aunt sat high upon the seats of honour, their faces and expressions shrouded in shadow, indistinct.
+Within the living room the light was dim. Uncle and Aunt sat high upon the seats of honour, their faces and expressions shrouded in shadow, scarcely to be discerned.
 
-At the sight of the two jars of wine Fang Yuan had brought with him, Uncle's brows knitted into a knot. He said, “How time slips by. You are fifteen already. That you both possess Gu Master aptitude, and Fang Zheng in particular, Aunt and I are proud. I have set aside six primeval stones for each of you, brothers, take them. Refining Gu worms devours primeval essence at a great rate, you will need them.”
+At the sight of the two jars of wine Fang Yuan had brought with him, Uncle's brow furrowed. He said, “How time slips by. You are fifteen already. That you both possess Gu Master aptitude, and Fang Zheng in particular, Aunt and I are proud. I have set aside six primeval stones for each of you, brothers, take them. Refining Gu worms devours primeval essence at a great rate, you will need them.”
 
 As he spoke, a servant came forward and handed each brother a small pouch.
 
@@ -151,4 +151,3 @@ Fang Zheng's heart stirred. “Then bring it in.”
 Shen Cui entered, sashaying as she came, her waist swaying with deliberate allure, her face full of coquettish charm.
 
 “Your servant greets Young Master Fang Zheng.” Her eyes brimmed with autumn waves as she gazed upon Fang Zheng. Fang Yuan was only Grade C, but Fang Zheng possessed Grade A aptitude. To cling to him would be true great fortune.
-
