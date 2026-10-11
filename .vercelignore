@@ -7,3 +7,19 @@ Reverend Insanity Chapter 7.md
 Preface_V4_4.md
 BLOCKED_PARAGRAPHS_FOR_MINIMAX.txt
 Research/
+00_general/
+chapters/
+editorial_backups/
+_opendyslexic-0.92/
+Gu Zhen Ren/
+*.docx
+*.md
+*.txt
+*.png
+*.webp
+*.jpg
+*.jpeg
+!docs/*.png
+!docs/*.webp
+!docs/*.jpg
+!*.html
