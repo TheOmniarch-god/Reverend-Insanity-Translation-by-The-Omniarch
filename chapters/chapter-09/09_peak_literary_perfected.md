@@ -112,7 +112,7 @@ Men die for wealth as birds die for food, whether upon Earth or in this world, t
 
 In truth, there was no kinship at all. Uncle and Aunt had taken the brothers in for no other reason than covetousness of the inheritance. Only the two brothers had repeatedly surprised them.
 
-All beginnings are hard, and for me harder still. I possess neither outstanding aptitude nor the guidance of any elder. In truth I begin with empty hands. My parents' legacy may yet serve as a great springboard. In my former life, Uncle and Aunt seized that legacy, and for that loss I wasted two whole years ere I could cultivate to the peak of Rank I. In this life, that error shall not be repeated.
+Every beginning is difficult, and for me doubly so. I possess neither outstanding aptitude nor the guidance of any elder. In truth I commence with empty hands. My parents' legacy may yet serve as a great springboard. In my former life, Uncle and Aunt seized that legacy, and for that loss I squandered two whole years ere I could cultivate to the peak of Rank I. In this life, that error shall not be repeated.
 
 So he went his way, turning these thoughts over as he walked.
 
@@ -148,7 +148,7 @@ There brother Gu Yue Fang Zheng sat at his desk, reviewing the notes taken in cl
 
 Fang Zheng's heart stirred. “Then bring it in.”
 
-Shen Cui entered, wriggling her waist as she came, her face full of coquettish charm.
+Shen Cui entered, sashaying as she came, her waist swaying with deliberate allure, her face full of coquettish charm.
 
 “Your servant greets Young Master Fang Zheng.” Her eyes brimmed with autumn waves as she gazed upon Fang Zheng. Fang Yuan was only Grade C, but Fang Zheng possessed Grade A aptitude. To cling to him would be true great fortune.
 
