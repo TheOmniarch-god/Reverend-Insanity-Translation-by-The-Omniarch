@@ -6,17 +6,17 @@ The sky still held a little light, yet all things seemed veiled in grey. Through
 
 Within the living room, the light was dim. Uncle and Aunt sat high upon the seats of honour, their faces and expressions shrouded in shadow, scarcely to be discerned.
 
-At the sight of the two jars of wine Fang Yuan had brought with him, Uncle's brow furrowed. He said, “How time slips by. You are fifteen already. That you both possess Gu Master aptitude, and Fang Zheng in particular, Aunt and I are proud. I have set aside six primeval stones for each of you. Brothers, take them. Refining Gu worms devours primeval essence at a great rate, so you will need them.”
+At the sight of the two jars of wine Fang Yuan had brought with him, Uncle's brow furrowed. He said, “How time slips by. You are fifteen already. That you both possess Gu Master aptitude, and Fang Zheng in particular, Aunt and I are proud. I have set aside six primeval stones for each of you. Brothers, take them. Refining Gu worms consumes primeval essence at a great rate, so you will need them.”
 
 As he spoke, a servant came forward and handed each brother a small pouch.
 
 Fang Yuan tucked the pouch away, saying nothing.
 
-Fang Zheng at once loosened the drawstring and looked inside. Within lay six oval, grey-white primeval stones, translucent, the size of a duck's egg. Colour rose to his face in gratitude. He stood and bowed to Uncle and Aunt. “Thank you, Uncle and Aunt. Nephew is in need of primeval stones to replenish his primeval essence. You raised us to this age, your kindness in raising us nephew engraves upon his heart, never to be forgotten.”
+Fang Zheng at once loosened the drawstring and looked inside. Within lay six oval, grey-white primeval stones, translucent, the size of a duck's egg. His face flushed with gratitude. He stood and bowed to Uncle and Aunt. “Thank you, Uncle and Aunt. Your nephew is indeed in need of primeval stones to replenish his primeval essence. You raised your nephew to this age, and your kindness in raising him is engraved upon his heart, never to be forgotten.”
 
 Uncle smiled and nodded.
 
-Aunt hastily waved her hands and said to Fang Zheng in gentle tones, “Quick, sit, sit. Though you two were not born to us, we have always raised you as our own sons. That you can amount to something, we too feel proud. Alas, we have no children of our own. At times we think how fine it would be if you could truly become our children.”
+Aunt hastily waved her hands and said gently to Fang Zheng, “Quick, sit, sit. Though you two were not born of us, we have always raised you as our own sons. That you can amount to something, we too feel proud. Alas, we have no children of our own. At times we think how fine it would be if you could truly become our children.”
 
 These words carried a deep meaning. Fang Zheng did not catch it, but Fang Yuan faintly furrowed his brow.
 
@@ -28,7 +28,7 @@ Aunt's expression eased and she laughed. “Then you are our good son. Do you st
 
 “Father, Mother.” Fang Zheng understood and quickly corrected himself.
 
-Uncle and Aunt both laughed aloud.
+Uncle and Aunt both laughed heartily.
 
 “Good son, not in vain have we raised you since you were five, a full ten years,” Aunt said, wiping tears from her eyes.
 
