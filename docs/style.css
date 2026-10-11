@@ -4847,3 +4847,95 @@ p.tn-blurred {
     font-size: 11px;
   }
 }
+
+/* ============================================================
+   WORLD — Squircle rounded rectangle (elevated)
+   Interactive world in squircle instead of sharp lined
+   ============================================================ */
+
+.page-world {
+  background: var(--bg);
+  padding: 24px 0 0;
+}
+
+.page-world .fw {
+  position: relative;
+  width: min(1240px, calc(100% - 32px));
+  height: min(78vh, 760px);
+  min-height: 560px;
+  margin: 84px auto 32px;
+  overflow: hidden;
+  border-radius: 28px; /* squircle */
+  border: 1px solid var(--line);
+  background: #0a0a0c;
+  box-shadow: 
+    0 24px 64px rgba(0,0,0,0.18),
+    0 0 0 1px rgba(255,255,255,0.04) inset,
+    0 1px 0 rgba(255,255,255,0.06) inset;
+  /* squircle smoothing via clip */
+  clip-path: inset(0 round 28px);
+}
+
+.page-world .fw .world-canvas {
+  border-radius: 28px;
+}
+
+.page-world .world-lock-curtain {
+  border-radius: 28px;
+  width: min(1240px, calc(100% - 32px));
+  height: min(78vh, 760px);
+  min-height: 560px;
+  margin: 84px auto 32px;
+  left: 50%;
+  top: 0;
+  transform: translateX(-50%);
+  inset: auto;
+  overflow: hidden;
+  clip-path: inset(0 round 28px);
+}
+
+/* World notes below interactive world */
+.world-notes-below {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 16px 48px;
+  width: calc(100% - 32px);
+}
+
+.world-notes-below .notes-section {
+  margin-top: 0;
+  border-radius: 20px;
+}
+
+@media (max-width: 860px) {
+  .page-world .fw,
+  .page-world .world-lock-curtain {
+    width: calc(100% - 16px);
+    margin: 68px auto 20px;
+    border-radius: 20px;
+    clip-path: inset(0 round 20px);
+    height: 62vh;
+    min-height: 480px;
+  }
+  .world-notes-below {
+    width: calc(100% - 16px);
+    padding: 0 0 32px;
+  }
+}
+
+/* Header: Wiki -> Notes */
+.nav-links a[href="notes"],
+.nav-links a[href="/notes"],
+.nav-links a[href="./notes"] {
+  position: relative;
+}
+
+.nav-links a.active {
+  color: var(--red);
+  font-weight: 600;
+}
+
+.nav-links a.active::after {
+  transform: scaleX(1);
+  background: var(--red);
+}
