@@ -829,15 +829,43 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   });
   
-  // Superscript refs scroll to note
+  // Superscript refs — fixed: allow /notes#ch1-... to navigate, don't block
   var allRefs = document.querySelectorAll(".note-ref");
   allRefs.forEach(function(ref) {
     ref.addEventListener("click", function(e) {
+      var href = ref.getAttribute("href") || "";
+      // If it's a link to /notes#... — let it navigate (smart superscript system)
+      if (href.indexOf("/notes#") !== -1 || href.indexOf("#ch") === 0) {
+        // Don't prevent — allow navigation to notes page with hash
+        // If same page anchor (world page world-ch1-...), handle smooth scroll
+        if (href.charAt(0) === "#" || href.indexOf("#world-") !== -1) {
+          var targetId = href.split("#")[1];
+          var targetNote = document.getElementById(targetId);
+          if (targetNote) {
+            e.preventDefault();
+            // Switch tab if needed
+            var panel = targetNote.closest(".chapter-panel") || targetNote.closest(".notes-panel");
+            if (panel) {
+              var ch = panel.getAttribute("data-ch") || panel.getAttribute("data-panel");
+              if (ch) {
+                var tab = document.querySelector('.chapter-tab[data-ch="'+ch+'"]') || document.querySelector('.notes-tab[data-tab="'+ch+'"]');
+                if (tab) tab.click();
+              }
+            }
+            setTimeout(function() {
+              targetNote.scrollIntoView({ behavior: "smooth", block: "center" });
+              targetNote.style.animation = "noteFlash 1.8s ease";
+              setTimeout(function() { targetNote.style.animation = ""; }, 1800);
+            }, 120);
+          }
+        }
+        return; // allow /notes# navigation
+      }
+      // Legacy: note-1, note-2 on same page
       e.preventDefault();
       var noteId = ref.getAttribute("data-note") || ref.textContent.trim();
       var targetNote = document.getElementById("note-" + noteId);
       if (targetNote) {
-        // Switch to correct tab if needed
         var panel = targetNote.closest(".notes-panel");
         if (panel) {
           var panelName = panel.getAttribute("data-panel");

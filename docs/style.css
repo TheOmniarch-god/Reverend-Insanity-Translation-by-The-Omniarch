@@ -4949,7 +4949,7 @@ p.tn-blurred {
 .notes-page-wrap {
   max-width: 1240px;
   margin: 0 auto;
-  padding: 32px 16px 64px;
+  padding: 96px 16px 64px; /* 64 nav + 32 */
   width: calc(100% - 32px);
 }
 
@@ -4958,6 +4958,16 @@ p.tn-blurred {
   padding: 24px 0 20px;
   border-bottom: 1px solid var(--line);
   margin-bottom: 28px;
+  scroll-margin-top: 88px;
+}
+
+/* Anchor offset for fixed header — fixes cut/hidden under header */
+.note-card,
+.notes-list li,
+.chapter-panel,
+.notes-section,
+.world-link-card {
+  scroll-margin-top: 88px;
 }
 
 .notes-page-header .notes-kicker {
