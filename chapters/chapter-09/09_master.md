@@ -4,9 +4,9 @@ Westward the red sun sank, yet had not wholly set.
 
 The sky still held a little light, yet all things seemed veiled in grey. Through the window, the distant mountains could be seen slowly sinking into a heavy, thickening darkness.
 
-Within the living room the light was dim. Uncle and Aunt sat high upon the seats of honour, their faces and expressions shrouded in shadow, indistinct.
+Within the living room the light was dim. Uncle and Aunt sat high upon the seats of honour, their faces and expressions shrouded in shadow, scarcely to be discerned.
 
-At the sight of the two jars of wine Fang Yuan had brought with him, Uncle's brows knitted into a knot. He said, “How time slips by. You are fifteen already. That you both possess Gu Master aptitude, and Fang Zheng in particular, Aunt and I are proud. I have set aside six primeval stones for each of you, brothers, take them. Refining Gu worms devours primeval essence at a great rate, you will need them.”
+At the sight of the two jars of wine Fang Yuan had brought with him, Uncle's brow furrowed. He said, “How time slips by. You are fifteen already. That you both possess Gu Master aptitude, and Fang Zheng in particular, Aunt and I are proud. I have set aside six primeval stones for each of you, brothers, take them. Refining Gu worms devours primeval essence at a great rate, you will need them.”
 
 As he spoke, a servant came forward and handed each brother a small pouch.
 
@@ -112,7 +112,7 @@ Men die for wealth as birds die for food, whether upon Earth or in this world, t
 
 In truth, there was no kinship at all. Uncle and Aunt had taken the brothers in for no other reason than covetousness of the inheritance. Only the two brothers had repeatedly surprised them.
 
-All beginnings are hard, and for me harder still. I possess neither outstanding aptitude nor the guidance of any elder. In truth I begin with empty hands. My parents' legacy may yet serve as a great springboard. In my former life, Uncle and Aunt seized that legacy, and for that loss I wasted two whole years ere I could cultivate to the peak of Rank I. In this life, that error shall not be repeated.
+Every beginning is difficult, and for me doubly so. I possess neither outstanding aptitude nor the guidance of any elder. In truth I commence with empty hands. My parents' legacy may yet serve as a great springboard. In my former life, Uncle and Aunt seized that legacy, and for that loss I squandered two whole years ere I could cultivate to the peak of Rank I. In this life, that error shall not be repeated.
 
 So he went his way, turning these thoughts over as he walked.
 
@@ -148,7 +148,6 @@ There brother Gu Yue Fang Zheng sat at his desk, reviewing the notes taken in cl
 
 Fang Zheng's heart stirred. “Then bring it in.”
 
-Shen Cui entered, wriggling her waist as she came, her face full of coquettish charm.
+Shen Cui entered, sashaying as she came, her waist swaying with deliberate allure, her face full of coquettish charm.
 
 “Your servant greets Young Master Fang Zheng.” Her eyes brimmed with autumn waves as she gazed upon Fang Zheng. Fang Yuan was only Grade C, but Fang Zheng possessed Grade A aptitude. To cling to him would be true great fortune.
-
