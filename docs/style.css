@@ -4636,10 +4636,10 @@ p.tn-blurred {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-width: 16px;
-  width: auto;
-  height: 16px;
-  padding: 0 3px;
+  width: 18px;
+  height: 18px;
+  min-width: 18px;
+  padding: 0;
   font-family: var(--sans);
   font-size: 10px;
   font-weight: 800;
