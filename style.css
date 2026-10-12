@@ -4633,28 +4633,23 @@ p.tn-blurred {
 
 /* Superscript ref in prose */
 .note-ref {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 18px;
-  height: 18px;
-  min-width: 18px;
-  padding: 0;
+  display: inline-block;
+  vertical-align: super;
   font-family: var(--sans);
-  font-size: 10px;
+  font-size: 9px;
   font-weight: 800;
   line-height: 1;
-  background: linear-gradient(135deg, #fbf3e0 0%, #f6e8c0 100%);
+  padding: 1px 3px;
+  background: #fbf3e0;
   border: 1px solid rgba(168,121,26,0.32);
   color: #7a5a10;
   border-radius: 3px;
-  vertical-align: super;
   margin-left: 2px;
   margin-right: 1px;
   cursor: pointer;
   text-decoration: none !important;
   position: relative;
-  top: -2px;
+  top: -1px;
   transition: all 0.18s ease;
   user-select: none;
   box-sizing: border-box;
