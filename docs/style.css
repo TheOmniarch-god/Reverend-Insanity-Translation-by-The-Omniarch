@@ -4636,19 +4636,20 @@ p.tn-blurred {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-width: 16px;
-  height: 16px;
-  padding: 0 4px;
+  min-width: 0;
+  width: auto;
+  height: auto;
+  padding: 1px 4px;
   font-family: var(--sans);
   font-size: 10px;
   font-weight: 800;
-  line-height: 1;
+  line-height: 1.1;
   background: linear-gradient(135deg, #fbf3e0 0%, #f6e8c0 100%);
   border: 1px solid rgba(168,121,26,0.32);
   color: #7a5a10;
-  border-radius: 5px;
+  border-radius: 3px;
   vertical-align: super;
-  margin-left: 3px;
+  margin-left: 2px;
   margin-right: 1px;
   cursor: pointer;
   text-decoration: none !important;
@@ -4656,6 +4657,7 @@ p.tn-blurred {
   top: -2px;
   transition: all 0.18s ease;
   user-select: none;
+  box-sizing: border-box;
 }
 
 .note-ref:hover {
