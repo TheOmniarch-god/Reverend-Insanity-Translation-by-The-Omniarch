@@ -4633,26 +4633,28 @@ p.tn-blurred {
 
 /* Superscript ref in prose */
 .note-ref {
-  display: inline-block;
+  display: inline;
   vertical-align: super;
   font-family: var(--sans);
   font-size: 9px;
   font-weight: 800;
   line-height: 1;
-  padding: 1px 3px;
+  padding: 0 2px;
   background: #fbf3e0;
   border: 1px solid rgba(168,121,26,0.32);
   color: #7a5a10;
-  border-radius: 3px;
+  border-radius: 2px;
   margin-left: 2px;
   margin-right: 1px;
   cursor: pointer;
   text-decoration: none !important;
   position: relative;
   top: -1px;
+  letter-spacing: 0;
+  word-spacing: 0;
+  white-space: nowrap;
   transition: all 0.18s ease;
   user-select: none;
-  box-sizing: border-box;
 }
 
 .note-ref:hover {
