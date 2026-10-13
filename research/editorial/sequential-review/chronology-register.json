@@ -1,5 +1,5 @@
 {
-  "scope": "Sequential through355; personal, external, remembered and reported clocks distinguished",
+  "scope": "Sequential through365; present, remembered, legendary, reported and parallel clocks distinguished",
   "entries": [
     {
       "id": "T001",
@@ -9599,6 +9599,450 @@
           "paragraph": 46,
           "file": "OEBPS/Text/chapter363.html",
           "text": "他耐住性子：“方正，也不怕实话告诉你。来的时候，族长大人已经允诺我。只要我在三叉山上立下大功，把持住这里的局面，回到商家城后就会赐姓给我。到那时，我不再是易火，乃是商火。成为商家族人，我也就有权利来举荐人才。”"
+        }
+      ]
+    },
+    {
+      "id": "T246",
+      "timeline": "Revised current life",
+      "kind": "opening recurrence",
+      "event": "Five days after final refusal",
+      "constraint": "355 delays3+3+10 days, then3565days:21 days after initial recruitment visit.356 several-month opening interval is not an additional exact number of months.",
+      "evidence_status": "Source checked; scopes and counter-readings retained",
+      "dependency": "Full-novel reconciliation outstanding; no dates invented",
+      "sources": [
+        {
+          "chapter": 355,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "易火的眉头舒展了一些：“既然如此，那就给你三天的时间。三天之后，我再来这里，希望听到皆大欢喜的答复。”"
+        },
+        {
+          "chapter": 355,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "又三天后。"
+        },
+        {
+          "chapter": 355,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "十天之后。"
+        },
+        {
+          "chapter": 356,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter364.html",
+          "text": "五天之后。"
+        },
+        {
+          "chapter": 356,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter364.html",
+          "text": "时隔数月，三王传承再度开启。"
+        }
+      ]
+    },
+    {
+      "id": "T247",
+      "timeline": "Ren Zu legend",
+      "kind": "intoxication / retrospective",
+      "event": "Seven days and nights; earlier Divine Travel",
+      "constraint": "Legend drunken interval not added to present chronology. Divine Travel also explains the previous island episode, not only the current escape from bees.",
+      "evidence_status": "Source checked; scopes and counter-readings retained",
+      "dependency": "Full-novel reconciliation outstanding; no dates invented",
+      "sources": [
+        {
+          "chapter": 357,
+          "paragraph": 18,
+          "file": "OEBPS/Text/chapter365.html",
+          "text": "太日阳莽这一醉，醉了七天七夜。"
+        },
+        {
+          "chapter": 357,
+          "paragraph": 32,
+          "file": "OEBPS/Text/chapter365.html",
+          "text": "那声音答道：“我是神游蛊，只要任何人喝下天地间四种极品美酒，就会在心田里孕育而成。我能让你挪移到任意的地方。”"
+        },
+        {
+          "chapter": 357,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter365.html",
+          "text": "神游蛊叹息道：“没有用的。只有你喝醉了酒，才能催得动我。你现在神智如此清醒，是不行的。”"
+        },
+        {
+          "chapter": 357,
+          "paragraph": 35,
+          "file": "OEBPS/Text/chapter365.html",
+          "text": "太日阳莽恍然大悟：“难怪那次我被困在孤岛，差点被饿死。幸好得到名声蛊，才脱离了平凡深渊。原来是你害的我！”"
+        },
+        {
+          "chapter": 357,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter365.html",
+          "text": "神游蛊回答道：“唉，人啊，我也不是有意害你的，都是你喝醉了酒后，催动了我的力量。你不要怪我啦，上次你差点被斑虎蜜蜂捉拿，是亏了我你才脱险的。一害一救，咱们算是扯平了。”"
+        }
+      ]
+    },
+    {
+      "id": "T248",
+      "timeline": "Revised current life",
+      "kind": "checkpoint / unquantified duration",
+      "event": "Xin trial32 to exit44",
+      "constraint": "Reaches32, then40-plus, exits at44. This visit longer than Dog visit, exact time unstated. Does not establish44 fully cleared tests or forty-four days.",
+      "evidence_status": "Source checked; scopes and counter-readings retained",
+      "dependency": "Full-novel reconciliation outstanding; no dates invented",
+      "sources": [
+        {
+          "chapter": 358,
+          "paragraph": 7,
+          "file": "OEBPS/Text/chapter366.html",
+          "text": "如果他记得没错，这已经是信王传承中的第三十二道关卡了。"
+        },
+        {
+          "chapter": 358,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter366.html",
+          "text": "而第四十关后，信王传承难度又暴涨数倍。"
+        },
+        {
+          "chapter": 358,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter366.html",
+          "text": "方源闯到第四十四关，迎来一次传送出去的机会。他把握住了这个机会，从信王传承中撤退而出。"
+        },
+        {
+          "chapter": 358,
+          "paragraph": 23,
+          "file": "OEBPS/Text/chapter366.html",
+          "text": "这次闯关的时间，要比犬王传承更长。"
+        },
+        {
+          "chapter": 358,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter366.html",
+          "text": "不过每次开启，三王传承中不管是哪个，蛊师都只能进入一次。"
+        }
+      ]
+    },
+    {
+      "id": "T249",
+      "timeline": "Revised current life",
+      "kind": "overnight breakthrough",
+      "event": "Golden Relic advances FY",
+      "constraint": "Overnight Fourinitial→Fourmiddle. Subsequent BoneWings refinement duration not supplied. Two-to-three and five-plus years are generic training requirements, not FY’s elapsed practice.",
+      "evidence_status": "Source checked; scopes and counter-readings retained",
+      "dependency": "Full-novel reconciliation outstanding; no dates invented",
+      "sources": [
+        {
+          "chapter": 358,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter366.html",
+          "text": "“我这次也算是运气，在信王传承中，居然得到一只黄金舍利蛊作为奖励。”方源感慨一声后，念头一动，就将此蛊催动起来。"
+        },
+        {
+          "chapter": 358,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter366.html",
+          "text": "就这样一夜之后，当清晨的阳光，照耀在三叉山上时，方源缓缓地睁开双眼。"
+        },
+        {
+          "chapter": 358,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter366.html",
+          "text": "四转中阶了！"
+        },
+        {
+          "chapter": 358,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter366.html",
+          "text": "他足足消耗十八万余块的元石，这才将蛊炼成。"
+        },
+        {
+          "chapter": 358,
+          "paragraph": 87,
+          "file": "OEBPS/Text/chapter366.html",
+          "text": "普通蛊师，对于骨翼蛊的使用，相当谨慎。往往要训练两三年，才能用来飞行赶路。若用来战斗，训练的时间要更久，至少得五年以上。"
+        }
+      ]
+    },
+    {
+      "id": "T250",
+      "timeline": "Revised current life",
+      "kind": "itinerary displacement",
+      "event": "Reinforcements depart two days early",
+      "constraint": "Relative to planned itinerary, not proof of only two days’ travel or departure before request. Continuous day/night travel unquantified.",
+      "evidence_status": "Source checked; scopes and counter-readings retained",
+      "dependency": "Full-novel reconciliation outstanding; no dates invented",
+      "sources": [
+        {
+          "chapter": 359,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter367.html",
+          "text": "“这些天来连续赶路，日夜不歇，已经极为接近三叉山了。”铁霸修一边奔跑，跨越山石树根，一边在心中思考。"
+        },
+        {
+          "chapter": 363,
+          "paragraph": 37,
+          "file": "OEBPS/Text/chapter371.html",
+          "text": "他们选择的路线，太过隐秘。为了防止消息泄露，还故意提前两天出发。"
+        },
+        {
+          "chapter": 363,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter371.html",
+          "text": "这些布置，到了现在，反而成为铁霸修的逃生阻碍。"
+        }
+      ]
+    },
+    {
+      "id": "T251",
+      "timeline": "Revised current life",
+      "kind": "battle deaths / rescue",
+      "event": "Six dead, one surviving reinforcement",
+      "constraint": "Mu, XianHua, DaoKu, AoKai, unnamedThree member, then BaXiu. RuoNan saved; elders abandon siege to intervene, releasing Bai. No second death/revival for RuoNan.",
+      "evidence_status": "Source checked; scopes and counter-readings retained",
+      "dependency": "Full-novel reconciliation outstanding; no dates invented",
+      "sources": [
+        {
+          "chapter": 361,
+          "paragraph": 88,
+          "file": "OEBPS/Text/chapter369.html",
+          "text": "方源回力，双手一拍。铁沐的脑袋像是一个西瓜，被硬生生地拍爆！"
+        },
+        {
+          "chapter": 362,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter370.html",
+          "text": "她秀美的面庞，满是呆滞。伞莲蛊掉在地上，一丝血线从她雪白的脖颈处慢慢显现出来，然后血液猛地喷涌，仿若喷泉，将她的头颅顶飞出去，和身体分家。"
+        },
+        {
+          "chapter": 362,
+          "paragraph": 23,
+          "file": "OEBPS/Text/chapter370.html",
+          "text": "咔吧一声脆响，铁刀苦的脖颈被方源轻易捏得稀碎。一代刀客，铁若男的得力干将，勇毅果敢，就命丧于此。"
+        },
+        {
+          "chapter": 362,
+          "paragraph": 43,
+          "file": "OEBPS/Text/chapter370.html",
+          "text": "果然，不到片刻，方源提着铁傲开的人头，飞了回来。"
+        },
+        {
+          "chapter": 362,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter370.html",
+          "text": "很快，这片战场上，只剩下铁若男和铁霸修两人。"
+        },
+        {
+          "chapter": 363,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter371.html",
+          "text": "兽影扑下，将铁霸修撕成碎片，但铁柜却坚实如初，里面的铁若男安然无恙。"
+        },
+        {
+          "chapter": 363,
+          "paragraph": 88,
+          "file": "OEBPS/Text/chapter371.html",
+          "text": "“哦？是么……我此次截杀铁家七人，连铁霸修在内，六人皆命丧我手。你们四个老头子，也想对付我？那就飞上来和我打啊。”方源呵呵冷笑，双眼中凌厉的光，让人不可逼视。"
+        },
+        {
+          "chapter": 364,
+          "paragraph": 14,
+          "file": "OEBPS/Text/chapter372.html",
+          "text": "铁家四老撤销铁柜蛊，让白凝冰轻轻松松，重获自由。"
+        }
+      ]
+    },
+    {
+      "id": "T252",
+      "timeline": "Revised current life / backstory",
+      "kind": "age and reported information",
+      "event": "Twenty and twenty-five claims",
+      "constraint": "SR162 tracks divergent age evidence. YanJun’s five-year seclusion is separate; short present intervals do not supply a documented five-year leap.",
+      "evidence_status": "Source checked; scopes and counter-readings retained",
+      "dependency": "Full-novel reconciliation outstanding; no dates invented",
+      "sources": [
+        {
+          "chapter": 332,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter340.html",
+          "text": "他曾经也是四转蛊师，一代族长。但他是四五十岁的时候，才修行到四转境界。方源的年龄资料，早在演武场时，就为人所知。他仅仅只是二十岁罢了！"
+        },
+        {
+          "chapter": 364,
+          "paragraph": 43,
+          "file": "OEBPS/Text/chapter372.html",
+          "text": "下属连忙汇报：“少主，您继承太古虚道传承，闭关了五年，不知道方正也很正常。这个人，只有二十五岁，是近几年来才涌现出来的魔道天才新星……”"
+        }
+      ]
+    },
+    {
+      "id": "T253",
+      "timeline": "Earlier / recent current life",
+      "kind": "breakthrough distinction",
+      "event": "Wei Yang advances from Three peak to Four",
+      "constraint": "364 oldThreepeak and recentFour are explicitly separated. Do not repair either numeral just because both occur in the chapter.",
+      "evidence_status": "Source checked; scopes and counter-readings retained",
+      "dependency": "Full-novel reconciliation outstanding; no dates invented",
+      "sources": [
+        {
+          "chapter": 364,
+          "paragraph": 64,
+          "file": "OEBPS/Text/chapter372.html",
+          "text": "他资质不足，只有三转巅峰的修为，却是商家五大重臣中的一位，号称五干将之一，和易火这样的四转巅峰蛊师齐名。"
+        },
+        {
+          "chapter": 364,
+          "paragraph": 65,
+          "file": "OEBPS/Text/chapter372.html",
+          "text": "曾经，易火觉得和魏央一起名列五干将，是一种侮辱，因此找他对战。结果，他灰头土脸，魏央来去自如，纵横战场，他根本就奈何不得！"
+        },
+        {
+          "chapter": 364,
+          "paragraph": 66,
+          "file": "OEBPS/Text/chapter372.html",
+          "text": "“若单论飞行速度，魏央几乎可谓南疆第一，小兽王也比不上。最近魏央又得到族长的帮助，晋升到了四转……”"
+        }
+      ]
+    },
+    {
+      "id": "T254",
+      "timeline": "Revised current life",
+      "kind": "cultivation session / watch rotation",
+      "event": "Several shichen; alternating watches",
+      "constraint": "FY helps Bai for several shichen, approximately two hours per shichen. Later first-half/second-half night watches do not give a universal modern12-hour night.",
+      "evidence_status": "Source checked; scopes and counter-readings retained",
+      "dependency": "Full-novel reconciliation outstanding; no dates invented",
+      "sources": [
+        {
+          "chapter": 365,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter373.html",
+          "text": "方源是四转中阶，拥有亮金真元。又在九眼酒虫的作用下，提纯到精金真元。此时通过骨肉团圆蛊，灌注到白凝冰的空窍当中，帮助她温养窍壁，增长底蕴。"
+        },
+        {
+          "chapter": 365,
+          "paragraph": 12,
+          "file": "OEBPS/Text/chapter373.html",
+          "text": "几个时辰之后，方源收回双掌，白凝冰缓缓睁开双眼。"
+        },
+        {
+          "chapter": 365,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter373.html",
+          "text": "“哼。上半夜你继续修行，我来替你把守。到了下半夜，你出来替换我。”说着，白凝冰便走了出去。"
+        },
+        {
+          "chapter": 365,
+          "paragraph": 23,
+          "file": "OEBPS/Text/chapter373.html",
+          "text": "如今局面比刚刚来三叉山时，更加危机四伏。方白二人，尽量都不同时修行。"
+        }
+      ]
+    },
+    {
+      "id": "T255",
+      "timeline": "Revised current life / forecast",
+      "kind": "expected retaliation delay",
+      "event": "Not a matter of one or two months",
+      "constraint": "Tower intrusions absorb Tie resources. FY’s retaliation timing is expectation, not elapsed calendar evidence. Hundred Battles Gu remains a goal.",
+      "evidence_status": "Source checked; scopes and counter-readings retained",
+      "dependency": "Full-novel reconciliation outstanding; no dates invented",
+      "sources": [
+        {
+          "chapter": 365,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter373.html",
+          "text": "“如今神偷陆钻风数次潜入镇魔塔，大闹铁家，已经让铁家焦头烂额。要等到他们抽出精力来对付我，不是一两个月的事情。倒是可以先放一放。”"
+        },
+        {
+          "chapter": 365,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter373.html",
+          "text": "“三王传承，是块太大的蛋糕，我注定是吃不下全部的，只能择其精华。不过我若能得到其中的精华，诸如百战不殆蛊等，绝对是不枉此行。实力将会有巨大提升，对于接下来的义天山大战，有非常大的帮助。”"
+        }
+      ]
+    },
+    {
+      "id": "T256",
+      "timeline": "Parallel Central Continent",
+      "kind": "competition / opening",
+      "event": "Several-month contest concludes",
+      "constraint": "Explicit simultaneous cut36539. Several-month contest not added serially to all Southern events. FengJinHuangfirst; FangZheng enters after20–30others, exact placing unstated.",
+      "evidence_status": "Source checked; scopes and counter-readings retained",
+      "dependency": "Full-novel reconciliation outstanding; no dates invented",
+      "sources": [
+        {
+          "chapter": 365,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter373.html",
+          "text": "与此同时，中洲，天梯山脚下。"
+        },
+        {
+          "chapter": 365,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter373.html",
+          "text": "人群中，真正的古月方正轻轻地呼出一口浊气，持续数月的大比武终于结束了。"
+        },
+        {
+          "chapter": 365,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter373.html",
+          "text": "数月之前，十大派同时传下师命，组织这些精英弟子进行大比武，以决出名次。"
+        },
+        {
+          "chapter": 365,
+          "paragraph": 66,
+          "file": "OEBPS/Text/chapter373.html",
+          "text": "正是此次十派大比武的第一人——凤金煌！"
+        },
+        {
+          "chapter": 365,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter373.html",
+          "text": "方正和其交手，只撑了六个回合，便遗憾败北。"
+        },
+        {
+          "chapter": 365,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter373.html",
+          "text": "接连进去二三十位后，终于轮到古月方正。"
+        }
+      ]
+    },
+    {
+      "id": "T257",
+      "timeline": "Revised current life",
+      "kind": "endpoint / unresolved event",
+      "event": "True Fang Zheng falls inside inheritance",
+      "constraint": "Aperture suppressed and falling at365end; no death or victory yet. Spirit girl’s winning condition is a forecast/instruction, not completed inheritance transfer.",
+      "evidence_status": "Source checked; scopes and counter-readings retained",
+      "dependency": "Full-novel reconciliation outstanding; no dates invented",
+      "sources": [
+        {
+          "chapter": 365,
+          "paragraph": 75,
+          "file": "OEBPS/Text/chapter373.html",
+          "text": "“你也是想来继承狐仙传承的有缘人吗？待会儿，你就会看到一座山峰。只有第一个登上峰巅的人，才能得到我哟。你可要努力啦。排在你前面的那些人，已经领先你很多了。嘻嘻嘻……”女童身着绚烂的彩衣，背后一只雪白的狐尾淘气地翘着，一双大眼睛，圆溜溜的，透着纯真的色彩。"
+        },
+        {
+          "chapter": 365,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter373.html",
+          "text": "方正被这一点，如同羽毛般的身躯忽然恢复了重量，猛地向下落去。"
+        },
+        {
+          "chapter": 365,
+          "paragraph": 81,
+          "file": "OEBPS/Text/chapter373.html",
+          "text": "他想催动蛊虫，但令他惊骇欲绝的是，自己的整个空窍都被一股无形的力量封住，让他难以运用蛊的力量。"
+        },
+        {
+          "chapter": 365,
+          "paragraph": 82,
+          "file": "OEBPS/Text/chapter373.html",
+          "text": "“难道我古月方正，就要命丧此处，摔死在这里，死得不明不白？！”"
         }
       ]
     }

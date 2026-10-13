@@ -1,0 +1,23 @@
+# Batch019 preservation cautions
+
+-356 Four-middle fighting strength is not the breakthrough; actual Four-middle cultivation arrives358.
+- Requesting a Four-peak reinforcement does not make Ba Xiu Four peak. His Four-upper cultivation and exceptional battle power are explicitly separate.
+- Ruo Nan’s actual command and Li Xian’s leader report may reflect imperfect information. Do not erase viewpoint automatically.
+- Golden Relic is a reward; the post40 rule restricts use of owned refinement Gu, not the categories of all prizes.
+- The new Footless Bird is a fresh reward. The old bird’s destruction remains unchanged.
+- A four-winged bird does not prove the transformed human should have four wings.
+- First20-plus trial wins conserve materials; checkpoint30/40 descriptions are not automatically inconsistent exact counts.
+- Seven reinforcements: two Four, five Three. Four named juniors plus one unnamed. Six die, Ruo Nan survives; no extra victim added from loose plural phrasing.
+- Ground soldiers obstruct their own team when controlled poorly; this does not prove all teamwork fails.
+- Ba Xiu’s insufficient long range does not mean zero ranged techniques or inability to carry a defensive Gu.
+- Named Gu used by victims do not become FY’s loot without narrated recovery.
+- Wei Yang Three peak then recently Four is an explicit advancement, not a stage mistake.
+- Purple Thorn guest status does not restore FY’s destroyed physical token.
+- Yan Jun’s five-year seclusion does not add five years to FY’s chronology.
+- Correct inference of secret knowledge does not make Li Xian’s entire theory of FY’s flying expertise correct.
+- Three-times internal flow is again supported; no global age repair follows automatically.
+-355 personal non-need for Reunion is compatible with365 assistance to Bai. SR099 stays withdrawn.
+-Several shichen is not the same as several modern hours; no exact session length invented.
+- Hu inheritance at365 is only beginning. Fang Zheng is falling, not dead or victorious.
+- Hail remains faithful to冰雹; the Batch016 variant qualification remains controlling.
+- The separate synopsis correction clarifies the same demon lord with “the ... himself”; it is not an implemented website edit or a chapter-reading advance.

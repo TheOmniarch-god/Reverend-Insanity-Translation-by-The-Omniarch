@@ -357,14 +357,24 @@
     352,
     353,
     354,
-    355
+    355,
+    356,
+    357,
+    358,
+    359,
+    360,
+    361,
+    362,
+    363,
+    364,
+    365
   ],
-  "paragraphs_read": 32108,
-  "paragraph_characters_read": 1105412,
-  "next_chapter": 356,
-  "remaining_chapters": 1979,
-  "batch_report": "Batch-018-Chapters-336-355.md",
-  "scope": "Full sequential Chinese-source reading through355; selected external fact-checks, not fresh bilingual/live-site audit",
+  "paragraphs_read": 33025,
+  "paragraph_characters_read": 1136277,
+  "next_chapter": 366,
+  "remaining_chapters": 1969,
+  "batch_report": "Batch-019-Chapters-356-365.md",
+  "scope": "Full sequential Chinese reading through365; selected external collation, not fresh bilingual/live chapter audit",
   "publication_policy": "All emendations held for complete2334-chapter review and global reconciliation.",
   "whole_novel_chronology_verified": false,
   "batches": [
@@ -546,6 +556,16 @@
       "paragraphs": 1836,
       "characters": 61685,
       "reading_segments": "Ten complete untruncated two-chapter outputs"
+    },
+    {
+      "id": "019",
+      "chapters": [
+        356,
+        365
+      ],
+      "paragraphs": 917,
+      "characters": 30865,
+      "reading_segments": "Five complete untruncated two-chapter outputs; ten-chapter installment"
     }
   ],
   "chapters": [
@@ -3388,6 +3408,86 @@
       "paragraphs": 76,
       "first_paragraph": 1,
       "last_paragraph": 76
+    },
+    {
+      "chapter": 356,
+      "file": "OEBPS/Text/chapter364.html",
+      "title": "第一百五十七节：身上有毛的人",
+      "paragraphs": 110,
+      "first_paragraph": 1,
+      "last_paragraph": 110
+    },
+    {
+      "chapter": 357,
+      "file": "OEBPS/Text/chapter365.html",
+      "title": "第一百五十八节：毛民的传说",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 358,
+      "file": "OEBPS/Text/chapter366.html",
+      "title": "第一百五十九节：新底牌",
+      "paragraphs": 93,
+      "first_paragraph": 1,
+      "last_paragraph": 93
+    },
+    {
+      "chapter": 359,
+      "file": "OEBPS/Text/chapter367.html",
+      "title": "第一百六十节：拦截",
+      "paragraphs": 81,
+      "first_paragraph": 1,
+      "last_paragraph": 81
+    },
+    {
+      "chapter": 360,
+      "file": "OEBPS/Text/chapter368.html",
+      "title": "第一百六十一节：以一对七（上）",
+      "paragraphs": 109,
+      "first_paragraph": 1,
+      "last_paragraph": 109
+    },
+    {
+      "chapter": 361,
+      "file": "OEBPS/Text/chapter369.html",
+      "title": "第一百六十二节：以一对七（中）",
+      "paragraphs": 95,
+      "first_paragraph": 1,
+      "last_paragraph": 95
+    },
+    {
+      "chapter": 362,
+      "file": "OEBPS/Text/chapter370.html",
+      "title": "第一百六十三节：以一对七（下）",
+      "paragraphs": 76,
+      "first_paragraph": 1,
+      "last_paragraph": 76
+    },
+    {
+      "chapter": 363,
+      "file": "OEBPS/Text/chapter371.html",
+      "title": "第一百六十四节：以一对七（终）",
+      "paragraphs": 88,
+      "first_paragraph": 1,
+      "last_paragraph": 88
+    },
+    {
+      "chapter": 364,
+      "file": "OEBPS/Text/chapter372.html",
+      "title": "第一百六十五节：声名大噪！",
+      "paragraphs": 92,
+      "first_paragraph": 1,
+      "last_paragraph": 92
+    },
+    {
+      "chapter": 365,
+      "file": "OEBPS/Text/chapter373.html",
+      "title": "第一百六十六节：狐仙福地开启",
+      "paragraphs": 82,
+      "first_paragraph": 1,
+      "last_paragraph": 82
     }
   ]
 }

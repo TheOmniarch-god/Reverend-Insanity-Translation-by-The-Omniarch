@@ -1,0 +1,48 @@
+{
+  "status": "Complete",
+  "endpoint": 365,
+  "next_unread": 366,
+  "segments": [
+    {
+      "chapters": [
+        356,
+        357
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 201
+    },
+    {
+      "chapters": [
+        358,
+        359
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 174
+    },
+    {
+      "chapters": [
+        360,
+        361
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 204
+    },
+    {
+      "chapters": [
+        362,
+        363
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 164
+    },
+    {
+      "chapters": [
+        364,
+        365
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 174
+    }
+  ],
+  "note": "Ten chapters, not twenty. Actual reading, not extraction-only coverage. Source unchanged."
+}

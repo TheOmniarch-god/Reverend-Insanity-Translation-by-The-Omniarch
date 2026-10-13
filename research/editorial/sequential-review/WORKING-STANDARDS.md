@@ -1,6 +1,6 @@
-# Working standards through Chapter355
+# Working standards through Chapter365
 
-Twelve working standards, not whole-novel certification or edit approval.
+Twelve working standards, not approval or whole-novel certification.
 
 ## WS-01: Evidence and viewpoint
 
@@ -8,7 +8,7 @@ Label narrated action, testimony, inference, official record, recording, forecas
 
 Established review method; not manuscript approval
 
-Through355, retain provisional status. Distinguish actual elapsed time from rate conversion, first clearance from total episode, permanent strength from manifestations, acquired Gu from planned purchases. Batch016 fact-check addendum remains controlling.
+Through365, provisional only. Separate cultivation from fighting power, actual commander from informant reports, reported ages from elapsed time, magical lore from current chronology and spontaneous manifestations from guaranteed activation. No whole-novel certification.
 
 ## WS-02: Aperture quantities
 
@@ -16,7 +16,7 @@ Distinguish capacity, current reserves, essence quality and recovery rate. Use p
 
 Strong working standard in covered mortal-aperture scenes
 
-Through355, retain provisional status. Distinguish actual elapsed time from rate conversion, first clearance from total episode, permanent strength from manifestations, acquired Gu from planned purchases. Batch016 fact-check addendum remains controlling.
+Through365, provisional only. Separate cultivation from fighting power, actual commander from informant reports, reported ages from elapsed time, magical lore from current chronology and spontaneous manifestations from guaranteed activation. No whole-novel certification.
 
 ## WS-03: Revolution, stage and aptitude
 
@@ -24,7 +24,7 @@ Revolution, within-revolution stage, refined essence quality and aptitude are se
 
 Strong working distinction; mechanics remain revisable
 
-Through355, retain provisional status. Distinguish actual elapsed time from rate conversion, first clearance from total episode, permanent strength from manifestations, acquired Gu from planned purchases. Batch016 fact-check addendum remains controlling.
+Through365, provisional only. Separate cultivation from fighting power, actual commander from informant reports, reported ages from elapsed time, magical lore from current chronology and spontaneous manifestations from guaranteed activation. No whole-novel certification.
 
 ## WS-04: Gu possession and control
 
@@ -32,7 +32,7 @@ Distinguish possession, refinement, borrowed permission, autonomous protection, 
 
 Strong working standard
 
-Through355, retain provisional status. Distinguish actual elapsed time from rate conversion, first clearance from total episode, permanent strength from manifestations, acquired Gu from planned purchases. Batch016 fact-check addendum remains controlling.
+Through365, provisional only. Separate cultivation from fighting power, actual commander from informant reports, reported ages from elapsed time, magical lore from current chronology and spontaneous manifestations from guaranteed activation. No whole-novel certification.
 
 ## WS-05: Time units and interval scope
 
@@ -40,7 +40,7 @@ Keep时辰 and小时 distinct; conventionally one时辰 is abouttwo hours. Separ
 
 Strong working unit distinction; calendar unresolved
 
-Through355, retain provisional status. Distinguish actual elapsed time from rate conversion, first clearance from total episode, permanent strength from manifestations, acquired Gu from planned purchases. Batch016 fact-check addendum remains controlling.
+Through365, provisional only. Separate cultivation from fighting power, actual commander from informant reports, reported ages from elapsed time, magical lore from current chronology and spontaneous manifestations from guaranteed activation. No whole-novel certification.
 
 ## WS-06: Resources and storage
 
@@ -48,7 +48,7 @@ Separate asking price, estimate, accepted contract, payment, debt, repayment, st
 
 Established accounting method; balances locally incomplete
 
-Through355, retain provisional status. Distinguish actual elapsed time from rate conversion, first clearance from total episode, permanent strength from manifestations, acquired Gu from planned purchases. Batch016 fact-check addendum remains controlling.
+Through365, provisional only. Separate cultivation from fighting power, actual commander from informant reports, reported ages from elapsed time, magical lore from current chronology and spontaneous manifestations from guaranteed activation. No whole-novel certification.
 
 ## WS-07: Ranges and physical staging
 
@@ -56,7 +56,7 @@ Preserve the source units and identify attack/reconnaissance mode and environmen
 
 Conditional factual standards only
 
-Through355, retain provisional status. Distinguish actual elapsed time from rate conversion, first clearance from total episode, permanent strength from manifestations, acquired Gu from planned purchases. Batch016 fact-check addendum remains controlling.
+Through365, provisional only. Separate cultivation from fighting power, actual commander from informant reports, reported ages from elapsed time, magical lore from current chronology and spontaneous manifestations from guaranteed activation. No whole-novel certification.
 
 ## WS-08: Ages and calendars
 
@@ -64,7 +64,7 @@ Separate cohort age, nominal/New Year age, birthday age, academic year and elaps
 
 Open global reconciliation
 
-Through355, retain provisional status. Distinguish actual elapsed time from rate conversion, first clearance from total episode, permanent strength from manifestations, acquired Gu from planned purchases. Batch016 fact-check addendum remains controlling.
+Through365, provisional only. Separate cultivation from fighting power, actual commander from informant reports, reported ages from elapsed time, magical lore from current chronology and spontaneous manifestations from guaranteed activation. No whole-novel certification.
 
 ## WS-09: Copy corrections and textual provenance
 
@@ -72,7 +72,7 @@ Exact local name/speaker slips may be strongly supported without settling global
 
 Local confidence can be high; all proposals still held
 
-Through355, retain provisional status. Distinguish actual elapsed time from rate conversion, first clearance from total episode, permanent strength from manifestations, acquired Gu from planned purchases. Batch016 fact-check addendum remains controlling.
+Through365, provisional only. Separate cultivation from fighting power, actual commander from informant reports, reported ages from elapsed time, magical lore from current chronology and spontaneous manifestations from guaranteed activation. No whole-novel certification.
 
 ## WS-10: Completion and approval gates
 
@@ -80,7 +80,7 @@ Stabilising a working standard does not end sequential reading. Whole-novel conf
 
 Standing workflow rule
 
-Through355, retain provisional status. Distinguish actual elapsed time from rate conversion, first clearance from total episode, permanent strength from manifestations, acquired Gu from planned purchases. Batch016 fact-check addendum remains controlling.
+Through365, provisional only. Separate cultivation from fighting power, actual commander from informant reports, reported ages from elapsed time, magical lore from current chronology and spontaneous manifestations from guaranteed activation. No whole-novel certification.
 
 ## WS-11: Agreed working rendering of 人是万物之灵
 
@@ -88,7 +88,7 @@ Man is the most intelligent of all living things. Keep the repeated maxim recogn
 
 User-accepted working translation; not manuscript implementation approval
 
-Through355, retain provisional status. Distinguish actual elapsed time from rate conversion, first clearance from total episode, permanent strength from manifestations, acquired Gu from planned purchases. Batch016 fact-check addendum remains controlling.
+Through365, provisional only. Separate cultivation from fighting power, actual commander from informant reports, reported ages from elapsed time, magical lore from current chronology and spontaneous manifestations from guaranteed activation. No whole-novel certification.
 
 ## WS-12: Clan-specific titles and competitive offices
 
@@ -96,4 +96,4 @@ Keep 少主 distinct from 少族长. Do not equate every leader’s child with a
 
 Working distinction strengthened; clan rules still require whole-novel review
 
-Through355, retain provisional status. Distinguish actual elapsed time from rate conversion, first clearance from total episode, permanent strength from manifestations, acquired Gu from planned purchases. Batch016 fact-check addendum remains controlling.
+Through365, provisional only. Separate cultivation from fighting power, actual commander from informant reports, reported ages from elapsed time, magical lore from current chronology and spontaneous manifestations from guaranteed activation. No whole-novel certification.

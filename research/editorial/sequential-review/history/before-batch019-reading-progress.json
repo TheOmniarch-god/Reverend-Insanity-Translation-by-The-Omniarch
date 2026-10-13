@@ -1,0 +1,3393 @@
+{
+  "source": "/home/user/benchmark/sources/Gu-Zhen-Ren.epub",
+  "source_sha256": "1ef1c29b6bddd7994f56696e2d091363aa8bbcee4889439465a9e2c51437dd5d",
+  "total_narrative_chapters": 2334,
+  "sequential_chapters_completed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355
+  ],
+  "paragraphs_read": 32108,
+  "paragraph_characters_read": 1105412,
+  "next_chapter": 356,
+  "remaining_chapters": 1979,
+  "batch_report": "Batch-018-Chapters-336-355.md",
+  "scope": "Full sequential Chinese-source reading through355; selected external fact-checks, not fresh bilingual/live-site audit",
+  "publication_policy": "All emendations held for complete2334-chapter review and global reconciliation.",
+  "whole_novel_chronology_verified": false,
+  "batches": [
+    {
+      "id": "001",
+      "chapters": [
+        1,
+        10
+      ],
+      "paragraphs": 715,
+      "characters": 26627
+    },
+    {
+      "id": "002",
+      "chapters": [
+        11,
+        20
+      ],
+      "paragraphs": 750,
+      "characters": 27937
+    },
+    {
+      "id": "003",
+      "chapters": [
+        21,
+        50
+      ],
+      "paragraphs": 2140,
+      "characters": 83815,
+      "reading_segments": "Fifteen full untruncated two-chapter outputs"
+    },
+    {
+      "id": "004",
+      "chapters": [
+        51,
+        80
+      ],
+      "paragraphs": 2399,
+      "characters": 89144,
+      "reading_segments": "Fifteen full untruncated two-chapter outputs"
+    },
+    {
+      "id": "005",
+      "chapters": [
+        81,
+        110
+      ],
+      "paragraphs": 2534,
+      "characters": 92351,
+      "reading_segments": "Fifteen complete untruncated two-chapter outputs"
+    },
+    {
+      "id": "006",
+      "chapters": [
+        111,
+        140
+      ],
+      "paragraphs": 2751,
+      "characters": 96928,
+      "reading_segments": "Fifteen complete untruncated two-chapter outputs"
+    },
+    {
+      "id": "007",
+      "chapters": [
+        141,
+        160
+      ],
+      "paragraphs": 1878,
+      "characters": 63989,
+      "reading_segments": "Ten complete untruncated two-chapter outputs",
+      "note": "Dense20-chapter batch. Ch151pp97–99 are separator and appended notes, not narrative."
+    },
+    {
+      "id": "008",
+      "chapters": [
+        161,
+        180
+      ],
+      "paragraphs": 1861,
+      "characters": 62666,
+      "reading_segments": "Ten complete untruncated two-chapter outputs"
+    },
+    {
+      "id": "009",
+      "chapters": [
+        181,
+        200
+      ],
+      "paragraphs": 1825,
+      "characters": 63205,
+      "reading_segments": "Ten complete untruncated two-chapter outputs"
+    },
+    {
+      "id": "010",
+      "chapters": [
+        201,
+        220
+      ],
+      "paragraphs": 1934,
+      "characters": 65084,
+      "reading_segments": "Ten complete untruncated two-chapter outputs"
+    },
+    {
+      "id": "011",
+      "chapters": [
+        221,
+        240
+      ],
+      "paragraphs": 2121,
+      "characters": 65560,
+      "reading_segments": "Ten complete untruncated two-chapter outputs"
+    },
+    {
+      "id": "012",
+      "chapters": [
+        241,
+        255
+      ],
+      "paragraphs": 1457,
+      "characters": 47636,
+      "reading_segments": "Seven complete untruncated two-chapter outputs and complete255; adaptive15"
+    },
+    {
+      "id": "013",
+      "chapters": [
+        256,
+        270
+      ],
+      "paragraphs": 1451,
+      "characters": 48480,
+      "reading_segments": "Seven complete untruncated two-chapter outputs and complete270; adaptive15"
+    },
+    {
+      "id": "014",
+      "chapters": [
+        271,
+        285
+      ],
+      "paragraphs": 1559,
+      "characters": 52208,
+      "reading_segments": "Seven complete untruncated pairs and complete285; adaptive15"
+    },
+    {
+      "id": "015",
+      "chapters": [
+        286,
+        300
+      ],
+      "paragraphs": 1563,
+      "characters": 47251,
+      "reading_segments": "Seven complete untruncated two-chapter outputs and complete300; adaptive15"
+    },
+    {
+      "id": "016",
+      "chapters": [
+        301,
+        315
+      ],
+      "paragraphs": 1487,
+      "characters": 47936,
+      "reading_segments": "Seven complete untruncated two-chapter outputs and complete315; adaptive15"
+    },
+    {
+      "id": "017",
+      "chapters": [
+        316,
+        335
+      ],
+      "paragraphs": 1847,
+      "characters": 62910,
+      "reading_segments": "Ten complete untruncated two-chapter outputs; expanded20"
+    },
+    {
+      "id": "018",
+      "chapters": [
+        336,
+        355
+      ],
+      "paragraphs": 1836,
+      "characters": 61685,
+      "reading_segments": "Ten complete untruncated two-chapter outputs"
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "file": "OEBPS/Text/chapter9.html",
+      "title": "第一节：纵身亡魔心仍不悔",
+      "paragraphs": 86,
+      "first_paragraph": 1,
+      "last_paragraph": 86
+    },
+    {
+      "chapter": 2,
+      "file": "OEBPS/Text/chapter10.html",
+      "title": "第二节：逆光阴五百年觉悟",
+      "paragraphs": 79,
+      "first_paragraph": 1,
+      "last_paragraph": 79
+    },
+    {
+      "chapter": 3,
+      "file": "OEBPS/Text/chapter11.html",
+      "title": "第三节：请一边玩蛋去",
+      "paragraphs": 65,
+      "first_paragraph": 1,
+      "last_paragraph": 65
+    },
+    {
+      "chapter": 4,
+      "file": "OEBPS/Text/chapter12.html",
+      "title": "第四节：古月方源！",
+      "paragraphs": 76,
+      "first_paragraph": 1,
+      "last_paragraph": 76
+    },
+    {
+      "chapter": 5,
+      "file": "OEBPS/Text/chapter13.html",
+      "title": "第五节：人祖三蛊，希望开窍",
+      "paragraphs": 56,
+      "first_paragraph": 1,
+      "last_paragraph": 56
+    },
+    {
+      "chapter": 6,
+      "file": "OEBPS/Text/chapter14.html",
+      "title": "第六节：未来的路，会很精彩",
+      "paragraphs": 75,
+      "first_paragraph": 1,
+      "last_paragraph": 75
+    },
+    {
+      "chapter": 7,
+      "file": "OEBPS/Text/chapter15.html",
+      "title": "第七节：蛊师有九转，花酒留遗藏",
+      "paragraphs": 55,
+      "first_paragraph": 1,
+      "last_paragraph": 55
+    },
+    {
+      "chapter": 8,
+      "file": "OEBPS/Text/chapter16.html",
+      "title": "第八节：物是人非",
+      "paragraphs": 86,
+      "first_paragraph": 1,
+      "last_paragraph": 86
+    },
+    {
+      "chapter": 9,
+      "file": "OEBPS/Text/chapter17.html",
+      "title": "第九节：渐行渐远",
+      "paragraphs": 75,
+      "first_paragraph": 1,
+      "last_paragraph": 75
+    },
+    {
+      "chapter": 10,
+      "file": "OEBPS/Text/chapter18.html",
+      "title": "第十节：天有不测风云，炼蛊别具艰辛",
+      "paragraphs": 62,
+      "first_paragraph": 1,
+      "last_paragraph": 62
+    },
+    {
+      "chapter": 11,
+      "file": "OEBPS/Text/chapter19.html",
+      "title": "第十一节：不过是色诱罢了",
+      "paragraphs": 72,
+      "first_paragraph": 1,
+      "last_paragraph": 72
+    },
+    {
+      "chapter": 12,
+      "file": "OEBPS/Text/chapter20.html",
+      "title": "第十二节：青竹酒香，蛊师逞威",
+      "paragraphs": 87,
+      "first_paragraph": 1,
+      "last_paragraph": 87
+    },
+    {
+      "chapter": 13,
+      "file": "OEBPS/Text/chapter21.html",
+      "title": "第十三节：月下竹林，一点珠雪",
+      "paragraphs": 79,
+      "first_paragraph": 1,
+      "last_paragraph": 79
+    },
+    {
+      "chapter": 14,
+      "file": "OEBPS/Text/chapter22.html",
+      "title": "第十四节：山缝之中藏玄机",
+      "paragraphs": 87,
+      "first_paragraph": 1,
+      "last_paragraph": 87
+    },
+    {
+      "chapter": 15,
+      "file": "OEBPS/Text/chapter23.html",
+      "title": "第十五节：历史由胜利者书写",
+      "paragraphs": 51,
+      "first_paragraph": 1,
+      "last_paragraph": 51
+    },
+    {
+      "chapter": 16,
+      "file": "OEBPS/Text/chapter24.html",
+      "title": "第十六节：尽收囊中",
+      "paragraphs": 62,
+      "first_paragraph": 1,
+      "last_paragraph": 62
+    },
+    {
+      "chapter": 17,
+      "file": "OEBPS/Text/chapter25.html",
+      "title": "第十七节：初炼酒虫",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 18,
+      "file": "OEBPS/Text/chapter26.html",
+      "title": "第十八节：就让往事如烟飘散",
+      "paragraphs": 101,
+      "first_paragraph": 1,
+      "last_paragraph": 101
+    },
+    {
+      "chapter": 19,
+      "file": "OEBPS/Text/chapter27.html",
+      "title": "第十九节：六转本命春秋蝉！",
+      "paragraphs": 65,
+      "first_paragraph": 1,
+      "last_paragraph": 65
+    },
+    {
+      "chapter": 20,
+      "file": "OEBPS/Text/chapter28.html",
+      "title": "第二十节：学堂家老无语了",
+      "paragraphs": 62,
+      "first_paragraph": 1,
+      "last_paragraph": 62
+    },
+    {
+      "chapter": 21,
+      "file": "OEBPS/Text/chapter29.html",
+      "title": "第二十一节：怎么会是哥哥得了这第一？",
+      "paragraphs": 58,
+      "first_paragraph": 1,
+      "last_paragraph": 58
+    },
+    {
+      "chapter": 22,
+      "file": "OEBPS/Text/chapter30.html",
+      "title": "第二十二节：月刃飞舞",
+      "paragraphs": 80,
+      "first_paragraph": 1,
+      "last_paragraph": 80
+    },
+    {
+      "chapter": 23,
+      "file": "OEBPS/Text/chapter31.html",
+      "title": "第二十三节：养蛊就像养情妇",
+      "paragraphs": 92,
+      "first_paragraph": 1,
+      "last_paragraph": 92
+    },
+    {
+      "chapter": 24,
+      "file": "OEBPS/Text/chapter32.html",
+      "title": "第二十四节：近战蛊师",
+      "paragraphs": 74,
+      "first_paragraph": 1,
+      "last_paragraph": 74
+    },
+    {
+      "chapter": 25,
+      "file": "OEBPS/Text/chapter33.html",
+      "title": "第二十五节：春光正明媚",
+      "paragraphs": 73,
+      "first_paragraph": 1,
+      "last_paragraph": 73
+    },
+    {
+      "chapter": 26,
+      "file": "OEBPS/Text/chapter34.html",
+      "title": "第二十六节：一切组织的本质",
+      "paragraphs": 41,
+      "first_paragraph": 1,
+      "last_paragraph": 41
+    },
+    {
+      "chapter": 27,
+      "file": "OEBPS/Text/chapter35.html",
+      "title": "第二十七节：公然勒索",
+      "paragraphs": 67,
+      "first_paragraph": 1,
+      "last_paragraph": 67
+    },
+    {
+      "chapter": 28,
+      "file": "OEBPS/Text/chapter36.html",
+      "title": "第二十八节：无本生意！",
+      "paragraphs": 79,
+      "first_paragraph": 1,
+      "last_paragraph": 79
+    },
+    {
+      "chapter": 29,
+      "file": "OEBPS/Text/chapter37.html",
+      "title": "第二十九节：不择手段",
+      "paragraphs": 68,
+      "first_paragraph": 1,
+      "last_paragraph": 68
+    },
+    {
+      "chapter": 30,
+      "file": "OEBPS/Text/chapter38.html",
+      "title": "第三十节：方源！你又来抢？",
+      "paragraphs": 48,
+      "first_paragraph": 1,
+      "last_paragraph": 48
+    },
+    {
+      "chapter": 31,
+      "file": "OEBPS/Text/chapter39.html",
+      "title": "第三十一节：方源，你大祸临头了！",
+      "paragraphs": 59,
+      "first_paragraph": 1,
+      "last_paragraph": 59
+    },
+    {
+      "chapter": 32,
+      "file": "OEBPS/Text/chapter40.html",
+      "title": "第三十二节：戏耍",
+      "paragraphs": 73,
+      "first_paragraph": 1,
+      "last_paragraph": 73
+    },
+    {
+      "chapter": 33,
+      "file": "OEBPS/Text/chapter41.html",
+      "title": "第三十三节：你骂吧",
+      "paragraphs": 64,
+      "first_paragraph": 1,
+      "last_paragraph": 64
+    },
+    {
+      "chapter": 34,
+      "file": "OEBPS/Text/chapter42.html",
+      "title": "第三十四节：压着你打！",
+      "paragraphs": 71,
+      "first_paragraph": 1,
+      "last_paragraph": 71
+    },
+    {
+      "chapter": 35,
+      "file": "OEBPS/Text/chapter43.html",
+      "title": "第三十五节：你叫吧",
+      "paragraphs": 71,
+      "first_paragraph": 1,
+      "last_paragraph": 71
+    },
+    {
+      "chapter": 36,
+      "file": "OEBPS/Text/chapter44.html",
+      "title": "第三十六节：分尸送礼！",
+      "paragraphs": 69,
+      "first_paragraph": 1,
+      "last_paragraph": 69
+    },
+    {
+      "chapter": 37,
+      "file": "OEBPS/Text/chapter45.html",
+      "title": "第三十七节：既是妥协又是威胁",
+      "paragraphs": 56,
+      "first_paragraph": 1,
+      "last_paragraph": 56
+    },
+    {
+      "chapter": 38,
+      "file": "OEBPS/Text/chapter46.html",
+      "title": "第三十八节：魔头在光明中行走",
+      "paragraphs": 95,
+      "first_paragraph": 1,
+      "last_paragraph": 95
+    },
+    {
+      "chapter": 39,
+      "file": "OEBPS/Text/chapter47.html",
+      "title": "第三十九节：蛤蟆商队",
+      "paragraphs": 63,
+      "first_paragraph": 1,
+      "last_paragraph": 63
+    },
+    {
+      "chapter": 40,
+      "file": "OEBPS/Text/chapter48.html",
+      "title": "第四十节：紫金石中蟾蛊眠",
+      "paragraphs": 65,
+      "first_paragraph": 1,
+      "last_paragraph": 65
+    },
+    {
+      "chapter": 41,
+      "file": "OEBPS/Text/chapter49.html",
+      "title": "第四十一节：解石",
+      "paragraphs": 71,
+      "first_paragraph": 1,
+      "last_paragraph": 71
+    },
+    {
+      "chapter": 42,
+      "file": "OEBPS/Text/chapter50.html",
+      "title": "第四十二节：竟然真的开出了蛊？！",
+      "paragraphs": 75,
+      "first_paragraph": 1,
+      "last_paragraph": 75
+    },
+    {
+      "chapter": 43,
+      "file": "OEBPS/Text/chapter51.html",
+      "title": "第四十三节：最后的第六块紫金石",
+      "paragraphs": 55,
+      "first_paragraph": 1,
+      "last_paragraph": 55
+    },
+    {
+      "chapter": 44,
+      "file": "OEBPS/Text/chapter52.html",
+      "title": "第四十四节：猴儿酒，酒虫机缘不相让",
+      "paragraphs": 80,
+      "first_paragraph": 1,
+      "last_paragraph": 80
+    },
+    {
+      "chapter": 45,
+      "file": "OEBPS/Text/chapter53.html",
+      "title": "第四十五节：洞心机，已在瓮中不自觉",
+      "paragraphs": 86,
+      "first_paragraph": 1,
+      "last_paragraph": 86
+    },
+    {
+      "chapter": 46,
+      "file": "OEBPS/Text/chapter54.html",
+      "title": "第四十六节：杀人不要想太多",
+      "paragraphs": 50,
+      "first_paragraph": 1,
+      "last_paragraph": 50
+    },
+    {
+      "chapter": 47,
+      "file": "OEBPS/Text/chapter55.html",
+      "title": "第四十七节：贾金生，其实我不想杀你的",
+      "paragraphs": 96,
+      "first_paragraph": 1,
+      "last_paragraph": 96
+    },
+    {
+      "chapter": 48,
+      "file": "OEBPS/Text/chapter56.html",
+      "title": "第四十八节：有些可爱",
+      "paragraphs": 93,
+      "first_paragraph": 1,
+      "last_paragraph": 93
+    },
+    {
+      "chapter": 49,
+      "file": "OEBPS/Text/chapter57.html",
+      "title": "第四十九节：不愁方源脱离掌控",
+      "paragraphs": 77,
+      "first_paragraph": 1,
+      "last_paragraph": 77
+    },
+    {
+      "chapter": 50,
+      "file": "OEBPS/Text/chapter58.html",
+      "title": "第五十节：中阶！",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 51,
+      "file": "OEBPS/Text/chapter59.html",
+      "title": "第五十一节：倒要看看你怎么解释",
+      "paragraphs": 88,
+      "first_paragraph": 1,
+      "last_paragraph": 88
+    },
+    {
+      "chapter": 52,
+      "file": "OEBPS/Text/chapter60.html",
+      "title": "第五十二节：我的解释你只能接受",
+      "paragraphs": 111,
+      "first_paragraph": 1,
+      "last_paragraph": 111
+    },
+    {
+      "chapter": 53,
+      "file": "OEBPS/Text/chapter61.html",
+      "title": "第五十三节：方源就任命你为班头",
+      "paragraphs": 97,
+      "first_paragraph": 1,
+      "last_paragraph": 97
+    },
+    {
+      "chapter": 54,
+      "file": "OEBPS/Text/chapter62.html",
+      "title": "第五十四节：我可是班头啊！",
+      "paragraphs": 102,
+      "first_paragraph": 1,
+      "last_paragraph": 102
+    },
+    {
+      "chapter": 55,
+      "file": "OEBPS/Text/chapter63.html",
+      "title": "第五十五节：要的就是你这番话",
+      "paragraphs": 76,
+      "first_paragraph": 1,
+      "last_paragraph": 76
+    },
+    {
+      "chapter": 56,
+      "file": "OEBPS/Text/chapter64.html",
+      "title": "第五十六节：洗尽嫌疑",
+      "paragraphs": 65,
+      "first_paragraph": 1,
+      "last_paragraph": 65
+    },
+    {
+      "chapter": 57,
+      "file": "OEBPS/Text/chapter65.html",
+      "title": "第五十七节：君子的谎言",
+      "paragraphs": 79,
+      "first_paragraph": 1,
+      "last_paragraph": 79
+    },
+    {
+      "chapter": 58,
+      "file": "OEBPS/Text/chapter66.html",
+      "title": "第五十八节：家族里不是只有规矩",
+      "paragraphs": 66,
+      "first_paragraph": 1,
+      "last_paragraph": 66
+    },
+    {
+      "chapter": 59,
+      "file": "OEBPS/Text/chapter67.html",
+      "title": "第五十九节：不管三转四转，都是猴子",
+      "paragraphs": 58,
+      "first_paragraph": 1,
+      "last_paragraph": 58
+    },
+    {
+      "chapter": 60,
+      "file": "OEBPS/Text/chapter68.html",
+      "title": "第六十节：壁破现甬道，传承岂易与？",
+      "paragraphs": 73,
+      "first_paragraph": 1,
+      "last_paragraph": 73
+    },
+    {
+      "chapter": 61,
+      "file": "OEBPS/Text/chapter69.html",
+      "title": "第六十一节：草绳上的人生",
+      "paragraphs": 77,
+      "first_paragraph": 1,
+      "last_paragraph": 77
+    },
+    {
+      "chapter": 62,
+      "file": "OEBPS/Text/chapter70.html",
+      "title": "第六十二节：蛊室再选蛊",
+      "paragraphs": 88,
+      "first_paragraph": 1,
+      "last_paragraph": 88
+    },
+    {
+      "chapter": 63,
+      "file": "OEBPS/Text/chapter71.html",
+      "title": "第六十三节：月下赠玉皮，地花藏白豕",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 64,
+      "file": "OEBPS/Text/chapter72.html",
+      "title": "第六十四节：暗事好做，明事难成",
+      "paragraphs": 78,
+      "first_paragraph": 1,
+      "last_paragraph": 78
+    },
+    {
+      "chapter": 65,
+      "file": "OEBPS/Text/chapter73.html",
+      "title": "第六十五节：还不快滚",
+      "paragraphs": 83,
+      "first_paragraph": 1,
+      "last_paragraph": 83
+    },
+    {
+      "chapter": 66,
+      "file": "OEBPS/Text/chapter74.html",
+      "title": "第六十六节：人死如猪死",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 67,
+      "file": "OEBPS/Text/chapter75.html",
+      "title": "第六十七节：你放心，我会饶了你们的",
+      "paragraphs": 61,
+      "first_paragraph": 1,
+      "last_paragraph": 61
+    },
+    {
+      "chapter": 68,
+      "file": "OEBPS/Text/chapter76.html",
+      "title": "第六十八节：大自然没有无辜",
+      "paragraphs": 71,
+      "first_paragraph": 1,
+      "last_paragraph": 71
+    },
+    {
+      "chapter": 69,
+      "file": "OEBPS/Text/chapter77.html",
+      "title": "第六十九节：命贱如草",
+      "paragraphs": 51,
+      "first_paragraph": 1,
+      "last_paragraph": 51
+    },
+    {
+      "chapter": 70,
+      "file": "OEBPS/Text/chapter78.html",
+      "title": "第七十节：使用白豕蛊",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 71,
+      "file": "OEBPS/Text/chapter79.html",
+      "title": "第七十一节：力可扛猪思低调",
+      "paragraphs": 74,
+      "first_paragraph": 1,
+      "last_paragraph": 74
+    },
+    {
+      "chapter": 72,
+      "file": "OEBPS/Text/chapter80.html",
+      "title": "第七十二节：任何组织都需要忠诚",
+      "paragraphs": 63,
+      "first_paragraph": 1,
+      "last_paragraph": 63
+    },
+    {
+      "chapter": 73,
+      "file": "OEBPS/Text/chapter81.html",
+      "title": "第七十三节：神秘的红圈标记",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 74,
+      "file": "OEBPS/Text/chapter82.html",
+      "title": "第七十四节：智窥迷雾现杀机",
+      "paragraphs": 75,
+      "first_paragraph": 1,
+      "last_paragraph": 75
+    },
+    {
+      "chapter": 75,
+      "file": "OEBPS/Text/chapter83.html",
+      "title": "第七十五节：魔道的觉悟！",
+      "paragraphs": 86,
+      "first_paragraph": 1,
+      "last_paragraph": 86
+    },
+    {
+      "chapter": 76,
+      "file": "OEBPS/Text/chapter84.html",
+      "title": "第七十六节：后悔吗",
+      "paragraphs": 95,
+      "first_paragraph": 1,
+      "last_paragraph": 95
+    },
+    {
+      "chapter": 77,
+      "file": "OEBPS/Text/chapter85.html",
+      "title": "第七十七节：阴差阳错",
+      "paragraphs": 81,
+      "first_paragraph": 1,
+      "last_paragraph": 81
+    },
+    {
+      "chapter": 78,
+      "file": "OEBPS/Text/chapter86.html",
+      "title": "第七十八节：不出算计收获丰",
+      "paragraphs": 74,
+      "first_paragraph": 1,
+      "last_paragraph": 74
+    },
+    {
+      "chapter": 79,
+      "file": "OEBPS/Text/chapter87.html",
+      "title": "第七十九节：突破遗藏第六蛊",
+      "paragraphs": 83,
+      "first_paragraph": 1,
+      "last_paragraph": 83
+    },
+    {
+      "chapter": 80,
+      "file": "OEBPS/Text/chapter88.html",
+      "title": "第八十节：战力大涨",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 81,
+      "file": "OEBPS/Text/chapter89.html",
+      "title": "第八十一节：二转初阶！",
+      "paragraphs": 96,
+      "first_paragraph": 1,
+      "last_paragraph": 96
+    },
+    {
+      "chapter": 82,
+      "file": "OEBPS/Text/chapter90.html",
+      "title": "第八十二节：年末考核开始",
+      "paragraphs": 79,
+      "first_paragraph": 1,
+      "last_paragraph": 79
+    },
+    {
+      "chapter": 83,
+      "file": "OEBPS/Text/chapter91.html",
+      "title": "第八十三节：扫强敌方正展风采",
+      "paragraphs": 66,
+      "first_paragraph": 1,
+      "last_paragraph": 66
+    },
+    {
+      "chapter": 84,
+      "file": "OEBPS/Text/chapter92.html",
+      "title": "第八十四节：狠狠地踩踏！",
+      "paragraphs": 89,
+      "first_paragraph": 1,
+      "last_paragraph": 89
+    },
+    {
+      "chapter": 85,
+      "file": "OEBPS/Text/chapter93.html",
+      "title": "第八十五节：热血和冷血！！",
+      "paragraphs": 110,
+      "first_paragraph": 1,
+      "last_paragraph": 110
+    },
+    {
+      "chapter": 86,
+      "file": "OEBPS/Text/chapter94.html",
+      "title": "第八十六节：怀疑和试探",
+      "paragraphs": 74,
+      "first_paragraph": 1,
+      "last_paragraph": 74
+    },
+    {
+      "chapter": 87,
+      "file": "OEBPS/Text/chapter95.html",
+      "title": "第八十七节：态度就是心的面具",
+      "paragraphs": 68,
+      "first_paragraph": 1,
+      "last_paragraph": 68
+    },
+    {
+      "chapter": 88,
+      "file": "OEBPS/Text/chapter96.html",
+      "title": "第八十八节：下马威、刁难和打压",
+      "paragraphs": 76,
+      "first_paragraph": 1,
+      "last_paragraph": 76
+    },
+    {
+      "chapter": 89,
+      "file": "OEBPS/Text/chapter97.html",
+      "title": "第八十九节：一条病蛇盘踞在脚边",
+      "paragraphs": 66,
+      "first_paragraph": 1,
+      "last_paragraph": 66
+    },
+    {
+      "chapter": 90,
+      "file": "OEBPS/Text/chapter98.html",
+      "title": "第九十节：不过是些许风霜罢了",
+      "paragraphs": 76,
+      "first_paragraph": 1,
+      "last_paragraph": 76
+    },
+    {
+      "chapter": 91,
+      "file": "OEBPS/Text/chapter99.html",
+      "title": "第九十一节：方源，我们很担心你",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 92,
+      "file": "OEBPS/Text/chapter100.html",
+      "title": "第九十二节：未来遥遥在望",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 93,
+      "file": "OEBPS/Text/chapter101.html",
+      "title": "第九十三节：小兽潮",
+      "paragraphs": 89,
+      "first_paragraph": 1,
+      "last_paragraph": 89
+    },
+    {
+      "chapter": 94,
+      "file": "OEBPS/Text/chapter102.html",
+      "title": "第九十四节：忽然收力",
+      "paragraphs": 71,
+      "first_paragraph": 1,
+      "last_paragraph": 71
+    },
+    {
+      "chapter": 95,
+      "file": "OEBPS/Text/chapter103.html",
+      "title": "第九十五节：猪的队友",
+      "paragraphs": 95,
+      "first_paragraph": 1,
+      "last_paragraph": 95
+    },
+    {
+      "chapter": 96,
+      "file": "OEBPS/Text/chapter104.html",
+      "title": "第九十六节：为了死去的人",
+      "paragraphs": 96,
+      "first_paragraph": 1,
+      "last_paragraph": 96
+    },
+    {
+      "chapter": 97,
+      "file": "OEBPS/Text/chapter105.html",
+      "title": "第九十七节：魔头横行",
+      "paragraphs": 85,
+      "first_paragraph": 1,
+      "last_paragraph": 85
+    },
+    {
+      "chapter": 98,
+      "file": "OEBPS/Text/chapter106.html",
+      "title": "第九十八节：炼蛊的艰难",
+      "paragraphs": 69,
+      "first_paragraph": 1,
+      "last_paragraph": 69
+    },
+    {
+      "chapter": 99,
+      "file": "OEBPS/Text/chapter107.html",
+      "title": "第九十九节：是人不是神",
+      "paragraphs": 73,
+      "first_paragraph": 1,
+      "last_paragraph": 73
+    },
+    {
+      "chapter": 100,
+      "file": "OEBPS/Text/chapter108.html",
+      "title": "第一百节：白玉蛊",
+      "paragraphs": 92,
+      "first_paragraph": 1,
+      "last_paragraph": 92
+    },
+    {
+      "chapter": 101,
+      "file": "OEBPS/Text/chapter109.html",
+      "title": "第一百零一节：心老人便老",
+      "paragraphs": 73,
+      "first_paragraph": 1,
+      "last_paragraph": 73
+    },
+    {
+      "chapter": 102,
+      "file": "OEBPS/Text/chapter110.html",
+      "title": "第一百零二节：冬风吹来春天",
+      "paragraphs": 77,
+      "first_paragraph": 1,
+      "last_paragraph": 77
+    },
+    {
+      "chapter": 103,
+      "file": "OEBPS/Text/chapter111.html",
+      "title": "第一百零三节：野心一大，世界就小",
+      "paragraphs": 81,
+      "first_paragraph": 1,
+      "last_paragraph": 81
+    },
+    {
+      "chapter": 104,
+      "file": "OEBPS/Text/chapter112.html",
+      "title": "第一百零四节：想买酒虫？",
+      "paragraphs": 83,
+      "first_paragraph": 1,
+      "last_paragraph": 83
+    },
+    {
+      "chapter": 105,
+      "file": "OEBPS/Text/chapter113.html",
+      "title": "第一百零五节：我会输得很惨",
+      "paragraphs": 75,
+      "first_paragraph": 1,
+      "last_paragraph": 75
+    },
+    {
+      "chapter": 106,
+      "file": "OEBPS/Text/chapter114.html",
+      "title": "第一百零六节：半生积累成泡影，唯有本命长久存",
+      "paragraphs": 92,
+      "first_paragraph": 1,
+      "last_paragraph": 92
+    },
+    {
+      "chapter": 107,
+      "file": "OEBPS/Text/chapter115.html",
+      "title": "第一百零七节：熟能生巧掂元石，酒肆当中恶客来",
+      "paragraphs": 83,
+      "first_paragraph": 1,
+      "last_paragraph": 83
+    },
+    {
+      "chapter": 108,
+      "file": "OEBPS/Text/chapter116.html",
+      "title": "第一百零八节：那双眼睛！",
+      "paragraphs": 140,
+      "first_paragraph": 1,
+      "last_paragraph": 140
+    },
+    {
+      "chapter": 109,
+      "file": "OEBPS/Text/chapter117.html",
+      "title": "第一百零九节：树屋藏酒虫",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 110,
+      "file": "OEBPS/Text/chapter118.html",
+      "title": "第一百一十节：老太婆，你太嫩了！",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 111,
+      "file": "OEBPS/Text/chapter119.html",
+      "title": "第一百一十一节：元石不过身外物",
+      "paragraphs": 88,
+      "first_paragraph": 1,
+      "last_paragraph": 88
+    },
+    {
+      "chapter": 112,
+      "file": "OEBPS/Text/chapter120.html",
+      "title": "第一百一十二节：真是好魄力",
+      "paragraphs": 89,
+      "first_paragraph": 1,
+      "last_paragraph": 89
+    },
+    {
+      "chapter": 113,
+      "file": "OEBPS/Text/chapter121.html",
+      "title": "第一百一十三节：闷声发财",
+      "paragraphs": 86,
+      "first_paragraph": 1,
+      "last_paragraph": 86
+    },
+    {
+      "chapter": 114,
+      "file": "OEBPS/Text/chapter122.html",
+      "title": "第一百一十四节：洞中有猴王",
+      "paragraphs": 93,
+      "first_paragraph": 1,
+      "last_paragraph": 93
+    },
+    {
+      "chapter": 115,
+      "file": "OEBPS/Text/chapter123.html",
+      "title": "第一百一十五节：晋升中阶",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 116,
+      "file": "OEBPS/Text/chapter124.html",
+      "title": "第一百一十六节：斩杀猴王得新蛊",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 117,
+      "file": "OEBPS/Text/chapter125.html",
+      "title": "第一百一十七节：苦贝酒和吞江蟾",
+      "paragraphs": 81,
+      "first_paragraph": 1,
+      "last_paragraph": 81
+    },
+    {
+      "chapter": 118,
+      "file": "OEBPS/Text/chapter126.html",
+      "title": "第一百一十八节：吞江蟾的传说",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 119,
+      "file": "OEBPS/Text/chapter127.html",
+      "title": "第一百一十九节：此子顽劣，需要打磨",
+      "paragraphs": 82,
+      "first_paragraph": 1,
+      "last_paragraph": 82
+    },
+    {
+      "chapter": 120,
+      "file": "OEBPS/Text/chapter128.html",
+      "title": "第一百二十节：得来全不费工夫",
+      "paragraphs": 92,
+      "first_paragraph": 1,
+      "last_paragraph": 92
+    },
+    {
+      "chapter": 121,
+      "file": "OEBPS/Text/chapter129.html",
+      "title": "第一百二十一节：四味酒虫",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 122,
+      "file": "OEBPS/Text/chapter130.html",
+      "title": "第一百二十二节：人生几多风雪",
+      "paragraphs": 87,
+      "first_paragraph": 1,
+      "last_paragraph": 87
+    },
+    {
+      "chapter": 123,
+      "file": "OEBPS/Text/chapter131.html",
+      "title": "第一百二十三节：天地我在独行",
+      "paragraphs": 75,
+      "first_paragraph": 1,
+      "last_paragraph": 75
+    },
+    {
+      "chapter": 124,
+      "file": "OEBPS/Text/chapter132.html",
+      "title": "第一百二十四节：我不需要理解",
+      "paragraphs": 77,
+      "first_paragraph": 1,
+      "last_paragraph": 77
+    },
+    {
+      "chapter": 125,
+      "file": "OEBPS/Text/chapter133.html",
+      "title": "第一百二十五节：哦，那我认输",
+      "paragraphs": 104,
+      "first_paragraph": 1,
+      "last_paragraph": 104
+    },
+    {
+      "chapter": 126,
+      "file": "OEBPS/Text/chapter134.html",
+      "title": "第一百二十六节：木魅之殇",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 127,
+      "file": "OEBPS/Text/chapter135.html",
+      "title": "第一百二十七节：所谓的道德和感情",
+      "paragraphs": 111,
+      "first_paragraph": 1,
+      "last_paragraph": 111
+    },
+    {
+      "chapter": 128,
+      "file": "OEBPS/Text/chapter136.html",
+      "title": "第一百二十八节：严冬不肃杀，何以见阳春！",
+      "paragraphs": 104,
+      "first_paragraph": 1,
+      "last_paragraph": 104
+    },
+    {
+      "chapter": 129,
+      "file": "OEBPS/Text/chapter137.html",
+      "title": "第一百二十九节：锯齿金蜈",
+      "paragraphs": 86,
+      "first_paragraph": 1,
+      "last_paragraph": 86
+    },
+    {
+      "chapter": 130,
+      "file": "OEBPS/Text/chapter138.html",
+      "title": "第一百三十节：还是族人可靠",
+      "paragraphs": 100,
+      "first_paragraph": 1,
+      "last_paragraph": 100
+    },
+    {
+      "chapter": 131,
+      "file": "OEBPS/Text/chapter139.html",
+      "title": "第一百三十一节：孤独是最深邃的黑暗",
+      "paragraphs": 101,
+      "first_paragraph": 1,
+      "last_paragraph": 101
+    },
+    {
+      "chapter": 132,
+      "file": "OEBPS/Text/chapter140.html",
+      "title": "第一百三十二节：三步芳草",
+      "paragraphs": 103,
+      "first_paragraph": 1,
+      "last_paragraph": 103
+    },
+    {
+      "chapter": 133,
+      "file": "OEBPS/Text/chapter141.html",
+      "title": "第一百三十三节：谢谢你让我杀你",
+      "paragraphs": 101,
+      "first_paragraph": 1,
+      "last_paragraph": 101
+    },
+    {
+      "chapter": 134,
+      "file": "OEBPS/Text/chapter142.html",
+      "title": "第一百三十四节：追杀",
+      "paragraphs": 95,
+      "first_paragraph": 1,
+      "last_paragraph": 95
+    },
+    {
+      "chapter": 135,
+      "file": "OEBPS/Text/chapter143.html",
+      "title": "第一百三十五节：北冥冰魄，十绝天资",
+      "paragraphs": 76,
+      "first_paragraph": 1,
+      "last_paragraph": 76
+    },
+    {
+      "chapter": 136,
+      "file": "OEBPS/Text/chapter144.html",
+      "title": "第一百三十六节：斗力斗智",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 137,
+      "file": "OEBPS/Text/chapter145.html",
+      "title": "第一百三十七节：影之殇",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 138,
+      "file": "OEBPS/Text/chapter146.html",
+      "title": "第一百三十八节：居然有人追着白凝冰杀？",
+      "paragraphs": 98,
+      "first_paragraph": 1,
+      "last_paragraph": 98
+    },
+    {
+      "chapter": 139,
+      "file": "OEBPS/Text/chapter147.html",
+      "title": "第一百三十九节：断臂",
+      "paragraphs": 86,
+      "first_paragraph": 1,
+      "last_paragraph": 86
+    },
+    {
+      "chapter": 140,
+      "file": "OEBPS/Text/chapter148.html",
+      "title": "第一百四十节：古月青书VS白凝冰（上）",
+      "paragraphs": 87,
+      "first_paragraph": 1,
+      "last_paragraph": 87
+    },
+    {
+      "chapter": 141,
+      "file": "OEBPS/Text/chapter149.html",
+      "title": "第一百四十一节：古月青书VS白凝冰（中）",
+      "paragraphs": 100,
+      "first_paragraph": 1,
+      "last_paragraph": 100
+    },
+    {
+      "chapter": 142,
+      "file": "OEBPS/Text/chapter150.html",
+      "title": "第一百四十二节：古月青书VS白凝冰（下）",
+      "paragraphs": 89,
+      "first_paragraph": 1,
+      "last_paragraph": 89
+    },
+    {
+      "chapter": 143,
+      "file": "OEBPS/Text/chapter151.html",
+      "title": "第一百四十三节：答案",
+      "paragraphs": 109,
+      "first_paragraph": 1,
+      "last_paragraph": 109
+    },
+    {
+      "chapter": 144,
+      "file": "OEBPS/Text/chapter152.html",
+      "title": "第一百四十四节：牺牲常在，而信念不死",
+      "paragraphs": 80,
+      "first_paragraph": 1,
+      "last_paragraph": 80
+    },
+    {
+      "chapter": 145,
+      "file": "OEBPS/Text/chapter153.html",
+      "title": "第一百四十五节：都鼓励牺牲",
+      "paragraphs": 88,
+      "first_paragraph": 1,
+      "last_paragraph": 88
+    },
+    {
+      "chapter": 146,
+      "file": "OEBPS/Text/chapter154.html",
+      "title": "第一百四十六节：强势",
+      "paragraphs": 89,
+      "first_paragraph": 1,
+      "last_paragraph": 89
+    },
+    {
+      "chapter": 147,
+      "file": "OEBPS/Text/chapter155.html",
+      "title": "第一百四十七节：这个方源太狂妄",
+      "paragraphs": 87,
+      "first_paragraph": 1,
+      "last_paragraph": 87
+    },
+    {
+      "chapter": 148,
+      "file": "OEBPS/Text/chapter156.html",
+      "title": "第一百四十八节：局面",
+      "paragraphs": 83,
+      "first_paragraph": 1,
+      "last_paragraph": 83
+    },
+    {
+      "chapter": 149,
+      "file": "OEBPS/Text/chapter157.html",
+      "title": "第一百四十九节：群狼袭寨",
+      "paragraphs": 115,
+      "first_paragraph": 1,
+      "last_paragraph": 115
+    },
+    {
+      "chapter": 150,
+      "file": "OEBPS/Text/chapter158.html",
+      "title": "第一百五十节：我只是帮自己",
+      "paragraphs": 112,
+      "first_paragraph": 1,
+      "last_paragraph": 112
+    },
+    {
+      "chapter": 151,
+      "file": "OEBPS/Text/chapter159.html",
+      "title": "第一百五十一节：魔性",
+      "paragraphs": 99,
+      "first_paragraph": 1,
+      "last_paragraph": 99
+    },
+    {
+      "chapter": 152,
+      "file": "OEBPS/Text/chapter160.html",
+      "title": "第一百五十二节：晋升三转",
+      "paragraphs": 100,
+      "first_paragraph": 1,
+      "last_paragraph": 100
+    },
+    {
+      "chapter": 153,
+      "file": "OEBPS/Text/chapter161.html",
+      "title": "第一百五十三节：真的老了",
+      "paragraphs": 96,
+      "first_paragraph": 1,
+      "last_paragraph": 96
+    },
+    {
+      "chapter": 154,
+      "file": "OEBPS/Text/chapter162.html",
+      "title": "第一百五十四节：气得吐血",
+      "paragraphs": 88,
+      "first_paragraph": 1,
+      "last_paragraph": 88
+    },
+    {
+      "chapter": 155,
+      "file": "OEBPS/Text/chapter163.html",
+      "title": "第一百五十五节：借",
+      "paragraphs": 82,
+      "first_paragraph": 1,
+      "last_paragraph": 82
+    },
+    {
+      "chapter": 156,
+      "file": "OEBPS/Text/chapter164.html",
+      "title": "第一百五十六节：照影秘方，花酒迷离",
+      "paragraphs": 73,
+      "first_paragraph": 1,
+      "last_paragraph": 73
+    },
+    {
+      "chapter": 157,
+      "file": "OEBPS/Text/chapter165.html",
+      "title": "第一百五十七节：血月蛊",
+      "paragraphs": 82,
+      "first_paragraph": 1,
+      "last_paragraph": 82
+    },
+    {
+      "chapter": 158,
+      "file": "OEBPS/Text/chapter166.html",
+      "title": "第一百五十八节：此一时彼一时",
+      "paragraphs": 102,
+      "first_paragraph": 1,
+      "last_paragraph": 102
+    },
+    {
+      "chapter": 159,
+      "file": "OEBPS/Text/chapter167.html",
+      "title": "第一百五十九节：这个方源……",
+      "paragraphs": 109,
+      "first_paragraph": 1,
+      "last_paragraph": 109
+    },
+    {
+      "chapter": 160,
+      "file": "OEBPS/Text/chapter168.html",
+      "title": "第一百六十节：满堂叫好",
+      "paragraphs": 95,
+      "first_paragraph": 1,
+      "last_paragraph": 95
+    },
+    {
+      "chapter": 161,
+      "file": "OEBPS/Text/chapter169.html",
+      "title": "第一百六十一节：心甘情愿被剥削",
+      "paragraphs": 100,
+      "first_paragraph": 1,
+      "last_paragraph": 100
+    },
+    {
+      "chapter": 162,
+      "file": "OEBPS/Text/chapter170.html",
+      "title": "第一百六十二节：天元宝莲",
+      "paragraphs": 95,
+      "first_paragraph": 1,
+      "last_paragraph": 95
+    },
+    {
+      "chapter": 163,
+      "file": "OEBPS/Text/chapter171.html",
+      "title": "第一百六十三节：雷冠头狼",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 164,
+      "file": "OEBPS/Text/chapter172.html",
+      "title": "第一百六十四节：激战",
+      "paragraphs": 109,
+      "first_paragraph": 1,
+      "last_paragraph": 109
+    },
+    {
+      "chapter": 165,
+      "file": "OEBPS/Text/chapter173.html",
+      "title": "第一百六十五节：血滴子",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 166,
+      "file": "OEBPS/Text/chapter174.html",
+      "title": "第一百六十六节：二战白凝冰",
+      "paragraphs": 111,
+      "first_paragraph": 1,
+      "last_paragraph": 111
+    },
+    {
+      "chapter": 167,
+      "file": "OEBPS/Text/chapter175.html",
+      "title": "第一百六十七节：第四头？！",
+      "paragraphs": 109,
+      "first_paragraph": 1,
+      "last_paragraph": 109
+    },
+    {
+      "chapter": 168,
+      "file": "OEBPS/Text/chapter176.html",
+      "title": "第一百六十八节：狡电狈",
+      "paragraphs": 113,
+      "first_paragraph": 1,
+      "last_paragraph": 113
+    },
+    {
+      "chapter": 169,
+      "file": "OEBPS/Text/chapter177.html",
+      "title": "第一百六十九节：寻路",
+      "paragraphs": 99,
+      "first_paragraph": 1,
+      "last_paragraph": 99
+    },
+    {
+      "chapter": 170,
+      "file": "OEBPS/Text/chapter178.html",
+      "title": "第一百七十节：铁面无私血可冷？",
+      "paragraphs": 116,
+      "first_paragraph": 1,
+      "last_paragraph": 116
+    },
+    {
+      "chapter": 171,
+      "file": "OEBPS/Text/chapter179.html",
+      "title": "第一百七十一节：骨子里的魔性",
+      "paragraphs": 75,
+      "first_paragraph": 1,
+      "last_paragraph": 75
+    },
+    {
+      "chapter": 172,
+      "file": "OEBPS/Text/chapter180.html",
+      "title": "第一百七十二节：非方源莫属！",
+      "paragraphs": 92,
+      "first_paragraph": 1,
+      "last_paragraph": 92
+    },
+    {
+      "chapter": 173,
+      "file": "OEBPS/Text/chapter181.html",
+      "title": "第一百七十三节：白相仙蛇",
+      "paragraphs": 97,
+      "first_paragraph": 1,
+      "last_paragraph": 97
+    },
+    {
+      "chapter": 174,
+      "file": "OEBPS/Text/chapter182.html",
+      "title": "第一百七十四节：小神捕",
+      "paragraphs": 71,
+      "first_paragraph": 1,
+      "last_paragraph": 71
+    },
+    {
+      "chapter": 175,
+      "file": "OEBPS/Text/chapter183.html",
+      "title": "第一百七十五节：压力渐生",
+      "paragraphs": 85,
+      "first_paragraph": 1,
+      "last_paragraph": 85
+    },
+    {
+      "chapter": 176,
+      "file": "OEBPS/Text/chapter184.html",
+      "title": "第一百七十六节：牺牲的觉悟",
+      "paragraphs": 71,
+      "first_paragraph": 1,
+      "last_paragraph": 71
+    },
+    {
+      "chapter": 177,
+      "file": "OEBPS/Text/chapter185.html",
+      "title": "第一百七十七节：哥哥，你怎么能这样对我？！",
+      "paragraphs": 76,
+      "first_paragraph": 1,
+      "last_paragraph": 76
+    },
+    {
+      "chapter": 178,
+      "file": "OEBPS/Text/chapter186.html",
+      "title": "第一百七十八节：黑白灰",
+      "paragraphs": 93,
+      "first_paragraph": 1,
+      "last_paragraph": 93
+    },
+    {
+      "chapter": 179,
+      "file": "OEBPS/Text/chapter187.html",
+      "title": "第一百七十九节：历史由人书写",
+      "paragraphs": 80,
+      "first_paragraph": 1,
+      "last_paragraph": 80
+    },
+    {
+      "chapter": 180,
+      "file": "OEBPS/Text/chapter188.html",
+      "title": "第一百八十节：再看开窍大典",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 181,
+      "file": "OEBPS/Text/chapter189.html",
+      "title": "第一百八十一节：阴差阳错",
+      "paragraphs": 110,
+      "first_paragraph": 1,
+      "last_paragraph": 110
+    },
+    {
+      "chapter": 182,
+      "file": "OEBPS/Text/chapter190.html",
+      "title": "第一百八十二节：血湖墓地",
+      "paragraphs": 98,
+      "first_paragraph": 1,
+      "last_paragraph": 98
+    },
+    {
+      "chapter": 183,
+      "file": "OEBPS/Text/chapter191.html",
+      "title": "第一百八十三节：血海老祖",
+      "paragraphs": 83,
+      "first_paragraph": 1,
+      "last_paragraph": 83
+    },
+    {
+      "chapter": 184,
+      "file": "OEBPS/Text/chapter192.html",
+      "title": "第一百八十四节：五转激战",
+      "paragraphs": 92,
+      "first_paragraph": 1,
+      "last_paragraph": 92
+    },
+    {
+      "chapter": 185,
+      "file": "OEBPS/Text/chapter193.html",
+      "title": "第一百八十五节：古月一代，五大飞僵",
+      "paragraphs": 102,
+      "first_paragraph": 1,
+      "last_paragraph": 102
+    },
+    {
+      "chapter": 186,
+      "file": "OEBPS/Text/chapter194.html",
+      "title": "第一百八十六节：春秋不出",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 187,
+      "file": "OEBPS/Text/chapter195.html",
+      "title": "第一百八十七节：时间长河唯一条，春秋蝉做舟来渡",
+      "paragraphs": 77,
+      "first_paragraph": 1,
+      "last_paragraph": 77
+    },
+    {
+      "chapter": 188,
+      "file": "OEBPS/Text/chapter196.html",
+      "title": "第一百八十八节：前人开道后人跑路",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 189,
+      "file": "OEBPS/Text/chapter197.html",
+      "title": "第一百八十九节：惊变",
+      "paragraphs": 89,
+      "first_paragraph": 1,
+      "last_paragraph": 89
+    },
+    {
+      "chapter": 190,
+      "file": "OEBPS/Text/chapter198.html",
+      "title": "第一百九十节：三战白凝冰",
+      "paragraphs": 106,
+      "first_paragraph": 1,
+      "last_paragraph": 106
+    },
+    {
+      "chapter": 191,
+      "file": "OEBPS/Text/chapter199.html",
+      "title": "第一百九十一节：鹤灾",
+      "paragraphs": 98,
+      "first_paragraph": 1,
+      "last_paragraph": 98
+    },
+    {
+      "chapter": 192,
+      "file": "OEBPS/Text/chapter200.html",
+      "title": "第一百九十二节：扬眉吐气",
+      "paragraphs": 67,
+      "first_paragraph": 1,
+      "last_paragraph": 67
+    },
+    {
+      "chapter": 193,
+      "file": "OEBPS/Text/chapter201.html",
+      "title": "第一百九十三节：神捕后手",
+      "paragraphs": 86,
+      "first_paragraph": 1,
+      "last_paragraph": 86
+    },
+    {
+      "chapter": 194,
+      "file": "OEBPS/Text/chapter202.html",
+      "title": "第一百九十四节：血幕天华",
+      "paragraphs": 83,
+      "first_paragraph": 1,
+      "last_paragraph": 83
+    },
+    {
+      "chapter": 195,
+      "file": "OEBPS/Text/chapter203.html",
+      "title": "第一百九十五节：那就让我成魔",
+      "paragraphs": 71,
+      "first_paragraph": 1,
+      "last_paragraph": 71
+    },
+    {
+      "chapter": 196,
+      "file": "OEBPS/Text/chapter204.html",
+      "title": "第一百九十六节：再次重生",
+      "paragraphs": 97,
+      "first_paragraph": 1,
+      "last_paragraph": 97
+    },
+    {
+      "chapter": 197,
+      "file": "OEBPS/Text/chapter205.html",
+      "title": "第一百九十七节：改命！",
+      "paragraphs": 102,
+      "first_paragraph": 1,
+      "last_paragraph": 102
+    },
+    {
+      "chapter": 198,
+      "file": "OEBPS/Text/chapter206.html",
+      "title": "第一百九十八节：杀人放血心狠，因祸得福手辣！",
+      "paragraphs": 103,
+      "first_paragraph": 1,
+      "last_paragraph": 103
+    },
+    {
+      "chapter": 199,
+      "file": "OEBPS/Text/chapter207.html",
+      "title": "第一百九十九节：走向各自的命运",
+      "paragraphs": 88,
+      "first_paragraph": 1,
+      "last_paragraph": 88
+    },
+    {
+      "chapter": 200,
+      "file": "OEBPS/Text/chapter208.html",
+      "title": "第一节：黄龙江上竹筏倾",
+      "paragraphs": 88,
+      "first_paragraph": 1,
+      "last_paragraph": 88
+    },
+    {
+      "chapter": 201,
+      "file": "OEBPS/Text/chapter209.html",
+      "title": "第二节：浅滩休整借蛊虫",
+      "paragraphs": 90,
+      "first_paragraph": 1,
+      "last_paragraph": 90
+    },
+    {
+      "chapter": 202,
+      "file": "OEBPS/Text/chapter210.html",
+      "title": "第三节：鳄杀机少女悲鸣",
+      "paragraphs": 88,
+      "first_paragraph": 1,
+      "last_paragraph": 88
+    },
+    {
+      "chapter": 203,
+      "file": "OEBPS/Text/chapter211.html",
+      "title": "第四节：各怀异志",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 204,
+      "file": "OEBPS/Text/chapter212.html",
+      "title": "第五节：背甲蛊和鳄力蛊",
+      "paragraphs": 96,
+      "first_paragraph": 1,
+      "last_paragraph": 96
+    },
+    {
+      "chapter": 205,
+      "file": "OEBPS/Text/chapter213.html",
+      "title": "第六节：夜宿树冠",
+      "paragraphs": 90,
+      "first_paragraph": 1,
+      "last_paragraph": 90
+    },
+    {
+      "chapter": 206,
+      "file": "OEBPS/Text/chapter214.html",
+      "title": "第七节：成为主导者",
+      "paragraphs": 93,
+      "first_paragraph": 1,
+      "last_paragraph": 93
+    },
+    {
+      "chapter": 207,
+      "file": "OEBPS/Text/chapter215.html",
+      "title": "第八节：轩辕神鸡",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 208,
+      "file": "OEBPS/Text/chapter216.html",
+      "title": "第九节：奔逃",
+      "paragraphs": 109,
+      "first_paragraph": 1,
+      "last_paragraph": 109
+    },
+    {
+      "chapter": 209,
+      "file": "OEBPS/Text/chapter217.html",
+      "title": "第十节：遭遇魔道蛊师",
+      "paragraphs": 97,
+      "first_paragraph": 1,
+      "last_paragraph": 97
+    },
+    {
+      "chapter": 210,
+      "file": "OEBPS/Text/chapter218.html",
+      "title": "第十一节：谋划",
+      "paragraphs": 79,
+      "first_paragraph": 1,
+      "last_paragraph": 79
+    },
+    {
+      "chapter": 211,
+      "file": "OEBPS/Text/chapter219.html",
+      "title": "第十二节：路",
+      "paragraphs": 162,
+      "first_paragraph": 1,
+      "last_paragraph": 162
+    },
+    {
+      "chapter": 212,
+      "file": "OEBPS/Text/chapter220.html",
+      "title": "第十三节：猴脑美食",
+      "paragraphs": 96,
+      "first_paragraph": 1,
+      "last_paragraph": 96
+    },
+    {
+      "chapter": 213,
+      "file": "OEBPS/Text/chapter221.html",
+      "title": "第十四节：坑",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 214,
+      "file": "OEBPS/Text/chapter222.html",
+      "title": "第十五节：轰！",
+      "paragraphs": 115,
+      "first_paragraph": 1,
+      "last_paragraph": 115
+    },
+    {
+      "chapter": 215,
+      "file": "OEBPS/Text/chapter223.html",
+      "title": "第十六节：方源落泪",
+      "paragraphs": 92,
+      "first_paragraph": 1,
+      "last_paragraph": 92
+    },
+    {
+      "chapter": 216,
+      "file": "OEBPS/Text/chapter224.html",
+      "title": "第十七节：青铜舍利蛊",
+      "paragraphs": 80,
+      "first_paragraph": 1,
+      "last_paragraph": 80
+    },
+    {
+      "chapter": 217,
+      "file": "OEBPS/Text/chapter225.html",
+      "title": "第十八节：授人以柄",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 218,
+      "file": "OEBPS/Text/chapter226.html",
+      "title": "第十九节：演得好一场戏",
+      "paragraphs": 89,
+      "first_paragraph": 1,
+      "last_paragraph": 89
+    },
+    {
+      "chapter": 219,
+      "file": "OEBPS/Text/chapter227.html",
+      "title": "第二十节：跋涉白骨山",
+      "paragraphs": 93,
+      "first_paragraph": 1,
+      "last_paragraph": 93
+    },
+    {
+      "chapter": 220,
+      "file": "OEBPS/Text/chapter228.html",
+      "title": "第二十一节：原来是魔道贼子！",
+      "paragraphs": 102,
+      "first_paragraph": 1,
+      "last_paragraph": 102
+    },
+    {
+      "chapter": 221,
+      "file": "OEBPS/Text/chapter229.html",
+      "title": "第二十二节：欢迎来到白骨山",
+      "paragraphs": 110,
+      "first_paragraph": 1,
+      "last_paragraph": 110
+    },
+    {
+      "chapter": 222,
+      "file": "OEBPS/Text/chapter230.html",
+      "title": "第二十三节：白骨传承（上）",
+      "paragraphs": 104,
+      "first_paragraph": 1,
+      "last_paragraph": 104
+    },
+    {
+      "chapter": 223,
+      "file": "OEBPS/Text/chapter231.html",
+      "title": "第二十四节：白骨传承（中）",
+      "paragraphs": 117,
+      "first_paragraph": 1,
+      "last_paragraph": 117
+    },
+    {
+      "chapter": 224,
+      "file": "OEBPS/Text/chapter232.html",
+      "title": "第二十五节：白骨传承（下）",
+      "paragraphs": 83,
+      "first_paragraph": 1,
+      "last_paragraph": 83
+    },
+    {
+      "chapter": 225,
+      "file": "OEBPS/Text/chapter233.html",
+      "title": "第二十六节：玉骨铁骨",
+      "paragraphs": 107,
+      "first_paragraph": 1,
+      "last_paragraph": 107
+    },
+    {
+      "chapter": 226,
+      "file": "OEBPS/Text/chapter234.html",
+      "title": "第二十七节：骨肉团圆",
+      "paragraphs": 137,
+      "first_paragraph": 1,
+      "last_paragraph": 137
+    },
+    {
+      "chapter": 227,
+      "file": "OEBPS/Text/chapter235.html",
+      "title": "第二十八节：无足鸟啊，振翅高飞吧！",
+      "paragraphs": 193,
+      "first_paragraph": 1,
+      "last_paragraph": 193
+    },
+    {
+      "chapter": 228,
+      "file": "OEBPS/Text/chapter236.html",
+      "title": "第二十九节：幽豹殉情",
+      "paragraphs": 95,
+      "first_paragraph": 1,
+      "last_paragraph": 95
+    },
+    {
+      "chapter": 229,
+      "file": "OEBPS/Text/chapter237.html",
+      "title": "第三十节：村庄休整",
+      "paragraphs": 87,
+      "first_paragraph": 1,
+      "last_paragraph": 87
+    },
+    {
+      "chapter": 230,
+      "file": "OEBPS/Text/chapter238.html",
+      "title": "第三十一节：合作修行",
+      "paragraphs": 93,
+      "first_paragraph": 1,
+      "last_paragraph": 93
+    },
+    {
+      "chapter": 231,
+      "file": "OEBPS/Text/chapter239.html",
+      "title": "第三十二节：修行得上瘾了！",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 232,
+      "file": "OEBPS/Text/chapter240.html",
+      "title": "第三十三节：换骨剧痛",
+      "paragraphs": 89,
+      "first_paragraph": 1,
+      "last_paragraph": 89
+    },
+    {
+      "chapter": 233,
+      "file": "OEBPS/Text/chapter241.html",
+      "title": "第三十四节：深深的误会",
+      "paragraphs": 97,
+      "first_paragraph": 1,
+      "last_paragraph": 97
+    },
+    {
+      "chapter": 234,
+      "file": "OEBPS/Text/chapter242.html",
+      "title": "第三十五节：通缉令",
+      "paragraphs": 96,
+      "first_paragraph": 1,
+      "last_paragraph": 96
+    },
+    {
+      "chapter": 235,
+      "file": "OEBPS/Text/chapter243.html",
+      "title": "第三十六节：商心慈",
+      "paragraphs": 99,
+      "first_paragraph": 1,
+      "last_paragraph": 99
+    },
+    {
+      "chapter": 236,
+      "file": "OEBPS/Text/chapter244.html",
+      "title": "第三十七节：好人会有好报？",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 237,
+      "file": "OEBPS/Text/chapter245.html",
+      "title": "第三十八节：揍人",
+      "paragraphs": 126,
+      "first_paragraph": 1,
+      "last_paragraph": 126
+    },
+    {
+      "chapter": 238,
+      "file": "OEBPS/Text/chapter246.html",
+      "title": "第三十九节：小姐救命！",
+      "paragraphs": 115,
+      "first_paragraph": 1,
+      "last_paragraph": 115
+    },
+    {
+      "chapter": 239,
+      "file": "OEBPS/Text/chapter247.html",
+      "title": "第四十节：匪猴山",
+      "paragraphs": 90,
+      "first_paragraph": 1,
+      "last_paragraph": 90
+    },
+    {
+      "chapter": 240,
+      "file": "OEBPS/Text/chapter248.html",
+      "title": "第四十一节：掰手腕",
+      "paragraphs": 101,
+      "first_paragraph": 1,
+      "last_paragraph": 101
+    },
+    {
+      "chapter": 241,
+      "file": "OEBPS/Text/chapter249.html",
+      "title": "第四十二节：黄金山",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 242,
+      "file": "OEBPS/Text/chapter250.html",
+      "title": "第四十三节：聪明人的默契",
+      "paragraphs": 80,
+      "first_paragraph": 1,
+      "last_paragraph": 80
+    },
+    {
+      "chapter": 243,
+      "file": "OEBPS/Text/chapter251.html",
+      "title": "第四十四节：送到嘴边的肥肉",
+      "paragraphs": 87,
+      "first_paragraph": 1,
+      "last_paragraph": 87
+    },
+    {
+      "chapter": 244,
+      "file": "OEBPS/Text/chapter252.html",
+      "title": "第四十五节：近乎讹诈",
+      "paragraphs": 75,
+      "first_paragraph": 1,
+      "last_paragraph": 75
+    },
+    {
+      "chapter": 245,
+      "file": "OEBPS/Text/chapter253.html",
+      "title": "第四十六节：二转高阶",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 246,
+      "file": "OEBPS/Text/chapter254.html",
+      "title": "第四十七节：被发现",
+      "paragraphs": 106,
+      "first_paragraph": 1,
+      "last_paragraph": 106
+    },
+    {
+      "chapter": 247,
+      "file": "OEBPS/Text/chapter255.html",
+      "title": "第四十八节：白羽飞象",
+      "paragraphs": 110,
+      "first_paragraph": 1,
+      "last_paragraph": 110
+    },
+    {
+      "chapter": 248,
+      "file": "OEBPS/Text/chapter256.html",
+      "title": "第四十九节：力所能及就可心安理得",
+      "paragraphs": 110,
+      "first_paragraph": 1,
+      "last_paragraph": 110
+    },
+    {
+      "chapter": 249,
+      "file": "OEBPS/Text/chapter257.html",
+      "title": "第五十节：滴水之恩，当涌泉相报！",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 250,
+      "file": "OEBPS/Text/chapter258.html",
+      "title": "第五十一节：果然是魔道蛊师！",
+      "paragraphs": 102,
+      "first_paragraph": 1,
+      "last_paragraph": 102
+    },
+    {
+      "chapter": 251,
+      "file": "OEBPS/Text/chapter259.html",
+      "title": "第五十二节：子不教父之过！",
+      "paragraphs": 119,
+      "first_paragraph": 1,
+      "last_paragraph": 119
+    },
+    {
+      "chapter": 252,
+      "file": "OEBPS/Text/chapter260.html",
+      "title": "第五十三节：唯有实力，才是一切",
+      "paragraphs": 87,
+      "first_paragraph": 1,
+      "last_paragraph": 87
+    },
+    {
+      "chapter": 253,
+      "file": "OEBPS/Text/chapter261.html",
+      "title": "第五十四节：死的才干净",
+      "paragraphs": 101,
+      "first_paragraph": 1,
+      "last_paragraph": 101
+    },
+    {
+      "chapter": 254,
+      "file": "OEBPS/Text/chapter262.html",
+      "title": "第五十五节：尸群来袭",
+      "paragraphs": 104,
+      "first_paragraph": 1,
+      "last_paragraph": 104
+    },
+    {
+      "chapter": 255,
+      "file": "OEBPS/Text/chapter263.html",
+      "title": "第五十六节：丁浩，你给我出来！",
+      "paragraphs": 97,
+      "first_paragraph": 1,
+      "last_paragraph": 97
+    },
+    {
+      "chapter": 256,
+      "file": "OEBPS/Text/chapter264.html",
+      "title": "第五十七节：原来你是大师兄",
+      "paragraphs": 74,
+      "first_paragraph": 1,
+      "last_paragraph": 74
+    },
+    {
+      "chapter": 257,
+      "file": "OEBPS/Text/chapter265.html",
+      "title": "第五十八节：背后一枪",
+      "paragraphs": 152,
+      "first_paragraph": 1,
+      "last_paragraph": 152
+    },
+    {
+      "chapter": 258,
+      "file": "OEBPS/Text/chapter266.html",
+      "title": "第五十九节：计划中的分别",
+      "paragraphs": 92,
+      "first_paragraph": 1,
+      "last_paragraph": 92
+    },
+    {
+      "chapter": 259,
+      "file": "OEBPS/Text/chapter267.html",
+      "title": "第六十节：父女相认",
+      "paragraphs": 103,
+      "first_paragraph": 1,
+      "last_paragraph": 103
+    },
+    {
+      "chapter": 260,
+      "file": "OEBPS/Text/chapter268.html",
+      "title": "第六十一节：各有算计",
+      "paragraphs": 90,
+      "first_paragraph": 1,
+      "last_paragraph": 90
+    },
+    {
+      "chapter": 261,
+      "file": "OEBPS/Text/chapter269.html",
+      "title": "第六十二节：商家内城",
+      "paragraphs": 113,
+      "first_paragraph": 1,
+      "last_paragraph": 113
+    },
+    {
+      "chapter": 262,
+      "file": "OEBPS/Text/chapter270.html",
+      "title": "第六十三节：卖不出去",
+      "paragraphs": 96,
+      "first_paragraph": 1,
+      "last_paragraph": 96
+    },
+    {
+      "chapter": 263,
+      "file": "OEBPS/Text/chapter271.html",
+      "title": "第六十四节：接见",
+      "paragraphs": 81,
+      "first_paragraph": 1,
+      "last_paragraph": 81
+    },
+    {
+      "chapter": 264,
+      "file": "OEBPS/Text/chapter272.html",
+      "title": "第六十五节：糟糕透顶！",
+      "paragraphs": 90,
+      "first_paragraph": 1,
+      "last_paragraph": 90
+    },
+    {
+      "chapter": 265,
+      "file": "OEBPS/Text/chapter273.html",
+      "title": "第六十六节：刀光对骨枪",
+      "paragraphs": 98,
+      "first_paragraph": 1,
+      "last_paragraph": 98
+    },
+    {
+      "chapter": 266,
+      "file": "OEBPS/Text/chapter274.html",
+      "title": "第六十七节：我名叫方正",
+      "paragraphs": 87,
+      "first_paragraph": 1,
+      "last_paragraph": 87
+    },
+    {
+      "chapter": 267,
+      "file": "OEBPS/Text/chapter275.html",
+      "title": "第六十八节：大大低估了方源的无耻",
+      "paragraphs": 81,
+      "first_paragraph": 1,
+      "last_paragraph": 81
+    },
+    {
+      "chapter": 268,
+      "file": "OEBPS/Text/chapter276.html",
+      "title": "第六十九节：暴富",
+      "paragraphs": 103,
+      "first_paragraph": 1,
+      "last_paragraph": 103
+    },
+    {
+      "chapter": 269,
+      "file": "OEBPS/Text/chapter277.html",
+      "title": "第七十节：家宴",
+      "paragraphs": 88,
+      "first_paragraph": 1,
+      "last_paragraph": 88
+    },
+    {
+      "chapter": 270,
+      "file": "OEBPS/Text/chapter278.html",
+      "title": "第七十一节：商燕飞的酬谢",
+      "paragraphs": 103,
+      "first_paragraph": 1,
+      "last_paragraph": 103
+    },
+    {
+      "chapter": 271,
+      "file": "OEBPS/Text/chapter279.html",
+      "title": "第七十二节：紫荆令牌",
+      "paragraphs": 171,
+      "first_paragraph": 1,
+      "last_paragraph": 171
+    },
+    {
+      "chapter": 272,
+      "file": "OEBPS/Text/chapter280.html",
+      "title": "第七十三节：新盟约",
+      "paragraphs": 95,
+      "first_paragraph": 1,
+      "last_paragraph": 95
+    },
+    {
+      "chapter": 273,
+      "file": "OEBPS/Text/chapter281.html",
+      "title": "第七十四节：晋升三转",
+      "paragraphs": 96,
+      "first_paragraph": 1,
+      "last_paragraph": 96
+    },
+    {
+      "chapter": 274,
+      "file": "OEBPS/Text/chapter282.html",
+      "title": "第七十五节：活宝门",
+      "paragraphs": 86,
+      "first_paragraph": 1,
+      "last_paragraph": 86
+    },
+    {
+      "chapter": 275,
+      "file": "OEBPS/Text/chapter283.html",
+      "title": "第七十六节：力道和冰道",
+      "paragraphs": 76,
+      "first_paragraph": 1,
+      "last_paragraph": 76
+    },
+    {
+      "chapter": 276,
+      "file": "OEBPS/Text/chapter284.html",
+      "title": "第七十七节：星辰石",
+      "paragraphs": 79,
+      "first_paragraph": 1,
+      "last_paragraph": 79
+    },
+    {
+      "chapter": 277,
+      "file": "OEBPS/Text/chapter285.html",
+      "title": "第七十八节：谨慎和忍耐",
+      "paragraphs": 112,
+      "first_paragraph": 1,
+      "last_paragraph": 112
+    },
+    {
+      "chapter": 278,
+      "file": "OEBPS/Text/chapter286.html",
+      "title": "第七十九节：何等天真！",
+      "paragraphs": 99,
+      "first_paragraph": 1,
+      "last_paragraph": 99
+    },
+    {
+      "chapter": 279,
+      "file": "OEBPS/Text/chapter287.html",
+      "title": "第八十节：这就动手？！",
+      "paragraphs": 96,
+      "first_paragraph": 1,
+      "last_paragraph": 96
+    },
+    {
+      "chapter": 280,
+      "file": "OEBPS/Text/chapter288.html",
+      "title": "第八十一节：剑影蛊",
+      "paragraphs": 164,
+      "first_paragraph": 1,
+      "last_paragraph": 164
+    },
+    {
+      "chapter": 281,
+      "file": "OEBPS/Text/chapter289.html",
+      "title": "第八十二节：熊力虚影",
+      "paragraphs": 115,
+      "first_paragraph": 1,
+      "last_paragraph": 115
+    },
+    {
+      "chapter": 282,
+      "file": "OEBPS/Text/chapter290.html",
+      "title": "第八十三节：灵光一闪蛊",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 283,
+      "file": "OEBPS/Text/chapter291.html",
+      "title": "第八十四节：得手",
+      "paragraphs": 103,
+      "first_paragraph": 1,
+      "last_paragraph": 103
+    },
+    {
+      "chapter": 284,
+      "file": "OEBPS/Text/chapter292.html",
+      "title": "第八十五节：一，二，五",
+      "paragraphs": 98,
+      "first_paragraph": 1,
+      "last_paragraph": 98
+    },
+    {
+      "chapter": 285,
+      "file": "OEBPS/Text/chapter293.html",
+      "title": "第八十六节：全力以赴蛊",
+      "paragraphs": 78,
+      "first_paragraph": 1,
+      "last_paragraph": 78
+    },
+    {
+      "chapter": 286,
+      "file": "OEBPS/Text/chapter294.html",
+      "title": "第八十七节：牛刀小试先一场",
+      "paragraphs": 89,
+      "first_paragraph": 1,
+      "last_paragraph": 89
+    },
+    {
+      "chapter": 287,
+      "file": "OEBPS/Text/chapter295.html",
+      "title": "第八十八节：名声蛊",
+      "paragraphs": 95,
+      "first_paragraph": 1,
+      "last_paragraph": 95
+    },
+    {
+      "chapter": 288,
+      "file": "OEBPS/Text/chapter296.html",
+      "title": "第八十九节：力道修行有玄机",
+      "paragraphs": 126,
+      "first_paragraph": 1,
+      "last_paragraph": 126
+    },
+    {
+      "chapter": 289,
+      "file": "OEBPS/Text/chapter297.html",
+      "title": "第九十节：不能阻挡我",
+      "paragraphs": 92,
+      "first_paragraph": 1,
+      "last_paragraph": 92
+    },
+    {
+      "chapter": 290,
+      "file": "OEBPS/Text/chapter298.html",
+      "title": "第九十一节：方源vs李好（上）",
+      "paragraphs": 115,
+      "first_paragraph": 1,
+      "last_paragraph": 115
+    },
+    {
+      "chapter": 291,
+      "file": "OEBPS/Text/chapter299.html",
+      "title": "第九十二节：方源vs李好（下）",
+      "paragraphs": 139,
+      "first_paragraph": 1,
+      "last_paragraph": 139
+    },
+    {
+      "chapter": 292,
+      "file": "OEBPS/Text/chapter300.html",
+      "title": "第九十三节：法则碎片，大道之痕",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 293,
+      "file": "OEBPS/Text/chapter301.html",
+      "title": "第九十四节：苍天无眼啊",
+      "paragraphs": 102,
+      "first_paragraph": 1,
+      "last_paragraph": 102
+    },
+    {
+      "chapter": 294,
+      "file": "OEBPS/Text/chapter302.html",
+      "title": "第九十五节：罪犯必要严惩！",
+      "paragraphs": 80,
+      "first_paragraph": 1,
+      "last_paragraph": 80
+    },
+    {
+      "chapter": 295,
+      "file": "OEBPS/Text/chapter303.html",
+      "title": "第九十六节：其实，我也是受害者",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 296,
+      "file": "OEBPS/Text/chapter304.html",
+      "title": "第九十七节：拍卖会",
+      "paragraphs": 108,
+      "first_paragraph": 1,
+      "last_paragraph": 108
+    },
+    {
+      "chapter": 297,
+      "file": "OEBPS/Text/chapter305.html",
+      "title": "第九十八节：一蹴而就蛊",
+      "paragraphs": 107,
+      "first_paragraph": 1,
+      "last_paragraph": 107
+    },
+    {
+      "chapter": 298,
+      "file": "OEBPS/Text/chapter306.html",
+      "title": "第九十九节：白凝冰vs铁刀苦",
+      "paragraphs": 114,
+      "first_paragraph": 1,
+      "last_paragraph": 114
+    },
+    {
+      "chapter": 299,
+      "file": "OEBPS/Text/chapter307.html",
+      "title": "第一百节：闭嘴，你这头肥猪！",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 300,
+      "file": "OEBPS/Text/chapter308.html",
+      "title": "第一百零一节：方源vs朱八（上）",
+      "paragraphs": 124,
+      "first_paragraph": 1,
+      "last_paragraph": 124
+    },
+    {
+      "chapter": 301,
+      "file": "OEBPS/Text/chapter309.html",
+      "title": "第一百零二节：方源vs朱八（下）",
+      "paragraphs": 98,
+      "first_paragraph": 1,
+      "last_paragraph": 98
+    },
+    {
+      "chapter": 302,
+      "file": "OEBPS/Text/chapter310.html",
+      "title": "第一百零三节：铁若男",
+      "paragraphs": 86,
+      "first_paragraph": 1,
+      "last_paragraph": 86
+    },
+    {
+      "chapter": 303,
+      "file": "OEBPS/Text/chapter311.html",
+      "title": "第一百零四节：真想扼杀掉",
+      "paragraphs": 78,
+      "first_paragraph": 1,
+      "last_paragraph": 78
+    },
+    {
+      "chapter": 304,
+      "file": "OEBPS/Text/chapter312.html",
+      "title": "第一百零五节：苦力蛊",
+      "paragraphs": 106,
+      "first_paragraph": 1,
+      "last_paragraph": 106
+    },
+    {
+      "chapter": 305,
+      "file": "OEBPS/Text/chapter313.html",
+      "title": "第一百零六节：拍卖（上）",
+      "paragraphs": 87,
+      "first_paragraph": 1,
+      "last_paragraph": 87
+    },
+    {
+      "chapter": 306,
+      "file": "OEBPS/Text/chapter314.html",
+      "title": "第一百零七节：拍卖（中）",
+      "paragraphs": 93,
+      "first_paragraph": 1,
+      "last_paragraph": 93
+    },
+    {
+      "chapter": 307,
+      "file": "OEBPS/Text/chapter315.html",
+      "title": "第一百零八节：拍卖（下）",
+      "paragraphs": 105,
+      "first_paragraph": 1,
+      "last_paragraph": 105
+    },
+    {
+      "chapter": 308,
+      "file": "OEBPS/Text/chapter316.html",
+      "title": "第一百零九节：拍卖（终）",
+      "paragraphs": 105,
+      "first_paragraph": 1,
+      "last_paragraph": 105
+    },
+    {
+      "chapter": 309,
+      "file": "OEBPS/Text/chapter317.html",
+      "title": "第一百一十节：心慈之志",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 310,
+      "file": "OEBPS/Text/chapter318.html",
+      "title": "第一百一十一节：你这个无耻小人！",
+      "paragraphs": 74,
+      "first_paragraph": 1,
+      "last_paragraph": 74
+    },
+    {
+      "chapter": 311,
+      "file": "OEBPS/Text/chapter319.html",
+      "title": "第一百一十二节：其实我是个善良的人",
+      "paragraphs": 87,
+      "first_paragraph": 1,
+      "last_paragraph": 87
+    },
+    {
+      "chapter": 312,
+      "file": "OEBPS/Text/chapter320.html",
+      "title": "第一百一十三节：再到三转巅峰",
+      "paragraphs": 107,
+      "first_paragraph": 1,
+      "last_paragraph": 107
+    },
+    {
+      "chapter": 313,
+      "file": "OEBPS/Text/chapter321.html",
+      "title": "第一百一十四节：白凝冰VS炎突",
+      "paragraphs": 112,
+      "first_paragraph": 1,
+      "last_paragraph": 112
+    },
+    {
+      "chapter": 314,
+      "file": "OEBPS/Text/chapter322.html",
+      "title": "第一百一十五节：胜和败",
+      "paragraphs": 171,
+      "first_paragraph": 1,
+      "last_paragraph": 171
+    },
+    {
+      "chapter": 315,
+      "file": "OEBPS/Text/chapter323.html",
+      "title": "第一百一十六节：硬气蛊",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 316,
+      "file": "OEBPS/Text/chapter324.html",
+      "title": "第一百一十七节：必胜魔心",
+      "paragraphs": 110,
+      "first_paragraph": 1,
+      "last_paragraph": 110
+    },
+    {
+      "chapter": 317,
+      "file": "OEBPS/Text/chapter325.html",
+      "title": "第一百一十八节：方源vs巨开碑（上）",
+      "paragraphs": 122,
+      "first_paragraph": 1,
+      "last_paragraph": 122
+    },
+    {
+      "chapter": 318,
+      "file": "OEBPS/Text/chapter326.html",
+      "title": "第一百一十九节：方源vs巨开碑（中）",
+      "paragraphs": 98,
+      "first_paragraph": 1,
+      "last_paragraph": 98
+    },
+    {
+      "chapter": 319,
+      "file": "OEBPS/Text/chapter327.html",
+      "title": "第一百二十节：方源vs巨开碑（下）",
+      "paragraphs": 120,
+      "first_paragraph": 1,
+      "last_paragraph": 120
+    },
+    {
+      "chapter": 320,
+      "file": "OEBPS/Text/chapter328.html",
+      "title": "第一百二十一节：一飞冲天",
+      "paragraphs": 106,
+      "first_paragraph": 1,
+      "last_paragraph": 106
+    },
+    {
+      "chapter": 321,
+      "file": "OEBPS/Text/chapter329.html",
+      "title": "第一百二十二节：商家城喧腾",
+      "paragraphs": 80,
+      "first_paragraph": 1,
+      "last_paragraph": 80
+    },
+    {
+      "chapter": 322,
+      "file": "OEBPS/Text/chapter330.html",
+      "title": "第一百二十三节：竞争压力",
+      "paragraphs": 70,
+      "first_paragraph": 1,
+      "last_paragraph": 70
+    },
+    {
+      "chapter": 323,
+      "file": "OEBPS/Text/chapter331.html",
+      "title": "第一百二十四节：三王传承开启",
+      "paragraphs": 100,
+      "first_paragraph": 1,
+      "last_paragraph": 100
+    },
+    {
+      "chapter": 324,
+      "file": "OEBPS/Text/chapter332.html",
+      "title": "第一百二十五节：大赚一笔",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 325,
+      "file": "OEBPS/Text/chapter333.html",
+      "title": "第一百二十六节：仙之福地",
+      "paragraphs": 70,
+      "first_paragraph": 1,
+      "last_paragraph": 70
+    },
+    {
+      "chapter": 326,
+      "file": "OEBPS/Text/chapter334.html",
+      "title": "第一百二十七节：九眼酒虫",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 327,
+      "file": "OEBPS/Text/chapter335.html",
+      "title": "第一百二十八节：才貌双全，心慈风采",
+      "paragraphs": 92,
+      "first_paragraph": 1,
+      "last_paragraph": 92
+    },
+    {
+      "chapter": 328,
+      "file": "OEBPS/Text/chapter336.html",
+      "title": "第一百二十九节：都是吃",
+      "paragraphs": 89,
+      "first_paragraph": 1,
+      "last_paragraph": 89
+    },
+    {
+      "chapter": 329,
+      "file": "OEBPS/Text/chapter337.html",
+      "title": "第一百三十节：雄家三兄弟",
+      "paragraphs": 89,
+      "first_paragraph": 1,
+      "last_paragraph": 89
+    },
+    {
+      "chapter": 330,
+      "file": "OEBPS/Text/chapter338.html",
+      "title": "第一百三十一节：卫德馨",
+      "paragraphs": 85,
+      "first_paragraph": 1,
+      "last_paragraph": 85
+    },
+    {
+      "chapter": 331,
+      "file": "OEBPS/Text/chapter339.html",
+      "title": "第一百三十二节：晋升四转",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 332,
+      "file": "OEBPS/Text/chapter340.html",
+      "title": "第一百三十三节：周全的震骇",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 333,
+      "file": "OEBPS/Text/chapter341.html",
+      "title": "第一百三十四节：离开商家城",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 334,
+      "file": "OEBPS/Text/chapter342.html",
+      "title": "第一百三十五节：仙鹤门，方正",
+      "paragraphs": 96,
+      "first_paragraph": 1,
+      "last_paragraph": 96
+    },
+    {
+      "chapter": 335,
+      "file": "OEBPS/Text/chapter343.html",
+      "title": "第一百三十六节：白狐蛊仙传承",
+      "paragraphs": 76,
+      "first_paragraph": 1,
+      "last_paragraph": 76
+    },
+    {
+      "chapter": 336,
+      "file": "OEBPS/Text/chapter344.html",
+      "title": "第一百三十七节：英雄救美",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 337,
+      "file": "OEBPS/Text/chapter345.html",
+      "title": "第一百三十八节：见死不救",
+      "paragraphs": 98,
+      "first_paragraph": 1,
+      "last_paragraph": 98
+    },
+    {
+      "chapter": 338,
+      "file": "OEBPS/Text/chapter346.html",
+      "title": "第一百三十九节：狐魅儿",
+      "paragraphs": 89,
+      "first_paragraph": 1,
+      "last_paragraph": 89
+    },
+    {
+      "chapter": 339,
+      "file": "OEBPS/Text/chapter347.html",
+      "title": "第一百四十节：麻烦",
+      "paragraphs": 74,
+      "first_paragraph": 1,
+      "last_paragraph": 74
+    },
+    {
+      "chapter": 340,
+      "file": "OEBPS/Text/chapter348.html",
+      "title": "第一百四十一节：打成肉渣",
+      "paragraphs": 104,
+      "first_paragraph": 1,
+      "last_paragraph": 104
+    },
+    {
+      "chapter": 341,
+      "file": "OEBPS/Text/chapter349.html",
+      "title": "第一百四十二节：何等的穷凶极恶！",
+      "paragraphs": 83,
+      "first_paragraph": 1,
+      "last_paragraph": 83
+    },
+    {
+      "chapter": 342,
+      "file": "OEBPS/Text/chapter350.html",
+      "title": "第一百四十三节：彪",
+      "paragraphs": 100,
+      "first_paragraph": 1,
+      "last_paragraph": 100
+    },
+    {
+      "chapter": 343,
+      "file": "OEBPS/Text/chapter351.html",
+      "title": "第一百四十四节：卑劣无耻",
+      "paragraphs": 113,
+      "first_paragraph": 1,
+      "last_paragraph": 113
+    },
+    {
+      "chapter": 344,
+      "file": "OEBPS/Text/chapter352.html",
+      "title": "第一百四十五节：有才无德",
+      "paragraphs": 79,
+      "first_paragraph": 1,
+      "last_paragraph": 79
+    },
+    {
+      "chapter": 345,
+      "file": "OEBPS/Text/chapter353.html",
+      "title": "第一百四十六节：横冲直撞蛊",
+      "paragraphs": 92,
+      "first_paragraph": 1,
+      "last_paragraph": 92
+    },
+    {
+      "chapter": 346,
+      "file": "OEBPS/Text/chapter354.html",
+      "title": "第一百四十七节：初入犬王传承",
+      "paragraphs": 102,
+      "first_paragraph": 1,
+      "last_paragraph": 102
+    },
+    {
+      "chapter": 347,
+      "file": "OEBPS/Text/chapter355.html",
+      "title": "第一百四十八节：何等的奴道造诣！",
+      "paragraphs": 95,
+      "first_paragraph": 1,
+      "last_paragraph": 95
+    },
+    {
+      "chapter": 348,
+      "file": "OEBPS/Text/chapter356.html",
+      "title": "第一百四十九节：菊花秋田犬",
+      "paragraphs": 95,
+      "first_paragraph": 1,
+      "last_paragraph": 95
+    },
+    {
+      "chapter": 349,
+      "file": "OEBPS/Text/chapter357.html",
+      "title": "第一百五十节：大电文狗",
+      "paragraphs": 110,
+      "first_paragraph": 1,
+      "last_paragraph": 110
+    },
+    {
+      "chapter": 350,
+      "file": "OEBPS/Text/chapter358.html",
+      "title": "第一百五十一节：狗胆蛊",
+      "paragraphs": 86,
+      "first_paragraph": 1,
+      "last_paragraph": 86
+    },
+    {
+      "chapter": 351,
+      "file": "OEBPS/Text/chapter359.html",
+      "title": "第一百五十二节：一心多用蛊",
+      "paragraphs": 100,
+      "first_paragraph": 1,
+      "last_paragraph": 100
+    },
+    {
+      "chapter": 352,
+      "file": "OEBPS/Text/chapter360.html",
+      "title": "第一百五十三节：随手杀了",
+      "paragraphs": 93,
+      "first_paragraph": 1,
+      "last_paragraph": 93
+    },
+    {
+      "chapter": 353,
+      "file": "OEBPS/Text/chapter361.html",
+      "title": "第一百五十四节：雷猪、岩鳄",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 354,
+      "file": "OEBPS/Text/chapter362.html",
+      "title": "第一百五十五节：古铜皮蛊",
+      "paragraphs": 79,
+      "first_paragraph": 1,
+      "last_paragraph": 79
+    },
+    {
+      "chapter": 355,
+      "file": "OEBPS/Text/chapter363.html",
+      "title": "第一百五十六节：易火的招揽",
+      "paragraphs": 76,
+      "first_paragraph": 1,
+      "last_paragraph": 76
+    }
+  ]
+}

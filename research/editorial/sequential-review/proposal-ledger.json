@@ -6214,6 +6214,16 @@
         "chapter": 231,
         "paragraph": 22,
         "file": "OEBPS/Text/chapter239.html"
+      },
+      {
+        "chapter": 365,
+        "paragraph": 11,
+        "file": "OEBPS/Text/chapter373.html"
+      },
+      {
+        "chapter": 365,
+        "paragraph": 18,
+        "file": "OEBPS/Text/chapter373.html"
       }
     ],
     "recommended_action": "WITHDRAW the proposed after-to-before Revolution Three substitution. Preserve214p51 在三转以后; the forecast has not been disproved.",
@@ -6232,8 +6242,9 @@
     "batch015_update": "Remains withdrawn.296p90 explicitly delays SilverRelic because Bai’s cultivation assistance continues, rather than restoring the speculative before/after substitution.",
     "batch016_update": "Remains withdrawn.30173–78 and30478/82 establish accelerated progress within Revolution Three; assistance wanes when both reach Three peak, not when FY first reaches Three.",
     "batch017_update": "Remains withdrawn.326p24–25 same-stage future assistance reduced,331 actualBaiFour→FYThreepeak assistance completesFour breakthrough. No contradiction with continuingReunionutility.",
-    "latest_update": "Still withdrawn.355p69 explicit present non-need for Reunion is compatible with Nine Eye refining FY’s own Four essence; it does not negate the earlier breakthrough assistance.",
-    "batch018_update": "Still withdrawn.355p69 explicit present non-need for Reunion is compatible with Nine Eye refining FY’s own Four essence; it does not negate the earlier breakthrough assistance."
+    "latest_update": "Remains withdrawn.365 explicitly uses Reunion in the reverse direction: FY’s refined Four-upper essence aids BaiFourinitial.355 personal non-need did not mean destruction or universal uselessness.",
+    "batch018_update": "Still withdrawn.355p69 explicit present non-need for Reunion is compatible with Nine Eye refining FY’s own Four essence; it does not negate the earlier breakthrough assistance.",
+    "batch019_update": "Remains withdrawn.365 explicitly uses Reunion in the reverse direction: FY’s refined Four-upper essence aids BaiFourinitial.355 personal non-need did not mean destruction or universal uselessness."
   },
   {
     "id": "SR-100",
@@ -15764,6 +15775,11 @@
         "chapter": 355,
         "paragraph": 28,
         "file": "OEBPS/Text/chapter363.html"
+      },
+      {
+        "chapter": 356,
+        "paragraph": 88,
+        "file": "OEBPS/Text/chapter364.html"
       }
     ],
     "recommended_action": "Preferred local repair to346p32: 在这里过去三天，外界才过去一天。 English candidate: Three days here are only one day outside. Retain the faster internal clock, not the reversed conversion.",
@@ -15773,7 +15789,9 @@
     "dependencies": "Track inner elapsed time, outer elapsed time and Cicada recovery separately.355 more-than-one-month since exit and reported two-month siege must be reconciled without inventing a precise duration of the first inheritance visit. Approximate durations and unquantified gaps do not by themselves prove a second contradiction.",
     "approved": false,
     "applied": false,
-    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding",
+    "batch019_update": "356p88 again states inside rate3×outside. Local346 conversion repair strengthened; entire calendar still unverified.",
+    "latest_update": "356p88 again states inside rate3×outside. Local346 conversion repair strengthened; entire calendar still unverified."
   },
   {
     "id": "SR-148",
@@ -15886,6 +15904,11 @@
         "chapter": 354,
         "paragraph": 14,
         "file": "OEBPS/Text/chapter362.html"
+      },
+      {
+        "chapter": 356,
+        "paragraph": 82,
+        "file": "OEBPS/Text/chapter364.html"
       }
     ],
     "recommended_action": "Provisionally prefer352p28 四位三转巅峰→四位四转中阶. English candidate: four Revolution Four middle-stage Gu Masters.",
@@ -15895,7 +15918,9 @@
     "dependencies": "352 is within an informant account, so inaccurate information remains an alternative. Do not change every historical reference to Tie elders or claim a corrected authorial edition was found.",
     "approved": false,
     "applied": false,
-    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding",
+    "batch019_update": "356p82 the elders themselves explicitly describe fourFour-middle members. Stronger support for correcting352’sThree-peak report, while preserving the possibility of informant error.",
+    "latest_update": "356p82 the elders themselves explicitly describe fourFour-middle members. Stronger support for correcting352’sThree-peak report, while preserving the possibility of informant error."
   },
   {
     "id": "SR-151",
@@ -15993,16 +16018,48 @@
         "chapter": 353,
         "paragraph": 71,
         "file": "OEBPS/Text/chapter361.html"
+      },
+      {
+        "chapter": 360,
+        "paragraph": 95,
+        "file": "OEBPS/Text/chapter368.html"
+      },
+      {
+        "chapter": 361,
+        "paragraph": 55,
+        "file": "OEBPS/Text/chapter369.html"
+      },
+      {
+        "chapter": 361,
+        "paragraph": 56,
+        "file": "OEBPS/Text/chapter369.html"
+      },
+      {
+        "chapter": 363,
+        "paragraph": 22,
+        "file": "OEBPS/Text/chapter371.html"
+      },
+      {
+        "chapter": 363,
+        "paragraph": 34,
+        "file": "OEBPS/Text/chapter371.html"
+      },
+      {
+        "chapter": 363,
+        "paragraph": 79,
+        "file": "OEBPS/Text/chapter371.html"
       }
     ],
-    "recommended_action": "Preserve both passages and query the scope of345p19. If later mechanics support a distinction, candidate wording could restrict the limitation to fully manifesting higher-level beast phantoms, not acquiring stronger bodily force. Do not insert an unreported All-Out Effort upgrade.",
+    "recommended_action": "Retain the345 restriction and flag the mechanism for reconciliation. Do not use forging-versus-manifesting alone as a complete solution:363 deploys upgraded phantoms in combat. Check whether guaranteed All-Out activation and occasional spontaneous manifestations differ; do not insert an unreported Four All-Out upgrade.",
     "rationale": "345 says the Three Gu can activate only Three beast phantoms and postpones its Four upgrade.353 nevertheless uses All-Out Effort during Thunder Boar refinement, completes Thunder Boar and Rock Crocodile strength, and states a combat increase. Forging bodily strength and later manifesting its full power may be different operations.",
-    "confidence": "High confidence in the textual tension; low-to-moderate confidence that a correction is required.",
+    "confidence": "High evidence that upgraded strength is actually manifested in combat; unresolved which mechanism triggers each intermittent upgraded phantom and whether a textual repair is required.",
     "status": "Provisional proposal or query; no approval",
     "dependencies": "Actual later deployment, phantom classifications and the relation between bodily force and activation. A successful refinement does not alone establish that the Gu already activates a Four phantom at full combat output.",
     "approved": false,
     "applied": false,
-    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding",
+    "batch019_update": "360ThunderBoar and363ThunderBoar/RockCrocodile combat use narrow the earlier possible resolution.361 explicit All-Out volley names five ordinary beasts;363 says upgraded forms appear intermittently. No guarantee-versus-natural-trigger rule certified.",
+    "latest_update": "360ThunderBoar and363ThunderBoar/RockCrocodile combat use narrow the earlier possible resolution.361 explicit All-Out volley names five ordinary beasts;363 says upgraded forms appear intermittently. No guarantee-versus-natural-trigger rule certified."
   },
   {
     "id": "SR-154",
@@ -16032,6 +16089,16 @@
         "chapter": 355,
         "paragraph": 36,
         "file": "OEBPS/Text/chapter363.html"
+      },
+      {
+        "chapter": 356,
+        "paragraph": 19,
+        "file": "OEBPS/Text/chapter364.html"
+      },
+      {
+        "chapter": 359,
+        "paragraph": 7,
+        "file": "OEBPS/Text/chapter367.html"
       }
     ],
     "recommended_action": "Provisionally standardise the same Wu elder as 武神通 / Wu Shen Tong. Flag326p51 武通神 as a transposed-name candidate.",
@@ -16041,7 +16108,9 @@
     "dependencies": "Do not infer that every similar name is identical across the novel. Authorial master unavailable; keep original quotations intact and distinguish romanisation change from a stylistic preference.",
     "approved": false,
     "applied": false,
-    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding",
+    "batch019_update": "356/359 continue武神通, reinforcing the proposed326 transposition repair.",
+    "latest_update": "356/359 continue武神通, reinforcing the proposed326 transposition repair."
   },
   {
     "id": "SR-155",
@@ -16417,6 +16486,735 @@
           "fragment": "先去斩杀的",
           "exact_fragment_present": true,
           "context": "四老不是易于之辈，如果没有我的出马，恐怕白凝冰凶多吉少啊。除此之外，你先去斩杀的飞天虎薛三四，可是百岁童子的干女儿。百岁童子一直对你虎视眈眈，他是四转高阶的木道蛊师，魔道中相当棘手的人物。”三叉山上的"
+        }
+      }
+    ]
+  },
+  {
+    "id": "SR-156",
+    "category": "Bone Wings: two pairs versus one pair",
+    "locations": [
+      {
+        "chapter": 358,
+        "paragraph": 75,
+        "file": "OEBPS/Text/chapter366.html"
+      },
+      {
+        "chapter": 358,
+        "paragraph": 77,
+        "file": "OEBPS/Text/chapter366.html"
+      },
+      {
+        "chapter": 361,
+        "paragraph": 12,
+        "file": "OEBPS/Text/chapter369.html"
+      }
+    ],
+    "recommended_action": "Prefer358p75 两对→一对 if the resting Gu shape is intended to represent the deployed wings. English candidate: a pair of folded wings.",
+    "rationale": "358 describes two pairs while the immediately following deployment produces two wings, and361 explicitly names one pair. External358/361 repeat the differing counts.",
+    "confidence": "High confidence in different descriptions; moderate-to-high confidence in one-pair repair.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "The resting Gu’s pattern might differ from actual anatomy. Old Footless Bird had four wings227p136, but it is a different creature/form and cannot settle the transformed human anatomy. Do not globally replace two pairs.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-157",
+    "category": "Tie Ba Xiu: peak-stage label versus upper-stage cultivation",
+    "locations": [
+      {
+        "chapter": 358,
+        "paragraph": 32,
+        "file": "OEBPS/Text/chapter366.html"
+      },
+      {
+        "chapter": 359,
+        "paragraph": 4,
+        "file": "OEBPS/Text/chapter367.html"
+      },
+      {
+        "chapter": 361,
+        "paragraph": 23,
+        "file": "OEBPS/Text/chapter369.html"
+      },
+      {
+        "chapter": 362,
+        "paragraph": 59,
+        "file": "OEBPS/Text/chapter370.html"
+      },
+      {
+        "chapter": 363,
+        "paragraph": 63,
+        "file": "OEBPS/Text/chapter371.html"
+      }
+    ],
+    "recommended_action": "Preferred361p23 四转巅峰→四转高阶. English candidate: this Revolution Four upper-stage strength-path Gu Master.",
+    "rationale": "359 and362 expressly identify upper cultivation;362 separately explains battle strength exceeding ordinary Four peak.361 uses peak as a direct descriptor of the Gu cultivator, not an explicit comparison of fighting power. Checked external passages retain the conflict.",
+    "confidence": "High local support for the cultivation correction; not independently authenticated authorial text.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "Keep his Five Earth Overlord Gu and above-ordinary-Four-peak combat power. The requested Four-peak reinforcement356 does not require him to be Four peak himself.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-158",
+    "category": "Reinforcement leader: Li Xian report versus actual command",
+    "locations": [
+      {
+        "chapter": 358,
+        "paragraph": 32,
+        "file": "OEBPS/Text/chapter366.html"
+      },
+      {
+        "chapter": 359,
+        "paragraph": 9,
+        "file": "OEBPS/Text/chapter367.html"
+      },
+      {
+        "chapter": 359,
+        "paragraph": 11,
+        "file": "OEBPS/Text/chapter367.html"
+      }
+    ],
+    "recommended_action": "Retain the quoted report for now and flag the discrepancy. If editorial harmonisation is chosen, replace 首领便是 with 主力便是, identifying Ba Xiu as the principal fighting force rather than commander.",
+    "rationale": "Li Xian calls Ba Xiu leader; the next chapter explicitly gives command to Tie Ruo Nan and makes Ba Xiu her subordinate. Both readings occur in the external repost. Li may have incomplete information or may loosely identify the strongest member.",
+    "confidence": "High confidence in contrasting labels; moderate confidence that a source correction is required.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "Do not silently turn mistaken character information into accurate omniscient narration. The 主力 replacement is a proposed clarification, not an attested alternative reading.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-159",
+    "category": "Legendary cauldron: oil and water wording",
+    "locations": [
+      {
+        "chapter": 357,
+        "paragraph": 26,
+        "file": "OEBPS/Text/chapter365.html"
+      },
+      {
+        "chapter": 357,
+        "paragraph": 39,
+        "file": "OEBPS/Text/chapter365.html"
+      },
+      {
+        "chapter": 357,
+        "paragraph": 41,
+        "file": "OEBPS/Text/chapter365.html"
+      },
+      {
+        "chapter": 357,
+        "paragraph": 44,
+        "file": "OEBPS/Text/chapter365.html"
+      },
+      {
+        "chapter": 357,
+        "paragraph": 76,
+        "file": "OEBPS/Text/chapter365.html"
+      }
+    ],
+    "recommended_action": "Hold a fluid-description query. Preserve oil cauldron and water as quoted; choose no global oil-to-water or water-to-oil substitution. A less specific cauldron/liquid rendering would be an explicit editorial harmonisation, not exact lexical equivalence.",
+    "rationale": "The same cooking/refinement scene is framed by oil cauldron but repeatedly describes water. The repost repeats both. Dictionary油锅 has literal oil-vessel and legendary punishment-cauldron senses, reducing confidence that physical composition alone settles the matter.",
+    "confidence": "High quotation confidence; moderate lexical/material tension; low confidence in selecting the intended fluid.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "Magical recipe additions are not evidence of a specified oil-to-water conversion. Do not invent one. No hot/boiling temperature should be added before the text actually heats the contents.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-160",
+    "category": "Yan junior lord: 军 versus 君",
+    "locations": [
+      {
+        "chapter": 364,
+        "paragraph": 37,
+        "file": "OEBPS/Text/chapter372.html"
+      },
+      {
+        "chapter": 364,
+        "paragraph": 42,
+        "file": "OEBPS/Text/chapter372.html"
+      }
+    ],
+    "recommended_action": "Flag炎军/炎君 as same-person Chinese variants. Use炎军 only as a provisional first-occurrence index form; keep English Yan Jun unchanged.",
+    "rationale": "The same question-and-answer scene alternates the final character. External364 also alternates, so it does not select an authoritative spelling.",
+    "confidence": "High identity and unchanged romanisation; moderate provisional Chinese index preference.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "Further occurrences and source collation. Do not infer that a similar name elsewhere must be this junior lord, or globally replace君.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-161",
+    "category": "Fang Zheng mentor: White Crane versus Sky Crane",
+    "locations": [
+      {
+        "chapter": 336,
+        "paragraph": 51,
+        "file": "OEBPS/Text/chapter344.html"
+      },
+      {
+        "chapter": 365,
+        "paragraph": 45,
+        "file": "OEBPS/Text/chapter373.html"
+      }
+    ],
+    "recommended_action": "Preferred365p45 白鹤上人→天鹤上人. Preserve the established English designation for Tian He rather than introduce a second mentor.",
+    "rationale": "365 identifies the helper within the soul-incubating flea as White Crane;336 explicitly names the continuing teacher Sky Crane. The role and companion are continuous, with no new mentor introduced. External365 repeats白鹤, not a corrected version.",
+    "confidence": "High continuity support for the name correction; authorial priority unestablished.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "Keep the original source quotation. Do not conflate a mistaken epithet with proof that every earlier English name is wrong; this is not a new live-chapter audit.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-162",
+    "category": "Fang Yuan age: twenty versus twenty-five",
+    "locations": [
+      {
+        "chapter": 332,
+        "paragraph": 5,
+        "file": "OEBPS/Text/chapter340.html"
+      },
+      {
+        "chapter": 333,
+        "paragraph": 78,
+        "file": "OEBPS/Text/chapter341.html"
+      },
+      {
+        "chapter": 355,
+        "paragraph": 12,
+        "file": "OEBPS/Text/chapter363.html"
+      },
+      {
+        "chapter": 356,
+        "paragraph": 4,
+        "file": "OEBPS/Text/chapter364.html"
+      },
+      {
+        "chapter": 364,
+        "paragraph": 43,
+        "file": "OEBPS/Text/chapter372.html"
+      },
+      {
+        "chapter": 365,
+        "paragraph": 41,
+        "file": "OEBPS/Text/chapter373.html"
+      }
+    ],
+    "recommended_action": "Register20 at332 versus25 in364’s servant report. Hold the age/calendar reconciliation; select no replacement numeral yet.",
+    "rationale": "332 says only twenty;364 gives twenty-five. The surrounding story gives months and short appointments rather than a stated five-year interval. Both ages occur in the checked repost. Their evidential frames differ: narrator statement versus reported information. The earlier figure might also be rounded or stale arena-age information, rather than a precise present birthday.",
+    "confidence": "High confidence in the differing age claims; moderate-to-high chronological tension; low confidence in a precise repaired age before global reconciliation.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "The Yan junior lord’s five-year seclusion belongs to him, not FY’s elapsed interval. Do not insert five years, borrow former-life inheritance duration, or replace all ages. Inner/outer clocks, birthdays and unquantified ellipses still require full-novel checking.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-163",
+    "category": "Vanity parable: preserve the red/fame/heat wordplay",
+    "locations": [
+      {
+        "chapter": 357,
+        "paragraph": 41,
+        "file": "OEBPS/Text/chapter365.html"
+      },
+      {
+        "chapter": 357,
+        "paragraph": 50,
+        "file": "OEBPS/Text/chapter365.html"
+      },
+      {
+        "chapter": 357,
+        "paragraph": 54,
+        "file": "OEBPS/Text/chapter365.html"
+      }
+    ],
+    "recommended_action": "Working English candidate: To become red-hot, you must stand the heat. Add a short note if needed: 红 means both red and popular/famous here. This is a translation proposal, not a Chinese correction.",
+    "rationale": "Vanity asks about fame after the liquid has reddened its companion. Its absurd inference couples physical redness and heat to becoming famous. A fame-only paraphrase loses the joke; a redness-only paraphrase loses the motive. HanDian confirms the fame/popularity sense of红.",
+    "confidence": "High confidence in the double meaning; moderate confidence in the best English recreation.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "Red-hot can suggest fashionable or sexually attractive in English, so context or a brief note must constrain it. Do not pretend the proposed idiom reproduces every source association or treat it as an already approved line.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-164",
+    "category": "Nineteen individually held copy candidates",
+    "locations": [
+      {
+        "chapter": 356,
+        "paragraph": 36,
+        "file": "OEBPS/Text/chapter364.html"
+      },
+      {
+        "chapter": 357,
+        "paragraph": 8,
+        "file": "OEBPS/Text/chapter365.html"
+      },
+      {
+        "chapter": 357,
+        "paragraph": 42,
+        "file": "OEBPS/Text/chapter365.html"
+      },
+      {
+        "chapter": 357,
+        "paragraph": 43,
+        "file": "OEBPS/Text/chapter365.html"
+      },
+      {
+        "chapter": 357,
+        "paragraph": 50,
+        "file": "OEBPS/Text/chapter365.html"
+      },
+      {
+        "chapter": 358,
+        "paragraph": 32,
+        "file": "OEBPS/Text/chapter366.html"
+      },
+      {
+        "chapter": 358,
+        "paragraph": 86,
+        "file": "OEBPS/Text/chapter366.html"
+      },
+      {
+        "chapter": 359,
+        "paragraph": 27,
+        "file": "OEBPS/Text/chapter367.html"
+      },
+      {
+        "chapter": 359,
+        "paragraph": 74,
+        "file": "OEBPS/Text/chapter367.html"
+      },
+      {
+        "chapter": 360,
+        "paragraph": 9,
+        "file": "OEBPS/Text/chapter368.html"
+      },
+      {
+        "chapter": 360,
+        "paragraph": 50,
+        "file": "OEBPS/Text/chapter368.html"
+      },
+      {
+        "chapter": 360,
+        "paragraph": 73,
+        "file": "OEBPS/Text/chapter368.html"
+      },
+      {
+        "chapter": 361,
+        "paragraph": 10,
+        "file": "OEBPS/Text/chapter369.html"
+      },
+      {
+        "chapter": 361,
+        "paragraph": 24,
+        "file": "OEBPS/Text/chapter369.html"
+      },
+      {
+        "chapter": 363,
+        "paragraph": 12,
+        "file": "OEBPS/Text/chapter371.html"
+      },
+      {
+        "chapter": 364,
+        "paragraph": 5,
+        "file": "OEBPS/Text/chapter372.html"
+      },
+      {
+        "chapter": 364,
+        "paragraph": 42,
+        "file": "OEBPS/Text/chapter372.html"
+      },
+      {
+        "chapter": 364,
+        "paragraph": 56,
+        "file": "OEBPS/Text/chapter372.html"
+      },
+      {
+        "chapter": 364,
+        "paragraph": 75,
+        "file": "OEBPS/Text/chapter372.html"
+      }
+    ],
+    "recommended_action": "Review every candidate individually. No blanket application or claim that a faithful English rendering was a translator error.",
+    "rationale": "Located wrong characters, particles, an incomplete expression and contextual reconstructions. All19 original fragments were found in the selected external reposts; repetition demonstrates transmission, not correctness.",
+    "confidence": "High local support for mechanical slips; moderate reconstruction choices marked.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "For脚腕,衍伸,收到奇效 and other possible legitimate expressions, no automatic correction was proposed. Recheck plausible counter-readings before publication.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding",
+    "copy_items": [
+      {
+        "chapter": 356,
+        "paragraph": 36,
+        "original": "来的好",
+        "replacement": "来得好",
+        "confidence": "High local copy support; external repost repeats original",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 356,
+          "paragraph": 36,
+          "original": "来的好",
+          "candidate": "来得好",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "传承。一时间，三位四转巅峰蛊师，同时向易火出手。“来的好。”易火嘴角扯出一丝傲慢的笑意，伸直双臂，然后双掌在胸前猛地一拍。“哼",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 357,
+        "paragraph": 8,
+        "original": "身在家中做",
+        "replacement": "身在家中坐",
+        "confidence": "High local copy support; external repost repeats original",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 357,
+          "paragraph": 8,
+          "original": "身在家中做",
+          "candidate": "身在家中坐",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "甚至还染红了太日阳莽的身躯。太日阳莽心中叫苦，这叫身在家中做，祸从天上来。斑虎蜜蜂实力强大无比，单单一只，他也不是对手。更何况来了",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 357,
+        "paragraph": 42,
+        "original": "将起抛入",
+        "replacement": "将其抛入",
+        "confidence": "High local copy support; external repost repeats original",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 357,
+          "paragraph": 42,
+          "original": "将起抛入",
+          "candidate": "将其抛入",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "？”“加碧落狐烟婴！”一个毛民手中提着一个小狐狸，将起抛入锅中。毛民们听了他的话，都一阵发怔。这些蜜蜂一个个都有花豹子一般大小，",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 357,
+        "paragraph": 43,
+        "original": "等着黑钻石",
+        "replacement": "瞪着黑钻石",
+        "confidence": "Moderate: contextual reconstruction; preferred wording not uniquely established",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 357,
+          "paragraph": 43,
+          "original": "等着黑钻石",
+          "candidate": "瞪着黑钻石",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "色骤变，惊惶大叫：“不——！”小狐狸浑身毛茸茸的，等着黑钻石般的双眼，十分可爱。但一碰到水，它就化为一股青色的烟气，融入水中。换做",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 357,
+        "paragraph": 50,
+        "original": "崇拜向你",
+        "replacement": "崇拜像你",
+        "confidence": "High local copy support; external repost repeats original",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 357,
+          "paragraph": 50,
+          "original": "崇拜向你",
+          "candidate": "崇拜像你",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "你请教，你是如何变得这么有名？我都快羡慕死了！我最崇拜向你这样的人啦。”虚荣蛊十分急切地问道。太日阳莽这一醉，醉了七天七夜。“人",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 358,
+        "paragraph": 32,
+        "original": "亲身女儿",
+        "replacement": "亲生女儿",
+        "confidence": "High local copy support; external repost repeats original",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 358,
+          "paragraph": 32,
+          "original": "亲身女儿",
+          "candidate": "亲生女儿",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "是人中龙凤。尤其是这个铁若男，乃是铁家神捕铁血冷的亲身女儿，年纪轻轻已经是四转初阶的修为了。”若是再用九眼酒虫的话，他就拥有四转",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 358,
+        "paragraph": 86,
+        "original": "满意的点点头",
+        "replacement": "满意地点点头",
+        "confidence": "High local copy support; external repost repeats original",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 358,
+          "paragraph": 86,
+          "original": "满意的点点头",
+          "candidate": "满意地点点头",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "但在信王传承中，能动用的蛊必须只能是炼道之蛊。方源满意的点点头。黄金舍利蛊一进来，就被春秋蝉若有若无的气息死死压制。方源只好让春秋蝉",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 359,
+        "paragraph": 27,
+        "original": "星晨",
+        "replacement": "星辰",
+        "confidence": "High local copy support; external repost repeats original",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 359,
+          "paragraph": 27,
+          "original": "星晨",
+          "candidate": "星辰",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "已经明显的成熟起来。她的双眉笔挺似剑，一双眼睛亮如星晨，顾盼之间，凌厉生威。浓密的睫毛，投下阴翳，遮盖住眼中坚定的光。铁家一",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 359,
+        "paragraph": 74,
+        "original": "向一头苍鹰",
+        "replacement": "像一头苍鹰",
+        "confidence": "High local copy support; external repost repeats original",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 359,
+          "paragraph": 74,
+          "original": "向一头苍鹰",
+          "candidate": "像一头苍鹰",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "任何雄辩。他懒得辩驳，冷冷一笑，身影倏地凌空飞下，向一头苍鹰，猛地扑向众人。铁霸修对家族忠诚无比，为了家族的未来希望，他甘愿辅佐，",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 360,
+        "paragraph": 9,
+        "original": "双拳四对",
+        "replacement": "双拳对撞",
+        "confidence": "Moderate: contextual reconstruction; preferred wording not uniquely established",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 360,
+          "paragraph": 9,
+          "original": "双拳四对",
+          "candidate": "双拳对撞",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "的纠缠住。一声闷响，铁霸修越众而出，在半空中和方源双拳四对，硬拼一记。铁霸修后撤，站在铁若男的身边，铁刀苦、铁线花一齐顶上，铁傲",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 360,
+        "paragraph": 50,
+        "original": "用作联系月刃",
+        "replacement": "用作练习月刃",
+        "confidence": "High local copy support; external repost repeats original",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 360,
+          "paragraph": 50,
+          "original": "用作联系月刃",
+          "candidate": "用作练习月刃",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "免。一转的草傀蛊，方源在青茅山时就见过。曾经被学堂用作联系月刃的靶子。方源双眼一转，ｈｔtps://m.hｅｔｕshｕ•coｍ•ｃｏ",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 360,
+        "paragraph": 73,
+        "original": "来的好",
+        "replacement": "来得好",
+        "confidence": "High local copy support; external repost repeats original",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 360,
+          "paragraph": 73,
+          "original": "来的好",
+          "candidate": "来得好",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "影，一象之力！挡在方源面前的铁线花，猛地被打飞。“来的好，霸力蛊！”眼看着方源极为接近铁若男，铁霸修沉声一喝，挺身而出。她制造",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 361,
+        "paragraph": 10,
+        "original": "挪揄",
+        "replacement": "揶揄",
+        "confidence": "High local copy support; external repost repeats original",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 361,
+          "paragraph": 10,
+          "original": "挪揄",
+          "candidate": "揶揄",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "翅难逃？”方源猛地发力，暂时打退铁霸修，脸色涌现出挪揄之色，“真的是插翅也难逃吗？那我倒要试试看了。”铁家众人重振斗志。“小",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 361,
+        "paragraph": 24,
+        "original": "是怎么好操纵的吗",
+        "replacement": "是这么好操纵的吗",
+        "confidence": "High local copy support; external repost repeats original",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 361,
+          "paragraph": 24,
+          "original": "是怎么好操纵的吗",
+          "candidate": "是这么好操纵的吗",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "）三颗雪球连发，封住方源的退路。兽影回收！“飞行蛊是怎么好操纵的吗？人，生来双脚踏地，要飞上天空，自由翱翔，要做多少的辛苦练习！要用飞行",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 363,
+        "paragraph": 12,
+        "original": "四老回合",
+        "replacement": "四老会合",
+        "confidence": "High local copy support; external repost repeats original",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 363,
+          "paragraph": 12,
+          "original": "四老回合",
+          "candidate": "四老会合",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "撤，全凭他一人心意。撤，必须撤退，赶到三叉山上，和四老回合！”双方一逃一追，就这样僵持下去。兽影越发具有威胁，他渐渐感到举步维艰",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 364,
+        "paragraph": 5,
+        "original": "气质一滞",
+        "replacement": "气势一滞",
+        "confidence": "Moderate: contextual reconstruction; preferred wording not uniquely established",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 364,
+          "paragraph": 5,
+          "original": "气质一滞",
+          "candidate": "气势一滞",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "们能够拿捏的。”李闲啧啧嘴，心思百转千回。铁家四老气质一滞，纷纷出手。但方源扇动双翼，轻松闪避，灵活得叫人叹为观止。没有想到，方",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 364,
+        "paragraph": 42,
+        "original": "皱着问道",
+        "replacement": "皱着眉问道",
+        "confidence": "Moderate: contextual reconstruction; preferred wording not uniquely established",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 364,
+          "paragraph": 42,
+          "original": "皱着问道",
+          "candidate": "皱着眉问道",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "他究竟是个什么样的人物？我居然没有听说过他。”炎君皱着问道。还有每次出来传承，都拿出那么多的斩获……除了这点之外，还有关键的一点",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 364,
+        "paragraph": 56,
+        "original": "质的飞越",
+        "replacement": "质的飞跃",
+        "confidence": "High local copy support; external repost repeats original",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 364,
+          "paragraph": 56,
+          "original": "质的飞越",
+          "candidate": "质的飞跃",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "oｍ行，能用于战斗，对于蛊师来讲，是一个战斗力上的质的飞越。“就算他在商家城时，就勤修苦练，也不可能一点风声都不流露。而且那才多",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
+        }
+      },
+      {
+        "chapter": 364,
+        "paragraph": 75,
+        "original": "寰转",
+        "replacement": "转圜",
+        "confidence": "Moderate: contextual reconstruction; preferred wording not uniquely established",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 364,
+          "paragraph": 75,
+          "original": "寰转",
+          "candidate": "转圜",
+          "original_fragment_present": true,
+          "candidate_fragment_present": false,
+          "original_context": "一新人！”铁家损失很大，必定要对付小兽王，没有任何寰转的余地。而方正也当众宣布，要屠杀铁家子弟，口气猖狂至极。……商家五大干",
+          "candidate_context": "",
+          "limitation": "Presence checks do not establish authorial priority; investigate nonmatches rather than infer a variant."
         }
       }
     ]

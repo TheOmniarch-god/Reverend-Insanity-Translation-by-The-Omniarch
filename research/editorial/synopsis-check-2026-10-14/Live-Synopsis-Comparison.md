@@ -1,5 +1,7 @@
 # Live synopsis comparison: the seven supplied Chinese lines
 
+**Updated after the translator’s same-character objection:** the earlier “And a...” candidate is superseded. Revised proposals use “the peerless demon lord himself” to reconnect the existing character and avoid switching designations. The quoted live text below remains the originally checked live text; no site edit was made.
+
 Checked the live homepage at https://ri.theomniarch.com.ng/ on14 October2026. This is a fresh check, not a repetition of the earlier benchmark. Original HTML, extracted synopsis and capture metadata are saved beside this report. No website or manuscript edits made.
 
 ## Overall verdict
@@ -68,7 +70,7 @@ Keep transmigration and subsequent rebirth distinct; do not replace both with a 
 
 “Roams the world unfettered” foregrounds the freedom in纵横. A more forceful phrase could foreground sweeping or ranging unchecked, but that would be a tonal choice, not a compulsory factual correction. “Peerless demonic overlord” is heightened genre diction for绝世大魔头; it should not be treated as proof of an institutional office.
 
-**Minimal candidate:** And a peerless demonic overlord who acts as he pleases and roams the world unfettered!
+**Minimal candidate:** And the peerless demon lord himself, acting as he pleases and roaming the world unfettered!
 
 The initial “And” restores the additive force of还有. Returning this line to the end restores the source’s climax on the protagonist rather than on the Gu catalogue.
 
@@ -86,9 +88,9 @@ A wondrous, bizarre world of nurturing, refining, and using Gu.
 
 Spring Autumn Cicada, Moonlight Gu, Liquor Worm, One Qi Golden Light Worm, Black Hair Gu, Hope Gu...
 
-And a peerless demonic overlord who acts as he pleases and roams the world unfettered!
+And the peerless demon lord himself, acting as he pleases and roaming the world unfettered!
 
-Only the final two lines’ order and the missing additive connective change here. The cultural-shorthand and embellishment queries remain open, not silently approved.
+The final two lines’ order is restored, and the closing reference now uses the same designation and a definite article. “Himself” is an explicit clarifying addition, not a separate source word. The cultural-shorthand and embellishment queries remain open, not silently approved.
 
 ## Recommended clarity pass, held for approval
 
@@ -104,7 +106,7 @@ A strange world of nurturing, refining, and using Gu.
 
 Spring Autumn Cicada, Moonlight Gu, Liquor Worm, One Qi Golden Light Worm, Black Hair Gu, Hope Gu...
 
-And a peerless demonic overlord who acts as he pleases and roams the world unfettered!
+And the peerless demon lord himself, acting as he pleases and roaming the world unfettered!
 
 This is an editorial proposal, not an approved replacement. The longer second line deliberately trades tagline brevity for intelligibility.
 
