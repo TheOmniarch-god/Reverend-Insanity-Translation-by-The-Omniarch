@@ -1,0 +1,5296 @@
+{
+  "scope": "Sequential evidence through200; branch labels are overwritten/revised histories, not coexisting universes",
+  "entries": [
+    {
+      "id": "T001",
+      "timeline": "current life",
+      "kind": "anchor",
+      "event": "Rebirth on eve of ceremony",
+      "constraint": "Ceremony tomorrow; reversal stated as five hundred years",
+      "evidence_status": "Explicit relative anchor; centuries not converted into exact age",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 1,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter9.html",
+          "text": "明天就是开窍大典，关乎着每个人的切身利益。一种兴奋、紧张的氛围，笼罩着族人的心，自然有很多人睡不安稳。"
+        },
+        {
+          "chapter": 1,
+          "paragraph": 81,
+          "file": "OEBPS/Text/chapter9.html",
+          "text": "“古月山寨，这是五百年前？！春秋蝉果真起作用了……”方源眼神幽幽，站在窗户旁，任凭风雨打在身上。"
+        },
+        {
+          "chapter": 1,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter9.html",
+          "text": "“利用春秋蝉重生了，回到了五百年前！”方源伸出手，目光定定地看着自己年轻稚嫩的有些苍白的手掌，然后慢慢握紧，用力感受着这份真实。"
+        }
+      ]
+    },
+    {
+      "id": "T002",
+      "timeline": "current life",
+      "kind": "age",
+      "event": "Present age of brothers",
+      "constraint": "Fifteen",
+      "evidence_status": "Explicit present-age evidence",
+      "dependency": "Do not infer birthday",
+      "sources": [
+        {
+          "chapter": 4,
+          "paragraph": 3,
+          "file": "OEBPS/Text/chapter12.html",
+          "text": "一百多位十五岁的少年，此刻汇集在家主阁前。"
+        },
+        {
+          "chapter": 9,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter17.html",
+          "text": "看到方源随身带来的那两坛酒，舅父古月冻土的眉头拧成了疙瘩，他开口道：“时间一晃，你们已经十五岁了。竟然都有蛊师资质，尤其是方正，舅父舅母都替你们感到骄傲。我给你们每人六块元石，你们兄弟俩拿去。炼化蛊虫，极耗真元，这些元石你们需要。”"
+        }
+      ]
+    },
+    {
+      "id": "T003",
+      "timeline": "shared childhood",
+      "kind": "retrospective",
+      "event": "Orphaning and fostering",
+      "constraint": "Orphaned three; aunt claims fostered from five for ten years; later childhood recollection connects aunt/uncle care with parental deaths",
+      "evidence_status": "Conflicting/partly underdetermined start; SR-003 held",
+      "dependency": "Later childhood references and witnesses",
+      "sources": [
+        {
+          "chapter": 2,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter10.html",
+          "text": "他记得很清楚，自己这个身体的双亲因为一次家族任务，而双双陨落。在三岁的时候，就和弟弟一起成了孤儿。"
+        },
+        {
+          "chapter": 2,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter10.html",
+          "text": "舅父舅母就依着抚养的名义，堂而皇之地侵占了双亲的遗产，并且苛刻地对待自己和弟弟。"
+        },
+        {
+          "chapter": 9,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter17.html",
+          "text": "“好儿子，不枉费我们夫妻从五岁就抚养你，可养了你整整十年啊。”舅母抹着泪。"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 17,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "“天真的蠢货，你还记得什么！从小到大，我是怎么照顾你的？双亲刚死的时候，我们生活困苦，过新年舅父舅母只给我们俩一件新衣，我自己穿了吗？我给谁穿了？你小时候爱吃蜜饯粥，我每天都吩咐厨房给你多做一碗。你被旁人欺负了，是谁带着你找回场子？还有其他种种，我都不屑说了。嗯，现在你为了一个婢女，就这么跟我讲话，来质问我？”"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 19,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "因为方源说的都是事实！"
+        }
+      ]
+    },
+    {
+      "id": "T004",
+      "timeline": "current life",
+      "kind": "elapsed interval",
+      "event": "Week-later lesson and Gu selection",
+      "constraint": "Ceremony seven days earlier; lesson leads to Gu selection",
+      "evidence_status": "Explicit interval and instruction",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 7,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter15.html",
+          "text": "很快，一个星期就过去了。"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter15.html",
+          "text": "“而你们在七天前的开窍大典中，都已经成功开辟了空窍，凝聚了真元海，如今已经都是一转蛊师了。”"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter15.html",
+          "text": "不知不觉间，这堂课接近了尾声。学堂家老最后通知道：“这一周来，我教会你们如何冥想，察看自身的空窍元海。如何打坐，调动体内的真元。现在是时候炼化你们的本命蛊了。这节课结束后，你们就去学堂里的蛊室，挑选蛊虫。选了蛊虫之后，就回家潜修。直到炼化了蛊虫，再来学堂继续上课。同时，这也是你们的第一场考核。谁能拔得头筹，就会有二十块元石的丰厚奖励。”"
+        }
+      ]
+    },
+    {
+      "id": "T005",
+      "timeline": "current life",
+      "kind": "calendar",
+      "event": "Arrival of fourth month",
+      "constraint": "April/fourth month wording; no exact date",
+      "evidence_status": "Explicit month, unspecified calendar-day position",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 7,
+          "paragraph": 47,
+          "file": "OEBPS/Text/chapter15.html",
+          "text": "“若是找到那酒虫，炼化为本命蛊，比家族中的月光蛊要好多了。眨眼间，已经到了四月，时不我待呀。”方源叹了一口气，视线转向窗外。"
+        }
+      ]
+    },
+    {
+      "id": "T006",
+      "timeline": "current life",
+      "kind": "conflict",
+      "event": "Opening month/week/ten-plus-days conflict",
+      "constraint": "Competing elapsed descriptions in continuous sequence",
+      "evidence_status": "SR-002 held",
+      "dependency": "Whole-novel chronology",
+      "sources": [
+        {
+          "chapter": 8,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter16.html",
+          "text": "短短的一个月，却已物是人非了。"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter16.html",
+          "text": "一周前的开窍大典，不管是对于哥哥还是弟弟，都是巨大的改变。"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter16.html",
+          "text": "最初的十几天下来，古月方正莫名其妙的瘦了一圈，不过精气神却越加旺盛。"
+        }
+      ]
+    },
+    {
+      "id": "T007",
+      "timeline": "current life",
+      "kind": "elapsed interval",
+      "event": "Three-day rain ends before discovery",
+      "constraint": "Three days and nights; Ch11 approaching evening after rain",
+      "evidence_status": "Multiple explicit local anchors",
+      "dependency": "Analytical position about ceremony +10 days, not a canonical date",
+      "sources": [
+        {
+          "chapter": 10,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter18.html",
+          "text": "在有些昏暗的房间里，窗户开着，方源静静地看着这场大雨，心中幽幽一叹：“已经三天三夜了。”"
+        },
+        {
+          "chapter": 10,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter18.html",
+          "text": "三天前的那晚，他拎着两坛酒，出了山寨，在周边继续探索。"
+        },
+        {
+          "chapter": 11,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter19.html",
+          "text": "方源看了一眼天色，雨已经停了，而且接近傍晚。干脆在大厅吃完，然后直接出寨，探索花酒行者遗藏。便对掌柜的道：“就在大厅吃吧。”"
+        },
+        {
+          "chapter": 13,
+          "paragraph": 26,
+          "file": "OEBPS/Text/chapter21.html",
+          "text": "因为刚刚下了场连续三天三夜的大雨，山间的浊气都被洗刷个干净，只留下最纯粹的清新。"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 51,
+          "file": "OEBPS/Text/chapter22.html",
+          "text": "这处河滩平常时候，是干的。但是最近下了一场大雨，连续三天三夜，便导致这里积蓄了一股浅浅的流水。"
+        }
+      ]
+    },
+    {
+      "id": "T008",
+      "timeline": "current life",
+      "kind": "activity duration",
+      "event": "Search and wine purchases",
+      "constraint": "More than week elapsed; seven active/purchase days recalled",
+      "evidence_status": "Different measured activities; do not equate automatically",
+      "dependency": "Rain interruption may explain distinction; preserve wording",
+      "sources": [
+        {
+          "chapter": 12,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter20.html",
+          "text": "“现在所有的问题，都归结在花酒行者的遗藏上。我若能找到它，一切困难就迎刃而解。若是发现不了，这些难题将极大地拖慢我修行的速度。会让我在修行之初，就被同龄人甩得远远的。费解啊，我用了一周多的时间，来吸引酒虫出现，为什么就一直不见成效？”"
+        },
+        {
+          "chapter": 12,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter20.html",
+          "text": "古月山寨中共有三家酒肆，卖的都是寻常的米酒、浊酒，种类大同小异。方源为了吸引酒虫现身，连续买了七天的酒水，自然清楚其中行情。"
+        },
+        {
+          "chapter": 13,
+          "paragraph": 29,
+          "file": "OEBPS/Text/chapter21.html",
+          "text": "前七天的探索，不是没有收获的。至少证明了，花酒行者并没有死在那些地方。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter24.html",
+          "text": "难怪自己废了这么大周折，连续七天都找不到。"
+        }
+      ]
+    },
+    {
+      "id": "T009",
+      "timeline": "previous life",
+      "kind": "relative future event",
+      "event": "Other Gu Master discovers legacy",
+      "constraint": "A month later in previous life; exact referent not restated",
+      "evidence_status": "Previous-life relative anchor",
+      "dependency": "Do not transplant date to current-life discovery",
+      "sources": [
+        {
+          "chapter": 13,
+          "paragraph": 9,
+          "file": "OEBPS/Text/chapter21.html",
+          "text": "在前世的一个月后，一位因失恋而醉酒的蛊师，烂醉如泥地躺在山寨外，结果四溢的酒香气息，意外地引来了一头酒虫。"
+        },
+        {
+          "chapter": 13,
+          "paragraph": 10,
+          "file": "OEBPS/Text/chapter21.html",
+          "text": "蛊师追着这酒虫，在一处地下密洞里发现了花酒行者的遗骸，同时还有花酒行者的随身遗产。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter24.html",
+          "text": "记忆中，那蛊师已经是三转，而酒虫不过是一转蛊虫罢了。对于方源来讲，比较珍贵，对于那蛊师而言，却可有可无了。"
+        }
+      ]
+    },
+    {
+      "id": "T010",
+      "timeline": "historical clan account",
+      "kind": "retrospective narrative",
+      "event": "Received story of fourth leader and Flower Wine Monk",
+      "constraint": "More than three hundred years ago; account explicitly questioned",
+      "evidence_status": "Public story, not final omniscient history",
+      "dependency": "Preserve reveal in Ch15–16",
+      "sources": [
+        {
+          "chapter": 13,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter21.html",
+          "text": "大约是在三百多年前，古月一族中出现了一个天才人物。"
+        },
+        {
+          "chapter": 13,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter21.html",
+          "text": "可惜的是，四代族长为保护族人，对战同样是五转蛊师的魔头花酒行者。虽然一场大激战后，他击败了花酒行者，并且让这个魔头跪地求饶。"
+        },
+        {
+          "chapter": 13,
+          "paragraph": 7,
+          "file": "OEBPS/Text/chapter21.html",
+          "text": "这个充满悲剧的故事，一直流传至今，为古月族人广为传颂。"
+        },
+        {
+          "chapter": 13,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter21.html",
+          "text": "但是方源却明白，这故事不可尽信。因为它本身就有一个巨大的漏洞。"
+        }
+      ]
+    },
+    {
+      "id": "T011",
+      "timeline": "historical recorded encounter",
+      "kind": "threat",
+      "event": "Poison death threatened",
+      "constraint": "Seven days if not treated",
+      "evidence_status": "Conditional threat, not elapsed duration",
+      "dependency": "Fourth leader dies during encounter",
+      "sources": [
+        {
+          "chapter": 15,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter23.html",
+          "text": "“你已经中了我的独门毒蛊，没有我的对应解蛊，七天之后，必定化为脓血而死。”背后的声音又响起。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter24.html",
+          "text": "“你已经中了我的独门毒蛊，没有我的对应解蛊，七天之后，必定化为脓血而死。”"
+        }
+      ]
+    },
+    {
+      "id": "T012",
+      "timeline": "historical recorded encounter",
+      "kind": "proposed schedule",
+      "event": "Weekly tribute demanded",
+      "constraint": "30 jin petals and 3000 stones each week",
+      "evidence_status": "Demand only; no payment established",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 15,
+          "paragraph": 32,
+          "file": "OEBPS/Text/chapter23.html",
+          "text": "花酒行者眯起了双眼，他的怒火已经平息下来，眼缝中精芒频闪：“哼，奴隶蛊珍贵无比，是五转蛊虫，你以为我会有？不过，你中了我的独门毒蛊，只有我可以解毒，也不怕你反抗。既然如此，你族每周给我提供三十斤月兰花瓣，同样还有三千枚元石。每隔一段时间我都会过来取货，同时为你解一次毒，留你一条狗命。”"
+        }
+      ]
+    },
+    {
+      "id": "T013",
+      "timeline": "current life",
+      "kind": "playback",
+      "event": "Historical recording loops",
+      "constraint": "Second and third playback",
+      "evidence_status": "One recorded historical event, multiple present replays",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 16,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter24.html",
+          "text": "墙壁上，画面又开始重复回放第二遍。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter24.html",
+          "text": "方源默然无声，直到画面又开始重复第三遍时，他这才幽幽一叹，道一声：“原来如此。”"
+        }
+      ]
+    },
+    {
+      "id": "T014",
+      "timeline": "current life",
+      "kind": "scene continuity",
+      "event": "Return to inn from legacy",
+      "constraint": "Same night as inn confrontation and wine purchase",
+      "evidence_status": "Explicit same-evening recall",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 16,
+          "paragraph": 53,
+          "file": "OEBPS/Text/chapter24.html",
+          "text": "确认这秘洞已经搜刮干净之后，方源便按照原路返回。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter24.html",
+          "text": "“接下来，就一门心思窝在客栈炼化蛊虫。只要有了本命蛊，就可以回归学堂，有资格住在学员宿舍，并借助家族资源修行。这客栈住一两次也就罢了，住太久，花费太大。”方源思量着，脚步不停，赶往山寨。"
+        },
+        {
+          "chapter": 17,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter25.html",
+          "text": "方源就在这月光下，回到客栈。"
+        },
+        {
+          "chapter": 17,
+          "paragraph": 26,
+          "file": "OEBPS/Text/chapter25.html",
+          "text": "就像是今天傍晚，那青年蛊师江牙，在摔酒坛时忿忿不平的对猎户们发泄：自己都不舍不得花元石来喝这青竹酒，你们这群猎户区区凡人，却有这闲钱！"
+        }
+      ]
+    },
+    {
+      "id": "T015",
+      "timeline": "current life",
+      "kind": "overnight interval",
+      "event": "Dawn and breakfast confrontation",
+      "constraint": "Half-night initial refinement; Shen Cui visit yesterday",
+      "evidence_status": "Explicit next-morning link",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 17,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter25.html",
+          "text": "火烛越烧越矮，烛火也越来越昏暗。窗外的月牙已经慢慢降落，然后新的一天到来了。"
+        },
+        {
+          "chapter": 17,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter25.html",
+          "text": "清晨的阳光，透过窗户的缝隙，透射到房间内。像是给窗户镶上一道光边。"
+        },
+        {
+          "chapter": 17,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter25.html",
+          "text": "酒虫白白的身子上，已经有了一抹青绿之色。这是方源努力了半个晚上，才得到的成果。"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "果然，方正见哥哥看也不看自己一眼，似乎把自己当做了空气。下一刻，他就带着不满的语气，叫起来：“哥哥，你对沈翠做了什么？自从她昨天从你房间里出来后，就大哭了一场，我安慰她，她哭的越凶。”"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 30,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "所以当他昨天傍晚得知沈翠的异状时，他的心中顿时涌现出一股气。他当即放弃炼化月光蛊，转而满山寨寻找方源，要来讨个说法。"
+        }
+      ]
+    },
+    {
+      "id": "T016",
+      "timeline": "current life",
+      "kind": "forecast",
+      "event": "Liquor Worm projected refinement time",
+      "constraint": "Not within a month under current conditions; stronger-Gu suppression offered as exception",
+      "evidence_status": "Conditional forecast, not elapsed month",
+      "dependency": "Ch19–20 changes conditions",
+      "sources": [
+        {
+          "chapter": 17,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter25.html",
+          "text": "“要在一个月之内，炼化这只酒虫，已经不可能了。除非是有强者，动用二转三转蛊的气息，威压这只酒虫，将酒虫体内的意志压制到最低程度。在这样的帮助下，我就能事半功倍。”想到这里，方源不禁叹了一口气。"
+        }
+      ]
+    },
+    {
+      "id": "T017",
+      "timeline": "current life",
+      "kind": "future eligibility",
+      "event": "Inheritance eligibility",
+      "constraint": "About one year later, age sixteen, minimum Revolution1 middle-stage cultivation",
+      "evidence_status": "Rule and family plans, not elapsed year",
+      "dependency": "Track eventual actual inheritance event",
+      "sources": [
+        {
+          "chapter": 18,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "他继续又道：“蛊师的修行，只要资源充足，不被瓶颈卡住，就会很迅速。两三年的功夫，家族就能培养出一个个的二转蛊师。他方源修为越低，一年后夺回家产的希望就越小。现在他年纪轻轻，刚刚修行，我们卡住他，让他在起步阶段就落后同龄人。学堂的资源都是奖励给优秀的学员，凭他的资质，一落后就得不到资源，没有资源辅助修行越加落后。如此恶性循环下去，一年之后看他还能有实力继承家产不？”"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 73,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "舅母不解：“就算我们不遏制他，他一年之后最多不过一转中阶。老爷你可是二转修为，还怕他？”"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 74,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "舅父气得跺脚：“妇道人家，果真头发长见识短！以我堂堂长辈的身份，难道要和一个晚辈对殴不成？他要索回遗产，合情合理，根本就不能直接阻拦，只有从族规上着手。族规中明文规定：十六岁要成家立业者，就至少得有一转中阶的修为。否则，就说明他方源没有资格来浪费家族资源。我这么说，你懂吗？”"
+        }
+      ]
+    },
+    {
+      "id": "T018",
+      "timeline": "current life",
+      "kind": "elapsed interval",
+      "event": "Further refinement until backlash",
+      "constraint": "Two further days; two days/nights with two hours rest per day",
+      "evidence_status": "Explicit coarse interval; exact midnight boundary not given",
+      "dependency": "Approximate ceremony +13-day region only",
+      "sources": [
+        {
+          "chapter": 18,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "转眼，又是两天过去。"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 80,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "客栈房间中，并没有点灯。月光洒进来，照出一地霜华。"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "“我耗费了足足两天两夜，每天只休息两个小时，耗费十二块元石，也不过只炼化到十五分之一的进度。按照时间来算，也就是最近这几天，就会有人炼蛊成功了吧。”"
+        }
+      ]
+    },
+    {
+      "id": "T019",
+      "timeline": "previous life",
+      "kind": "project duration",
+      "event": "Preparation of Spring Autumn Cicada",
+      "constraint": "Thirty years of preparation",
+      "evidence_status": "Subperiod of longer life; not total age",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 19,
+          "paragraph": 31,
+          "file": "OEBPS/Text/chapter27.html",
+          "text": "春秋蝉品级高达六转，是方源前世的第一只六转蛊虫，也是最后一只。为了炼制它，方源动用了全部的手段和资源，费劲了九牛二虎之力，足足三十年的酝酿，才侥幸成功。"
+        }
+      ]
+    },
+    {
+      "id": "T020",
+      "timeline": "cross-life transition",
+      "kind": "mechanism",
+      "event": "Cicada survives rebirth and sleeps",
+      "constraint": "Five-hundred-year reversal; bond persists, detection prevented by weakness",
+      "evidence_status": "Stated explanation at this point in story",
+      "dependency": "Track later revisions without retroactively changing viewpoint",
+      "sources": [
+        {
+          "chapter": 19,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter27.html",
+          "text": "重生之后，方源没有发现春秋蝉，就以为它已经消亡。但事实上，它寄托在方源的身体内，陷入了沉睡。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter27.html",
+          "text": "一下子逆转光阴五百年，它元气大损，实在太虚弱了，虚弱到连方源这个主人都感应不到。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter27.html",
+          "text": "重生以来，它一直在沉眠中静养。此时出现，只是觉察到空窍危机，算是被酒虫的意志惊醒的。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter27.html",
+          "text": "方源在前世，炼化了春秋蝉。重生之后，春秋蝉陷入沉眠，但是这种炼化的关系，仍旧存在着。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter27.html",
+          "text": "并且似乎是经过光阴之河的洗练，方源发现，自己和春秋蝉之间的联系，比前世还要更加玄妙，更加紧密。只是因为春秋蝉太虚弱了，才导致方源没有觉察到它。"
+        }
+      ]
+    },
+    {
+      "id": "T021",
+      "timeline": "current life",
+      "kind": "short interval",
+      "event": "Assisted refinement and academy visit",
+      "constraint": "Liquor Worm moments; Moonlight <5 minutes; quarter-hour transition; night",
+      "evidence_status": "Nested successive intervals, not a shared deadline",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 20,
+          "paragraph": 10,
+          "file": "OEBPS/Text/chapter28.html",
+          "text": "酒虫表面青铜之色，迅速扩张，几个眨眼间，就将白珍珠般的酒虫染成了一头绿虫。"
+        },
+        {
+          "chapter": 20,
+          "paragraph": 26,
+          "file": "OEBPS/Text/chapter28.html",
+          "text": "从炼化月光蛊开始，到结束，整个过程用了不到五分钟。"
+        },
+        {
+          "chapter": 20,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter28.html",
+          "text": "一刻钟后，家族学堂。"
+        },
+        {
+          "chapter": 20,
+          "paragraph": 40,
+          "file": "OEBPS/Text/chapter28.html",
+          "text": "他被敲门声吵醒，睁开双眼，有些不悦：“三更半夜的，是谁在外面？”"
+        }
+      ]
+    },
+    {
+      "id": "T022",
+      "timeline": "current life",
+      "kind": "resource over time",
+      "event": "Refinement expenditure conflict",
+      "constraint": "Twelve in specified period versus six recalled cumulatively",
+      "evidence_status": "SR-012 unresolved",
+      "dependency": "Subsequent balances and meaning of this evening",
+      "sources": [
+        {
+          "chapter": 18,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "“我耗费了足足两天两夜，每天只休息两个小时，耗费十二块元石，也不过只炼化到十五分之一的进度。按照时间来算，也就是最近这几天，就会有人炼蛊成功了吧。”"
+        },
+        {
+          "chapter": 20,
+          "paragraph": 29,
+          "file": "OEBPS/Text/chapter28.html",
+          "text": "这些天，方源炼化酒虫，前前后后足足消耗了六块元石。但是这一晚，他根本就没有耗费元石，仅仅只是空窍中的青铜真元海见了底。"
+        }
+      ]
+    },
+    {
+      "id": "T023",
+      "timeline": "current life",
+      "kind": "next morning",
+      "event": "Fang Zheng arrives after Fang Yuan",
+      "constraint": "Dawn; Fang Yuan collected first prize at midnight",
+      "evidence_status": "Direct next-morning link",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 21,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter29.html",
+          "text": "天还没有大亮，太阳也未升起，东方的天空才开始发白。天空中黑色在渐渐消褪，空气中还残留着夜的香气。"
+        },
+        {
+          "chapter": 21,
+          "paragraph": 14,
+          "file": "OEBPS/Text/chapter29.html",
+          "text": "右边的侍卫则摇头道：“你来晚一步了，就在昨晚半夜，你的哥哥古月方源已经面见了家老大人，领取了头名奖励。”"
+        }
+      ]
+    },
+    {
+      "id": "T024",
+      "timeline": "current life",
+      "kind": "elapsed interval",
+      "event": "Moonlight lesson after refinement",
+      "constraint": "Ten-odd days in Ch22; more precise16days inCh23 same lesson day",
+      "evidence_status": "Use16 as explicit anchor; loose十来天 not automatically a separate error",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 22,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter30.html",
+          "text": "距离方源在炼化本命蛊的考核中夺得第一，已经有十来天过去了。"
+        },
+        {
+          "chapter": 23,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter31.html",
+          "text": "自从炼化蛊虫到现在，已经十六天了。单单养蛊方面，就耗费了方源十四块半的元石。"
+        }
+      ]
+    },
+    {
+      "id": "T025",
+      "timeline": "current life",
+      "kind": "scheduled then elapsed",
+      "event": "Assessment and first extortion",
+      "constraint": "Three days to test; subsequent same-day evening stipend",
+      "evidence_status": "Confirmed local chain",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 23,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter31.html",
+          "text": "“舅父舅母已经断绝了我的生活费，不过每周末，家族学堂都会向学员发放三块元石补贴。看来三天后的月刃考核，我该表现一下，拿下那十块元石奖励。”方源一边嘴里嚼着饭菜，一边思忖着。"
+        },
+        {
+          "chapter": 24,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter32.html",
+          "text": "三天之后。"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter34.html",
+          "text": "临近傍晚，天边残阳如血。"
+        },
+        {
+          "chapter": 26,
+          "paragraph": 3,
+          "file": "OEBPS/Text/chapter34.html",
+          "text": "这是学堂每隔七天分发下来的元石补贴，算是对这些少年们的资助。毕竟以他们的实力，要独自喂养蛊虫，还是有很大的经济压力的。"
+        }
+      ]
+    },
+    {
+      "id": "T026",
+      "timeline": "current life",
+      "kind": "forecast",
+      "event": "Caravan expected then arrives late",
+      "constraint": "Expected in under a month; normallyApril, actualMay; delays named",
+      "evidence_status": "Preserve forecast and stated travel delay",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 23,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter31.html",
+          "text": "“公子，公子。”身后的店家伙计却追了上来，“告诉公子一个事情，再过一个月不到的时间，就有商队过来山寨。按照惯例，他们都会收购我们店里的青竹酒。公子独爱青竹酒，每周都来买几坛。掌柜的吩咐了，要小的告诉公子这事。我们店里的青竹酒有限，卖了商队，恐怕就所剩无几了。”"
+        },
+        {
+          "chapter": 39,
+          "paragraph": 21,
+          "file": "OEBPS/Text/chapter47.html",
+          "text": "“往年都是四月，今年到了五月，这商队才来。不过总算是来了。”客栈的掌柜听到这个消息后，着实舒了一口气。客栈的生意在其他月份，都极其清淡。只有指望着商队到来，能带来支撑一年的收益。"
+        },
+        {
+          "chapter": 39,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter47.html",
+          "text": "贾富双手抱拳，叹了一口气：“今年走的不大顺，路上碰到了一群幽血蝙蝠，损失了不少好手。又在绝壁山，遇到了山雾，实在是不敢走啊。因此拖延了不少时间。教古月兄久等了。”"
+        }
+      ]
+    },
+    {
+      "id": "T027",
+      "timeline": "current life",
+      "kind": "schedule",
+      "event": "Class officers and later squads",
+      "constraint": "Next3months for first appointments; later one-year squad horizon",
+      "evidence_status": "Future schedule, not elapsed time",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 26,
+          "paragraph": 14,
+          "file": "OEBPS/Text/chapter34.html",
+          "text": "“你们要记住，蛊虫只是我们使用的工具，修为才是我们蛊师的根本。修为越高，才能驱使越强大的蛊虫。在接下来的三个月内，谁能率先晋升到一转中阶，谁就能获得三十块元石奖励，同时拥有挑选第二头蛊虫的优先权。三个月后，我们会根据成绩，设立一名班头，两名副班头。班头将享受十块元石的补助，副班头的元石补贴将增长到五块！好了，今天就到这里，大家都散了罢。”"
+        },
+        {
+          "chapter": 49,
+          "paragraph": 67,
+          "file": "OEBPS/Text/chapter57.html",
+          "text": "“接下来就是设立班头、副班头。一年之后，又要分小组，设立组长，副组长。每个学年，还有各种荣耀和奖励，诸如小红花奖，蓝领巾奖，五好学员奖。他要修行，就需要资源，总得会竞争这些职位和奖励。日子久了，相处下来，他总会有亲情、友情、爱情的羁绊。不愁他今后脱离家族的掌控。”"
+        }
+      ]
+    },
+    {
+      "id": "T028",
+      "timeline": "current life",
+      "kind": "weekly interval",
+      "event": "First to second extortion",
+      "constraint": "3days+4days=7; retrospectively confirmed",
+      "evidence_status": "Multiple consistent anchors",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 30,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter38.html",
+          "text": "就这样，过去了三天。"
+        },
+        {
+          "chapter": 30,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter38.html",
+          "text": "又四天过去。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter39.html",
+          "text": "“我苦练基本拳脚连续七天，想不到只在方源的手中支持了两招，就被他再次击昏。耻辱，耻辱啊！”古月漠北心中充满了羞愤恼怒。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 29,
+          "file": "OEBPS/Text/chapter39.html",
+          "text": "“告诉你也无妨，漠北是被人打了，七天前一次，今天第二次。是在学堂大门口被揍趴下的，两次都是当场昏迷。”古月漠尘笑着道。"
+        }
+      ]
+    },
+    {
+      "id": "T029",
+      "timeline": "current life",
+      "kind": "mission and forecast",
+      "event": "Mo Yan returns; next wolf tide forecast",
+      "constraint": "Mission ten-plus/more than halfmonth; tide nextyear, usual3year recurrence",
+      "evidence_status": "Approximate durations and forecast; not exact future event date",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 31,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter39.html",
+          "text": "“嗯，家族委派了侦察任务，出去了十几天……”古月漠颜笑着答道，她是漠北的亲姐姐，目前已经是二转中阶的蛊师。"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter39.html",
+          "text": "“回来了？”古月漠尘并没有回头，而是直接问道，“在外面侦察了半个多月，那狼巢的情况怎么样？”"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 23,
+          "file": "OEBPS/Text/chapter39.html",
+          "text": "漠颜只好禀告：“狼巢差不多要满了，按照这种繁衍速度，虽然今年不会有狼潮，但是来年必定就有狼潮冲击我们山寨。”"
+        },
+        {
+          "chapter": 31,
+          "paragraph": 24,
+          "file": "OEBPS/Text/chapter39.html",
+          "text": "古月漠尘又问：“每三年基本上都会有一次狼潮，这并不稀奇。只是那狼群中，有多少只雷冠头狼呢？”"
+        }
+      ]
+    },
+    {
+      "id": "T030",
+      "timeline": "current life",
+      "kind": "idiom",
+      "event": "First/fifteenth-day threat",
+      "constraint": "Saying about inability to evade forever",
+      "evidence_status": "Not a calendar appointment",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 33,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter41.html",
+          "text": "“方源，你躲得了初一，躲不过十五。”她恨恨地一跺脚，不甘心地走了。临走前又抛下一个命令，“高碗，你给我站这里，死死的盯着！姑奶奶我就不信他不出来。”"
+        }
+      ]
+    },
+    {
+      "id": "T031",
+      "timeline": "current life",
+      "kind": "overnight sequence",
+      "event": "Gao Wan killed following second-extortion night",
+      "constraint": "Late night→pre-dawn→sunrise; morning aftermath",
+      "evidence_status": "Direct scene sequence",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 33,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter41.html",
+          "text": "只见此时，已经是深夜。"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter42.html",
+          "text": "修行无岁月，此刻已经是凌晨时分。"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 28,
+          "file": "OEBPS/Text/chapter42.html",
+          "text": "“一晚上的修行，我先后消耗了三块元石。”方源心中暗暗计算着。"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 31,
+          "file": "OEBPS/Text/chapter42.html",
+          "text": "“虽然昨天又抢了一笔，但是一晚上就消耗元石高达三块。这样一来，看起来元石很多，但是也经受不住长期的修行损耗……不过追求修行的速度和效率，自然是要付出代价的。”"
+        },
+        {
+          "chapter": 35,
+          "paragraph": 62,
+          "file": "OEBPS/Text/chapter43.html",
+          "text": "朝阳从东方朔升起，第一缕曙光透过山峦的边，照在学堂里。"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter44.html",
+          "text": "一大早，就有侍卫向他禀告方源行凶杀人的事情。这消息让他又惊又疑。"
+        },
+        {
+          "chapter": 36,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter44.html",
+          "text": "事实上，昨天傍晚就有侍卫禀告了，漠颜挟持方源闯入学堂的事情。"
+        }
+      ]
+    },
+    {
+      "id": "T032",
+      "timeline": "current life",
+      "kind": "ordered duration",
+      "event": "Mo Yan confined",
+      "constraint": "Seven-day sentence",
+      "evidence_status": "Order, not seven days elapsed",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 37,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter45.html",
+          "text": "古月漠尘沉吟道：“此事由你而起，爷爷就罚你禁闭七天，从此以后不要再找方源的麻烦。高碗以下犯上，一介奴仆冒犯主子，该死，其罪当诛！因为他是漠家的家奴，漠家也有管教不严的责任，就赔偿那方源三十块元石吧。至于高碗的家人，给予他们五十块元石的补贴，再把他们都逐出府去。”"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter45.html",
+          "text": "顿了一顿，他又道：“七天之内，你好好在家休息，不要出去了。同时也好好想想，爷爷如此处置的深意。”"
+        }
+      ]
+    },
+    {
+      "id": "T033",
+      "timeline": "Ren Zu myth",
+      "kind": "lifespan and physical age",
+      "event": "Lifespan Gu and rejuvenation",
+      "constraint": "1day then1hour remaining;80years lifespan; existing age100; youthful body20",
+      "evidence_status": "Separate lifespan, calendar age and physical condition",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 38,
+          "paragraph": 44,
+          "file": "OEBPS/Text/chapter46.html",
+          "text": "终于在他只剩下一天的寿命时，他说出了一个“矩”字。"
+        },
+        {
+          "chapter": 38,
+          "paragraph": 47,
+          "file": "OEBPS/Text/chapter46.html",
+          "text": "时间一分一秒的流逝，他只剩下最后一个小时的时间。"
+        },
+        {
+          "chapter": 38,
+          "paragraph": 53,
+          "file": "OEBPS/Text/chapter46.html",
+          "text": "规矩二蛊合力，捕捉来了一只八十年的寿蛊。"
+        },
+        {
+          "chapter": 38,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter46.html",
+          "text": "人祖已经是一百岁了，吃了这只寿蛊后，顿时脸上的皱纹全部消除，枯瘦的四肢又填充上了健美的肌肉，青春的气息又重新散发出来。"
+        },
+        {
+          "chapter": 38,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter46.html",
+          "text": "他欣喜地看着自己的身体，知道自己重新成了二十岁的青年！"
+        }
+      ]
+    },
+    {
+      "id": "T034",
+      "timeline": "current life",
+      "kind": "calendar and interval",
+      "event": "May caravan arrival",
+      "constraint": "Halfmonth afterGaoWan death; morning region arrival/noon camp/evening market",
+      "evidence_status": "Explicit month and coarse interval",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 39,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter47.html",
+          "text": "五月，是春和夏的过渡。"
+        },
+        {
+          "chapter": 39,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter47.html",
+          "text": "“是了，如今已经是五月份，商队也该来了。”"
+        },
+        {
+          "chapter": 39,
+          "paragraph": 44,
+          "file": "OEBPS/Text/chapter47.html",
+          "text": "商队是早晨到的青茅山地界，中午驻扎进了古月山寨。到了傍晚时分，山寨周边就形成了一片面积广大的临时商铺。各种红蓝黄绿的高大帐篷搭建着，帐篷之间还见缝插针地塞着无数的小地摊。"
+        },
+        {
+          "chapter": 39,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter47.html",
+          "text": "“半个月前，我杀了高碗，因为在学堂动用了月光蛊，罚款三十块块元石。不过后来漠家赔偿了我三十块，算不上损失。这些天，我抢劫了两次，总计一百一十八块元石。但是最近我不断消耗精炼出的中阶真元，温养空窍四壁，每天都要消耗三块元石。再加上蛊虫的喂养费用，自己的生活费用，陆续不断地购买青竹酒而投入的元石。现在手中还有九十八块。”"
+        }
+      ]
+    },
+    {
+      "id": "T035",
+      "timeline": "current life",
+      "kind": "market sequence",
+      "event": "Second market day and night",
+      "constraint": "Next noon; second evening; departure morning after tomorrow",
+      "evidence_status": "Explicit relative dates",
+      "dependency": "SR-018",
+      "sources": [
+        {
+          "chapter": 44,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter52.html",
+          "text": "第二天中午，趁着吃午饭的功夫，方源又来到了山寨外的商铺区。"
+        },
+        {
+          "chapter": 44,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter52.html",
+          "text": "不知不觉间，太阳渐渐落下，月牙飞旋而上。"
+        },
+        {
+          "chapter": 44,
+          "paragraph": 45,
+          "file": "OEBPS/Text/chapter52.html",
+          "text": "“商铺一般会开设三天三夜。今夜已经是第二个晚上，到了后天早上，商队就会重新启程了。所以想要买点东西，我们就得赶紧了。”"
+        },
+        {
+          "chapter": 45,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter53.html",
+          "text": "再过一日，这支商队就会启程，离开古月山寨，前往熊家寨，然后便是白家寨。"
+        },
+        {
+          "chapter": 45,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter53.html",
+          "text": "方源却没有立即开口，他环顾周围，这酒铺正是他中午时分进来的那个。酒铺的掌柜经营独到，晚上的生意几乎爆棚，帐篷中声音嘈杂，人满为患。"
+        }
+      ]
+    },
+    {
+      "id": "T036",
+      "timeline": "previous life and current family schedule",
+      "kind": "retrospective and current start",
+      "event": "Jia inheritance competition",
+      "constraint": "Prior-life struggle6–7years; present secondyear after rules announcedlastyear",
+      "evidence_status": "Separate remembered outcome from present trajectory",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 45,
+          "paragraph": 67,
+          "file": "OEBPS/Text/chapter53.html",
+          "text": "但他的大儿子贾富，二儿子贾贵，都极为优秀。一直比拼六七年，不分上下，直到贾家家主老死，都没有分出胜负。"
+        },
+        {
+          "chapter": 45,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter53.html",
+          "text": "贾家家主死后，留下一笔极为庞大的家产。贾富和贾贵为了争夺家产，兄弟阋墙，内斗升级，引进外援。激发了一场大规模的斗蛊大会，最终双双同归于尽。贾家寨强盛一时，很快又败落下去，让世人唏嘘不已。"
+        },
+        {
+          "chapter": 45,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter53.html",
+          "text": "贾金生眯起双眼，对方源的解释不置可否。他暗暗寻思：去年父亲宣布了分割家产的规矩，现在已经是第二年。世上没有不透风的墙，此事泄露出去，也不奇怪。"
+        }
+      ]
+    },
+    {
+      "id": "T037",
+      "timeline": "current life / recording timer",
+      "kind": "trigger conflict",
+      "event": "Image-wall inheritance trigger",
+      "constraint": "Nearly100days replay versus roughly46days reconstructed since discovery",
+      "evidence_status": "Activation at discovery inferred, not conclusively dated",
+      "dependency": "SR-017; natural-model mismatch, no invented prior activation",
+      "sources": [
+        {
+          "chapter": 16,
+          "paragraph": 9,
+          "file": "OEBPS/Text/chapter24.html",
+          "text": "能方才方源拨开枯藤，应该是惊动了藏在石壁中的留影存声蛊。"
+        },
+        {
+          "chapter": 46,
+          "paragraph": 32,
+          "file": "OEBPS/Text/chapter54.html",
+          "text": "“我就是花酒行者。”光头蛊师嘿嘿一笑，脸色狰狞可怖，“后来人，不管你是谁，能让我这影壁不断回放近百天，足以证明你对古月一族没有好感。很好，你就是我的继承者了！！我的遗产都留给你，但是有一个条件，你必须给我覆灭古月一族，屠灭山寨，鸡犬不留！”"
+        }
+      ]
+    },
+    {
+      "id": "T038",
+      "timeline": "current life",
+      "kind": "date conflict",
+      "event": "Murder night versus departure",
+      "constraint": "Second-night murder; departure after3daystay; last-night retrospectives",
+      "evidence_status": "Locally inconsistent labels under explicit market sequence",
+      "dependency": "SR-018; check investigation witnesses",
+      "sources": [
+        {
+          "chapter": 44,
+          "paragraph": 45,
+          "file": "OEBPS/Text/chapter52.html",
+          "text": "“商铺一般会开设三天三夜。今夜已经是第二个晚上，到了后天早上，商队就会重新启程了。所以想要买点东西，我们就得赶紧了。”"
+        },
+        {
+          "chapter": 47,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter55.html",
+          "text": "在古月山寨中停留了三天，这只商队就离开此地，顺着青茅山的山道，前往下一个目的地。"
+        },
+        {
+          "chapter": 47,
+          "paragraph": 63,
+          "file": "OEBPS/Text/chapter55.html",
+          "text": "他在昨晚杀了贾金生，处理了现场，但是事发突然，总有些不妥当的地方。尤其是血腥气味，因为秘洞不通风，并不容易驱除。"
+        },
+        {
+          "chapter": 47,
+          "paragraph": 73,
+          "file": "OEBPS/Text/chapter55.html",
+          "text": "当他在昨晚的那场纠纷中，看出了贾金生和贾富的复杂关系时，当场他的心中就产生了一个模糊的计划。"
+        },
+        {
+          "chapter": 47,
+          "paragraph": 86,
+          "file": "OEBPS/Text/chapter55.html",
+          "text": "方源昨天一夜都忙着处理杀人现场，根本就没有时间打破影壁。"
+        }
+      ]
+    },
+    {
+      "id": "T039",
+      "timeline": "current life",
+      "kind": "elapsed weather interval",
+      "event": "Rain after departure",
+      "constraint": "Rain lasts4days; seasonal transition described",
+      "evidence_status": "Explicit broad interval; not a new absolute June date",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 47,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter55.html",
+          "text": "雨哗哗地下着。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter56.html",
+          "text": "这场大雨连下了四天，这才停息。"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter56.html",
+          "text": "太阳高高地升上天空，掀开这雨帘，仿佛在为夏季揭幕。"
+        }
+      ]
+    },
+    {
+      "id": "T040",
+      "timeline": "current life",
+      "kind": "same day and overnight",
+      "event": "Combat class to first middle-stage breakthrough",
+      "constraint": "Same-day injury recalled that evening; overnight advance completednextmorning",
+      "evidence_status": "Direct relative chain",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 48,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter56.html",
+          "text": "拳脚教头站在场下，一直在主持着场面。看到此景，立即宣布：“古月漠北被击出场外，古月方源连胜三十三场！”"
+        },
+        {
+          "chapter": 49,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter57.html",
+          "text": "方源主动下场的一瞬间，他的心中也是不由地诧异了一下。他也没有料到方源会这么干。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter58.html",
+          "text": "“小弟，听说你今天受伤了。”身后忽然传来姐姐古月漠颜的声音。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 63,
+          "file": "OEBPS/Text/chapter58.html",
+          "text": "“索性今晚就不睡了，直接冲刺中阶！”他的眼中闪过一抹坚定的光。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 87,
+          "file": "OEBPS/Text/chapter58.html",
+          "text": "明亮的阳光透过窗户的缝隙，钻了进来。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 88,
+          "file": "OEBPS/Text/chapter58.html",
+          "text": "不知不觉，一夜过去，已经是上午了。"
+        }
+      ]
+    },
+    {
+      "id": "T041",
+      "timeline": "current life",
+      "kind": "recurring assistance and forecast",
+      "event": "Other pupils cultivation schedules",
+      "constraint": "ChiLian assistance every3days; FangZheng forecasts3–4days",
+      "evidence_status": "Do not record forecast as completed breakthrough",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 50,
+          "paragraph": 25,
+          "file": "OEBPS/Text/chapter58.html",
+          "text": "古月赤城顿时长长地舒了一口气，紧张的身躯也放松下来：“谢谢爷爷，每隔三天都要给孙儿灌注真元，温养空窍。让您劳累了！”"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter58.html",
+          "text": "“我有一种感觉，三四天之后，我必定能晋升中阶！就是不知道哥哥那里，是什么进度？”想到这里，方正就下意识地望向窗外，看着学堂宿舍的方向。"
+        }
+      ]
+    },
+    {
+      "id": "T042",
+      "timeline": "current life",
+      "kind": "relative interval and ranking",
+      "event": "Breakthroughs and stipend day",
+      "constraint": "Mo Bei second; Fang Zheng3hours later; fifth-day stipend and appointments.",
+      "evidence_status": "Events narrated; Chi Cheng third label queried underSR-029.",
+      "dependency": "Full-corpus reconciliation remains outstanding.",
+      "sources": [
+        {
+          "chapter": 53,
+          "paragraph": 21,
+          "file": "OEBPS/Text/chapter61.html",
+          "text": "时间一天天的过去。"
+        },
+        {
+          "chapter": 53,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter61.html",
+          "text": "第二位突破初阶，成功晋升到中阶的少年出现了。"
+        },
+        {
+          "chapter": 53,
+          "paragraph": 24,
+          "file": "OEBPS/Text/chapter61.html",
+          "text": "紧接着，仅仅只是三个小时的差距，古月方正也成功晋升。"
+        },
+        {
+          "chapter": 53,
+          "paragraph": 26,
+          "file": "OEBPS/Text/chapter61.html",
+          "text": "第三位是古月赤城。"
+        },
+        {
+          "chapter": 53,
+          "paragraph": 28,
+          "file": "OEBPS/Text/chapter61.html",
+          "text": "到了第五天，学堂家老再次分发元石补贴。"
+        }
+      ]
+    },
+    {
+      "id": "T043",
+      "timeline": "current life",
+      "kind": "witness testimony",
+      "event": "Wine-shop visit time",
+      "constraint": "Narrated noon versus witness morning; following-evening dispute.",
+      "evidence_status": "Separate conflicting testimony from actual narration and later deceptive testimony.",
+      "dependency": "SR-031 and SR-018.",
+      "sources": [
+        {
+          "chapter": 44,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter52.html",
+          "text": "第二天中午，趁着吃午饭的功夫，方源又来到了山寨外的商铺区。"
+        },
+        {
+          "chapter": 55,
+          "paragraph": 67,
+          "file": "OEBPS/Text/chapter63.html",
+          "text": "说到这里，他扬起眉毛，充满了得意的神情：“你还记得么，你在那天上午就来过我们的酒铺，你要了一杯猴儿酒，却只喝了一口。然后你放出了酒虫，把剩下的猴儿酒都喂给了它。我看到酒虫，十分激动，向你收购，你却不卖，转身就走了！”"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter64.html",
+          "text": "方源又继续说道：“我炼了酒虫，第二天就又到商铺去。的确是在中午到了一家酒铺，买了一杯猴儿酒。晚上时分又去，正巧看到一场欺诈纠纷，贾金生将臭屁肥虫冒充成黒豕蛊，卖给了我族的一名蛊师。后来贾富大人出现，解决了这个纠纷。”"
+        },
+        {
+          "chapter": 56,
+          "paragraph": 24,
+          "file": "OEBPS/Text/chapter64.html",
+          "text": "贾富狠狠地瞪了方源一眼，仰头长叹一声：“老哥的话，我又岂会不知！若是有蛛丝马迹，贾某人就不会到老哥你这儿对质来了。那凶手显然是个惯犯，手段毒辣又周密。不瞒老哥，所有线索都断了，我们离去那天，又下着大雨，就算是有血腥气也被洗刷了。”"
+        }
+      ]
+    },
+    {
+      "id": "T044",
+      "timeline": "current life",
+      "kind": "investigation window",
+      "event": "Surveillance and footprint evidence",
+      "constraint": "Surveillance follows advancement; footprintGu shows last30,000steps, not every past movement.",
+      "evidence_status": "Insufficient to establish a real murder-time alibi; political protection and limited evidence must not be rewritten into omniscience.",
+      "dependency": "Full-corpus reconciliation remains outstanding.",
+      "sources": [
+        {
+          "chapter": 57,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter65.html",
+          "text": "“不错，就是老夫。”学堂家老面对四转的贾富，语气有点虚。但是看到族长古月博投来的鼓励目光，他底气顿足，把头一昂，“这些天方源意外地率先晋升中阶，我便差人暗中调查。他的每一天的行踪都记录在案，根本就没有暗害贾金生的时间。”"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 28,
+          "file": "OEBPS/Text/chapter65.html",
+          "text": "知道这个矛盾已经不可调和，贾富咬了咬牙，决定坚持到底，他开口道：“既然如此，那不妨让我动用一下足迹蛊。此蛊用了，便可在地面上显示出最近三万步的足迹。”"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 32,
+          "file": "OEBPS/Text/chapter65.html",
+          "text": "他自信十足，因为早就料到了这个因素。因此这些天，都缩在山寨中活动，石缝秘洞根本就没有涉足。"
+        },
+        {
+          "chapter": 57,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter65.html",
+          "text": "黄绿荧粉越飞越少，最终在第三万个足迹上，彻底消失。"
+        }
+      ]
+    },
+    {
+      "id": "T045",
+      "timeline": "Ren Zu myth",
+      "kind": "physical age",
+      "event": "Renewed youth",
+      "constraint": "LifespanGu restores Ren Zu to20; subsequent transactions exchange life phases.",
+      "evidence_status": "Mythic physical-age account, not current-life elapsed calendar.",
+      "dependency": "Full-corpus reconciliation remains outstanding.",
+      "sources": [
+        {
+          "chapter": 58,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter66.html",
+          "text": "人祖用了寿蛊，顿时重获青春，回到了二十岁的年龄。"
+        },
+        {
+          "chapter": 58,
+          "paragraph": 26,
+          "file": "OEBPS/Text/chapter66.html",
+          "text": "力量蛊却说：“人啊，你错了。我之所以没有飞走，不是没有机会，而是想留下来。你要降服我，是不可能的。我只臣服于力量比我强大的存在，而你不行。不过我们可以再做交易，你把你的青年给我，我就可以暂时听从你的命令。”"
+        },
+        {
+          "chapter": 58,
+          "paragraph": 31,
+          "file": "OEBPS/Text/chapter66.html",
+          "text": "人祖一下子就到了中年，力量蛊从规矩的网中飞了出来，落在了人祖的肩头。"
+        }
+      ]
+    },
+    {
+      "id": "T046",
+      "timeline": "clan history",
+      "kind": "approximate duration",
+      "event": "Clan foundation",
+      "constraint": "Nearly1000years; 百年基业 need not mean exactly100.",
+      "evidence_status": "Preserve approximate/idiomatic descriptions rather than forcing100=1000.",
+      "dependency": "Full-corpus reconciliation remains outstanding.",
+      "sources": [
+        {
+          "chapter": 55,
+          "paragraph": 45,
+          "file": "OEBPS/Text/chapter63.html",
+          "text": "贾富皱了皱眉头，跨上一步，替她挡住古月博的视线。拱手道：“古月兄，我贾某人向来是很敬重古月一族的。尤其是古月一族的一代和四代族长，这两位先贤都是五转强者。一位白手起家，披荆斩棘，开创了古月山寨的百年基业。一位仁慈英雄，为保卫家园，牺牲自我，值得敬重。古月兄身为族长，我十分相信你会秉公执政，还请古月兄审问这个方源吧。”"
+        },
+        {
+          "chapter": 58,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter66.html",
+          "text": "“我的意思就是，方源对家族不满，那就让他发泄去吧。蚂蚁向大象吐吐沫，大象会在乎吗？情绪宜疏不宜堵，他发泄完之后，自然会融入家族之中的。我们古月一族，自从一代开创以来，已经近千年。对家族不满的，大有人在，但是最终他们掀翻家族了吗？”"
+        }
+      ]
+    },
+    {
+      "id": "T047",
+      "timeline": "current life",
+      "kind": "planned event",
+      "event": "Fang Zheng private instruction",
+      "constraint": "Leader plans to begin tomorrow night; Ch61 confirms instruction underway.",
+      "evidence_status": "Plan subsequently corroborated, not a second start when publicised inCh78.",
+      "dependency": "Full-corpus reconciliation remains outstanding.",
+      "sources": [
+        {
+          "chapter": 58,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter66.html",
+          "text": "“那就让他们翻不了身！”古月博冷哼一声，流露出一丝上位者的大气和冷酷，“这点挫折算什么？比死亡更可怕吗？有家中长辈的扶持，心气劲还存不住，就说明根本不是璞玉，也就没有培养的价值。家族每年都有新的学员进入学堂，此届不成，还有下一届。至于古月方正……从明晚开始，我会暗中亲自指导他。”"
+        },
+        {
+          "chapter": 61,
+          "paragraph": 19,
+          "file": "OEBPS/Text/chapter69.html",
+          "text": "学堂家老把这些看在眼里，立即明白这是古月族长已经开始暗中教导方正。"
+        },
+        {
+          "chapter": 78,
+          "paragraph": 32,
+          "file": "OEBPS/Text/chapter86.html",
+          "text": "“至于古月方正，我担心他遭逢这样的变故，心灵受到打击。他是甲等资质，对我族来讲，意义不需再说。从今以后，我将单独辅导他。”古月博又道。"
+        },
+        {
+          "chapter": 78,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter86.html",
+          "text": "其实很多人都知道，族长早就暗中给古月方正开小灶了。现在把这事提出来，虽然有违公平的原则，但是理由充足，家老们也不好阻止。"
+        }
+      ]
+    },
+    {
+      "id": "T048",
+      "timeline": "forecast / changed history",
+      "kind": "prediction",
+      "event": "Tie investigator and Jia conflict",
+      "constraint": "Tie arrival predicted at least2–3years away; Jia competition may be advanced by interference.",
+      "evidence_status": "Fang Yuan forecast, not fixed future event date.",
+      "dependency": "Full-corpus reconciliation remains outstanding.",
+      "sources": [
+        {
+          "chapter": 59,
+          "paragraph": 44,
+          "file": "OEBPS/Text/chapter67.html",
+          "text": "“至于贾富，他现在应该已经认定，贾贵就是凶手了。复仇的火焰已经在他胸中燃烧，呵呵，真是期待啊。经过我这么一插手，这对兄弟的斗争立马就要升级了。不知道那场斗蛊大会是否会提前呢？”"
+        },
+        {
+          "chapter": 59,
+          "paragraph": 45,
+          "file": "OEBPS/Text/chapter67.html",
+          "text": "“对了，还有那个神捕铁血冷。铁血冷……哼。”方源在嘴中咀嚼这两个字，半晌后，轻轻一笑，“在正道，此人倒是个人物。可惜他事务缠身，繁忙得很。单因为这件事，要请他来可不容易。贾富要表明态度，一定会请他过来，不过时间就说不准了，至少得排在两三年之后吧。”"
+        },
+        {
+          "chapter": 59,
+          "paragraph": 46,
+          "file": "OEBPS/Text/chapter67.html",
+          "text": "两三年后，他就是二转、甚至三转的修为。到那时，人生就是另一番天地了。"
+        }
+      ]
+    },
+    {
+      "id": "T049",
+      "timeline": "current life",
+      "kind": "relative intervals",
+      "event": "Return to cave and excavation",
+      "constraint": "Revelation over1month earlier; wait>10days after Jia departure before return; current sixth digging day.",
+      "evidence_status": "Broad intervals can coexist. Six consecutive days span5days from first to sixth; do not double-count.",
+      "dependency": "Full-corpus reconciliation remains outstanding.",
+      "sources": [
+        {
+          "chapter": 60,
+          "paragraph": 9,
+          "file": "OEBPS/Text/chapter68.html",
+          "text": "一个多月前的夜晚，影壁发生了异变，突然出现了花酒行者的密藏。影壁上先是现出了花酒行者浑身浴血，扬言要留下传承的影像。然后是一行血字，提示后来人打破影壁，就会出现洞口。再之后血字消失不见，影壁上留影存声蛊的力量完全耗散，影壁也就还原成了普通的山壁。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 12,
+          "file": "OEBPS/Text/chapter68.html",
+          "text": "直到贾富离开，学堂家老撤销暗中调查，如此过了十多天，风声渐渐消停，方源这才秘密地潜回这里。"
+        },
+        {
+          "chapter": 60,
+          "paragraph": 17,
+          "file": "OEBPS/Text/chapter68.html",
+          "text": "这已经是方源连续第六天，动用月光蛊在碾磨这石壁了。"
+        }
+      ]
+    },
+    {
+      "id": "T050",
+      "timeline": "current life",
+      "kind": "local clock and travel",
+      "event": "Cave exploration and second selection",
+      "constraint": "Midnight return→nextmorning lesson→evening test→nextmorning selection→sameevening inheritance. Ropework1hour; cautious300m traversal2hours.",
+      "evidence_status": "Explicit narrated sequence; 时辰 and 小时 distinguished.",
+      "dependency": "Full-corpus reconciliation remains outstanding.",
+      "sources": [
+        {
+          "chapter": 60,
+          "paragraph": 70,
+          "file": "OEBPS/Text/chapter68.html",
+          "text": "拎着酒坛，他回到山寨，到了宿舍，刚刚好是午夜时分。"
+        },
+        {
+          "chapter": 61,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter69.html",
+          "text": "学堂中，家老在详细讲述着要点：“明天，我们就要选择第二只蛊虫进行炼化。大家都有炼化蛊虫的成功经验，这一次可以进行巩固。对于第二头蛊虫的选择，大家要仔细思考。结合这些天的修行心得，以及对自身的了解，进行综合考虑。一般而言，最好是能和本命蛊搭配使用。”"
+        },
+        {
+          "chapter": 61,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter69.html",
+          "text": "又到了晚上。"
+        },
+        {
+          "chapter": 61,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter69.html",
+          "text": "半个时辰之后，野兔快速地窜进了甬道之中，脖子上的铃铛叮当作响，几个呼吸就出了方源的视野。"
+        },
+        {
+          "chapter": 61,
+          "paragraph": 62,
+          "file": "OEBPS/Text/chapter69.html",
+          "text": "甬道其实并不长，只有三百米左右，但是方源却足足花费了一个时辰，才探到了甬道的尽头。"
+        },
+        {
+          "chapter": 62,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter70.html",
+          "text": "朝阳冉冉升起，又是新的一天。"
+        },
+        {
+          "chapter": 63,
+          "paragraph": 7,
+          "file": "OEBPS/Text/chapter71.html",
+          "text": "族长古月博用柔和的目光注视着方正：“方正，今天你选择了第二只蛊，不知是什么？”"
+        },
+        {
+          "chapter": 63,
+          "paragraph": 44,
+          "file": "OEBPS/Text/chapter71.html",
+          "text": "前一晚他在这里受挫，在回去山寨的路上，就感觉有些不对。"
+        }
+      ]
+    },
+    {
+      "id": "T051",
+      "timeline": "current life",
+      "kind": "scene clock",
+      "event": "Afternoon hunting and morning dialogue",
+      "constraint": "Ch66 afternoon; Ch67 daughter references this morning.",
+      "evidence_status": "Conditional scene-continuity query, not proven day change.",
+      "dependency": "SR-034.",
+      "sources": [
+        {
+          "chapter": 66,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter74.html",
+          "text": "午后的烈日铺成出一片白炽的大背景，在这背景下，王二的身形简化成一个黑呼呼的影子，他后仰在空气中，矫健的身躯扬起一个弧线，如张开的一把弓，充满了男性力量的美感。"
+        },
+        {
+          "chapter": 67,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter75.html",
+          "text": "“爹！”少女甜甜地叫了一声，“你昨天打猎那么晚才回来，今天早上你就多睡一会儿嘛。不过是个水桶而已，你看，我这不就提上来了吗？”"
+        }
+      ]
+    },
+    {
+      "id": "T052",
+      "timeline": "Wang family past",
+      "kind": "reported death / revised evidence",
+      "event": "Wang Da and wife",
+      "constraint": "Supposed death3yearsago; mother died>10yearsago. Later narrative confirms Wang Da alive and wife murdered to refineGu.",
+      "evidence_status": "Rumours must not be treated as verified deaths; narration supersedes the hearsay and Fang Yuan’s tentative motive.",
+      "dependency": "Full-corpus reconciliation remains outstanding.",
+      "sources": [
+        {
+          "chapter": 69,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter77.html",
+          "text": "“王猎头原本有个婆娘，但是十多年前，就被闯入村中的野狼给杀了。他婆娘死之前，给王老头生了两男一女。但是大儿子王大，在三年前打猎，死在了山上。王家没人了。”"
+        },
+        {
+          "chapter": 69,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter77.html",
+          "text": "“我，我想起来了！王老汉其实还有一个媳妇，就是王大的老婆。但是王大失踪之后，那婆娘也殉情死了，那一年，山寨上面还特意送下来一个贞洁牌坊呢。不过我听说，其实王大的老婆想要改嫁，是被王老汉逼死的。大人您杀了王老汉，是除暴安良，为民造福啊。”"
+        },
+        {
+          "chapter": 74,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter82.html",
+          "text": "“因为某种机缘，可能性最大的是在某个蛊师尸体上，得到了一笔遗产，王大在三年前成了一名蛊师。为了掩人耳目，他放出死亡的假消息，实际上根本没有人见到过他的尸体。王老汉一家知道这件事情之后，就搬出了村子，冒着被野兽侵袭的风险而离群索居，为的就是继续掩盖这个真相。”"
+        },
+        {
+          "chapter": 74,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter82.html",
+          "text": "“但是其中出现了一些分歧，王大的妻子不同意，也许是想要上报古月山寨。王家就只好将这妻子杀害，又故意放出一些似真似假的小道消息。什么想要改嫁，什么逼死之类的，将真相牢牢地掩盖在这些流言蜚语之下。”"
+        },
+        {
+          "chapter": 75,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter83.html",
+          "text": "为了炼成这只蛊虫，王大亲手杀死了深爱自己的妻子，挖出了她的心！"
+        },
+        {
+          "chapter": 77,
+          "paragraph": 74,
+          "file": "OEBPS/Text/chapter85.html",
+          "text": "王大消失了整整三年，音讯全无，在村民们心中早就死了，因此身份成迷。"
+        },
+        {
+          "chapter": 78,
+          "paragraph": 63,
+          "file": "OEBPS/Text/chapter86.html",
+          "text": "王大成为魔道蛊师三年多，他身为驻村蛊师却一直不察，真要追究下来，就是他履历的一大污点，在家族中几乎前途就毁了。"
+        }
+      ]
+    },
+    {
+      "id": "T053",
+      "timeline": "prior life / current life",
+      "kind": "rebirth comparison",
+      "event": "Cultivation and Bookworm",
+      "constraint": "Bookworm accompanied priorlife60years. Classmates formerly advanced faster; present combat practice diverted their cultivation time.",
+      "evidence_status": "Explicit branch difference, not duplicated current elapsed time.",
+      "dependency": "Full-corpus reconciliation remains outstanding.",
+      "sources": [
+        {
+          "chapter": 71,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter79.html",
+          "text": "前世的时候，方源没有得到过酒虫、白豕蛊，反而意外地得到过一只书虫。这只书虫后来不断晋升，一直陪伴着他整整六十年。"
+        },
+        {
+          "chapter": 71,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter79.html",
+          "text": "“算了，书虫向来数量稀少，短时间之内空想也得不到。其实说起来，重生之后我如今的处境，比前世同期不知道要好上多少倍了。前世这个时候，我还在一转初阶，而其他人诸如方正、赤城、漠北，都已经到了高阶，远远地把我甩在身后了。”方源不是那种钻牛角尖的人，想想也就释然了。"
+        },
+        {
+          "chapter": 71,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter79.html",
+          "text": "他抢劫勒索所有同窗，这些人无不在长辈的指导下，奋发努力地锻炼拳脚功夫。因此在无形中，就牵扯了他们的精力，缩减了他们温养窍壁的时间。这就导致今生，他们的修为比方源前一世还有薄弱一些。"
+        }
+      ]
+    },
+    {
+      "id": "T054",
+      "timeline": "current life",
+      "kind": "calendar anchors",
+      "event": "June and the exam",
+      "constraint": "MidJune→lateJune→exam3dayslater; training retrospect sayspast half-year.",
+      "evidence_status": "June anchors firm in text; half-year elapsed-duration query held.",
+      "dependency": "SR-032 and opening chronology.",
+      "sources": [
+        {
+          "chapter": 71,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter79.html",
+          "text": "时间过的飞快，似乎是弹指一挥间，就到了六月中旬。"
+        },
+        {
+          "chapter": 72,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter80.html",
+          "text": "转眼间，已经到了六月末期。"
+        },
+        {
+          "chapter": 72,
+          "paragraph": 26,
+          "file": "OEBPS/Text/chapter80.html",
+          "text": "“一晃之下，你们都已经掌握了第二头蛊虫，甚至突破到了高阶。在之前的半年里，你们勤学苦练，如今已经有了一定的根基，是该到野外锤炼一下了。真正的战斗，不是草人傀儡、木人傀儡这样干巴巴的对象。”"
+        },
+        {
+          "chapter": 72,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter80.html",
+          "text": "“接下来是年中考核通知，三天之后，举行年中考核，全体学员都必须参加！考核的内容，是猎杀野猪。以收集到的野猪獠牙作为成绩记录下来，收集到的野猪牙越多，成绩就越好。考核结束后，每一颗野猪牙能换取十块元石。另外，允许团队狩猎。”"
+        },
+        {
+          "chapter": 73,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter81.html",
+          "text": "三天的时间，一晃而过。"
+        }
+      ]
+    },
+    {
+      "id": "T055",
+      "timeline": "current life",
+      "kind": "cache / clock / travel",
+      "event": "Exam-day sequence",
+      "constraint": "Tusks cached nightbeforelast; treehouse500–600m away reached inhalf刻; detour1hour; arrives1hourlate.",
+      "evidence_status": "Approximate clock relationships; no speed repair required.",
+      "dependency": "Full-corpus reconciliation remains outstanding.",
+      "sources": [
+        {
+          "chapter": 73,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter81.html",
+          "text": "同时，他还有另一个袋子，装着前些时候自己暗自杀猪得到的獠牙。这些獠牙原本存储在石缝秘洞当中，被方源在前天晚上秘密取出，装在袋子里，埋藏在一处隐蔽的地方。"
+        },
+        {
+          "chapter": 73,
+          "paragraph": 74,
+          "file": "OEBPS/Text/chapter81.html",
+          "text": "“依我现在的位置，距离最近的一个红圈标志，只有五六百米远。机会难得，我是不是该去那里看看？”"
+        },
+        {
+          "chapter": 73,
+          "paragraph": 80,
+          "file": "OEBPS/Text/chapter81.html",
+          "text": "半刻钟后，他到达了地图上红圈标注的地点。"
+        },
+        {
+          "chapter": 77,
+          "paragraph": 17,
+          "file": "OEBPS/Text/chapter85.html",
+          "text": "一个小时之后，一个满身草屑，粗布衣衫被荆棘割出一条条的口子，满脚都是泥浆的少年，背着一个袋子，跋涉到这处山坡。"
+        },
+        {
+          "chapter": 77,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter85.html",
+          "text": "“方源，你迟到了。考核已经结束了一个小时，按照规定，你所斩获的野猪牙，将少计算四颗，作为惩罚。”古月赤城立即叫道。"
+        }
+      ]
+    },
+    {
+      "id": "T056",
+      "timeline": "current life",
+      "kind": "cooldown and age",
+      "event": "Wang Da attack",
+      "constraint": "ShadowGu3hour cooldown; Wang Da dies during fight, aged35 per later report.",
+      "evidence_status": "Cooldown is prospective, not a3hour battle duration.",
+      "dependency": "Full-corpus reconciliation remains outstanding.",
+      "sources": [
+        {
+          "chapter": 76,
+          "paragraph": 14,
+          "file": "OEBPS/Text/chapter84.html",
+          "text": "闪光蛊虽然只有一转，同时是消耗型蛊虫。但它正克王大的幽影随行蛊，一旦黑影被白炽闪光照射消除，二转的幽影随行蛊必须要修养三个小时，才能继续使用。"
+        },
+        {
+          "chapter": 76,
+          "paragraph": 89,
+          "file": "OEBPS/Text/chapter84.html",
+          "text": "他死了。"
+        },
+        {
+          "chapter": 77,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter85.html",
+          "text": "刑堂家老没有古月药姬的资格老，立即从座位上站起来，微微低头道：“查出来了，三十五岁，男性，身份未知，疑为魔道蛊师，拥有两只蛊虫。一只幽影虫，一只爱别离。”"
+        }
+      ]
+    },
+    {
+      "id": "T057",
+      "timeline": "current life",
+      "kind": "retrospect and report delay",
+      "event": "After assassination",
+      "constraint": "Death confirmed to Fang Yuan3dayslater; Fang Zheng coma7days/nights; another十几天 before Fang Yuan/Chi Cheng upper-stage advancement.",
+      "evidence_status": "Death-date distinct from knowledge-date; coma compatible with third-day survival report.",
+      "dependency": "Full-corpus reconciliation remains outstanding.",
+      "sources": [
+        {
+          "chapter": 78,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter86.html",
+          "text": "三天之后，方源得到了这个消息。"
+        },
+        {
+          "chapter": 78,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter86.html",
+          "text": "十几天一晃而过。"
+        },
+        {
+          "chapter": 78,
+          "paragraph": 73,
+          "file": "OEBPS/Text/chapter86.html",
+          "text": "在古月方正、古月漠北之后，方源几乎和赤城同时，顺利地晋升到一转高阶。"
+        },
+        {
+          "chapter": 80,
+          "paragraph": 53,
+          "file": "OEBPS/Text/chapter88.html",
+          "text": "方正中了毒，昏睡了七天七夜，醒来之后，就像是变了一个人。变得十分努力，修行起来极其刻苦。"
+        }
+      ]
+    },
+    {
+      "id": "T058",
+      "timeline": "current life",
+      "kind": "season / retrospective interval",
+      "event": "Autumn transition",
+      "constraint": "Summer→autumn; previousweek45steps; fullboarstrength3daysago; later deepautumn and assassination>2monthsago.",
+      "evidence_status": "Seasonal watch: lateJune/earlyJuly plus2+months roughlySeptember. No calendar system or exact day established.",
+      "dependency": "Keep 深秋 and 两个多月 until later exact anchors justify a linked repair; do not assume Gregorian dates.",
+      "sources": [
+        {
+          "chapter": 79,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter87.html",
+          "text": "时间如白驹过隙，夏去秋来。"
+        },
+        {
+          "chapter": 79,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter87.html",
+          "text": "“从三天前开始，白豕蛊已经再也不能增强我的力量了。也就是说，我已经有了一猪之力，算是达到了花酒行者的目标。今天，就再推推这块圆石！”"
+        },
+        {
+          "chapter": 79,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter87.html",
+          "text": "“十步、二十步、三十步……”方源一边一步步向前推动，一边在心中默默计算着，“我上个星期，推了四十五步，就体力不继，只好放弃。这一次，不知道能推出多远？”"
+        },
+        {
+          "chapter": 80,
+          "paragraph": 51,
+          "file": "OEBPS/Text/chapter88.html",
+          "text": "时间匆匆，如今已是深秋。"
+        },
+        {
+          "chapter": 80,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter88.html",
+          "text": "距离王大刺杀，已经过去了两个多月了。"
+        }
+      ]
+    },
+    {
+      "id": "T059",
+      "timeline": "forecast / current life",
+      "kind": "cultivation deadline",
+      "event": "Peak stage",
+      "constraint": "Fang Zheng alreadypeak; Fang Yuan stillupper and predictspeak in10–15days.",
+      "evidence_status": "Distinguish refinedpeak essence from actualpeak cultivation; prediction not completion.",
+      "dependency": "Full-corpus reconciliation remains outstanding.",
+      "sources": [
+        {
+          "chapter": 80,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter88.html",
+          "text": "“蛊师修为越高，战斗力越强，就体现在真元上面。越高阶，真元的颜色越深，越是耐用。不过我这的墨绿真元，是在高阶真元的基础上，被酒虫精炼成的。不像方正，如今已经晋升到一转巅峰了。”想到这里，方源目光闪了闪。"
+        },
+        {
+          "chapter": 80,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter88.html",
+          "text": "他是晋升高阶的第一位学员，不久前，又第一个晋升到一转巅峰，再一次将同龄人甩在身后。甲等资质的光彩，在他身上开始绽放。"
+        },
+        {
+          "chapter": 80,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter88.html",
+          "text": "“我距离巅峰也不远了，最迟十天半个月吧。说起来我每天也从未停止过温养空窍，只是丙等资质实在没有办法和甲等、乙等相提并论。同时，还有另一个原因……”方源想到这里，咧开了嘴，发出无声的苦笑。"
+        }
+      ]
+    },
+    {
+      "id": "T060",
+      "timeline": "current life",
+      "kind": "school-year / elapsed duration",
+      "event": "Graduation chronology",
+      "constraint": "Nearwinter→winter final cultivation test→nextday tournament; academic year repeatedly described as a year.",
+      "evidence_status": "Do not equate academic-year labels with12elapsed months; explicit fullness remains queried.",
+      "dependency": "SR-039 and SR-032.",
+      "sources": [
+        {
+          "chapter": 81,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter89.html",
+          "text": "“说起来，已经快要入冬。我在学堂中，已经快满一年了。每届学员都有两项重大考核，第一项是年中考核，内容每届不同。第二项是年末考核，内容不变，都是擂台战。擂台战之后，我就不能再居住在学堂宿舍，必须搬出来。”"
+        },
+        {
+          "chapter": 81,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter89.html",
+          "text": "时间匆匆，秋去冬来。"
+        },
+        {
+          "chapter": 81,
+          "paragraph": 40,
+          "file": "OEBPS/Text/chapter89.html",
+          "text": "学堂家老大声道：“转眼间一年结束了，这一年里你们在学堂中受到训练，已经初步具备了蛊师的素质。明天，就是年末擂台考，将检验你们的学习成果！届时，不仅族长和几位家老大人都将亲临现场，同时还有你们的前辈，你们的学长旁观考察，挑选出表现优异的人，吸纳进不同的小组。”"
+        },
+        {
+          "chapter": 82,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter90.html",
+          "text": "雪后自是晴空。"
+        },
+        {
+          "chapter": 85,
+          "paragraph": 3,
+          "file": "OEBPS/Text/chapter93.html",
+          "text": "“方源太凶残了，勒索我们的元石整整一年！现在把他的亲弟弟都成这个样子。”学员们咬牙切齿，方源如今的冷酷，激发了他们的同仇敌忾。"
+        },
+        {
+          "chapter": 87,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter95.html",
+          "text": "少年们在学堂学满了一年，出来之后，才有资格如此穿戴。"
+        }
+      ]
+    },
+    {
+      "id": "T061",
+      "timeline": "current life",
+      "kind": "private teaching retrospect",
+      "event": "Tuition duration",
+      "constraint": "Ch84 says1year; lessons began afterJia inquiry; winter gift/tusk recaps sayhalfyear.",
+      "evidence_status": "Separate privateinstruction start from academyentry.",
+      "dependency": "SR-040.",
+      "sources": [
+        {
+          "chapter": 58,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter66.html",
+          "text": "“那就让他们翻不了身！”古月博冷哼一声，流露出一丝上位者的大气和冷酷，“这点挫折算什么？比死亡更可怕吗？有家中长辈的扶持，心气劲还存不住，就说明根本不是璞玉，也就没有培养的价值。家族每年都有新的学员进入学堂，此届不成，还有下一届。至于古月方正……从明晚开始，我会暗中亲自指导他。”"
+        },
+        {
+          "chapter": 81,
+          "paragraph": 93,
+          "file": "OEBPS/Text/chapter89.html",
+          "text": "半年前，古月博交给他一只玉皮蛊，让他成为晋升二转的第一人。他做到了！"
+        },
+        {
+          "chapter": 84,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter92.html",
+          "text": "哼，拥有五百年战斗经验的方源，又岂是被一个四转蛊师教导一年的方正所能媲美的？"
+        },
+        {
+          "chapter": 86,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter94.html",
+          "text": "“半年前，我冒着风险，利用野猪牙营造出来的第二层保护伞，已经开始发挥作用了。”方源的双眸深幽如潭。"
+        }
+      ]
+    },
+    {
+      "id": "T062",
+      "timeline": "current life",
+      "kind": "age / New Year",
+      "event": "Fifteen to sixteen",
+      "constraint": "Fifteen at exam; aunt already16 versus FYafterNewYear16; later16 at inheritance.",
+      "evidence_status": "Do not invent exactbirthday. Samechapter mismatch retained.",
+      "dependency": "SR-042.",
+      "sources": [
+        {
+          "chapter": 86,
+          "paragraph": 30,
+          "file": "OEBPS/Text/chapter94.html",
+          "text": "“没有其他蛊虫，难道方源真的是单凭自身的力气，徒手将玉皮蛊的防御打破的？这样的力气，已经超越了成年凡人。他只不过是十五岁，力气能有这样大？”学堂家老双眼中闪过一抹疑惑的光。"
+        },
+        {
+          "chapter": 90,
+          "paragraph": 7,
+          "file": "OEBPS/Text/chapter98.html",
+          "text": "舅母咬牙，神色有些惊慌失措：“这个养不熟的小狼崽子，如今已经十六岁了。要是他有要求家产，我们不能不给啊。当年我们得到的家产，笔笔都在内务堂都明确登记着，也不能赖账。这可怎么办？！”"
+        },
+        {
+          "chapter": 90,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter98.html",
+          "text": "“过了年后，我就是十六岁，有资格分家。双亲已死，弟弟已经重新认了新父母，只要成功，遗产就都是我的。但是要拿回这遗产，这过程得分两步，每一步都大有关隘。”"
+        },
+        {
+          "chapter": 101,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter109.html",
+          "text": "“只是丙等资质，就已经在十六岁突破到二转，真是出人意料。真不知道他是如何冲击成功的。不过……这样快的速度，大部分也归功于酒虫吧。可惜酒虫到了二转，就不能使用了。”"
+        },
+        {
+          "chapter": 104,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter112.html",
+          "text": "方源用目光打量着方正，索性直接道：“我可爱的弟弟，如果我执意不还，那你又能怎样呢？你虽然也是十六岁，但别忘了，你已经认了他们俩为父母，你已经丧失了继承家产的资格。”"
+        }
+      ]
+    },
+    {
+      "id": "T063",
+      "timeline": "current life",
+      "kind": "healing / recovery",
+      "event": "Fist injuries",
+      "constraint": "Wounds close immediately; weakness persists7–8days.",
+      "evidence_status": "Function recovery differs from closure; first mission3dayslater does not prove fullstrength restored.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 86,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter94.html",
+          "text": "指骨上，裂纹在迅速愈合。绽开的皮肉也在快速地生长，痊愈。"
+        },
+        {
+          "chapter": 86,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter94.html",
+          "text": "这就是这个世界的神奇之处。现在方源的双手已经痊愈，只是双手活动、虚抓的时候，十分软弱无力。七八天后，这种无力的轻微后遗症也会消失。"
+        },
+        {
+          "chapter": 87,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter95.html",
+          "text": "三天后。"
+        }
+      ]
+    },
+    {
+      "id": "T064",
+      "timeline": "current life",
+      "kind": "clock / travel",
+      "event": "First mission and lodging",
+      "constraint": "Exam+3days;30minute outwardrun;1hour collection; returnafternoon; housesearchuntilnight;30minute rental agreement.",
+      "evidence_status": "Narrated local clocks, not whole-day travel assumptions.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 87,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter95.html",
+          "text": "三天后。"
+        },
+        {
+          "chapter": 88,
+          "paragraph": 19,
+          "file": "OEBPS/Text/chapter96.html",
+          "text": "半个小时之后，角三忽然停下了脚步，已经到达了目的地。"
+        },
+        {
+          "chapter": 88,
+          "paragraph": 31,
+          "file": "OEBPS/Text/chapter96.html",
+          "text": "“好了，都打起精神来。”角三手指向前方，“这个小型山谷就是我们的目的地。里面有大量的腐泥冻土可以采集。我们就此分开，采集冻土，一个小时之后在这里集合。空井，现在分发工具。”"
+        },
+        {
+          "chapter": 88,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter96.html",
+          "text": "然而一个小时之后，当他们看到方源满载而归，盛满了整整一盒子的腐泥冻土时，都傻眼了。"
+        },
+        {
+          "chapter": 88,
+          "paragraph": 70,
+          "file": "OEBPS/Text/chapter96.html",
+          "text": "回到山寨，已经是下午。"
+        },
+        {
+          "chapter": 89,
+          "paragraph": 46,
+          "file": "OEBPS/Text/chapter97.html",
+          "text": "一直到天色灰暗，方源都没有决定下来租哪套屋子。"
+        },
+        {
+          "chapter": 90,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter98.html",
+          "text": "半个小时，他定了租房协议，被房东带到二楼的一间房里。"
+        }
+      ]
+    },
+    {
+      "id": "T065",
+      "timeline": "current life",
+      "kind": "breakthrough mechanism",
+      "event": "Resource-fed RevolutionTwo breakthrough",
+      "constraint": "4–5days expected; interruption of15minutes permits crystalwall fullrecovery.",
+      "evidence_status": "Capacity44 does not become55; sustained replenishment is explicit exception to ordinary burst requirement.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 90,
+          "paragraph": 70,
+          "file": "OEBPS/Text/chapter98.html",
+          "text": "“要冲破晶膜，达到二转，不算特殊情况，一般至少需要五成五的墨绿真元。而我资质有限，最多只有四成四。所以人们常说，资质是蛊师修行第二重点！”"
+        },
+        {
+          "chapter": 91,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter99.html",
+          "text": "“我的真元最多只有四成四，冲击窍壁，底蕴不足。但我若是一边冲击，一边吸收真元，坚持一段时间，最多四五天，就能将窍壁冲破！”"
+        },
+        {
+          "chapter": 91,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter99.html",
+          "text": "但是这一次，为了避免真元过早消耗，没有余力维持裂纹，使得窍壁恢复，方源故意放缓了冲击力度。"
+        },
+        {
+          "chapter": 91,
+          "paragraph": 59,
+          "file": "OEBPS/Text/chapter99.html",
+          "text": "最多停止一刻钟，没有再无真元继续冲击的话，晶膜就会全部复原。"
+        }
+      ]
+    },
+    {
+      "id": "T066",
+      "timeline": "current life",
+      "kind": "day count / retrospective wording",
+      "event": "Four days cultivation then sleep",
+      "constraint": "Firstmorningshopping; nextdaynoonsearch; third-daysearch; fourth-daybreakthrough; wake nextafternoon; fifthdayexit but five-days-ago recaps.",
+      "evidence_status": "Distinguish inclusive day labels from elapsed days; low-level possible off-by-one remains open.",
+      "dependency": "Do not add a sixthday solely to force every phrase into elapsed24hour units.",
+      "sources": [
+        {
+          "chapter": 91,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter99.html",
+          "text": "一夜未睡，天一亮，方源就出了门，大肆采办东西。"
+        },
+        {
+          "chapter": 91,
+          "paragraph": 66,
+          "file": "OEBPS/Text/chapter99.html",
+          "text": "到了第二天的中午时分，他们的搜查终于有了成果。"
+        },
+        {
+          "chapter": 92,
+          "paragraph": 26,
+          "file": "OEBPS/Text/chapter100.html",
+          "text": "然而到了第三天，方源并没有出现。"
+        },
+        {
+          "chapter": 92,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter100.html",
+          "text": "第四天。"
+        },
+        {
+          "chapter": 92,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter100.html",
+          "text": "这都是方源连续三天三夜，不眠不休的努力成果。最多也只是，在熬不住的情况下，快速地吃了一次饭，解决一下排泄问题。"
+        },
+        {
+          "chapter": 92,
+          "paragraph": 47,
+          "file": "OEBPS/Text/chapter100.html",
+          "text": "“连续四天三夜不停的修炼，强度很大，身体有些承受不住了。”方源苦笑了一下，缓缓地躺倒下来，“修行过程中没有受到干扰，看来在租房布置的那套，已经起了作用。花的这笔钱还是值得的。接下来好好休息一夜，明天就回山寨。”"
+        },
+        {
+          "chapter": 92,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter100.html",
+          "text": "这一觉，足足睡到第二天的下午。"
+        },
+        {
+          "chapter": 92,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter100.html",
+          "text": "他推开房门，五天来，第一次走出这个房间。"
+        },
+        {
+          "chapter": 92,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter100.html",
+          "text": "早在五天前，他故意问了房东，给角三等人留下了煤石的线索之后，他就出了山寨，直接来到山脚下的村庄。"
+        },
+        {
+          "chapter": 92,
+          "paragraph": 70,
+          "file": "OEBPS/Text/chapter100.html",
+          "text": "他心中十分惊奇，五天前方源忽然找上门来，阐明来意时，他心中其实有些不屑。"
+        }
+      ]
+    },
+    {
+      "id": "T067",
+      "timeline": "current life",
+      "kind": "location / misdirection",
+      "event": "Decoy room and actual retreat",
+      "constraint": "Rental furnishings and note mislead searchers; actual retreat atJiangHe house in village.",
+      "evidence_status": "Room-setting reveal is intentional, not teleportation or double occupancy.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 92,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter100.html",
+          "text": "房东的脸色顿时好看多了：“如果租这个房子的少年，就是你们要找的人，那么他已经一天没有回来了。他缴纳了一个月的房租，在昨天早上采办了大量的东西，又问了我煤石哪里买比较便宜。我告诉他不用买，山寨外东头有个山谷，那里的有个裸矿，可以直接挖掘。他谢了我一声就去了，再之后，就没有回来。”"
+        },
+        {
+          "chapter": 92,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter100.html",
+          "text": "他推开房门，五天来，第一次走出这个房间。"
+        },
+        {
+          "chapter": 92,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter100.html",
+          "text": "此人双眼细长，身形瘦削，正是江牙的哥哥江鹤。"
+        },
+        {
+          "chapter": 92,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter100.html",
+          "text": "早在五天前，他故意问了房东，给角三等人留下了煤石的线索之后，他就出了山寨，直接来到山脚下的村庄。"
+        },
+        {
+          "chapter": 92,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter100.html",
+          "text": "因为之前王老汉一家的关系，江鹤成了他的半个盟友。正是利用了这层关系，方源这几天来住在村里，没有受到干扰，成功冲击到了二转。"
+        }
+      ]
+    },
+    {
+      "id": "T068",
+      "timeline": "current life / forecast",
+      "kind": "cycle and expected event",
+      "event": "Wolf tide timing",
+      "constraint": "Largewave every3years; nextyear forecast; Ch97 says1yearlater. Electricwolves appear early in minorwave.",
+      "evidence_status": "Do not substitute minorwave for mainwolf catastrophe; exactfutureinterval awaiting occurrence.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 93,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter101.html",
+          "text": "拿青茅山来讲，每隔三年，都会有一股大型的狼潮，冲击各大山寨。"
+        },
+        {
+          "chapter": 93,
+          "paragraph": 23,
+          "file": "OEBPS/Text/chapter101.html",
+          "text": "“按照时间推算，真正的狼潮爆发，应该在明年。然而现在的这股小型兽潮，其根源还是在这上面。狼群不断发展壮大，这就将周边的其他兽群的生活空间不断地压缩。日积月累，达到某种极限之后，就会发生兽群的迁移。迁移的兽群，自然又会影响到其他的兽群。”"
+        },
+        {
+          "chapter": 95,
+          "paragraph": 87,
+          "file": "OEBPS/Text/chapter103.html",
+          "text": "“竟然第一次兽潮中就出现了电狼群，这属于一种意外，家族方面一定会派遣援兵。野猪王身躯巨大，电狼要吞吃到内部，还需要一段时间。我只要能坚持一段时间，就能幸免。”"
+        },
+        {
+          "chapter": 97,
+          "paragraph": 32,
+          "file": "OEBPS/Text/chapter105.html",
+          "text": "以往的小兽潮，虽然也有损失，但是绝对没有这么严重。原因就在于电狼群。若放在先前，至少得三波小兽潮之后，才会出现这些点狼群。"
+        },
+        {
+          "chapter": 97,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter105.html",
+          "text": "小兽潮还只是前奏，真正可怕的是一年之后的大型狼潮。到那时，有成千上万的电狼冲击山寨，还有实力恐怖的雷冠头狼。"
+        }
+      ]
+    },
+    {
+      "id": "T069",
+      "timeline": "current life",
+      "kind": "battle clocks",
+      "event": "Beast wave evening",
+      "constraint": "Poisonfight5minutes; reinforcements10minutes; JiaoSan first presumeddead, then seenmoving, then killed.",
+      "evidence_status": "Premature inference corrected within scene, not resurrection.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 95,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter103.html",
+          "text": "五分钟之后，野猪王扑通一声，倒在了地上。"
+        },
+        {
+          "chapter": 96,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter104.html",
+          "text": "仅仅十分钟之后，方源在猪腹中听到外面打斗的声音，以及电狼呜咽的惨叫。"
+        },
+        {
+          "chapter": 96,
+          "paragraph": 51,
+          "file": "OEBPS/Text/chapter104.html",
+          "text": "他看到了空井和角三的尸体。"
+        },
+        {
+          "chapter": 96,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter104.html",
+          "text": "“这样一来，我身边的掣肘就少了一些……咦？”方源停下脚步，他刚刚看到角三的手指轻轻抽搐了一下。"
+        },
+        {
+          "chapter": 96,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter104.html",
+          "text": "死了。"
+        }
+      ]
+    },
+    {
+      "id": "T070",
+      "timeline": "current life",
+      "kind": "administrative intervals",
+      "event": "Inquiry and inheritance mission",
+      "constraint": "Three days afterwave: hourlong questioning; toldreturn3dayslater for mission.",
+      "evidence_status": "Bribe explains imposed delay. Missiondelivery follows transition; exact intervening clock not supplied.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 97,
+          "paragraph": 7,
+          "file": "OEBPS/Text/chapter105.html",
+          "text": "侦讯已经持续了一个小时。"
+        },
+        {
+          "chapter": 97,
+          "paragraph": 19,
+          "file": "OEBPS/Text/chapter105.html",
+          "text": "这已经是方源叙述的第五遍，三位家老一边听着，一边眉头皱着。"
+        },
+        {
+          "chapter": 97,
+          "paragraph": 30,
+          "file": "OEBPS/Text/chapter105.html",
+          "text": "距离小兽潮，已经过去了三天。"
+        },
+        {
+          "chapter": 97,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter105.html",
+          "text": "离开这侦讯室，方源却没有直接离开内务堂，而是申请了分家任务，结果被告知最近事务繁忙，三天后再来接取。"
+        },
+        {
+          "chapter": 98,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter106.html",
+          "text": "“的确是这样的。我虽然收了你的元石，但是也不好阻拦他，只能告诉他三天后来取任务。帮你拖延这么多天，已经是我所能做到的极限了。”坐在一旁的中年男蛊师说道。"
+        },
+        {
+          "chapter": 98,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter106.html",
+          "text": "“采集蜜酒？”方源接到这个家产任务，眼中寒芒一闪。"
+        }
+      ]
+    },
+    {
+      "id": "T071",
+      "timeline": "current life / Cicada",
+      "kind": "seasonal cycle",
+      "event": "Cicada recovery",
+      "constraint": "Near1yearrest; onecycle ofspring/autumn invoked.",
+      "evidence_status": "Seasonal interpretation is Fang Yuan’s emerging understanding, not established fixed365daycooldown.",
+      "dependency": "SR-039; later recovery and time-flow evidence.",
+      "sources": [
+        {
+          "chapter": 99,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter107.html",
+          "text": "通过近一年的休养沉眠，它已经有了起色。"
+        },
+        {
+          "chapter": 99,
+          "paragraph": 9,
+          "file": "OEBPS/Text/chapter107.html",
+          "text": "“春秋蝉，春秋……原来如此，它要恢复，就得历经春天和秋天。重生以来，过去一年，也就是一轮春秋，所以有了恢复。”"
+        },
+        {
+          "chapter": 99,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter107.html",
+          "text": "蛊师炼蛊、养蛊、用蛊，其中的“用”，分门别类，包含万千。方源和春秋蝉朝夕相处，对春秋蝉的理解在慢慢地积累中，不断地加深。"
+        }
+      ]
+    },
+    {
+      "id": "T072",
+      "timeline": "prior-life future",
+      "kind": "future discovery",
+      "event": "Fusion knowledge dates",
+      "constraint": "Recipe improved150years later; understanding principle broadlyrecognised300years later.",
+      "evidence_status": "Knowledge from oldtimeline, not current waiting periods.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 99,
+          "paragraph": 45,
+          "file": "OEBPS/Text/chapter107.html",
+          "text": "在此后一百五十年后，有一位蛊师改善了这个秘方，他发现只要添加一颗野猪牙，就能大大地增添合炼的成功率。"
+        },
+        {
+          "chapter": 99,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter107.html",
+          "text": "这点，也是在将来，大约三百年后被广泛认同的真知灼见。"
+        }
+      ]
+    },
+    {
+      "id": "T073",
+      "timeline": "current life",
+      "kind": "rent / loose transition",
+      "event": "Inheritance cash-crunch date",
+      "constraint": ">10days afterfusion; honeycollectedfewdaysago; rentalmonthprepaid butnow2daysarrears.",
+      "evidence_status": "Rent gives additional elapsedconstraint; unquantified preparation/transitions remain open. No invented exact day for fusion.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 92,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter100.html",
+          "text": "房东的脸色顿时好看多了：“如果租这个房子的少年，就是你们要找的人，那么他已经一天没有回来了。他缴纳了一个月的房租，在昨天早上采办了大量的东西，又问了我煤石哪里买比较便宜。我告诉他不用买，山寨外东头有个山谷，那里的有个裸矿，可以直接挖掘。他谢了我一声就去了，再之后，就没有回来。”"
+        },
+        {
+          "chapter": 100,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter108.html",
+          "text": "转眼，就又过去了十多天。"
+        },
+        {
+          "chapter": 100,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter108.html",
+          "text": "水囊鼓鼓的，里面装满了黄金蜜酒。早在几天前，方源就靠着玉皮蛊，顶着黄金蜂的进攻，从蜂巢中采集了足够多的蜜酒。"
+        },
+        {
+          "chapter": 101,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter109.html",
+          "text": "他继续道：“方源，你不是方正，我就打开天窗说亮话。如果你能放弃你继承家产的打算，你就能获得我的友谊，我的人脉关系你都可以利用。同时，我还会补偿你一千块的元石。我知道的，你最近手头拮据，连房租都拖欠两天了吧。”"
+        }
+      ]
+    },
+    {
+      "id": "T074",
+      "timeline": "uncle biography",
+      "kind": "ages / life intervals",
+      "event": "Dong Tu history",
+      "constraint": "15deployment;16Revolution2;17upper;18peak;19attemptRevolution3;20injury;8yearsdespondency;29birthdayreappraisal;30restart;45retirement.",
+      "evidence_status": "Age20injury not fixed to20thbirthday; no automatic8→9repair.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 101,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter109.html",
+          "text": "古月冻土笑了笑，却是换了一个话题：“你知道么，我和不同，我十五岁就出道了。”"
+        },
+        {
+          "chapter": 101,
+          "paragraph": 12,
+          "file": "OEBPS/Text/chapter109.html",
+          "text": "“那时候，正值狼潮，蛊师大量死伤，不得已的情况下，我们这些学员必须要顶上去。我是乙等资质，在十六岁到达二转初阶，十七岁高阶，十八岁巅峰。十九岁时，我已经开始冲击三转。那个时候，我认为自己能在二十岁，晋升到三转蛊师。”"
+        },
+        {
+          "chapter": 101,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter109.html",
+          "text": "“呵呵呵，我太轻狂了，目中无人，总以为自己能做到一切，甚至无所不能，根本不知道天高地厚。就在二十岁那年，我外出执行任务，被一位熊家寨的蛊师击败。当时重伤濒死，亏得药堂家老亲自出手，才捡回一条命。但自那之后，我的资质废了，落到了丙等，我一蹶不振了整整八年。”"
+        },
+        {
+          "chapter": 101,
+          "paragraph": 14,
+          "file": "OEBPS/Text/chapter109.html",
+          "text": "“在我二十九的生日那天，我开始重新审视自己以及这个世界。我发现，一个人的力量终究是有限的。纵然我晋升三转又如何呢？人生活在这个社会上，最重要的不是个人实力，而是与其他人的交际关系。”"
+        },
+        {
+          "chapter": 101,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter109.html",
+          "text": "“我从三十岁开始重新起步，四十五时退居二线。期间数十次，被百位蛊师联名上书，要推举我为家老。我虽然只有二转巅峰的修为，终身也不能跨出那一步，但是也没有必要了。我已经取得了成功，族人称呼我为‘隐家老’。绝大多数的同龄人都已经死去，而我却活得很安稳。对于那些在外打拼的蛊师，我的影响力仍旧存在。”"
+        }
+      ]
+    },
+    {
+      "id": "T075",
+      "timeline": "current life",
+      "kind": "transfer / relative poverty",
+      "event": "Inheritance handed over",
+      "constraint": "Submission→3dayslatertransfer; later sayspoor daybeforeyesterday.",
+      "evidence_status": "Can remainpoor duringprocessing; not automatically3days→2days mismatch.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 102,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter110.html",
+          "text": "“好了，你的任务完成了，已经可以继承家产。只是，你双亲的这些遗产，目前都被你的舅父舅母掌管着。内务堂会替你索回，三日后你再来吧。”片刻之后，中年男蛊师道。"
+        },
+        {
+          "chapter": 102,
+          "paragraph": 47,
+          "file": "OEBPS/Text/chapter110.html",
+          "text": "三天之后，方源从内务堂走了出来，手中拿着一叠的房契、地契、卖身契。"
+        },
+        {
+          "chapter": 103,
+          "paragraph": 59,
+          "file": "OEBPS/Text/chapter111.html",
+          "text": "就在前天，他还只是一个两手空空，身上元石不足五块的落魄穷小子。如今却一下子跻身到族中小富豪的行列。"
+        }
+      ]
+    },
+    {
+      "id": "T076",
+      "timeline": "prior life / conditional future",
+      "kind": "forecasts and proposed contract",
+      "event": "Qing Shu and LiquorWorm offer",
+      "constraint": "QingShu diedinpriorlifewave1yearlater; offered5yearuse ofSevenFragranceGu conditionalonfuturefusion; neveraccepted. PriorRevolution2plateau>100years.",
+      "evidence_status": "Separate oldbranch death, presentforecast and unrealisedcontract.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 105,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter113.html",
+          "text": "可惜的是，在一年后的狼潮中，北大门失陷。他为了堵住这个缺口，保护族人不受伤害，挺身而出。最终，他以二转修为强行催动三转蛊虫，一夫当关万夫莫开，成功守住了山寨。"
+        },
+        {
+          "chapter": 105,
+          "paragraph": 26,
+          "file": "OEBPS/Text/chapter113.html",
+          "text": "“方源啊，如果你不想贩卖酒虫，那么我们可以换另一种交易方法。你将酒虫卖给家族，家族若成功地合炼出了七香酒虫，那么你就有五年的使用权。如果失败，家族还会另给你一笔补偿。你看如何？”"
+        },
+        {
+          "chapter": 105,
+          "paragraph": 30,
+          "file": "OEBPS/Text/chapter113.html",
+          "text": "以他四成四的丙等资质，晋升三转，几乎不可能。前世方源卡在这儿上百年，最终机缘巧合，得到了一只提升资质的蛊虫，这才成了三转蛊师。"
+        }
+      ]
+    },
+    {
+      "id": "T077",
+      "timeline": "current life",
+      "kind": "fusion recovery interval",
+      "event": "Moonglow attempts",
+      "constraint": "One day aftermeeting firstattemptfails; ≥3daysrecoveryestimated;3dayslater succeeds.",
+      "evidence_status": "Do not call secondattempt immediate or firsttry success.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 106,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "一天之后。"
+        },
+        {
+          "chapter": 106,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "合炼月芒蛊失败了！"
+        },
+        {
+          "chapter": 106,
+          "paragraph": 24,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "他估算了一下时间，至少三天后，才能再次进行合炼。"
+        },
+        {
+          "chapter": 106,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "三天之后。"
+        },
+        {
+          "chapter": 106,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "这一次，方源合炼成功了。"
+        }
+      ]
+    },
+    {
+      "id": "T078",
+      "timeline": "current life",
+      "kind": "season / calendar",
+      "event": "Spring and March caravan",
+      "constraint": "Winterends→spring; firstmeetingJiangYa recalled1yearearlier; Marchcaravan; ceremonydayaftertomorrow then tomorrowinshopscene.",
+      "evidence_status": "Shopping daynotexplicitly anchored: couldbearrival+1. Preserveopenboundaryquery ratherthan force eitherrelativeword.",
+      "dependency": "SR-050 now carries the ceremony query. SR-047 withdrawn; SR-054 separately tracks seasonal labels.",
+      "sources": [
+        {
+          "chapter": 107,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter115.html",
+          "text": "不知不觉，冬天已过，春天到来。"
+        },
+        {
+          "chapter": 107,
+          "paragraph": 25,
+          "file": "OEBPS/Text/chapter115.html",
+          "text": "就在一年之前，也是春天，他第一次见到方源，那时方源还只是学堂的一介学员，连蛊师的武服都没有资格穿着。"
+        },
+        {
+          "chapter": 109,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter117.html",
+          "text": "三月。"
+        },
+        {
+          "chapter": 109,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter117.html",
+          "text": "“哦，这可是个好消息。”古月博目光一闪，又接着道，“正巧后天就是我族的开窍大典，邀请贾老弟观礼。”"
+        },
+        {
+          "chapter": 110,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter118.html",
+          "text": "少女的双眼泛着亮彩，摇晃着身旁奶奶的手臂：“奶奶，明天就是开窍大典了，你不是答应过我，要送我一个礼物的吗？不如你就买了这只酒虫送给我吧。”"
+        }
+      ]
+    },
+    {
+      "id": "T079",
+      "timeline": "current life historical recollection",
+      "kind": "flashback / convalescence",
+      "event": "Man Shi and Bai Ning Bing",
+      "constraint": "Encounter2yearsago: BaiNingBingRevolution2 butcapablekillingRevolution3. Currentdefeat followedby3daysrecoveryperrumour.",
+      "evidence_status": "Historicalexception and reportedrecovery distinctfrompresentcombatclock.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 108,
+          "paragraph": 108,
+          "file": "OEBPS/Text/chapter116.html",
+          "text": "两年前，月夜竹林。"
+        },
+        {
+          "chapter": 108,
+          "paragraph": 117,
+          "file": "OEBPS/Text/chapter116.html",
+          "text": "这个白衣少年，不是别人，正是白家寨第一天才白凝冰。当时的他还只是二转，却已经能斩杀三转的家老！"
+        },
+        {
+          "chapter": 108,
+          "paragraph": 119,
+          "file": "OEBPS/Text/chapter116.html",
+          "text": "两年来，白凝冰的面容已经在他的记忆中模糊一片了，他唯一记得的是他的那双眼睛。"
+        },
+        {
+          "chapter": 109,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter117.html",
+          "text": "“这是个疯子，行事狠辣。据说古月蛮石败走后，躺在床上足足修养了三天！”"
+        }
+      ]
+    },
+    {
+      "id": "T080",
+      "timeline": "current life",
+      "kind": "auction clocks",
+      "event": "Caravan sale timing",
+      "constraint": "Revolution1halfday,Revolution2oneday,Revolution3twodays fromfirstbid; caravan8days; seventhdayRelic.",
+      "evidence_status": "Display/bid/award/use are distinct.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 111,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter119.html",
+          "text": "树屋中的一转蛊虫，只要是被投了价格的，每一只在柜台上摆放的时间，都只有半天。无人问津的蛊虫，则仍旧摆放着，直到有人投价。"
+        },
+        {
+          "chapter": 111,
+          "paragraph": 14,
+          "file": "OEBPS/Text/chapter119.html",
+          "text": "二转蛊虫，会摆放一天。三转蛊虫则是两天。"
+        },
+        {
+          "chapter": 111,
+          "paragraph": 73,
+          "file": "OEBPS/Text/chapter119.html",
+          "text": "此后连续三天，他多次来到树屋。"
+        },
+        {
+          "chapter": 111,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter119.html",
+          "text": "这些蛊虫都在普通柜台上展出，行情并不好，没有多少人购买。方源又打听到这次商队将要停留长达八天的时间，所以他一直耐心地等待着，并不着急。"
+        },
+        {
+          "chapter": 111,
+          "paragraph": 80,
+          "file": "OEBPS/Text/chapter119.html",
+          "text": "一直到了第七天。"
+        },
+        {
+          "chapter": 113,
+          "paragraph": 67,
+          "file": "OEBPS/Text/chapter121.html",
+          "text": "方源连道惭愧，接过贾富递来的令牌信物，同时还有那只赤铁舍利蛊。"
+        }
+      ]
+    },
+    {
+      "id": "T081",
+      "timeline": "current life",
+      "kind": "ceremony query",
+      "event": "YaoLe prospective wording",
+      "constraint": "109dayaftertomorrow/110tomorrow versus113seventhdayprospective awakening;123currentyearnewcomer.",
+      "evidence_status": "Speakerinformationmaybestale; exactscene-boundaryopen.",
+      "dependency": "SR-050.",
+      "sources": [
+        {
+          "chapter": 109,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter117.html",
+          "text": "“哦，这可是个好消息。”古月博目光一闪，又接着道，“正巧后天就是我族的开窍大典，邀请贾老弟观礼。”"
+        },
+        {
+          "chapter": 110,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter118.html",
+          "text": "少女的双眼泛着亮彩，摇晃着身旁奶奶的手臂：“奶奶，明天就是开窍大典了，你不是答应过我，要送我一个礼物的吗？不如你就买了这只酒虫送给我吧。”"
+        },
+        {
+          "chapter": 113,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter121.html",
+          "text": "“不错，我也听说了。药姬大人的孙女古月药乐今年要参加开窍大典，看来药姬大人是未雨绸缪，想给孙女铺路。”"
+        },
+        {
+          "chapter": 123,
+          "paragraph": 74,
+          "file": "OEBPS/Text/chapter131.html",
+          "text": "青书摸摸鼻子，不禁苦笑：“方源，这事情比你想象中的要复杂。古月药乐你知道吗？她是药堂家老古月药姬的孙女，今年的学堂新生，有着乙等资质。古月药姬十分疼爱这个孙女，曾经在树屋中竞价过一只酒虫，可惜没有成功。”"
+        }
+      ]
+    },
+    {
+      "id": "T082",
+      "timeline": "current life",
+      "kind": "duration and negotiation",
+      "event": "Return home and inheritance sale",
+      "constraint": "About1yearaway; negotiation>2hours;2–3yearpaybackisbuyerforecast.",
+      "evidence_status": "Ch90hasnoaunt/FYface-to-facemeeting. Earlierworkingfalsealarmwithdrawn.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 90,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter98.html",
+          "text": "舅父打破沉寂：“不想这方源，真的是死心踏地地要和我作对啊。唉，原本是想好言相劝，想稳住他，让他先住在家中，再找理由将他逐出家门。没想到那小崽子居然不上当！他是铁了心，居然一口拒绝我的邀请，一点商量的余地都没有！连我这个门槛都不跨进一步！”"
+        },
+        {
+          "chapter": 90,
+          "paragraph": 18,
+          "file": "OEBPS/Text/chapter98.html",
+          "text": "在拒绝了沈嬷嬷后，方源不顾角三等人的挽留，辞别了众人，独自行动。"
+        },
+        {
+          "chapter": 112,
+          "paragraph": 23,
+          "file": "OEBPS/Text/chapter120.html",
+          "text": "时隔一年，他再次来到这里。"
+        },
+        {
+          "chapter": 112,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter120.html",
+          "text": "一年不见，舅母那一张黄脸，虽然充满了愤怒和狰狞，却难以掩盖她的憔悴。"
+        }
+      ]
+    },
+    {
+      "id": "T083",
+      "timeline": "forecast / prior comparison",
+      "kind": "future dates",
+      "event": "Wolf tide and investigator",
+      "constraint": "Marchcaravan forecastsnextyearwave; TieXueLengexpectedyearafter next.",
+      "evidence_status": "Relativeyearsanchoredtospeakerdate,notalltofirstJiamurder.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 111,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter119.html",
+          "text": "“我现在缺少两只蛊虫，一只用于侦察，一只辅助移动。来年青茅山上就会爆发狼潮，商队不会再来了。虽说有着花酒行者的遗藏，但那毕竟是花酒行者受伤之后，仓促留下的东西。谁知道完整不完整，接下来会有什么蛊虫？”"
+        },
+        {
+          "chapter": 112,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter120.html",
+          "text": "一年之后，就是狼潮。记忆中，在狼群的围攻之下，古月山寨几次都是摇摇欲坠，最凶险的一次，连大门都被破开。族长和一众家老牵制雷冠头狼，古月青书用自己的生命，堵住大门，这才堪堪稳住局面。"
+        },
+        {
+          "chapter": 113,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter121.html",
+          "text": "“哦，是这样啊。”贾富目光一闪，“小兄弟可能对我有些误会。一年前，我的确怀疑过你，但是用了那只竹君子之后，小兄弟你的嫌疑已经洗尽了。贾金生是我的弟弟，他死了我什么心情希望你能理解。再告诉你一个好消息，我已经请动了神捕铁血冷。在他的眼里，从来就没有解不开的谜案。我相信他一定能调查出真相，到那时就能还小兄弟你一个公道了。”"
+        },
+        {
+          "chapter": 113,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter121.html",
+          "text": "“这个……”贾富尴尬地笑了一下，“神捕事务繁忙，按照他的回信，恐怕要到后年了。”"
+        }
+      ]
+    },
+    {
+      "id": "T084",
+      "timeline": "current life",
+      "kind": "advancement",
+      "event": "Relic purchase precedes use",
+      "constraint": "Caravan+3daysstillinitial;115promotesmiddle,additional~15minutesbenefit;30minuteslaterforest.",
+      "evidence_status": "Do notadvancecultivationatpurchase.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 114,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter122.html",
+          "text": "商队离开山寨的三天后。"
+        },
+        {
+          "chapter": 114,
+          "paragraph": 90,
+          "file": "OEBPS/Text/chapter122.html",
+          "text": "“二转初阶的真元太不经用。看来是时候，用了那只赤铁舍利蛊了。”方源深深地看了一眼那个石洞，然后退回到第二密室，关上了石门。"
+        },
+        {
+          "chapter": 115,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter123.html",
+          "text": "这一刻，方源晋升中阶！"
+        },
+        {
+          "chapter": 115,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter123.html",
+          "text": "这个过程，又持续了一刻钟左右。"
+        },
+        {
+          "chapter": 115,
+          "paragraph": 21,
+          "file": "OEBPS/Text/chapter123.html",
+          "text": "赤铁舍利蛊彻底消耗了所有的底蕴，它的身躯变得透明，然后彻底消失在红光当中。"
+        },
+        {
+          "chapter": 115,
+          "paragraph": 30,
+          "file": "OEBPS/Text/chapter123.html",
+          "text": "到达中阶之后，方源又取出几块元石，快速补充真元。直到将空窍中的真元海，全部积蓄成四成四的中阶绯红真元，他这才罢休。"
+        },
+        {
+          "chapter": 115,
+          "paragraph": 31,
+          "file": "OEBPS/Text/chapter123.html",
+          "text": "半个小时之后，他再次踏入石林，深入中央地带。"
+        }
+      ]
+    },
+    {
+      "id": "T085",
+      "timeline": "current life",
+      "kind": "season and retrospective event",
+      "event": "Spring to July",
+      "constraint": "116spring/summertransitionthenJulyearlyautumn; rankdiscovered1dayaftermonkeykill isretrospective.",
+      "evidence_status": "Do notplacepromotiondiscoveryafterallofsummer.",
+      "dependency": "SR-054; SR-047withdrawal.",
+      "sources": [
+        {
+          "chapter": 116,
+          "paragraph": 81,
+          "file": "OEBPS/Text/chapter124.html",
+          "text": "时间匆匆，春夏交替。"
+        },
+        {
+          "chapter": 116,
+          "paragraph": 82,
+          "file": "OEBPS/Text/chapter124.html",
+          "text": "不知不觉间，又到了炎炎夏日。"
+        },
+        {
+          "chapter": 116,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter124.html",
+          "text": "他没有特殊蛊虫，中阶的气息是隐藏不住的。在斩杀了石猴王，获得隐石蛊的一天之后，他的修为就被人发现。"
+        },
+        {
+          "chapter": 116,
+          "paragraph": 90,
+          "file": "OEBPS/Text/chapter124.html",
+          "text": "七月，初秋。"
+        },
+        {
+          "chapter": 117,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter125.html",
+          "text": "时值初秋，天气渐渐地凉爽起来。"
+        }
+      ]
+    },
+    {
+      "id": "T086",
+      "timeline": "current life",
+      "kind": "same-day crisis",
+      "event": "River-swallowing toad",
+      "constraint": "Appeared3daysbeforemeeting; ChiShanfails;FYdeploys;toaddeparts;500rewardordered.",
+      "evidence_status": "Toadnotcaptured. AdjacentRenZubranchstorynotelapsedpresenttime.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 117,
+          "paragraph": 3,
+          "file": "OEBPS/Text/chapter125.html",
+          "text": "族长古月博坐在主位上，亦是难掩眼中的忧愁：“三日前，山脚的村庄附近，出现了一头吞江蟾。此蟾似是从黄龙江逆流而上，无意间流落此处。它现在堵住一处河道，睡在里面。若是放任它，山寨就要时刻处在危机当中。在座的诸位家老，有什么良策，能驱赶了此蟾？”"
+        },
+        {
+          "chapter": 119,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter127.html",
+          "text": "“你们知道吗，就在刚刚，家族派遣赤山小组前去山脚，结果失败归来了。”"
+        },
+        {
+          "chapter": 120,
+          "paragraph": 14,
+          "file": "OEBPS/Text/chapter128.html",
+          "text": "大约推了三百多米远，吞江蟾睁开了它朦胧的睡眼。"
+        },
+        {
+          "chapter": 120,
+          "paragraph": 45,
+          "file": "OEBPS/Text/chapter128.html",
+          "text": "吞江蟾吐完这些河鲜，又叫了一声，然后它深深地看了方源一眼，缓缓地转过巨型身躯，沿着河道，向下游而去。"
+        },
+        {
+          "chapter": 120,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter128.html",
+          "text": "“古月方源驱赶吞江蟾有功，破格提升为一组之长，奖五百元石。”古月博沉吟了一番，下了这道饱含深意的命令。"
+        }
+      ]
+    },
+    {
+      "id": "T087",
+      "timeline": "previous-life future / nested narrative",
+      "kind": "JiangFan",
+      "event": "Future legend recalled",
+      "constraint": "JiangFanarises200+yearslater; quota/monthand3months’fishbelongtohisstory.",
+      "evidence_status": "Noapertureopened; do notadd200yearstopresentlife.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 118,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter126.html",
+          "text": "前世的两百多年后，出现了一名极特殊的蛊师——江凡。"
+        },
+        {
+          "chapter": 118,
+          "paragraph": 12,
+          "file": "OEBPS/Text/chapter126.html",
+          "text": "主人家苛刻残暴，完不成每月规定的份额，是要掉脑袋的。江凡不敢禀告上去，不久前就有一人，没有完成份额，禀告了一个正当的原因，结果却被主家当场杀死。"
+        },
+        {
+          "chapter": 118,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter126.html",
+          "text": "转眼之间，这些河鲜就堆成了一座小山。江凡看到这里，狂喜得一蹦三尺高。他大叫道：“我有救了，我有救了！这些鱼鳖，足够我三个月的份额。老蟾啊老蟾，多亏了你呀！”"
+        },
+        {
+          "chapter": 118,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter126.html",
+          "text": "但是他江凡，根本就没有开启空窍，只是一个普通人，却豢养了一头吞江蟾。"
+        },
+        {
+          "chapter": 118,
+          "paragraph": 65,
+          "file": "OEBPS/Text/chapter126.html",
+          "text": "“不知道这一世，因为我的影响，江凡还会不会出现。”回忆结束，方源笑了一笑。"
+        }
+      ]
+    },
+    {
+      "id": "T088",
+      "timeline": "current life",
+      "kind": "forecast versus delay",
+      "event": "Stone forest progress",
+      "constraint": "2days/3pillars,1.5monthexpected;>2monthsactualslowprogress,firstwintersnow.",
+      "evidence_status": "Delayexplicitlycausedbywolfactivityandpatrols.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 122,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter130.html",
+          "text": "“不过才两天时间，就打通了三根石柱。这样的速度，比先前要快了数倍！这么算的话，一个半月后，我就能再次打通通往石林中央的道路了。”方源暗暗寻思着。"
+        },
+        {
+          "chapter": 122,
+          "paragraph": 21,
+          "file": "OEBPS/Text/chapter130.html",
+          "text": "时间匆匆，秋去冬来。"
+        },
+        {
+          "chapter": 122,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter130.html",
+          "text": "初冬，第一场雪。"
+        },
+        {
+          "chapter": 122,
+          "paragraph": 25,
+          "file": "OEBPS/Text/chapter130.html",
+          "text": "“算算时间，已经过去了两个多月，但是我打通石林的进展，却一直不佳。”方源的眉眼中藏着一股阴郁。"
+        },
+        {
+          "chapter": 122,
+          "paragraph": 31,
+          "file": "OEBPS/Text/chapter130.html",
+          "text": "古月山寨为此，调动大量的蛊师，进行清剿。这样一来，来来往往的人多了，其中又有很多的侦察蛊师，这让方源不得不明智地，大量减少前去石缝秘洞的次数。"
+        }
+      ]
+    },
+    {
+      "id": "T089",
+      "timeline": "current life",
+      "kind": "winter calendar",
+      "event": "December to January alliance",
+      "constraint": "Winterintensifies;Decembercasualties;Januarywinterendalliance.",
+      "evidence_status": "NoexactdayorGregorianconversion.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 124,
+          "paragraph": 43,
+          "file": "OEBPS/Text/chapter132.html",
+          "text": "随着时间流逝，冬风越加寒冷。"
+        },
+        {
+          "chapter": 124,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter132.html",
+          "text": "到了十二月，残狼群的数量达到最高峰，这令局势直转而下，达到恶劣的程度。甚至出现了，山脚的一座村庄，被一大股的狼群屠尽的情况。"
+        },
+        {
+          "chapter": 124,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter132.html",
+          "text": "一月，冬末。"
+        },
+        {
+          "chapter": 124,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter132.html",
+          "text": "会盟坡，三寨会盟。"
+        }
+      ]
+    },
+    {
+      "id": "T090",
+      "timeline": "previous-life recollection",
+      "kind": "lifespan accounting",
+      "event": "Five lifespanGu",
+      "constraint": "5×100extension+natural100=potential600;actual500+beforeforcedself-destruction.",
+      "evidence_status": "Potentiallifespanisnotelapsedage.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 126,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter134.html",
+          "text": "这个世界上，人类若无灾无病，最多只能活到一百岁。一百年，是人类寿命的极限。"
+        },
+        {
+          "chapter": 126,
+          "paragraph": 80,
+          "file": "OEBPS/Text/chapter134.html",
+          "text": "百年寿蛊，就是增长百年阳寿。千年寿蛊，就意味着能多活一千年。"
+        },
+        {
+          "chapter": 126,
+          "paragraph": 82,
+          "file": "OEBPS/Text/chapter134.html",
+          "text": "方源前世活了五百多年，就是先后使用了五只百年寿蛊。共增加了五百年的阳寿。本来连着他本来的百年寿岁，可以活到六百岁。但是在中途，遭到正派围攻，不得不自爆身亡了。"
+        }
+      ]
+    },
+    {
+      "id": "T091",
+      "timeline": "previous-life forecast",
+      "kind": "destruction conflict",
+      "event": "QingMao remembered destruction",
+      "constraint": "126two yearslater versus135three yearsafterwolfwave.",
+      "evidence_status": "Samepriorbranchconflict;notcurrentbutterflyeffect.",
+      "dependency": "SR-053; nofinalnumberchosen.",
+      "sources": [
+        {
+          "chapter": 126,
+          "paragraph": 30,
+          "file": "OEBPS/Text/chapter134.html",
+          "text": "但方源正需要这种排斥，他身上的秘密越来越多了，他需要形单影只。同时，这些人也没有结交的价值。记忆里，青茅山三大山寨虽然从狼潮中艰难地保存下来，但是两年后那场事故后统统灭亡，从此青茅山化成一片冰寂死地。"
+        },
+        {
+          "chapter": 135,
+          "paragraph": 51,
+          "file": "OEBPS/Text/chapter143.html",
+          "text": "在方源的前世，狼潮过去之后的三年后，白凝冰的修为不可避免地达到了四转境界。终于让他的空窍无法承受真元的重负，轰然自爆。"
+        },
+        {
+          "chapter": 135,
+          "paragraph": 53,
+          "file": "OEBPS/Text/chapter143.html",
+          "text": "幸好当时，修为平平的方源，被方正挤兑刁难，只好参加了商队外出，这才侥幸地躲过一劫。"
+        }
+      ]
+    },
+    {
+      "id": "T092",
+      "timeline": "current life / retrospective",
+      "kind": "fusion date",
+      "event": "HiddenScale completion",
+      "constraint": "127sayscompletedBEFOREJanuaryalliance,despitefirstshownuseafter>1month.",
+      "evidence_status": "Noautomaticfusionatfirstshownuse.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 123,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter131.html",
+          "text": "鱼鳞蛊是用来和隐石蛊一起合炼，炼成隐鳞蛊所用。没有了鱼鳞蛊，他就合成不了隐鳞蛊。"
+        },
+        {
+          "chapter": 123,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter131.html",
+          "text": "方源想到这里，就提了出来。"
+        },
+        {
+          "chapter": 127,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter135.html",
+          "text": "很快，一个多月的时间就过去了。"
+        },
+        {
+          "chapter": 127,
+          "paragraph": 37,
+          "file": "OEBPS/Text/chapter135.html",
+          "text": "隐鳞蛊是他在斗蛊会之前，就已经合炼成功。它就像是一块鲤鱼化石，灰扑扑的，躺在方源的真元海中，任由真元之水在它表面栩栩如生的鱼鳞上流过。"
+        },
+        {
+          "chapter": 127,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter135.html",
+          "text": "而方源先前缺少的鱼鳞蛊，自然是用黒豕蛊和青书兑换而来的。"
+        }
+      ]
+    },
+    {
+      "id": "T093",
+      "timeline": "current life",
+      "kind": "intervals and bodily adaptation",
+      "event": "EarthHearingGrass",
+      "constraint": "Spring>1month+>halfmonth; cavegap>1month;feedseveraldays;implantnight→nextnoonadapted.",
+      "evidence_status": "Right-earlateralityconsistent; poemwinterimagerynotcalendarchange.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 127,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter135.html",
+          "text": "大半个月的时间一晃即逝，春意渐浓。"
+        },
+        {
+          "chapter": 128,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter136.html",
+          "text": "“距离上一次进入这里，已经是一个多月了吧。”方源心中想着，有些无奈。"
+        },
+        {
+          "chapter": 128,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter136.html",
+          "text": "其后几天，他用微薄的战功兑了参须，好生喂养了那棵地听肉耳草，让它恢复到生机饱满的状态。"
+        },
+        {
+          "chapter": 128,
+          "paragraph": 75,
+          "file": "OEBPS/Text/chapter136.html",
+          "text": "方源整个的右耳都被切掉，血液喷涌而出。"
+        },
+        {
+          "chapter": 129,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter137.html",
+          "text": "方源一觉醒来，已经是第二天的中午。"
+        },
+        {
+          "chapter": 129,
+          "paragraph": 7,
+          "file": "OEBPS/Text/chapter137.html",
+          "text": "昨晚刚刚种下地听肉耳草时，方源的右耳又肥又大，耳垂几乎已经抵到了下巴。但是如今却变得普普通通，从外形上看去，根本就发现不了异常。"
+        }
+      ]
+    },
+    {
+      "id": "T094",
+      "timeline": "current life",
+      "kind": "wave onset and time skip",
+      "event": "Main wolf tide",
+      "constraint": "129summernear;130actualonset;stormovernight;131ten-plusdaysworsening,thenlateJuly.",
+      "evidence_status": "LateJulynotmerely10daysafterstorm;unquantifiedpassageexists.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 129,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter137.html",
+          "text": "夏天就要到了，许多族人都要擦拭清洗用了一个冬季的火炉子，经常会清洗出这样的一盆污水。"
+        },
+        {
+          "chapter": 130,
+          "paragraph": 51,
+          "file": "OEBPS/Text/chapter138.html",
+          "text": "方源面色微微一变，按照前世的记忆，今天就是狼潮真正爆发的日子。"
+        },
+        {
+          "chapter": 130,
+          "paragraph": 100,
+          "file": "OEBPS/Text/chapter138.html",
+          "text": "真正的狼潮来临了！"
+        },
+        {
+          "chapter": 131,
+          "paragraph": 62,
+          "file": "OEBPS/Text/chapter139.html",
+          "text": "大雨下了一夜，到了黎明时分，这才堪堪停止。"
+        },
+        {
+          "chapter": 131,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter139.html",
+          "text": "此后十多天，情势更加恶劣，每况愈下。"
+        },
+        {
+          "chapter": 131,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter139.html",
+          "text": "如此，天气渐渐炎热，到了七月末。虽说情况仍旧不容乐观，但是在三大家族不断地合作之下，情势已经得到控制。"
+        }
+      ]
+    },
+    {
+      "id": "T095",
+      "timeline": "myth / nested narrative",
+      "kind": "RenZu",
+      "event": "Loneliness heart",
+      "constraint": "Oneovernightvigil,eyesbecomechildren.",
+      "evidence_status": "NotFYcalendarorbiological-ageclock.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 131,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter139.html",
+          "text": "态度蛊不好违逆人祖的命令，便答道：“你只需要在有星星的夜里，仰望天空，什么话都不要讲。等到天亮时，你就能得到孤独之心了。”"
+        },
+        {
+          "chapter": 131,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter139.html",
+          "text": "太阳从天边升起来，照亮人祖的脸。但是人祖却没有感到高兴，而是感到无边的痛楚，绝望，迷茫，还有恐惧。"
+        },
+        {
+          "chapter": 131,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter139.html",
+          "text": "他的左眼，落在地上，化作一个少年郎。他有一头的金发，健壮的身躯，他一出现，就拜倒在人祖的脚下，大叫：“人祖啊，我的父亲，我是您的大儿子太日阳莽。”"
+        },
+        {
+          "chapter": 131,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter139.html",
+          "text": "同时，人祖的右眼也化为一个少女。她搀扶住人祖的胳膊，说道：“人祖啊，我的父亲，我是您的二女儿古月阴荒。”"
+        }
+      ]
+    },
+    {
+      "id": "T096",
+      "timeline": "current life",
+      "kind": "post-July date and season",
+      "event": "Eight or nine days later",
+      "constraint": "132opens8–9daysafterlateJulyaction;139describeshotsummer.",
+      "evidence_status": "Internaltensionwith116Julyearlyautumn;weatheralonecannotsettlecalendar.",
+      "dependency": "SR-054; donotreinstateSR-047.",
+      "sources": [
+        {
+          "chapter": 131,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter139.html",
+          "text": "如此，天气渐渐炎热，到了七月末。虽说情况仍旧不容乐观，但是在三大家族不断地合作之下，情势已经得到控制。"
+        },
+        {
+          "chapter": 132,
+          "paragraph": 63,
+          "file": "OEBPS/Text/chapter140.html",
+          "text": "八九天之后。"
+        },
+        {
+          "chapter": 139,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter147.html",
+          "text": "在这炎热的夏季，狭窄的山道上，洁白的冰霜却蔓延开来，覆盖泥土，吞没树木。周围了空气中的温度骤然下降。"
+        }
+      ]
+    },
+    {
+      "id": "T097",
+      "timeline": "current life",
+      "kind": "continuous battle / feint",
+      "event": "Arm injury and sacrifice",
+      "constraint": "135apparentrightfracture→137revealedfeint→139actualright-arm/FrostDemonexplosion.",
+      "evidence_status": "Leftarmfrozen136doesnotchangewhicharmissacrificed.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 135,
+          "paragraph": 65,
+          "file": "OEBPS/Text/chapter143.html",
+          "text": "豪电狼被白凝冰消灭，狼群溃散奔逃。熊力小组中的治疗蛊师也倒在了白凝冰的刀下，而他为此也付出了沉重代价。右臂被熊力狠狠击中一拳，似乎是骨折了，在接下来的激战中一直无力地垂着。"
+        },
+        {
+          "chapter": 136,
+          "paragraph": 92,
+          "file": "OEBPS/Text/chapter144.html",
+          "text": "气浪将其掀飞，倒在地上。同时他的大半个左臂都被冰封住，丧失了战斗力。"
+        },
+        {
+          "chapter": 137,
+          "paragraph": 12,
+          "file": "OEBPS/Text/chapter145.html",
+          "text": "“你以为我的右臂，真的被你一拳打成骨折？真是天真！我已用三转冰肌蛊，练成了这身冰肌，防御卓绝！之所以一直假装，不过是想给某个人一个惊喜罢了。”白凝冰缓缓站起，眼中流露出不屑的笑意，说到最后，他瞄向方源。"
+        },
+        {
+          "chapter": 139,
+          "paragraph": 24,
+          "file": "OEBPS/Text/chapter147.html",
+          "text": "一声炸响，白凝冰的整个右臂忽然发生了自爆。"
+        },
+        {
+          "chapter": 140,
+          "paragraph": 23,
+          "file": "OEBPS/Text/chapter148.html",
+          "text": "“居然逼迫我不得不使用白银真元，甚至还牺牲了霜妖蛊！方源人呢？”白凝冰杀机越加浓郁，一边问道，一边蓝眸扫视，却没有发现方源的身影。"
+        }
+      ]
+    },
+    {
+      "id": "T098",
+      "timeline": "current life",
+      "kind": "endpoint and casualties",
+      "event": "QingShu fight begins",
+      "constraint": "Two teammates+YaoHong+elderdead;FangZhengobserves;QingShustartsWoodCharm.",
+      "evidence_status": "QingShuNOTconfirmeddeadby140. No141+outcomecounted.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 140,
+          "paragraph": 3,
+          "file": "OEBPS/Text/chapter148.html",
+          "text": "家老、古月青书、古月药红等五人，已经将他团团围在中央。而古月方正则站在远处的山坡上，一边居高临下地遥遥地观战，一边警戒。一旦有白家的蛊师小组出现，他就要第一时间出声示警。"
+        },
+        {
+          "chapter": 140,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter148.html",
+          "text": "两位男蛊师不幸地被卷入其中，惨叫声戛然而止。他们顷刻之间，就被冰刃斩成无数的碎块，命丧当场。"
+        },
+        {
+          "chapter": 140,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter148.html",
+          "text": "冰刃瞬间切割，将这位女蛊师斩成五六个部分。鲜血还未流出，就被冰寒之气冻结起来。"
+        },
+        {
+          "chapter": 140,
+          "paragraph": 76,
+          "file": "OEBPS/Text/chapter148.html",
+          "text": "在他身后，家老的脸上、浑身都渐渐浮现出一抹淡蓝冰霜，然后扑通一声栽倒在地上，再也爬不起来。"
+        },
+        {
+          "chapter": 140,
+          "paragraph": 87,
+          "file": "OEBPS/Text/chapter148.html",
+          "text": "木魅蛊！"
+        }
+      ]
+    },
+    {
+      "id": "T099",
+      "timeline": "current life",
+      "kind": "continuous battle",
+      "event": "QingShu death and next-day funeral",
+      "constraint": "141–143continue samebattle;143p45deathconfirmed;funeralnextday;Baiawake10+hours.",
+      "evidence_status": "No deathat140endpoint; nowconfirmed. Hoursnotdays.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 142,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter150.html",
+          "text": "他的努力得到了回报，白凝冰终于力竭被擒。一根藤蔓绕过他的脖颈，将他整个人提起来，并且渐渐用力收缩。"
+        },
+        {
+          "chapter": 143,
+          "paragraph": 45,
+          "file": "OEBPS/Text/chapter151.html",
+          "text": "青书死亡，白凝冰重伤，狼潮之下，这样的牺牲已经足够触目惊心。如果发生大规模的火并，对于家族而言，那生存的压力就太大了。"
+        },
+        {
+          "chapter": 143,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter151.html",
+          "text": "昨天的战斗，整个过程和情形他还历历在目，深印在心。"
+        },
+        {
+          "chapter": 143,
+          "paragraph": 90,
+          "file": "OEBPS/Text/chapter151.html",
+          "text": "他静静地躺着，睁着双眼，已经有十多个小时。任由三转的白银真元，在温养着空窍。他都懒得去管。"
+        }
+      ]
+    },
+    {
+      "id": "T100",
+      "timeline": "current life / recollection",
+      "kind": "age constraints",
+      "event": "YaoLe and cohort",
+      "constraint": "Standardintake15;YaoLeonecohortbehindFY;Januarypasses;151callsher15;159FY17.",
+      "evidence_status": "Conditional16candidate;Bai143twenty-plus-yearsquestionhasnoverifiedexact-agecontradiction.",
+      "dependency": "SR-067; no birthday invented.",
+      "sources": [
+        {
+          "chapter": 4,
+          "paragraph": 3,
+          "file": "OEBPS/Text/chapter12.html",
+          "text": "一百多位十五岁的少年，此刻汇集在家主阁前。"
+        },
+        {
+          "chapter": 123,
+          "paragraph": 74,
+          "file": "OEBPS/Text/chapter131.html",
+          "text": "青书摸摸鼻子，不禁苦笑：“方源，这事情比你想象中的要复杂。古月药乐你知道吗？她是药堂家老古月药姬的孙女，今年的学堂新生，有着乙等资质。古月药姬十分疼爱这个孙女，曾经在树屋中竞价过一只酒虫，可惜没有成功。”"
+        },
+        {
+          "chapter": 124,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter132.html",
+          "text": "一月，冬末。"
+        },
+        {
+          "chapter": 151,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter159.html",
+          "text": "她一个十五岁的少女，身娇体弱，怎么能挣脱一指粗细，还绕了几匝，打上了死结的麻绳？"
+        },
+        {
+          "chapter": 159,
+          "paragraph": 96,
+          "file": "OEBPS/Text/chapter167.html",
+          "text": "他也是丙等资质，但是只有二转修为，爬到今天这一步，用了大半生的时光。而那方源，才不过十七岁，就已经是家老。"
+        }
+      ]
+    },
+    {
+      "id": "T101",
+      "timeline": "current life",
+      "kind": "month regression",
+      "event": "Return to July",
+      "constraint": "131lateJuly→1328–9days→143nextday→145manydays/upperstage, yet145July.",
+      "evidence_status": "Monthsequencequery distinctfromseasonlabelquery.",
+      "dependency": "SR-065 andSR-054.",
+      "sources": [
+        {
+          "chapter": 131,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter139.html",
+          "text": "如此，天气渐渐炎热，到了七月末。虽说情况仍旧不容乐观，但是在三大家族不断地合作之下，情势已经得到控制。"
+        },
+        {
+          "chapter": 132,
+          "paragraph": 63,
+          "file": "OEBPS/Text/chapter140.html",
+          "text": "八九天之后。"
+        },
+        {
+          "chapter": 143,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter151.html",
+          "text": "昨天的战斗，整个过程和情形他还历历在目，深印在心。"
+        },
+        {
+          "chapter": 145,
+          "paragraph": 10,
+          "file": "OEBPS/Text/chapter153.html",
+          "text": "七月，炎热的夏季，空气若流火，弥漫着铁腥的血气。"
+        },
+        {
+          "chapter": 145,
+          "paragraph": 28,
+          "file": "OEBPS/Text/chapter153.html",
+          "text": "许多天前，方源就从中阶修为晋升到了高阶。本来的深红真元，经过四味酒虫的提炼，以及元石的补充，全部转换为如今的暗红真元。"
+        }
+      ]
+    },
+    {
+      "id": "T102",
+      "timeline": "current life",
+      "kind": "natural promotion / relic use",
+      "event": "Upper then peak",
+      "constraint": "145uppercultivation/peakquality,Relicunused;146intendeduse;148peakcultivationconfirmed.",
+      "evidence_status": "Actualusefallsininterveninginterval;dontadvanceat145knock.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 145,
+          "paragraph": 25,
+          "file": "OEBPS/Text/chapter153.html",
+          "text": "空窍中，四成四的赤铁海波涛生灭，潮起潮落。这些真元，都是红的发黑，是暗红色的二转巅峰之真元。"
+        },
+        {
+          "chapter": 145,
+          "paragraph": 28,
+          "file": "OEBPS/Text/chapter153.html",
+          "text": "许多天前，方源就从中阶修为晋升到了高阶。本来的深红真元，经过四味酒虫的提炼，以及元石的补充，全部转换为如今的暗红真元。"
+        },
+        {
+          "chapter": 145,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter153.html",
+          "text": "方源从中阶晋升为高阶，是因为四味酒虫精炼了真元，先前也一直温养空窍，积累到质变的结果。方源还并没有使用这只赤铁舍利蛊呢。"
+        },
+        {
+          "chapter": 145,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter153.html",
+          "text": "方源正欲用了这枚蛊虫时，门外传来一阵敲门声。"
+        },
+        {
+          "chapter": 146,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter154.html",
+          "text": "用了那赤铁舍利蛊后，他就是二转巅峰，接近三转。已经算是初步成长起来了，有这力量，人生格局就不一样。"
+        },
+        {
+          "chapter": 148,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter156.html",
+          "text": "二来，方源已经是二转巅峰，若再不对他动手，等到他成了三转家老，那就没有机会了。"
+        }
+      ]
+    },
+    {
+      "id": "T103",
+      "timeline": "current life",
+      "kind": "quoted delivery / elapsed interval",
+      "event": "Leaf contract and rescue",
+      "constraint": "5leavesdeliverypromised3days;>halfmonthlaterrescue;Xiong6day/nightthirdsiege.",
+      "evidence_status": "Promiseisnotshownfulfilment. Differentvillageseigecounts.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 146,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter154.html",
+          "text": "最终古月野狠狠咬牙，道：“好，我买了，我需要五片生机叶。”"
+        },
+        {
+          "chapter": 146,
+          "paragraph": 23,
+          "file": "OEBPS/Text/chapter154.html",
+          "text": "“你现在将元石交给江牙即可。至于生机叶，三天之后，再到他那里取罢。”方源道。"
+        },
+        {
+          "chapter": 146,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter154.html",
+          "text": "大半个月后。"
+        },
+        {
+          "chapter": 147,
+          "paragraph": 28,
+          "file": "OEBPS/Text/chapter155.html",
+          "text": "“小妹见过赤山兄长。”熊骄嫚勉强舒展了眉头，向赤山抱拳一礼，“这一次来，是想求助古月一族，派遣一些援兵的。熊家寨外已经被狼群围困了六天六夜了。”"
+        },
+        {
+          "chapter": 147,
+          "paragraph": 30,
+          "file": "OEBPS/Text/chapter155.html",
+          "text": "熊家寨是三寨中，位置最低的一个，处在山脚下，自然首当其冲。事实上这已经是第三次被包围，需要援兵支援，里应外合的配合，才能打散击溃这些电狼群。"
+        }
+      ]
+    },
+    {
+      "id": "T104",
+      "timeline": "current life / prior-life forecast",
+      "kind": "return and raid",
+      "event": "Reinforcements turn back",
+      "constraint": "149returns15minafterdeparture;GuYuesecondraid;priorlifeThunderCrownlateAugust.",
+      "evidence_status": "QingShu’scurrentdeathprecedesoldlifedeath; explicitbranchchange.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 149,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter157.html",
+          "text": "但这场分别极其短暂，仅仅是一刻钟后，熊骄嫚等人又再次回到了竹楼。"
+        },
+        {
+          "chapter": 149,
+          "paragraph": 30,
+          "file": "OEBPS/Text/chapter157.html",
+          "text": "这已经是今年古月山寨第二次遭受狼群围攻，但这次的规模，比上次要强盛了两倍不止。"
+        },
+        {
+          "chapter": 149,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter157.html",
+          "text": "记忆中，雷冠头狼是在八月末期出现。给古月一族造成了巨大的伤亡，若非族长和家老联手拼死抵挡，古月青书不惜生命爆发战力，古月山寨就灭亡了。"
+        },
+        {
+          "chapter": 149,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter157.html",
+          "text": "重生以来，方源改变了许多东西。古月青书已经提前牺牲了，方源更不敢大意。雷冠头狼提前出现，是完全有可能的。因此他第一时间就赶来观察。"
+        }
+      ]
+    },
+    {
+      "id": "T105",
+      "timeline": "current life",
+      "kind": "uncertain casualty observation",
+      "event": "XiongJiaoMan struck",
+      "constraint": "Thrownintobuilding,no furthermovementreported.",
+      "evidence_status": "Notconfirmeddead. Do not manufacture a double-death contradiction from unconsciousness or off-screen status.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 150,
+          "paragraph": 94,
+          "file": "OEBPS/Text/chapter158.html",
+          "text": "被这股推力一推，熊骄嫚、古月药乐双双飞出去，在半空中分散开来。熊骄嫚撞进了一处竹楼，再不见动静。而古月药乐则直接从破损的东大门，飞出了寨外。"
+        }
+      ]
+    },
+    {
+      "id": "T106",
+      "timeline": "current life",
+      "kind": "captivity / imagined duration",
+      "event": "YaoLe disappearance",
+      "constraint": "Victimagines7–8dayscaptivity;actualintervalnotgiven;152three-dayabsenceandsearch.",
+      "evidence_status": "Imaginedpunishmentnotelapsedtime; non-graphicrecordonly.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 151,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter159.html",
+          "text": "“难道方源是想把我囚禁在这里？饿了七八天，让我尝到苦头，以后再不敢说他的坏话？”古月药乐哭了一会儿，忽然想到一种可能。"
+        },
+        {
+          "chapter": 152,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter160.html",
+          "text": "三天三夜过去了，四只狂电狼已经被先后消灭，古月山寨已经转危为安，但是她的亲孙女古月药乐，却一直不见踪影。"
+        },
+        {
+          "chapter": 152,
+          "paragraph": 96,
+          "file": "OEBPS/Text/chapter160.html",
+          "text": "“先前不是说他死了吗？他失踪了三天三夜，战场上怎么也找不到他的尸体，还以为被电狼叼了去呢……”"
+        }
+      ]
+    },
+    {
+      "id": "T107",
+      "timeline": "current life",
+      "kind": "fusion and breakthrough",
+      "event": "RevolutionThree achieved",
+      "constraint": "152halfshichen thenhalfke amidprocess;38pointsconsumed;repeatedpurges.",
+      "evidence_status": "Approx1hourand7.5minutes underconventionalunits,notwholeprocesstotal.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 152,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter160.html",
+          "text": "半个时辰之后，古月药乐几乎全部被黑熊吞食干净。"
+        },
+        {
+          "chapter": 152,
+          "paragraph": 18,
+          "file": "OEBPS/Text/chapter160.html",
+          "text": "灼烧了半刻钟后，方源手一指，又飞出三只火油蛊。"
+        },
+        {
+          "chapter": 152,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter160.html",
+          "text": "一成、两成、三成，当三成八的真元消耗掉之后，空窍轰的猛烈一震，透明的白色晶壁夸嚓夸嚓地碎裂开来。"
+        },
+        {
+          "chapter": 152,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter160.html",
+          "text": "此刻，方源晋升三转！"
+        },
+        {
+          "chapter": 152,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter160.html",
+          "text": "如此三番五次之后，黑红异色减少到微不可察的程度，就算是方源再排空真元，也减少不了这种残留了。"
+        }
+      ]
+    },
+    {
+      "id": "T108",
+      "timeline": "current life / false testimony",
+      "kind": "alibi",
+      "event": "ChiLian’s corroboration",
+      "constraint": "153claims3daysretreatatChiLian;154revealslastnightblackmailalreadyRevolutionThree.",
+      "evidence_status": "Intentionallyfalsealibi, notcontradictoryomniscienttimeline.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 153,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter161.html",
+          "text": "她开口道：“方源，你这三天来，为什么失踪了？如果你不出现，药堂的伤亡报告里都已经将你的名字，列在阵亡蛊师的名单里。你失踪了三天三夜，回来的时候，就成了三转蛊师。这个过程中，究竟发生了什么？嘿嘿，我相信大家对此都很有兴趣了解一番。”"
+        },
+        {
+          "chapter": 153,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter161.html",
+          "text": "在众目睽睽之下，他仰头哈哈一笑：“老太婆，你想要知道，我就一定要告诉你么？不过……看你死了孙女这般可怜的份上，我就大发慈悲地告诉你好了。我这些天，都在赤练家老的府中，全心闭关，冲击三转。这点，古月赤练家老完全能为我作证！”"
+        },
+        {
+          "chapter": 153,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter161.html",
+          "text": "但在众目睽睽之下，他知道必须要给众人一个交代，于是勉强开口道：“这个事情，的确是这样的。方源这些天，都在我府中密室里闭关，我为此作证。”"
+        },
+        {
+          "chapter": 154,
+          "paragraph": 12,
+          "file": "OEBPS/Text/chapter162.html",
+          "text": "昨夜方源秘密地找到他，以“古月赤城资质作假”这件事情当面威胁他。"
+        },
+        {
+          "chapter": 154,
+          "paragraph": 21,
+          "file": "OEBPS/Text/chapter162.html",
+          "text": "但随后方源展露出三转的修为。"
+        }
+      ]
+    },
+    {
+      "id": "T109",
+      "timeline": "current life / mistaken inference",
+      "kind": "retrospective sponsorship",
+      "event": "MoChen’s interpretations",
+      "constraint": "Servantkilling2–3yearsago;imaginedChiinvestmentyear-plusago.",
+      "evidence_status": "Murderrecapfitsopening→age17;investmentispoliticalmisreading.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 153,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter161.html",
+          "text": "他想到两三年前，方源还在学堂时，杀了自家的一个豪奴。"
+        },
+        {
+          "chapter": 154,
+          "paragraph": 3,
+          "file": "OEBPS/Text/chapter162.html",
+          "text": "现在他的老对头古月赤练，居然已经和方源勾搭上了。甚至种种迹象表明，一年多前赤练就已经开始投资方源。"
+        },
+        {
+          "chapter": 159,
+          "paragraph": 96,
+          "file": "OEBPS/Text/chapter167.html",
+          "text": "他也是丙等资质，但是只有二转修为，爬到今天这一步，用了大半生的时光。而那方源，才不过十七岁，就已经是家老。"
+        }
+      ]
+    },
+    {
+      "id": "T110",
+      "timeline": "current life",
+      "kind": "borrowing / fusion / access",
+      "event": "Three days then next-day library",
+      "constraint": "Halfshichennegotiation;3dayslaterSkyCanopy;recipevisit15minutes;nextday5+10minutes.",
+      "evidence_status": "No claim allGu acquiredonsameday; dailyaccesscapnotrare-vaultpolicy.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 155,
+          "paragraph": 63,
+          "file": "OEBPS/Text/chapter163.html",
+          "text": "半个时辰之后，方源带着三千块元石，以及一只净水蛊离开了赤家。"
+        },
+        {
+          "chapter": 155,
+          "paragraph": 66,
+          "file": "OEBPS/Text/chapter163.html",
+          "text": "三天后。"
+        },
+        {
+          "chapter": 155,
+          "paragraph": 74,
+          "file": "OEBPS/Text/chapter163.html",
+          "text": "“终于合炼成了。”方源满意地点点头，这是他第二次合炼。"
+        },
+        {
+          "chapter": 156,
+          "paragraph": 30,
+          "file": "OEBPS/Text/chapter164.html",
+          "text": "“方源大人，这些照影蛊都是秘堂家老所有，但并不妨碍你催动真元，进行阅览。只是以您如今的身份，却还不能阅览四转、五转的秘方。还有两点：密室是家族重地，您在这里的一举一动，都受到暗中的监视。您每天每次在这密室，只能待上一刻钟。时间耗尽之后，您就得出来了。”蛊师老者这时又道。"
+        },
+        {
+          "chapter": 156,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter164.html",
+          "text": "“方源大人，已经一刻钟了，相信您定有一些收获。不管如何，请明天再来罢。”就在这时，石门又幻化为虚无，蛊师老者站在门口恭谨地说道。"
+        },
+        {
+          "chapter": 157,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter165.html",
+          "text": "第二天，密室。"
+        },
+        {
+          "chapter": 157,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter165.html",
+          "text": "今天时间还绰绰有余，一刻钟的时间，他只用了五分钟，还有十分钟的余地。"
+        }
+      ]
+    },
+    {
+      "id": "T111",
+      "timeline": "current life",
+      "kind": "stipend and transfer",
+      "event": "One day’s political transaction",
+      "constraint": "300stipendreceived157→all300gifted158;NineLeaftradedforrewardtoken.",
+      "evidence_status": "Samefunds,nottwoindependentpaymentsfromclan.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 157,
+          "paragraph": 76,
+          "file": "OEBPS/Text/chapter165.html",
+          "text": "“这里是三百块元石，这一周家老的补贴。我知道你在这里，已经替你随手带来了。希望你不要太介意我的自主主张才好。”古月赤钟说着，递给方源一个钱袋子。"
+        },
+        {
+          "chapter": 158,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter166.html",
+          "text": "想到这里，方源主动接过古月赤钟手中的令牌，同时将九叶生机草转交给对方。"
+        },
+        {
+          "chapter": 158,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter166.html",
+          "text": "“舅父舅母，你们平日照顾我良多，我能有今天的成就，还多亏了你们二老的栽培。今天我刚刚领到家老的补贴，这里是三百块元石，请你们收下它。”说着，方源就将钱袋递给舅父。"
+        },
+        {
+          "chapter": 158,
+          "paragraph": 90,
+          "file": "OEBPS/Text/chapter166.html",
+          "text": "“是，是，是。”舅父连连点头，连忙接过。他虽然外号隐家老，但是面对如今的药堂家老，却还算不上什么。"
+        }
+      ]
+    },
+    {
+      "id": "T112",
+      "timeline": "current life",
+      "kind": "later raids / periodic mechanic",
+      "event": "Near-ten attacks and BloodMoon cycle",
+      "constraint": "159near10sieges,unspecifiedtimegap;BloodMoonmonthlyfewdaysat1/3attack.",
+      "evidence_status": "Fourwolves159newraid,notfourdeadwolves152revived;low-powerdaysnotyetidentified.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 152,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter160.html",
+          "text": "三天三夜过去了，四只狂电狼已经被先后消灭，古月山寨已经转危为安，但是她的亲孙女古月药乐，却一直不见踪影。"
+        },
+        {
+          "chapter": 157,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter165.html",
+          "text": "在每个月的特定几天内，它就会向外渗出鲜血。鲜血不断地流淌出来，在这期间，它的攻击力暴降到平时的三分之一。"
+        },
+        {
+          "chapter": 159,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter167.html",
+          "text": "四只狂电狼扬起脖子，发出嘹亮的狼嗥。"
+        },
+        {
+          "chapter": 159,
+          "paragraph": 24,
+          "file": "OEBPS/Text/chapter167.html",
+          "text": "直到现在，狼潮冲击古月山寨，已经有近十次。家族中蛊师伤亡的情况，十分严重。让家老么焦头烂额，暂代药堂家老的古月赤钟更是压力沉重，原本是中年，这些天偶然一次看到，竟然是生了些微白发！"
+        },
+        {
+          "chapter": 160,
+          "paragraph": 24,
+          "file": "OEBPS/Text/chapter168.html",
+          "text": "“血月蛊最大的弊端，还是每个月都会有那么几天，外溢鲜血，战斗力暴降。它是我主要的进攻手段，这样看来，还是不稳定了些。不过，若是收服了花酒秘藏中的那只锯齿金蜈，就能弥补这个不足。”"
+        }
+      ]
+    },
+    {
+      "id": "T113",
+      "timeline": "current life",
+      "kind": "capacity consequence",
+      "event": "Forty-four to forty-two",
+      "constraint": "AfterbreakthroughresidueandCleanWateruse,159capacity42.",
+      "evidence_status": "Explicit2percentage-pointloss,notretrospectiveerroror2%relative.",
+      "dependency": "SR-001/SR-007 updates.",
+      "sources": [
+        {
+          "chapter": 152,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter160.html",
+          "text": "这股真元不能使用，灌注到蛊虫身上，就能致蛊虫死亡。留在空窍中，时间长了，更会污染光膜窍壁，使得自身资质下降。"
+        },
+        {
+          "chapter": 159,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter167.html",
+          "text": "从古月赤练处敲诈得来的净水蛊，方源早就用了。人兽葬生蛊的后遗症已经彻底消除。"
+        },
+        {
+          "chapter": 159,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter167.html",
+          "text": "方源的资质还是下降了一些，原先是丙等四成四，如今因为人兽葬生蛊的缘故，降了两分，空窍中最多只能装载四成二的真元了。"
+        },
+        {
+          "chapter": 159,
+          "paragraph": 43,
+          "file": "OEBPS/Text/chapter167.html",
+          "text": "说到底，还得感谢古月赤练。若没有他的净水蛊，长期任由那股墨红污染真元，方源的资质还要下降得更多。"
+        }
+      ]
+    },
+    {
+      "id": "T114",
+      "timeline": "current life",
+      "kind": "banquet / residence",
+      "event": "Gift collection and elder housing",
+      "constraint": "Samebanquetends;newclan-allottedhousealreadyavailable;>10daysuntilnextcavevisit.",
+      "evidence_status": "Notoldrental;carryingservantsnotnewlyownedstaff.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 161,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter169.html",
+          "text": "短短功夫，方源就收了近万块的元石！"
+        },
+        {
+          "chapter": 161,
+          "paragraph": 73,
+          "file": "OEBPS/Text/chapter169.html",
+          "text": "这住处已经不再是方源当初租的屋子。"
+        },
+        {
+          "chapter": 161,
+          "paragraph": 74,
+          "file": "OEBPS/Text/chapter169.html",
+          "text": "自从方源晋升家老之后，家族就给他拨调了一栋崭新的竹楼。"
+        },
+        {
+          "chapter": 161,
+          "paragraph": 75,
+          "file": "OEBPS/Text/chapter169.html",
+          "text": "竹楼中专门有书房，有修行闭关之用的密室。但家奴没有，需要方源自己寻找。"
+        },
+        {
+          "chapter": 162,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter170.html",
+          "text": "真正再到石缝秘洞中来时，已经是十几天之后。"
+        }
+      ]
+    },
+    {
+      "id": "T115",
+      "timeline": "current life / prior-life forecast",
+      "kind": "late-summer anchor",
+      "event": "ThunderCrown schedule",
+      "constraint": "Departurelate-summernight;oldlifekingarrived3daysearlier;actualarrivalatreturn.",
+      "evidence_status": "Explicitbranchschedulechange; noexactAugustday inferred.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 149,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter157.html",
+          "text": "记忆中，雷冠头狼是在八月末期出现。给古月一族造成了巨大的伤亡，若非族长和家老联手拼死抵挡，古月青书不惜生命爆发战力，古月山寨就灭亡了。"
+        },
+        {
+          "chapter": 162,
+          "paragraph": 3,
+          "file": "OEBPS/Text/chapter170.html",
+          "text": "夏末夜晚。"
+        },
+        {
+          "chapter": 162,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter170.html",
+          "text": "小雨刚停，带来秋意。"
+        },
+        {
+          "chapter": 162,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter170.html",
+          "text": "“重生之后，就连狼潮的进程都改变了许多。记忆当中，雷冠头狼早在三天前就到了。如今却是不见影踪。”"
+        },
+        {
+          "chapter": 163,
+          "paragraph": 73,
+          "file": "OEBPS/Text/chapter171.html",
+          "text": "此时凌晨，天空蒙蒙亮。"
+        },
+        {
+          "chapter": 163,
+          "paragraph": 77,
+          "file": "OEBPS/Text/chapter171.html",
+          "text": "万兽王——雷冠头狼！"
+        }
+      ]
+    },
+    {
+      "id": "T116",
+      "timeline": "current life",
+      "kind": "hours and day boundary",
+      "event": "Long cave expedition",
+      "constraint": "3shichen+6-plusshichen+30minutes+retrace/otheractivity;returnatdawn.",
+      "evidence_status": "Cannotcallthisimmediatelynextmorningwithoutresolving>18.5hours ofstatedoutwardwork.",
+      "dependency": "SR-083; no inventedexactday.",
+      "sources": [
+        {
+          "chapter": 162,
+          "paragraph": 18,
+          "file": "OEBPS/Text/chapter170.html",
+          "text": "方源花了三个时辰，覆灭近十支猴群，重新打开通路。"
+        },
+        {
+          "chapter": 162,
+          "paragraph": 73,
+          "file": "OEBPS/Text/chapter170.html",
+          "text": "方源先是动用地听肉耳草，倾听了片刻，便排除了中间那一支道。选了右边一道后，走了半个小时，发现到了死路。只好回撤，换到左边这道。"
+        },
+        {
+          "chapter": 162,
+          "paragraph": 82,
+          "file": "OEBPS/Text/chapter170.html",
+          "text": "这通道比他料想得要长得多，方源探索足足花了六个多时辰，走了近三里的距离！"
+        },
+        {
+          "chapter": 163,
+          "paragraph": 67,
+          "file": "OEBPS/Text/chapter171.html",
+          "text": "“算了，没有新证据，纠结这处疑点，也不会有所进展。还是先回去山寨罢。”最终，方源摇摇头，顺着原路开始返回。"
+        },
+        {
+          "chapter": 163,
+          "paragraph": 73,
+          "file": "OEBPS/Text/chapter171.html",
+          "text": "此时凌晨，天空蒙蒙亮。"
+        }
+      ]
+    },
+    {
+      "id": "T117",
+      "timeline": "historical reconstruction / clan tradition",
+      "kind": "founder and inheritance",
+      "event": "Near-millennium history",
+      "constraint": "163FangYuanreconstructsfounder/FlowerWine/Lotus;165clanbelievesfounderdeadnear1000years,lastcrisis200yearsago.",
+      "evidence_status": "Reconstruction/traditionnotindependentlyverifiedhistoricaltruth.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 163,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter171.html",
+          "text": "方源看着面前的这株天元宝莲，一直以来，心中积压的疑云顿时消散了大半。推算出了历史的大概。"
+        },
+        {
+          "chapter": 163,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter171.html",
+          "text": "时光回溯，将近千年之前。"
+        },
+        {
+          "chapter": 163,
+          "paragraph": 7,
+          "file": "OEBPS/Text/chapter171.html",
+          "text": "一代逝世之后，时光流逝，二代、三代，到了四代。"
+        },
+        {
+          "chapter": 163,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter171.html",
+          "text": "最后，他偷偷用千里地狼蛛，挖开地道，秘密潜行到这里。利用手中早已准备好的充足材料，在元泉中成功合炼出天元宝莲。"
+        },
+        {
+          "chapter": 165,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter173.html",
+          "text": "一代族长已经仙逝近千年，他留下的手段是否还有效？这是个未知数。"
+        },
+        {
+          "chapter": 165,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter173.html",
+          "text": "毕竟距离上一次的危难，也已经过去了两百年。"
+        }
+      ]
+    },
+    {
+      "id": "T118",
+      "timeline": "current life",
+      "kind": "battle clocks and casualties",
+      "event": "ThunderCrown and chain-array",
+      "constraint": "15minbattle→sixeldersdead→anotherkilled;chainarray5–6min;reinforcementsalterparticipantcount.",
+      "evidence_status": "No fixedneartenparticipantdenominator;ritualdurationnotquantified.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 164,
+          "paragraph": 66,
+          "file": "OEBPS/Text/chapter172.html",
+          "text": "战到一刻钟后，雷冠头狼忽然仰天长啸一声，浑身激流电闪，速度猛增一倍。"
+        },
+        {
+          "chapter": 164,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter172.html",
+          "text": "战况越加惨烈。雷冠头狼身上的伤势越积越重，血流不止，有的伤口甚至深可见骨。蛊师们同样损失惨重，先后牺牲了六位家老。若不是山寨中的家老，紧急出动，进行支援，恐怕早就崩盘。"
+        },
+        {
+          "chapter": 164,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter172.html",
+          "text": "一声巨响，它右爪一拍，将一位家老彻底拍成肉泥。"
+        },
+        {
+          "chapter": 164,
+          "paragraph": 93,
+          "file": "OEBPS/Text/chapter172.html",
+          "text": "但这情形也只是暂时的，随着雷冠头狼的不断挣扎，一根根铁链不断地崩断。只消五六分钟，这铁链蛇阵就分崩瓦解，再也困不住雷冠头狼。"
+        },
+        {
+          "chapter": 165,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter173.html",
+          "text": "铁网悉数崩断，雷冠头狼重得自由，发出愤怒的咆哮。"
+        }
+      ]
+    },
+    {
+      "id": "T119",
+      "timeline": "current life",
+      "kind": "pursuit and replenishment",
+      "event": "Valley battle",
+      "constraint": "30minpursuit;less3points→42in8–9min;fiveeldersdeadobservedafterinterval.",
+      "evidence_status": "FiveobservedmayincludeearlierBai elderdeath;donotaddsixwithoutproof.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 165,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter173.html",
+          "text": "雷冠头狼伤势很重，速度并不快。大约追了半个小时，方源隐隐听到前方的山谷中，传来打斗和怒骂声。"
+        },
+        {
+          "chapter": 166,
+          "paragraph": 65,
+          "file": "OEBPS/Text/chapter174.html",
+          "text": "这白家蛊师，也是三转家老，颇有薄名。"
+        },
+        {
+          "chapter": 167,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter175.html",
+          "text": "他虽然晋升三转，但是空窍中真元储备只有四成二，刚刚一战虽然占尽上风，但是却不能持久，如今空窍中已经只剩下一层薄薄的真元，只有三分不到。"
+        },
+        {
+          "chapter": 167,
+          "paragraph": 83,
+          "file": "OEBPS/Text/chapter175.html",
+          "text": "蛊师之间的战斗声不断传来，大约过了八九分钟，方源这才将空窍中的真元填充到极限。"
+        },
+        {
+          "chapter": 167,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter175.html",
+          "text": "他从隐蔽处钻出来，发现已经战死了五位家老。"
+        },
+        {
+          "chapter": 167,
+          "paragraph": 85,
+          "file": "OEBPS/Text/chapter175.html",
+          "text": "其中古月一族三人，白家两人。"
+        }
+      ]
+    },
+    {
+      "id": "T120",
+      "timeline": "current life / corrected identification",
+      "kind": "wolf versus lycan",
+      "event": "Apparent fourth king",
+      "constraint": "167suspectsfourth;168identifiesLycanandmistakenfrontleginjuryassumption.",
+      "evidence_status": "No confirmedfourthThunderCrown. Xiongdestructionassumptionlaterreversed175.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 167,
+          "paragraph": 109,
+          "file": "OEBPS/Text/chapter175.html",
+          "text": "“难道有第四头雷冠头狼？！”家老们齐齐动容，惊惶出声。"
+        },
+        {
+          "chapter": 168,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter176.html",
+          "text": "但也有人心存乐观：“你们看，这头雷冠头狼两前肢，都受了重伤，肌肉骨骼都萎缩了！”"
+        },
+        {
+          "chapter": 168,
+          "paragraph": 14,
+          "file": "OEBPS/Text/chapter176.html",
+          "text": "这雷冠头狼后肢发达，两前肢却短小，肌肉萎缩。这使得它奔跑时，只能利用两条后肢，像是袋鼠一样蹦跳着前进。"
+        },
+        {
+          "chapter": 168,
+          "paragraph": 18,
+          "file": "OEBPS/Text/chapter176.html",
+          "text": "狈也是狼属，但比狼要聪明数倍，往往担任狼群的军师。眼前的这头狡电狈，外形上极为类似雷冠头狼，被侦察蛊师误解也很正常。但它是货真价实的万兽王，有着不亚于人的智慧！"
+        },
+        {
+          "chapter": 175,
+          "paragraph": 10,
+          "file": "OEBPS/Text/chapter183.html",
+          "text": "“熊家寨还有大量的幸存者。”"
+        },
+        {
+          "chapter": 175,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter183.html",
+          "text": "“他们是主动撤离的，利用了先祖留下的一只蛊，同时隐去了许多人的身形，瞒天过海了！”"
+        }
+      ]
+    },
+    {
+      "id": "T121",
+      "timeline": "forecast corrected by event",
+      "kind": "investigator arrival",
+      "event": "TieXueLeng earlierthanexpected",
+      "constraint": "113year-after-nextforecast;170actualarrival;172explicitlycallsitunexpectedlyearly.",
+      "evidence_status": "Predictionnotbindingelapsedclock; do notsilentlyrepairforecast.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 113,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter121.html",
+          "text": "“这个……”贾富尴尬地笑了一下，“神捕事务繁忙，按照他的回信，恐怕要到后年了。”"
+        },
+        {
+          "chapter": 170,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter178.html",
+          "text": "“铁血冷……”方源心中一震，暗中道破这中年男子的身份。"
+        },
+        {
+          "chapter": 172,
+          "paragraph": 30,
+          "file": "OEBPS/Text/chapter180.html",
+          "text": "“现在最关键的，还是铁家父女。真是该死，居然比我预料中来得更快。狼潮还未退去，他们就到了。哼，不过这样的举止行径，倒是符合铁血冷嫉恶如仇，奋不顾身的性情。”"
+        }
+      ]
+    },
+    {
+      "id": "T122",
+      "timeline": "current life",
+      "kind": "scope of survivors",
+      "event": "Battlefield elders and remaining clan",
+      "constraint": "170eldersatfielddead;171survivingtable<10,MoCheninjured2weeksearlier,ChiLianconfirmeddead.",
+      "evidence_status": "Localbattlefieldscope; notallclaneldersdead.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 170,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter178.html",
+          "text": "浓重的狼烟已经消散了，家老们全部陨落，只剩下两位族长。"
+        },
+        {
+          "chapter": 171,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter179.html",
+          "text": "除此之外，还有古月赤钟、古月歌燕、古月漠尘、古月药姬，以及方源等人，皆是家老。"
+        },
+        {
+          "chapter": 171,
+          "paragraph": 14,
+          "file": "OEBPS/Text/chapter179.html",
+          "text": "狼潮之前，古月一族的家老有数十位，但如今就只剩下这一桌，连十位都不到。"
+        },
+        {
+          "chapter": 171,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter179.html",
+          "text": "尤其是古月漠尘，在两个星期前的抵御战中，就身负重伤，一直隐藏在密室中修养。本来躺在床上，但听说铁血冷的到来，这才强撑病体，来参加这酒席。"
+        },
+        {
+          "chapter": 171,
+          "paragraph": 17,
+          "file": "OEBPS/Text/chapter179.html",
+          "text": "不过这倒让他逃过一劫，而他的老对手古月赤练则跟随着族长追杀雷冠头狼，反而被狡电狈所杀。"
+        }
+      ]
+    },
+    {
+      "id": "T123",
+      "timeline": "current life / prior-life comparison",
+      "kind": "self-injury and false alibis",
+      "event": "YaoJi and MoChen",
+      "constraint": "YaoJiself-amputationmatchesformerlife;MoChenclaimsdruggedFYforlovingMoYan.",
+      "evidence_status": "MoChenstoryfalse;176MoYandislikeexplicit. Punishmentnotfinalised.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 171,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter179.html",
+          "text": "古月药姬为了保命，自断一臂，以受伤之名，逃避了亲临战场的家族任命。"
+        },
+        {
+          "chapter": 171,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter179.html",
+          "text": "这在方源的前世就发生过，想不到今生古月药姬同样如此做了。"
+        },
+        {
+          "chapter": 172,
+          "paragraph": 18,
+          "file": "OEBPS/Text/chapter180.html",
+          "text": "这时，族长古月博轻叹一口气：“既然方源你已经承认，那么身为族长，不得不对你此番的临阵脱逃进行处置。按照祖宗传下来的家法，临阵脱逃者，将剥削家老的职位。但最终的结果，将由我和其他几位家老联合商议，酌情处理。但不管结果如何，都希望你能够接受。”"
+        },
+        {
+          "chapter": 172,
+          "paragraph": 46,
+          "file": "OEBPS/Text/chapter180.html",
+          "text": "古月漠尘接着叹气：“实不相瞒。我的孙女古月漠颜已经深深地爱上了方源家老，在此之前，她亲自哀求我，跪在地上哭泣，不愿看到方源去战死沙场。老夫就这么一个小孙女，起了私心，就将方源强留在府内，迷昏了他。直到追击雷冠头狼，老夫才放其出去。所以千错万错，都是老夫的错。和方源家老没有关系。”"
+        },
+        {
+          "chapter": 172,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter180.html",
+          "text": "族长连忙摆手：“漠尘家老劳苦功高，这么做也可理解，人非草木，孰能无情？如今家族百废待兴，正需要您这等肱骨之臣。只是这到底是私情，如何处罚，还需要商量。今日有贵客临门，先不说这些，来，铁兄，在下和全体家老一齐敬您一杯！”"
+        },
+        {
+          "chapter": 176,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter184.html",
+          "text": "哪怕她对方源没有一丁点的感情，甚至厌恶到憎恨。但她知道，为了家族，她必须嫁给他为妻！"
+        }
+      ]
+    },
+    {
+      "id": "T124",
+      "timeline": "current life",
+      "kind": "aptitude and physiology",
+      "event": "Bai99% becomesTenExtreme",
+      "constraint": "173past99GradeA→laterTenExtreme;178realrightarmregeneration.",
+      "evidence_status": "Distinctfromearlierfracturefeint/actualamputation; nobirthdateinferred.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 173,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter181.html",
+          "text": "“怎么会这样呢？昔日为你测试资质，明明是甲等九成九，根本不是北冥冰魄体啊。”白家族长仍旧有些接受不来。"
+        },
+        {
+          "chapter": 173,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter181.html",
+          "text": "“的确是这样。但是在修行过程当中，忽然有一天，就晋升了资质。我查阅了族中典籍，书上也记录了这种情况。九成九的甲等资质，都会有可能在修行中，成为十绝资质。”白凝冰道。"
+        },
+        {
+          "chapter": 178,
+          "paragraph": 75,
+          "file": "OEBPS/Text/chapter186.html",
+          "text": "“这才是北冥冰魄体的真正的强大之处啊。我即是冰，冰即是我。对于普通蛊师而言的致命伤，对我而言，几个呼吸就能恢复。”白凝冰心中感叹着，然后慢慢举起自己的右臂。"
+        },
+        {
+          "chapter": 178,
+          "paragraph": 76,
+          "file": "OEBPS/Text/chapter186.html",
+          "text": "他的右臂原本是断了的，但现在却靠着北冥冰魄体，已经恢复如初。"
+        }
+      ]
+    },
+    {
+      "id": "T125",
+      "timeline": "current life",
+      "kind": "investigation clocks",
+      "event": "Nextday inquiry and village search",
+      "constraint": "174nextmorningaftertour;halfdayfailedvillagesearch;175laterJiangHeevidence.",
+      "evidence_status": "Failedsearchnotallleadsclosed; novicehypothesesremainhypotheses.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 174,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter182.html",
+          "text": "翌日。"
+        },
+        {
+          "chapter": 174,
+          "paragraph": 66,
+          "file": "OEBPS/Text/chapter182.html",
+          "text": "然而大半天的时间过去，她铩羽而归。这一次的狼潮，是有史以来最庞大恐怖的一次，一些村庄甚至没有任何幸存者。这给她的调查带来了非常大的困难。"
+        },
+        {
+          "chapter": 175,
+          "paragraph": 62,
+          "file": "OEBPS/Text/chapter183.html",
+          "text": "“不错。这名魔道蛊师的真正身份，其实是山脚村子中的一名猎人。只是机源巧合，成了一名魔道蛊师。他名叫王大，之所以袭杀古月方正，却是因为方正的亲身哥哥方源！”说着，铁若男紧紧地逼视方源。"
+        },
+        {
+          "chapter": 175,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter183.html",
+          "text": "当初，方源杀死王老汉一家，正是古月江鹤的管辖范围，被赶到现场的他发现。因为考核评价的缘故，他将这件事情压了下来，隐瞒不报。没有想到，今日东窗事发，被铁若男捅破。"
+        }
+      ]
+    },
+    {
+      "id": "T126",
+      "timeline": "current life / forecasts",
+      "kind": "main tide versus residual wolves",
+      "event": "Wolf crisis ends gradually",
+      "constraint": "Mainassaultdefeated,remainingmonthsminorwolves;year-enddisappearanceforecast.",
+      "evidence_status": "Do not equateendofworstcrisiswithlastwolfvanishingorcontradict>=1yeardurationautomatically.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 171,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter179.html",
+          "text": "铁血冷看过这等情形多了，开解道：“古月族长切勿伤怀，只要人还在，山寨就会有重新兴盛起来的时候。而且那狡电狈也受了伤，电狼群也消耗甚巨，最近几年应该都不会来犯。这一次的狼潮算是已经渡过。”"
+        },
+        {
+          "chapter": 171,
+          "paragraph": 23,
+          "file": "OEBPS/Text/chapter179.html",
+          "text": "狼潮中最恶劣的时期，的确已经渡过去了。接下来的几个月，虽然仍旧会有电狼不断出没，但数量会越来越少，不会形成巨大的规模，狼群再也没有直接冲击山寨的力量了。"
+        },
+        {
+          "chapter": 172,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter180.html",
+          "text": "狼潮进行到这里，大局已定了。接下来的几个月内，只会有小股狼群出没，并且随着狡电狈的不断召回，以及蛊师们的清剿，到了年末电狼将会基本消失。"
+        },
+        {
+          "chapter": 124,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter132.html",
+          "text": "方源看似只涨了五块元石，但是青书要购买的绝不止一片生机叶。狼潮至少要持续整整一年，消耗的生机叶的数量会很大，这样积累起来，就很多了。"
+        }
+      ]
+    },
+    {
+      "id": "T127",
+      "timeline": "current life",
+      "kind": "Gu healing clocks",
+      "event": "PigIron treatment",
+      "constraint": "Halfshichen≈1hour;remaining5–6scratcheshealweeks;untreatedteethwouldtake>halfyear.",
+      "evidence_status": "SpecificGuhealing,notFYbodyhealingorLightningWingsrepair.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 177,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter185.html",
+          "text": "半个时辰之后，生铁蛊越来越小，从拳头大小的煤球状，削减成弹珠大小，最终彻底消散。"
+        },
+        {
+          "chapter": 177,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter185.html",
+          "text": "此时的锯齿金蜈，仿佛焕然一新。两排的银边锯齿已经崭亮如新，闪耀着凌厉的寒芒。暗金色的背甲处，伤痕也平复了绝大多数。只有五六道浅浅的伤痕，仍旧残留着。"
+        },
+        {
+          "chapter": 177,
+          "paragraph": 12,
+          "file": "OEBPS/Text/chapter185.html",
+          "text": "但这已经无伤大雅，过不了几个星期，这些伤痕也会因为锯齿金蜈本身的康复能力，而消失不见。"
+        },
+        {
+          "chapter": 177,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter185.html",
+          "text": "不过，如果没有生铁蛊，但靠锯齿金蜈本身的恢复力，恐怕至少得有大半年，才能令锯齿全部长全。"
+        }
+      ]
+    },
+    {
+      "id": "T128",
+      "timeline": "previous life / present pressure",
+      "kind": "Cicada",
+      "event": "Advancement duration and aperture danger",
+      "constraint": "400-plusyearswithin500-yearformerlife toRevolution6;currentCicadarecoveryaccelerates.",
+      "evidence_status": "Do notadd400+500 asdisjointlifespans; noboundeddeadlinegivennumerically.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 177,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter185.html",
+          "text": "就像是高空坠物，越到下方，坠物的速度就越快。春秋蝉的恢复速度，也同样如此。渡过了前期艰难缓慢的时刻，时间越往后推移，它恢复的速度就越快。"
+        },
+        {
+          "chapter": 177,
+          "paragraph": 26,
+          "file": "OEBPS/Text/chapter185.html",
+          "text": "“这样下去，说不定在铁家父女查出真相之前，我就要被春秋蝉撑破空窍死亡了！真是屋漏偏逢连夜雨……”"
+        },
+        {
+          "chapter": 177,
+          "paragraph": 28,
+          "file": "OEBPS/Text/chapter185.html",
+          "text": "但这个办法，太过于漫长。方源前世五百年，总共用了四百多年，才修到六转。"
+        },
+        {
+          "chapter": 177,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter185.html",
+          "text": "“春秋蝉恢复速度越来越快，照此下去，恐怕我没有多少时间了。等到古月漠尘那边的四万元石到手，就摘下天元宝莲，离开这里。铁家父女那边，也只能走一步算一步了。”"
+        }
+      ]
+    },
+    {
+      "id": "T129",
+      "timeline": "current life / recorded past",
+      "kind": "tournament and replay",
+      "event": "Dayaftertomorrow / originalawakening",
+      "constraint": "179tournamentdayaftertomorrow;180sameeveningbargainandrecordingoforiginalceremony.",
+      "evidence_status": "No newawakening; tournamentNOTyetheld;Tie’slast-linehypothesisnotyetrevealed.",
+      "dependency": "Full-corpus reconciliation outstanding.",
+      "sources": [
+        {
+          "chapter": 179,
+          "paragraph": 70,
+          "file": "OEBPS/Text/chapter187.html",
+          "text": "说到这里，古月博叹息一声：“方源身上的古怪，其实我早有察觉，但因为狼潮没有详细调查。如果他真是凶手，我族绝不袒护。但希望铁神捕能宽延几日，毕竟三族大比就在后天了。”"
+        },
+        {
+          "chapter": 179,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter187.html",
+          "text": "但后日，就是三族大比武。比武的结果决定今后几年，青茅山利益分配。方源作为三转蛊师，是古月山寨的一个重要战力。"
+        },
+        {
+          "chapter": 180,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter188.html",
+          "text": "夜幕早已降临，黑暗的房间中，方源睁开双眼。"
+        },
+        {
+          "chapter": 180,
+          "paragraph": 31,
+          "file": "OEBPS/Text/chapter188.html",
+          "text": "铁血冷沉吟片刻，点头道：“也罢，若查出方源真是那凶手，我也会留出充足的时间，让他有参加三族大比的时间。”"
+        },
+        {
+          "chapter": 180,
+          "paragraph": 47,
+          "file": "OEBPS/Text/chapter188.html",
+          "text": "印记越扩越大，形成一片影像，正是昔日开窍大典的情形。"
+        },
+        {
+          "chapter": 180,
+          "paragraph": 91,
+          "file": "OEBPS/Text/chapter188.html",
+          "text": "“不，他不是知道甲等资质，而是另有所指。”铁若男娇躯一震，神情复杂，吐出一口浊气。"
+        }
+      ]
+    },
+    {
+      "id": "T130",
+      "timeline": "Recorded past / current hypothesis",
+      "kind": "false inference",
+      "event": "Fang Yuan misidentified as Ten Extreme",
+      "constraint": "Age15 is recorded; narrator explicitly rejects the conclusion.",
+      "evidence_status": "Explicit source anchors; interpretation remains revisable",
+      "dependency": "Whole-novel reconciliation outstanding",
+      "sources": [
+        {
+          "chapter": 181,
+          "paragraph": 9,
+          "file": "OEBPS/Text/chapter189.html",
+          "text": "“一个十五岁的少年，经历人生如此大变，却从他的身上看不到一丝一毫的失落、迷茫、嫉妒。只有平静。他就站在人群中，这么静静地看着，仿佛局外人，像在看一场戏。”铁若男的声音适时传来。"
+        },
+        {
+          "chapter": 181,
+          "paragraph": 35,
+          "file": "OEBPS/Text/chapter189.html",
+          "text": "“极有可能如此！只有十绝天资，才能令方源如此平静，对修行资源要求不高。更只有凌驾于甲等的十绝体，才能让方源对方正没有丝毫的嫉妒，羡慕。也只有十绝体，才令方源不敢公开出来，害怕被提前扼杀，选择作弊隐藏！”铁若男语速极快。"
+        },
+        {
+          "chapter": 181,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter189.html",
+          "text": "就算是铁血冷，也不会联想到重生。少女更是如此，各种机缘巧合之下，使得她得出一个和真相恰恰相反的推理结果。"
+        }
+      ]
+    },
+    {
+      "id": "T131",
+      "timeline": "Current shared pre-rewind sequence",
+      "kind": "early arrival",
+      "event": "Letter accelerates Tie investigation",
+      "constraint": "Original plan nextyear; craneletter triggers early arrival and separate bloodcalamity investigation.",
+      "evidence_status": "Explicit source anchors; interpretation remains revisable",
+      "dependency": "Whole-novel reconciliation outstanding",
+      "sources": [
+        {
+          "chapter": 182,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter190.html",
+          "text": "原本的计划，她和父亲将在明年到来这里。当时，铁血冷正在着手查探另一个案子，忽有一日从天而降一只白鹤。"
+        },
+        {
+          "chapter": 182,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter190.html",
+          "text": "铁血冷看了这封信之后，忽然就改变了计划，暂时放下手中的案件，赶往青茅山这边来。"
+        },
+        {
+          "chapter": 184,
+          "paragraph": 40,
+          "file": "OEBPS/Text/chapter192.html",
+          "text": "在不久之前，他收到一份神秘来信，信中证据凿凿，指明古月山寨当中，藏有血祸。"
+        },
+        {
+          "chapter": 184,
+          "paragraph": 45,
+          "file": "OEBPS/Text/chapter192.html",
+          "text": "铁血冷便带着女儿，提前赶到了青茅山。"
+        },
+        {
+          "chapter": 192,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter200.html",
+          "text": "“至于那个铁血冷，呵呵呵，的确是我用一封信笺指引过来的。看到他，就想起我们的曾经的样子。只是让人怀念啊……想当年我们师兄弟两个，一起杀魔道贼子，号称正道双鹤，风头无两。”白眉老者说着，一脸的回忆神情。"
+        }
+      ]
+    },
+    {
+      "id": "T132",
+      "timeline": "Current shared sequence / local flashback",
+      "kind": "scene offset",
+      "event": "Lotus acquisition",
+      "constraint": "182 cuts back15minutes to stone investment and acquisition.",
+      "evidence_status": "Explicit source anchors; interpretation remains revisable",
+      "dependency": "Whole-novel reconciliation outstanding",
+      "sources": [
+        {
+          "chapter": 182,
+          "paragraph": 35,
+          "file": "OEBPS/Text/chapter190.html",
+          "text": "一刻钟之前……"
+        },
+        {
+          "chapter": 182,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter190.html",
+          "text": "“先前同窗聚会，供奉上来的一万元石，再加上古月漠尘分期供给的四万元石，都已经投入进去。怎么这天元宝莲，还未显出实体？”"
+        },
+        {
+          "chapter": 182,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter190.html",
+          "text": "春秋蝉的气息泄露一丝，就让这三转花蛊瞬间被方源炼化。"
+        },
+        {
+          "chapter": 182,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter190.html",
+          "text": "天元宝莲入手！"
+        }
+      ]
+    },
+    {
+      "id": "T133",
+      "timeline": "Original500-year former life",
+      "kind": "conflicting milestone",
+      "event": "Blood Sea inheritance date",
+      "constraint": "183 says after300-plus and after400years; distinguish fromRevolution6 after400-plus andGradeB after200-plus.",
+      "evidence_status": "Unresolved discrepancy; SR-086",
+      "dependency": "Whole-novel reconciliation outstanding",
+      "sources": [
+        {
+          "chapter": 183,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter191.html",
+          "text": "在前世的三百多年后，他误打误撞，得到了血海老祖的一处传承。依靠刀翅血蝠群，以及自身的五转修为，成为一方霸主。"
+        },
+        {
+          "chapter": 183,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter191.html",
+          "text": "“前世，我在四百年之后，才找到一处血海传承，开始称霸。今生我若收服这些血蝠，等若提前了四百年的功夫啊。”"
+        },
+        {
+          "chapter": 177,
+          "paragraph": 28,
+          "file": "OEBPS/Text/chapter185.html",
+          "text": "但这个办法，太过于漫长。方源前世五百年，总共用了四百多年，才修到六转。"
+        },
+        {
+          "chapter": 198,
+          "paragraph": 59,
+          "file": "OEBPS/Text/chapter206.html",
+          "text": "“五百年前世，我是在两百多年后，才靠着运气，将丙等资质提升到乙等。没有想到，此次因祸得福，直接上升到甲等。”方源握拳，心中暗暗振奋。"
+        }
+      ]
+    },
+    {
+      "id": "T134",
+      "timeline": "Ancient history / recollection",
+      "kind": "lifespan and founding",
+      "event": "Founder and Sky Crane survive through unconventional methods",
+      "constraint": "Founder hidden nearly1000years; former sectbrothers; decades flight/collection; suspendedlife is not normal uninterrupted lifespan.",
+      "evidence_status": "Explicit source anchors; interpretation remains revisable",
+      "dependency": "Whole-novel reconciliation outstanding",
+      "sources": [
+        {
+          "chapter": 184,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter192.html",
+          "text": "“古月一代，我知道你没有死。你潜藏了近千年，布下这个局，可惜到如今，要功亏一篑了。”铁血冷一开口，整个空间都嗡嗡作响。"
+        },
+        {
+          "chapter": 185,
+          "paragraph": 95,
+          "file": "OEBPS/Text/chapter193.html",
+          "text": "他口口声声都是“吾”、“汝”，这是近千年前的古人用语习惯。"
+        },
+        {
+          "chapter": 192,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter200.html",
+          "text": "“师兄你虽然抢了我的机缘，暗算我，尽夺蛊虫，但我也掌握了秘法。因此就合炼了这只至亲血虫。你知道它是怎么合炼的吗？呵呵呵，是用你两个亲生儿子的心血。你的两个儿子才只有五六岁，实在太年幼了。心血不盛，我只好把他们俩养做药人，每隔月抽他们的心血，这样花费了我数十年的时间。积累的心血足够了，这才合炼出这只蛊来。”白眉老者侃侃而谈，语气得意至极。"
+        },
+        {
+          "chapter": 192,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter200.html",
+          "text": "“哦，对了，你的那两个儿子不久后也都死了。哈哈哈，合炼出至亲血虫后，我用它找你多年。但这天下太大，你杳无踪迹，至亲血虫尽管是五转，但是范围始终是有限的。最终，我垂垂老矣。只好用存息玉葬蛊，以死求生，封闭自己。不久前，我不得已破冰而出，最后一试。竟然无意间找到你，师兄，你知道我当时有多么欣喜若狂吗！”"
+        },
+        {
+          "chapter": 192,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter200.html",
+          "text": "天鹤上人和古月一代，皆师承中洲仙鹤门。在数百年前，乃是师兄弟，亲密无间。斩杀魔道蛊师，携手并进，默契至极。"
+        },
+        {
+          "chapter": 192,
+          "paragraph": 18,
+          "file": "OEBPS/Text/chapter200.html",
+          "text": "古月一代见事情暴露，只好隐姓埋名，四处逃窜，防备师门的追杀。辗转数十年，他未寻到寿蛊，只好在暮年，立足在南疆的青茅山，改头换面，自姓古月，创建了古月山寨。"
+        },
+        {
+          "chapter": 192,
+          "paragraph": 21,
+          "file": "OEBPS/Text/chapter200.html",
+          "text": "化身僵尸，是以死代生。存息玉葬蛊是吊住性命，并非真正的增长寿命。"
+        }
+      ]
+    },
+    {
+      "id": "T135",
+      "timeline": "Current shared pre-rewind sequence",
+      "kind": "day boundary",
+      "event": "Preliminary contest before main tournament",
+      "constraint": "179 dayaftertomorrow;186dawn maincontest tomorrow. The actual fight is preliminary, not an erroneously advanced final.",
+      "evidence_status": "Explicit source anchors; interpretation remains revisable",
+      "dependency": "Whole-novel reconciliation outstanding",
+      "sources": [
+        {
+          "chapter": 179,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter187.html",
+          "text": "但后日，就是三族大比武。比武的结果决定今后几年，青茅山利益分配。方源作为三转蛊师，是古月山寨的一个重要战力。"
+        },
+        {
+          "chapter": 186,
+          "paragraph": 64,
+          "file": "OEBPS/Text/chapter194.html",
+          "text": "黎明到来了。"
+        },
+        {
+          "chapter": 186,
+          "paragraph": 66,
+          "file": "OEBPS/Text/chapter194.html",
+          "text": "“虽然真正的三族大比，还在明天。不过预选赛还是少不了的。二位，时间刚好，可以开始了么？”熊家族长微笑着道。"
+        },
+        {
+          "chapter": 186,
+          "paragraph": 73,
+          "file": "OEBPS/Text/chapter194.html",
+          "text": "熊家族长大喝道：“此次比试，范围方圆百里，时间持续到晚上，太阳落山便结束。交手不论生死，但也希望你们克制。你们的手中都分发了一块铭牌，收集到三十块铭牌者，方有资格参加接下来的三族大比！下面开始！”"
+        }
+      ]
+    },
+    {
+      "id": "T136",
+      "timeline": "Current shared sequence",
+      "kind": "elapsed travel",
+      "event": "Underground escape",
+      "constraint": "3–4hours through rubble; halfday wallwork (possibly idiomatic); additional30minutes to expose spider.189surface fight atsunset.",
+      "evidence_status": "Explicit source anchors; interpretation remains revisable",
+      "dependency": "Whole-novel reconciliation outstanding",
+      "sources": [
+        {
+          "chapter": 188,
+          "paragraph": 37,
+          "file": "OEBPS/Text/chapter196.html",
+          "text": "这大大拖慢了他的速度，三四个小时之后，他走到了山洞尽头。"
+        },
+        {
+          "chapter": 188,
+          "paragraph": 67,
+          "file": "OEBPS/Text/chapter196.html",
+          "text": "这石壁坚硬厚重，出现得十分古怪。方源满头大汗，轮番动用锯齿金蜈以及血月蛊轰斩，如此半天功夫，也只碾磨了半米之距。"
+        },
+        {
+          "chapter": 188,
+          "paragraph": 70,
+          "file": "OEBPS/Text/chapter196.html",
+          "text": "半个小时之后，方源挖开一个洞口，神秘生物显露原形。"
+        },
+        {
+          "chapter": 189,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter197.html",
+          "text": "夕阳晚照，天边红霞似火。"
+        }
+      ]
+    },
+    {
+      "id": "T137",
+      "timeline": "Current shared pre-rewind sequence",
+      "kind": "confirmed deaths",
+      "event": "Xiong and clan leaders",
+      "constraint": "Xiong JiaoMan alive189p21, explicitbeheadingp69. Three clanleaders die191p83. Earlier unresponsiveness does not prove an earlierdeath.",
+      "evidence_status": "Explicit source anchors; interpretation remains revisable",
+      "dependency": "Whole-novel reconciliation outstanding",
+      "sources": [
+        {
+          "chapter": 189,
+          "paragraph": 21,
+          "file": "OEBPS/Text/chapter197.html",
+          "text": "“无妨，就让我先来罢。白凝冰，说实话，我早就想会会你了。”熊骄嫚抱臂，迈出一步。"
+        },
+        {
+          "chapter": 189,
+          "paragraph": 24,
+          "file": "OEBPS/Text/chapter197.html",
+          "text": "狼潮是凶险，也是机遇。熊骄嫚因此晋升三转，驭熊蛊级数也上升到三转，可驾驭熊类的百兽王！"
+        },
+        {
+          "chapter": 189,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter197.html",
+          "text": "熊群早已经全灭，甚至就连熊骄嫚也被白凝冰一刀枭首，娇丽的头颅飞出老远去，脖颈血喷如泉。"
+        },
+        {
+          "chapter": 191,
+          "paragraph": 83,
+          "file": "OEBPS/Text/chapter199.html",
+          "text": "三位族长接连战死，白眉老者拂拂衣袖，稳坐巨鹤之上。飞鹤大军漫天盖地，缓缓地向古月山寨压去。"
+        }
+      ]
+    },
+    {
+      "id": "T138",
+      "timeline": "Current shared sequence / flashback",
+      "kind": "confirmed death",
+      "event": "Tie Xue Leng and delayed Gu",
+      "constraint": "193 recalls fatalbattle and finaltouch; contamination powersGu afterownerdeath.",
+      "evidence_status": "Explicit source anchors; interpretation remains revisable",
+      "dependency": "Whole-novel reconciliation outstanding",
+      "sources": [
+        {
+          "chapter": 190,
+          "paragraph": 98,
+          "file": "OEBPS/Text/chapter198.html",
+          "text": "这蛊外形如一块青铜面具，形式古朴，留出双眼和嘴巴三个洞口。青铜面具染血，不顾惊骇的铁若男，自行往少女的脸色一罩。"
+        },
+        {
+          "chapter": 190,
+          "paragraph": 100,
+          "file": "OEBPS/Text/chapter198.html",
+          "text": "就在这时，一只巨大的铁手也飞了过来，一把抓住铁若男，然后停也不停，就飞向远方去。"
+        },
+        {
+          "chapter": 193,
+          "paragraph": 25,
+          "file": "OEBPS/Text/chapter201.html",
+          "text": "“究竟是什么时候的事情？！”古月一代此刻惊怒交加。他脑海中回想起击杀铁血冷的最后一幕。"
+        },
+        {
+          "chapter": 193,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter201.html",
+          "text": "虽然已经必死，但这脸上却无丝毫恐惧之色。双眼沧桑又透出坚定，布满血迹的手掌轻轻一拍，隐晦地拍中古月一代的胸膛。"
+        },
+        {
+          "chapter": 193,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter201.html",
+          "text": "按理说，铁血冷已死，这镇魔铁索蛊没有蛊师的真元，无法催动。但这镇魔铁索蛊，却是被血狂蛊污染，可以自身汲取空气中的元气。同时镇魔铁索蛊乃是铁血冷之蛊，里面是铁血冷要镇杀古月一代的意志。"
+        }
+      ]
+    },
+    {
+      "id": "T139",
+      "timeline": "Overwritten first traversal after landing point",
+      "kind": "superseded outcome",
+      "event": "Founder massacre and first ice explosion",
+      "constraint": "194–196original: founder raisesaptitude, Bai explodes, founder survivesice, SkyCrane killsPython, FYselfexplodes. Not outcomes toduplicate inrevisedsequence.",
+      "evidence_status": "Explicit source anchors; interpretation remains revisable",
+      "dependency": "Whole-novel reconciliation outstanding",
+      "sources": [
+        {
+          "chapter": 194,
+          "paragraph": 75,
+          "file": "OEBPS/Text/chapter202.html",
+          "text": "除开白家、熊家蛊师，他每杀一个古月族人，就用血颅蛊吸尽血液。杀了数百人后，四转的血颅蛊鲜红欲滴，达到了极限。"
+        },
+        {
+          "chapter": 195,
+          "paragraph": 64,
+          "file": "OEBPS/Text/chapter203.html",
+          "text": "巨大的冰川充斥整个血罩，唯有方源这处，被白凝冰特意留出一个容人的内部小空间。"
+        },
+        {
+          "chapter": 195,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter203.html",
+          "text": "在他震惊的俯视下，就看到冰川四处扩张，竟然覆盖了整个青茅山，从山顶到山脚。在顷刻之间，就将原本郁郁葱葱，生机勃勃的青茅山，化为一片冰霜风雪的险恶之地。"
+        },
+        {
+          "chapter": 196,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter204.html",
+          "text": "“哈哈哈。”长笑声中，血光冲天，古月一代破冰而出。他虽然狼狈，却更显猖狂，“这个北冥冰魄体，修为若达到四转，说不定就能将我镇杀了。可惜啊，他只有三转巅峰……”"
+        },
+        {
+          "chapter": 196,
+          "paragraph": 7,
+          "file": "OEBPS/Text/chapter204.html",
+          "text": "“北冥冰魄体杀不了你，那师弟我就代劳吧。”远处天空，天鹤上人悠悠飞来。他座下的是那只铁喙飞鹤王。之前他飞天远去，相助铁喙飞鹤王斩杀了血河蟒，此时挟持胜势而来。"
+        },
+        {
+          "chapter": 196,
+          "paragraph": 46,
+          "file": "OEBPS/Text/chapter204.html",
+          "text": "方源自爆！"
+        }
+      ]
+    },
+    {
+      "id": "T140",
+      "timeline": "Rewind transition",
+      "kind": "landing point",
+      "event": "Second successful rebirth",
+      "constraint": "196 returns just before BloodSkull extraction, matching193. Not another500yearrewind. Sameevents replay until intervention197.",
+      "evidence_status": "Explicit source anchors; interpretation remains revisable",
+      "dependency": "Whole-novel reconciliation outstanding",
+      "sources": [
+        {
+          "chapter": 193,
+          "paragraph": 83,
+          "file": "OEBPS/Text/chapter201.html",
+          "text": "忽的，符底抽薪蛊散发出微微的黄光。从古月一代的空窍中，拘出一团黄光。"
+        },
+        {
+          "chapter": 193,
+          "paragraph": 86,
+          "file": "OEBPS/Text/chapter201.html",
+          "text": "“血颅蛊啊！时隔数百年，我终于又见到你了！”天鹤上人远远看到，喜极而泣，神色激动至极。"
+        },
+        {
+          "chapter": 196,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter204.html",
+          "text": "终于，它只逆流了微小的一段，黄绿微光几乎消散不见。春秋蝉达到了极限，嗖的一下，化作一道光辉，钻入到一朵浪花当中。"
+        },
+        {
+          "chapter": 196,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter204.html",
+          "text": "成功了！"
+        },
+        {
+          "chapter": 196,
+          "paragraph": 67,
+          "file": "OEBPS/Text/chapter204.html",
+          "text": "在符底抽薪蛊的作用下，一团黄光从古月一代的体内飞出来。"
+        },
+        {
+          "chapter": 196,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter204.html",
+          "text": "“血颅蛊啊！时隔数百年，我终于又见到你了！”天鹤上人远远看到，喜极而泣，神色激动至极。"
+        }
+      ]
+    },
+    {
+      "id": "T141",
+      "timeline": "Revised traversal after second rebirth",
+      "kind": "divergence",
+      "event": "Founder thrown outside barrier",
+      "constraint": "197changeschoice; Lotusoffer not transfer; founderlosesaccess, FYrefinessealedGu aftersealexpires.",
+      "evidence_status": "Explicit source anchors; interpretation remains revisable",
+      "dependency": "Whole-novel reconciliation outstanding",
+      "sources": [
+        {
+          "chapter": 197,
+          "paragraph": 3,
+          "file": "OEBPS/Text/chapter205.html",
+          "text": "但方源动了，他没有冷眼旁观，而是做了一个不同先前的选择。"
+        },
+        {
+          "chapter": 197,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter205.html",
+          "text": "“一代祖宗啊，局势危急，我有天元宝莲奉上！”他满怀诚恳，快步走过去，一脸可惜无奈，却又似下定决心的表情。"
+        },
+        {
+          "chapter": 197,
+          "paragraph": 21,
+          "file": "OEBPS/Text/chapter205.html",
+          "text": "古月一代，就被他抛到血罩之外去。"
+        },
+        {
+          "chapter": 197,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter205.html",
+          "text": "这血幕天华是他亲手所炼，最得意的发明。防御卓越，一旦用了，就不能移动，不可关闭。对他而言，也是只能出不能进。"
+        },
+        {
+          "chapter": 197,
+          "paragraph": 87,
+          "file": "OEBPS/Text/chapter205.html",
+          "text": "方源嘴角笑容扩散，恰在此时，那符底抽薪蛊也化为一滩血水。"
+        },
+        {
+          "chapter": 197,
+          "paragraph": 89,
+          "file": "OEBPS/Text/chapter205.html",
+          "text": "他动用春秋蝉的气息，这三只蛊不过都只是四转，立即慑服。方源再用真元一灌，顷刻炼化，收为己用！"
+        }
+      ]
+    },
+    {
+      "id": "T142",
+      "timeline": "Revised traversal",
+      "kind": "elapsed duration",
+      "event": "Massacre and pursuit",
+      "constraint": "1982–3shichen≈4–6hours, thenfurtherfight/flight, then2shichen≈4hour wait. No exactsunrise assigned.",
+      "evidence_status": "Explicit source anchors; interpretation remains revisable",
+      "dependency": "Whole-novel reconciliation outstanding",
+      "sources": [
+        {
+          "chapter": 198,
+          "paragraph": 53,
+          "file": "OEBPS/Text/chapter206.html",
+          "text": "屠戮仍旧在继续，两三个时辰之后。"
+        },
+        {
+          "chapter": 198,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter206.html",
+          "text": "“真是气煞我也！”又过了片刻，古月一代仰天悲啸，“小贼子，你坏了我的百年大计。今天暂且绕过你，将来必要杀你以泄心头之恨啊！”"
+        },
+        {
+          "chapter": 198,
+          "paragraph": 85,
+          "file": "OEBPS/Text/chapter206.html",
+          "text": "撂了这句狠话，古月一代双翅猛振，飞向天边，逃离战场。"
+        },
+        {
+          "chapter": 198,
+          "paragraph": 89,
+          "file": "OEBPS/Text/chapter206.html",
+          "text": "约莫过了两个时辰，血罩渐渐稀薄，眼看就要消失。"
+        },
+        {
+          "chapter": 198,
+          "paragraph": 92,
+          "file": "OEBPS/Text/chapter206.html",
+          "text": "他右手提着一个脑袋，蓬头血面，正是古月一代！"
+        }
+      ]
+    },
+    {
+      "id": "T143",
+      "timeline": "Revised traversal",
+      "kind": "death/revival",
+      "event": "Bai explosion and Yin revival",
+      "constraint": "Bai trapsSkyCrane, usesbotharms, revivedbeforeconsciousnessfullygone; femaleform, aptitude90, Revolution3retained.",
+      "evidence_status": "Explicit source anchors; interpretation remains revisable",
+      "dependency": "Whole-novel reconciliation outstanding",
+      "sources": [
+        {
+          "chapter": 199,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter207.html",
+          "text": "白凝冰已经不能说话，他毅然自爆一臂，化为浩瀚霜风。大风席卷，冰川蔓延，迅速将冰层加厚近十丈。"
+        },
+        {
+          "chapter": 199,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter207.html",
+          "text": "白凝冰又爆去手臂，冰川屡屡盖压，将天鹤上人的一次次突围镇压下去。"
+        },
+        {
+          "chapter": 199,
+          "paragraph": 14,
+          "file": "OEBPS/Text/chapter207.html",
+          "text": "一切都表面，他的意识在渐渐消散。一旦消散殆尽，他将彻底死亡。"
+        },
+        {
+          "chapter": 199,
+          "paragraph": 19,
+          "file": "OEBPS/Text/chapter207.html",
+          "text": "“去吧。”方源心念一动，那冒黑光的蛊虫顿时飞出，投入到白凝冰的冰雕当中。"
+        },
+        {
+          "chapter": 199,
+          "paragraph": 23,
+          "file": "OEBPS/Text/chapter207.html",
+          "text": "依旧是白袍银发，双臂完好的白凝冰，眉目如画，脸颊上带着可爱的红晕，破冰而出。"
+        },
+        {
+          "chapter": 199,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter207.html",
+          "text": "白凝冰原先是十绝体，就是十成资质。如今下降一成，和方源齐平，便是九成资质了。"
+        },
+        {
+          "chapter": 199,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter207.html",
+          "text": "现如今，白凝冰仍旧是三转修为。他不过一转，自然需要手段，令白凝冰投鼠忌器，不能对付自己。"
+        }
+      ]
+    },
+    {
+      "id": "T144",
+      "timeline": "Revised traversal / parallel scenes",
+      "kind": "two-day cutaway",
+      "event": "Sky Crane escapes and rescues Fang Zheng",
+      "constraint": "199two days later, survivorsunderice; FangZhengwasmissing, notkilledinbarrier.3–5daydeathforecast notelapsed.",
+      "evidence_status": "Explicit source anchors; interpretation remains revisable",
+      "dependency": "Whole-novel reconciliation outstanding",
+      "sources": [
+        {
+          "chapter": 193,
+          "paragraph": 75,
+          "file": "OEBPS/Text/chapter201.html",
+          "text": "方正则不见踪影，他失落在野外，并未有逃到山寨里来，已然生死未卜，凶多吉少。"
+        },
+        {
+          "chapter": 199,
+          "paragraph": 35,
+          "file": "OEBPS/Text/chapter207.html",
+          "text": "“呵呵呵……”方源笑了好一阵，这才正色道，“这青茅山已经成了冰山绝域，三大家族，还有无数生灵都被冻在冰下，不出三五日，就要都死绝了。这等异象，必定会惹来许多人的关注和探索。况且那老家伙也没有死，自封玉棺当中，等待脱困。这青茅山是绝对不能待了，我们必须离开这里。”"
+        },
+        {
+          "chapter": 199,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter207.html",
+          "text": "两天之后。"
+        },
+        {
+          "chapter": 199,
+          "paragraph": 65,
+          "file": "OEBPS/Text/chapter207.html",
+          "text": "生命顽强，常常能创造奇迹。这冰川白雪只覆盖了两天，时间上还不足以导致全部生灵死亡。"
+        },
+        {
+          "chapter": 199,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter207.html",
+          "text": "冰块中，方正浑身笼罩着一层月光，正是月霓裳。他已经濒临死亡，只含一口气了。"
+        },
+        {
+          "chapter": 199,
+          "paragraph": 80,
+          "file": "OEBPS/Text/chapter207.html",
+          "text": "他当即昏迷过去，从山崖边滚落下去。"
+        }
+      ]
+    },
+    {
+      "id": "T145",
+      "timeline": "Revised traversal / VolumeTwo",
+      "kind": "five-day travel",
+      "event": "River journey after Qing Mao",
+      "constraint": "Corpus200=VolumeIICh1. Five-dayjourney overlaps the two-daycutaway, notseven days. WhiteBoneMountain notyetreached; attackforcesearlyshore.",
+      "evidence_status": "Explicit source anchors; interpretation remains revisable",
+      "dependency": "Whole-novel reconciliation outstanding",
+      "sources": [
+        {
+          "chapter": 200,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter208.html",
+          "text": "黄龙江，南疆第三江，全长八千多公里，发源于黄果山，流经玄冥山、龟背山、青茅山、白骨山、雷磁山等，最后流入到海。"
+        },
+        {
+          "chapter": 200,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter208.html",
+          "text": "竹筏从支流，汇入到主河道，一路顺江而下，一日千里有余，速度自然是极快的。"
+        },
+        {
+          "chapter": 200,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter208.html",
+          "text": "“已经过去了五天，看来那老家伙，是不会来了。”方源立足在竹筏上，回望身后一眼，喃喃地道。"
+        },
+        {
+          "chapter": 200,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter208.html",
+          "text": "算一算，五天的水路，已经很接近白骨山了。"
+        },
+        {
+          "chapter": 200,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter208.html",
+          "text": "“竹筏已经破损不堪，按照这种态势，只能再坚持一天。一天之后，我们就得靠岸。”方源叹了一口气。"
+        },
+        {
+          "chapter": 200,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter208.html",
+          "text": "但天有不测风云，人有旦夕祸福。计划永远赶不上变化，距离白骨山还有一段距离，但方源此刻，必须靠岸了。"
+        },
+        {
+          "chapter": 200,
+          "paragraph": 86,
+          "file": "OEBPS/Text/chapter208.html",
+          "text": "两人淌水，踩在松软的沙滩上，上了岸。"
+        }
+      ]
+    }
+  ]
+}

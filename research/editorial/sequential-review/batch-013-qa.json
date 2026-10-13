@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "next_unread": 271,
+  "chapters": 270,
+  "paragraphs_read": 23816,
+  "characters_read": 833422,
+  "reading_segments": 8,
+  "workbook_sheets": [
+    "Read me",
+    "Chapter completion",
+    "Paragraph register",
+    "Proposal ledger",
+    "Copy items",
+    "Chronology",
+    "Resources",
+    "Working standards"
+  ],
+  "docx_paragraphs": 94,
+  "docx_tables": 2,
+  "reader_omissions": 6,
+  "source_sha256_unchanged": "1ef1c29b6bddd7994f56696e2d091363aa8bbcee4889439465a9e2c51437dd5d",
+  "approved_or_applied": false
+}

@@ -1,0 +1,23 @@
+# Batch006: Preserve, do not repair
+
+- Preserve auction display, predictions, bid, award and use as separate events. Clean Water Gu was not bought. Second Liquor Worm, Black Boar and Red Iron Relic were bought; exact prices remain unspecified.
+- Nine leaves are not produced every day. Asking65 per leaf is not a completed sale. A previous-life100 peak is not the current price.
+- The inherited grass is retained when the other property is sold. Three chests do not yield a numerical cash balance.
+- Red Iron Relic is unused at Chapter114 and consumed in115. A purchase does not advance cultivation by itself.
+- Preserve44% capacity and separate essence quality from bodily cultivation. Four-Flavours does not turn middle-stage cultivation into upper-stage cultivation.
+- A hundred-beast king may command500+ monkeys. These are classes, not exact headcounts.
+- The15-minute fight and subsequent repeated expeditions need not be one continuous15-minute event.
+- The stone-monkey king is finished by a rival. The chapter title need not specify the final blow literally.
+- A predicted1.5-month route clearance can fail; the ensuing delay is explicitly explained.
+- Hidden Scale is completed before the alliance but first shown later. Black Boar’s permanent strength survives its trade.
+- Earth Hearing Grass replaces the RIGHT ear. Ground contact enables its full300-pace range; moving without rooted contact reduces it below half that range.
+- JiangFan’s200-plus-year future story, recipe discoveries, RenZu’s myth and previous-life destruction forecasts do not run on the current-life clock.
+- Five100-year lifespan extensions give600 potential years including the natural100, not an actual600-year life before rebirth.
+- BaiNingBing’s apparent right-arm fracture is a feint. The later right-arm sacrifice is real. These are not inconsistent healing events.
+- RevolutionThree cultivation with diluted RevolutionTwo essence is not an actual revolution demotion. RevolutionThree Gu can still be used at excessive cost.
+- TenExtreme recovery is fast but not unlimited. Healing while fleeing is explicitly supplied by regeneration.
+- A possessed Gu need not be refined: BaiNingBing fails to refine Plunder; FangYuan immediately succeeds.
+- FangYuan’s claim that Bai killed the whole Xiong group suppresses his own killing of XiongJiang. XiongLin survives at this checkpoint.
+- Chapter140 starts QingShu’s WoodCharm use; it does not yet narrate his death. Never import the next chapter into coverage.
+- Do not restore the withdrawn April/summer diagnosis. The separateJuly/autumn versus later-summer query remains unresolved; neither Gregorian nor lunar conversion is established.
+- Ch112’s roughly-year-long absence is not contradicted by Ch90: the earlier invitation was rejected through Shen, not a face-to-face visit.

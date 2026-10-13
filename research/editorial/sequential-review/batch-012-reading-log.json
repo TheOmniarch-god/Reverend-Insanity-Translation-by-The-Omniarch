@@ -1,0 +1,71 @@
+{
+  "status": "Complete",
+  "endpoint": 255,
+  "next_unread": 256,
+  "segments": [
+    {
+      "chapters": [
+        241,
+        242
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 171
+    },
+    {
+      "chapters": [
+        243,
+        244
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 162
+    },
+    {
+      "chapters": [
+        245,
+        246
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 200
+    },
+    {
+      "chapters": [
+        247,
+        248
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 220
+    },
+    {
+      "chapters": [
+        249,
+        250
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 196
+    },
+    {
+      "chapters": [
+        251,
+        252
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 206
+    },
+    {
+      "chapters": [
+        253,
+        254
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 205
+    },
+    {
+      "chapters": [
+        255
+      ],
+      "status": "Complete untruncated chapter read",
+      "paragraphs": 97
+    }
+  ],
+  "note": "Adaptive15, actualreading. Reader-facing250pp24–31/33/35–36 omissionmarkers preserve numbering; originalEPUB unchanged. No invented timestamps."
+}

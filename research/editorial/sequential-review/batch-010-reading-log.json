@@ -1,0 +1,88 @@
+{
+  "status": "Complete",
+  "endpoint": 220,
+  "next_unread": 221,
+  "segments": [
+    {
+      "chapters": [
+        201,
+        202
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 178
+    },
+    {
+      "chapters": [
+        203,
+        204
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 190
+    },
+    {
+      "chapters": [
+        205,
+        206
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 183
+    },
+    {
+      "chapters": [
+        207,
+        208
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 193
+    },
+    {
+      "chapters": [
+        209,
+        210
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 176
+    },
+    {
+      "chapters": [
+        211,
+        212
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 258
+    },
+    {
+      "chapters": [
+        213,
+        214
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 206
+    },
+    {
+      "chapters": [
+        215,
+        216
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 172
+    },
+    {
+      "chapters": [
+        217,
+        218
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 183
+    },
+    {
+      "chapters": [
+        219,
+        220
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 195
+    }
+  ],
+  "note": "Actual sequential reading; no invented timestamps. Reader copy marks201p22 and203p84 omissions, originalEPUB unchanged."
+}

@@ -1,0 +1,105 @@
+{
+  "source": "/home/user/benchmark/sources/Gu-Zhen-Ren.epub",
+  "source_sha256": "1ef1c29b6bddd7994f56696e2d091363aa8bbcee4889439465a9e2c51437dd5d",
+  "total_narrative_chapters": 2334,
+  "sequential_chapters_completed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "paragraphs_read": 715,
+  "paragraph_characters_read": 26627,
+  "next_chapter": 11,
+  "remaining_chapters": 2324,
+  "batch_report": "Batch-001-Chapters-1-10.md",
+  "scope": "Complete source paragraph sequences read. Not a fresh bilingual/live-site audit. Later topical excerpts do not count as sequential completion.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "file": "OEBPS/Text/chapter9.html",
+      "title": "第一节：纵身亡魔心仍不悔",
+      "paragraphs": 86,
+      "first_paragraph": 1,
+      "last_paragraph": 86
+    },
+    {
+      "chapter": 2,
+      "file": "OEBPS/Text/chapter10.html",
+      "title": "第二节：逆光阴五百年觉悟",
+      "paragraphs": 79,
+      "first_paragraph": 1,
+      "last_paragraph": 79
+    },
+    {
+      "chapter": 3,
+      "file": "OEBPS/Text/chapter11.html",
+      "title": "第三节：请一边玩蛋去",
+      "paragraphs": 65,
+      "first_paragraph": 1,
+      "last_paragraph": 65
+    },
+    {
+      "chapter": 4,
+      "file": "OEBPS/Text/chapter12.html",
+      "title": "第四节：古月方源！",
+      "paragraphs": 76,
+      "first_paragraph": 1,
+      "last_paragraph": 76
+    },
+    {
+      "chapter": 5,
+      "file": "OEBPS/Text/chapter13.html",
+      "title": "第五节：人祖三蛊，希望开窍",
+      "paragraphs": 56,
+      "first_paragraph": 1,
+      "last_paragraph": 56
+    },
+    {
+      "chapter": 6,
+      "file": "OEBPS/Text/chapter14.html",
+      "title": "第六节：未来的路，会很精彩",
+      "paragraphs": 75,
+      "first_paragraph": 1,
+      "last_paragraph": 75
+    },
+    {
+      "chapter": 7,
+      "file": "OEBPS/Text/chapter15.html",
+      "title": "第七节：蛊师有九转，花酒留遗藏",
+      "paragraphs": 55,
+      "first_paragraph": 1,
+      "last_paragraph": 55
+    },
+    {
+      "chapter": 8,
+      "file": "OEBPS/Text/chapter16.html",
+      "title": "第八节：物是人非",
+      "paragraphs": 86,
+      "first_paragraph": 1,
+      "last_paragraph": 86
+    },
+    {
+      "chapter": 9,
+      "file": "OEBPS/Text/chapter17.html",
+      "title": "第九节：渐行渐远",
+      "paragraphs": 75,
+      "first_paragraph": 1,
+      "last_paragraph": 75
+    },
+    {
+      "chapter": 10,
+      "file": "OEBPS/Text/chapter18.html",
+      "title": "第十节：天有不测风云，炼蛊别具艰辛",
+      "paragraphs": 62,
+      "first_paragraph": 1,
+      "last_paragraph": 62
+    }
+  ]
+}

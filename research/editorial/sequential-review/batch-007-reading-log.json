@@ -1,0 +1,88 @@
+{
+  "status": "Complete",
+  "endpoint": 160,
+  "next_unread": 161,
+  "segments": [
+    {
+      "chapters": [
+        141,
+        142
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 189
+    },
+    {
+      "chapters": [
+        143,
+        144
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 189
+    },
+    {
+      "chapters": [
+        145,
+        146
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 177
+    },
+    {
+      "chapters": [
+        147,
+        148
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 170
+    },
+    {
+      "chapters": [
+        149,
+        150
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 227
+    },
+    {
+      "chapters": [
+        151,
+        152
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 199
+    },
+    {
+      "chapters": [
+        153,
+        154
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 184
+    },
+    {
+      "chapters": [
+        155,
+        156
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 155
+    },
+    {
+      "chapters": [
+        157,
+        158
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 184
+    },
+    {
+      "chapters": [
+        159,
+        160
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 204
+    }
+  ],
+  "note": "Extraction alone not completion. No invented timestamps. Reading-copy omissions do not mean unread source."
+}

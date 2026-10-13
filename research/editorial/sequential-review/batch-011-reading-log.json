@@ -1,0 +1,88 @@
+{
+  "status": "Complete",
+  "endpoint": 240,
+  "next_unread": 241,
+  "segments": [
+    {
+      "chapters": [
+        221,
+        222
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 214
+    },
+    {
+      "chapters": [
+        223,
+        224
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 200
+    },
+    {
+      "chapters": [
+        225,
+        226
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 244
+    },
+    {
+      "chapters": [
+        227,
+        228
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 288
+    },
+    {
+      "chapters": [
+        229,
+        230
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 180
+    },
+    {
+      "chapters": [
+        231,
+        232
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 180
+    },
+    {
+      "chapters": [
+        233,
+        234
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 193
+    },
+    {
+      "chapters": [
+        235,
+        236
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 190
+    },
+    {
+      "chapters": [
+        237,
+        238
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 241
+    },
+    {
+      "chapters": [
+        239,
+        240
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 191
+    }
+  ],
+  "note": "Actual reading, not extraction-only coverage. Includes paratext separately identified. No invented timestamps."
+}

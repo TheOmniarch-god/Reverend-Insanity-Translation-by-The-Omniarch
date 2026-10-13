@@ -1,0 +1,12 @@
+# Batch014 preservation cautions
+- False prophetic-Gu inference, FY heir cover story, FY shared-spy identity and staged gambling rumour must not become narrator facts.
+- Original counter-support stone empty is explained by an intended stone swap, not repaired by inventing Gu contents.
+- One, two, five is intentional coercion. July/August heat is a simile, not current date.
+- Ice Crystal is deliberately male-suited; Bai expects eventual bodily reversal. Aptitude increase not a new exact certified total.
+- Gu purchase/refinement, temporary effects, permanent bodily strength and actual possession are different events.
+- Oath renegotiation is explicit misconduct by FY, not an author forgetting the Revolution Three threshold.
+- Two old FY-side oaths removed; others remain bound. No third removal or full new contract is narrated by285.
+- Ordinary price bands exclude rare Gu. Sale valuation is not realised cash. Approximate aggregate gambling spending not counted twice.
+- First punch, kick, final punch: correct the ordinal wording, not the combat.
+- Near-ten-year phrases may be approximate; exact mission11=outside3+city8. Half-year stakeout/contact clocks remain separate.
+- Source EPUB unchanged. No substantive edits approved/applied; no remote backup completed.

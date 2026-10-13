@@ -1,0 +1,71 @@
+{
+  "status": "Complete",
+  "endpoint": 285,
+  "next_unread": 286,
+  "segments": [
+    {
+      "chapters": [
+        271,
+        272
+      ],
+      "status": "Full text read; untruncated",
+      "paragraphs": 266
+    },
+    {
+      "chapters": [
+        273,
+        274
+      ],
+      "status": "Full text read; untruncated",
+      "paragraphs": 182
+    },
+    {
+      "chapters": [
+        275,
+        276
+      ],
+      "status": "Full text read; untruncated",
+      "paragraphs": 155
+    },
+    {
+      "chapters": [
+        277,
+        278
+      ],
+      "status": "Full text read; untruncated",
+      "paragraphs": 211
+    },
+    {
+      "chapters": [
+        279,
+        280
+      ],
+      "status": "Full text read; untruncated",
+      "paragraphs": 260
+    },
+    {
+      "chapters": [
+        281,
+        282
+      ],
+      "status": "Full text read; untruncated",
+      "paragraphs": 206
+    },
+    {
+      "chapters": [
+        283,
+        284
+      ],
+      "status": "Full text read; untruncated",
+      "paragraphs": 201
+    },
+    {
+      "chapters": [
+        285
+      ],
+      "status": "Full text read; untruncated",
+      "paragraphs": 78
+    }
+  ],
+  "note": "Actual sequential close reading; no fabricated timestamps."
+}

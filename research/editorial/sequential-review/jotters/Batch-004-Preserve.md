@@ -1,0 +1,24 @@
+# Batch 004: Preserve, do not repair
+
+- Ch51–52 guards survive. Earlier assumptions of death are corrected by the scene itself.
+- Fang Yuan's provocation story, gambling origin for the Liquor Worm, and denial of murder are deliberate lies.
+- Bamboo Gentleman is received unrefined and suppressed by the Cicada. This is not ordinary successful refinement by a liar.
+- The elders' surveillance is not a genuine murder-time alibi. Preserve the distinction between evidence and politically convenient conclusions.
+- Ch55's toad buyer is Jia Jin Sheng: Ch42pp58–63 directly confirms him. A working-memory suspicion that Jia Fu bought it was wrong and has been withdrawn. No new correction belongs here.
+- Ch58 Ren Zu's physical youth and clan-history approximations belong in separate registers.
+- Ch64 four feeding-cost Gu and Ch70 five owned Gu are compatible because Cicada is excluded from the expense subset.
+- Ch65 independent wilderness travel and hunting near patrol-cleared villages are different risk settings.
+- Ch66 slow-motion depiction is perception and narrative technique, not a supernatural time-flow change.
+- Fang Yuan's promises to spare the hunters do not become binding narration. His lies are intentional.
+- Wang Da's supposed death and his wife's supposed suicide are rumours. Later evidence revises them.
+- The attacker mistakes Fang Zheng for Fang Yuan. Do not replace every Fang Yuan occurrence before the reveal.
+- The academy guard named Wang Da is not established as the hunter family's Wang Da.
+- Jiang Ya can be called 弟弟 and then more precisely 表弟. This is not proof of contradictory kinship.
+- Fang Yuan's exam claim of personally collecting only ten-plus tusks is deliberately false. Actual23boars yield46fresh tusks before penalties. The earlier cache is not explicitly retrieved or submitted after the escape detour.
+- The chief's public announcement of private teaching does not restart teaching that already began secretly.
+- White Boar feeding every5days is compatible with daily activation; strength persists after acquisition.
+- One-boar strength does not mean the boulder weighs oneboar. Rolling, lifting, traction and leverage differ.
+- The three-hour Shadow Gu recovery never elapses on the page before its owner's death.
+- Fang Zheng's seven-day coma does not conflict with Fang Yuan learning of Wang Da's death after three days.
+- Ch80 confirms44% aperture volume and44−8=36, with stage potency1:2:4:8. No global aptitude recalculation is warranted.
+- Fang Yuan's peak-quality refined essence does not make him peak-stage yet. His10–15day forecast remains a forecast.

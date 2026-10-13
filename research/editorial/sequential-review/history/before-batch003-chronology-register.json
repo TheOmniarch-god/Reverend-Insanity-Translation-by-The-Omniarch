@@ -1,0 +1,643 @@
+{
+  "scope": "Sequential source evidence through Chapter 20; chronology unresolved; analytic day labels are not canon.",
+  "entries": [
+    {
+      "id": "T001",
+      "timeline": "current life",
+      "kind": "anchor",
+      "event": "Rebirth on eve of ceremony",
+      "constraint": "Ceremony tomorrow; reversal stated as five hundred years",
+      "evidence_status": "Explicit relative anchor; centuries not converted into exact age",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 1,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter9.html",
+          "text": "明天就是开窍大典，关乎着每个人的切身利益。一种兴奋、紧张的氛围，笼罩着族人的心，自然有很多人睡不安稳。"
+        },
+        {
+          "chapter": 1,
+          "paragraph": 81,
+          "file": "OEBPS/Text/chapter9.html",
+          "text": "“古月山寨，这是五百年前？！春秋蝉果真起作用了……”方源眼神幽幽，站在窗户旁，任凭风雨打在身上。"
+        },
+        {
+          "chapter": 1,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter9.html",
+          "text": "“利用春秋蝉重生了，回到了五百年前！”方源伸出手，目光定定地看着自己年轻稚嫩的有些苍白的手掌，然后慢慢握紧，用力感受着这份真实。"
+        }
+      ]
+    },
+    {
+      "id": "T002",
+      "timeline": "current life",
+      "kind": "age",
+      "event": "Present age of brothers",
+      "constraint": "Fifteen",
+      "evidence_status": "Explicit present-age evidence",
+      "dependency": "Do not infer birthday",
+      "sources": [
+        {
+          "chapter": 4,
+          "paragraph": 3,
+          "file": "OEBPS/Text/chapter12.html",
+          "text": "一百多位十五岁的少年，此刻汇集在家主阁前。"
+        },
+        {
+          "chapter": 9,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter17.html",
+          "text": "看到方源随身带来的那两坛酒，舅父古月冻土的眉头拧成了疙瘩，他开口道：“时间一晃，你们已经十五岁了。竟然都有蛊师资质，尤其是方正，舅父舅母都替你们感到骄傲。我给你们每人六块元石，你们兄弟俩拿去。炼化蛊虫，极耗真元，这些元石你们需要。”"
+        }
+      ]
+    },
+    {
+      "id": "T003",
+      "timeline": "shared childhood",
+      "kind": "retrospective",
+      "event": "Orphaning and fostering",
+      "constraint": "Orphaned three; aunt claims fostered from five for ten years; later childhood recollection connects aunt/uncle care with parental deaths",
+      "evidence_status": "Conflicting/partly underdetermined start; SR-003 held",
+      "dependency": "Later childhood references and witnesses",
+      "sources": [
+        {
+          "chapter": 2,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter10.html",
+          "text": "他记得很清楚，自己这个身体的双亲因为一次家族任务，而双双陨落。在三岁的时候，就和弟弟一起成了孤儿。"
+        },
+        {
+          "chapter": 2,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter10.html",
+          "text": "舅父舅母就依着抚养的名义，堂而皇之地侵占了双亲的遗产，并且苛刻地对待自己和弟弟。"
+        },
+        {
+          "chapter": 9,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter17.html",
+          "text": "“好儿子，不枉费我们夫妻从五岁就抚养你，可养了你整整十年啊。”舅母抹着泪。"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 17,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "“天真的蠢货，你还记得什么！从小到大，我是怎么照顾你的？双亲刚死的时候，我们生活困苦，过新年舅父舅母只给我们俩一件新衣，我自己穿了吗？我给谁穿了？你小时候爱吃蜜饯粥，我每天都吩咐厨房给你多做一碗。你被旁人欺负了，是谁带着你找回场子？还有其他种种，我都不屑说了。嗯，现在你为了一个婢女，就这么跟我讲话，来质问我？”"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 19,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "因为方源说的都是事实！"
+        }
+      ]
+    },
+    {
+      "id": "T004",
+      "timeline": "current life",
+      "kind": "elapsed interval",
+      "event": "Week-later lesson and Gu selection",
+      "constraint": "Ceremony seven days earlier; lesson leads to Gu selection",
+      "evidence_status": "Explicit interval and instruction",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 7,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter15.html",
+          "text": "很快，一个星期就过去了。"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter15.html",
+          "text": "“而你们在七天前的开窍大典中，都已经成功开辟了空窍，凝聚了真元海，如今已经都是一转蛊师了。”"
+        },
+        {
+          "chapter": 7,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter15.html",
+          "text": "不知不觉间，这堂课接近了尾声。学堂家老最后通知道：“这一周来，我教会你们如何冥想，察看自身的空窍元海。如何打坐，调动体内的真元。现在是时候炼化你们的本命蛊了。这节课结束后，你们就去学堂里的蛊室，挑选蛊虫。选了蛊虫之后，就回家潜修。直到炼化了蛊虫，再来学堂继续上课。同时，这也是你们的第一场考核。谁能拔得头筹，就会有二十块元石的丰厚奖励。”"
+        }
+      ]
+    },
+    {
+      "id": "T005",
+      "timeline": "current life",
+      "kind": "calendar",
+      "event": "Arrival of fourth month",
+      "constraint": "April/fourth month wording; no exact date",
+      "evidence_status": "Explicit month, unspecified calendar-day position",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 7,
+          "paragraph": 47,
+          "file": "OEBPS/Text/chapter15.html",
+          "text": "“若是找到那酒虫，炼化为本命蛊，比家族中的月光蛊要好多了。眨眼间，已经到了四月，时不我待呀。”方源叹了一口气，视线转向窗外。"
+        }
+      ]
+    },
+    {
+      "id": "T006",
+      "timeline": "current life",
+      "kind": "conflict",
+      "event": "Opening month/week/ten-plus-days conflict",
+      "constraint": "Competing elapsed descriptions in continuous sequence",
+      "evidence_status": "SR-002 held",
+      "dependency": "Whole-novel chronology",
+      "sources": [
+        {
+          "chapter": 8,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter16.html",
+          "text": "短短的一个月，却已物是人非了。"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter16.html",
+          "text": "一周前的开窍大典，不管是对于哥哥还是弟弟，都是巨大的改变。"
+        },
+        {
+          "chapter": 8,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter16.html",
+          "text": "最初的十几天下来，古月方正莫名其妙的瘦了一圈，不过精气神却越加旺盛。"
+        }
+      ]
+    },
+    {
+      "id": "T007",
+      "timeline": "current life",
+      "kind": "elapsed interval",
+      "event": "Three-day rain ends before discovery",
+      "constraint": "Three days and nights; Ch11 approaching evening after rain",
+      "evidence_status": "Multiple explicit local anchors",
+      "dependency": "Analytical position about ceremony +10 days, not a canonical date",
+      "sources": [
+        {
+          "chapter": 10,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter18.html",
+          "text": "在有些昏暗的房间里，窗户开着，方源静静地看着这场大雨，心中幽幽一叹：“已经三天三夜了。”"
+        },
+        {
+          "chapter": 10,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter18.html",
+          "text": "三天前的那晚，他拎着两坛酒，出了山寨，在周边继续探索。"
+        },
+        {
+          "chapter": 11,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter19.html",
+          "text": "方源看了一眼天色，雨已经停了，而且接近傍晚。干脆在大厅吃完，然后直接出寨，探索花酒行者遗藏。便对掌柜的道：“就在大厅吃吧。”"
+        },
+        {
+          "chapter": 13,
+          "paragraph": 26,
+          "file": "OEBPS/Text/chapter21.html",
+          "text": "因为刚刚下了场连续三天三夜的大雨，山间的浊气都被洗刷个干净，只留下最纯粹的清新。"
+        },
+        {
+          "chapter": 14,
+          "paragraph": 51,
+          "file": "OEBPS/Text/chapter22.html",
+          "text": "这处河滩平常时候，是干的。但是最近下了一场大雨，连续三天三夜，便导致这里积蓄了一股浅浅的流水。"
+        }
+      ]
+    },
+    {
+      "id": "T008",
+      "timeline": "current life",
+      "kind": "activity duration",
+      "event": "Search and wine purchases",
+      "constraint": "More than week elapsed; seven active/purchase days recalled",
+      "evidence_status": "Different measured activities; do not equate automatically",
+      "dependency": "Rain interruption may explain distinction; preserve wording",
+      "sources": [
+        {
+          "chapter": 12,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter20.html",
+          "text": "“现在所有的问题，都归结在花酒行者的遗藏上。我若能找到它，一切困难就迎刃而解。若是发现不了，这些难题将极大地拖慢我修行的速度。会让我在修行之初，就被同龄人甩得远远的。费解啊，我用了一周多的时间，来吸引酒虫出现，为什么就一直不见成效？”"
+        },
+        {
+          "chapter": 12,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter20.html",
+          "text": "古月山寨中共有三家酒肆，卖的都是寻常的米酒、浊酒，种类大同小异。方源为了吸引酒虫现身，连续买了七天的酒水，自然清楚其中行情。"
+        },
+        {
+          "chapter": 13,
+          "paragraph": 29,
+          "file": "OEBPS/Text/chapter21.html",
+          "text": "前七天的探索，不是没有收获的。至少证明了，花酒行者并没有死在那些地方。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter24.html",
+          "text": "难怪自己废了这么大周折，连续七天都找不到。"
+        }
+      ]
+    },
+    {
+      "id": "T009",
+      "timeline": "previous life",
+      "kind": "relative future event",
+      "event": "Other Gu Master discovers legacy",
+      "constraint": "A month later in previous life; exact referent not restated",
+      "evidence_status": "Previous-life relative anchor",
+      "dependency": "Do not transplant date to current-life discovery",
+      "sources": [
+        {
+          "chapter": 13,
+          "paragraph": 9,
+          "file": "OEBPS/Text/chapter21.html",
+          "text": "在前世的一个月后，一位因失恋而醉酒的蛊师，烂醉如泥地躺在山寨外，结果四溢的酒香气息，意外地引来了一头酒虫。"
+        },
+        {
+          "chapter": 13,
+          "paragraph": 10,
+          "file": "OEBPS/Text/chapter21.html",
+          "text": "蛊师追着这酒虫，在一处地下密洞里发现了花酒行者的遗骸，同时还有花酒行者的随身遗产。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter24.html",
+          "text": "记忆中，那蛊师已经是三转，而酒虫不过是一转蛊虫罢了。对于方源来讲，比较珍贵，对于那蛊师而言，却可有可无了。"
+        }
+      ]
+    },
+    {
+      "id": "T010",
+      "timeline": "historical clan account",
+      "kind": "retrospective narrative",
+      "event": "Received story of fourth leader and Flower Wine Monk",
+      "constraint": "More than three hundred years ago; account explicitly questioned",
+      "evidence_status": "Public story, not final omniscient history",
+      "dependency": "Preserve reveal in Ch15–16",
+      "sources": [
+        {
+          "chapter": 13,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter21.html",
+          "text": "大约是在三百多年前，古月一族中出现了一个天才人物。"
+        },
+        {
+          "chapter": 13,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter21.html",
+          "text": "可惜的是，四代族长为保护族人，对战同样是五转蛊师的魔头花酒行者。虽然一场大激战后，他击败了花酒行者，并且让这个魔头跪地求饶。"
+        },
+        {
+          "chapter": 13,
+          "paragraph": 7,
+          "file": "OEBPS/Text/chapter21.html",
+          "text": "这个充满悲剧的故事，一直流传至今，为古月族人广为传颂。"
+        },
+        {
+          "chapter": 13,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter21.html",
+          "text": "但是方源却明白，这故事不可尽信。因为它本身就有一个巨大的漏洞。"
+        }
+      ]
+    },
+    {
+      "id": "T011",
+      "timeline": "historical recorded encounter",
+      "kind": "threat",
+      "event": "Poison death threatened",
+      "constraint": "Seven days if not treated",
+      "evidence_status": "Conditional threat, not elapsed duration",
+      "dependency": "Fourth leader dies during encounter",
+      "sources": [
+        {
+          "chapter": 15,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter23.html",
+          "text": "“你已经中了我的独门毒蛊，没有我的对应解蛊，七天之后，必定化为脓血而死。”背后的声音又响起。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter24.html",
+          "text": "“你已经中了我的独门毒蛊，没有我的对应解蛊，七天之后，必定化为脓血而死。”"
+        }
+      ]
+    },
+    {
+      "id": "T012",
+      "timeline": "historical recorded encounter",
+      "kind": "proposed schedule",
+      "event": "Weekly tribute demanded",
+      "constraint": "30 jin petals and 3000 stones each week",
+      "evidence_status": "Demand only; no payment established",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 15,
+          "paragraph": 32,
+          "file": "OEBPS/Text/chapter23.html",
+          "text": "花酒行者眯起了双眼，他的怒火已经平息下来，眼缝中精芒频闪：“哼，奴隶蛊珍贵无比，是五转蛊虫，你以为我会有？不过，你中了我的独门毒蛊，只有我可以解毒，也不怕你反抗。既然如此，你族每周给我提供三十斤月兰花瓣，同样还有三千枚元石。每隔一段时间我都会过来取货，同时为你解一次毒，留你一条狗命。”"
+        }
+      ]
+    },
+    {
+      "id": "T013",
+      "timeline": "current life",
+      "kind": "playback",
+      "event": "Historical recording loops",
+      "constraint": "Second and third playback",
+      "evidence_status": "One recorded historical event, multiple present replays",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 16,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter24.html",
+          "text": "墙壁上，画面又开始重复回放第二遍。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter24.html",
+          "text": "方源默然无声，直到画面又开始重复第三遍时，他这才幽幽一叹，道一声：“原来如此。”"
+        }
+      ]
+    },
+    {
+      "id": "T014",
+      "timeline": "current life",
+      "kind": "scene continuity",
+      "event": "Return to inn from legacy",
+      "constraint": "Same night as inn confrontation and wine purchase",
+      "evidence_status": "Explicit same-evening recall",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 16,
+          "paragraph": 53,
+          "file": "OEBPS/Text/chapter24.html",
+          "text": "确认这秘洞已经搜刮干净之后，方源便按照原路返回。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter24.html",
+          "text": "“接下来，就一门心思窝在客栈炼化蛊虫。只要有了本命蛊，就可以回归学堂，有资格住在学员宿舍，并借助家族资源修行。这客栈住一两次也就罢了，住太久，花费太大。”方源思量着，脚步不停，赶往山寨。"
+        },
+        {
+          "chapter": 17,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter25.html",
+          "text": "方源就在这月光下，回到客栈。"
+        },
+        {
+          "chapter": 17,
+          "paragraph": 26,
+          "file": "OEBPS/Text/chapter25.html",
+          "text": "就像是今天傍晚，那青年蛊师江牙，在摔酒坛时忿忿不平的对猎户们发泄：自己都不舍不得花元石来喝这青竹酒，你们这群猎户区区凡人，却有这闲钱！"
+        }
+      ]
+    },
+    {
+      "id": "T015",
+      "timeline": "current life",
+      "kind": "overnight interval",
+      "event": "Dawn and breakfast confrontation",
+      "constraint": "Half-night initial refinement; Shen Cui visit yesterday",
+      "evidence_status": "Explicit next-morning link",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 17,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter25.html",
+          "text": "火烛越烧越矮，烛火也越来越昏暗。窗外的月牙已经慢慢降落，然后新的一天到来了。"
+        },
+        {
+          "chapter": 17,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter25.html",
+          "text": "清晨的阳光，透过窗户的缝隙，透射到房间内。像是给窗户镶上一道光边。"
+        },
+        {
+          "chapter": 17,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter25.html",
+          "text": "酒虫白白的身子上，已经有了一抹青绿之色。这是方源努力了半个晚上，才得到的成果。"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "果然，方正见哥哥看也不看自己一眼，似乎把自己当做了空气。下一刻，他就带着不满的语气，叫起来：“哥哥，你对沈翠做了什么？自从她昨天从你房间里出来后，就大哭了一场，我安慰她，她哭的越凶。”"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 30,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "所以当他昨天傍晚得知沈翠的异状时，他的心中顿时涌现出一股气。他当即放弃炼化月光蛊，转而满山寨寻找方源，要来讨个说法。"
+        }
+      ]
+    },
+    {
+      "id": "T016",
+      "timeline": "current life",
+      "kind": "forecast",
+      "event": "Liquor Worm projected refinement time",
+      "constraint": "Not within a month under current conditions; stronger-Gu suppression offered as exception",
+      "evidence_status": "Conditional forecast, not elapsed month",
+      "dependency": "Ch19–20 changes conditions",
+      "sources": [
+        {
+          "chapter": 17,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter25.html",
+          "text": "“要在一个月之内，炼化这只酒虫，已经不可能了。除非是有强者，动用二转三转蛊的气息，威压这只酒虫，将酒虫体内的意志压制到最低程度。在这样的帮助下，我就能事半功倍。”想到这里，方源不禁叹了一口气。"
+        }
+      ]
+    },
+    {
+      "id": "T017",
+      "timeline": "current life",
+      "kind": "future eligibility",
+      "event": "Inheritance eligibility",
+      "constraint": "About one year later, age sixteen, minimum Revolution1 middle-stage cultivation",
+      "evidence_status": "Rule and family plans, not elapsed year",
+      "dependency": "Track eventual actual inheritance event",
+      "sources": [
+        {
+          "chapter": 18,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "他继续又道：“蛊师的修行，只要资源充足，不被瓶颈卡住，就会很迅速。两三年的功夫，家族就能培养出一个个的二转蛊师。他方源修为越低，一年后夺回家产的希望就越小。现在他年纪轻轻，刚刚修行，我们卡住他，让他在起步阶段就落后同龄人。学堂的资源都是奖励给优秀的学员，凭他的资质，一落后就得不到资源，没有资源辅助修行越加落后。如此恶性循环下去，一年之后看他还能有实力继承家产不？”"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 73,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "舅母不解：“就算我们不遏制他，他一年之后最多不过一转中阶。老爷你可是二转修为，还怕他？”"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 74,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "舅父气得跺脚：“妇道人家，果真头发长见识短！以我堂堂长辈的身份，难道要和一个晚辈对殴不成？他要索回遗产，合情合理，根本就不能直接阻拦，只有从族规上着手。族规中明文规定：十六岁要成家立业者，就至少得有一转中阶的修为。否则，就说明他方源没有资格来浪费家族资源。我这么说，你懂吗？”"
+        }
+      ]
+    },
+    {
+      "id": "T018",
+      "timeline": "current life",
+      "kind": "elapsed interval",
+      "event": "Further refinement until backlash",
+      "constraint": "Two further days; two days/nights with two hours rest per day",
+      "evidence_status": "Explicit coarse interval; exact midnight boundary not given",
+      "dependency": "Approximate ceremony +13-day region only",
+      "sources": [
+        {
+          "chapter": 18,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "转眼，又是两天过去。"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 80,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "客栈房间中，并没有点灯。月光洒进来，照出一地霜华。"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "“我耗费了足足两天两夜，每天只休息两个小时，耗费十二块元石，也不过只炼化到十五分之一的进度。按照时间来算，也就是最近这几天，就会有人炼蛊成功了吧。”"
+        }
+      ]
+    },
+    {
+      "id": "T019",
+      "timeline": "previous life",
+      "kind": "project duration",
+      "event": "Preparation of Spring Autumn Cicada",
+      "constraint": "Thirty years of preparation",
+      "evidence_status": "Subperiod of longer life; not total age",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 19,
+          "paragraph": 31,
+          "file": "OEBPS/Text/chapter27.html",
+          "text": "春秋蝉品级高达六转，是方源前世的第一只六转蛊虫，也是最后一只。为了炼制它，方源动用了全部的手段和资源，费劲了九牛二虎之力，足足三十年的酝酿，才侥幸成功。"
+        }
+      ]
+    },
+    {
+      "id": "T020",
+      "timeline": "cross-life transition",
+      "kind": "mechanism",
+      "event": "Cicada survives rebirth and sleeps",
+      "constraint": "Five-hundred-year reversal; bond persists, detection prevented by weakness",
+      "evidence_status": "Stated explanation at this point in story",
+      "dependency": "Track later revisions without retroactively changing viewpoint",
+      "sources": [
+        {
+          "chapter": 19,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter27.html",
+          "text": "重生之后，方源没有发现春秋蝉，就以为它已经消亡。但事实上，它寄托在方源的身体内，陷入了沉睡。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter27.html",
+          "text": "一下子逆转光阴五百年，它元气大损，实在太虚弱了，虚弱到连方源这个主人都感应不到。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter27.html",
+          "text": "重生以来，它一直在沉眠中静养。此时出现，只是觉察到空窍危机，算是被酒虫的意志惊醒的。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter27.html",
+          "text": "方源在前世，炼化了春秋蝉。重生之后，春秋蝉陷入沉眠，但是这种炼化的关系，仍旧存在着。"
+        },
+        {
+          "chapter": 19,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter27.html",
+          "text": "并且似乎是经过光阴之河的洗练，方源发现，自己和春秋蝉之间的联系，比前世还要更加玄妙，更加紧密。只是因为春秋蝉太虚弱了，才导致方源没有觉察到它。"
+        }
+      ]
+    },
+    {
+      "id": "T021",
+      "timeline": "current life",
+      "kind": "short interval",
+      "event": "Assisted refinement and academy visit",
+      "constraint": "Liquor Worm moments; Moonlight <5 minutes; quarter-hour transition; night",
+      "evidence_status": "Nested successive intervals, not a shared deadline",
+      "dependency": "",
+      "sources": [
+        {
+          "chapter": 20,
+          "paragraph": 10,
+          "file": "OEBPS/Text/chapter28.html",
+          "text": "酒虫表面青铜之色，迅速扩张，几个眨眼间，就将白珍珠般的酒虫染成了一头绿虫。"
+        },
+        {
+          "chapter": 20,
+          "paragraph": 26,
+          "file": "OEBPS/Text/chapter28.html",
+          "text": "从炼化月光蛊开始，到结束，整个过程用了不到五分钟。"
+        },
+        {
+          "chapter": 20,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter28.html",
+          "text": "一刻钟后，家族学堂。"
+        },
+        {
+          "chapter": 20,
+          "paragraph": 40,
+          "file": "OEBPS/Text/chapter28.html",
+          "text": "他被敲门声吵醒，睁开双眼，有些不悦：“三更半夜的，是谁在外面？”"
+        }
+      ]
+    },
+    {
+      "id": "T022",
+      "timeline": "current life",
+      "kind": "resource over time",
+      "event": "Refinement expenditure conflict",
+      "constraint": "Twelve in specified period versus six recalled cumulatively",
+      "evidence_status": "SR-012 unresolved",
+      "dependency": "Subsequent balances and meaning of this evening",
+      "sources": [
+        {
+          "chapter": 18,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "“我耗费了足足两天两夜，每天只休息两个小时，耗费十二块元石，也不过只炼化到十五分之一的进度。按照时间来算，也就是最近这几天，就会有人炼蛊成功了吧。”"
+        },
+        {
+          "chapter": 20,
+          "paragraph": 29,
+          "file": "OEBPS/Text/chapter28.html",
+          "text": "这些天，方源炼化酒虫，前前后后足足消耗了六块元石。但是这一晚，他根本就没有耗费元石，仅仅只是空窍中的青铜真元海见了底。"
+        }
+      ]
+    }
+  ]
+}

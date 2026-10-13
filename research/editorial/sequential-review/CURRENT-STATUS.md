@@ -1,0 +1,11 @@
+# Sequential review checkpoint
+
+Completed1–285/2334; next286;2049remaining. Batch014:1559paragraphs/52208characters. Cumulative25375/885630.128proposals:126held+SR047/SR099withdrawn. SixnewSR123–128;SR128contains70copycandidates. 198chronology/138resources.12standards. All substantiveapproved/appliedfalse. Cultivation wording Revolution user-approved separately; source witnesses preserved.
+
+Deliverable Batch-014-Chapters-271-285.md/.docx. Fullsourcecompanion, fivejotters, readinglog, workbook and registers updated. Detailed handoff jotters/batch-014-working.md.
+
+Carry: SR123FlyingBoneShield absent273wholeinventory after266active, dispositionquery notinventedloss. SR12427716four→five masters. SR12528084thirdpunch→finalpunch: punch/kick/punch. SR12628419halfyear→eight infiltration, mission11=3outside+8city;halfyearcontacts/stakeoutseparate. SR12728497firstsightvs280same-shopquery conditionalclose-look. SR12870copyitems individualholds. SR099withdraw before/afterrepair:273Threebreakthrough/28230continuedReunionbenefit. SR06327531FrostDemonpriorlossexplicit. SR104sourceversionholdunresolved. SR11827117twins少主strengthens.
+
+Nearly1yearsinceQingMao27323. FYThreeinitial/BaiThreepeak;aptituderise一分noinventedtotal. YangrenegotiatedFourpeak,notThree/Five;currentwealth50/50,future70/30. Oath3000split1500each,Baistorage6700ownshare;Xprebalanceunknown.278cash420k;gamblingnearly100kaggregate,8000lot/SwordShadow32000valuationnotcash. Million/bountyremovalrefused,healing+twoPurplebadgesaccepted. StrongPlunderstarved,FleshBonereturned,RicePouchconsumedbreaker;twoFYprioroathsremoved,counterpartsstillbound.285newoathproduced,terms/removalnotshown.
+
+FirstfightTangQingkilled4Gu≈2000+20–30stones;thirdTangXiongsurrendersBearGrand. FYbearstrengthincomplete;Canopyconstructdamage≠Gudeath. 500registrationVineGuShang-owned.30net/80tierwins,max1/day,min1/10days,forced1/month,net5lossdisqualifies. Thirdwin281;secondoffpage. LiRan50plus,target8city,child5/6FYspeech. HeartVoice100paceintentionalonly;count1,2,5intentional. Originallegendaryrumourstaged,fakestoneswapexplainsmissingGu. FlowerBudstolenwith30–40stones;285publicAllOutEffortopening,3stonecollisioncoverstory. Noinventeddealpayment/futurefights. Backupremoteunresolved;nooriginalsource/siteedits/uploads/deletions.

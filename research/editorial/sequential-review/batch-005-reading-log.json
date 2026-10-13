@@ -1,0 +1,128 @@
+{
+  "status": "Complete",
+  "endpoint": 110,
+  "next_unread": 111,
+  "segments": [
+    {
+      "chapters": [
+        81,
+        82
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 175
+    },
+    {
+      "chapters": [
+        83,
+        84
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 155
+    },
+    {
+      "chapters": [
+        85,
+        86
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 184
+    },
+    {
+      "chapters": [
+        87,
+        88
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 144
+    },
+    {
+      "chapters": [
+        89,
+        90
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 142
+    },
+    {
+      "chapters": [
+        91,
+        92
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 175
+    },
+    {
+      "chapters": [
+        93,
+        94
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 160
+    },
+    {
+      "chapters": [
+        95,
+        96
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 191
+    },
+    {
+      "chapters": [
+        97,
+        98
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 154
+    },
+    {
+      "chapters": [
+        99,
+        100
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 165
+    },
+    {
+      "chapters": [
+        101,
+        102
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 150
+    },
+    {
+      "chapters": [
+        103,
+        104
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 164
+    },
+    {
+      "chapters": [
+        105,
+        106
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 167
+    },
+    {
+      "chapters": [
+        107,
+        108
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 223
+    },
+    {
+      "chapters": [
+        109,
+        110
+      ],
+      "status": "Full paragraph sequences printed and read; untruncated",
+      "paragraphs": 185
+    }
+  ],
+  "note": "Extraction alone not completion. No invented timestamps."
+}

@@ -1,0 +1,37 @@
+{
+  "checked": "2026-10-13",
+  "files": [
+    {
+      "file": "live-chapter-1.html",
+      "sha256": "c4e718b3b47e16ef37746f92f89ad28d4056ab7b13360fa08c6263595d9b9b01"
+    },
+    {
+      "file": "live-chapter-2.html",
+      "sha256": "1140e5de7f3270686ba840b204c8ca4403daa76f1d3503256aeb6debd3a5fb7c"
+    },
+    {
+      "file": "live-chapter-3.html",
+      "sha256": "fa381af447a68a20c57b6ce8fbe98634a31b89b7e83adc7676d27dacda80899d"
+    },
+    {
+      "file": "live-chapter-4.html",
+      "sha256": "d4e70017aec7c08c8d03c4a992d70ecfc272f1c15765ca0c7ad9ca6d2d7510b6"
+    },
+    {
+      "file": "live-chapter-5.html",
+      "sha256": "d91c69282b9f78e7654b590b9caf36a1f579046e85b64e34f39b89c96c366e47"
+    },
+    {
+      "file": "live-chapter-6.html",
+      "sha256": "f926d0f9bde98123465bef508cc88793ae57b6aea0a93a3058a2a427b9f449d8"
+    },
+    {
+      "file": "live-chapter-7.html",
+      "sha256": "76d0dff1906a3a24acd0e0745ff01492a8d5b49fe9bdc41945aacade76a148eb"
+    },
+    {
+      "file": "live-chapter-8.html",
+      "sha256": "4878599178c4764b81e44c8e97e06872f472b69aa98ba6634f5bf1d21096d21e"
+    }
+  ]
+}

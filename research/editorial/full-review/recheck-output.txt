@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://ri.theomniarch.com.ng/",
+    "sha256": "74a027febffb6311a494aebbf0b2633706b0d4a899d9cd388bd6d7cf8657da13",
+    "paragraphs": 21,
+    "date_header": "Tue, 13 Oct 2026 04:36:59 GMT",
+    "etag": "W/\"d9d662104116bf5273ac81a0759e7ddf\""
+  },
+  {
+    "url": "https://ri.theomniarch.com.ng/chapter-1",
+    "sha256": "11a8ce45bec98e61f410c72060b76713bf4070ee52513eb19e432bf2166379b3",
+    "paragraphs": 53,
+    "date_header": "Tue, 13 Oct 2026 04:36:59 GMT",
+    "etag": "W/\"51ae3d9dbaf349f32e4439f31bbe5f1c\""
+  },
+  {
+    "url": "https://ri.theomniarch.com.ng/chapter-2",
+    "sha256": "21583bb4fc40bc98b5444badd7e9d6d7f0b51b2a3578ea6ccc4c7ae0daea29fb",
+    "paragraphs": 36,
+    "date_header": "Tue, 13 Oct 2026 04:36:59 GMT",
+    "etag": "W/\"98a67862033ab4fd2602841fb2a88eb4\""
+  },
+  {
+    "url": "https://ri.theomniarch.com.ng/chapter-3",
+    "sha256": "8e63087dc315150c8ba8bf9f007b35d2ad345a449deb4f483c93f22fa7a244c8",
+    "paragraphs": 28,
+    "date_header": "Tue, 13 Oct 2026 04:37:00 GMT",
+    "etag": "W/\"4543a8b764d5f01face9b380592f04ab\""
+  },
+  {
+    "url": "https://ri.theomniarch.com.ng/chapter-4",
+    "sha256": "8b79c855c93d9fabcd904885347273aaafb041634bb0e73c1a50b86d90cf3c4f",
+    "paragraphs": 30,
+    "date_header": "Tue, 13 Oct 2026 04:37:00 GMT",
+    "etag": "W/\"56c106760d8e6a60ff3cf47b2abf105a\""
+  },
+  {
+    "url": "https://ri.theomniarch.com.ng/chapter-5",
+    "sha256": "e1dd1083e1567d7fdb50398a94439c7ce94d39d65a2f029253c6ac219adcafa0",
+    "paragraphs": 30,
+    "date_header": "Tue, 13 Oct 2026 04:37:00 GMT",
+    "etag": "W/\"0da4b5c607999bf375bb427a97288fb2\""
+  },
+  {
+    "url": "https://ri.theomniarch.com.ng/chapter-6",
+    "sha256": "d8fed08d36ce0cd0cd738032b5bc203adba6b16a455a150af7a6a38355494102",
+    "paragraphs": 51,
+    "date_header": "Tue, 13 Oct 2026 04:36:59 GMT",
+    "etag": "W/\"3089cfc809b7a6935865fb5ab73a31c2\""
+  },
+  {
+    "url": "https://ri.theomniarch.com.ng/chapter-7",
+    "sha256": "02db0fbfdcd69abea254b9077c97ba784b9c9102d25d6735a7b721bd061e5d4c",
+    "paragraphs": 56,
+    "date_header": "Tue, 13 Oct 2026 04:36:59 GMT",
+    "etag": "W/\"0cd4c7e37b5eeeba70dabb6fb89eeffe\""
+  },
+  {
+    "url": "https://ri.theomniarch.com.ng/chapter-8",
+    "sha256": "d117883d9b81ea48a3813a50f8ca33eede4c472e5f9dc17ef2f7e017e4367cf4",
+    "paragraphs": 46,
+    "date_header": "Tue, 13 Oct 2026 04:36:59 GMT",
+    "etag": "W/\"dac72a0b8c968c5aeef7d9556f833402\""
+  }
+]

@@ -1,0 +1,24 @@
+# Batch005: Preserve, do not repair
+
+- A school year is not automatically twelve elapsed months. Differentiate school/calendar labels from explicit duration claims and from the separate period of private instruction.
+- The final exam precedes the NewYear age transition. Do not turn every fifteen into sixteen or invent a birthday.
+- The four-day training description and fifth-day exit use inclusive day labels. Preserve the ambiguity of the five-days-ago recaps pending tighter anchors.
+- Renting by the day is an available pricing arrangement, not a prohibition on prepaying a month. The monthly payment is explicit.
+- Fang Yuan trains in Jiang He's house while misleading pursuers with the furnished rented room. This is a location reveal, not a continuity mistake.
+- RevolutionTwo advancement uses repeated replenishment. A normal55% burst threshold does not mandate a55% maximum aperture for every successful cultivator.
+- Chi Cheng has separately advanced toRevolutionTwo. His assumption that Fang Yuan remainsRevolutionOne is mistaken character knowledge.
+- Apparent deaths followed by survival in these scenes are corrected observations. Jiao San's actual final death is distinct from Fang Yuan's first assessment.
+- The female team member did not voluntarily compete for the hiding place. Fang Yuan's later testimony is a lie; do not edit the assault to match it.
+- The hidden WhiteJadeGu explains survival and honey collection. Its existence is deliberately concealed from other characters.
+- JadeSkin's16-monkey defensive estimate follows advancement beyond the earlier12-monkey scene. No identical conditions or linear defensive multiplier are established.
+- Seven ownedGu after the inheritance is consistent:7→6 throughWhiteJadefusion, then6→7 withNineLeafgrass. Detached leafGu are separately produced sale inventory.
+- Fusion failure kills oneLittleLight. A replacement is implied by the later successful recipe, but no exact purchase price is given.
+- WhiteBoar's permanent strength remains after theGu is consumed. WhiteJade itself does not grant new strength.
+- TwoLittleLightGu are recipe inputs, not two simultaneously stacking attack bonuses.
+- Business revenue, retail price, dealer margin, stored assets and spendable cash are different quantities. Do not turn nineleaves×50 into an exact wholesale payment without the margin.
+- The uncle's1000/2000/2500 offers and ManShi's500 demand are not completed payments.
+- Fang Yuan's threatened deliberate defeat and homelessness are bargaining moves, not actual events.
+- QingShu's old-life death, the proposed5yearGu use and the150/300year future discoveries stay separate from the present calendar.
+- Ch107 spring and Ch109 March are real calendar advances. The earlycaravan is an explicit rebirth consequence; only the conflicting usual-arrival baseline is queried.
+- At the Chapter110 endpoint the secondLiquorWorm is displayed, not purchased. Its500 price is an auction starting indication, not the final transaction.
+- Ch96's Earth plank/necessity analogy has not been verified as a legal or historical account; preserve its narrative role without presenting it as universal legal advice.

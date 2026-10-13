@@ -1,0 +1,2345 @@
+{
+  "scope": "Resources throughChapter160; exact total inventory withheld where capturedGu are unenumerated.",
+  "entries": [
+    {
+      "id": "R001",
+      "sources": [
+        {
+          "chapter": 11,
+          "paragraph": 53,
+          "file": "OEBPS/Text/chapter19.html",
+          "text": "方源真的有些饿了，便抛给掌柜的两块完整的元石：“给我一间上房我先住下，再给我准备两坛酒，三四样小菜，多退少补。”"
+        },
+        {
+          "chapter": 11,
+          "paragraph": 65,
+          "file": "OEBPS/Text/chapter19.html",
+          "text": "“我现在身上只有六块元石，两块已经给了店家，还只剩下四块。有些不够啊。”"
+        },
+        {
+          "chapter": 12,
+          "paragraph": 77,
+          "file": "OEBPS/Text/chapter20.html",
+          "text": "方源停下筷子，他已经吃饱了。闻着这股酒香，他目光闪烁了几下，忽然掏出两块元石，放在桌上，淡然道：“小二，给我上坛青竹酒。”"
+        },
+        {
+          "chapter": 13,
+          "paragraph": 18,
+          "file": "OEBPS/Text/chapter21.html",
+          "text": "方源又不禁想到自身：“不管如何，买了这坛青竹酒后，我现在身上只剩下两块元石。若是再找不到遗藏，可就麻烦了。今日此举，算得上孤注一掷！”"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 25,
+          "file": "OEBPS/Text/chapter24.html",
+          "text": "首先，他发现了一袋元石，打开一看，只有十五块。"
+        },
+        {
+          "chapter": 16,
+          "paragraph": 62,
+          "file": "OEBPS/Text/chapter24.html",
+          "text": "他本来剩余两块元石，又新得十五块，统共十七块。但是对于一名蛊师来讲，这点元石算得了什么？"
+        }
+      ],
+      "kind": "nominal opening cash",
+      "entry": "Six held; inn2; wine2; legacy15",
+      "calculation": "6−2−2+15=17 nominally",
+      "status": "Partial earlier stone depletion and settlement timing not fully itemised"
+    },
+    {
+      "id": "R002",
+      "sources": [
+        {
+          "chapter": 18,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "方源接过袋子，发现里面有六块，但是其中一块比完整的元石要小上一半。他顿时知道，这是方正汲取了元石中的真元，好尽快地炼化月光蛊。"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "虽然只有五块半，但是方源也知道：这是方正手上所有的元石了。他本身就没有积蓄，这六块元石还是不久前舅父舅母给他的。"
+        },
+        {
+          "chapter": 18,
+          "paragraph": 64,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "舅父挥手：“你先下去罢，你元石都给了方源，我就再拨给你六块。记住，这次要好好用在炼蛊上面，夺得此次第一，我们会为你感到骄傲的。”"
+        }
+      ],
+      "kind": "transfer and separate inventory",
+      "entry": "FY receives5.5;FZlaterreceives6",
+      "calculation": "Keep physicalpieces versus equivalents distinct",
+      "status": "Actual5.5 transfer; second6belongs toFZ"
+    },
+    {
+      "id": "R003",
+      "sources": [
+        {
+          "chapter": 18,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter26.html",
+          "text": "“我耗费了足足两天两夜，每天只休息两个小时，耗费十二块元石，也不过只炼化到十五分之一的进度。按照时间来算，也就是最近这几天，就会有人炼蛊成功了吧。”"
+        },
+        {
+          "chapter": 20,
+          "paragraph": 29,
+          "file": "OEBPS/Text/chapter28.html",
+          "text": "这些天，方源炼化酒虫，前前后后足足消耗了六块元石。但是这一晚，他根本就没有耗费元石，仅仅只是空窍中的青铜真元海见了底。"
+        },
+        {
+          "chapter": 23,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter31.html",
+          "text": "“我得了花酒遗藏，收走方正的一袋元石，又拿了头名奖励，元石资产曾经一度高达四十四块半。但是炼蛊前期耗费了六块半，喂养蛊虫耗费了十四块半，生活费半块，如今应该剩下二十块。”"
+        }
+      ],
+      "kind": "conflicting expenditure",
+      "entry": "12 in subperiod;6LiquorWorm total;6.5earlyrefinement",
+      "calculation": "Cannot all be literal totals on identicalbasis",
+      "status": "SR-012: current preferred investigation direction12→6;held"
+    },
+    {
+      "id": "R004",
+      "sources": [
+        {
+          "chapter": 21,
+          "paragraph": 14,
+          "file": "OEBPS/Text/chapter29.html",
+          "text": "右边的侍卫则摇头道：“你来晚一步了，就在昨晚半夜，你的哥哥古月方源已经面见了家老大人，领取了头名奖励。”"
+        },
+        {
+          "chapter": 23,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter31.html",
+          "text": "“我得了花酒遗藏，收走方正的一袋元石，又拿了头名奖励，元石资产曾经一度高达四十四块半。但是炼蛊前期耗费了六块半，喂养蛊虫耗费了十四块半，生活费半块，如今应该剩下二十块。”"
+        }
+      ],
+      "kind": "prize and cumulative account",
+      "entry": "20prize received byCh21;44.5peak recalledCh23",
+      "calculation": "6+15+5.5+20=46.5 gross listed majorreceipts before expenses;42.5 after firstinn/wine4",
+      "status": "Not a certifiedcashpeak: timing,earlierdepletion,stipends and expenses remain open"
+    },
+    {
+      "id": "R005",
+      "sources": [
+        {
+          "chapter": 23,
+          "paragraph": 35,
+          "file": "OEBPS/Text/chapter31.html",
+          "text": "就拿方源现在拥有的三只蛊虫来讲，月光蛊需要吞食月兰花瓣，每天两顿，早晚一顿，每顿两片花瓣。酒虫呢，则需要饮酒。一坛青竹酒，能支撑它四天。而春秋蝉则更奇特，它直接从光阴之河中喝水，维持生机。"
+        },
+        {
+          "chapter": 23,
+          "paragraph": 46,
+          "file": "OEBPS/Text/chapter31.html",
+          "text": "方源一边吃着，一边心里算着账：“一块元石，能购买十片花瓣，月光蛊每天消耗四片。一坛青竹酒价值两块元石，能支撑酒虫四天所需。也就是说，单单喂养这两只蛊，每天就要消耗将近一块元石。”"
+        },
+        {
+          "chapter": 23,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter31.html",
+          "text": "自从炼化蛊虫到现在，已经十六天了。单单养蛊方面，就耗费了方源十四块半的元石。"
+        }
+      ],
+      "kind": "food consumption versus purchasing",
+      "entry": "4petals/day;jar2stoneslasts4days",
+      "calculation": "4/10+2/4=0.9/day;16×0.9=14.4",
+      "status": "Reported14.5 not automaticallywrong due inventory/rounding"
+    },
+    {
+      "id": "R006",
+      "sources": [
+        {
+          "chapter": 23,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter31.html",
+          "text": "方源直接抛给他三块元石，轻车熟路地道：“给我上坛青竹酒，再给我弄几个好菜。不用找零钱，先放这儿，等月末一块儿结了，多退少补。”"
+        },
+        {
+          "chapter": 23,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter31.html",
+          "text": "“我得了花酒遗藏，收走方正的一袋元石，又拿了头名奖励，元石资产曾经一度高达四十四块半。但是炼蛊前期耗费了六块半，喂养蛊虫耗费了十四块半，生活费半块，如今应该剩下二十块。”"
+        },
+        {
+          "chapter": 23,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter31.html",
+          "text": "数了一数，果真只剩下二十块了。"
+        }
+      ],
+      "kind": "subtotal and advance query",
+      "entry": "44.5peak minus6.5refining minus14.5food minus0.5living",
+      "calculation": "44.5−6.5−14.5−0.5=23; subtract the already-narrated3 advance separately and20 remains.",
+      "status": "SR-019: determine whether itemised costs exclude the current advance. Do not double-debit it; earlier44.5 peak remains unverified."
+    },
+    {
+      "id": "R007",
+      "sources": [
+        {
+          "chapter": 23,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter31.html",
+          "text": "方源直接抛给他三块元石，轻车熟路地道：“给我上坛青竹酒，再给我弄几个好菜。不用找零钱，先放这儿，等月末一块儿结了，多退少补。”"
+        },
+        {
+          "chapter": 23,
+          "paragraph": 64,
+          "file": "OEBPS/Text/chapter31.html",
+          "text": "想了想，方源取出十块元石：“那就再买五坛，叫我拿了，跟我一起，放到学堂宿舍去。”"
+        },
+        {
+          "chapter": 23,
+          "paragraph": 66,
+          "file": "OEBPS/Text/chapter31.html",
+          "text": "月兰花瓣若无存储手段，只能存放五天，因此方源每次只买一包。不过青竹酒，能存放很长时间，倒没有这方面的问题。"
+        }
+      ],
+      "kind": "prepayment and inventory",
+      "entry": "Currentwine/mealadvance3;stockfivejars10;petalsperish5days",
+      "calculation": "Do not subtractprepaymenttwice or countstockconsumptionasnewcashpurchase",
+      "status": "Separate cash,creditandfoodinventory"
+    },
+    {
+      "id": "R008",
+      "sources": [
+        {
+          "chapter": 26,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter34.html",
+          "text": "一个袋子里，是三块元石的家族补贴。另一个袋子中是十块元石的奖励。"
+        },
+        {
+          "chapter": 28,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter36.html",
+          "text": "全班共有五十七人，每人被勒索抢劫一块元石，方源的手中就有了五十六块。"
+        },
+        {
+          "chapter": 28,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter36.html",
+          "text": "他之前原本有二十块，但是花了十块，买了几坛青竹酒。再加上他自己的补贴和奖励，如今手头上，就有七十九块元石。"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 3,
+          "file": "OEBPS/Text/chapter37.html",
+          "text": "每坛两块元石，方源为了酒虫，一下子砸出四十块元石。"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter37.html",
+          "text": "刚刚鼓起来的钱袋，瞬间就瘪了一半，只剩下三十九块元石。不过也算是物有所值，这些酒能够支撑酒虫一段较长的时间了。"
+        }
+      ],
+      "kind": "linked actual balances",
+      "entry": "Stipend3;prize10;56levies;then20jarsat2",
+      "calculation": "20−10+3+10+56=79;79−40=39",
+      "status": "Localarithmeticconsistent;inheritsunresolved20startingbalance"
+    },
+    {
+      "id": "R009",
+      "sources": [
+        {
+          "chapter": 29,
+          "paragraph": 18,
+          "file": "OEBPS/Text/chapter37.html",
+          "text": "“去。”方源调动一成真元，形成一股细流，逆冲而上，悉数灌注到酒虫体内。"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 23,
+          "file": "OEBPS/Text/chapter37.html",
+          "text": "“起。”方源念头一动，再调动出一成真元。"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 24,
+          "file": "OEBPS/Text/chapter37.html",
+          "text": "青铜海水扑上酒雾，酒雾融入海水当中，越来越少，最终一丝都不剩。而那一成青铜真元，也凭空消失了一般体积，只剩下了半成。"
+        },
+        {
+          "chapter": 29,
+          "paragraph": 29,
+          "file": "OEBPS/Text/chapter37.html",
+          "text": "“我要凝练出半成中阶真元，就得消耗两成初阶真元。我要将空窍中四成四的元海，都转换成中阶真元，就得耗费近十八成的初阶真元。要想尽快地达成这个目标，就得借助元石了。”"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter42.html",
+          "text": "一成的初阶真元调动而出，投入酒虫体内，很快被它吸收的涓滴不剩。"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter42.html",
+          "text": "方源再度调动出一成真元，投入这酒雾当中。"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter42.html",
+          "text": "酒雾完全被消耗之后，原先的一成初阶真元，体积骤然缩小了一半，同时颜色也从翠绿色转变成了苍绿色。"
+        }
+      ],
+      "kind": "essence processing",
+      "entry": "10activation+10processed→5refined",
+      "calculation": "20/5=4overallinput/output;44×4=176initialcapacitypoints",
+      "status": "Cumulativethroughput,notsimultaneous176%storage"
+    },
+    {
+      "id": "R010",
+      "sources": [
+        {
+          "chapter": 33,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter41.html",
+          "text": "从原先的四成四，降至一成二。"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 7,
+          "file": "OEBPS/Text/chapter42.html",
+          "text": "大约过了半个小时，方源的青铜真元海又达到了四成四的极限。"
+        },
+        {
+          "chapter": 34,
+          "paragraph": 28,
+          "file": "OEBPS/Text/chapter42.html",
+          "text": "“一晚上的修行，我先后消耗了三块元石。”方源心中暗暗计算着。"
+        },
+        {
+          "chapter": 35,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter43.html",
+          "text": "“可是看到的人，又太多了。”方源扫视了一下附近围观的侍卫，足有十多人。他现在真元只剩下一成不到，不可能将他们全部杀死。"
+        }
+      ],
+      "kind": "cultivation and combat",
+      "entry": "44→12→44;about30minrefill;3stonesovernight;under10afterfight",
+      "calculation": "Do not inferexactbladecountfromonlyexplicitlydescribedattacks",
+      "status": "Statedstates;grossflowsnotfullyspecified"
+    },
+    {
+      "id": "R011",
+      "sources": [
+        {
+          "chapter": 36,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter44.html",
+          "text": "“我知道。”方源点点头，“我在学堂里动用月光蛊，违反了族规。按照规定，第一次违反，应该受到赔偿三十块元石的惩罚。”"
+        },
+        {
+          "chapter": 37,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter45.html",
+          "text": "古月漠尘沉吟道：“此事由你而起，爷爷就罚你禁闭七天，从此以后不要再找方源的麻烦。高碗以下犯上，一介奴仆冒犯主子，该死，其罪当诛！因为他是漠家的家奴，漠家也有管教不严的责任，就赔偿那方源三十块元石吧。至于高碗的家人，给予他们五十块元石的补贴，再把他们都逐出府去。”"
+        },
+        {
+          "chapter": 39,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter47.html",
+          "text": "“半个月前，我杀了高碗，因为在学堂动用了月光蛊，罚款三十块块元石。不过后来漠家赔偿了我三十块，算不上损失。这些天，我抢劫了两次，总计一百一十八块元石。但是最近我不断消耗精炼出的中阶真元，温养空窍四壁，每天都要消耗三块元石。再加上蛊虫的喂养费用，自己的生活费用，陆续不断地购买青竹酒而投入的元石。现在手中还有九十八块。”"
+        }
+      ],
+      "kind": "fine and compensation",
+      "entry": "Fine30;compensation30toFY;50toGaoWanfamily",
+      "calculation": "FYnetfine/compensation0;family50notFYincome",
+      "status": "Orderedearlier;Ch39confirmsFYpayment/receipt"
+    },
+    {
+      "id": "R012",
+      "sources": [
+        {
+          "chapter": 28,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter36.html",
+          "text": "全班共有五十七人，每人被勒索抢劫一块元石，方源的手中就有了五十六块。"
+        },
+        {
+          "chapter": 39,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter47.html",
+          "text": "“半个月前，我杀了高碗，因为在学堂动用了月光蛊，罚款三十块块元石。不过后来漠家赔偿了我三十块，算不上损失。这些天，我抢劫了两次，总计一百一十八块元石。但是最近我不断消耗精炼出的中阶真元，温养空窍四壁，每天都要消耗三块元石。再加上蛊虫的喂养费用，自己的生活费用，陆续不断地购买青竹酒而投入的元石。现在手中还有九十八块。”"
+        }
+      ],
+      "kind": "collection scope",
+      "entry": "Tworoundsreported118",
+      "calculation": "2×56=112;2×(56+3)=118",
+      "status": "SR-020candidateexplicitlyincludeownstipends"
+    },
+    {
+      "id": "R013",
+      "sources": [
+        {
+          "chapter": 39,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter47.html",
+          "text": "“半个月前，我杀了高碗，因为在学堂动用了月光蛊，罚款三十块块元石。不过后来漠家赔偿了我三十块，算不上损失。这些天，我抢劫了两次，总计一百一十八块元石。但是最近我不断消耗精炼出的中阶真元，温养空窍四壁，每天都要消耗三块元石。再加上蛊虫的喂养费用，自己的生活费用，陆续不断地购买青竹酒而投入的元石。现在手中还有九十八块。”"
+        },
+        {
+          "chapter": 40,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter48.html",
+          "text": "这边的每块石头，均售价十块元石。方源如今身上有九十八块元石，按这样估算最多能购买九块。"
+        },
+        {
+          "chapter": 40,
+          "paragraph": 46,
+          "file": "OEBPS/Text/chapter48.html",
+          "text": "“我独自一人，没有亲朋好友的资助。必须留下一些元石支撑生活，以及购买食料喂养蛊虫。”他稍稍算了一下，在基本保障之后，他最多能购买七块化石。"
+        },
+        {
+          "chapter": 41,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter49.html",
+          "text": "方源当场掏出六十块元石，毫不犹豫地递给了女蛊师。"
+        }
+      ],
+      "kind": "reported cash and buying limit",
+      "entry": "98cash;9affordable;7prudentlimit;6purchased",
+      "calculation": "floor(98/10)=9;actualcost60",
+      "status": "Differentquantities,notcontradictorycounts;98notfullyderivedfrompriorledger"
+    },
+    {
+      "id": "R014",
+      "sources": [
+        {
+          "chapter": 42,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter50.html",
+          "text": "交易很快就完成，方源当众将癞土蛤蟆转给贾金生，同时收下五个沉甸甸的钱袋。每个钱袋里面都装有整整一百块的元石。"
+        },
+        {
+          "chapter": 42,
+          "paragraph": 70,
+          "file": "OEBPS/Text/chapter50.html",
+          "text": "方源原先财产是九十八块，赌石耗费了六十块，剩下三十八块。这样一来，财产瞬间翻了几番，拥有五百三十八块元石！"
+        },
+        {
+          "chapter": 43,
+          "paragraph": 17,
+          "file": "OEBPS/Text/chapter51.html",
+          "text": "完整的元石，颗颗都有鸭蛋大小。但是他手中这颗，因为被汲取了一半真元，已经整整小了一圈。"
+        }
+      ],
+      "kind": "sale and subsequentdepletion",
+      "entry": "Toadsold500;remaining538;partstoneusedafterreturn",
+      "calculation": "98−60+500=538",
+      "status": "Exacttransactionarithmetic;538notpermanentbalance"
+    },
+    {
+      "id": "R015",
+      "sources": [
+        {
+          "chapter": 43,
+          "paragraph": 9,
+          "file": "OEBPS/Text/chapter51.html",
+          "text": "最终，空窍中四成半的元海，再次全部精炼成中阶真元。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 65,
+          "file": "OEBPS/Text/chapter58.html",
+          "text": "四成四的青铜元海，都在刚刚，被酒虫精炼成苍绿色的中阶真元。"
+        }
+      ],
+      "kind": "capacity conflict",
+      "entry": "45%inCh43;44%againCh50",
+      "calculation": "Local45versusrepeated44",
+      "status": "SR-022preferred44held"
+    },
+    {
+      "id": "R016",
+      "sources": [
+        {
+          "chapter": 45,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter53.html",
+          "text": "贾富摆手：“呵呵，这事和蛊师修为没有关系，我向来只对事不对人。错就是错了，我代表商队向小哥你道歉。至于赔偿，这样吧，小哥损失了两百五十块元石，我代表贾家双倍赔偿你。”"
+        },
+        {
+          "chapter": 45,
+          "paragraph": 12,
+          "file": "OEBPS/Text/chapter53.html",
+          "text": "他言出必行，立即身边就有随从，取出了五个钱袋子，当众交到青年蛊师的手中。"
+        },
+        {
+          "chapter": 45,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter53.html",
+          "text": "每个钱袋都是饱满鼓囊，各装有一百块元石。"
+        },
+        {
+          "chapter": 45,
+          "paragraph": 80,
+          "file": "OEBPS/Text/chapter53.html",
+          "text": "方源肃容道：“两千块元石，不二价。”"
+        },
+        {
+          "chapter": 45,
+          "paragraph": 85,
+          "file": "OEBPS/Text/chapter53.html",
+          "text": "贾金生叹了一口气：“不管这次是不是一个坑，我都跳了。我答应你，两千块元石成交！不过，我先要看看货。”"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 51,
+          "file": "OEBPS/Text/chapter56.html",
+          "text": "方源冷笑着：“是你安排了这场切磋，又将头名奖励拔高到二十块元石的地步。没有你的鼓动，这些人能受伤吗？”"
+        },
+        {
+          "chapter": 48,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter56.html",
+          "text": "说着，转身就走，在众人错愕的目光中，走出了中央的场地。"
+        }
+      ],
+      "kind": "other recipients and unrealisedincome",
+      "entry": "Fraudvictimgets500;imagesale2000agreednotcompleted;sparprize20notclaimed",
+      "calculation": "Do notcreditanyofthesetoFY",
+      "status": "Keeprecipientandtransactionstatus"
+    },
+    {
+      "id": "R017",
+      "sources": [
+        {
+          "chapter": 50,
+          "paragraph": 37,
+          "file": "OEBPS/Text/chapter58.html",
+          "text": "他有甲等资质，真元海占据整个空窍八成以上。本身真元的恢复速度，整整是方源的两倍！"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 47,
+          "file": "OEBPS/Text/chapter58.html",
+          "text": "打开袋口，看到袋子里只剩下三块元石。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter58.html",
+          "text": "方正每七天都会从学堂领取三块元石的补贴，但是要被方源抢去一块，因此落到他手中的，只有两块。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter58.html",
+          "text": "舅父舅母会给他生活补贴，同样是七天三块元石。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter58.html",
+          "text": "“父亲母亲为了我的修行，已经尽了全力来资质我。我不能再为难他们，向他们索要元石了。只剩下三块元石，那我就更得节省着用。每天使用一块。这样就能使用三天。”"
+        }
+      ],
+      "kind": "Fang Zheng separate account",
+      "entry": "RecoverytwiceFY;3remaining;academy3minuslevy1;family3weeklyplusvariableextras",
+      "calculation": "3stonesat1/daylast3days",
+      "status": "DonomergewithFYbalance;recoverymatches8vers4earlier"
+    },
+    {
+      "id": "R018",
+      "sources": [
+        {
+          "chapter": 50,
+          "paragraph": 65,
+          "file": "OEBPS/Text/chapter58.html",
+          "text": "四成四的青铜元海，都在刚刚，被酒虫精炼成苍绿色的中阶真元。"
+        },
+        {
+          "chapter": 50,
+          "paragraph": 85,
+          "file": "OEBPS/Text/chapter58.html",
+          "text": "真元海面恢复了平静，空窍中还剩下两成海水。"
+        }
+      ],
+      "kind": "breakthrough reserve",
+      "entry": "44middle-stagepoints→20remaining",
+      "calculation": "Netnarrateddrop24points",
+      "status": "Overnightgrosscostnotfullyspecified"
+    },
+    {
+      "id": "R019",
+      "kind": "reward and stipend",
+      "entry": "30-stone breakthrough prize received;10-stone head stipend declined.",
+      "calculation": "Do not book rejected stipend as income.",
+      "status": "Actual reward separated from proposed office benefit.",
+      "sources": [
+        {
+          "chapter": 53,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter61.html",
+          "text": "“古月方源，你是此届的第一位一转中阶的蛊师，这是你的奖励。”说着，学堂家老递给他一个蓝白相间的钱袋。"
+        },
+        {
+          "chapter": 53,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter61.html",
+          "text": "“你放心，里面一共是三十块元石，学堂方面不会少你的。”学堂家老的脸上挤出一丝笑容。"
+        },
+        {
+          "chapter": 53,
+          "paragraph": 43,
+          "file": "OEBPS/Text/chapter61.html",
+          "text": "方源却没听到学堂家老的话。他很少相信别人，向来最信自己。他细心检查了一下，发现的确是三十块元石，一块不少。这才将这钱袋子揣进怀里。"
+        }
+      ]
+    },
+    {
+      "id": "R020",
+      "kind": "levy receipts",
+      "entry": "Newrates1/3/8; pupil states former59/current68.",
+      "calculation": "56payingpeers implies53+6+8=67; plusown3stipend=70.",
+      "status": "SR-030 conditional accounting query; no cumulative cash correction.",
+      "sources": [
+        {
+          "chapter": 54,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter62.html",
+          "text": "“每人一块元石，副班头三块，班头八块。”方源公布了新的规矩。"
+        },
+        {
+          "chapter": 54,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter62.html",
+          "text": "“不错。他每次勒索我们都有五十九块元石，现在则增长到六十八块。他要是班头，顶多就只有十块而已。”不少人跟着恍然大悟。"
+        }
+      ]
+    },
+    {
+      "id": "R021",
+      "kind": "food and living costs",
+      "entry": "Four costlyGu, >2stonesdailyfeeding, ≥5totaldaily; hundreds held.",
+      "calculation": "Cicada excluded from costlyfeeding subset; fiveowned inCh70.",
+      "status": "Approximate ongoingexpenses, not fully itemised account. Proposed100+jars order has unquoted deposit.",
+      "sources": [
+        {
+          "chapter": 64,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter72.html",
+          "text": "方源点点头，倒也不意外：“那就给我来一坛米酒吧，顺便告诉掌柜的，今年多酿些青竹酒，我要预订上百坛。至于要多少定金，你们先算算，再报给我。”"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter72.html",
+          "text": "别的同龄人，是开始炼化、喂养第二只蛊虫。他则是炼化了小光蛊，又得了白豕蛊。足足有四只蛊虫。"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter72.html",
+          "text": "以前他喂养月光蛊和酒虫，每天将近一块元石。现在他喂养蛊虫，算下来，每天元石的消耗，要比两块还要多一点！"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 62,
+          "file": "OEBPS/Text/chapter72.html",
+          "text": "在算上他修行所需，还有生活费用，一天下来，元石至少得要五块！"
+        },
+        {
+          "chapter": 64,
+          "paragraph": 64,
+          "file": "OEBPS/Text/chapter72.html",
+          "text": "他手头上，虽有数百块元石，但也禁不住这样的长期花销。"
+        },
+        {
+          "chapter": 70,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter78.html",
+          "text": "方源现在身上虽然有了五只蛊虫，春秋蝉、酒虫、月光蛊、小光蛊、白豕蛊，但是配备并不合理，也不齐全。"
+        }
+      ]
+    },
+    {
+      "id": "R022",
+      "kind": "feeding versus activation",
+      "entry": "WhiteBoar adultpig every5days; daily useabout15minutes.",
+      "calculation": "Feeding interval≠activation interval.",
+      "status": "No dailywholepig requirement.",
+      "sources": [
+        {
+          "chapter": 64,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter72.html",
+          "text": "黑白豕蛊的食量都很大，每五天一顿，每顿都得要吃上一整头成年猪的肉。"
+        },
+        {
+          "chapter": 70,
+          "paragraph": 62,
+          "file": "OEBPS/Text/chapter78.html",
+          "text": "“吃了这顿，五天之后，再来杀猪。”方源收了白豕蛊，却没有直接走，而是取出刀，将野猪的两个獠牙都割了下来。"
+        },
+        {
+          "chapter": 70,
+          "paragraph": 83,
+          "file": "OEBPS/Text/chapter78.html",
+          "text": "白豕蛊亦不能过度使用，每天大约使用一刻钟。过了这个时间，就是引发痛楚，且越来越剧烈。"
+        }
+      ]
+    },
+    {
+      "id": "R023",
+      "kind": "essence balance",
+      "entry": "Ch70 hunt leaves23high-stagepoints; cost stated20.",
+      "calculation": "44−20=24 only if huntbeganfull and20isexact; neither independently established.",
+      "status": "Do not silentlycorrect23→24 or20→21.",
+      "sources": [
+        {
+          "chapter": 70,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter78.html",
+          "text": "不过在猎杀了一头山猪之后，方源现在空窍中的真元，还剩下两成三分。"
+        },
+        {
+          "chapter": 70,
+          "paragraph": 73,
+          "file": "OEBPS/Text/chapter78.html",
+          "text": "一转蛊师，战斗力并不是很强。或者说大自然的环境实在太恶劣了。虽然月刃能断骨，但是杀死一头普通的山猪，方源都要用上两成的高阶真元。"
+        }
+      ]
+    },
+    {
+      "id": "R024",
+      "kind": "exam tusks and rewards",
+      "entry": "23actualboars→46fresh tusks; separateoldercacheexistsbutretrieval/submissionisnotnarrated; latepenalty4tusks; chiefannounces30stones.",
+      "calculation": "Conditional freshcount afterpenalty42; totalcache/submittedcountnotgiven.10stonespertusk reward vs20tusks/stone market.",
+      "status": "No invented finalcashbalance; Fang Yuan’s10+personalclaim isdeliberatefalsehood.",
+      "sources": [
+        {
+          "chapter": 72,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter80.html",
+          "text": "“接下来是年中考核通知，三天之后，举行年中考核，全体学员都必须参加！考核的内容，是猎杀野猪。以收集到的野猪獠牙作为成绩记录下来，收集到的野猪牙越多，成绩就越好。考核结束后，每一颗野猪牙能换取十块元石。另外，允许团队狩猎。”"
+        },
+        {
+          "chapter": 72,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter80.html",
+          "text": "“每一颗野猪獠牙就能换取十块元石，这是学堂方面鼓励我们多杀野猪，而设置的奖励啊。真正按照市价，一块元石能买二十颗野猪獠牙呢。”"
+        },
+        {
+          "chapter": 73,
+          "paragraph": 66,
+          "file": "OEBPS/Text/chapter81.html",
+          "text": "“第二十三头了。”方源心中算计着，然后蹲下身，动作熟稔地将一对獠牙剥离到手。"
+        },
+        {
+          "chapter": 77,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter85.html",
+          "text": "“方源，你迟到了。考核已经结束了一个小时，按照规定，你所斩获的野猪牙，将少计算四颗，作为惩罚。”古月赤城立即叫道。"
+        },
+        {
+          "chapter": 77,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter85.html",
+          "text": "方源抱拳，答道：“只亲手猎了十多颗。但是意外发现了一个袋子，可能是猎户藏起来的吧。里面有许多野猪牙。我想了一下，年中考核是让我们在一天之内，尽可能多的独自一人获取野猪牙。并没有明文规定必须斩杀野猪，所以就带了来。”"
+        },
+        {
+          "chapter": 78,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter86.html",
+          "text": "于是，他只好继续道：“他能以丙等资质，夺得第一，很不容易。我就以个人名义，奖励他三十块元石。学堂家老，你带一句话给他，让他好好努力。”"
+        }
+      ]
+    },
+    {
+      "id": "R025",
+      "kind": "Wang Da essence",
+      "entry": "Remaining50→40→30→20→5 throughassassination.",
+      "calculation": "Locally decreasingreserve, not maximumcapacity50.",
+      "status": "Ch75 likelyaptituderange isindividualinference, not newgradeboundaries.",
+      "sources": [
+        {
+          "chapter": 75,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter83.html",
+          "text": "方源双眼中闪烁着冷冽的光芒：“算算看，他三年前失踪，如今修行到二转，资质应该是丙等至乙等，空窍中的真元总量在四成至七成的范围内。”"
+        },
+        {
+          "chapter": 75,
+          "paragraph": 53,
+          "file": "OEBPS/Text/chapter83.html",
+          "text": "“我是二转中阶的修为，体内的真元还有五成。要先发制人，先杀死这三位蛊师，很有难度。必须要在短时间之内，连续出手。否则一旦让他们发觉同伴的死亡，警惕性大增，我的行踪也就暴露了……”"
+        },
+        {
+          "chapter": 75,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter83.html",
+          "text": "“总共用了一成真元，还剩下四成。”王大留神了一下空窍，没有停留，再次融化为一团黑暗。"
+        },
+        {
+          "chapter": 75,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter83.html",
+          "text": "“还剩三成真元。”王大默念一声，身形又再次化为了一团黑暗。"
+        },
+        {
+          "chapter": 76,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter84.html",
+          "text": "“我的真元只剩下两成，不管是报仇还是保命，先得杀了这碍事老头！”王大强振精神，扑向古月叟。"
+        },
+        {
+          "chapter": 76,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter84.html",
+          "text": "“还剩下半成真元，我要死了。”他又查看了一下自己的空窍，不由地惨烈一笑。看到不远处的方源，他的脸色又浮现出一抹疯狂的绝然，“临死也要拉着你陪葬！”"
+        }
+      ]
+    },
+    {
+      "id": "R026",
+      "kind": "food weight and stock",
+      "entry": "JadeSkin2liang/10days; eachmonkeyeye≥1liang; sixthGu acquired.",
+      "calculation": "Pair ofeyes≥2liang coversonefeed.",
+      "status": "Retain sourceweightunit; no unjustified gramconversion. Six includesCicada.",
+      "sources": [
+        {
+          "chapter": 79,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter87.html",
+          "text": "这已经是方源的第六只蛊虫。"
+        },
+        {
+          "chapter": 79,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter87.html",
+          "text": "玉皮蛊价值高，防御性能在一转蛊虫中属于佼佼者，但它并不容易喂养，它每十天就要吞食二两的玉石。"
+        },
+        {
+          "chapter": 79,
+          "paragraph": 70,
+          "file": "OEBPS/Text/chapter87.html",
+          "text": "这种奇特的生物死后，浑身都会化为灰色碎石，只有一对眼珠子，会形成两颗翠玉圆珠。每颗玉珠都十分沉重，至少重达一两。"
+        }
+      ]
+    },
+    {
+      "id": "R027",
+      "kind": "stage potency / capacity",
+      "entry": "Full44volume−8peakpoints=36remaining;8peak=64initial.",
+      "calculation": "Stagepotency1:2:4:8; Moonlightcost10/5/2.5/1.25.44/64=68.75% ofhypotheticalinitial-stagebudget.",
+      "status": "Exact localarithmetic confirmed; Ch80p49 mid-actiondepletion isloosewording, not a32capacity claim.",
+      "sources": [
+        {
+          "chapter": 80,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter88.html",
+          "text": "元海圆满时，占据四成四的体积。刚刚一次激战，方源多次利用玉皮蛊，增加自己防御，因此真元损耗，如今真元剩着三成六分。"
+        },
+        {
+          "chapter": 80,
+          "paragraph": 40,
+          "file": "OEBPS/Text/chapter88.html",
+          "text": "算一算的话，只消耗了八分真元，连一成都不到。但因为这是一转巅峰的墨绿真元，已经消耗很大了。"
+        },
+        {
+          "chapter": 80,
+          "paragraph": 46,
+          "file": "OEBPS/Text/chapter88.html",
+          "text": "月光蛊催发一次，需要动用一成的翠绿真元，换算成苍绿真元，只需要半成。深绿真元再缩减一倍，墨绿真元亦是如此。"
+        },
+        {
+          "chapter": 80,
+          "paragraph": 47,
+          "file": "OEBPS/Text/chapter88.html",
+          "text": "也就是说，一成的墨绿真元，相当于两成深绿，四成苍绿，八成翠绿。"
+        },
+        {
+          "chapter": 80,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter88.html",
+          "text": "使用玉皮蛊消耗了八分墨绿真元，换算成一转初阶的翠绿真元，就高达六成四分！"
+        },
+        {
+          "chapter": 80,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter88.html",
+          "text": "若是方源还在初阶，整个空窍只有四成四的真元，使用到一半，空窍中的元海就彻底消耗光了。"
+        }
+      ]
+    },
+    {
+      "id": "R028",
+      "kind": "cohort and prize",
+      "entry": "57pupils;150announced then100recapped with25/month×4months.",
+      "calculation": "56payingpeers confirmed;100rent comparison exact.",
+      "status": "SR-030 strengthened; SR-041 preferred initial150→100, held.",
+      "sources": [
+        {
+          "chapter": 81,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter89.html",
+          "text": "五十七位学员，笔直地站在场中。一个个的鼻子都冻得通红，随着呼吸，吐出一口口的热气。"
+        },
+        {
+          "chapter": 81,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter89.html",
+          "text": "“明天你们的表现，将很大程度上影响着你们的前途。考核的第一名，不仅有一百五十块元石之奖励，而且还有挑选蛊虫的优先选择权！现在，开始你们在学堂中的，最后一次修为检测！”"
+        },
+        {
+          "chapter": 86,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter94.html",
+          "text": "族长古月博沉默了片刻，忽然露出了一丝微笑，道：“方源，你以丙等资质夺得了第一，这是往届前所未有的壮举！成为第一，会有一百块元石的奖励，同时有蛊虫优先选取权。现在，我当场要再奖励你，你可以任选一个小组加入。不管是什么组，只要你想，当场说出来，你就能加入！”"
+        },
+        {
+          "chapter": 89,
+          "paragraph": 14,
+          "file": "OEBPS/Text/chapter97.html",
+          "text": "“怎么可能！别的不说，单单是年末考核的第一，就有一百块元石的奖励吧？”一位女蛊师故意叫了声，然后露出微微嫉妒的神色，“说起来还真是羡慕啊，一百块元石对于我们来讲也算是一笔大款子呢。”"
+        },
+        {
+          "chapter": 89,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter97.html",
+          "text": "“要我说啊，就租那套临近家主阁的房子，二楼很宽敞，风景不错。方源小弟，你也不要太节俭了，才二十五块元石罢了。你手头上那个第一奖励，就足够你住上整整四个月的了。”"
+        }
+      ]
+    },
+    {
+      "id": "R029",
+      "kind": "first task proceeds",
+      "entry": "Teamreceives6;leader2,otherfour1each. Base task2.",
+      "calculation": "2+4×1=6; increaseby2×base gives3×base. FangYuanactualincome1.",
+      "status": "Do not credit all6 to FangYuan or translate 多了两倍 as totaldoubling.",
+      "sources": [
+        {
+          "chapter": 88,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter96.html",
+          "text": "五人从内务堂出来，角三将任务所得的六块元石都分发出去。他自己得两块，其余人各得一块。"
+        },
+        {
+          "chapter": 88,
+          "paragraph": 74,
+          "file": "OEBPS/Text/chapter96.html",
+          "text": "只在心中思索：“新人加入小组，家族都会相应地加大任务报酬，算是扶持新人的补贴。采集腐泥冻土的任务报酬，最多只有两块元石。因为我的缘故，多了两倍。按照道理，应该多多照顾我才是。如果雪地奔行算是下马威，故意单独采集冻土是刁难，那么这样子分发元石，就是打压了。”"
+        }
+      ]
+    },
+    {
+      "id": "R030",
+      "kind": "capacity and replenishment",
+      "entry": "C44%; ordinaryRevolution2breakthroughthreshold55%; GradeC40–59%.",
+      "calculation": "Ch92 remainingreserve goesfrom44 downbyabout20 toabout24, then13 beforebreakthrough. Naturalregenerationandstones mean grosscostnot equalnetdrop.",
+      "status": "Explicit exception; no44→55 aptitude rewrite.",
+      "sources": [
+        {
+          "chapter": 90,
+          "paragraph": 70,
+          "file": "OEBPS/Text/chapter98.html",
+          "text": "“要冲破晶膜，达到二转，不算特殊情况，一般至少需要五成五的墨绿真元。而我资质有限，最多只有四成四。所以人们常说，资质是蛊师修行第二重点！”"
+        },
+        {
+          "chapter": 91,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter99.html",
+          "text": "就拿丙等而言，空窍中真元的存储极限，最少是四成，最多能达到五成九。"
+        },
+        {
+          "chapter": 91,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter99.html",
+          "text": "方源的具体真元，只有四成四，在这个丙等资质的范围里，他也只是中下等。"
+        },
+        {
+          "chapter": 92,
+          "paragraph": 37,
+          "file": "OEBPS/Text/chapter100.html",
+          "text": "这些天来，方源一直故意压制着冲击浪潮，同时不断地汲取元石中的天然真元。因此过了这么长时间，青铜元海也只是从四成四的极限，降低了两成左右的水位。"
+        },
+        {
+          "chapter": 92,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter100.html",
+          "text": "时间流逝着，当青铜海面只剩下一成三的水位时，晶膜终于支撑不住，达到了极限。"
+        },
+        {
+          "chapter": 99,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter107.html",
+          "text": "整个赤铁真元海，占据空窍的四成四。海上半空处，春秋蝉显现出身形来。"
+        }
+      ]
+    },
+    {
+      "id": "R031",
+      "kind": "pre-inheritance cash",
+      "entry": "Once>1000held;2monthsrunwayforecast beforebreakthrough; later onlyonefusionaffordable; final2.5cash.",
+      "calculation": "Oneboarking tusk receivedfree and consumedinfusion. Exactstonecountspent notgiven.",
+      "status": "No certified cumulativebalance; forecasts not outlays.",
+      "sources": [
+        {
+          "chapter": 91,
+          "paragraph": 29,
+          "file": "OEBPS/Text/chapter99.html",
+          "text": "方源的元石，在学堂学习的日子里，曾经一度达到上千枚。但是也经不起日积月累的消耗。"
+        },
+        {
+          "chapter": 91,
+          "paragraph": 35,
+          "file": "OEBPS/Text/chapter99.html",
+          "text": "“若再这样下去，只能支撑两个月。所以必须要夺回遗产，那是最好的经济支撑。但是要夺回遗产，首先第一步，就是晋升二转。”方源目光幽幽。"
+        },
+        {
+          "chapter": 99,
+          "paragraph": 19,
+          "file": "OEBPS/Text/chapter107.html",
+          "text": "床榻上放着三只钱袋子，两只鼓鼓的，另一只瘪了大半。除此之外，还有一只野猪王的雪白獠牙，好像是一颗象牙，静静地挨着方源的腿，躺在床单上。"
+        },
+        {
+          "chapter": 99,
+          "paragraph": 21,
+          "file": "OEBPS/Text/chapter107.html",
+          "text": "按照族中的规矩，方源作为杀死野猪王的成员之一，免费获得了一颗野猪王的雪獠牙。"
+        },
+        {
+          "chapter": 99,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter107.html",
+          "text": "方源望着面前的这些东西，神情带着微微的凝重：“我的元石已经不多了，只够一次合炼的消耗。这次合炼之后，不管成功与否，我的经济都将崩溃。但是如果我不及时合炼的话，过了不了十几天，我的元石不断消耗，连合炼的机会都将丧失。”"
+        },
+        {
+          "chapter": 100,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter108.html",
+          "text": "“我现在身上的元石，只剩下两块半。是时候去内务堂，交还家产任务了。”"
+        }
+      ]
+    },
+    {
+      "id": "R032",
+      "kind": "inventory ledger",
+      "entry": "SevenGu aftersecondLittleLight;WhiteJadefusion reduces7→6; inheritedNineLeaf restores6→7.",
+      "calculation": "OneLittleLightdies→6; replacementimplied→7;3inputs→oneMoonglow means7→5 permanentGu, excludingdetachedleafstock.",
+      "status": "Replacementpriceunreported; secondLiquorWormnotyetpurchasedby110.",
+      "sources": [
+        {
+          "chapter": 91,
+          "paragraph": 31,
+          "file": "OEBPS/Text/chapter99.html",
+          "text": "然而方源在年末考核取得第一之后，进入蛊室，又免费选取了一只小光蛊。"
+        },
+        {
+          "chapter": 98,
+          "paragraph": 32,
+          "file": "OEBPS/Text/chapter106.html",
+          "text": "本命蛊春秋蝉、月光蛊、酒虫、白豕蛊、玉皮蛊以及两只小光蛊。"
+        },
+        {
+          "chapter": 99,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter107.html",
+          "text": "玉皮蛊和白豕蛊已经都不见了，一只全新的蛊虫，静静地悬浮在方源的面前。"
+        },
+        {
+          "chapter": 102,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter110.html",
+          "text": "“据说我这方家一脉，三辈之上，曾经是一位当权家老，留给后人许多家产。我有了这些家产，别说是七只蛊虫，就算这数目再暴涨一倍，也能养得起！不过最关键的，还不是这些家产，而是这只草蛊！”"
+        },
+        {
+          "chapter": 102,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter110.html",
+          "text": "此乃九叶生机草，二转蛊虫，具备治疗作用。"
+        },
+        {
+          "chapter": 106,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "月光蛊和一只小光蛊都摇摇晃晃地漂浮起来，缓缓地飞到他的手中。但是剩下的那只小光蛊，却没有响应。"
+        },
+        {
+          "chapter": 106,
+          "paragraph": 17,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "几个呼吸的功夫，它彻底消散了，再没有任何的印记留下来。"
+        },
+        {
+          "chapter": 106,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "月芒蛊由一只月光蛊，两只小光蛊合炼而成。一只小光蛊能增幅月刃一倍的攻击力，两只小光蛊仍旧是一倍，这种增幅不能叠加。"
+        }
+      ]
+    },
+    {
+      "id": "R033",
+      "kind": "feeding rates",
+      "entry": "JadeSkin2liang/10days;WhiteJade8liang/20days.",
+      "calculation": "0.2→0.4liang/day:2×averagejade consumption. Pigfeedingceased.",
+      "status": "Combinedmarketcost explicitlyhigher; selfgatheredjade reducescashneed. Do not infer4×average.",
+      "sources": [
+        {
+          "chapter": 100,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter108.html",
+          "text": "他用白豕蛊和玉皮蛊成功地合炼出了白玉蛊，白豕蛊的消失，使得他对于猪肉的需求降至为零。"
+        },
+        {
+          "chapter": 100,
+          "paragraph": 51,
+          "file": "OEBPS/Text/chapter108.html",
+          "text": "新生的白玉蛊，更偏向于玉皮蛊，食物同样是玉石。"
+        },
+        {
+          "chapter": 100,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter108.html",
+          "text": "玉皮蛊每十天要吞食二两的玉石，而白玉蛊则是每隔二十天，喂养玉石八两。"
+        },
+        {
+          "chapter": 100,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter108.html",
+          "text": "当然了，蛊虫越高级，食量也增多了。平均算下来，白玉蛊的喂养费用，比玉皮蛊和白豕蛊加起来，还要更多。"
+        },
+        {
+          "chapter": 100,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter108.html",
+          "text": "但是方源来讲，他有这片地下石林，根本不缺玉石。同时不需要猪肉，他也不必斩杀野猪，这就省下了他许多的麻烦，节省了许多时间。"
+        }
+      ]
+    },
+    {
+      "id": "R034",
+      "kind": "inheritance and refused settlement",
+      "entry": "Uncleoffers1000→2000→2500, rejected. Actualassets>10mu,8servants,3houses,1wine-shop andNineLeafgrass.",
+      "calculation": "Unclewithdrawscurrentmonthshopreceipts; workerswages+20%,manager+40%; basewagesnotgiven.",
+      "status": "Noofferedcashbookedasincome; no invented assetvaluation.",
+      "sources": [
+        {
+          "chapter": 101,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter109.html",
+          "text": "他继续道：“方源，你不是方正，我就打开天窗说亮话。如果你能放弃你继承家产的打算，你就能获得我的友谊，我的人脉关系你都可以利用。同时，我还会补偿你一千块的元石。我知道的，你最近手头拮据，连房租都拖欠两天了吧。”"
+        },
+        {
+          "chapter": 101,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter109.html",
+          "text": "“一千块元石不行，那就两千块，不两千五百块。”古月冻土不断加价。"
+        },
+        {
+          "chapter": 102,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter110.html",
+          "text": "十余亩农田，八名家奴，三处竹楼，以及一处酒肆！"
+        },
+        {
+          "chapter": 102,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter110.html",
+          "text": "此乃九叶生机草，二转蛊虫，具备治疗作用。"
+        },
+        {
+          "chapter": 103,
+          "paragraph": 25,
+          "file": "OEBPS/Text/chapter111.html",
+          "text": "只是方源翻了最后一页，发现这个月的进账都被古月冻土提走了。"
+        },
+        {
+          "chapter": 103,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter111.html",
+          "text": "方源见立威的效果已到，过犹不及，便缓缓开口：“过去的事情，就算了，我不计较。我看了账簿，你们的工钱有些低了，今后伙计的工钱提高两成，掌柜的提高四成。好好的干活，会有你们的好处的。”"
+        }
+      ]
+    },
+    {
+      "id": "R035",
+      "kind": "leaf production and commerce",
+      "entry": "20essencepoints perleaf;9leavesregrown inhalfday;50retail each; >400reportednet; later9/day and agentmargin.",
+      "calculation": "9×20=180points;44reserve allows2beforetop-up.9×50=450retailgross; clanretail55 vs FangYuanretail50.",
+      "status": "Exactproductioncostandagentmarginunreported;450not proven exactwholesalereceipt.",
+      "sources": [
+        {
+          "chapter": 106,
+          "paragraph": 40,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "“消耗了两成真元。”方源检视了一下自己的空窍，得出结论。"
+        },
+        {
+          "chapter": 106,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "他只有四成四的真元海，也就意味着，他只能一口气催生出两片生机草叶。"
+        },
+        {
+          "chapter": 106,
+          "paragraph": 44,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "如此循环往复，半天的功夫，他重新让九叶生机草上长满了九片草叶。"
+        },
+        {
+          "chapter": 106,
+          "paragraph": 47,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "一片生机叶，就是一转蛊虫，每一片的市价能卖到五十元石。也就是说，单单这九片叶蛊，就能让方源收获四百五十块元石。"
+        },
+        {
+          "chapter": 106,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "当然，方源催生它们也有成本。但即便抛开这些成本不算，方源也有四百多块的元石收益！"
+        },
+        {
+          "chapter": 107,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter115.html",
+          "text": "“一、二、三……九。的确是九片生机叶不错。”江牙数了三遍，这才闭上袋口，将袋子小心地贴身收起来。"
+        },
+        {
+          "chapter": 107,
+          "paragraph": 37,
+          "file": "OEBPS/Text/chapter115.html",
+          "text": "江牙放下酒杯，兴奋地道：“家族中的生机叶，每一片要卖五十五块元石。听了您的吩咐后，我们的草蛊，只卖五十块元石，果然是供不应求！大人，不如你每天都催生一些生机叶，这样一来，我们就能赚得更多了！”"
+        },
+        {
+          "chapter": 107,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter115.html",
+          "text": "方源听了缓缓摇头，断然拒绝：“不行，催生出九片生机叶，已经是极限了，浪费了我许多修行的时间。”"
+        },
+        {
+          "chapter": 107,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter115.html",
+          "text": "不过即便方源每天只催产九片生机叶，每天赚取四百多的元石，经过这些天的积累，他手中的财富也上涨到了一种可观的程度。"
+        }
+      ]
+    },
+    {
+      "id": "R036",
+      "kind": "combat ratios and range",
+      "entry": "TwoLittleLight notstackable;Moonglow3×Moonlightattack, still10mrange;MoonScar20m.",
+      "calculation": "Defence16monkeyremark inCh100 notsamecultivationcontext as12limitCh79. No linear conversionofsurvivalcounttodefencemultiplier.",
+      "status": "Do not silentlycorrect16→12 or add thetwoLittleLightbonuses.",
+      "sources": [
+        {
+          "chapter": 79,
+          "paragraph": 81,
+          "file": "OEBPS/Text/chapter87.html",
+          "text": "以方源目前的实力，遭到四只猴子的围攻，就要饮恨身死。若是算上玉皮蛊的防御，方源独自一人，最多能和十二头玉眼石猴周旋。"
+        },
+        {
+          "chapter": 100,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter108.html",
+          "text": "一片微亮的白玉之光，紧紧地贴着方源的全身。这层光，虽然比玉皮蛊的翠绿玉光，要薄很多。但是防御力，却高出了两倍有余。"
+        },
+        {
+          "chapter": 100,
+          "paragraph": 9,
+          "file": "OEBPS/Text/chapter108.html",
+          "text": "玉皮蛊的防御，最多只能支撑十六只石猴的同时进攻，但是现在方源却独自面对着三十多只石猴。"
+        },
+        {
+          "chapter": 106,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "月芒蛊由一只月光蛊，两只小光蛊合炼而成。一只小光蛊能增幅月刃一倍的攻击力，两只小光蛊仍旧是一倍，这种增幅不能叠加。"
+        },
+        {
+          "chapter": 106,
+          "paragraph": 62,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "但是合炼成的二转月芒蛊，攻击力却达到了月光蛊的三倍！"
+        },
+        {
+          "chapter": 106,
+          "paragraph": 64,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "方源走的这条路线，是最大化增幅月刃的攻击力，月刃的攻击范围仍旧是十米远，并没有增加。"
+        },
+        {
+          "chapter": 106,
+          "paragraph": 65,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "有一种路线，是用月光蛊和痕石蛊合炼。合炼成的月痕蛊，攻击力不变，但是攻击范围却能增长一倍，达到二十米远。"
+        }
+      ]
+    },
+    {
+      "id": "R037",
+      "kind": "extortion and auction",
+      "entry": "ManShidemands500; LiquorWormadvertised500 versusnormal580.",
+      "calculation": "580−500=80. Sealedbids determinefinalprice; noFangYuanbidyetby110.",
+      "status": "Extortiondemandnotpaidexpense; displayprice not completedpurchase.",
+      "sources": [
+        {
+          "chapter": 108,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter116.html",
+          "text": "“哼，我不要酒！你这酒难喝死了，还开什么酒店。赔偿，必须得赔偿！大爷本来好好的心情，就这样被你们败坏了，至少得赔偿五百块元石！”蛮石狮子大开口。"
+        },
+        {
+          "chapter": 110,
+          "paragraph": 10,
+          "file": "OEBPS/Text/chapter118.html",
+          "text": "“酒虫——五百块元石。”"
+        },
+        {
+          "chapter": 110,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter118.html",
+          "text": "酒虫的正常市价，是五百八十块元石。这里的标价比市价竟然还要便宜八十块元石。"
+        },
+        {
+          "chapter": 110,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter118.html",
+          "text": "古月药姬：“你去取一张纸，用笔写上自己购买这酒虫的价钱。然后塞进柜台侧面的洞口里去。如果在所有想要购买的人中，你的价格是最高的，那么这只酒虫就归你所有了。”"
+        },
+        {
+          "chapter": 110,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter118.html",
+          "text": "“幸好我夺回了家产，这些天通过贩卖一转生机叶，还有酒肆、竹楼出租，积累了一些元石。否则我连竞争的资格都没有。”"
+        }
+      ]
+    },
+    {
+      "id": "R038",
+      "kind": "auction awards",
+      "entry": "SecondLiquorWorm,BlackBoar,RedIronRelic purchased; CleanWaternotbid.",
+      "calculation": "LiquorWormwinningmargin20,notfinalprice. RedIron3000display/5000–8000predictionnotawardprice.",
+      "status": "Onlyactualpurchasesbooked; exactpricesunknown.",
+      "sources": [
+        {
+          "chapter": 111,
+          "paragraph": 46,
+          "file": "OEBPS/Text/chapter119.html",
+          "text": "少女听了，先是轻舒一口气，旋即又有些不忿：“什么呀，只比我们多二十块元石罢了。”"
+        },
+        {
+          "chapter": 111,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter119.html",
+          "text": "第二只酒虫已经到手，现在剩下的就是酸甜苦辣四种美酒。"
+        },
+        {
+          "chapter": 111,
+          "paragraph": 64,
+          "file": "OEBPS/Text/chapter119.html",
+          "text": "“我如果能出价六百五十，应该就能拿下这只净水蛊了。若再加十块，这只净水蛊必定落入我手！至于今天上午买的酒虫，我的出价应该比古月药姬多出大约二十块元石。”方源心中冷笑。"
+        },
+        {
+          "chapter": 111,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter119.html",
+          "text": "方源最终没有出价，净水蛊并不是他所需要的。同时一旦得到它，也会引来赤练的调查。当然最主要的原因，还在于方源需要留着钱财，看看接下来的几天里，有什么好的蛊虫。"
+        },
+        {
+          "chapter": 111,
+          "paragraph": 76,
+          "file": "OEBPS/Text/chapter119.html",
+          "text": "于是当中午来临时，他的手中再次多了一只蛊虫。"
+        },
+        {
+          "chapter": 113,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter121.html",
+          "text": "贾富脸上的笑容收敛了一些，双眼绽放出精芒，他盯着方源道：“我看了一下你这些天的出价，包括刚刚你买下赤铁舍利蛊的价格。老实说吧，小兄弟，你做买卖的天赋让我吃惊。你知道吗，你出的每一个价格，都十分接近最终的成交价。”"
+        },
+        {
+          "chapter": 113,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter121.html",
+          "text": "“这些天，你虽然只成功购买了一只黒豕蛊，一只酒虫，还有刚刚的那只赤铁舍利蛊，但是你对其他蛊虫的报价，都是只差十几块元石，就能成功收购。小兄弟，有没有兴趣到我这边来做事呢？”贾富对方源发出招揽。"
+        },
+        {
+          "chapter": 113,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter121.html",
+          "text": "“就是这个！”方源心中哈哈一笑。这些天来，他屡次出手，大部分都故意失败，距离成交价只差十多块元石，唯有黒豕蛊、酒虫、赤铁舍利蛊这三次成功。"
+        }
+      ]
+    },
+    {
+      "id": "R039",
+      "kind": "assets and production",
+      "entry": "Land/houses/wineshop/8servantssold;NineLeafretained.",
+      "calculation": "Threechestsproceedsnotnumericbalance; nineleavesnotproduceddaily.",
+      "status": "123leafrevenue>400, notautomatic365-dayyield.",
+      "sources": [
+        {
+          "chapter": 112,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter120.html",
+          "text": "催生生机叶，他也不是每天都进行，毕竟很损耗时间。往往催生出九片生机叶，大半天的时间就消耗殆尽了。"
+        },
+        {
+          "chapter": 112,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter120.html",
+          "text": "九叶生机草才是遗产中最具有价值的东西，方源需要它的治疗作用，同时出售生机叶赚取元石，能支撑他的修行，还有喂养其他蛊虫。"
+        },
+        {
+          "chapter": 112,
+          "paragraph": 76,
+          "file": "OEBPS/Text/chapter120.html",
+          "text": "古月冻土重新得到了酒肆、竹楼、家奴还有田地，而方源则领着三个家奴，每个家奴都抬着一个装满元石的箱子，向树屋走去。"
+        },
+        {
+          "chapter": 121,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter129.html",
+          "text": "幸好他之前转卖了家产，用了大半收购了赤铁舍利蛊后，手头上还余着一笔钱财。短时间之内，倒不用过于担心。"
+        },
+        {
+          "chapter": 123,
+          "paragraph": 44,
+          "file": "OEBPS/Text/chapter131.html",
+          "text": "“方源大人，这是这次的元石，请您查收。”他进了房间，恭敬地递过五个钱袋，里面自然装着满满的元石。"
+        },
+        {
+          "chapter": 123,
+          "paragraph": 45,
+          "file": "OEBPS/Text/chapter131.html",
+          "text": "元石远超四百块。狼潮渐渐来临，蛊师们对于生机叶的需求，也增大了。这就导致了方源贩卖生机叶的价钱，也越来越多。"
+        },
+        {
+          "chapter": 123,
+          "paragraph": 46,
+          "file": "OEBPS/Text/chapter131.html",
+          "text": "方源交给江牙九片生机叶，同时问道：“我先前要你收购的东西，你办妥了吗？”"
+        }
+      ]
+    },
+    {
+      "id": "R040",
+      "kind": "Moonglow essence",
+      "entry": "44capacity;10initial/5middle/2.5upperpoints.",
+      "calculation": "Initial4,middle8,upper17maximumconditionally;11−5−5=1.",
+      "status": "SR-051/052held; actualsixupperstagecastsleave29.",
+      "sources": [
+        {
+          "chapter": 114,
+          "paragraph": 24,
+          "file": "OEBPS/Text/chapter122.html",
+          "text": "每一记月刃，就要消耗掉他一成的赤铁真元。方源的空窍中，元海最多只有四成四。"
+        },
+        {
+          "chapter": 115,
+          "paragraph": 30,
+          "file": "OEBPS/Text/chapter123.html",
+          "text": "到达中阶之后，方源又取出几块元石，快速补充真元。直到将空窍中的真元海，全部积蓄成四成四的中阶绯红真元，他这才罢休。"
+        },
+        {
+          "chapter": 115,
+          "paragraph": 47,
+          "file": "OEBPS/Text/chapter123.html",
+          "text": "受到攻击的这一刹那，方源空窍内的白玉蛊骤然一亮，蓦地吸收了多达半成的绯红真元。"
+        },
+        {
+          "chapter": 115,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter123.html",
+          "text": "这要换成方源二转初阶时，一成的淡红真元就消耗殆尽了。"
+        },
+        {
+          "chapter": 116,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter124.html",
+          "text": "“一成一分的真元，也就是两记月刃，或者承受石猴王两次的偷袭。单靠月芒蛊或者白玉蛊，是不行的。唯一的机会，就是在石猴王攻击我的瞬间，抓住战机，催出月刃，斩杀掉它！”方源脑海中电光火石般，闪出此刻最佳的战术。"
+        },
+        {
+          "chapter": 116,
+          "paragraph": 19,
+          "file": "OEBPS/Text/chapter124.html",
+          "text": "石猴王打在方源的身上，力道凶猛，几乎把方源打了个趔趄，空窍中的真元骤然缩减半成，只剩下另一半！"
+        },
+        {
+          "chapter": 116,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter124.html",
+          "text": "趁着这个功夫，方源也退向石门。催出月刃之后，他空窍中的真元只残留一丝，战斗力急剧下滑。"
+        },
+        {
+          "chapter": 122,
+          "paragraph": 9,
+          "file": "OEBPS/Text/chapter130.html",
+          "text": "方源查看了一下空窍，空窍中还剩下一大半的深红真元。"
+        },
+        {
+          "chapter": 122,
+          "paragraph": 10,
+          "file": "OEBPS/Text/chapter130.html",
+          "text": "月芒蛊的一片月刃，需要一成的浅红真元才能催动出来。方源若是二转初阶，只能连续催动四记。到了中阶，上升到八记。到高阶，数量再增加一倍，提升到十六记。"
+        }
+      ]
+    },
+    {
+      "id": "R041",
+      "kind": "bitter wine and reward",
+      "entry": "Sixcenturyclams;500reward.",
+      "calculation": "2broken+4whole=6; rewardordered120confirmed121.",
+      "status": "Toadnotowned; clamsnotallGu.",
+      "sources": [
+        {
+          "chapter": 120,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter128.html",
+          "text": "方源很快就收集了六只百年苦贝。其中两只贝壳已经破损，其余四只却是完整无缺。"
+        },
+        {
+          "chapter": 120,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter128.html",
+          "text": "“古月方源驱赶吞江蟾有功，破格提升为一组之长，奖五百元石。”古月博沉吟了一番，下了这道饱含深意的命令。"
+        },
+        {
+          "chapter": 121,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter129.html",
+          "text": "他这次驱赶吞江蟾之后，族里奖了他五百块元石。五百块元石足够其他蛊师花销很长一阵子，但是方源几乎就全用在了这里。"
+        }
+      ]
+    },
+    {
+      "id": "R042",
+      "kind": "FourFlavours fusion",
+      "entry": "TwoLiquorWorms+4winejars→oneFourFlavours;firstattemptsuccess.",
+      "calculation": ">400stones, notnecessarilyexact400;doubleessencequalitynotrankadvancement.",
+      "status": "Futurecostexceedsleaf-onlyincome.",
+      "sources": [
+        {
+          "chapter": 121,
+          "paragraph": 32,
+          "file": "OEBPS/Text/chapter129.html",
+          "text": "酸甜苦辣四味美酒，甜的是黄金蜜酒，辣的白粮液，酸的是杨梅酒，苦的是苦贝酒。"
+        },
+        {
+          "chapter": 121,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter129.html",
+          "text": "一直到一百块的时候，光团凝缩成拳头大小，悬浮在酒坛当中。"
+        },
+        {
+          "chapter": 121,
+          "paragraph": 44,
+          "file": "OEBPS/Text/chapter129.html",
+          "text": "方源如法炮制，再依次倒进苦贝酒、白粮液。"
+        },
+        {
+          "chapter": 121,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter129.html",
+          "text": "“呼……”方源长出一口气，这次运气不错，没有失败，第一次就成功了。"
+        },
+        {
+          "chapter": 121,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter129.html",
+          "text": "就拿方源新炼成的这只四味酒虫来说，它能精炼二转真元，提升一个小境界。"
+        },
+        {
+          "chapter": 121,
+          "paragraph": 65,
+          "file": "OEBPS/Text/chapter129.html",
+          "text": "方源用四味酒虫精炼真元，必会导致元石消耗的增加。单靠贩卖生机叶的收入，已经不足以持平他的修行消耗了。"
+        },
+        {
+          "chapter": 121,
+          "paragraph": 67,
+          "file": "OEBPS/Text/chapter129.html",
+          "text": "每次合练蛊师，不管成功还是失败，都会消耗一笔元石。合练四味酒虫，方源就先消耗了四百多块元石。"
+        }
+      ]
+    },
+    {
+      "id": "R043",
+      "kind": "trade and payment",
+      "entry": "200fromChiShan;BlackBoartradedforFishScale.",
+      "calculation": "Cashdifferencepromisedbutnotquantified; BlackBoarstrengthretained.",
+      "status": "HiddenStone+FishScale→HiddenScale completedbeforealliance.",
+      "sources": [
+        {
+          "chapter": 123,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter131.html",
+          "text": "方源接过来掂了一下，不由地哂笑出声：“原来我的名誉，只值两百块元石？”"
+        },
+        {
+          "chapter": 123,
+          "paragraph": 67,
+          "file": "OEBPS/Text/chapter131.html",
+          "text": "“我已经又增长了一猪之力，黒豕蛊对我的利用价值已经很低了。黒豕蛊的最优晋升结果，是钢鬃蛊，虽然说此蛊攻防一体，但对我来讲，有了白玉蛊在手，用处并不大。不妨换一只鱼鳞蛊。”"
+        },
+        {
+          "chapter": 123,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter131.html",
+          "text": "方源也不揭破：“黒豕蛊比鱼鳞蛊要贵的多，若是换了，你必须得补偿我其中的差价。”"
+        },
+        {
+          "chapter": 127,
+          "paragraph": 37,
+          "file": "OEBPS/Text/chapter135.html",
+          "text": "隐鳞蛊是他在斗蛊会之前，就已经合炼成功。它就像是一块鲤鱼化石，灰扑扑的，躺在方源的真元海中，任由真元之水在它表面栩栩如生的鱼鳞上流过。"
+        },
+        {
+          "chapter": 127,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter135.html",
+          "text": "而方源先前缺少的鱼鳞蛊，自然是用黒豕蛊和青书兑换而来的。"
+        }
+      ]
+    },
+    {
+      "id": "R044",
+      "kind": "leaf prices",
+      "entry": "Previousclan55→60;FYasks65;priorlifepeak100.",
+      "calculation": "65−60=5premium; pricequote≠sale.",
+      "status": "QingShudeclines; donotrecord65receipts.",
+      "sources": [
+        {
+          "chapter": 124,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter132.html",
+          "text": "有生意上门，方源当然并不排斥：“那好，每片生机叶六十五块元石。”"
+        },
+        {
+          "chapter": 124,
+          "paragraph": 29,
+          "file": "OEBPS/Text/chapter132.html",
+          "text": "按照市价，家族中原本的卖价是五十五块元石。生机叶虽然是一转消耗蛊，用一次就没了的，但是这保命的东西，谁也不嫌多呀。"
+        },
+        {
+          "chapter": 124,
+          "paragraph": 30,
+          "file": "OEBPS/Text/chapter132.html",
+          "text": "而且狼潮将近，家族也提价，一片生机叶卖到了六十块。其实不止生机叶，很多东西的物价都在上涨，这是局势动荡，蛊师们也只好捏着鼻子认了。"
+        },
+        {
+          "chapter": 124,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter132.html",
+          "text": "青书再不提购买生机叶的事情，方源的价格吓到了他。"
+        },
+        {
+          "chapter": 124,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter132.html",
+          "text": "方源看似只涨了五块元石，但是青书要购买的绝不止一片生机叶。狼潮至少要持续整整一年，消耗的生机叶的数量会很大，这样积累起来，就很多了。"
+        },
+        {
+          "chapter": 124,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter132.html",
+          "text": "在这样的狼潮当中，死亡会随时降临在每一个人的身上，生机叶是不愁卖的，在方源的记忆中，甚至炒到过一百块的高价！"
+        }
+      ]
+    },
+    {
+      "id": "R045",
+      "kind": "war currency",
+      "entry": "10points/eye;5points/jinrice;25points/stone.",
+      "calculation": "Oneeye=0.4stoneatstatedexchange;onewolf2eyes=20points,not1stone.",
+      "status": "Futureinflationseparatefromcurrentrates.",
+      "sources": [
+        {
+          "chapter": 127,
+          "paragraph": 14,
+          "file": "OEBPS/Text/chapter135.html",
+          "text": "第二，设立战功榜。以小组为单位，时刻显示三大家族各个小组的战绩排名。一颗电狼眼珠兑换十点战功，战功可兑换蛊虫、元石等等物资。"
+        },
+        {
+          "chapter": 132,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter140.html",
+          "text": "一颗狼眼，能换取十点战功。五点战功，就是一斤大米。消耗二十五点战功，就能让蛊师拥有一块元石。"
+        },
+        {
+          "chapter": 132,
+          "paragraph": 89,
+          "file": "OEBPS/Text/chapter140.html",
+          "text": "“有了战功这种辅助货币，就能暂时地抵制经济崩溃。就像是地球上，一旦战争，国家政府就要大量发行纸币。当然，纸币发行过多，就会造成物价上涨，通货膨胀。战功也是如此，越到后期越贬值。但山寨生死存亡之间，没有战功，单用元石，更不靠谱。只能两害取其轻了。因此狼潮之后，都会有经济萧条的景象。”"
+        }
+      ]
+    },
+    {
+      "id": "R046",
+      "kind": "prospectiveloot",
+      "entry": "RockGu3900points;2–3operationsintendedforThreeStepGrass.",
+      "calculation": "3900/25=156stoneexchangeequivalent,notactualcashreceived.",
+      "status": "NoRockGurecoveryorThreeStepGrasspurchaseestablishedby140.",
+      "sources": [
+        {
+          "chapter": 132,
+          "paragraph": 77,
+          "file": "OEBPS/Text/chapter140.html",
+          "text": "只是这棵草蛊，可不容易到手。它不仅是物资榜上唯一的一棵，而且需要兑换的战功很多。"
+        },
+        {
+          "chapter": 133,
+          "paragraph": 28,
+          "file": "OEBPS/Text/chapter141.html",
+          "text": "“猎杀电狼，一颗眼珠只有十点战功。但是要在战场中回收蛊虫，上缴给家族高层，却有至少上千点战功！这样的事情，做个两三次，我就有能兑得三步芳草蛊的战功了。”方源心中暗道。"
+        },
+        {
+          "chapter": 133,
+          "paragraph": 37,
+          "file": "OEBPS/Text/chapter141.html",
+          "text": "蛊虫越珍贵，回收之后上缴，得到的战功也就越多。磐石蛊回收之后，方源足以能得到三千九的战功，能让他在战功榜上的排位直接上涨二十多位。"
+        }
+      ]
+    },
+    {
+      "id": "R047",
+      "kind": "aptitude and lifespan",
+      "entry": "GradeAupto99%;TenExtreme100%;FY44%.",
+      "calculation": "Five100-yearLifespanGu+100natural=600potential.",
+      "status": "Aperturecapacity,quality,recoveryandagearedifferentquantities.",
+      "sources": [
+        {
+          "chapter": 126,
+          "paragraph": 82,
+          "file": "OEBPS/Text/chapter134.html",
+          "text": "方源前世活了五百多年，就是先后使用了五只百年寿蛊。共增加了五百年的阳寿。本来连着他本来的百年寿岁，可以活到六百岁。但是在中途，遭到正派围攻，不得不自爆身亡了。"
+        },
+        {
+          "chapter": 135,
+          "paragraph": 40,
+          "file": "OEBPS/Text/chapter143.html",
+          "text": "“十绝体中的任何一种，都凌驾于甲等资质。最优秀的甲等资质，空窍真元能存储到九成九。但任何一种十绝体，空窍中的真元都是圆满的十成！”"
+        },
+        {
+          "chapter": 135,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter143.html",
+          "text": "方源只有丙等资质，四成四的真元。就算是乙等资质的熊力、熊林、熊姜，合力作战之下，也要被白凝冰压制住。可想而知，方源独自一人，面对白凝冰，情况只会比熊力他们更艰难。"
+        },
+        {
+          "chapter": 140,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter148.html",
+          "text": "但对于北冥冰魄体来讲，达到三转后，哪怕不主动消耗真元，只要真元存于空窍，温养窍壁的效果，就如同寻常蛊师主动消耗而温养的一样。"
+        }
+      ]
+    },
+    {
+      "id": "R048",
+      "kind": "inventory checkpoint",
+      "entry": "137explicitseven;138Plundertakenandrefined→eight.",
+      "calculation": "5through110,+Liquor,+Black,+Relic=8;Relicconsumed7;+HiddenStone8;Liquorfusion7;Black/Fishswapnet0;Hiddenfusion6;+EarGrass7;+Plunder8.",
+      "status": "Eight:Moonglow,WhiteJade,HiddenScale,FourFlavours,Cicada,EarGrass,NineLeaf,Plunder.",
+      "sources": [
+        {
+          "chapter": 115,
+          "paragraph": 21,
+          "file": "OEBPS/Text/chapter123.html",
+          "text": "赤铁舍利蛊彻底消耗了所有的底蕴，它的身躯变得透明，然后彻底消失在红光当中。"
+        },
+        {
+          "chapter": 116,
+          "paragraph": 64,
+          "file": "OEBPS/Text/chapter124.html",
+          "text": "方源绯红的真元一催，瞬间将它炼化。"
+        },
+        {
+          "chapter": 121,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter129.html",
+          "text": "正是四味酒虫。"
+        },
+        {
+          "chapter": 127,
+          "paragraph": 37,
+          "file": "OEBPS/Text/chapter135.html",
+          "text": "隐鳞蛊是他在斗蛊会之前，就已经合炼成功。它就像是一块鲤鱼化石，灰扑扑的，躺在方源的真元海中，任由真元之水在它表面栩栩如生的鱼鳞上流过。"
+        },
+        {
+          "chapter": 128,
+          "paragraph": 37,
+          "file": "OEBPS/Text/chapter136.html",
+          "text": "“蛊虫养、用、炼，这三个方面博大精深，奥妙非凡。地听肉耳草虽然容易养，但是用起来却比较麻烦。”方源暗忖。他手捏着这棵地听肉耳草，真元暗暗一催，顷刻间就炼化了它。"
+        },
+        {
+          "chapter": 137,
+          "paragraph": 46,
+          "file": "OEBPS/Text/chapter145.html",
+          "text": "就比如方源，如今有月芒蛊、白玉蛊、隐鳞蛊、四味酒虫、春秋蝉、地听肉耳草、九叶生机草。手中的蛊虫，多达七只。"
+        },
+        {
+          "chapter": 138,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter146.html",
+          "text": "春秋蝉的气息一泄，真元一吐，就把这强取蛊炼化，收入空窍。"
+        }
+      ]
+    },
+    {
+      "id": "R049",
+      "kind": "BaiGu ownership/use",
+      "entry": "IceMuscleusedpreviously;FrostDemonconsumed;BlueBirdretained.",
+      "calculation": "140twoRevolution3beforeexplosion/oneafterneedsIceMusclestatus,notautomatic3/2.",
+      "status": "PlunderheldunrefinedbyBai,instantlyrefinedbyFY; distinguishpossession/control.",
+      "sources": [
+        {
+          "chapter": 137,
+          "paragraph": 12,
+          "file": "OEBPS/Text/chapter145.html",
+          "text": "“你以为我的右臂，真的被你一拳打成骨折？真是天真！我已用三转冰肌蛊，练成了这身冰肌，防御卓绝！之所以一直假装，不过是想给某个人一个惊喜罢了。”白凝冰缓缓站起，眼中流露出不屑的笑意，说到最后，他瞄向方源。"
+        },
+        {
+          "chapter": 137,
+          "paragraph": 90,
+          "file": "OEBPS/Text/chapter145.html",
+          "text": "白凝冰已经练成冰肌，这肌肤一经练成，就如同黑白豕蛊增添的力量，再无须真元支持。"
+        },
+        {
+          "chapter": 138,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter146.html",
+          "text": "他得了这强取蛊，炼化了许多时日，虽然有所进展，但过程艰难，没有成功。这也是因为，熊毡的死和他具有间接的关系。这只强取蛊的意志，本来就来源于熊毡，因此对于白凝冰更加憎恨厌恶，加重了他炼化的难度。"
+        },
+        {
+          "chapter": 140,
+          "paragraph": 24,
+          "file": "OEBPS/Text/chapter148.html",
+          "text": "他自爆的霜妖蛊，可是三转蛊虫。是他先后失败了三次，耗费了大量的资源，这才合炼成功的。如今自爆了，甚是可惜。"
+        },
+        {
+          "chapter": 140,
+          "paragraph": 25,
+          "file": "OEBPS/Text/chapter148.html",
+          "text": "白凝冰虽然晋升了三转，但是时间并不久。尽管有家族的培养，但是资源到底是不可能给他一人独享。因此三转蛊虫，只有两只。如今牺牲了霜妖蛊，就只剩下蓝鸟冰棺蛊了。"
+        }
+      ]
+    },
+    {
+      "id": "R050",
+      "kind": "loot and disposal",
+      "entry": "ManShigroupGu recoveredandsurrendered;Xiongcorpsesmissing.",
+      "calculation": "Unknownnumber/totalmerit;do notbookBrownBearBase.",
+      "status": "FiveBaiMasterskilledseparately;Guownershipnotautomaticallytransferredbydeath.",
+      "sources": [
+        {
+          "chapter": 142,
+          "paragraph": 46,
+          "file": "OEBPS/Text/chapter150.html",
+          "text": "地上躺着五具死不瞑目的尸体，都是白家的蛊师。"
+        },
+        {
+          "chapter": 142,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter150.html",
+          "text": "离开一段距离后，他就用隐鳞蛊隐去身形，绕过山道战场，先后去了蛮石和熊力等人死的地方。"
+        },
+        {
+          "chapter": 142,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter150.html",
+          "text": "他将蛮石等五人尸体上的蛊虫回收，待到了熊力失去的地方时，已经发现尸体不见了。更谈不上他们的蛊虫。"
+        },
+        {
+          "chapter": 142,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter150.html",
+          "text": "“不过棕熊本力蛊，也未必在熊力的身上。他已经养成了一熊之力，恐怕早就上缴给家族也说不定。”"
+        },
+        {
+          "chapter": 144,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter152.html",
+          "text": "至于方源从古月蛮石等人身上，收刮出来的蛊虫，都并不出色，回到山寨后就上缴给了家族高层，换取了大量战功。"
+        }
+      ]
+    },
+    {
+      "id": "R051",
+      "kind": "Plunder proceeds",
+      "entry": "RedIronRelic,StoneAperture,WaterShieldtakenfromBai.",
+      "calculation": "Threecaptures;FrostDemonalreadydestroyednotavailable.",
+      "status": "Firsttwoinstantlyrefined;allthreecountasacquired. StoneApertureNOTused.",
+      "sources": [
+        {
+          "chapter": 143,
+          "paragraph": 10,
+          "file": "OEBPS/Text/chapter151.html",
+          "text": "竟然是一只赤铁舍利蛊！"
+        },
+        {
+          "chapter": 143,
+          "paragraph": 17,
+          "file": "OEBPS/Text/chapter151.html",
+          "text": "方源冷笑不语，赤铁舍利蛊一到手，他就利用春秋蝉顷刻炼化。但并不收入空窍，而是揣入怀中，给人一种并没有当场炼化的错觉。"
+        },
+        {
+          "chapter": 143,
+          "paragraph": 18,
+          "file": "OEBPS/Text/chapter151.html",
+          "text": "他紧接着又抓，这一次飞出了一只灰色的甲虫。"
+        },
+        {
+          "chapter": 143,
+          "paragraph": 19,
+          "file": "OEBPS/Text/chapter151.html",
+          "text": "“石窍蛊……”方源认出了这只蛊虫的来历，目光一闪，再次将其炼化，收入怀中。"
+        },
+        {
+          "chapter": 143,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter151.html",
+          "text": "最终，方源抓来的是白凝冰的水罩蛊。"
+        },
+        {
+          "chapter": 144,
+          "paragraph": 77,
+          "file": "OEBPS/Text/chapter152.html",
+          "text": "这石窍蛊对方源并无用处，倒是从白凝冰身上得来的赤铁舍利蛊，以及水罩蛊都有大用。"
+        }
+      ]
+    },
+    {
+      "id": "R052",
+      "kind": "leaf sales",
+      "entry": "5at72paid;standard70laterreported80.",
+      "calculation": "5×72=360;68/70earlierquotesnotamountpaid.",
+      "status": "Deliverypromised3days;futureorderreceipt/wholecashbalanceunknown.",
+      "sources": [
+        {
+          "chapter": 146,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter154.html",
+          "text": "于是他便开口道：“卖给你也不是不行，一片生机叶，六十八块元石。你要买几片？”"
+        },
+        {
+          "chapter": 146,
+          "paragraph": 17,
+          "file": "OEBPS/Text/chapter154.html",
+          "text": "“我从不期待别人的回报，你浪费我的时间已经够多了。七十块元石，你不买的话，就走吧。”方源回道。"
+        },
+        {
+          "chapter": 146,
+          "paragraph": 19,
+          "file": "OEBPS/Text/chapter154.html",
+          "text": "方源呵呵一笑：“此一时彼一时，现在是七十二快元石了。你每说一句话，我就浪费一些时间，我心中不爽就提高价格一次。盼你好自为之。”"
+        },
+        {
+          "chapter": 146,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter154.html",
+          "text": "最终古月野狠狠咬牙，道：“好，我买了，我需要五片生机叶。”"
+        },
+        {
+          "chapter": 146,
+          "paragraph": 25,
+          "file": "OEBPS/Text/chapter154.html",
+          "text": "但古月野仍旧是付了钱，当场他就交给江牙数袋元石。"
+        },
+        {
+          "chapter": 146,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter154.html",
+          "text": "“还有，今后生机叶的价格，提到每片七十块元石。”方源又道。"
+        },
+        {
+          "chapter": 147,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter155.html",
+          "text": "“他心地简直比煤碳还要黑，一片生机叶居然要卖八十块元石，根本就是趁人之危，贪婪无耻至极！”"
+        }
+      ]
+    },
+    {
+      "id": "R053",
+      "kind": "rescue price",
+      "entry": "OneBearEnslavementGu PLUS700stones.",
+      "calculation": "Two components,notGuvalued700.",
+      "status": "Acceptedterms;Guconveyed/refined;700alsoattestedbyrecipientreport.",
+      "sources": [
+        {
+          "chapter": 147,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter155.html",
+          "text": "方源好整以暇：“一只驭熊蛊，七百块元石，却能换取你们七个人的性命，这价格很便宜。你们可以拒绝，我会回去向家族报告你们的处境的。呵呵，只是援兵什么时候能来，会不会在路上遇到狼群的阻击，我可就说不准了。”"
+        },
+        {
+          "chapter": 147,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter155.html",
+          "text": "“好吧，我答应你。方源，你果真是名不虚传啊。”最终，熊骄嫚为了大局，不得不选择退让。她的话语充满了对方源的辛辣嘲讽。"
+        },
+        {
+          "chapter": 147,
+          "paragraph": 23,
+          "file": "OEBPS/Text/chapter155.html",
+          "text": "熊骄嫚懊悔不已，就在刚刚不久前，她主动撤销掉驭熊蛊上的意识，配合方源炼化了蛊虫。如今想要反悔，也不可能了。"
+        },
+        {
+          "chapter": 147,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter155.html",
+          "text": "“哼，他把我的一只驭熊蛊要了去。还有七百块元石，当做救我们的报酬。我还从未见过这般无耻，见利忘义的小人！”熊骄嫚冷哼道，发泄心中的不满。"
+        },
+        {
+          "chapter": 147,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter155.html",
+          "text": "“他没有欺负我，但是他又欺负别人了。这次是熊家的骄嫚姐姐，居然要挟她，索要了一只驭熊蛊，还有七百块元石。这实在太过分了，这样下去，家族的脸面都要被他丢光了。”古月药乐道。"
+        }
+      ]
+    },
+    {
+      "id": "R054",
+      "kind": "breakthrough expense",
+      "entry": "RevolutionThreeconsumablecreatedandused;1000+stones.",
+      "calculation": "44−38=6capacitypointsbeforeexpulsion;bodycapacitylater42.",
+      "status": "OtherrecipeGuconsumed;YaoLeGuappropriatedbutcount/namesunknown. Noexactinventorytotalafterthis.",
+      "sources": [
+        {
+          "chapter": 151,
+          "paragraph": 7,
+          "file": "OEBPS/Text/chapter159.html",
+          "text": "她身上的所有蛊虫，都被方源利用强取蛊取走，炼化成了他的东西。"
+        },
+        {
+          "chapter": 152,
+          "paragraph": 32,
+          "file": "OEBPS/Text/chapter160.html",
+          "text": "方源投了上千块元石后，光团膨胀到房门大小，然后猛地一缩。"
+        },
+        {
+          "chapter": 152,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter160.html",
+          "text": "三转，消耗型蛊虫。"
+        },
+        {
+          "chapter": 152,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter160.html",
+          "text": "他毫不犹豫地张开嘴，将这人兽葬生蛊一口吞下。"
+        },
+        {
+          "chapter": 152,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter160.html",
+          "text": "一成、两成、三成，当三成八的真元消耗掉之后，空窍轰的猛烈一震，透明的白色晶壁夸嚓夸嚓地碎裂开来。"
+        },
+        {
+          "chapter": 152,
+          "paragraph": 51,
+          "file": "OEBPS/Text/chapter160.html",
+          "text": "但方源并没有放松，而是立即将剩余的黑红真元，都赶紧排出体外。"
+        },
+        {
+          "chapter": 159,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter167.html",
+          "text": "方源的资质还是下降了一些，原先是丙等四成四，如今因为人兽葬生蛊的缘故，降了两分，空窍中最多只能装载四成二的真元了。"
+        }
+      ]
+    },
+    {
+      "id": "R055",
+      "kind": "debt and stipend",
+      "entry": "3000loan+CleanWaterloan;twoIOUs.",
+      "calculation": "Weekly100peace/300wartime;300actualfirstpaymentlatergiftedaway.",
+      "status": "Loansnotearnings;repaymentnotnarrated.",
+      "sources": [
+        {
+          "chapter": 155,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter163.html",
+          "text": "方源不以为意地耸耸肩，而是道：“老人家，我身上的元石不够用了，你先给我三千块。”"
+        },
+        {
+          "chapter": 155,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter163.html",
+          "text": "古月赤练冷哼一声，语气稍缓：“你不会缺少元石的，你刚刚成为家老不久，并不知道家族对家老的优待。只要是家老，每周都有一百块元石补贴。这还是和平时期的数额。如今狼潮时期，你每周将有三百块元石的补贴。”"
+        },
+        {
+          "chapter": 155,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter163.html",
+          "text": "方源写了借条，并且画押手印。"
+        },
+        {
+          "chapter": 155,
+          "paragraph": 43,
+          "file": "OEBPS/Text/chapter163.html",
+          "text": "方源将每个钱袋，都掂了掂，并没发现问题。"
+        },
+        {
+          "chapter": 155,
+          "paragraph": 63,
+          "file": "OEBPS/Text/chapter163.html",
+          "text": "半个时辰之后，方源带着三千块元石，以及一只净水蛊离开了赤家。"
+        },
+        {
+          "chapter": 155,
+          "paragraph": 64,
+          "file": "OEBPS/Text/chapter163.html",
+          "text": "而古月赤练，则坐在书房当中，看着桌面上方源写的两张轻飘飘的借条，心中的郁愤之情简直如滚滚江河，滔滔不尽。"
+        },
+        {
+          "chapter": 157,
+          "paragraph": 76,
+          "file": "OEBPS/Text/chapter165.html",
+          "text": "“这里是三百块元石，这一周家老的补贴。我知道你在这里，已经替你随手带来了。希望你不要太介意我的自主主张才好。”古月赤钟说着，递给方源一个钱袋子。"
+        },
+        {
+          "chapter": 158,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter166.html",
+          "text": "“舅父舅母，你们平日照顾我良多，我能有今天的成就，还多亏了你们二老的栽培。今天我刚刚领到家老的补贴，这里是三百块元石，请你们收下它。”说着，方源就将钱袋递给舅父。"
+        }
+      ]
+    },
+    {
+      "id": "R056",
+      "kind": "RevolutionThree equipment",
+      "entry": "LightningWingsfreeclanreward;SkyCanopysecondattempt.",
+      "calculation": "WaterShielddiesonfailure;replacementwaterGu+WhiteJade→SkyCanopy.",
+      "status": "Replacementidentityandpriceunspecified;firstlastingGu≠firstconsumable.",
+      "sources": [
+        {
+          "chapter": 155,
+          "paragraph": 73,
+          "file": "OEBPS/Text/chapter163.html",
+          "text": "三转天蓬蛊！"
+        },
+        {
+          "chapter": 155,
+          "paragraph": 74,
+          "file": "OEBPS/Text/chapter163.html",
+          "text": "“终于合炼成了。”方源满意地点点头，这是他第二次合炼。"
+        },
+        {
+          "chapter": 155,
+          "paragraph": 75,
+          "file": "OEBPS/Text/chapter163.html",
+          "text": "天蓬蛊是由二转的白玉蛊，以及一只水行防御蛊虫一起合炼而成。"
+        },
+        {
+          "chapter": 155,
+          "paragraph": 76,
+          "file": "OEBPS/Text/chapter163.html",
+          "text": "方源第一次合炼，用的是水罩蛊和白玉蛊。结果合炼失败，水罩蛊因此死亡。"
+        },
+        {
+          "chapter": 155,
+          "paragraph": 77,
+          "file": "OEBPS/Text/chapter163.html",
+          "text": "这一次用的水行防御蛊虫，是方源用最后的一点战功换过来的。"
+        },
+        {
+          "chapter": 155,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter163.html",
+          "text": "然而，这只天蓬蛊并非方源的第一只三转蛊虫。他的第一只三转蛊虫，是直接从家族中取来。"
+        },
+        {
+          "chapter": 155,
+          "paragraph": 80,
+          "file": "OEBPS/Text/chapter163.html",
+          "text": "于是，方源就选取了雷翼蛊。"
+        }
+      ]
+    },
+    {
+      "id": "R057",
+      "kind": "range and suppression",
+      "entry": "Moonglow10m;MoonScar20m;MoonShadowRevolution3/4/5 suppression60/30/15points.",
+      "calculation": "MoonScar2×base;rank3capacity44whollysuppressedby60pointcap.",
+      "status": "Do notcalculate44×40%remaining;rangeunitqueriesheld.",
+      "sources": [
+        {
+          "chapter": 106,
+          "paragraph": 64,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "方源走的这条路线，是最大化增幅月刃的攻击力，月刃的攻击范围仍旧是十米远，并没有增加。"
+        },
+        {
+          "chapter": 106,
+          "paragraph": 65,
+          "file": "OEBPS/Text/chapter114.html",
+          "text": "有一种路线，是用月光蛊和痕石蛊合炼。合炼成的月痕蛊，攻击力不变，但是攻击范围却能增长一倍，达到二十米远。"
+        },
+        {
+          "chapter": 142,
+          "paragraph": 87,
+          "file": "OEBPS/Text/chapter150.html",
+          "text": "方源心中不禁暗暗叹息一声：“距离太长了，和白凝冰的距离至少有二十多步。而我的月芒蛊的攻击范围，只有十步。而且……为了区区一个将死的白凝冰，而搭上自己的性命，严重干扰重生大计，这并不合算。”"
+        },
+        {
+          "chapter": 156,
+          "paragraph": 40,
+          "file": "OEBPS/Text/chapter164.html",
+          "text": "首先是名列出月痕蛊的优劣，月痕蛊的优点在于攻击距离，是月光蛊的一倍。缺点在于攻击力并不出众。"
+        },
+        {
+          "chapter": 156,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter164.html",
+          "text": "第一个是三转蛊虫黄金月，射程仍旧是十步不变，但是攻击威力再度增强。一经射出，金黄色的月牙，足有半人高，透着一丝威武霸气。"
+        },
+        {
+          "chapter": 156,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter164.html",
+          "text": "月影蛊作用特殊，能压制四转蛊师三成真元，五转蛊师一成半，三转蛊师六成真元。也就是说，类似方源的丙等资质，只有四五成真元的蛊师，若是中了这月影蛊，一点真元都动用不了，战斗力暴降，等若直接被废。"
+        },
+        {
+          "chapter": 157,
+          "paragraph": 10,
+          "file": "OEBPS/Text/chapter165.html",
+          "text": "血月蛊攻击能力差强人意，射程也只是十米，就算是攻击之后，形成血流不止的特效，真实效果也并不佳。"
+        }
+      ]
+    },
+    {
+      "id": "R058",
+      "kind": "BloodMoon fusion",
+      "entry": "Moonglow+BloodQi→BloodMoon;secondattemptsuccess159.",
+      "calculation": "AttackmonthlydropsTO1/3;ordinarybleedingusefulinlongbeastfights.",
+      "status": "Firstfailedfusiondoesnotspecifywhichinputdied;noinventedreplacementpurchase.",
+      "sources": [
+        {
+          "chapter": 157,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter165.html",
+          "text": "利用二转月芒蛊和血气蛊相互合炼，形成的三转蛊虫。"
+        },
+        {
+          "chapter": 157,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter165.html",
+          "text": "在每个月的特定几天内，它就会向外渗出鲜血。鲜血不断地流淌出来，在这期间，它的攻击力暴降到平时的三分之一。"
+        },
+        {
+          "chapter": 159,
+          "paragraph": 31,
+          "file": "OEBPS/Text/chapter167.html",
+          "text": "这是三转血月蛊。"
+        },
+        {
+          "chapter": 159,
+          "paragraph": 32,
+          "file": "OEBPS/Text/chapter167.html",
+          "text": "方源为了炼制这蛊，还失败了一次。直到第二次，才成功了。"
+        },
+        {
+          "chapter": 159,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter167.html",
+          "text": "至于合炼的素材，自然是压榨了古月赤练所得。"
+        },
+        {
+          "chapter": 160,
+          "paragraph": 21,
+          "file": "OEBPS/Text/chapter168.html",
+          "text": "血月蛊擅长持久战，造成的伤势无法止血，因此时间越长，敌方伤势就越重。"
+        },
+        {
+          "chapter": 160,
+          "paragraph": 24,
+          "file": "OEBPS/Text/chapter168.html",
+          "text": "“血月蛊最大的弊端，还是每个月都会有那么几天，外溢鲜血，战斗力暴降。它是我主要的进攻手段，这样看来，还是不稳定了些。不过，若是收服了花酒秘藏中的那只锯齿金蜈，就能弥补这个不足。”"
+        }
+      ]
+    },
+    {
+      "id": "R059",
+      "kind": "ownership transfer and token",
+      "entry": "NineLeafactuallytransferredforrewardtoken;TushitaFlowerselected160.",
+      "calculation": "NoNineLeafafter158;storagegapfilledat160.",
+      "status": "Conditionalreverseexchangeunused;ThreeStepGrassstillnotbought.",
+      "sources": [
+        {
+          "chapter": 148,
+          "paragraph": 9,
+          "file": "OEBPS/Text/chapter156.html",
+          "text": "“哼，这个古月药姬，先前向我求购酒虫未果，一直不死心。我原本早就积累了足够的战功，想要兑换了那三步芳草蛊，也被她暗中阻止。这一次，居然觊觎我的九叶生机草……”"
+        },
+        {
+          "chapter": 158,
+          "paragraph": 29,
+          "file": "OEBPS/Text/chapter166.html",
+          "text": "古月赤钟一直在察言观色，他误解了方源的犹豫，道：“虫洞中，不仅有三转蛊虫，更有四转蛊。方源家老你不会吃亏的，如果你日后后悔，我们也可再交换回来。只是需要一段时间，同时也得秘密进行。”"
+        },
+        {
+          "chapter": 158,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter166.html",
+          "text": "想到这里，方源主动接过古月赤钟手中的令牌，同时将九叶生机草转交给对方。"
+        },
+        {
+          "chapter": 158,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter166.html",
+          "text": "方源主动的转让，让赤钟很快就炼化了九叶生机草。"
+        },
+        {
+          "chapter": 160,
+          "paragraph": 66,
+          "file": "OEBPS/Text/chapter168.html",
+          "text": "兜率花。"
+        },
+        {
+          "chapter": 160,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter168.html",
+          "text": "这兜率花和兜笼草齐名，不仅能存食物，更能藏元石。是方源理想中的蛊之一。"
+        },
+        {
+          "chapter": 160,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter168.html",
+          "text": "“没有想到，在这古月山寨，也有这兜率花。有了它，后勤这块，就解决了后顾之忧了。”方源心中欢喜，当即就选了它。"
+        }
+      ]
+    },
+    {
+      "id": "R060",
+      "kind": "capacity and cleanse",
+      "entry": "CleanWaterused;residueremovedbutaptitude42.",
+      "calculation": "44−2=42;qualityRevolutionThreeinitialsilver.",
+      "status": "FourFlavoursstillownedbutdoesnotrefineRevolutionThree;old44unchanged.",
+      "sources": [
+        {
+          "chapter": 159,
+          "paragraph": 35,
+          "file": "OEBPS/Text/chapter167.html",
+          "text": "空窍中，窍壁呈光，时明时暗，但是毫无杂质，一片纯粹的白。"
+        },
+        {
+          "chapter": 159,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter167.html",
+          "text": "从古月赤练处敲诈得来的净水蛊，方源早就用了。人兽葬生蛊的后遗症已经彻底消除。"
+        },
+        {
+          "chapter": 159,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter167.html",
+          "text": "方源的资质还是下降了一些，原先是丙等四成四，如今因为人兽葬生蛊的缘故，降了两分，空窍中最多只能装载四成二的真元了。"
+        },
+        {
+          "chapter": 159,
+          "paragraph": 46,
+          "file": "OEBPS/Text/chapter167.html",
+          "text": "四味酒虫则在海面上戏水。"
+        }
+      ]
+    }
+  ]
+}

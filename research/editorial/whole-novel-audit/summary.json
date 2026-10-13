@@ -1,0 +1,20 @@
+{
+  "source_sha256": "1ef1c29b6bddd7994f56696e2d091363aa8bbcee4889439465a9e2c51437dd5d",
+  "narrative_chapters_screened": 2334,
+  "paragraphs_screened": 213892,
+  "characters_screened": 7275173,
+  "unique_hit_paragraphs": 959,
+  "category_counts": {
+    "aperture_percentages": 187,
+    "aperture_geometry": 70,
+    "regional_scale": 58,
+    "regional_journey_context": 246,
+    "central_southern_link": 130,
+    "travel_methods": 167,
+    "regional_barriers": 139
+  },
+  "method": "Automated paragraph-level Chinese expression screen, not full contextual reading of every chapter. Context is one paragraph on either side. Ordinals follow actual EPUB spine; cite volume/title/file as authoritative.",
+  "supplementary_unique_paragraphs": 225,
+  "total_candidate_paragraphs_inspected": 1184,
+  "human_review_scope": "All candidate paragraph texts inspected; selected decisive passages checked with additional surrounding context. Not a line-by-line reading of all narrative text."
+}

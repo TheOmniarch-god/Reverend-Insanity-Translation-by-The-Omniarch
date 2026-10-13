@@ -1,0 +1,1420 @@
+[
+  {
+    "id": "SR-001",
+    "category": "measurement",
+    "locations": [
+      {
+        "chapter": 6,
+        "paragraph": 8,
+        "file": "OEBPS/Text/chapter14.html"
+      },
+      {
+        "chapter": 10,
+        "paragraph": 19,
+        "file": "OEBPS/Text/chapter18.html"
+      },
+      {
+        "chapter": 10,
+        "paragraph": 51,
+        "file": "OEBPS/Text/chapter18.html"
+      }
+    ],
+    "recommended_action": "Express 44% as occupied aperture volume, retaining below-midpoint sea height.",
+    "status": "Preferred editorial harmonisation",
+    "dependencies": "Later numerical height descriptions",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+    "batch005_update": "Ch99p5 retains44% aperture occupancy after RevolutionTwo advancement. No aptitude or aperture-volume recalculation authorised."
+  },
+  {
+    "id": "SR-002",
+    "category": "chronology",
+    "locations": [
+      {
+        "chapter": 8,
+        "paragraph": 48,
+        "file": "OEBPS/Text/chapter16.html"
+      },
+      {
+        "chapter": 8,
+        "paragraph": 58,
+        "file": "OEBPS/Text/chapter16.html"
+      }
+    ],
+    "recommended_action": "month → week; ten-plus days → first few days",
+    "status": "Strong local harmonisation",
+    "dependencies": "Continue collecting later chronological references through Chapter 2334; no release after a local batch.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+    "batch002_update": "Ch11–20 supports short chronology and three-day rain interval; does not establish whole-novel consistency."
+  },
+  {
+    "id": "SR-003",
+    "category": "childhood",
+    "locations": [
+      {
+        "chapter": 2,
+        "paragraph": 49,
+        "file": "OEBPS/Text/chapter10.html"
+      },
+      {
+        "chapter": 2,
+        "paragraph": 50,
+        "file": "OEBPS/Text/chapter10.html"
+      },
+      {
+        "chapter": 9,
+        "paragraph": 16,
+        "file": "OEBPS/Text/chapter17.html"
+      },
+      {
+        "chapter": 18,
+        "paragraph": 17,
+        "file": "OEBPS/Text/chapter26.html"
+      },
+      {
+        "chapter": 18,
+        "paragraph": 19,
+        "file": "OEBPS/Text/chapter26.html"
+      }
+    ],
+    "recommended_action": "Fostering from three for twelve years, instead of five for ten.",
+    "status": "Moderate-confidence conjecture",
+    "dependencies": "Later childhood references and witnesses",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+    "batch002_update": "Ch18 p17 recalls aunt/uncle provision shortly after parental deaths; p19 confirms factual recollection. Supports continuity of care but gives no numerical fostering age."
+  },
+  {
+    "id": "SR-004",
+    "category": "casualties",
+    "locations": [
+      {
+        "chapter": 1,
+        "paragraph": 3,
+        "file": "OEBPS/Text/chapter9.html"
+      },
+      {
+        "chapter": 2,
+        "paragraph": 11,
+        "file": "OEBPS/Text/chapter10.html"
+      }
+    ],
+    "recommended_action": "Change Chapter 2 hundreds of thousands to ten million if harmonising.",
+    "status": "Provisional preferred conjecture",
+    "dependencies": "V2 Ch180 chapter388.html p39 rechecked; sequential reading outstanding",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-005",
+    "category": "source copy",
+    "locations": [
+      {
+        "chapter": 8,
+        "paragraph": 42,
+        "file": "OEBPS/Text/chapter16.html"
+      }
+    ],
+    "recommended_action": "有没有 → 又没有; preserve negative sense in English",
+    "status": "High contextual confidence",
+    "dependencies": "No independent corrected witness verified",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-006",
+    "category": "source copy",
+    "locations": [
+      {
+        "chapter": 10,
+        "paragraph": 31,
+        "file": "OEBPS/Text/chapter18.html"
+      }
+    ],
+    "recommended_action": "八方 → 八分",
+    "status": "High confidence",
+    "dependencies": "Immediate numerical sequence",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-007",
+    "category": "units",
+    "locations": [
+      {
+        "chapter": 10,
+        "paragraph": 19,
+        "file": "OEBPS/Text/chapter18.html"
+      },
+      {
+        "chapter": 10,
+        "paragraph": 32,
+        "file": "OEBPS/Text/chapter18.html"
+      },
+      {
+        "chapter": 10,
+        "paragraph": 36,
+        "file": "OEBPS/Text/chapter18.html"
+      },
+      {
+        "chapter": 10,
+        "paragraph": 39,
+        "file": "OEBPS/Text/chapter18.html"
+      },
+      {
+        "chapter": 10,
+        "paragraph": 46,
+        "file": "OEBPS/Text/chapter18.html"
+      },
+      {
+        "chapter": 10,
+        "paragraph": 51,
+        "file": "OEBPS/Text/chapter18.html"
+      },
+      {
+        "chapter": 10,
+        "paragraph": 55,
+        "file": "OEBPS/Text/chapter18.html"
+      }
+    ],
+    "recommended_action": "Define aperture-capacity percentages and percentage-point changes; preserve all source values.",
+    "status": "Recommended policy",
+    "dependencies": "Do not invent universal gross/net recovery mechanism",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-008",
+    "category": "source copy",
+    "locations": [
+      {
+        "chapter": 1,
+        "paragraph": 57,
+        "file": "OEBPS/Text/chapter9.html"
+      }
+    ],
+    "recommended_action": "将敬酒 → 将进酒; retain a sound existing English title.",
+    "status": "High contextual confidence",
+    "dependencies": "Conventional poem title",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-009",
+    "category": "source copy",
+    "locations": [
+      {
+        "chapter": 1,
+        "paragraph": 63,
+        "file": "OEBPS/Text/chapter9.html"
+      }
+    ],
+    "recommended_action": "开窍大殿 → 开窍大典; tomorrow’s Awakening Ceremony",
+    "status": "High contextual confidence",
+    "dependencies": "Ceremony context",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-010",
+    "category": "source copy",
+    "locations": [
+      {
+        "chapter": 9,
+        "paragraph": 17,
+        "file": "OEBPS/Text/chapter17.html"
+      }
+    ],
+    "recommended_action": "我的意向呢 → 你的意向呢; Fang Yuan, what do you think?",
+    "status": "High contextual confidence",
+    "dependencies": "No independent corrected witness verified",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-011",
+    "category": "translation choice",
+    "locations": [
+      {
+        "chapter": 9,
+        "paragraph": 43,
+        "file": "OEBPS/Text/chapter17.html"
+      }
+    ],
+    "recommended_action": "Working rendering: The room was twice as large as his old one.",
+    "status": "Moderate confidence; not proven numerical repair",
+    "dependencies": "Revisit if dimensions or another witness settle comparative",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-012",
+    "category": "resource accounting",
+    "locations": [
+      {
+        "chapter": 18,
+        "paragraph": 84,
+        "file": "OEBPS/Text/chapter26.html"
+      },
+      {
+        "chapter": 20,
+        "paragraph": 29,
+        "file": "OEBPS/Text/chapter28.html"
+      },
+      {
+        "chapter": 23,
+        "paragraph": 49,
+        "file": "OEBPS/Text/chapter31.html"
+      }
+    ],
+    "recommended_action": "Current preferred investigation direction: Ch18 twelve → six, rather than raising Ch20 six. Ch23 states6.5 total early refinement cost. No change approved; precise cost scope and overall ledger still unresolved.",
+    "status": "Definite local numerical conflict on the stated common basis; repair direction unresolved",
+    "dependencies": "SR-019 full opening cash reconciliation; independent source witnesses; distinguish Liquor Worm cost from all refinement.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+    "batch003_update": "Ch23 p49 supports lower expenditure, but needs separate reconciliation with the three-stone advance. Supersedes the tentative direction of raising Ch20 to at least twelve."
+  },
+  {
+    "id": "SR-013",
+    "category": "source copy",
+    "locations": [
+      {
+        "chapter": 12,
+        "paragraph": 19,
+        "file": "OEBPS/Text/chapter20.html"
+      },
+      {
+        "chapter": 12,
+        "paragraph": 26,
+        "file": "OEBPS/Text/chapter20.html"
+      }
+    ],
+    "recommended_action": "小儿 → 小二 in waiter context",
+    "status": "High contextual confidence",
+    "dependencies": "Retain already-correct English; no independent witness verified",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-014",
+    "category": "source copy",
+    "locations": [
+      {
+        "chapter": 15,
+        "paragraph": 39,
+        "file": "OEBPS/Text/chapter23.html"
+      }
+    ],
+    "recommended_action": "巨大的力量用来 → 巨大的力量涌来",
+    "status": "Contextual source-copy candidate",
+    "dependencies": "Convey force striking him; no independent witness verified",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-015",
+    "category": "source copy",
+    "locations": [
+      {
+        "chapter": 16,
+        "paragraph": 9,
+        "file": "OEBPS/Text/chapter24.html"
+      }
+    ],
+    "recommended_action": "能方才 → 可能方才; preserve inference rather than certainty",
+    "status": "Contextual source-copy candidate",
+    "dependencies": "No independent witness verified",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-016",
+    "category": "source copy",
+    "locations": [
+      {
+        "chapter": 17,
+        "paragraph": 26,
+        "file": "OEBPS/Text/chapter25.html"
+      }
+    ],
+    "recommended_action": "自己都不舍不得 → 自己都舍不得",
+    "status": "High contextual confidence",
+    "dependencies": "Remove duplicated negative; retain unwillingness to spend",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-017",
+    "category": "chronology",
+    "locations": [
+      {
+        "chapter": 16,
+        "paragraph": 9,
+        "file": "OEBPS/Text/chapter24.html"
+      },
+      {
+        "chapter": 23,
+        "paragraph": 48,
+        "file": "OEBPS/Text/chapter31.html"
+      },
+      {
+        "chapter": 30,
+        "paragraph": 20,
+        "file": "OEBPS/Text/chapter38.html"
+      },
+      {
+        "chapter": 30,
+        "paragraph": 36,
+        "file": "OEBPS/Text/chapter38.html"
+      },
+      {
+        "chapter": 39,
+        "paragraph": 58,
+        "file": "OEBPS/Text/chapter47.html"
+      },
+      {
+        "chapter": 44,
+        "paragraph": 45,
+        "file": "OEBPS/Text/chapter52.html"
+      },
+      {
+        "chapter": 46,
+        "paragraph": 32,
+        "file": "OEBPS/Text/chapter54.html"
+      }
+    ],
+    "recommended_action": "Investigate nearly100-day replay trigger versus roughly46 days since discovery. Candidate more than a month only if later evidence confirms local trigger repair; no exact replacement approved.",
+    "status": "Substantial conflict under natural activation model; initial activation inferred",
+    "dependencies": "Later legacy/recording explanations and source witnesses; do not invent a hidden earlier activation",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full-corpus reading and global reconciliation outstanding",
+    "batch004_update": "Ch60 supplies >10-day wait and sixth excavation day; do not fold these later delays into the earlier Ch46 recording duration. Ch72 half-year and Ch80 seasonal labels add separate dependencies."
+  },
+  {
+    "id": "SR-018",
+    "category": "chronology",
+    "locations": [
+      {
+        "chapter": 44,
+        "paragraph": 45,
+        "file": "OEBPS/Text/chapter52.html"
+      },
+      {
+        "chapter": 45,
+        "paragraph": 34,
+        "file": "OEBPS/Text/chapter53.html"
+      },
+      {
+        "chapter": 47,
+        "paragraph": 13,
+        "file": "OEBPS/Text/chapter55.html"
+      },
+      {
+        "chapter": 47,
+        "paragraph": 63,
+        "file": "OEBPS/Text/chapter55.html"
+      },
+      {
+        "chapter": 47,
+        "paragraph": 73,
+        "file": "OEBPS/Text/chapter55.html"
+      },
+      {
+        "chapter": 47,
+        "paragraph": 86,
+        "file": "OEBPS/Text/chapter55.html"
+      }
+    ],
+    "recommended_action": "Working candidate: change Ch47 murder/dispute/cleanup labels from last night to the night before last as a linked set.",
+    "status": "Locally strong second-night versus departure mismatch",
+    "dependencies": "Ch51 onward investigation chronology and stay/departure evidence",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full-corpus reading and global reconciliation outstanding",
+    "batch004_update": "Ch56 pp11,24 supports next-noon visit→same-evening dispute and rainy departure. Investigation supplies no exact new murder/departure interval; retain held linked repair."
+  },
+  {
+    "id": "SR-019",
+    "category": "resource accounting",
+    "locations": [
+      {
+        "chapter": 23,
+        "paragraph": 42,
+        "file": "OEBPS/Text/chapter31.html"
+      },
+      {
+        "chapter": 23,
+        "paragraph": 49,
+        "file": "OEBPS/Text/chapter31.html"
+      },
+      {
+        "chapter": 23,
+        "paragraph": 52,
+        "file": "OEBPS/Text/chapter31.html"
+      },
+      {
+        "chapter": 23,
+        "paragraph": 64,
+        "file": "OEBPS/Text/chapter31.html"
+      },
+      {
+        "chapter": 26,
+        "paragraph": 6,
+        "file": "OEBPS/Text/chapter34.html"
+      },
+      {
+        "chapter": 28,
+        "paragraph": 71,
+        "file": "OEBPS/Text/chapter36.html"
+      },
+      {
+        "chapter": 28,
+        "paragraph": 72,
+        "file": "OEBPS/Text/chapter36.html"
+      },
+      {
+        "chapter": 29,
+        "paragraph": 3,
+        "file": "OEBPS/Text/chapter37.html"
+      },
+      {
+        "chapter": 29,
+        "paragraph": 4,
+        "file": "OEBPS/Text/chapter37.html"
+      }
+    ],
+    "recommended_action": "Retain 20 as working downstream balance. Candidate explicitly include the already-paid 3-stone advance (Ch23 p42): subtotal23 minus advance3 equals20, if not included in cost categories. Reconcile44.5 peak separately.",
+    "status": "Displayed subtotal differs from cash balance; narrated advance may explain difference. Cost scope unresolved.",
+    "dependencies": "SR-012; partial stones; stipends; inventories and unitemised costs",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-020",
+    "category": "resource accounting",
+    "locations": [
+      {
+        "chapter": 28,
+        "paragraph": 71,
+        "file": "OEBPS/Text/chapter36.html"
+      },
+      {
+        "chapter": 39,
+        "paragraph": 58,
+        "file": "OEBPS/Text/chapter47.html"
+      }
+    ],
+    "recommended_action": "Candidate clarify118 as112 from classmates plus6 in personal stipends across two rounds.",
+    "status": "Strong arithmetic explanation, source wording needs qualification",
+    "dependencies": "Confirm collection rate and recipients remain unchanged",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-021",
+    "category": "aptitude and staging",
+    "locations": [
+      {
+        "chapter": 22,
+        "paragraph": 39,
+        "file": "OEBPS/Text/chapter30.html"
+      },
+      {
+        "chapter": 22,
+        "paragraph": 40,
+        "file": "OEBPS/Text/chapter30.html"
+      },
+      {
+        "chapter": 22,
+        "paragraph": 78,
+        "file": "OEBPS/Text/chapter30.html"
+      }
+    ],
+    "recommended_action": "Hold linked GradeC/38%/three-blade conflict. Do not change grade alone without addressing non-Moonlight GradeD pupils.",
+    "status": "Source mismatch; no safe isolated one-word correction",
+    "dependencies": "Later aptitude thresholds and scene evidence; earlier whole-corpus finding",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full-corpus reading and global reconciliation outstanding",
+    "batch005_update": "Ch91p41 explicitly sets GradeC at40–59%. This strengthens the Ch22 GradeC38% mismatch, but changing its grade alone still does not resolve the earlier scene staging."
+  },
+  {
+    "id": "SR-022",
+    "category": "capacity",
+    "locations": [
+      {
+        "chapter": 29,
+        "paragraph": 12,
+        "file": "OEBPS/Text/chapter37.html"
+      },
+      {
+        "chapter": 33,
+        "paragraph": 48,
+        "file": "OEBPS/Text/chapter41.html"
+      },
+      {
+        "chapter": 34,
+        "paragraph": 7,
+        "file": "OEBPS/Text/chapter42.html"
+      },
+      {
+        "chapter": 43,
+        "paragraph": 9,
+        "file": "OEBPS/Text/chapter51.html"
+      },
+      {
+        "chapter": 50,
+        "paragraph": 65,
+        "file": "OEBPS/Text/chapter58.html"
+      }
+    ],
+    "recommended_action": "Preferred local candidate: Ch43 four-and-a-half tenths →44%; preserve all normal44% references.",
+    "status": "Strong isolated-number harmonisation",
+    "dependencies": "Global aptitude sequence remains under review",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full-corpus reading and global reconciliation outstanding",
+    "batch004_update": "Ch80 p39 explicitly gives full44% volume; supports local45→44 candidate without recalculating aptitude globally."
+  },
+  {
+    "id": "SR-023",
+    "category": "action continuity",
+    "locations": [
+      {
+        "chapter": 27,
+        "paragraph": 34,
+        "file": "OEBPS/Text/chapter35.html"
+      },
+      {
+        "chapter": 29,
+        "paragraph": 48,
+        "file": "OEBPS/Text/chapter37.html"
+      },
+      {
+        "chapter": 34,
+        "paragraph": 63,
+        "file": "OEBPS/Text/chapter42.html"
+      }
+    ],
+    "recommended_action": "Preserve observed two-finger strike; qualify retrospective claims to mainly palm strikes rather than denying all finger use.",
+    "status": "Direct action conflicts with later categorical summaries",
+    "dependencies": "Fit each affected sentence minimally; no invented combat actions",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-024",
+    "category": "source names",
+    "locations": [
+      {
+        "chapter": 26,
+        "paragraph": 9,
+        "file": "OEBPS/Text/chapter34.html"
+      },
+      {
+        "chapter": 31,
+        "paragraph": 37,
+        "file": "OEBPS/Text/chapter39.html"
+      },
+      {
+        "chapter": 48,
+        "paragraph": 18,
+        "file": "OEBPS/Text/chapter56.html"
+      },
+      {
+        "chapter": 62,
+        "paragraph": 5,
+        "file": "OEBPS/Text/chapter70.html"
+      },
+      {
+        "chapter": 62,
+        "paragraph": 83,
+        "file": "OEBPS/Text/chapter70.html"
+      },
+      {
+        "chapter": 71,
+        "paragraph": 56,
+        "file": "OEBPS/Text/chapter79.html"
+      },
+      {
+        "chapter": 73,
+        "paragraph": 35,
+        "file": "OEBPS/Text/chapter81.html"
+      },
+      {
+        "chapter": 73,
+        "paragraph": 37,
+        "file": "OEBPS/Text/chapter81.html"
+      },
+      {
+        "chapter": 82,
+        "paragraph": 79,
+        "file": "OEBPS/Text/chapter90.html"
+      },
+      {
+        "chapter": 83,
+        "paragraph": 1,
+        "file": "OEBPS/Text/chapter91.html"
+      }
+    ],
+    "recommended_action": "Ch26 andCh48 MoChen→MoBei; Ch31 MoBei→MoChen. Follow participant identity, not global name replacement.",
+    "status": "High contextual confidence",
+    "dependencies": "No independent corrected witness verified",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full-corpus reading and global reconciliation outstanding",
+    "batch004_update": "Further Mo Chen→Mo Bei occurrences in Ch62 pp5,83; Ch71 p56; Ch73 pp35,37. Ch63 p13 explicitly identifies Mo Bei as the beetle recipient. Preserve elder Mo Chen in Ch77–78.",
+    "batch005_update": "Add Ch82p79 and Ch83p1: the pupil is Mo Bei, not elder Mo Chen. Preserve the actual elder at Ch83p51."
+  },
+  {
+    "id": "SR-025",
+    "category": "source names",
+    "locations": [
+      {
+        "chapter": 45,
+        "paragraph": 62,
+        "file": "OEBPS/Text/chapter53.html"
+      }
+    ],
+    "recommended_action": "JiaFu→JiaJinSheng as the interlocutor in this sentence.",
+    "status": "High contextual confidence",
+    "dependencies": "Keep previous and later JiaFu references unchanged",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-026",
+    "category": "source names",
+    "locations": [
+      {
+        "chapter": 50,
+        "paragraph": 32,
+        "file": "OEBPS/Text/chapter58.html"
+      }
+    ],
+    "recommended_action": "ChiLian→ChiCheng as grandson thanking grandfather.",
+    "status": "High contextual confidence",
+    "dependencies": "No global replacement",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-027",
+    "category": "source copy",
+    "locations": [
+      {
+        "chapter": 33,
+        "paragraph": 12,
+        "file": "OEBPS/Text/chapter41.html"
+      }
+    ],
+    "recommended_action": "First你→我 in bed comparison: I have a bed to sleep in; what about you?",
+    "status": "High contextual confidence",
+    "dependencies": "Preserve surrounding taunt",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-028",
+    "category": "source copy",
+    "locations": [
+      {
+        "chapter": 24,
+        "paragraph": 42,
+        "file": "OEBPS/Text/chapter32.html"
+      }
+    ],
+    "recommended_action": "根本就能形成有效打击→根本就不能形成有效打击",
+    "status": "High contextual confidence",
+    "dependencies": "Negative supported by inexperienced users and paragraph reasoning",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full-corpus reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-029",
+    "category": "ranking",
+    "locations": [
+      {
+        "chapter": 53,
+        "paragraph": 22,
+        "file": "OEBPS/Text/chapter61.html"
+      },
+      {
+        "chapter": 53,
+        "paragraph": 24,
+        "file": "OEBPS/Text/chapter61.html"
+      },
+      {
+        "chapter": 53,
+        "paragraph": 26,
+        "file": "OEBPS/Text/chapter61.html"
+      },
+      {
+        "chapter": 53,
+        "paragraph": 27,
+        "file": "OEBPS/Text/chapter61.html"
+      },
+      {
+        "chapter": 54,
+        "paragraph": 22,
+        "file": "OEBPS/Text/chapter62.html"
+      },
+      {
+        "chapter": 62,
+        "paragraph": 87,
+        "file": "OEBPS/Text/chapter70.html"
+      }
+    ],
+    "recommended_action": "If overall ranking is intended, change Chi Cheng third→fourth at all three linked mentions. Alternatively specify third among the remaining candidates.",
+    "rationale": "Fang Yuan first, Mo Bei second, Fang Zheng next, Chi Cheng next. Ch62 explicitly makes Chi Cheng fourth in selection order.",
+    "confidence": "High for overall sequence; medium for repair because candidate-subset usage is possible.",
+    "status": "Provisional active proposal; not approved",
+    "dependencies": "Resolve whether Ch53/54 excludes Fang Yuan; preserve correct officer appointments.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-030",
+    "category": "accounting",
+    "locations": [
+      {
+        "chapter": 54,
+        "paragraph": 55,
+        "file": "OEBPS/Text/chapter62.html"
+      },
+      {
+        "chapter": 54,
+        "paragraph": 58,
+        "file": "OEBPS/Text/chapter62.html"
+      }
+    ],
+    "recommended_action": "Retain68 pending reconciliation. If56 paying peers remain, use67 for levy-only receipts or70 including own3-stone stipend, and label the accounting scope.",
+    "rationale": "53 ordinary peers×1 +2 deputies×3 +1 head×8=67. Former59 fits56+3, but new68 does not match either consistent scope.",
+    "confidence": "High conditional arithmetic; medium defect assessment because a pupil is speaking.",
+    "status": "Provisional active proposal; not approved",
+    "dependencies": "Confirm later cohort headcounts and receipts; do not manufacture a missing payer or expense.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding",
+    "batch005_update": "Ch81p39 explicitly confirms57 pupils, strengthening the56-paying-peer basis for67 levy-only /70 including own stipend. No basis for silently adding a57th payer."
+  },
+  {
+    "id": "SR-031",
+    "category": "witness time",
+    "locations": [
+      {
+        "chapter": 44,
+        "paragraph": 1,
+        "file": "OEBPS/Text/chapter52.html"
+      },
+      {
+        "chapter": 55,
+        "paragraph": 67,
+        "file": "OEBPS/Text/chapter63.html"
+      },
+      {
+        "chapter": 56,
+        "paragraph": 11,
+        "file": "OEBPS/Text/chapter64.html"
+      }
+    ],
+    "recommended_action": "If harmonising the witness rather than preserving mistaken testimony, change 那天上午→那天中午; English: that noon.",
+    "rationale": "Direct Ch44 narration and Fang Yuan’s Ch56 account place the visit at noon; witness says morning.",
+    "confidence": "High local mismatch; medium emendation.",
+    "status": "Provisional active proposal; not approved",
+    "dependencies": "Character testimony need not be accurate; distinguish this from murder-date repair SR-018.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-032",
+    "category": "chronology",
+    "locations": [
+      {
+        "chapter": 7,
+        "paragraph": 4,
+        "file": "OEBPS/Text/chapter15.html"
+      },
+      {
+        "chapter": 7,
+        "paragraph": 47,
+        "file": "OEBPS/Text/chapter15.html"
+      },
+      {
+        "chapter": 72,
+        "paragraph": 2,
+        "file": "OEBPS/Text/chapter80.html"
+      },
+      {
+        "chapter": 72,
+        "paragraph": 26,
+        "file": "OEBPS/Text/chapter80.html"
+      }
+    ],
+    "recommended_action": "Working repair: 在之前的半年里→在过去这几个月里; English: Over the past few months. Retain mid-year examination.",
+    "rationale": "Ch7 is April and seven days after awakening; Ch72 is lateJune. The training retrospect calls this the past half-year. A mid-year exam need not follow six full months of attendance.",
+    "confidence": "High tension in short chronology; moderate preferred wording.",
+    "status": "Provisional active proposal; not approved",
+    "dependencies": "Reconcile SR-002/SR-017 and all later academy dates; do not shift April to another month simply to save this sentence.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding",
+    "batch005_update": "Ch109 March awakening announcement strengthens the March-entry/April-first-week calendar. Distinguish academic-year labels from literal elapsed months; private teaching has its own start date."
+  },
+  {
+    "id": "SR-033",
+    "category": "appointment schedule",
+    "locations": [
+      {
+        "chapter": 26,
+        "paragraph": 14,
+        "file": "OEBPS/Text/chapter34.html"
+      },
+      {
+        "chapter": 53,
+        "paragraph": 28,
+        "file": "OEBPS/Text/chapter61.html"
+      },
+      {
+        "chapter": 53,
+        "paragraph": 95,
+        "file": "OEBPS/Text/chapter61.html"
+      }
+    ],
+    "recommended_action": "If early appointment was intended, revise 三个月后→届时 and explain selection once the leading candidates qualify; otherwise preserve as an unannounced schedule change.",
+    "rationale": "Ch26 announces appointments after3months, but the linked extortion/caravan/breakthrough sequence reaches appointment much sooner.",
+    "confidence": "Moderate continuity query; low-to-moderate repair confidence.",
+    "status": "Provisional active proposal; not approved",
+    "dependencies": "Whole academy calendar and possibility of changed policy; no invented two-month hiatus.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-034",
+    "category": "scene time",
+    "locations": [
+      {
+        "chapter": 66,
+        "paragraph": 49,
+        "file": "OEBPS/Text/chapter74.html"
+      },
+      {
+        "chapter": 67,
+        "paragraph": 16,
+        "file": "OEBPS/Text/chapter75.html"
+      }
+    ],
+    "recommended_action": "If the household scene is continuous with the afternoon arrival, 今天早上你就多睡一会儿嘛→今天你就多休息一会儿嘛. English: You should rest a little more today.",
+    "rationale": "The killing is explicitly afternoon; the immediately preceding family dialogue refers to more sleep this morning. An earlier scene setup remains possible.",
+    "confidence": "Moderate query, conditional repair.",
+    "status": "Provisional active proposal; not approved",
+    "dependencies": "Determine whether scene is an implicit earlier cut; do not move the killing to morning or insert a day.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-035",
+    "category": "numerical wording",
+    "locations": [
+      {
+        "chapter": 62,
+        "paragraph": 40,
+        "file": "OEBPS/Text/chapter70.html"
+      },
+      {
+        "chapter": 62,
+        "paragraph": 62,
+        "file": "OEBPS/Text/chapter70.html"
+      }
+    ],
+    "recommended_action": "持续时间是蛮力天牛蛊的一倍→持续时间是蛮力天牛蛊的两倍. English: lasts twice as long.",
+    "rationale": "The paragraph explicitly compares10breaths with5; standalone 是…一倍 states equality rather than the intended doubled duration.",
+    "confidence": "High local confidence.",
+    "status": "Provisional active proposal; not approved",
+    "dependencies": "Apply only to this explicit ratio, not every倍 construction.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-036",
+    "category": "source identity",
+    "locations": [
+      {
+        "chapter": 66,
+        "paragraph": 14,
+        "file": "OEBPS/Text/chapter74.html"
+      },
+      {
+        "chapter": 66,
+        "paragraph": 28,
+        "file": "OEBPS/Text/chapter74.html"
+      },
+      {
+        "chapter": 66,
+        "paragraph": 74,
+        "file": "OEBPS/Text/chapter74.html"
+      }
+    ],
+    "recommended_action": "另外两个蛊师→另外两个猎手; English: the other two hunters.",
+    "rationale": "These are the mortal companions, repeatedly identified as hunters, not Gu Masters.",
+    "confidence": "High contextual confidence.",
+    "status": "Provisional active proposal; not approved",
+    "dependencies": "Source witness validation; not a claim that liveEnglish currently contains the error.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-037",
+    "category": "source names",
+    "locations": [
+      {
+        "chapter": 74,
+        "paragraph": 38,
+        "file": "OEBPS/Text/chapter82.html"
+      },
+      {
+        "chapter": 76,
+        "paragraph": 17,
+        "file": "OEBPS/Text/chapter84.html"
+      }
+    ],
+    "recommended_action": "Change 王二→王大 at Ch74p38 and Ch76p17.",
+    "rationale": "The elder son who vanished and the surviving attacker are Wang Da; Wang Er is the younger hunter already killed.",
+    "confidence": "High contextual confidence.",
+    "status": "Provisional active proposal; not approved",
+    "dependencies": "Do not change deliberate Fang Yuan/Fang Zheng mistaken identity in the same sequence.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-038",
+    "category": "Gu nomenclature",
+    "locations": [
+      {
+        "chapter": 75,
+        "paragraph": 75,
+        "file": "OEBPS/Text/chapter83.html"
+      },
+      {
+        "chapter": 75,
+        "paragraph": 82,
+        "file": "OEBPS/Text/chapter83.html"
+      },
+      {
+        "chapter": 75,
+        "paragraph": 83,
+        "file": "OEBPS/Text/chapter83.html"
+      },
+      {
+        "chapter": 76,
+        "paragraph": 23,
+        "file": "OEBPS/Text/chapter84.html"
+      },
+      {
+        "chapter": 76,
+        "paragraph": 36,
+        "file": "OEBPS/Text/chapter84.html"
+      },
+      {
+        "chapter": 76,
+        "paragraph": 76,
+        "file": "OEBPS/Text/chapter84.html"
+      },
+      {
+        "chapter": 77,
+        "paragraph": 68,
+        "file": "OEBPS/Text/chapter85.html"
+      }
+    ],
+    "recommended_action": "Working standard: 爱别离, with one consistent English Gu name. Harmonise earlier 爱生离 only after later usage is checked.",
+    "rationale": "One poison Gu, one owner and one continuing fight use both forms; Ch76–77 settles locally on 爱别离.",
+    "confidence": "High identity confidence; medium preferred canonical form.",
+    "status": "Provisional active proposal; not approved",
+    "dependencies": "Later appearances, recipes and independent witnesses; do not invent a second poison Gu.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-039",
+    "category": "academy duration",
+    "locations": [
+      {
+        "chapter": 81,
+        "paragraph": 13,
+        "file": "OEBPS/Text/chapter89.html"
+      },
+      {
+        "chapter": 81,
+        "paragraph": 16,
+        "file": "OEBPS/Text/chapter89.html"
+      },
+      {
+        "chapter": 85,
+        "paragraph": 3,
+        "file": "OEBPS/Text/chapter93.html"
+      },
+      {
+        "chapter": 87,
+        "paragraph": 52,
+        "file": "OEBPS/Text/chapter95.html"
+      },
+      {
+        "chapter": 97,
+        "paragraph": 55,
+        "file": "OEBPS/Text/chapter105.html"
+      },
+      {
+        "chapter": 99,
+        "paragraph": 6,
+        "file": "OEBPS/Text/chapter107.html"
+      },
+      {
+        "chapter": 99,
+        "paragraph": 9,
+        "file": "OEBPS/Text/chapter107.html"
+      }
+    ],
+    "recommended_action": "Where elapsed duration is explicit, prefer academy year / this school year for schooling and since spring or through spring and autumn for Cicada recovery. Do not replace every occurrence of year.",
+    "rationale": "The spring entry and winter graduation do not establish12 elapsed months. Academic-year and seasonal-cycle usages can be legitimate shorthand; 整整一年 and 满一年 need especially careful treatment.",
+    "confidence": "High need to distinguish meanings; moderate need for emendation.",
+    "status": "Active provisional proposal; no approval",
+    "dependencies": "SR-002, SR-017, SR-032; later school calendars and Cicada recovery mechanics. Do not impose a365-day maturation requirement.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-040",
+    "category": "private instruction duration",
+    "locations": [
+      {
+        "chapter": 58,
+        "paragraph": 54,
+        "file": "OEBPS/Text/chapter66.html"
+      },
+      {
+        "chapter": 63,
+        "paragraph": 7,
+        "file": "OEBPS/Text/chapter71.html"
+      },
+      {
+        "chapter": 81,
+        "paragraph": 93,
+        "file": "OEBPS/Text/chapter89.html"
+      },
+      {
+        "chapter": 84,
+        "paragraph": 39,
+        "file": "OEBPS/Text/chapter92.html"
+      },
+      {
+        "chapter": 86,
+        "paragraph": 50,
+        "file": "OEBPS/Text/chapter94.html"
+      }
+    ],
+    "recommended_action": "Ch84p39 被一个四转蛊师教导一年→被一个四转蛊师教导了半年多; working English: taught by a Revolution Four Gu Master for a little over half a year.",
+    "rationale": "Private lessons begin only after the Jia inquiry. The JadeSkin gift and midyear tusk scheme are each recalled as roughly half a year ago at graduation, not a full year of tuition.",
+    "confidence": "High local conflict; moderate exact replacement.",
+    "status": "Active provisional proposal; no approval",
+    "dependencies": "Reconcile all winter dates. A less numerical several months remains available if later dates oppose half a year.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-041",
+    "category": "prize amount",
+    "locations": [
+      {
+        "chapter": 81,
+        "paragraph": 31,
+        "file": "OEBPS/Text/chapter89.html"
+      },
+      {
+        "chapter": 81,
+        "paragraph": 41,
+        "file": "OEBPS/Text/chapter89.html"
+      },
+      {
+        "chapter": 86,
+        "paragraph": 68,
+        "file": "OEBPS/Text/chapter94.html"
+      },
+      {
+        "chapter": 89,
+        "paragraph": 14,
+        "file": "OEBPS/Text/chapter97.html"
+      },
+      {
+        "chapter": 89,
+        "paragraph": 48,
+        "file": "OEBPS/Text/chapter97.html"
+      }
+    ],
+    "recommended_action": "Preferred linked repair:150→100 in Ch81pp31,41; retain100 in Ch86/89 and the25-per-month ×4-month comparison.",
+    "rationale": "Two initial150 announcements conflict with the later100 announcement, repeated100 recollection and matching rent arithmetic. The later coherent chain favours reducing the initial number, not inflating all downstream amounts.",
+    "confidence": "High inconsistency; moderate-to-high preferred direction.",
+    "status": "Active provisional proposal; no approval",
+    "dependencies": "Later payout/cash evidence and possible unannounced prize reduction. Initial reading preference100→150 superseded before delivery.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-042",
+    "category": "age and calendar",
+    "locations": [
+      {
+        "chapter": 86,
+        "paragraph": 30,
+        "file": "OEBPS/Text/chapter94.html"
+      },
+      {
+        "chapter": 90,
+        "paragraph": 7,
+        "file": "OEBPS/Text/chapter98.html"
+      },
+      {
+        "chapter": 90,
+        "paragraph": 20,
+        "file": "OEBPS/Text/chapter98.html"
+      },
+      {
+        "chapter": 101,
+        "paragraph": 4,
+        "file": "OEBPS/Text/chapter109.html"
+      },
+      {
+        "chapter": 104,
+        "paragraph": 13,
+        "file": "OEBPS/Text/chapter112.html"
+      }
+    ],
+    "recommended_action": "Ch90p7 如今已经十六岁了→过了年就十六岁了; English: He will be sixteen after the New Year.",
+    "rationale": "The aunt says already16, but the same chapter has Fang Yuan explicitly say he will be16 after New Year; Ch86 still calls him15. Later inheritance scenes consistently use16.",
+    "confidence": "High immediate mismatch; high conditional repair.",
+    "status": "Active provisional proposal; no approval",
+    "dependencies": "Preserve possible nominal/New-Year age convention rather than invent a birthday or change all winter ages.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-043",
+    "category": "Gu name",
+    "locations": [
+      {
+        "chapter": 62,
+        "paragraph": 88,
+        "file": "OEBPS/Text/chapter70.html"
+      },
+      {
+        "chapter": 82,
+        "paragraph": 61,
+        "file": "OEBPS/Text/chapter90.html"
+      },
+      {
+        "chapter": 83,
+        "paragraph": 38,
+        "file": "OEBPS/Text/chapter91.html"
+      },
+      {
+        "chapter": 84,
+        "paragraph": 18,
+        "file": "OEBPS/Text/chapter92.html"
+      },
+      {
+        "chapter": 93,
+        "paragraph": 48,
+        "file": "OEBPS/Text/chapter101.html"
+      }
+    ],
+    "recommended_action": "赤丸蛐蛐蛊→龙丸蛐蛐蛊 in Ch82p61 and Ch93p48, retaining one English cricketGu name.",
+    "rationale": "The same pupil’s selected movementGu is 龙丸 in Ch62,83,84; no replacement or evolution is narrated.",
+    "confidence": "High local identity confidence.",
+    "status": "Active provisional proposal; no approval",
+    "dependencies": "Later nomenclature and independent textual witnesses; not a fresh liveEnglish error claim.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-044",
+    "category": "clan branch",
+    "locations": [
+      {
+        "chapter": 93,
+        "paragraph": 35,
+        "file": "OEBPS/Text/chapter101.html"
+      },
+      {
+        "chapter": 93,
+        "paragraph": 57,
+        "file": "OEBPS/Text/chapter101.html"
+      }
+    ],
+    "recommended_action": "Ch93p57 方源虽然不是漠脉中人→方源虽然不是赤脉中人.",
+    "rationale": "The leader is Chi Shan, head of the Chi-branch team. The explanation concerns protecting a newcomer outside his own branch, not the rival Mo branch.",
+    "confidence": "High contextual confidence.",
+    "status": "Active provisional proposal; no approval",
+    "dependencies": "Preserve elsewhere the actual Mo/Chi distinction; source-copy repair only.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-045",
+    "category": "Gu continuity",
+    "locations": [
+      {
+        "chapter": 99,
+        "paragraph": 50,
+        "file": "OEBPS/Text/chapter107.html"
+      },
+      {
+        "chapter": 99,
+        "paragraph": 52,
+        "file": "OEBPS/Text/chapter107.html"
+      },
+      {
+        "chapter": 100,
+        "paragraph": 1,
+        "file": "OEBPS/Text/chapter108.html"
+      },
+      {
+        "chapter": 100,
+        "paragraph": 57,
+        "file": "OEBPS/Text/chapter108.html"
+      }
+    ],
+    "recommended_action": "Ch100p57 玉皮蛊→白玉蛊; English: White Jade Gu.",
+    "rationale": "JadeSkin has already been consumed in the successful WhiteJade fusion. More than10days then pass; honey was collected a few days before the current scene. Chapter98 specifically set up the strongerGu for this task.",
+    "confidence": "High contextual confidence.",
+    "status": "Active provisional proposal; no approval",
+    "dependencies": "No second JadeSkin or alternative collection date established; continue full-corpus cross-check.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-046",
+    "category": "physical staging",
+    "locations": [
+      {
+        "chapter": 106,
+        "paragraph": 26,
+        "file": "OEBPS/Text/chapter114.html"
+      },
+      {
+        "chapter": 106,
+        "paragraph": 27,
+        "file": "OEBPS/Text/chapter114.html"
+      },
+      {
+        "chapter": 106,
+        "paragraph": 33,
+        "file": "OEBPS/Text/chapter114.html"
+      },
+      {
+        "chapter": 106,
+        "paragraph": 45,
+        "file": "OEBPS/Text/chapter114.html"
+      }
+    ],
+    "recommended_action": "Ch106p26 摊开右手→摊开左手.",
+    "rationale": "The grass is on the left palm, the right fingers pluck it, and it retracts into the left palm. One opening right-hand reference conflicts with the continuous action.",
+    "confidence": "High contextual confidence.",
+    "status": "Active provisional proposal; no approval",
+    "dependencies": "No hand-transfer action narrated; preserve the correctly used right plucking hand.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-047",
+    "category": "caravan calendar",
+    "locations": [
+      {
+        "chapter": 39,
+        "paragraph": 21,
+        "file": "OEBPS/Text/chapter47.html"
+      },
+      {
+        "chapter": 39,
+        "paragraph": 39,
+        "file": "OEBPS/Text/chapter47.html"
+      },
+      {
+        "chapter": 109,
+        "paragraph": 34,
+        "file": "OEBPS/Text/chapter117.html"
+      },
+      {
+        "chapter": 109,
+        "paragraph": 45,
+        "file": "OEBPS/Text/chapter117.html"
+      }
+    ],
+    "recommended_action": "If harmonising, distinguish usualApril arrival from this year’s prior-life summer arrival: Normally the caravan came in April; in my previous life it arrived that summer. This time it was here in March, two or three months earlier than I remembered.",
+    "rationale": "Ch39 establishes usualApril and an explicitly lateMay visit. Ch109 now calls summer the usual annual schedule, separately describing a deliberately changed March arrival. The butterfly effect explains the current change, not conflicting claims about the normal baseline.",
+    "confidence": "High baseline tension; moderate linked wording.",
+    "status": "Active provisional proposal; no approval",
+    "dependencies": "Check later caravan histories and calendars. Retain the2–3month comparison only against prior-life summer, not usualApril.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-048",
+    "category": "source copy",
+    "locations": [
+      {
+        "chapter": 106,
+        "paragraph": 19,
+        "file": "OEBPS/Text/chapter114.html"
+      }
+    ],
+    "recommended_action": "一心己用→一心多用; English: divide his attention among several tasks.",
+    "rationale": "Context describes multitasking during fusion; the earlier explanation and current action support 多, not 己.",
+    "confidence": "High contextual confidence.",
+    "status": "Active provisional proposal; no approval",
+    "dependencies": "No independent corrected witness checked.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  }
+]

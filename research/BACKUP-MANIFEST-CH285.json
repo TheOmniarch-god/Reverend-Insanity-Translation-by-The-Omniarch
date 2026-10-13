@@ -1,0 +1,1978 @@
+{
+  "coverage_through": 285,
+  "next_unread": 286,
+  "remote_uploaded": false,
+  "layout": "Extract repository-root research/ directory. Existing EPUB not included or modified.",
+  "files": [
+    {
+      "path": "research/editorial/All Errors Tackled Together.docx",
+      "bytes": 79558,
+      "sha256": "6b904bd1a9892df2f536ee59b8e97df9f0b549adf5d81061dfecc762eef045a6"
+    },
+    {
+      "path": "research/editorial/All-Errors-Fact-Check.docx",
+      "bytes": 53224,
+      "sha256": "021a96b6c1e4de8c65de62d7f65c707e507f020b35521de88f82214e46ab9540"
+    },
+    {
+      "path": "research/editorial/All-Errors-Fact-Check.md",
+      "bytes": 33353,
+      "sha256": "3294e62a2035c222f8f67e084a700106eff5d85fa35c8b75da4fc41ff58771b8"
+    },
+    {
+      "path": "research/editorial/Benchmark-and-Continuity-Recheck-2026-10-13.md",
+      "bytes": 23395,
+      "sha256": "895722b3ff5ff3e217a0537fb29ca49f30cd1fbdfa3169d463e96ae48caa38b6"
+    },
+    {
+      "path": "research/editorial/Full-Opening-Review-2026-10-13.docx",
+      "bytes": 49749,
+      "sha256": "27cbe26d6ca467dc5741c2deeeb5dcf5f9d1ff763e4ad3e4c994250a7750ded8"
+    },
+    {
+      "path": "research/editorial/Full-Opening-Review-2026-10-13.md",
+      "bytes": 25634,
+      "sha256": "4d28e96f7a271d793ef20fa5bdaebe2854504b8d75fe42121a52b73ac34f5350"
+    },
+    {
+      "path": "research/editorial/Omniarch-Mathematical-Corrections-Article.docx",
+      "bytes": 46591,
+      "sha256": "c42d62cb6f9ef3dd1c6fd720dc7f909f0eefc701a439eaa8047966b9bf0bc886"
+    },
+    {
+      "path": "research/editorial/Omniarch-Mathematical-Corrections-Article.md",
+      "bytes": 20384,
+      "sha256": "23ca26e0d98d3f50a6e23c3c7f5e4264eb981636103b1a2027df7f8df831aee2"
+    },
+    {
+      "path": "research/editorial/Thought-and-Viewpoint-Audit.md",
+      "bytes": 11760,
+      "sha256": "9163568336a02830093506a3b6790f556436fe4d1f1d7a5d002e768c41dea9d4"
+    },
+    {
+      "path": "research/editorial/Whole-Novel-Aperture-and-Travel-Audit.docx",
+      "bytes": 49577,
+      "sha256": "314d8cdfbd986c1293cde868d4788b228dedf1c5a2927fa552bb46045208ebe6"
+    },
+    {
+      "path": "research/editorial/Whole-Novel-Aperture-and-Travel-Audit.md",
+      "bytes": 25290,
+      "sha256": "ab32ce21df8a86ade26e8abfd3933797cade16f1ffb0f3f664e17c3c19164aba"
+    },
+    {
+      "path": "research/editorial/change_cultivation_terminology.py",
+      "bytes": 3904,
+      "sha256": "6b2a93cd44d0039be2f9f4fd17e562f8630186196be18946e40be3e5312cabf3"
+    },
+    {
+      "path": "research/editorial/chapter-reference-map.json",
+      "bytes": 308037,
+      "sha256": "8a7dd17858d517ea26a71905da942a45be26f7478ff17c34dd9247db543abd0d"
+    },
+    {
+      "path": "research/editorial/complete_cultivation_terminology.py",
+      "bytes": 4028,
+      "sha256": "fbb37b545ed0a49aadc175e3f416ad3f743a08984f419db93864b6894c858e00"
+    },
+    {
+      "path": "research/editorial/errors-plan-extracted.txt",
+      "bytes": 25186,
+      "sha256": "50756269fbae82cfcb9e65a9962a69f72c75e282eb806cfbee517f36632cd763"
+    },
+    {
+      "path": "research/editorial/essence-and-killer-moves-evidence.json",
+      "bytes": 26164,
+      "sha256": "fe40d21bf81799ffec8f26c25fbb689339cce0089296d1295bdc7b20977ff9f4"
+    },
+    {
+      "path": "research/editorial/extended-source-search.json",
+      "bytes": 103724,
+      "sha256": "bad326aff1ffb87c55a120e64b43200a436e4ab93cf1e2e2526dfe5be60ace68"
+    },
+    {
+      "path": "research/editorial/full-review/Evidence-packet.md",
+      "bytes": 9784,
+      "sha256": "76915c458e9ce3693ddb3cc76047a76e42658db490637612dd608b1427dcf5e6"
+    },
+    {
+      "path": "research/editorial/full-review/capture.py",
+      "bytes": 1122,
+      "sha256": "77f8221b5a4f45b9c51b84c82f7e0d8b2d4e6121017636a13b6832c51249bc3d"
+    },
+    {
+      "path": "research/editorial/full-review/en-0.json",
+      "bytes": 4727,
+      "sha256": "2308fa76b0e35ef8258ea823d8bc32508ff4d13cff17e53063b6fb9707ee2f86"
+    },
+    {
+      "path": "research/editorial/full-review/en-0.txt",
+      "bytes": 1583,
+      "sha256": "2074282746f861aad213533b32cddd12d591f234a146f459dd50bddaa42ca988"
+    },
+    {
+      "path": "research/editorial/full-review/en-1.json",
+      "bytes": 29622,
+      "sha256": "bd66d6c8b5de029144e3baa95e6d223832bc891a32ea9a83828eb940d681737c"
+    },
+    {
+      "path": "research/editorial/full-review/en-1.txt",
+      "bytes": 13151,
+      "sha256": "b46a4c3880a2232d1381461c1cd9c7b4667c4464fc33cd512c5bf8afd6a674b5"
+    },
+    {
+      "path": "research/editorial/full-review/en-2.json",
+      "bytes": 25822,
+      "sha256": "00332b5df1a831481c15a8cc8ebe6d7457a21a7406f4db354a8453dc31e36b96"
+    },
+    {
+      "path": "research/editorial/full-review/en-2.txt",
+      "bytes": 11769,
+      "sha256": "e65f1e764f3f23d9428fc2490dc3c790968348a0b9400866b7d7890ac1d0f652"
+    },
+    {
+      "path": "research/editorial/full-review/en-3.json",
+      "bytes": 21010,
+      "sha256": "2394412eb651035bd8e87453a02e231df9a29a89baee1bbcfe9c843c6a283dd4"
+    },
+    {
+      "path": "research/editorial/full-review/en-3.txt",
+      "bytes": 9607,
+      "sha256": "f7f172ce9928df9182edb2aa415d802e414c356b160692657857271d150e4340"
+    },
+    {
+      "path": "research/editorial/full-review/en-4.json",
+      "bytes": 24824,
+      "sha256": "1d1be8e7af72564f1f54514d625194dc009d8da6d82e22a098b135d2a072e88b"
+    },
+    {
+      "path": "research/editorial/full-review/en-4.txt",
+      "bytes": 11494,
+      "sha256": "2845560709a2ba398137367598df12845079986081573bef5ceafbf019bcd428"
+    },
+    {
+      "path": "research/editorial/full-review/en-5.json",
+      "bytes": 16559,
+      "sha256": "14be899752ad04ba6b88dd808de0263041a4c4e1e18cd06b96811fb138d7b046"
+    },
+    {
+      "path": "research/editorial/full-review/en-5.txt",
+      "bytes": 7275,
+      "sha256": "4784f7fc470bf561a3d8db424479d456b1bbf2929bed4e0d1f3c0fdc47409420"
+    },
+    {
+      "path": "research/editorial/full-review/en-6.json",
+      "bytes": 22081,
+      "sha256": "b14bdf30f737ec377013468f657cb6c431c3c16fe3a13613dc67186f1d044c16"
+    },
+    {
+      "path": "research/editorial/full-review/en-6.txt",
+      "bytes": 9400,
+      "sha256": "f39197028ba31ea7a75125aca1e1dfe1db661d4f29f9024a650ebade5b4f92a0"
+    },
+    {
+      "path": "research/editorial/full-review/en-7.json",
+      "bytes": 27390,
+      "sha256": "c31ce6f833fb646de9bacd2ad04a3702e335101cfbe6dff61e039ebc7a40dfba"
+    },
+    {
+      "path": "research/editorial/full-review/en-7.txt",
+      "bytes": 11902,
+      "sha256": "49c6927176333c3a95512f9c9df4309a19b2cf50ba3820e19be6f1ed49140d0c"
+    },
+    {
+      "path": "research/editorial/full-review/en-8.json",
+      "bytes": 26468,
+      "sha256": "88077ac31c555477adc9c0f9e0206f7b6659b0bd9a2ee6141e1dea6cffa14a74"
+    },
+    {
+      "path": "research/editorial/full-review/en-8.txt",
+      "bytes": 11746,
+      "sha256": "f20380a399499a6f59f6eb4084bb65bd492afc30cb3fffed97b0aa17c36276a0"
+    },
+    {
+      "path": "research/editorial/full-review/findings-evidence.json",
+      "bytes": 9486,
+      "sha256": "a373b1ce090159e962a47b3f67228d881a812c041e7114f9da817c6240aee111"
+    },
+    {
+      "path": "research/editorial/full-review/live-0.html",
+      "bytes": 22066,
+      "sha256": "74a027febffb6311a494aebbf0b2633706b0d4a899d9cd388bd6d7cf8657da13"
+    },
+    {
+      "path": "research/editorial/full-review/live-1.html",
+      "bytes": 31792,
+      "sha256": "11a8ce45bec98e61f410c72060b76713bf4070ee52513eb19e432bf2166379b3"
+    },
+    {
+      "path": "research/editorial/full-review/live-2.html",
+      "bytes": 22549,
+      "sha256": "21583bb4fc40bc98b5444badd7e9d6d7f0b51b2a3578ea6ccc4c7ae0daea29fb"
+    },
+    {
+      "path": "research/editorial/full-review/live-3.html",
+      "bytes": 20127,
+      "sha256": "8e63087dc315150c8ba8bf9f007b35d2ad345a449deb4f483c93f22fa7a244c8"
+    },
+    {
+      "path": "research/editorial/full-review/live-4.html",
+      "bytes": 21967,
+      "sha256": "8b79c855c93d9fabcd904885347273aaafb041634bb0e73c1a50b86d90cf3c4f"
+    },
+    {
+      "path": "research/editorial/full-review/live-5.html",
+      "bytes": 18047,
+      "sha256": "e1dd1083e1567d7fdb50398a94439c7ce94d39d65a2f029253c6ac219adcafa0"
+    },
+    {
+      "path": "research/editorial/full-review/live-6.html",
+      "bytes": 20363,
+      "sha256": "d8fed08d36ce0cd0cd738032b5bc203adba6b16a455a150af7a6a38355494102"
+    },
+    {
+      "path": "research/editorial/full-review/live-7.html",
+      "bytes": 23107,
+      "sha256": "02db0fbfdcd69abea254b9077c97ba784b9c9102d25d6735a7b721bd061e5d4c"
+    },
+    {
+      "path": "research/editorial/full-review/live-8.html",
+      "bytes": 22648,
+      "sha256": "d117883d9b81ea48a3813a50f8ca33eede4c472e5f9dc17ef2f7e017e4367cf4"
+    },
+    {
+      "path": "research/editorial/full-review/manifest.json",
+      "bytes": 2618,
+      "sha256": "c77c8f0b0eaa32e0262f1ddddd806dbe6a67f5524ff988b9891343e2c6d66e09"
+    },
+    {
+      "path": "research/editorial/full-review/recheck-output.txt",
+      "bytes": 2442,
+      "sha256": "213f1fcf51d0101bf71a102447c85b4b7cc8509a524e9c5f2c9beba5061c69f3"
+    },
+    {
+      "path": "research/editorial/full-review/synopsis-witnesses.json",
+      "bytes": 84981,
+      "sha256": "becbdc81ffb165f76d6354b6cb35f8a3dc2e06f28f0fa3359edf5de3b2f49e5a"
+    },
+    {
+      "path": "research/editorial/make_factcheck_docx.py",
+      "bytes": 2623,
+      "sha256": "d5ac66278c0dd7e06a84b57eb85f1f70b7dee6201fdcb1e2d6e446e1e52a5ed1"
+    },
+    {
+      "path": "research/editorial/make_full_review_docx.py",
+      "bytes": 2616,
+      "sha256": "d511180c8c8b22862ea374db47a0723a5e6a1b6ca7b83ee76ba013af956fe0ab"
+    },
+    {
+      "path": "research/editorial/make_math_article_docx.py",
+      "bytes": 2643,
+      "sha256": "db0dc2ee08eb147ad04a1fb3a6029d90bb96624ff6c7dddfaf5b16f1e02fb382"
+    },
+    {
+      "path": "research/editorial/make_whole_novel_audit_docx.py",
+      "bytes": 2657,
+      "sha256": "09a092e0c9ae8bc8261fe84b715f6acef7d3c7284d1bf3e3ecd755ac327f3036"
+    },
+    {
+      "path": "research/editorial/recheck/Chinese-Volume-1-Chapter-22.txt",
+      "bytes": 10307,
+      "sha256": "84d6988b52f4fda585b6770b3c04f15c16f84a8d784b2db70294a915141cb4ef"
+    },
+    {
+      "path": "research/editorial/recheck/base-chapter-file-15.txt",
+      "bytes": 8204,
+      "sha256": "f126eef9193450dab1a723f9c63a117cc9ee49579ca1d1dc7ab8b3ae660270a7"
+    },
+    {
+      "path": "research/editorial/recheck/base-chapter-file-16.txt",
+      "bytes": 9300,
+      "sha256": "789057a1ee7d7e65f34bdf8ad395ab9156dfcd9b1c3cf856babbf57eac2998d7"
+    },
+    {
+      "path": "research/editorial/recheck/base-chapter-file-30.txt",
+      "bytes": 10254,
+      "sha256": "66d015008c6b450c0bbe6a4ee44e0fd3237dd4f751d1b01161893dc6adcdd4ad"
+    },
+    {
+      "path": "research/editorial/recheck/base-chapter-file-31.txt",
+      "bytes": 10161,
+      "sha256": "646f09c59abac292412e4c8aed6a8e8aa1ee3b8d086218aed744baf28893d109"
+    },
+    {
+      "path": "research/editorial/recheck/base-chapter-file-32.txt",
+      "bytes": 8925,
+      "sha256": "2daad1f33fb2d9ced62cdecbb43d8dc880a4e76631c022045bd139e0af7b248b"
+    },
+    {
+      "path": "research/editorial/recheck/base-chapter-file-99.txt",
+      "bytes": 10316,
+      "sha256": "ebe3b45cf8ff45ff5185c053976c2d2a6c8ed11aaff8375f367efc6af1c9bff8"
+    },
+    {
+      "path": "research/editorial/recheck/hetushu-ch22.html",
+      "bytes": 16327,
+      "sha256": "adef75ed4dcc4e04102995a6c01d887c35a440c6ea73d16a8d251219fd690bbe"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-1-body.txt",
+      "bytes": 13101,
+      "sha256": "f82eb429895317d34900f6fe4c1eb77a5ff7bf8768383d1411f0c3844310c2f4"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-1.html",
+      "bytes": 24452,
+      "sha256": "c4e718b3b47e16ef37746f92f89ad28d4056ab7b13360fa08c6263595d9b9b01"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-1.txt",
+      "bytes": 13788,
+      "sha256": "7fb81c78c16b2064a98f92ee59cba61dbdb2ffadaba0730879af5787dae42e3d"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-2-body.txt",
+      "bytes": 11737,
+      "sha256": "17743977bf7bd5dfcbdbfc9d6e62efdc4230131e3969686bcf91f1bdbdd1804b"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-2.html",
+      "bytes": 22555,
+      "sha256": "1140e5de7f3270686ba840b204c8ca4403daa76f1d3503256aeb6debd3a5fb7c"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-2.txt",
+      "bytes": 12479,
+      "sha256": "9022ab3285ffda2c9447dd81291619816619e1a70886edb9c6f8df72a935ec8c"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-3-body.txt",
+      "bytes": 9577,
+      "sha256": "03c10c494454ddc75cf551de6901eeaab0cdc6d04a21a3f1bbdcaf7aac5c7f8c"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-3.html",
+      "bytes": 20127,
+      "sha256": "fa381af447a68a20c57b6ce8fbe98634a31b89b7e83adc7676d27dacda80899d"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-3.txt",
+      "bytes": 10288,
+      "sha256": "0c9b6b36643a969878a98a2a02060ed84f0a4845babe82c41ba51806bc02f6a8"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-4-body.txt",
+      "bytes": 11465,
+      "sha256": "f27d845f31f3402128076904fa253a49df9f032c87bd86e9a79165f52070b5e5"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-4.html",
+      "bytes": 21970,
+      "sha256": "d4e70017aec7c08c8d03c4a992d70ecfc272f1c15765ca0c7ad9ca6d2d7510b6"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-4.txt",
+      "bytes": 12175,
+      "sha256": "e00bbe7fd48c4403c339bbb1970f2580299500b5841c58492db86b8bb2672cca"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-5-body.txt",
+      "bytes": 7202,
+      "sha256": "81d58eb8e9ff1af6eff886a9c1d30fa6766fe60805f8f25e4463655d41f2b552"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-5.html",
+      "bytes": 17997,
+      "sha256": "d91c69282b9f78e7654b590b9caf36a1f579046e85b64e34f39b89c96c366e47"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-5.txt",
+      "bytes": 7955,
+      "sha256": "6fcd863e251793cc5f6df612bdc6c58937d04d5eb16796b51b65b3d6a12a12ad"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-6-body.txt",
+      "bytes": 9302,
+      "sha256": "cfc44f4a298aa1569c56fd1a1e81e24b00e6955154382373c389db20ebd7360c"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-6.html",
+      "bytes": 20307,
+      "sha256": "f926d0f9bde98123465bef508cc88793ae57b6aea0a93a3058a2a427b9f449d8"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-6.txt",
+      "bytes": 9956,
+      "sha256": "a15410b1903213350fb6946d1b45bedb218cf149a55e5d2c7b750be436c86c1e"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-7-body.txt",
+      "bytes": 11814,
+      "sha256": "fa90737e8bed6469aed100dde9c7e304962073d1f00ee0f6a26a8d22c67432e2"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-7.html",
+      "bytes": 23087,
+      "sha256": "76d0dff1906a3a24acd0e0745ff01492a8d5b49fe9bdc41945aacade76a148eb"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-7.txt",
+      "bytes": 12503,
+      "sha256": "36c7337a1e8376a4c7c0c8d23f7ee0f8094ea4a4d2f861c16c84f2ee043dc51b"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-8-body.txt",
+      "bytes": 11223,
+      "sha256": "c47a16696e79a3677eece52b7b0208b08eca0f280ccb9eb1503fe844a2749c33"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-8.html",
+      "bytes": 22163,
+      "sha256": "4878599178c4764b81e44c8e97e06872f472b69aa98ba6634f5bf1d21096d21e"
+    },
+    {
+      "path": "research/editorial/recheck/live-chapter-8.txt",
+      "bytes": 11907,
+      "sha256": "8e5543c516c50022c8f79e4771a735f06bcac560e92385e18a506db40b980b53"
+    },
+    {
+      "path": "research/editorial/recheck/snapshot-manifest.json",
+      "bytes": 1110,
+      "sha256": "95033e84c2b7c34ddd2f553690827150f0a990e35e842c1477671f1358321a8d"
+    },
+    {
+      "path": "research/editorial/recheck-final/chapter-1.html",
+      "bytes": 31568,
+      "sha256": "1621332abdf552a5b1bc510c53c03181210ada27ded177681f71ca943a6fc515"
+    },
+    {
+      "path": "research/editorial/recheck-final/chapter-2.html",
+      "bytes": 22551,
+      "sha256": "8fe29c7351ad89568a5be5d43f34c02e15e4414bf6ed79347489eee41adeb893"
+    },
+    {
+      "path": "research/editorial/recheck-final/chapter-3.html",
+      "bytes": 20123,
+      "sha256": "1aea653d660991e7db82e668c65d81a725cb78b6aed6a2d14ec5a00192c0dac1"
+    },
+    {
+      "path": "research/editorial/recheck-final/chapter-4.html",
+      "bytes": 21967,
+      "sha256": "8b79c855c93d9fabcd904885347273aaafb041634bb0e73c1a50b86d90cf3c4f"
+    },
+    {
+      "path": "research/editorial/recheck-final/chapter-5.html",
+      "bytes": 18071,
+      "sha256": "2ec19642b038ba6953c4c7d6178491022eb42fbdfa8688c3b58c847cb3d045d3"
+    },
+    {
+      "path": "research/editorial/recheck-final/chapter-6.html",
+      "bytes": 20363,
+      "sha256": "d8fed08d36ce0cd0cd738032b5bc203adba6b16a455a150af7a6a38355494102"
+    },
+    {
+      "path": "research/editorial/recheck-final/chapter-7.html",
+      "bytes": 23111,
+      "sha256": "b710bba096e8a94e42a1ec30448010a848a9397a40bafb4253535d2d065e9a16"
+    },
+    {
+      "path": "research/editorial/recheck-final/chapter-8.html",
+      "bytes": 22668,
+      "sha256": "4eb769ad8092467ffb7ee5721fe65afb322d4ae5710f917a45059e2db22ebcc1"
+    },
+    {
+      "path": "research/editorial/recheck-final/en-1.json",
+      "bytes": 14733,
+      "sha256": "3a4ba5723181d3f01d7c0073ab5dbe98aeea4327dd8b5c827f3b30ed8aaa0b56"
+    },
+    {
+      "path": "research/editorial/recheck-final/en-2.json",
+      "bytes": 12999,
+      "sha256": "4699b018045c579f39a1c72abc61d613c96370cb9d0b0feb0fbad2fb974fdf66"
+    },
+    {
+      "path": "research/editorial/recheck-final/en-3.json",
+      "bytes": 10559,
+      "sha256": "1d2b1177aae8a3a1944f6e264738ed417e5ff0fc23d086b86e0eb3b2ef7a7153"
+    },
+    {
+      "path": "research/editorial/recheck-final/en-4.json",
+      "bytes": 12518,
+      "sha256": "2d928c8d1d8ed8f6bb54b77583b566c8812056377f7b734950c9314b3fae8394"
+    },
+    {
+      "path": "research/editorial/recheck-final/en-5.json",
+      "bytes": 8454,
+      "sha256": "b40694830256cfe0f681f1af60bdb07c0d15ec694f63dd05b8dbe44f43b7bd06"
+    },
+    {
+      "path": "research/editorial/recheck-final/en-6.json",
+      "bytes": 11138,
+      "sha256": "ecc77d2acfdad1144758f21ec431a1087c3c6fb91192d7d5153e3fb78cc82c72"
+    },
+    {
+      "path": "research/editorial/recheck-final/en-7.json",
+      "bytes": 13814,
+      "sha256": "bdfd2096a1108e8bb81fa4ff29e61d10fb7fa4ca24cf7190a55ebe214fa5a2b5"
+    },
+    {
+      "path": "research/editorial/recheck-final/en-8.json",
+      "bytes": 13334,
+      "sha256": "d868cc7e101d7bfa5797870a79120374716c4607ecae562c64ce35f2b6189fcb"
+    },
+    {
+      "path": "research/editorial/recheck-latest/chapter-1.html",
+      "bytes": 31792,
+      "sha256": "11a8ce45bec98e61f410c72060b76713bf4070ee52513eb19e432bf2166379b3"
+    },
+    {
+      "path": "research/editorial/recheck-latest/chapter-1.json",
+      "bytes": 14957,
+      "sha256": "d682e09605ff0fdf0a5d9acb9be6430d10cc041f0effd65eaf694e1707ae2d05"
+    },
+    {
+      "path": "research/editorial/recheck-latest/chapter-2.html",
+      "bytes": 22554,
+      "sha256": "2d4c1371710b459e6e1c9916b84c8bdfe17028c79dc280a2722b81ff70b3ba4d"
+    },
+    {
+      "path": "research/editorial/recheck-latest/chapter-2.json",
+      "bytes": 13002,
+      "sha256": "2ef81a8f0c14bcaecc1e3a0643114ac38a46b5d626791f471adac84aaeb98421"
+    },
+    {
+      "path": "research/editorial/recheck-latest/chapter-3.html",
+      "bytes": 20137,
+      "sha256": "f1d78afd4d6c5bce5b76d996225938b4759b6d835d9a4decb76e31a286c9dce8"
+    },
+    {
+      "path": "research/editorial/recheck-latest/chapter-3.json",
+      "bytes": 10573,
+      "sha256": "8b1e1a0f42f7ba988d92f45e0ef21dbb2a6238dacac369f9a238d3ab9326b049"
+    },
+    {
+      "path": "research/editorial/recheck-latest/chapter-4.html",
+      "bytes": 21967,
+      "sha256": "8b79c855c93d9fabcd904885347273aaafb041634bb0e73c1a50b86d90cf3c4f"
+    },
+    {
+      "path": "research/editorial/recheck-latest/chapter-4.json",
+      "bytes": 12518,
+      "sha256": "2d928c8d1d8ed8f6bb54b77583b566c8812056377f7b734950c9314b3fae8394"
+    },
+    {
+      "path": "research/editorial/recheck-latest/chapter-5.html",
+      "bytes": 17998,
+      "sha256": "3fe0f543a9cd3e11e963de2c78b2a803ff608a4b2e0c02f53cfe94d224b76629"
+    },
+    {
+      "path": "research/editorial/recheck-latest/chapter-5.json",
+      "bytes": 8259,
+      "sha256": "9d9676f5b09eb305191dc8b0f8a59d480c0a4cbfaac6d1ed9efcd78d0d004390"
+    },
+    {
+      "path": "research/editorial/recheck-latest/chapter-6.html",
+      "bytes": 20368,
+      "sha256": "f0d9c667629eb6e1c8ea1f17801d03b8ca6b72e17ba7a9314e56098fd58592b8"
+    },
+    {
+      "path": "research/editorial/recheck-latest/chapter-6.json",
+      "bytes": 11119,
+      "sha256": "56eb02f9adb31ab1bd62292fe7abf2bc86b2f0896dbf758b7c1c84084d39b2bd"
+    },
+    {
+      "path": "research/editorial/recheck-latest/chapter-7.html",
+      "bytes": 23161,
+      "sha256": "35df30200645161b57ba1d7230a29ce2d8d72994c6a531748f6fd003f3cdaea9"
+    },
+    {
+      "path": "research/editorial/recheck-latest/chapter-7.json",
+      "bytes": 13889,
+      "sha256": "b6a571c0695f8f0d48d790ac91611d34faf0e0a7f4b697bf94422e7c16233aef"
+    },
+    {
+      "path": "research/editorial/recheck-latest/chapter-8.html",
+      "bytes": 22609,
+      "sha256": "7acedc981cb4ee331db89fe44a85c805d2084498f736c5a088c41798c5bde544"
+    },
+    {
+      "path": "research/editorial/recheck-latest/chapter-8.json",
+      "bytes": 13251,
+      "sha256": "4f40ad766223f94e9e258a74081770f9da0d0274e5ff40fa6284dcdf5495dd85"
+    },
+    {
+      "path": "research/editorial/recheck-new/en-1.json",
+      "bytes": 14498,
+      "sha256": "c38eec28a503754696689a9e59be8d7ad7101722e6e4b4f93f029ef7173a8a6f"
+    },
+    {
+      "path": "research/editorial/recheck-new/en-2.json",
+      "bytes": 12999,
+      "sha256": "4699b018045c579f39a1c72abc61d613c96370cb9d0b0feb0fbad2fb974fdf66"
+    },
+    {
+      "path": "research/editorial/recheck-new/en-3.json",
+      "bytes": 10559,
+      "sha256": "1d2b1177aae8a3a1944f6e264738ed417e5ff0fc23d086b86e0eb3b2ef7a7153"
+    },
+    {
+      "path": "research/editorial/recheck-new/en-4.json",
+      "bytes": 12518,
+      "sha256": "2d928c8d1d8ed8f6bb54b77583b566c8812056377f7b734950c9314b3fae8394"
+    },
+    {
+      "path": "research/editorial/recheck-new/en-5.json",
+      "bytes": 8454,
+      "sha256": "b40694830256cfe0f681f1af60bdb07c0d15ec694f63dd05b8dbe44f43b7bd06"
+    },
+    {
+      "path": "research/editorial/recheck-new/en-6.json",
+      "bytes": 11138,
+      "sha256": "ecc77d2acfdad1144758f21ec431a1087c3c6fb91192d7d5153e3fb78cc82c72"
+    },
+    {
+      "path": "research/editorial/recheck-new/en-7.json",
+      "bytes": 13861,
+      "sha256": "5324c715b95d9d8ddc0ef9606e8857c6bca1628a320f4b45f7b065b34d9c3ca4"
+    },
+    {
+      "path": "research/editorial/recheck-new/en-8.json",
+      "bytes": 13334,
+      "sha256": "d868cc7e101d7bfa5797870a79120374716c4607ecae562c64ce35f2b6189fcb"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-001-Chapters-1-10.docx",
+      "bytes": 47985,
+      "sha256": "f5d3f636cf2cec731d6d96171b801a1b77c0e0fcf3890a490d7d7cdff4ba2c39"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-001-Chapters-1-10.md",
+      "bytes": 21342,
+      "sha256": "c49742cb029ecc23d619e9f4a06b59bed9d36aa7bf49af3d2f2e0da744867c6d"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-001-Numbered-Chinese-Source.md",
+      "bytes": 88680,
+      "sha256": "647e58c635807cd5020aad38ed4619129289df451512872f69c9213891123b5f"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-002-Chapters-11-20.docx",
+      "bytes": 46179,
+      "sha256": "f9ad104aed6e66dd38bc4362655be355816ae8c3d7c787da3d6b7c566eb4d081"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-002-Chapters-11-20.md",
+      "bytes": 16169,
+      "sha256": "e37efe8376335fba4f956f47267770b0f93df3d8b4a9d75f36785a15857beb6b"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-002-Numbered-Chinese-Source.md",
+      "bytes": 93071,
+      "sha256": "0fa0892ffc7ee7b097e3d4fcd07f8b02b1e2cdedd1ad1fd5b5753198650fa0bd"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-003-Chapters-21-50.docx",
+      "bytes": 44948,
+      "sha256": "d4a203cd06eaf0767f2d41cd85428a10b171133ae72b0bf8959242a64ea04f8c"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-003-Chapters-21-50.md",
+      "bytes": 13395,
+      "sha256": "eb61052d289064dce685472f29797352b72b93c778f969f8e911ae3b3daa6c4e"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-003-Numbered-Chinese-Source.md",
+      "bytes": 277800,
+      "sha256": "cd96375e51c8a7cfb47fb4f869449dff4f2a49d9315688181d1888e39675f629"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-004-Chapters-51-80.docx",
+      "bytes": 44780,
+      "sha256": "bb6a115f1a48cd2c3d0a43a2c728dfca0d38dbcf48764268a17cf3217afacbec"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-004-Chapters-51-80.md",
+      "bytes": 12878,
+      "sha256": "867ebab1d6c79da32317e6c074e2b5708d25e2fc37b6747c4affda7a2e4df694"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-004-Numbered-Chinese-Source.md",
+      "bytes": 296697,
+      "sha256": "a3d74c62d4a05c430e3363e68d9a5f9683439b158f277d266767d6a5f651fe91"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-005-Chapters-81-110.docx",
+      "bytes": 44401,
+      "sha256": "abfe7c02bc3e4515f27fd0732d83d499a270a34e68938a746c3de6e896abc8eb"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-005-Chapters-81-110.md",
+      "bytes": 11908,
+      "sha256": "f0c71bd4e541573cbdf47550ae36fb19747098c2a8e756a3cc764c7ef8a614ed"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-005-Numbered-Chinese-Source.md",
+      "bytes": 307829,
+      "sha256": "4bb72d5273a3b73c17ca2d63feb5d5268903c0afecd99e1170d7fec1b65bc005"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-006-Chapters-111-140.docx",
+      "bytes": 44703,
+      "sha256": "3dfff194bdde94dacb00430c9e70d4aa4efd2b115873d3f497a0ef895a7fdae1"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-006-Chapters-111-140.md",
+      "bytes": 11987,
+      "sha256": "df232c4e7830f23245ae40aee50b8443eaf6b76baf4c7511408b47a31e9ca138"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-006-Numbered-Chinese-Source.md",
+      "bytes": 324076,
+      "sha256": "599734c8e8ef83a5f7728526bb60b04b77356a019e3d8da607eb0cd0b57972f0"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-007-Chapters-141-160.docx",
+      "bytes": 45597,
+      "sha256": "dbc0d2c9d37770c1c8e553f4a7025b181736c142b5aa16d677c7e80696394030"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-007-Chapters-141-160.md",
+      "bytes": 14168,
+      "sha256": "b794072f38b3fdfe07f880ab618e1f4157f90b5a8c36fff2bff1a8dd71641b4d"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-007-Numbered-Chinese-Source.md",
+      "bytes": 218406,
+      "sha256": "06dd772b5ee4173b06430b680cc2b6321d1e70d362d5d8282b785ba9f24a3289"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-008-Chapters-161-180.docx",
+      "bytes": 45382,
+      "sha256": "3e8eadf0c2b80f212f25b3918d5f827418e4ef3c7151d609b56473a8c64cc43e"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-008-Chapters-161-180.md",
+      "bytes": 13368,
+      "sha256": "cdf416f4635384f919bece856ff4f7ddba8c3f709878cb94c37b52187f2bf763"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-008-Numbered-Chinese-Source.md",
+      "bytes": 210475,
+      "sha256": "51615e7b03b52ca568cfa4f7b6b06f7df44baa5d013be8d7cf66156123c9e791"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-009-Chapters-181-200.docx",
+      "bytes": 45783,
+      "sha256": "994de167458d2e15e951a820858ef77ff656af0dae515e06e970f17b5cf7470e"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-009-Chapters-181-200.md",
+      "bytes": 14529,
+      "sha256": "1e01975120bf5f0309355da84fb9ddbe8aa5e728ac858fa60bd5184014c09e83"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-009-Numbered-Chinese-Source.md",
+      "bytes": 202952,
+      "sha256": "af61db1c52df95f05614bfa5be78f6cac14629220efe5d97c6747c4a33f60267"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-010-Chapters-201-220.docx",
+      "bytes": 46814,
+      "sha256": "6796c75d4d19bd232167a76e69207bd159d3699ec2a9e1b506a69043ca83f35a"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-010-Chapters-201-220.md",
+      "bytes": 16644,
+      "sha256": "0ee991a794938459edd05b6233a84dbd8191c4b4010360242bf807fc72d5ad21"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-010-Numbered-Chinese-Source.md",
+      "bytes": 209243,
+      "sha256": "5cc44aa4fadcbefd331b38222cec00eedf09140cbdb82e99f51bbac2128777e5"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-011-Chapters-221-240.docx",
+      "bytes": 46761,
+      "sha256": "f84200b65b38e97b0be50de8430a9e6f0f512b22b377f98f35bce7dae48f7549"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-011-Chapters-221-240.md",
+      "bytes": 15454,
+      "sha256": "ba06139403e1da89f276fc11a8676893e4ce54e302bda586eb9ef46be47e6bb0"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-011-Numbered-Chinese-Source.md",
+      "bytes": 211874,
+      "sha256": "bd1cae5c8985e8883d60b50573c23df38f6aeef552e61752c82b7746250166aa"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-012-Chapters-241-255.docx",
+      "bytes": 47418,
+      "sha256": "27003c4d0b748f3ce9811ac3e7986054e587ec5a00f32dcd2f84c419a0dd7d0f"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-012-Chapters-241-255.md",
+      "bytes": 16634,
+      "sha256": "3012a6178ceae09091535005c199a56380f3cf62845183c750dfafce67cd3b73"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-012-Numbered-Chinese-Source.md",
+      "bytes": 153213,
+      "sha256": "bece4c53787116615d5b154b8ec6f6adae4877d801bda966b0f03e7a8a6dc5ea"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-013-Chapters-256-270.docx",
+      "bytes": 47472,
+      "sha256": "ca8f3b85ffe85ad8840ba991b76122b869a160915b334c1bf7209b9ff689001d"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-013-Chapters-256-270.md",
+      "bytes": 16593,
+      "sha256": "4f1da97d283bd5f0bd7b94ade8d27ae90658c542c87382df9779ae3ecf34b0f1"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-013-Numbered-Chinese-Source.md",
+      "bytes": 155946,
+      "sha256": "c11fd0f8be83fb90791ea8dbac8f3c203183ae314d78a4fe1330dfcdf3b5486a"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-014-Chapters-271-285.docx",
+      "bytes": 45612,
+      "sha256": "b690ac9e990a3ddc51bac16fc10b2f65c69c49097b695e1bce29517bf1335d17"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-014-Chapters-271-285.md",
+      "bytes": 13449,
+      "sha256": "21f3b30e8fcd369c4d95cd59f3b686db94d031d5c66766830a855ec926674d8c"
+    },
+    {
+      "path": "research/editorial/sequential-review/Batch-014-Numbered-Chinese-Source.md",
+      "bytes": 167741,
+      "sha256": "00ba20b96da10289e35e3a1e2e3b441749c7c4d3f2dc9cb2fde2b2cda95daeb3"
+    },
+    {
+      "path": "research/editorial/sequential-review/CURRENT-STATUS.md",
+      "bytes": 2305,
+      "sha256": "b81cac8923d0d5bed46fd1a074102b7d1ddc4311c551ca4f27c79dbdb2429165"
+    },
+    {
+      "path": "research/editorial/sequential-review/Sequential-Reading-and-Proposals.xlsx",
+      "bytes": 2667002,
+      "sha256": "b783a30f008218b25a2154865afb35e68e420cfc50c0775404ee362626f63d60"
+    },
+    {
+      "path": "research/editorial/sequential-review/WORKING-STANDARDS.md",
+      "bytes": 9146,
+      "sha256": "c19e6fb715cc5b2dc0a00c88108eb6a0779b963554f3c46909f05ad563dea0a8"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-001-source.json",
+      "bytes": 88824,
+      "sha256": "0341e366bcc17ec5b7bbaaead557a248ddc9d82b1adb9e5f1c2bfbb9f3c347f4"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-002-source.json",
+      "bytes": 93126,
+      "sha256": "b5d557d46f4187d594854522f4bd7a7844940ca6d608423b18589f1d99b8d160"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-003-reading-log.json",
+      "bytes": 2496,
+      "sha256": "39a82a3f3176c39dd0446ad77542f6b0f56fd86fdcb5e98894efefcdaa83373f"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-003-source.json",
+      "bytes": 278304,
+      "sha256": "37cf57af869624fa77ff2c4473e125d9ac0d92f4c02be9bf7f216cd8d12e811a"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-004-reading-log.json",
+      "bytes": 2720,
+      "sha256": "c67dac37ad50e7d7f516261b0fb0a8c7bd5c5d68910f1e34397b00a7d1ab165e"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-004-source.json",
+      "bytes": 296938,
+      "sha256": "6d49c77fa531827b8367ef61ab9a81c629058d00cdf71367fe1bf73e151b3595"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-005-reading-log.json",
+      "bytes": 2613,
+      "sha256": "d32ac119c08a5ef4b24601819c28c40e83fa2567398f82ae46a3d36a534fc4a4"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-005-source.json",
+      "bytes": 307942,
+      "sha256": "7b84d151b99d7a4b0cb6d810bc137cd7e136c6acccb742f4357349bcfa885a5c"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-006-reading-log.json",
+      "bytes": 2632,
+      "sha256": "2e51c31cbeefe621a4f433f4a291b523f74b01997919f45cc77c7aee6c866d04"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-006-source.json",
+      "bytes": 323971,
+      "sha256": "7f31573600e5e9f726e2c92b980d059c18fec8b3657484e028f3a34bc2fcfe4a"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-007-reading-log.json",
+      "bytes": 1857,
+      "sha256": "3acfbdc267fa58a2a46dbc293e14349bde11c49c9360b5c991581c8c7b9dd0ef"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-007-source.json",
+      "bytes": 214444,
+      "sha256": "7ba85606ddb8b6912f1347da57149301afa58b884ef0b247426ce4397a3f9192"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-008-reading-log.json",
+      "bytes": 1804,
+      "sha256": "505621a7949aee02c336080557a05d8a162da4c9668fffc2c9f88179cce04e74"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-008-source.json",
+      "bytes": 210321,
+      "sha256": "ea0fd02172d2725c9c4079783e207432b70f57c7c13c5d10f14e3446b6e8adf6"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-009-reading-log.json",
+      "bytes": 1809,
+      "sha256": "8600cb3df3536d097ae0fa76316d72db60ada82b3d8dd4fe21139f1e08c01452"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-009-source.json",
+      "bytes": 211614,
+      "sha256": "d1acde41d53d23c27693dded0adbac57102aed16b80419475f36260e397dd4c3"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-010-reading-log.json",
+      "bytes": 1870,
+      "sha256": "e4d46316308d2db01a45ba46fd2869ed6f3c79928811a212cae537ea84a13930"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-010-source.json",
+      "bytes": 218074,
+      "sha256": "c5c9c22bd86c15e396e8945b9c7237f3351db35d5043d5a937fd86d6014c6cf7"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-011-reading-log.json",
+      "bytes": 1861,
+      "sha256": "38362a17aad8ac26fbd6bc5cf6aa4a64b27e5bfdf484bc72b67ae07223e133eb"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-011-source.json",
+      "bytes": 221436,
+      "sha256": "4e106c56fdbf3f2aa4029ddae3212fea232d1227467dd65c138e343b52f2219a"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-012-qa.json",
+      "bytes": 485,
+      "sha256": "a83ed003b709ca299905c2e9be8ef2ad2a963ad1e307d974dc723b425f4f05a2"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-012-reading-log.json",
+      "bytes": 1533,
+      "sha256": "5009632bb1dbf0ca3b4e60da7c025e3cdd345853ca2b0d86291ff764c3b31052"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-012-source.json",
+      "bytes": 160234,
+      "sha256": "4772091be2c127b194d39673c06a14939eedfdf02feaaae20990695c90eef42f"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-013-qa.json",
+      "bytes": 541,
+      "sha256": "e81f14ba1f2e1fe79ea8f7513b5b3d8212f0e14b6b71f786ec8d8f5dec69f4a2"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-013-reading-log.json",
+      "bytes": 1517,
+      "sha256": "73851fea5437f9ab25c260f23ca456ad1e650aab2313308df511fdcd6b4aa9db"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-013-source.json",
+      "bytes": 162593,
+      "sha256": "f060331d643bc21d27a52c6f07d09e12d15ab90e79c00cfc7e990c589a901e9b"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-014-qa.json",
+      "bytes": 602,
+      "sha256": "67ffd6f01d7391b8145b8032ee864f780438f3f4d17f0a65b1cb63f6d5074a5b"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-014-reading-log.json",
+      "bytes": 1249,
+      "sha256": "beb0b8ea5b2d54c3d0b4c2668923a793a321e619da82f4a881faac6b4dff2469"
+    },
+    {
+      "path": "research/editorial/sequential-review/batch-014-source.json",
+      "bytes": 174869,
+      "sha256": "92aa6dab0b7383f981cf285859f84f58c2420e49512109c9b07292584b8dd632"
+    },
+    {
+      "path": "research/editorial/sequential-review/chronology-register.json",
+      "bytes": 337013,
+      "sha256": "104bde0c0fbe8dc1cd0389d2dd9149ab612086695e5f1774017beb4287268ba2"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch002-Batch-001-Chapters-1-10.docx",
+      "bytes": 47863,
+      "sha256": "330f0668c579adf70ea48b8fd8f29c770913677e2b6c34018ed4d3490d935d7f"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch002-Batch-001-Chapters-1-10.md",
+      "bytes": 21093,
+      "sha256": "38341a3085d39c0d890a8ec888a9b6824afadc97ac233b86b8d7aa62700f2e62"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch002-proposal-ledger.json",
+      "bytes": 6123,
+      "sha256": "350ad32041626b6ed8b1294a494c9f23612bf2e7c2886621471b928dd390c374"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch002-reading-progress.json",
+      "bytes": 2730,
+      "sha256": "61df6af0e0626209279c69e4e6620a8c41a24f7f925d03a73fad83647debcc51"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch003-Sequential-Reading-and-Proposals.xlsx",
+      "bytes": 146980,
+      "sha256": "c9c097b37361250760e2ae61effa5a33e345dc80a2bf7e56804221d61907e4ab"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch003-chronology-register.json",
+      "bytes": 28356,
+      "sha256": "d8bbe8b6bbcb21c794fc5c3300a49ca64d48c5b483d135e9be59e8f99a589580"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch003-proposal-ledger.json",
+      "bytes": 10943,
+      "sha256": "8402d3432676ca86bf34fb3dc35d79d078eaa4495ac7e89f4395623dbbb33470"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch003-reading-progress.json",
+      "bytes": 5392,
+      "sha256": "8b033fda08b8017f0eb4deb0eafa2862baf32a3368cd4fc5dd81a92404fdbeed"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch004-chronology-register.json",
+      "bytes": 54533,
+      "sha256": "c0ef1a34b49770245c30793d86a4b2d9f91561b0592df441a09737587ceba3b0"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch004-proposal-ledger.json",
+      "bytes": 22009,
+      "sha256": "2aa2190ade710e0503d45ce2ec74ca5f0cfa700afac343c25a2ab6322cb3abe3"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch004-reading-progress.json",
+      "bytes": 12176,
+      "sha256": "1ff1db7b2ffe875656de67ef78ca9ebdc159cf81cd8f2d5e2d5acb6f2a4b475c"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch004-resource-register.json",
+      "bytes": 25770,
+      "sha256": "2de36f4bf6594298b77a89a708a21ee3435a833d3a59d76ebb81a56dfe49f450"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch005-chronology-register.json",
+      "bytes": 86231,
+      "sha256": "cd8f2f8451931584b110965362f66eff8758370612f64fe599b1a72eb24ae9ab"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch005-proposal-ledger.json",
+      "bytes": 34767,
+      "sha256": "73b25fe5dd9ec70339c53b6c4ad1de4ca1767b4cc8a2028c8d68159dd50a357e"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch005-reading-progress.json",
+      "bytes": 18997,
+      "sha256": "e4316cd20d49b69a3f1c9ae22d492dde179c7aa5fe2f7110fcb9f6082dd2841d"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch005-resource-register.json",
+      "bytes": 39874,
+      "sha256": "3dc339bedd0ae9f2ecac6411d5335aa96f58594461118e0634d50fb386875c11"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch006-chronology-register.json",
+      "bytes": 122823,
+      "sha256": "60774bdcb68d2c54fdb38620d6c2a222e8b3294ebfc81617201f0680a115e87d"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch006-proposal-ledger.json",
+      "bytes": 48671,
+      "sha256": "0900789104d91463c05c629ccb9fcbb7a34d4a1a3cf60a651818d1945dc4cb9f"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch006-reading-progress.json",
+      "bytes": 25917,
+      "sha256": "1fe2e701e8dff5903c3f482c759e1ab046990ea5da03144557c89a8a83187dac"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch006-resource-register.json",
+      "bytes": 61516,
+      "sha256": "697b9b63420a24fa3a92154560a4d79b87ce91cc6b488a5c6c5eaf12135a8b81"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch007-chronology-register.json",
+      "bytes": 155260,
+      "sha256": "aebf63055a3417344090948bb826249361cd1b1ab6eedcafadbd0cea98dbff51"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch007-proposal-ledger.json",
+      "bytes": 78525,
+      "sha256": "e2da81a56489e7679e4534e922887d5eeb583d85b494b4a43af4237be6406a5d"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch007-reading-progress.json",
+      "bytes": 32992,
+      "sha256": "2d150a76a8218c8cc3947a71b9480a74bf30ebca6c6728b49d8beb7b0d8fa0a1"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch007-resource-register.json",
+      "bytes": 85949,
+      "sha256": "a1773f65286cb3a65d82ad9c4b3be977f7c10384cbe7d9709894fe363ada9d30"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch008-chronology-register.json",
+      "bytes": 180598,
+      "sha256": "79d2e339a5d2ae2ebd9d97d32acd9dade9d4a04d4bdd5ed93bb399e37958a533"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch008-proposal-ledger.json",
+      "bytes": 109275,
+      "sha256": "0cd42e65f6b3f66ccb6fbb5eea6c7c42282d29079b8b29e4019e3b93774388b0"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch008-reading-progress.json",
+      "bytes": 37853,
+      "sha256": "9b71869dd46d323209e3c9ed246f5ae178daf436727fe5bf37db912a7ff7758a"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch008-resource-register.json",
+      "bytes": 108538,
+      "sha256": "b544dea3ebe5ee26d47193f43b553596c57215c8ab080224641a0c21ad9ce127"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch009-chronology-register.json",
+      "bytes": 210076,
+      "sha256": "84613038de354caa49f6c86f38916ca74c566a57855563f7c4b543b8d1892eeb"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch009-proposal-ledger.json",
+      "bytes": 143790,
+      "sha256": "f45943fe4e0bb511c85631aa9675224073153d8d81306c79cc525162f53a8c5d"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch009-reading-progress.json",
+      "bytes": 42563,
+      "sha256": "cc6fb5bb3ce2d7b543f04899004ea825c8d0b9798f0c242fbd001f962865e8ba"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch009-resource-register.json",
+      "bytes": 131702,
+      "sha256": "48bb826f3f74f2e6602a76c381340a9e30a56336f18ada9c5156e15ac0aab80f"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch009-working-standards-register.json",
+      "bytes": 6589,
+      "sha256": "69fd155890b00bf9e40be33522a7117502e99f6d1c58ea9c3ccd2f05334ef5cb"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch010-chronology-register.json",
+      "bytes": 241130,
+      "sha256": "48876f3e38156315f07485fbc0b986520d3466967fecd3669ff8e125cb7f4c6d"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch010-proposal-ledger.json",
+      "bytes": 190125,
+      "sha256": "a1b60a5a0fdb37b5f4c27d5038cdd72b04557454f6eeaac040466e5d590a2e7d"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch010-reading-progress.json",
+      "bytes": 47277,
+      "sha256": "bfb03ab5be0318b489af364cad3e6ce70e4c1d054d261264a3d3b7aaf08dfccb"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch010-resource-register.json",
+      "bytes": 156605,
+      "sha256": "00fcb5531fc319d67293165277eaa7b16e6aff0fb12ddb31f688fac8a44382b4"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch010-working-standards-register.json",
+      "bytes": 8095,
+      "sha256": "ba825e26d9c2888c4512f5b8da548ef5a89d131c274b6ab5187e6aab94331b93"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch011-chronology-register.json",
+      "bytes": 272364,
+      "sha256": "6e119baec1c9ff19c1d5162d69781cac8a4e6eedf1952cc3ddad0a42cd3c2339"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch011-proposal-ledger.json",
+      "bytes": 236662,
+      "sha256": "b0529c76716e79213b0cf32f986810011b73ccfbf7d425cacbdf9d0a379f5a37"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch011-reading-progress.json",
+      "bytes": 51756,
+      "sha256": "ea4a3239e7ed134162cdcc50ec087309ccc5480984f07ec6a3ab5c508fa6c4a7"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch011-resource-register.json",
+      "bytes": 183950,
+      "sha256": "3988e7393dd00be299a60bdb22e0339cf94f6d19eb16bb0b666d2c472caecbd3"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch011-working-standards-register.json",
+      "bytes": 9809,
+      "sha256": "55ef8541ff5c0b2a8a6b93698c84406387b570d4e452bfef790bb36956e44085"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch012-chronology-register.json",
+      "bytes": 286163,
+      "sha256": "8e7d2606d214f726b54abd642e635dd098ec8e3156a81bdf8ac01b637ec10d71"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch012-proposal-ledger.json",
+      "bytes": 260264,
+      "sha256": "3e2f0b138279ad0cfd31d082c2361671a5e169edec9754b72bc9d6d25041bbfc"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch012-reading-progress.json",
+      "bytes": 56367,
+      "sha256": "127ac1e536b7d70d91413d7951f05fa34881ad126ac5fbce8809ec236c788a2a"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch012-resource-register.json",
+      "bytes": 198513,
+      "sha256": "3b7080b608de12883353180a947fac5e5e3ed5891d3b84a9f7a301eabad317a3"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch012-working-standards-register.json",
+      "bytes": 12322,
+      "sha256": "6a8671be4213a62c33bf2b95caf758314c5ae775bd803842edc8c3256caa68d4"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch013-chronology-register.json",
+      "bytes": 302266,
+      "sha256": "4951d6cac6f70b982c59ba287e8092037e5a20210d0c8b707d199775941bc07b"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch013-proposal-ledger.json",
+      "bytes": 289616,
+      "sha256": "30bf39c2157116221b923a793d7fbe54d51d3d661f3603a5f35cae2593d36699"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch013-reading-progress.json",
+      "bytes": 59958,
+      "sha256": "322a9a520415c0826009988d031bdc89b200799a903e30b01d9d2185aae4569e"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch013-resource-register.json",
+      "bytes": 215616,
+      "sha256": "24a1ee2e6d9a5d715dc2f2c37eb5cdd76e724699fce47e66e96aafac14f32191"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch013-working-standards-register.json",
+      "bytes": 13801,
+      "sha256": "43e60cf028fb4accdb19a9fc311b9b67d1b81af4849dc342771c8c03b6243dc4"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch014-chronology-register.json",
+      "bytes": 317900,
+      "sha256": "81c908c949fd9d8b5ce63658c90fa574304ad69ca02a60fa0b737fe0c5daf9c4"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch014-proposal-ledger.json",
+      "bytes": 329990,
+      "sha256": "f3bad827f75ee959e691fb1c6834c97f8ef0439370d40f009ee73b3e25777f47"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch014-reading-progress.json",
+      "bytes": 63474,
+      "sha256": "a5aa7e8f2a2c1983dfa4b8e61281f1b2d6320ef1139c438a84d32613a6ab6705"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch014-resource-register.json",
+      "bytes": 234398,
+      "sha256": "4e5bec594898e2fbf09d27d37b166a3b3936805ed24806253c92886928a4d814"
+    },
+    {
+      "path": "research/editorial/sequential-review/history/before-batch014-working-standards-register.json",
+      "bytes": 16175,
+      "sha256": "c55c8f084bed912682f4a428390dc9765265724538cdfb76476f35d5f21ff1cd"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-003-Chronology.md",
+      "bytes": 16716,
+      "sha256": "31d6b49b8e13753a5e85ccab3bd40665a64cb1b513d81cffc256653ce22cb2d4"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-003-Continuity.md",
+      "bytes": 5002,
+      "sha256": "5adb125e5fc8a7021c4fd2bec543b8bf3b594bca162f690f5de11e1ef10c5794"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-003-Preserve.md",
+      "bytes": 2232,
+      "sha256": "bfaec3e80d4269a4f583db7b2aa2ef62154bf5602ae93d9267e695d5fbf4d653"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-003-Resources.md",
+      "bytes": 16420,
+      "sha256": "93f716e3e7a21a7a4cbc3b116fdc483ea82e2d57d583266613d4ae7e1d46022b"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-004-Chronology.md",
+      "bytes": 20997,
+      "sha256": "c2dccb5081a776d39b21490ebcab980bcb43fb55b74beeafc2c75cf78a440a1c"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-004-Continuity.md",
+      "bytes": 12349,
+      "sha256": "26b4b1008105dd41d74e6d9d619a4ee2fa06d670ca3034a8f1f6db1afab54a92"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-004-Preserve.md",
+      "bytes": 2626,
+      "sha256": "99c76ac2dda9d185cb2391d560f30e2815142ee87fdbef77223a7d2e4e78fce8"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-004-Resources.md",
+      "bytes": 9158,
+      "sha256": "3d21e9538c324276828a4d6eb6d883ad2a88247a9a9809fbf8a5406471042ace"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-005-Chronology.md",
+      "bytes": 22998,
+      "sha256": "76e84b600e345bd156f65ea8dfe1f1a23aa4c0f5b03382de43a7f12868d4894e"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-005-Continuity.md",
+      "bytes": 16918,
+      "sha256": "e388cb72175f85d7bf9d51fc04732590b2266a2bb034d082e14a14854b208e8d"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-005-Preserve.md",
+      "bytes": 3168,
+      "sha256": "51b3c1bde7f5c7765e8ce61965da92da075dd011de0226656610aa9bdffdd286"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-005-Resources.md",
+      "bytes": 13854,
+      "sha256": "8e085730c5f4f8198816bb8aee94165b0955efa9ee3583ffdaaff129f7fbb711"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-006-Chronology.md",
+      "bytes": 18913,
+      "sha256": "8ff5095648d87e184bc7f7fba98b502c169fff2b711a69a41481363b3ee8929a"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-006-Continuity.md",
+      "bytes": 26391,
+      "sha256": "2de721e16a01d9086ed20d684bcd8d9065a09e70258b00e1891f2d90a224ba41"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-006-Preserve.md",
+      "bytes": 2830,
+      "sha256": "20ae02ea191a7ce8001397fc06dfa40b4bb1e3c4305dec0b5363c377bee3d2f7"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-006-Resources.md",
+      "bytes": 15168,
+      "sha256": "e2c2679affa8908ecc4fe21bb7b34537b078a9cc39713731fd1fdccfe7842ce6"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-007-Chronology.md",
+      "bytes": 15202,
+      "sha256": "718e25879fb6b1d4445d279342979b6ec9362e877da36490dc7cc06ba0300ac8"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-007-Continuity.md",
+      "bytes": 27412,
+      "sha256": "8f20bfa770bde2c54fce13405e7d44f3b8bbed49f21d0990ac6d9b3ab77ec1a3"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-007-Preserve.md",
+      "bytes": 2599,
+      "sha256": "8c21e86d64260f5a09ef81f2cd41c05595b9e796716f2a7a2dafc4cfdbffbbc1"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-007-Resources.md",
+      "bytes": 13029,
+      "sha256": "020a54373f5b740947b88479ede28e7fb2fa1283d85cb60e36de41e6cf4b898c"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-008-Chronology.md",
+      "bytes": 17561,
+      "sha256": "41a0fcb7f16b6e4359e3eaa633ea16c888df72585d1d5cc61fec17935a5da82b"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-008-Continuity.md",
+      "bytes": 29789,
+      "sha256": "f856be49b8b5ecb7611a3a314b4ee6c3e1dba571d7b5c2a92b8d9bef205b15cd"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-008-Preserve.md",
+      "bytes": 2411,
+      "sha256": "ef2946e828784c3c9efc288ba09e0c2be5559af4315f3704e2f5536af334b170"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-008-Resources.md",
+      "bytes": 14256,
+      "sha256": "d6c66b173d40f6fd5b31cc9513b8e779d52a4e5544fbce871a892c398c7bc9a3"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-009-Chronology.md",
+      "bytes": 16984,
+      "sha256": "5c2d969e41bc41622fed1b37e2e279df53d7404eb31d2971ffafe08a5f0a944a"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-009-Continuity.md",
+      "bytes": 33162,
+      "sha256": "a8b575fcb8d86c2ee5275cf1ecc1883d471dee8ccff02c11331fe35fd810574e"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-009-Preserve.md",
+      "bytes": 1577,
+      "sha256": "f061e6eb371e4858f68c8202d355d2f2784d0ce04aa604468dc0b1e09d1bc59a"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-009-Resources.md",
+      "bytes": 14011,
+      "sha256": "c8d3ba3b50d0f0dfebca500c8fc70aaba0b4af4983051fc8f8995cd83e275a65"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-010-Chronology.md",
+      "bytes": 16035,
+      "sha256": "3159dcce1d9b0e85b64322b98a09afbd5fe9d02b0e893b91e67476cea383ecb0"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-010-Continuity.md",
+      "bytes": 34038,
+      "sha256": "a4edfd6501d89685665a50838c2e03df1852cbea68b41c6287ed1b407fa69bc2"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-010-Preserve.md",
+      "bytes": 1591,
+      "sha256": "008225c9f3cab9222154a3dc7024e131977d2cb660a3a82ab1ed9041c4b016b1"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-010-Resources.md",
+      "bytes": 14089,
+      "sha256": "fbcbd6d5f48d48b23c786695f01992344df03d28a0ef29fad0cdf11a4de24e52"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-011-Chronology.md",
+      "bytes": 6880,
+      "sha256": "402c6914424fb87a9e482bd16927b66e91b0062e6f3d9559d13a3ce38b8fe28f"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-011-Continuity.md",
+      "bytes": 20853,
+      "sha256": "303bb320bd1f0bc1e310c3a3c63f4512a1760a789ee56e1206edc67286d1f715"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-011-Preserve.md",
+      "bytes": 1930,
+      "sha256": "8921556b8684826a4554198cb3a5d12222942b48b80d7b96873f4f1557239ca3"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-011-Resources.md",
+      "bytes": 8145,
+      "sha256": "3a02e5a08b8457c61e7cd52f9c09e581a6aa7f7a1d804a487ddcedd6984b735e"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-012-Chronology.md",
+      "bytes": 7705,
+      "sha256": "94b13b980649acff57b450a54ad7b37cb9bff4d05f18b6e445877c7edbc18078"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-012-Continuity.md",
+      "bytes": 21315,
+      "sha256": "d088ede44c1b0f41123e95af99cd55daa057d0bcf0a7cf3e34fc290df913fa68"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-012-Preserve.md",
+      "bytes": 1384,
+      "sha256": "0309978f48cb602e097d9ae5da333f4b6cbaf9fb33ea053a5472a83076c268ae"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-012-Resources.md",
+      "bytes": 9671,
+      "sha256": "583644b3fc11f2dacb0ac95467aee0a3c5386d7dbd8fa891df1cd3106ce562df"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-013-Chronology.md",
+      "bytes": 7526,
+      "sha256": "45175e7f8fb936ec230545b48772c206213f35253162df5c41111c298da659ce"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-013-Continuity.md",
+      "bytes": 30199,
+      "sha256": "a288eeea393aec7570e35208ef1885ab51f1c21a50f32ef021791b3ac2aaedc9"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-013-Preserve.md",
+      "bytes": 1824,
+      "sha256": "fa0e760c3adc60ae04a1a1fcc1990ca809ad8efef8872c861b0f669308a0bcfe"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-013-Resources.md",
+      "bytes": 10010,
+      "sha256": "7e0675561918557dda71f107599a398693f1634eb1a41b302e603294af0be9f7"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-014-Chronology.md",
+      "bytes": 9288,
+      "sha256": "ba44243a8623526c0a39c217ddeca36fc37dea71daa61030ed51792fe7527028"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-014-Continuity.md",
+      "bytes": 24489,
+      "sha256": "4a0448b85896bd6cfac35065f611ebc139e71757d10d5a3ec00c5402fc632d94"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-014-Preserve.md",
+      "bytes": 1276,
+      "sha256": "ea9d491ce4b7b69c835c00a81659a7f330e346ff0c4f186c591b457c0913609d"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/Batch-014-Resources.md",
+      "bytes": 14453,
+      "sha256": "cf18ea704cacf105db7c4c3eb650bfb3f96ac86cf3dff740b469d674c42cc02b"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/batch-003-working.md",
+      "bytes": 11846,
+      "sha256": "3e1179314b859d1abb5ee81793066290d0b21edfc8f9c4b03b3ab7a9674fe711"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/batch-004-working.md",
+      "bytes": 9901,
+      "sha256": "270c4fa48854bc2cdce94b0da96028b604ea9762c124e6d5e5db1f1ec2fc72e0"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/batch-005-working.md",
+      "bytes": 10803,
+      "sha256": "7bcfc370e5cdc6d9db1d01b95676e9bab6b42954a4bcbf885981b2dd3859ad16"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/batch-006-working.md",
+      "bytes": 11929,
+      "sha256": "a1ee9abc0c1e46afec47a9fcc7b57419215870e77f80d7727453f372d44a02bc"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/batch-007-working.md",
+      "bytes": 7296,
+      "sha256": "4007e5f8ae5f64611c81ed17ee4dd8e9aa06c380fe5d02aea854aecf9d6bef64"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/batch-008-working.md",
+      "bytes": 8426,
+      "sha256": "ab6bd7806037e27715b5f334abe4d8864ddf3a3388d6bd48e5d7286ffe6c9d7c"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/batch-009-working.md",
+      "bytes": 10213,
+      "sha256": "262e57122ef5db86f759356b469783576ebc9612906d777ceeb84380b4d8634a"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/batch-010-working.md",
+      "bytes": 10685,
+      "sha256": "68f5af801c089f02b2a8e7327f5c7f9d753f86b3c2fbf75feac7f010f122defe"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/batch-011-working.md",
+      "bytes": 11117,
+      "sha256": "d5bb43edec7344f33b8b3bd409e396329c554dea423b9f5b773a70b2c1ed65cb"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/batch-012-working.md",
+      "bytes": 11086,
+      "sha256": "b7c17492b7f15521869721fbba2333871add3a16873b050c7f6b03498669b279"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/batch-013-working.md",
+      "bytes": 12773,
+      "sha256": "434ee280dff04002149951efca91ad94ae5f002e11652cc712c7c9f815d8de7d"
+    },
+    {
+      "path": "research/editorial/sequential-review/jotters/batch-014-working.md",
+      "bytes": 14032,
+      "sha256": "e733387c92b73b9b01fea304cacaf8a5a03ba331ed3095548ee3e8e1901bb6e5"
+    },
+    {
+      "path": "research/editorial/sequential-review/make_batch001.py",
+      "bytes": 9908,
+      "sha256": "180b5bc25a2dc292d5ece0c9efd1b9f6f98170f89df602b5e67fa6706a62ee5d"
+    },
+    {
+      "path": "research/editorial/sequential-review/proposal-ledger.json",
+      "bytes": 363299,
+      "sha256": "0ca1f6f80300f676baf0a4e54c53994d616d029045ebb42efb8d0c1b36e08889"
+    },
+    {
+      "path": "research/editorial/sequential-review/read_batch009.py",
+      "bytes": 828,
+      "sha256": "2daf081f82099347b1cb0664bce2acc3de373e39f5bb872c3c0cf611286e46e7"
+    },
+    {
+      "path": "research/editorial/sequential-review/read_batch010.py",
+      "bytes": 828,
+      "sha256": "3e0b52d26c375bfd661dcba60ccab5082941c0a5f357769cb56514390adfbf71"
+    },
+    {
+      "path": "research/editorial/sequential-review/read_batch011.py",
+      "bytes": 828,
+      "sha256": "805b27e67391ca9b8c3b1f044e2c69c19e002ab480074f4ebd227f50c0048417"
+    },
+    {
+      "path": "research/editorial/sequential-review/read_batch012.py",
+      "bytes": 828,
+      "sha256": "477121640790e09b1e4488b311ced8502e69cb740037a3d19f3e262117274c02"
+    },
+    {
+      "path": "research/editorial/sequential-review/read_batch013.py",
+      "bytes": 828,
+      "sha256": "248c669d23f2a34f75e0261b2a896aa086aa11ed529868595f7c76fc1b3ab65f"
+    },
+    {
+      "path": "research/editorial/sequential-review/read_batch014.py",
+      "bytes": 828,
+      "sha256": "20dd2f2004d15e14f70cffc63f027a9289c366524f22a27b4ed5c9b61306f08f"
+    },
+    {
+      "path": "research/editorial/sequential-review/reading-progress.json",
+      "bytes": 66955,
+      "sha256": "c9ad2b3a508d64b340e43d4f024104d692d325a21e6de7b97db0a0b37255a8f0"
+    },
+    {
+      "path": "research/editorial/sequential-review/resource-register.json",
+      "bytes": 260639,
+      "sha256": "58d7fa070d8b80fc3df1e0c326b0d5c7b56e347ef41d7a2d366cd8355d2d3626"
+    },
+    {
+      "path": "research/editorial/sequential-review/update_batch002.py",
+      "bytes": 14971,
+      "sha256": "86d61e34e28f97f1ba50f73cff08922db983136d5f5db6e0b9074e74dee9dfe8"
+    },
+    {
+      "path": "research/editorial/sequential-review/update_batch003.py",
+      "bytes": 24595,
+      "sha256": "b82e59f36e1cd73cd8861bc68fd3d7797ed76e340952c60d5ede148899627be3"
+    },
+    {
+      "path": "research/editorial/sequential-review/update_batch004.py",
+      "bytes": 36653,
+      "sha256": "8b9ca99f8fbf07e1a221f003fdccc563f682449fe8ffc7ed2ef7770851289f36"
+    },
+    {
+      "path": "research/editorial/sequential-review/update_batch005.py",
+      "bytes": 43548,
+      "sha256": "0263c430ef7b06ea2f5642ad1d2564335774ee785f83918f0183fdc48117a024"
+    },
+    {
+      "path": "research/editorial/sequential-review/update_batch006.py",
+      "bytes": 44087,
+      "sha256": "734e1aa468a946e136bb29a85326b83129a74649cf72dbe436237c16aee2d40f"
+    },
+    {
+      "path": "research/editorial/sequential-review/update_batch007.py",
+      "bytes": 47387,
+      "sha256": "99f4bcc8bbc1185590d9577ad57cd29db0017e7906f4f91f2daeea45546d088f"
+    },
+    {
+      "path": "research/editorial/sequential-review/update_batch008.py",
+      "bytes": 54169,
+      "sha256": "da689b4114bfa5ea458398914e0c96f3d7ed7942b7ac581dc3a10200acd98146"
+    },
+    {
+      "path": "research/editorial/sequential-review/update_batch009.py",
+      "bytes": 49407,
+      "sha256": "250be56c35f17111bb16bd1c94d06fb541502bf8f79e8842178e8b42160f60d6"
+    },
+    {
+      "path": "research/editorial/sequential-review/update_batch010.py",
+      "bytes": 54368,
+      "sha256": "a31d99aaa8b9918809578668a468c876469d9a77165bbe6dbf73d2150d70c9bd"
+    },
+    {
+      "path": "research/editorial/sequential-review/update_batch011.py",
+      "bytes": 41216,
+      "sha256": "20036085c632030c279461e295b4a15b673800da8ead4295764a28b4ecb948d8"
+    },
+    {
+      "path": "research/editorial/sequential-review/update_batch012.py",
+      "bytes": 39244,
+      "sha256": "67603e3755646b3c9b54960e9d9db30d5524f537a562f40a5d37992c0833631e"
+    },
+    {
+      "path": "research/editorial/sequential-review/update_batch013.py",
+      "bytes": 43848,
+      "sha256": "011888eab3f1c4c2f65cd75a2db66cfb6a5d63bedac28374339f9ef7f3ab4110"
+    },
+    {
+      "path": "research/editorial/sequential-review/update_batch014.py",
+      "bytes": 39866,
+      "sha256": "68555b6d013a7202dcb216272c5d655d948b73e3d095adbc30ae3a4b308710bc"
+    },
+    {
+      "path": "research/editorial/sequential-review/working-standards-register.json",
+      "bytes": 17894,
+      "sha256": "595df5a6cb25c8e09e6f1fc11d2c4652e1d49d33cefdaa1feb05d1fe6d4adbbf"
+    },
+    {
+      "path": "research/editorial/targeted-source-search.json",
+      "bytes": 196274,
+      "sha256": "49a6ff015a96fd8d3b4b9f3ae5eac35a766408df23b7f8c862d881a4c629139f"
+    },
+    {
+      "path": "research/editorial/terminology-backups/before-revolution-terminology.zip",
+      "bytes": 5500554,
+      "sha256": "6d653c3e84789b16e381269ee0a2bb8231567ba7b51a8d21853f5c353d6b502d"
+    },
+    {
+      "path": "research/editorial/terminology-revolution-change-log.json",
+      "bytes": 8378,
+      "sha256": "a071f713dff228dc8c32a71c9aec4e9ec9f0b99274cfa30bb648454831a5fbd6"
+    },
+    {
+      "path": "research/editorial/terminology-revolution-followup-log.json",
+      "bytes": 6504,
+      "sha256": "85577dacfe553212183ab53f7de6294554a949816b1071b5a198246e215cf2de"
+    },
+    {
+      "path": "research/editorial/thought-audit/Superseded-Thought-Audit.md",
+      "bytes": 13472,
+      "sha256": "38f7fee34633055e87ffe33c8eed07eb8dc741856944ad5695c7f141c7aad4cb"
+    },
+    {
+      "path": "research/editorial/thought-audit/cn-1.json",
+      "bytes": 9602,
+      "sha256": "50e35b988a64e01324561ff7db8f9cebd103cb71d3ee9302b912f04f486f17d1"
+    },
+    {
+      "path": "research/editorial/thought-audit/cn-2.json",
+      "bytes": 8900,
+      "sha256": "39a336799d09c6ed2a483051e4ddba1f5f95bcd1ac78f35bbe133116e9e0e43a"
+    },
+    {
+      "path": "research/editorial/thought-audit/cn-3.json",
+      "bytes": 7067,
+      "sha256": "0848f386bf582a85bf3fdc449b63edb2e4d0a38566799623afc893e50476b18a"
+    },
+    {
+      "path": "research/editorial/thought-audit/cn-4.json",
+      "bytes": 9245,
+      "sha256": "cc8017f037bf6b22d1fe2d4b0509410dcdfd2076e15f4aab982113cec1901ab0"
+    },
+    {
+      "path": "research/editorial/thought-audit/cn-5.json",
+      "bytes": 6461,
+      "sha256": "7db30fba8656ddaf5547d7b4ce1add250bf21b70bc24d28617d9d51503fbd087"
+    },
+    {
+      "path": "research/editorial/thought-audit/cn-6.json",
+      "bytes": 7265,
+      "sha256": "dc0a13738cc9f811ee172a4d858698432918f29c92d32d566fb57ad97a8d6d3c"
+    },
+    {
+      "path": "research/editorial/thought-audit/cn-7.json",
+      "bytes": 8402,
+      "sha256": "79d97b18d11a1d75a13e884cba5e9164ac32ffd1491a821e23b77355799cd579"
+    },
+    {
+      "path": "research/editorial/thought-audit/cn-8.json",
+      "bytes": 9695,
+      "sha256": "65a60b1a509572fd5f751d8dfe315778491b2a9156d0ef302a1dffee22444901"
+    },
+    {
+      "path": "research/editorial/thought-audit/latest/chapter-2.json",
+      "bytes": 25834,
+      "sha256": "f9c75d653d98c6387212a0abc8f3b2f155376dfff2849828e737e002e88e69fe"
+    },
+    {
+      "path": "research/editorial/thought-audit/latest/chapter-3.json",
+      "bytes": 20998,
+      "sha256": "ae17edcad593b1993270daf6f771572f3349962929e889380ecd76583d304eb5"
+    },
+    {
+      "path": "research/editorial/thought-audit/latest/chapter-5.json",
+      "bytes": 16470,
+      "sha256": "b449ade3460c73f6480b7898346d1be780073a10dd0d13fe4b6011d6b55adb3c"
+    },
+    {
+      "path": "research/editorial/thought-audit/latest/chapter-6.json",
+      "bytes": 22028,
+      "sha256": "238e773712f85f19ec6bfcbb46539f6fb4ea840f52028684a386bbd646dd0289"
+    },
+    {
+      "path": "research/editorial/thought-audit/latest/chapter-8.json",
+      "bytes": 26325,
+      "sha256": "75fef15b7d603a0f76a3759dcd06322d849b6400580aebbe4f50a6a05ead8bdd"
+    },
+    {
+      "path": "research/editorial/thought-audit/live-1.json",
+      "bytes": 29622,
+      "sha256": "bd66d6c8b5de029144e3baa95e6d223832bc891a32ea9a83828eb940d681737c"
+    },
+    {
+      "path": "research/editorial/thought-audit/live-2.json",
+      "bytes": 25834,
+      "sha256": "f9c75d653d98c6387212a0abc8f3b2f155376dfff2849828e737e002e88e69fe"
+    },
+    {
+      "path": "research/editorial/thought-audit/live-3.json",
+      "bytes": 20998,
+      "sha256": "ae17edcad593b1993270daf6f771572f3349962929e889380ecd76583d304eb5"
+    },
+    {
+      "path": "research/editorial/thought-audit/live-4.json",
+      "bytes": 24824,
+      "sha256": "1d1be8e7af72564f1f54514d625194dc009d8da6d82e22a098b135d2a072e88b"
+    },
+    {
+      "path": "research/editorial/thought-audit/live-5.json",
+      "bytes": 16470,
+      "sha256": "b449ade3460c73f6480b7898346d1be780073a10dd0d13fe4b6011d6b55adb3c"
+    },
+    {
+      "path": "research/editorial/thought-audit/live-6.json",
+      "bytes": 22028,
+      "sha256": "238e773712f85f19ec6bfcbb46539f6fb4ea840f52028684a386bbd646dd0289"
+    },
+    {
+      "path": "research/editorial/thought-audit/live-7.json",
+      "bytes": 27390,
+      "sha256": "c31ce6f833fb646de9bacd2ad04a3702e335101cfbe6dff61e039ebc7a40dfba"
+    },
+    {
+      "path": "research/editorial/thought-audit/live-8.json",
+      "bytes": 26317,
+      "sha256": "85e2782bdfb7dca3a65c21ab395cc23ca0c892e7a570fe9b5a0ca722b2e96898"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/Selected-source-evidence.md",
+      "bytes": 35832,
+      "sha256": "be37068068498dec014c06ccc52e5252b2ac05f1404f428b859596baa1958227"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/Whole-Novel-Evidence-and-Coverage.xlsx",
+      "bytes": 504099,
+      "sha256": "2dc4640e8445f705cd442d2c6862822581fec215fc1a964faa35f65e3cb1196b"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/aperture_geometry.md",
+      "bytes": 29707,
+      "sha256": "b38ebc447399c27ba6897612fd02ce78971121042ca9f7cce00dc6d00acc3f1a"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/aperture_percentages.md",
+      "bytes": 90811,
+      "sha256": "32f65f7478bae8958cb585edf5de06efbd338fba37b2d40b54fa50825ecb901c"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/central_southern_link.md",
+      "bytes": 66399,
+      "sha256": "31f833b4cb1f55da33345db06e1675aa38b604036ba7a3cad7f8afbe45015174"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/chapter-coverage.csv",
+      "bytes": 273888,
+      "sha256": "c63e8e8cc952d9a0445ccff5bf3e86c9c03cc40cd0e8ac6bc54388ff2a2da2c0"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/coverage.json",
+      "bytes": 651853,
+      "sha256": "c9febaa88ab06f2cf76f44ac9ec5547f374581275963a242b236fed35ae3b863"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/hits.json",
+      "bytes": 655830,
+      "sha256": "ea239107386fed1ba50a48320d2a664d65faedffb5240a88de6b192e90712421"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/make_workbook.py",
+      "bytes": 7968,
+      "sha256": "e913c67069b3c9c009faec85f14dc397436944acc939067531792406ffd8302c"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/regional_barriers.md",
+      "bytes": 67759,
+      "sha256": "aa3a6259a159dd19873d4d29942336a283c91d70955205b25eaf89361f839a9f"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/regional_journey_context.md",
+      "bytes": 112682,
+      "sha256": "41ae8f0292ceee3e9f8863632057899754de32eecdcb7e13a7c8f9bc214edd3e"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/regional_scale.md",
+      "bytes": 30590,
+      "sha256": "ebbb95664387a9eb7a676dce4efd42a356d661b565aaaa6a976c839b0980367a"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/scan.py",
+      "bytes": 3885,
+      "sha256": "cd6bbe0b93f6e354f17c94a4c2f7f9d8494f2eba70348c74fa6c98415033f1e3"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/selected-evidence.json",
+      "bytes": 51885,
+      "sha256": "0f5d040250e741dd249e9551c84cffec3ca90a1d4a1b111e6f4365b321c6180d"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/summary.json",
+      "bytes": 981,
+      "sha256": "2b261844f3b2a1310a1c38095f69f6c010c7f0343ebb2aae44a2a887807bb94e"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/superseded-article/Before-whole-corpus-screen.docx",
+      "bytes": 44865,
+      "sha256": "eb052367ab947cddfb97c90e240fb52e86b2094a670dc7e54cf119196757a645"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/superseded-article/Before-whole-corpus-screen.md",
+      "bytes": 15855,
+      "sha256": "cb6c46b9433be90c64178907dd9a3a92fd8db0fcff69c9cdea2540cfabf2f51f"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/supplement.py",
+      "bytes": 1632,
+      "sha256": "3be8add0063e46f249221f3188aa71b18c5f20c6b0b59cc064081cc3813012e0"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/supplementary-hits.json",
+      "bytes": 159704,
+      "sha256": "3db6677dbf53674c5947f4418a22e2946ab5cf85eb72ad3813e086acf61ef748"
+    },
+    {
+      "path": "research/editorial/whole-novel-audit/travel_methods.md",
+      "bytes": 87797,
+      "sha256": "0d17eb330b3da1ed3d0ea17a41d9369d19f471d54ff16a12e31bf814f4f3acf0"
+    },
+    {
+      "path": "research/benchmark/Omniarch-Synopsis-to-Chapter-8-Benchmark.docx",
+      "bytes": 61387,
+      "sha256": "713313ad02d7fe56c4326b18a864fc3dc69c67dbeb039df6cc25a61e874ec5de"
+    },
+    {
+      "path": "research/benchmark/Omniarch-Synopsis-to-Chapter-8-Benchmark.md",
+      "bytes": 54648,
+      "sha256": "4896434a8d9da58d989b06d859ae6b86388c2a102cabe348bb873da00c24ee5f"
+    },
+    {
+      "path": "research/benchmark/english-review-snapshot.json",
+      "bytes": 103007,
+      "sha256": "1a062e164422f1f075ab4645e0962f95511cc209081a1839620d52e7f30b1566"
+    },
+    {
+      "path": "research/benchmark/make_review_docx.py",
+      "bytes": 2698,
+      "sha256": "04a0ddaed8dfa2a75d3903a3c8a69ceebe450f68721af4a41ef3283d7a2e45d9"
+    }
+  ]
+}

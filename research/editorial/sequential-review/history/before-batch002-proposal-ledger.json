@@ -1,0 +1,238 @@
+[
+  {
+    "id": "SR-001",
+    "category": "measurement",
+    "locations": [
+      {
+        "chapter": 6,
+        "paragraph": 8,
+        "file": "OEBPS/Text/chapter14.html"
+      },
+      {
+        "chapter": 10,
+        "paragraph": 19,
+        "file": "OEBPS/Text/chapter18.html"
+      },
+      {
+        "chapter": 10,
+        "paragraph": 51,
+        "file": "OEBPS/Text/chapter18.html"
+      }
+    ],
+    "recommended_action": "Express 44% as occupied aperture volume, retaining below-midpoint sea height.",
+    "status": "Preferred editorial harmonisation",
+    "dependencies": "Later numerical height descriptions",
+    "approved": false,
+    "applied": false
+  },
+  {
+    "id": "SR-002",
+    "category": "chronology",
+    "locations": [
+      {
+        "chapter": 8,
+        "paragraph": 48,
+        "file": "OEBPS/Text/chapter16.html"
+      },
+      {
+        "chapter": 8,
+        "paragraph": 58,
+        "file": "OEBPS/Text/chapter16.html"
+      }
+    ],
+    "recommended_action": "month → week; ten-plus days → first few days",
+    "status": "Strong local harmonisation",
+    "dependencies": "Check Chapters 11–20 chronology",
+    "approved": false,
+    "applied": false
+  },
+  {
+    "id": "SR-003",
+    "category": "childhood",
+    "locations": [
+      {
+        "chapter": 2,
+        "paragraph": 49,
+        "file": "OEBPS/Text/chapter10.html"
+      },
+      {
+        "chapter": 2,
+        "paragraph": 50,
+        "file": "OEBPS/Text/chapter10.html"
+      },
+      {
+        "chapter": 9,
+        "paragraph": 16,
+        "file": "OEBPS/Text/chapter17.html"
+      }
+    ],
+    "recommended_action": "Fostering from three for twelve years, instead of five for ten.",
+    "status": "Moderate-confidence conjecture",
+    "dependencies": "Later childhood references and witnesses",
+    "approved": false,
+    "applied": false
+  },
+  {
+    "id": "SR-004",
+    "category": "casualties",
+    "locations": [
+      {
+        "chapter": 1,
+        "paragraph": 3,
+        "file": "OEBPS/Text/chapter9.html"
+      },
+      {
+        "chapter": 2,
+        "paragraph": 11,
+        "file": "OEBPS/Text/chapter10.html"
+      }
+    ],
+    "recommended_action": "Change Chapter 2 hundreds of thousands to ten million if harmonising.",
+    "status": "Provisional preferred conjecture",
+    "dependencies": "V2 Ch180 chapter388.html p39 rechecked; sequential reading outstanding",
+    "approved": false,
+    "applied": false
+  },
+  {
+    "id": "SR-005",
+    "category": "source copy",
+    "locations": [
+      {
+        "chapter": 8,
+        "paragraph": 42,
+        "file": "OEBPS/Text/chapter16.html"
+      }
+    ],
+    "recommended_action": "有没有 → 又没有; preserve negative sense in English",
+    "status": "High contextual confidence",
+    "dependencies": "No independent corrected witness verified",
+    "approved": false,
+    "applied": false
+  },
+  {
+    "id": "SR-006",
+    "category": "source copy",
+    "locations": [
+      {
+        "chapter": 10,
+        "paragraph": 31,
+        "file": "OEBPS/Text/chapter18.html"
+      }
+    ],
+    "recommended_action": "八方 → 八分",
+    "status": "High confidence",
+    "dependencies": "Immediate numerical sequence",
+    "approved": false,
+    "applied": false
+  },
+  {
+    "id": "SR-007",
+    "category": "units",
+    "locations": [
+      {
+        "chapter": 10,
+        "paragraph": 19,
+        "file": "OEBPS/Text/chapter18.html"
+      },
+      {
+        "chapter": 10,
+        "paragraph": 32,
+        "file": "OEBPS/Text/chapter18.html"
+      },
+      {
+        "chapter": 10,
+        "paragraph": 36,
+        "file": "OEBPS/Text/chapter18.html"
+      },
+      {
+        "chapter": 10,
+        "paragraph": 39,
+        "file": "OEBPS/Text/chapter18.html"
+      },
+      {
+        "chapter": 10,
+        "paragraph": 46,
+        "file": "OEBPS/Text/chapter18.html"
+      },
+      {
+        "chapter": 10,
+        "paragraph": 51,
+        "file": "OEBPS/Text/chapter18.html"
+      },
+      {
+        "chapter": 10,
+        "paragraph": 55,
+        "file": "OEBPS/Text/chapter18.html"
+      }
+    ],
+    "recommended_action": "Define aperture-capacity percentages and percentage-point changes; preserve all source values.",
+    "status": "Recommended policy",
+    "dependencies": "Do not invent universal gross/net recovery mechanism",
+    "approved": false,
+    "applied": false
+  },
+  {
+    "id": "SR-008",
+    "category": "source copy",
+    "locations": [
+      {
+        "chapter": 1,
+        "paragraph": 57,
+        "file": "OEBPS/Text/chapter9.html"
+      }
+    ],
+    "recommended_action": "将敬酒 → 将进酒; retain a sound existing English title.",
+    "status": "High contextual confidence",
+    "dependencies": "Conventional poem title",
+    "approved": false,
+    "applied": false
+  },
+  {
+    "id": "SR-009",
+    "category": "source copy",
+    "locations": [
+      {
+        "chapter": 1,
+        "paragraph": 63,
+        "file": "OEBPS/Text/chapter9.html"
+      }
+    ],
+    "recommended_action": "开窍大殿 → 开窍大典; tomorrow’s Awakening Ceremony",
+    "status": "High contextual confidence",
+    "dependencies": "Ceremony context",
+    "approved": false,
+    "applied": false
+  },
+  {
+    "id": "SR-010",
+    "category": "source copy",
+    "locations": [
+      {
+        "chapter": 9,
+        "paragraph": 17,
+        "file": "OEBPS/Text/chapter17.html"
+      }
+    ],
+    "recommended_action": "我的意向呢 → 你的意向呢; Fang Yuan, what do you think?",
+    "status": "High contextual confidence",
+    "dependencies": "No independent corrected witness verified",
+    "approved": false,
+    "applied": false
+  },
+  {
+    "id": "SR-011",
+    "category": "translation choice",
+    "locations": [
+      {
+        "chapter": 9,
+        "paragraph": 43,
+        "file": "OEBPS/Text/chapter17.html"
+      }
+    ],
+    "recommended_action": "Working rendering: The room was twice as large as his old one.",
+    "status": "Moderate confidence; not proven numerical repair",
+    "dependencies": "Revisit if dimensions or another witness settle comparative",
+    "approved": false,
+    "applied": false
+  }
+]
