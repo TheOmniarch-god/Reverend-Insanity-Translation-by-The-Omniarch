@@ -17,7 +17,7 @@
   "substantive_changes_applied": false,
   "batch016_factcheck_preserved": true,
   "external_captures": 11,
-  "remote_uploaded": false,
+  "remote_uploaded": true,
   "independent_export_check": {
     "passed": true,
     "source_paragraphs_against_epub": 917,
@@ -31,5 +31,7 @@
     "docx_paragraphs": 286,
     "report_quotes_exact": true,
     "authored_cultivation_wording_checked": true
-  }
+  },
+  "remote_verified": true,
+  "remote_data_commit": "9bc0ee614fb53c335a7278159f8a41814c542582"
 }
