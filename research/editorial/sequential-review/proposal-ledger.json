@@ -6230,7 +6230,10 @@
     "superseded_action": "If the pair’s advantage chiefly comes from receiving aRevolutionThree partner’s essence while below her revolution, consider214p51 在三转以后→在三转以前. Until the actual mechanism is read, preserve the source and label the claim as FangYuan’s forecast.",
     "batch014_update": "273pp21–26 and282p30: benefits continue after reaching Revolution Three. A completed whole-novel rate analysis remains outstanding.",
     "batch015_update": "Remains withdrawn.296p90 explicitly delays SilverRelic because Bai’s cultivation assistance continues, rather than restoring the speculative before/after substitution.",
-    "batch016_update": "Remains withdrawn.30173–78 and30478/82 establish accelerated progress within Revolution Three; assistance wanes when both reach Three peak, not when FY first reaches Three."
+    "batch016_update": "Remains withdrawn.30173–78 and30478/82 establish accelerated progress within Revolution Three; assistance wanes when both reach Three peak, not when FY first reaches Three.",
+    "batch017_update": "Remains withdrawn.326p24–25 same-stage future assistance reduced,331 actualBaiFour→FYThreepeak assistance completesFour breakthrough. No contradiction with continuingReunionutility.",
+    "latest_update": "Still withdrawn.355p69 explicit present non-need for Reunion is compatible with Nine Eye refining FY’s own Four essence; it does not negate the earlier breakthrough assistance.",
+    "batch018_update": "Still withdrawn.355p69 explicit present non-need for Reunion is compatible with Nine Eye refining FY’s own Four essence; it does not negate the earlier breakthrough assistance."
   },
   {
     "id": "SR-100",
@@ -9414,6 +9417,11 @@
         "chapter": 305,
         "paragraph": 36,
         "file": "OEBPS/Text/chapter313.html"
+      },
+      {
+        "chapter": 326,
+        "paragraph": 84,
+        "file": "OEBPS/Text/chapter334.html"
       }
     ],
     "recommended_action": "Preferred Shang-specific changes:262p65保住少族长的位置→保住少主的位置;304pp39/40/43 use少主 instead of少族长 for Ya Zi.305p36 strongly supports269p72前世差一点成为商家少主→前世差一点成为商家家主. Keep the Bai-twin少族长→少主 component downgraded and unresolved, pending clan-specific succession evidence.",
@@ -9427,7 +9435,9 @@
     "batch014_update": "271p17 calls Bai twins two少主;272p7 distinguishes ordinary succession from Shang multiple junior lords.273p82 chief’s belief reflects the alias cover story, not authenticated FY biography.",
     "superseded_action_before_batch015": "Prefer262p65 保住少族长的位置→保住少主的位置, and263p75 两个少族长→两个少主. Separately hold269p72 少主 as a lower-confidence title query: 族长 is a plausible intended future office, but do not apply it without later evidence.",
     "batch015_update": "293p70 and294–295 repeatedly call the twins少族长, including their own clansmen. Repetition does not prove correctness, but undermines the earlier high-confidence isolated-title diagnosis. Do not impose Shang’s succession structure on Bai.294p47族长 missing少 can be corrected locally without deciding少主 versus少族长 globally.",
-    "batch016_update": "305p36 explicitly says Chao Feng nearly became家主 in the former life, repeating the Xin Ci rival context of269p72.304 repeats Ya Zi少族长 despite311dismissal of one junior-lord office. Tie’s eight junior lords30221 show clan-specific systems again."
+    "batch016_update": "305p36 explicitly says Chao Feng nearly became家主 in the former life, repeating the Xin Ci rival context of269p72.304 repeats Ya Zi少族长 despite311dismissal of one junior-lord office. Tie’s eight junior lords30221 show clan-specific systems again.",
+    "batch017_update": "326p84 again explicitly frames former-life ChaoFeng/XinCi competition as商家族长.322p27 distinguishes TuoHai少族长 above ten少主. Generic少主 forTuoHai322p29 does not justify a blanket title rule.",
+    "latest_update": "326p84 again explicitly frames former-life ChaoFeng/XinCi competition as商家族长.322p27 distinguishes TuoHai少族长 above ten少主. Generic少主 forTuoHai322p29 does not justify a blanket title rule."
   },
   {
     "id": "SR-119",
@@ -12942,14 +12952,16 @@
         "file": "OEBPS/Text/chapter317.html"
       }
     ],
-    "recommended_action": "Preferred local302p35 这些年→这段时间, or这几个月 if the recent eye-injury clock is intended. Separately HOLD302pp14–15/22 two-year wording for global reconciliation. If a shorter death-to-arrival interval is confirmed, 一年多前 and相应较短的期间 are candidates; do not assign an exact replacement now.",
+    "recommended_action": "Retain as a temporal-scope query. Test whether 这些年 scopes only frugal city residence or also eye-treatment saving. 这段时间 remains conditional if a shared scope is intended; no global date repair selected.",
     "rationale": "302 explicitly locates the eye injury a few months earlier but calls the saving period years. The larger two-years-since-death account is in tension with273 nearly one year since Qing Mao plus the subsequently narrated city intervals and301 three-month jump. Unquantified ellipses prevent a certified total.",
-    "confidence": "High local months/years scope issue; moderate larger chronology concern; low confidence in an exact global date repair.",
+    "confidence": "Moderate-to-high local temporal-scope concern; exact repair unconfirmed; broader clock unresolved.",
     "status": "Active provisional proposal; no approval",
     "dependencies": "Distinguish father’s death, arrival of its news, daughter’s career and Tie Dao Ku’s city residence. Retain later two-plus-year Shang stay after304’s year-plus ellipsis; do not compress that separate period.",
     "approved": false,
     "applied": false,
-    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding",
+    "latest_update": "Second-pass fact-check: see Batch-016-Fact-Check-Addendum.md; prior confidence/action superseded. All substantive changes remain held.",
+    "fact_check_addendum": "Batch-016-Fact-Check-Addendum.md"
   },
   {
     "id": "SR-135",
@@ -12976,14 +12988,17 @@
         "file": "OEBPS/Text/chapter312.html"
       }
     ],
-    "recommended_action": "Preferred304p80 又回升了两分→又回升了一分. Preserve93% aptitude and seven points remaining to100%.",
+    "recommended_action": "Retain93% and seven points remaining. Keep 两分→一分 only as a conditional candidate if92% is confirmed as the intended baseline; investigate retrospective91% baseline first.",
     "rationale": "301 fixes92%;304 gives93% and independently says seven points remain. That supports a one-percentage-point increment, not two. Earlier275’s one-point increase is compatible with91% before301.",
-    "confidence": "Very high local arithmetic and corroborating endpoint.",
-    "status": "Active provisional proposal; no approval",
+    "confidence": "High confidence in quoted figures and arithmetic; emendation unconfirmed because the retrospective baseline is not explicit.",
+    "status": "Provisional baseline query; numerical replacement not selected; no approval",
     "dependencies": "Source collation; do not reinterpret成/分 as multiplication or change the earlier90%-reserve statement into an aptitude total.",
     "approved": false,
     "applied": false,
-    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding",
+    "latest_update": "326p46 now96% aptitude. Does not establish baseline of304 two-point retrospective; retain Batch016 fact-check downgrade.",
+    "fact_check_addendum": "Batch-016-Fact-Check-Addendum.md",
+    "batch017_update": "326p46 now96% aptitude. Does not establish baseline of304 two-point retrospective; retain Batch016 fact-check downgrade."
   },
   {
     "id": "SR-136",
@@ -13013,20 +13028,28 @@
         "chapter": 306,
         "paragraph": 64,
         "file": "OEBPS/Text/chapter314.html"
+      },
+      {
+        "chapter": 329,
+        "paragraph": 77,
+        "file": "OEBPS/Text/chapter337.html"
       }
     ],
-    "recommended_action": "Preferred306p53 更是商家族长→更是商家家老. English: he was also a Shang clan elder.",
+    "recommended_action": "Preferred306p53 商家族长→商家家老.329p77 explicitly names Shang Bu Li as家老. Treat as source emendation, not proof that a faithful clan-leader translation was wrong.",
     "rationale": "The same scene makes him Shang Yan Fei’s subordinate, first minister and slave-trade administrator. Calling him the clan leader conflicts with the established officeholder.",
-    "confidence": "Very high local office-identity support.",
+    "confidence": "High source-office inconsistency; elder repair now strongly supported by explicit329p77, not an independently recovered306 variant.",
     "status": "Active provisional proposal; no approval",
     "dependencies": "Independent witness; preserve his seniority over ordinary junior lords without making him a co-chief.",
     "approved": false,
     "applied": false,
-    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding",
+    "latest_update": "329p77 explicit五大家老之首的商不离家老 strengthens exact elder repair. Earlier external306 repost still reads族长; authorial variant not established.",
+    "fact_check_addendum": "Batch-016-Fact-Check-Addendum.md",
+    "batch017_update": "329p77 explicit五大家老之首的商不离家老 strengthens exact elder repair. Earlier external306 repost still reads族长; authorial variant not established."
   },
   {
     "id": "SR-137",
-    "category": "Hail Gu versus Ice Explosion Gu",
+    "category": "Chinese textual variant: 冰雹蛊 versus 冰爆蛊; not an English mistranslation",
     "locations": [
       {
         "chapter": 299,
@@ -13054,14 +13077,16 @@
         "file": "OEBPS/Text/chapter321.html"
       }
     ],
-    "recommended_action": "Preferred312p97 冰雹蛊→冰爆蛊.",
-    "rationale": "The action proposed is detonating the icicles;299 defines Ice Explosion and313 explicitly names it while performing that action. Hail is the mismatched technical name.",
-    "confidence": "Very high functional and adjacent-name support.",
-    "status": "Active provisional proposal; no approval",
-    "dependencies": "Local technical-name repair only; do not merge every ice-type Gu or automatically equate Frost Spit and Frost Breath.",
+    "recommended_action": "Retain Hail Gu for EPUB 冰雹蛊. Record externally attested 冰爆蛊 / Ice Explosion Gu variant at the same sentence. Replacement suspended pending source selection and corroboration.",
+    "rationale": "Hail correctly translates冰雹. Hetushu Ch312 reads冰爆 in the same sentence, consistent with local299/313 ice detonation. This establishes a variant, not authorial priority or an English mistranslation.",
+    "confidence": "High lexical equivalence and variant existence; authorial reading unestablished.",
+    "status": "Provisional source-name query; replacement suspended; no approval",
+    "dependencies": "External witness provenance and textual relationship unknown; source selection and further corroboration required.",
     "approved": false,
     "applied": false,
-    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding",
+    "latest_update": "Second-pass fact-check: see Batch-016-Fact-Check-Addendum.md; prior confidence/action superseded. All substantive changes remain held.",
+    "fact_check_addendum": "Batch-016-Fact-Check-Addendum.md"
   },
   {
     "id": "SR-138",
@@ -13103,14 +13128,16 @@
         "file": "OEBPS/Text/chapter312.html"
       }
     ],
-    "recommended_action": "Retain the figures pending scope reconciliation. Clarify the start of the eighteen-month window, carried-in wins, and whether four bouts per month describes only the earlier phase. Only if eighty new fourth-tier wins all fall inside that window under an unchanged four-per-month cap, consider extending the interval (e.g. 两年左右) or explicitly limiting the cap’s duration. No preferred numerical replacement yet.",
+    "recommended_action": "Retain figures. Treat four monthly bouts as phase-specific practice unless permanence is proved. Reconcile carried-in wins and eighteen-month anchor; no replacement interval selected.",
     "rationale": "Eighty wins require at least twenty four-bout monthly allocations, while304 describes advancement over a year and a half. But the preceding three-month phase may supply carried-in wins; the practice cap is not necessarily permanent, and tier-count semantics need confirmation. Likewise8/10/17day fight markers can denote sequential gaps rather than one common zero.",
-    "confidence": "High confidence in the located constraints; low-to-moderate inconsistency diagnosis until their scope is proved.",
+    "confidence": "High confidence in located constraints; inconsistency unproved. Monthly allocations are not automatically full elapsed months.",
     "status": "Active provisional proposal; no approval",
     "dependencies": "Later arena rules, promotion counters, calendar/month convention, missing bouts and exact anchor of这一年半. Do not manufacture losses, dates or retroactive wins.",
     "approved": false,
     "applied": false,
-    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding",
+    "latest_update": "Second-pass fact-check: see Batch-016-Fact-Check-Addendum.md; prior confidence/action superseded. All substantive changes remain held.",
+    "fact_check_addendum": "Batch-016-Fact-Check-Addendum.md"
   },
   {
     "id": "SR-139",
@@ -14337,6 +14364,2060 @@
         "replacement": "揶揄",
         "confidence": "High local copy support",
         "status": "HOLD; unapproved/unapplied"
+      }
+    ],
+    "batch017_update": "Horse-strength name骏马驰力蛊 recurs317p18. Earlier304p46 alternative name candidate remains moderate, not a proved universal standard.",
+    "latest_update": "Horse-strength name骏马驰力蛊 recurs317p18. Earlier304p46 alternative name candidate remains moderate, not a proved universal standard."
+  },
+  {
+    "id": "SR-140",
+    "category": "Liquor Worm retrospective scope",
+    "locations": [
+      {
+        "chapter": 121,
+        "paragraph": 62,
+        "file": "OEBPS/Text/chapter129.html"
+      },
+      {
+        "chapter": 122,
+        "paragraph": 11,
+        "file": "OEBPS/Text/chapter130.html"
+      },
+      {
+        "chapter": 145,
+        "paragraph": 28,
+        "file": "OEBPS/Text/chapter153.html"
+      },
+      {
+        "chapter": 239,
+        "paragraph": 20,
+        "file": "OEBPS/Text/chapter247.html"
+      },
+      {
+        "chapter": 326,
+        "paragraph": 22,
+        "file": "OEBPS/Text/chapter334.html"
+      },
+      {
+        "chapter": 326,
+        "paragraph": 23,
+        "file": "OEBPS/Text/chapter334.html"
+      }
+    ],
+    "recommended_action": "Prefer narrowing326p22 to 自从有了骨肉团圆蛊，四味酒虫就一直没有再动用，只是白白养着。 English candidate: Since obtaining Flesh-Bone Reunion Gu, he had left the Four-Flavour Liquor Worm unused, merely keeping it fed. Preserve its earlier Qing Mao use.",
+    "rationale": "326p22 literally anchors non-use to initial refinement;121/122/145 explicitly show use.239p20 and326p23 instead support redundancy after Reunion and access to Bai’s superior essence. External repost repeats both326 and121/145 evidence.",
+    "confidence": "High confidence in literal retrospective conflict; moderate-to-high confidence in narrower replacement scope.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "Exact onset of disuse remains unquantified; independent authorial witness unavailable. Do not claim it was never useful or that Four-Flavour refines Revolution Three essence.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-141",
+    "category": "Xin Ci festival-stage inconsistency",
+    "locations": [
+      {
+        "chapter": 309,
+        "paragraph": 68,
+        "file": "OEBPS/Text/chapter317.html"
+      },
+      {
+        "chapter": 327,
+        "paragraph": 33,
+        "file": "OEBPS/Text/chapter335.html"
+      },
+      {
+        "chapter": 328,
+        "paragraph": 9,
+        "file": "OEBPS/Text/chapter336.html"
+      },
+      {
+        "chapter": 329,
+        "paragraph": 29,
+        "file": "OEBPS/Text/chapter337.html"
+      }
+    ],
+    "recommended_action": "Provisionally prefer327p33 两转→一转 if no new advancement is established. Keep as a query until the possibility of an outdated brothers’ assessment at329p29 is excluded. Do not silently alter either source quotation.",
+    "rationale": "327 describes Two;329 describes One during the same festival outing, with no narrated change.309 One upper supports One. External repost repeats both readings.329 is embedded in the brothers’ evaluation and could be outdated knowledge rather than authoritative stage reporting.",
+    "confidence": "High confidence in located conflicting readings; moderate confidence in correcting327 rather than329.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "Later stage statements; viewpoint and any unshown advancement. Source inconsistency is not proof of a mistranslation.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-142",
+    "category": "Sun Yuan Hua: Chinese character variants",
+    "locations": [
+      {
+        "chapter": 334,
+        "paragraph": 22,
+        "file": "OEBPS/Text/chapter342.html"
+      },
+      {
+        "chapter": 334,
+        "paragraph": 26,
+        "file": "OEBPS/Text/chapter342.html"
+      },
+      {
+        "chapter": 334,
+        "paragraph": 28,
+        "file": "OEBPS/Text/chapter342.html"
+      },
+      {
+        "chapter": 334,
+        "paragraph": 30,
+        "file": "OEBPS/Text/chapter342.html"
+      },
+      {
+        "chapter": 334,
+        "paragraph": 38,
+        "file": "OEBPS/Text/chapter342.html"
+      },
+      {
+        "chapter": 334,
+        "paragraph": 43,
+        "file": "OEBPS/Text/chapter342.html"
+      },
+      {
+        "chapter": 334,
+        "paragraph": 44,
+        "file": "OEBPS/Text/chapter342.html"
+      },
+      {
+        "chapter": 334,
+        "paragraph": 46,
+        "file": "OEBPS/Text/chapter342.html"
+      },
+      {
+        "chapter": 334,
+        "paragraph": 96,
+        "file": "OEBPS/Text/chapter342.html"
+      },
+      {
+        "chapter": 335,
+        "paragraph": 18,
+        "file": "OEBPS/Text/chapter343.html"
+      },
+      {
+        "chapter": 335,
+        "paragraph": 27,
+        "file": "OEBPS/Text/chapter343.html"
+      },
+      {
+        "chapter": 336,
+        "paragraph": 48,
+        "file": "OEBPS/Text/chapter344.html"
+      }
+    ],
+    "recommended_action": "Provisional Chinese index spelling 孙元化; flag 孙元华 in334pp26/28/30/43/44/46 as variants. Keep English Sun Yuan Hua unchanged.",
+    "rationale": "Both names identify the same opponent in one uninterrupted duel.335 repeats化. External334 repost also alternates, so it does not establish an uncontested original spelling.",
+    "confidence": "High same-character identity and unchanged romanisation; moderate preferred Chinese standard.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "Further name occurrences and source collation; no blanket replacement of unrelated华 characters.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding",
+    "batch018_update": "336p48 again uses孙元化, strengthening the provisional Chinese index form. English Sun Yuan Hua remains unchanged.",
+    "latest_update": "336p48 again uses孙元化, strengthening the provisional Chinese index form. English Sun Yuan Hua remains unchanged."
+  },
+  {
+    "id": "SR-143",
+    "category": "Tripling versus three doublings: commercial wording",
+    "locations": [
+      {
+        "chapter": 322,
+        "paragraph": 65,
+        "file": "OEBPS/Text/chapter330.html"
+      },
+      {
+        "chapter": 323,
+        "paragraph": 15,
+        "file": "OEBPS/Text/chapter331.html"
+      },
+      {
+        "chapter": 324,
+        "paragraph": 36,
+        "file": "OEBPS/Text/chapter332.html"
+      },
+      {
+        "chapter": 324,
+        "paragraph": 38,
+        "file": "OEBPS/Text/chapter332.html"
+      },
+      {
+        "chapter": 325,
+        "paragraph": 1,
+        "file": "OEBPS/Text/chapter333.html"
+      },
+      {
+        "chapter": 325,
+        "paragraph": 2,
+        "file": "OEBPS/Text/chapter333.html"
+      },
+      {
+        "chapter": 326,
+        "paragraph": 67,
+        "file": "OEBPS/Text/chapter334.html"
+      },
+      {
+        "chapter": 327,
+        "paragraph": 41,
+        "file": "OEBPS/Text/chapter335.html"
+      },
+      {
+        "chapter": 333,
+        "paragraph": 72,
+        "file": "OEBPS/Text/chapter341.html"
+      }
+    ],
+    "recommended_action": "Render the stated result as tripled, or grew from100000 to300000. If Chinese emendation is chosen, use增至原来的三倍 for the relevant三番 wording. Distinguish200000 net profit from300000 closing capital; do not inflate holdings to800000.",
+    "rationale": "325p1 explicitly gives100000+10×20000=300000.324p38 says三倍. Standard three doublings would produce800000, but those are not the narrated accounts.327’s赚到三十万 is best kept as accumulated capital in this context, not an added300000 net profit.",
+    "confidence": "High arithmetic and intended commercial result; Chinese lexical repair remains editorial.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "Dictionary meaning researched; contextual numerical statements control. Do not globally replace番/倍 or treat every赚 as net profit.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-144",
+    "category": "Xiaodie Grade B aptitude, not cultivation",
+    "locations": [
+      {
+        "chapter": 325,
+        "paragraph": 21,
+        "file": "OEBPS/Text/chapter333.html"
+      }
+    ],
+    "recommended_action": "Prefer乙等修为→乙等资质. English: she had Grade B aptitude.",
+    "rationale": "The sentence discusses资质; A/B/C/D grades classify aptitude, not cultivation. External Chinese witness reads乙等资质 in the same sentence.",
+    "confidence": "High category distinction and attested alternate reading; authorial priority unestablished.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "Preserve EPUB reading in source companion and record variant provenance.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding",
+    "external_variant": "https://www.hetushu.com/book/7640/5345564.html"
+  },
+  {
+    "id": "SR-145",
+    "category": "Zhou Quan upper versus peak: unshown restoration query",
+    "locations": [
+      {
+        "chapter": 325,
+        "paragraph": 29,
+        "file": "OEBPS/Text/chapter333.html"
+      },
+      {
+        "chapter": 327,
+        "paragraph": 87,
+        "file": "OEBPS/Text/chapter335.html"
+      },
+      {
+        "chapter": 332,
+        "paragraph": 5,
+        "file": "OEBPS/Text/chapter340.html"
+      },
+      {
+        "chapter": 332,
+        "paragraph": 65,
+        "file": "OEBPS/Text/chapter340.html"
+      }
+    ],
+    "recommended_action": "Retain both readings for now. Track325 Three upper versus332 Three peak; select no numerical replacement.",
+    "rationale": "XinCi reports a fall fromFour toThreeupper; later narration says stillThreepeak. Time passes and recovery/advancement may be unshown. The first statement is character information, not automatically infallible narration. External332 witness corroboratespeak as transmitted wording only.",
+    "confidence": "High quotation accuracy; low-to-moderate inconsistency diagnosis.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "More evidence of restoration or earlier stage; do not confuse current100-plus age with his40–50 age at reachingFour.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-146",
+    "category": "Individual copy and naming candidates",
+    "locations": [
+      {
+        "chapter": 316,
+        "paragraph": 3,
+        "file": "OEBPS/Text/chapter324.html"
+      },
+      {
+        "chapter": 316,
+        "paragraph": 89,
+        "file": "OEBPS/Text/chapter324.html"
+      },
+      {
+        "chapter": 316,
+        "paragraph": 100,
+        "file": "OEBPS/Text/chapter324.html"
+      },
+      {
+        "chapter": 316,
+        "paragraph": 104,
+        "file": "OEBPS/Text/chapter324.html"
+      },
+      {
+        "chapter": 317,
+        "paragraph": 4,
+        "file": "OEBPS/Text/chapter325.html"
+      },
+      {
+        "chapter": 317,
+        "paragraph": 14,
+        "file": "OEBPS/Text/chapter325.html"
+      },
+      {
+        "chapter": 317,
+        "paragraph": 42,
+        "file": "OEBPS/Text/chapter325.html"
+      },
+      {
+        "chapter": 317,
+        "paragraph": 50,
+        "file": "OEBPS/Text/chapter325.html"
+      },
+      {
+        "chapter": 317,
+        "paragraph": 77,
+        "file": "OEBPS/Text/chapter325.html"
+      },
+      {
+        "chapter": 317,
+        "paragraph": 87,
+        "file": "OEBPS/Text/chapter325.html"
+      },
+      {
+        "chapter": 317,
+        "paragraph": 88,
+        "file": "OEBPS/Text/chapter325.html"
+      },
+      {
+        "chapter": 318,
+        "paragraph": 38,
+        "file": "OEBPS/Text/chapter326.html"
+      },
+      {
+        "chapter": 318,
+        "paragraph": 47,
+        "file": "OEBPS/Text/chapter326.html"
+      },
+      {
+        "chapter": 318,
+        "paragraph": 56,
+        "file": "OEBPS/Text/chapter326.html"
+      },
+      {
+        "chapter": 318,
+        "paragraph": 85,
+        "file": "OEBPS/Text/chapter326.html"
+      },
+      {
+        "chapter": 318,
+        "paragraph": 88,
+        "file": "OEBPS/Text/chapter326.html"
+      },
+      {
+        "chapter": 319,
+        "paragraph": 18,
+        "file": "OEBPS/Text/chapter327.html"
+      },
+      {
+        "chapter": 319,
+        "paragraph": 39,
+        "file": "OEBPS/Text/chapter327.html"
+      },
+      {
+        "chapter": 319,
+        "paragraph": 48,
+        "file": "OEBPS/Text/chapter327.html"
+      },
+      {
+        "chapter": 319,
+        "paragraph": 94,
+        "file": "OEBPS/Text/chapter327.html"
+      },
+      {
+        "chapter": 320,
+        "paragraph": 24,
+        "file": "OEBPS/Text/chapter328.html"
+      },
+      {
+        "chapter": 320,
+        "paragraph": 95,
+        "file": "OEBPS/Text/chapter328.html"
+      },
+      {
+        "chapter": 321,
+        "paragraph": 28,
+        "file": "OEBPS/Text/chapter329.html"
+      },
+      {
+        "chapter": 321,
+        "paragraph": 44,
+        "file": "OEBPS/Text/chapter329.html"
+      },
+      {
+        "chapter": 321,
+        "paragraph": 60,
+        "file": "OEBPS/Text/chapter329.html"
+      },
+      {
+        "chapter": 322,
+        "paragraph": 15,
+        "file": "OEBPS/Text/chapter330.html"
+      },
+      {
+        "chapter": 322,
+        "paragraph": 29,
+        "file": "OEBPS/Text/chapter330.html"
+      },
+      {
+        "chapter": 322,
+        "paragraph": 38,
+        "file": "OEBPS/Text/chapter330.html"
+      },
+      {
+        "chapter": 322,
+        "paragraph": 57,
+        "file": "OEBPS/Text/chapter330.html"
+      },
+      {
+        "chapter": 323,
+        "paragraph": 6,
+        "file": "OEBPS/Text/chapter331.html"
+      },
+      {
+        "chapter": 323,
+        "paragraph": 41,
+        "file": "OEBPS/Text/chapter331.html"
+      },
+      {
+        "chapter": 323,
+        "paragraph": 66,
+        "file": "OEBPS/Text/chapter331.html"
+      },
+      {
+        "chapter": 324,
+        "paragraph": 13,
+        "file": "OEBPS/Text/chapter332.html"
+      },
+      {
+        "chapter": 324,
+        "paragraph": 18,
+        "file": "OEBPS/Text/chapter332.html"
+      },
+      {
+        "chapter": 324,
+        "paragraph": 24,
+        "file": "OEBPS/Text/chapter332.html"
+      },
+      {
+        "chapter": 324,
+        "paragraph": 65,
+        "file": "OEBPS/Text/chapter332.html"
+      },
+      {
+        "chapter": 325,
+        "paragraph": 3,
+        "file": "OEBPS/Text/chapter333.html"
+      },
+      {
+        "chapter": 325,
+        "paragraph": 39,
+        "file": "OEBPS/Text/chapter333.html"
+      },
+      {
+        "chapter": 325,
+        "paragraph": 55,
+        "file": "OEBPS/Text/chapter333.html"
+      },
+      {
+        "chapter": 326,
+        "paragraph": 1,
+        "file": "OEBPS/Text/chapter334.html"
+      },
+      {
+        "chapter": 326,
+        "paragraph": 22,
+        "file": "OEBPS/Text/chapter334.html"
+      },
+      {
+        "chapter": 326,
+        "paragraph": 49,
+        "file": "OEBPS/Text/chapter334.html"
+      },
+      {
+        "chapter": 327,
+        "paragraph": 66,
+        "file": "OEBPS/Text/chapter335.html"
+      },
+      {
+        "chapter": 327,
+        "paragraph": 69,
+        "file": "OEBPS/Text/chapter335.html"
+      },
+      {
+        "chapter": 327,
+        "paragraph": 90,
+        "file": "OEBPS/Text/chapter335.html"
+      },
+      {
+        "chapter": 328,
+        "paragraph": 5,
+        "file": "OEBPS/Text/chapter336.html"
+      },
+      {
+        "chapter": 328,
+        "paragraph": 22,
+        "file": "OEBPS/Text/chapter336.html"
+      },
+      {
+        "chapter": 328,
+        "paragraph": 26,
+        "file": "OEBPS/Text/chapter336.html"
+      },
+      {
+        "chapter": 328,
+        "paragraph": 47,
+        "file": "OEBPS/Text/chapter336.html"
+      },
+      {
+        "chapter": 328,
+        "paragraph": 58,
+        "file": "OEBPS/Text/chapter336.html"
+      },
+      {
+        "chapter": 328,
+        "paragraph": 75,
+        "file": "OEBPS/Text/chapter336.html"
+      },
+      {
+        "chapter": 329,
+        "paragraph": 25,
+        "file": "OEBPS/Text/chapter337.html"
+      },
+      {
+        "chapter": 329,
+        "paragraph": 31,
+        "file": "OEBPS/Text/chapter337.html"
+      },
+      {
+        "chapter": 329,
+        "paragraph": 54,
+        "file": "OEBPS/Text/chapter337.html"
+      },
+      {
+        "chapter": 330,
+        "paragraph": 18,
+        "file": "OEBPS/Text/chapter338.html"
+      },
+      {
+        "chapter": 330,
+        "paragraph": 22,
+        "file": "OEBPS/Text/chapter338.html"
+      },
+      {
+        "chapter": 330,
+        "paragraph": 27,
+        "file": "OEBPS/Text/chapter338.html"
+      },
+      {
+        "chapter": 330,
+        "paragraph": 35,
+        "file": "OEBPS/Text/chapter338.html"
+      },
+      {
+        "chapter": 330,
+        "paragraph": 39,
+        "file": "OEBPS/Text/chapter338.html"
+      },
+      {
+        "chapter": 330,
+        "paragraph": 52,
+        "file": "OEBPS/Text/chapter338.html"
+      },
+      {
+        "chapter": 330,
+        "paragraph": 69,
+        "file": "OEBPS/Text/chapter338.html"
+      },
+      {
+        "chapter": 330,
+        "paragraph": 77,
+        "file": "OEBPS/Text/chapter338.html"
+      },
+      {
+        "chapter": 331,
+        "paragraph": 11,
+        "file": "OEBPS/Text/chapter339.html"
+      },
+      {
+        "chapter": 331,
+        "paragraph": 26,
+        "file": "OEBPS/Text/chapter339.html"
+      },
+      {
+        "chapter": 331,
+        "paragraph": 35,
+        "file": "OEBPS/Text/chapter339.html"
+      },
+      {
+        "chapter": 331,
+        "paragraph": 67,
+        "file": "OEBPS/Text/chapter339.html"
+      },
+      {
+        "chapter": 331,
+        "paragraph": 71,
+        "file": "OEBPS/Text/chapter339.html"
+      },
+      {
+        "chapter": 331,
+        "paragraph": 78,
+        "file": "OEBPS/Text/chapter339.html"
+      },
+      {
+        "chapter": 332,
+        "paragraph": 23,
+        "file": "OEBPS/Text/chapter340.html"
+      },
+      {
+        "chapter": 332,
+        "paragraph": 24,
+        "file": "OEBPS/Text/chapter340.html"
+      },
+      {
+        "chapter": 332,
+        "paragraph": 35,
+        "file": "OEBPS/Text/chapter340.html"
+      },
+      {
+        "chapter": 332,
+        "paragraph": 84,
+        "file": "OEBPS/Text/chapter340.html"
+      },
+      {
+        "chapter": 333,
+        "paragraph": 14,
+        "file": "OEBPS/Text/chapter341.html"
+      },
+      {
+        "chapter": 333,
+        "paragraph": 40,
+        "file": "OEBPS/Text/chapter341.html"
+      },
+      {
+        "chapter": 333,
+        "paragraph": 42,
+        "file": "OEBPS/Text/chapter341.html"
+      },
+      {
+        "chapter": 333,
+        "paragraph": 73,
+        "file": "OEBPS/Text/chapter341.html"
+      },
+      {
+        "chapter": 334,
+        "paragraph": 21,
+        "file": "OEBPS/Text/chapter342.html"
+      },
+      {
+        "chapter": 334,
+        "paragraph": 35,
+        "file": "OEBPS/Text/chapter342.html"
+      },
+      {
+        "chapter": 334,
+        "paragraph": 69,
+        "file": "OEBPS/Text/chapter342.html"
+      },
+      {
+        "chapter": 334,
+        "paragraph": 84,
+        "file": "OEBPS/Text/chapter342.html"
+      },
+      {
+        "chapter": 335,
+        "paragraph": 9,
+        "file": "OEBPS/Text/chapter343.html"
+      },
+      {
+        "chapter": 335,
+        "paragraph": 52,
+        "file": "OEBPS/Text/chapter343.html"
+      },
+      {
+        "chapter": 335,
+        "paragraph": 54,
+        "file": "OEBPS/Text/chapter343.html"
+      }
+    ],
+    "recommended_action": "Review each candidate separately; preserve quotations and numbering. These are not approved edits or claims of live English mistranslation.",
+    "rationale": "Located wrong characters, missing words, local naming variants and contextual reconstructions. Literary diction, word order and the person-versus-place reference remain conditional.",
+    "confidence": "High local support for mechanical slips; moderate reconstruction and terminology items explicitly marked.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "Independent witnesses for each candidate not yet exhaustively collated; do not treat the bundle as certified. Reopen any plausible literary or viewpoint reading.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding",
+    "copy_items": [
+      {
+        "chapter": 316,
+        "paragraph": 3,
+        "original": "在吃之前",
+        "replacement": "在此之前",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 316,
+        "paragraph": 89,
+        "original": "没用动用",
+        "replacement": "没有动用",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 316,
+        "paragraph": 100,
+        "original": "能继续力气",
+        "replacement": "能积蓄力气",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 316,
+        "paragraph": 104,
+        "original": "手掌着劈砍",
+        "replacement": "手掌则劈砍",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 317,
+        "paragraph": 4,
+        "original": "一根接着一根石林",
+        "replacement": "一根接着一根石柱",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 317,
+        "paragraph": 14,
+        "original": "野兽石嘶吼",
+        "replacement": "野兽嘶吼",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 317,
+        "paragraph": 42,
+        "original": "局面板回来",
+        "replacement": "局面扳回来",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 317,
+        "paragraph": 50,
+        "original": "抓住稍纵即逝",
+        "replacement": "抓住稍纵即逝的战机",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 317,
+        "paragraph": 77,
+        "original": "方源战在",
+        "replacement": "方源站在",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 317,
+        "paragraph": 87,
+        "original": "不堪回事",
+        "replacement": "不堪回首",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 317,
+        "paragraph": 88,
+        "original": "倾述",
+        "replacement": "倾诉",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 318,
+        "paragraph": 38,
+        "original": "连续撞到数根",
+        "replacement": "连续撞倒数根",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 318,
+        "paragraph": 47,
+        "original": "咬牙巨臂",
+        "replacement": "咬牙举臂",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 318,
+        "paragraph": 56,
+        "original": "兼并灵活",
+        "replacement": "兼具灵活",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 318,
+        "paragraph": 85,
+        "original": "被剥削了少主之位",
+        "replacement": "被剥夺了少主之位",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 318,
+        "paragraph": 88,
+        "original": "现在有是",
+        "replacement": "现在又是",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 319,
+        "paragraph": 18,
+        "original": "毫无疑外",
+        "replacement": "毫无意外",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 319,
+        "paragraph": 39,
+        "original": "龙形虎步蛊",
+        "replacement": "龙行虎步蛊",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 319,
+        "paragraph": 48,
+        "original": "坚固卓绝",
+        "replacement": "艰苦卓绝",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 319,
+        "paragraph": 94,
+        "original": "有开始",
+        "replacement": "又开始",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 320,
+        "paragraph": 24,
+        "original": "伸手向着轻轻一指",
+        "replacement": "伸手向前轻轻一指",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 320,
+        "paragraph": 95,
+        "original": "还有使用",
+        "replacement": "还要使用",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 321,
+        "paragraph": 28,
+        "original": "从另个方面",
+        "replacement": "从另一个方面",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 321,
+        "paragraph": 44,
+        "original": "许多人心起伏不定",
+        "replacement": "许多人人心起伏不定",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 321,
+        "paragraph": 60,
+        "original": "茶钱饭后",
+        "replacement": "茶余饭后",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 322,
+        "paragraph": 15,
+        "original": "脸色有阴沉",
+        "replacement": "脸色又阴沉",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 322,
+        "paragraph": 29,
+        "original": "一只商队",
+        "replacement": "一支商队",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 322,
+        "paragraph": 38,
+        "original": "考研一个",
+        "replacement": "考验一个",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 322,
+        "paragraph": 57,
+        "original": "我还有特别关照",
+        "replacement": "我还要特别关照",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 323,
+        "paragraph": 6,
+        "original": "瓢盆满钵",
+        "replacement": "盆满钵满",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 323,
+        "paragraph": 41,
+        "original": "心中不禁没有喜感",
+        "replacement": "心中不仅没有喜感",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 323,
+        "paragraph": 66,
+        "original": "忽然发出异变",
+        "replacement": "忽然发生异变",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 324,
+        "paragraph": 13,
+        "original": "自然不能对待寻常属下一样对待他",
+        "replacement": "自然不能像对待寻常属下一样对待他",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 324,
+        "paragraph": 18,
+        "original": "要什么做",
+        "replacement": "要怎么做",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 324,
+        "paragraph": 24,
+        "original": "大量收购这三只蛊",
+        "replacement": "大量收购这三种蛊",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 324,
+        "paragraph": 65,
+        "original": "彻底拔出",
+        "replacement": "彻底拔除",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 325,
+        "paragraph": 3,
+        "original": "瓢盆满钵",
+        "replacement": "盆满钵满",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 325,
+        "paragraph": 39,
+        "original": "南疆地域山",
+        "replacement": "南疆地域多山",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 325,
+        "paragraph": 55,
+        "original": "被三王得益",
+        "replacement": "被三王利用",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 326,
+        "paragraph": 1,
+        "original": "三叉山一代",
+        "replacement": "三叉山一带",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 326,
+        "paragraph": 22,
+        "original": "没有在动用",
+        "replacement": "没有再动用",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 326,
+        "paragraph": 49,
+        "original": "时间一天天，",
+        "replacement": "时间一天天过去，",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 327,
+        "paragraph": 66,
+        "original": "笑魇如花",
+        "replacement": "笑靥如花",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 327,
+        "paragraph": 69,
+        "original": "茁长成长",
+        "replacement": "茁壮成长",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 327,
+        "paragraph": 90,
+        "original": "他的死心",
+        "replacement": "他的私心",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 328,
+        "paragraph": 5,
+        "original": "我在来出手",
+        "replacement": "我再来出手",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 328,
+        "paragraph": 22,
+        "original": "离开商心慈",
+        "replacement": "离开商家城",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 328,
+        "paragraph": 26,
+        "original": "坐上起去",
+        "replacement": "坐上去",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 328,
+        "paragraph": 47,
+        "original": "他有流露出",
+        "replacement": "他又流露出",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 328,
+        "paragraph": 58,
+        "original": "触及道",
+        "replacement": "触及到",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 328,
+        "paragraph": 75,
+        "original": "俯下身之",
+        "replacement": "俯下身子",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 329,
+        "paragraph": 25,
+        "original": "兄弟有长眼",
+        "replacement": "兄弟不长眼",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 329,
+        "paragraph": 31,
+        "original": "就说话的人",
+        "replacement": "将说话的人",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 329,
+        "paragraph": 54,
+        "original": "生出手来",
+        "replacement": "伸出手来",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 330,
+        "paragraph": 18,
+        "original": "方源本来",
+        "replacement": "方源本人",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 330,
+        "paragraph": 22,
+        "original": "凶煞恶煞",
+        "replacement": "凶神恶煞",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 330,
+        "paragraph": 27,
+        "original": "商家城；里",
+        "replacement": "商家城里",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 330,
+        "paragraph": 35,
+        "original": "无暇的陶瓷",
+        "replacement": "无瑕的陶瓷",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 330,
+        "paragraph": 39,
+        "original": "才能解读",
+        "replacement": "才能解毒",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 330,
+        "paragraph": 52,
+        "original": "手续有都",
+        "replacement": "手续又都",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 330,
+        "paragraph": 69,
+        "original": "扇飞取出",
+        "replacement": "扇飞出去",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 330,
+        "paragraph": 77,
+        "original": "咬了咬，",
+        "replacement": "咬了咬牙，",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 331,
+        "paragraph": 11,
+        "original": "震摄",
+        "replacement": "震慑",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 331,
+        "paragraph": 26,
+        "original": "震摄",
+        "replacement": "震慑",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 331,
+        "paragraph": 35,
+        "original": "卷席而去",
+        "replacement": "席卷而去",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 331,
+        "paragraph": 67,
+        "original": "中原",
+        "replacement": "中洲",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 331,
+        "paragraph": 71,
+        "original": "重生一来",
+        "replacement": "重生以来",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 331,
+        "paragraph": 78,
+        "original": "负责的家",
+        "replacement": "的家",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 332,
+        "paragraph": 23,
+        "original": "惊魂失措",
+        "replacement": "惊慌失措",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 332,
+        "paragraph": 24,
+        "original": "给他再一个胆子",
+        "replacement": "再给他一个胆子",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 332,
+        "paragraph": 35,
+        "original": "竭力竭声",
+        "replacement": "竭力嘶声",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 332,
+        "paragraph": 84,
+        "original": "紫金令牌",
+        "replacement": "紫荆令牌",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 333,
+        "paragraph": 14,
+        "original": "相反设法",
+        "replacement": "想方设法",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 333,
+        "paragraph": 40,
+        "original": "倾述",
+        "replacement": "倾诉",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 333,
+        "paragraph": 42,
+        "original": "不再现场",
+        "replacement": "不在现场",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 333,
+        "paragraph": 73,
+        "original": "严密周瑾",
+        "replacement": "严密周谨",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 334,
+        "paragraph": 21,
+        "original": "众人对紧紧地",
+        "replacement": "众人都紧紧地",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 334,
+        "paragraph": 35,
+        "original": "天资纵横",
+        "replacement": "天资卓绝",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 334,
+        "paragraph": 69,
+        "original": "两只鹤群",
+        "replacement": "两支鹤群",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 334,
+        "paragraph": 84,
+        "original": "勾勒起了",
+        "replacement": "勾起了",
+        "confidence": "Moderate: contextual reconstruction or diction; collate and test counter-reading",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 335,
+        "paragraph": 9,
+        "original": "不问出生",
+        "replacement": "不问出身",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 335,
+        "paragraph": 52,
+        "original": "必经之力",
+        "replacement": "必经之路",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      },
+      {
+        "chapter": 335,
+        "paragraph": 54,
+        "original": "壮年成为",
+        "replacement": "壮年称为",
+        "confidence": "High local copy support; external collation still pending",
+        "status": "HOLD; unapproved/unapplied"
+      }
+    ]
+  },
+  {
+    "id": "SR-147",
+    "category": "Blessed-land clock conversion reversed",
+    "locations": [
+      {
+        "chapter": 346,
+        "paragraph": 26,
+        "file": "OEBPS/Text/chapter354.html"
+      },
+      {
+        "chapter": 346,
+        "paragraph": 28,
+        "file": "OEBPS/Text/chapter354.html"
+      },
+      {
+        "chapter": 346,
+        "paragraph": 32,
+        "file": "OEBPS/Text/chapter354.html"
+      },
+      {
+        "chapter": 355,
+        "paragraph": 12,
+        "file": "OEBPS/Text/chapter363.html"
+      },
+      {
+        "chapter": 355,
+        "paragraph": 19,
+        "file": "OEBPS/Text/chapter363.html"
+      },
+      {
+        "chapter": 355,
+        "paragraph": 28,
+        "file": "OEBPS/Text/chapter363.html"
+      }
+    ],
+    "recommended_action": "Preferred local repair to346p32: 在这里过去三天，外界才过去一天。 English candidate: Three days here are only one day outside. Retain the faster internal clock, not the reversed conversion.",
+    "rationale": "346p26 and355p19 explicitly give internal rate three times the outside rate;346p32 instead equates one inside day with three outside days. The Cicada recovering faster is consistent with the stated rate, not that conversion. External346 repeats the inverse wording.",
+    "confidence": "High confidence in the local inversion; high local support for reversing the day conversion, but no whole-novel timeline certification.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "Track inner elapsed time, outer elapsed time and Cicada recovery separately.355 more-than-one-month since exit and reported two-month siege must be reconciled without inventing a precise duration of the first inheritance visit. Approximate durations and unquantified gaps do not by themselves prove a second contradiction.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-148",
+    "category": "Three Kings duration: first clearance versus total event",
+    "locations": [
+      {
+        "chapter": 323,
+        "paragraph": 89,
+        "file": "OEBPS/Text/chapter331.html"
+      },
+      {
+        "chapter": 347,
+        "paragraph": 22,
+        "file": "OEBPS/Text/chapter355.html"
+      }
+    ],
+    "recommended_action": "Retain both durations pending scope clarification: over half a year until someone first reached the end and obtained inheritance; nearly ten years for the former-life Three Kings inheritance episode. Do not replace ten years with half a year automatically.",
+    "rationale": "The literal durations differ, but323 explicitly dates a first successful clearance while347 can describe the overall episode. One milestone need not end every inheritance route or related contest. Both readings are externally attested in the checked repost.",
+    "confidence": "High quotation confidence; low confidence that this is an actual contradiction rather than different milestones.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "Later chronological anchors, closure of all three routes and former-life history. If the intended milestones prove identical, reopen which duration to repair. No unsupported ten-to-one-year emendation.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-149",
+    "category": "Round-ten dog census: eighteen becomes nineteen",
+    "locations": [
+      {
+        "chapter": 347,
+        "paragraph": 8,
+        "file": "OEBPS/Text/chapter355.html"
+      },
+      {
+        "chapter": 347,
+        "paragraph": 10,
+        "file": "OEBPS/Text/chapter355.html"
+      },
+      {
+        "chapter": 347,
+        "paragraph": 39,
+        "file": "OEBPS/Text/chapter355.html"
+      },
+      {
+        "chapter": 347,
+        "paragraph": 81,
+        "file": "OEBPS/Text/chapter355.html"
+      },
+      {
+        "chapter": 347,
+        "paragraph": 86,
+        "file": "OEBPS/Text/chapter355.html"
+      },
+      {
+        "chapter": 348,
+        "paragraph": 3,
+        "file": "OEBPS/Text/chapter356.html"
+      },
+      {
+        "chapter": 348,
+        "paragraph": 18,
+        "file": "OEBPS/Text/chapter356.html"
+      },
+      {
+        "chapter": 348,
+        "paragraph": 32,
+        "file": "OEBPS/Text/chapter356.html"
+      },
+      {
+        "chapter": 348,
+        "paragraph": 35,
+        "file": "OEBPS/Text/chapter356.html"
+      },
+      {
+        "chapter": 348,
+        "paragraph": 37,
+        "file": "OEBPS/Text/chapter356.html"
+      }
+    ],
+    "recommended_action": "Hold an explicit census query. Preserve27−9=18 as the initial branch and19−12=7 as the later branch; flag the unreported extra dog between them. No single replacement selected.",
+    "rationale": "347 states eighteen survivors and27−9, then repeatedly uses nineteen, including an eight-dog advantage over eleven.348 confirms the nineteen branch with twelve losses and seven survivors. An unreported acquisition is possible but cannot be supplied as fact. External347 repeats both branches.",
+    "confidence": "High confidence in the count discontinuity; low-to-moderate confidence in choosing which starting figure, loss or survivor figure should change.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "If choosing nineteen survivors, initial27 or loss9 also needs reconciliation. If choosing eighteen, later loss and advantage statements must be checked.348 eight attackers versus seven after the death struggle is a separate retrospective-count ambiguity, not another silently corrected dog.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-150",
+    "category": "Tie elders: Three peak versus Four middle",
+    "locations": [
+      {
+        "chapter": 352,
+        "paragraph": 28,
+        "file": "OEBPS/Text/chapter360.html"
+      },
+      {
+        "chapter": 353,
+        "paragraph": 77,
+        "file": "OEBPS/Text/chapter361.html"
+      },
+      {
+        "chapter": 354,
+        "paragraph": 7,
+        "file": "OEBPS/Text/chapter362.html"
+      },
+      {
+        "chapter": 354,
+        "paragraph": 14,
+        "file": "OEBPS/Text/chapter362.html"
+      }
+    ],
+    "recommended_action": "Provisionally prefer352p28 四位三转巅峰→四位四转中阶. English candidate: four Revolution Four middle-stage Gu Masters.",
+    "rationale": "The same four besiegers are explicitly Four middle at353p77 and again354p14; Bai distinguishes her own Four initial from them.352 Three peak conflicts with that later account. External352/353/354 repeat the differing descriptions.",
+    "confidence": "High confidence in a local stage discrepancy; moderate-to-high confidence in correcting352 rather than later repeated descriptions.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "352 is within an informant account, so inaccurate information remains an alternative. Do not change every historical reference to Tie elders or claim a corrected authorial edition was found.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-151",
+    "category": "Unnamed informant: Three then Two",
+    "locations": [
+      {
+        "chapter": 352,
+        "paragraph": 41,
+        "file": "OEBPS/Text/chapter360.html"
+      },
+      {
+        "chapter": 352,
+        "paragraph": 44,
+        "file": "OEBPS/Text/chapter360.html"
+      },
+      {
+        "chapter": 352,
+        "paragraph": 57,
+        "file": "OEBPS/Text/chapter360.html"
+      }
+    ],
+    "recommended_action": "Provisionally prefer352p41 三转蛊师→二转蛊师. English candidate: the Revolution Two Gu Master.",
+    "rationale": "One captive is called Three, then Two during the same uninterrupted encounter. Later comments identify his Gu as Two, which supports but does not prove his cultivation stage. The external witness repeats the inconsistency.",
+    "confidence": "High confidence in the two contradictory stage labels; moderate confidence in preferring Two.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "A higher-Revolution master may own lower-Revolution Gu, so Gu level alone must not decide. No advancement, disguise or identity switch is supplied in this immediate scene.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-152",
+    "category": "Six Revolution Four Gu: missing Giant Spirit Will query",
+    "locations": [
+      {
+        "chapter": 319,
+        "paragraph": 75,
+        "file": "OEBPS/Text/chapter327.html"
+      },
+      {
+        "chapter": 319,
+        "paragraph": 76,
+        "file": "OEBPS/Text/chapter327.html"
+      },
+      {
+        "chapter": 321,
+        "paragraph": 32,
+        "file": "OEBPS/Text/chapter329.html"
+      },
+      {
+        "chapter": 345,
+        "paragraph": 11,
+        "file": "OEBPS/Text/chapter353.html"
+      }
+    ],
+    "recommended_action": "Retain six as quoted, but flag the apparently exhaustive list. Check whether Giant Spirit Will was sold, transferred or otherwise removed before345. Do not add a seventh Gu or invent its sale yet.",
+    "rationale": "Giant Spirit Will is part of the Three Revolution Four Giant Spirit Gu set319 and was claimed from Ju Kai Bei321. It is absent from345’s six-item Four inventory. No intervening disposition has been located in the sequentially read material.",
+    "confidence": "High confidence in acquisition and omission; moderate confidence in an actual inventory error because an unreported disposition remains possible.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "Later ownership, transactions and meaning of 手中 here. A proposed seven-item inventory would require adding the missing name, not changing only the numeral. External345 repeats six, not an attested corrected list.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-153",
+    "category": "All-Out Effort limit versus upgraded beast strength",
+    "locations": [
+      {
+        "chapter": 345,
+        "paragraph": 19,
+        "file": "OEBPS/Text/chapter353.html"
+      },
+      {
+        "chapter": 345,
+        "paragraph": 31,
+        "file": "OEBPS/Text/chapter353.html"
+      },
+      {
+        "chapter": 345,
+        "paragraph": 32,
+        "file": "OEBPS/Text/chapter353.html"
+      },
+      {
+        "chapter": 353,
+        "paragraph": 59,
+        "file": "OEBPS/Text/chapter361.html"
+      },
+      {
+        "chapter": 353,
+        "paragraph": 68,
+        "file": "OEBPS/Text/chapter361.html"
+      },
+      {
+        "chapter": 353,
+        "paragraph": 71,
+        "file": "OEBPS/Text/chapter361.html"
+      }
+    ],
+    "recommended_action": "Preserve both passages and query the scope of345p19. If later mechanics support a distinction, candidate wording could restrict the limitation to fully manifesting higher-level beast phantoms, not acquiring stronger bodily force. Do not insert an unreported All-Out Effort upgrade.",
+    "rationale": "345 says the Three Gu can activate only Three beast phantoms and postpones its Four upgrade.353 nevertheless uses All-Out Effort during Thunder Boar refinement, completes Thunder Boar and Rock Crocodile strength, and states a combat increase. Forging bodily strength and later manifesting its full power may be different operations.",
+    "confidence": "High confidence in the textual tension; low-to-moderate confidence that a correction is required.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "Actual later deployment, phantom classifications and the relation between bodily force and activation. A successful refinement does not alone establish that the Gu already activates a Four phantom at full combat output.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-154",
+    "category": "Wu clan elder: Tong Shen versus Shen Tong",
+    "locations": [
+      {
+        "chapter": 326,
+        "paragraph": 51,
+        "file": "OEBPS/Text/chapter334.html"
+      },
+      {
+        "chapter": 339,
+        "paragraph": 47,
+        "file": "OEBPS/Text/chapter347.html"
+      },
+      {
+        "chapter": 345,
+        "paragraph": 55,
+        "file": "OEBPS/Text/chapter353.html"
+      },
+      {
+        "chapter": 345,
+        "paragraph": 69,
+        "file": "OEBPS/Text/chapter353.html"
+      },
+      {
+        "chapter": 355,
+        "paragraph": 36,
+        "file": "OEBPS/Text/chapter363.html"
+      }
+    ],
+    "recommended_action": "Provisionally standardise the same Wu elder as 武神通 / Wu Shen Tong. Flag326p51 武通神 as a transposed-name candidate.",
+    "rationale": "326 introduces the Wu Four elder countering Long Qing Tian as Wu Tong Shen.339/345 and355 repeatedly call the matching Wu leader Wu Shen Tong in the same Three Kings contest.",
+    "confidence": "High referential support; moderate-to-high confidence in correcting the earlier transposition.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "Do not infer that every similar name is identical across the novel. Authorial master unavailable; keep original quotations intact and distinguish romanisation change from a stylistic preference.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding"
+  },
+  {
+    "id": "SR-155",
+    "category": "Individually held copy and Gu-name candidates",
+    "locations": [
+      {
+        "chapter": 339,
+        "paragraph": 47,
+        "file": "OEBPS/Text/chapter347.html"
+      },
+      {
+        "chapter": 341,
+        "paragraph": 7,
+        "file": "OEBPS/Text/chapter349.html"
+      },
+      {
+        "chapter": 343,
+        "paragraph": 13,
+        "file": "OEBPS/Text/chapter351.html"
+      },
+      {
+        "chapter": 344,
+        "paragraph": 11,
+        "file": "OEBPS/Text/chapter352.html"
+      },
+      {
+        "chapter": 345,
+        "paragraph": 5,
+        "file": "OEBPS/Text/chapter353.html"
+      },
+      {
+        "chapter": 345,
+        "paragraph": 8,
+        "file": "OEBPS/Text/chapter353.html"
+      },
+      {
+        "chapter": 345,
+        "paragraph": 11,
+        "file": "OEBPS/Text/chapter353.html"
+      },
+      {
+        "chapter": 347,
+        "paragraph": 22,
+        "file": "OEBPS/Text/chapter355.html"
+      },
+      {
+        "chapter": 351,
+        "paragraph": 90,
+        "file": "OEBPS/Text/chapter359.html"
+      },
+      {
+        "chapter": 352,
+        "paragraph": 49,
+        "file": "OEBPS/Text/chapter360.html"
+      },
+      {
+        "chapter": 353,
+        "paragraph": 45,
+        "file": "OEBPS/Text/chapter361.html"
+      },
+      {
+        "chapter": 354,
+        "paragraph": 29,
+        "file": "OEBPS/Text/chapter362.html"
+      },
+      {
+        "chapter": 354,
+        "paragraph": 40,
+        "file": "OEBPS/Text/chapter362.html"
+      },
+      {
+        "chapter": 354,
+        "paragraph": 42,
+        "file": "OEBPS/Text/chapter362.html"
+      },
+      {
+        "chapter": 355,
+        "paragraph": 10,
+        "file": "OEBPS/Text/chapter363.html"
+      },
+      {
+        "chapter": 355,
+        "paragraph": 12,
+        "file": "OEBPS/Text/chapter363.html"
+      },
+      {
+        "chapter": 355,
+        "paragraph": 26,
+        "file": "OEBPS/Text/chapter363.html"
+      },
+      {
+        "chapter": 355,
+        "paragraph": 60,
+        "file": "OEBPS/Text/chapter363.html"
+      }
+    ],
+    "recommended_action": "Review each listed candidate separately. Preserve original source and numbering. No collective approval or claim of live English mistranslation.",
+    "rationale": "Duplicate words, likely wrong characters, grammatical particles and contextual Gu-name reconstructions. Unusual literary diction is not sufficient grounds for alteration.",
+    "confidence": "High local support for simple mechanical slips; moderate items identified individually.",
+    "status": "Provisional proposal or query; no approval",
+    "dependencies": "All18 copy fragments were checked against one repost tradition: seventeen repeat the EPUB fragment;354p29 attests the proposed未 variant. This is not independent authorial verification. 精铁蛊 could be an abbreviated name rather than an error; expanded form improves reference only if abbreviation is not intended. Reopen contextual reconstructions.",
+    "approved": false,
+    "applied": false,
+    "publication_status": "HOLD: full2334-chapter reading and global reconciliation outstanding",
+    "copy_items": [
+      {
+        "chapter": 339,
+        "paragraph": 47,
+        "original": "都能能",
+        "replacement": "都能",
+        "confidence": "High local copy support; repost collation recorded, authorial priority unknown",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 339,
+          "paragraph": 47,
+          "fragment": "都能能",
+          "exact_fragment_present": true,
+          "context": "燃烧起战意的火焰。“不管是孔日天、龙青天，还是武神通，翼冲，哪个人出面都能能捏死你们，轻易的就像捏死一只蚂蚁。你们虽然都是三转，但能在这里逍遥，最关键的靠的是什么？还不是我的名头！”“可是……我不"
+        }
+      },
+      {
+        "chapter": 341,
+        "paragraph": 7,
+        "original": "天梯山是成为",
+        "replacement": "天梯山是",
+        "confidence": "High local copy support; repost collation recorded, authorial priority unknown",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 341,
+          "paragraph": 7,
+          "fragment": "天梯山是成为",
+          "exact_fragment_present": true,
+          "context": "正和古霆交战的同时，远在南疆的三叉山上，一场众人瞩目的战斗，已经完结。天梯山是成为中洲蛊师心中的圣地，是最接近仙庭的地方。许多蛊师一生求仙未果，临死前将自己的墓地，安置这里。其中一大部分人，同时将自己的"
+        }
+      },
+      {
+        "chapter": 343,
+        "paragraph": 13,
+        "original": "未必了刚刚",
+        "replacement": "违背了刚刚",
+        "confidence": "High local copy support; repost collation recorded, authorial priority unknown",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 343,
+          "paragraph": 13,
+          "fragment": "未必了刚刚",
+          "exact_fragment_present": true,
+          "context": "定他会动用兽力虚影。八大兽影合击的威力，非同小可。但如果他这样动手，就未必了刚刚定下来的切磋约定。只要他出手，打破这个约定，那就代表他输了这场比试。”方源的强势，盖压全场。态度实在嚣张，引起了许多四转"
+        }
+      },
+      {
+        "chapter": 344,
+        "paragraph": 11,
+        "original": "两个中转蛊师",
+        "replacement": "两个四转蛊师",
+        "confidence": "Moderate: contextual reconstruction or optional clarity; collate",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 344,
+          "paragraph": 11,
+          "fragment": "两个中转蛊师",
+          "exact_fragment_present": true,
+          "context": "，我的小宝贝儿。不是你李哥不想办，而是那黑白双煞实在有些棘手。他们可是两个中转蛊师，你李哥我势单力孤，只有一个人啊。”李闲摊开双手，一副无可奈何的样子。狐魅儿撇撇嘴，对于李闲的推脱，也不好多说什么。他打"
+        }
+      },
+      {
+        "chapter": 345,
+        "paragraph": 5,
+        "original": "准备的相当充分",
+        "replacement": "准备得相当充分",
+        "confidence": "High local copy support; repost collation recorded, authorial priority unknown",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 345,
+          "paragraph": 5,
+          "fragment": "准备的相当充分",
+          "exact_fragment_present": true,
+          "context": "。百岁童子，也是力道蛊师，被薛三四认作干爹，可以说是飞天虎的靠山。方源准备的相当充分，再加上本身这道秘方的成功率也很高。合炼而成的横冲直撞蛊，则将这个冲锋距离，扩涨到两百步。同时连续两次催动时，间隔的时间"
+        }
+      },
+      {
+        "chapter": 345,
+        "paragraph": 8,
+        "original": "扩涨",
+        "replacement": "扩展",
+        "confidence": "Moderate: contextual reconstruction or optional clarity; collate",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 345,
+          "paragraph": 8,
+          "fragment": "扩涨",
+          "exact_fragment_present": true,
+          "context": "上本身这道秘方的成功率也很高。合炼而成的横冲直撞蛊，则将这个冲锋距离，扩涨到两百步。同时连续两次催动时，间隔的时间也缩短到原先的一半。白凝冰已经站在洞口，望着巅峰，等候着他。用来存储的三转兜率花"
+        }
+      },
+      {
+        "chapter": 345,
+        "paragraph": 11,
+        "original": "阴阳转身蛊",
+        "replacement": "阴阳转生蛊",
+        "confidence": "High local copy support; repost collation recorded, authorial priority unknown",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 345,
+          "paragraph": 11,
+          "fragment": "阴阳转身蛊",
+          "exact_fragment_present": true,
+          "context": "。“算算现在我的手中，已经有六只的四转蛊了。分别是苦力蛊，横冲直撞蛊，阴阳转身蛊中的阳蛊，九眼酒虫，费力蛊，以及血颅蛊。”他手中的全力以赴蛊，只是三转，只能催动三转兽力虚影。要合炼提升它的转数，还得获"
+        }
+      },
+      {
+        "chapter": 347,
+        "paragraph": 22,
+        "original": "卷近了",
+        "replacement": "卷进了",
+        "confidence": "High local copy support; repost collation recorded, authorial priority unknown",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 347,
+          "paragraph": 22,
+          "fragment": "卷近了",
+          "exact_fragment_present": true,
+          "context": "天堑。就算是方源这种妖孽，也绝渡不过去。前世的三王传承，持续了近十年。卷近了无数人物，魔道正道、英雄枭雄。数十只野狗厮杀在一起，一方数量众多，但阵势松散。另一方数量稀少，却阵势紧密，同时野狗之间还"
+        }
+      },
+      {
+        "chapter": 351,
+        "paragraph": 90,
+        "original": "望着脚步",
+        "replacement": "望着脚边",
+        "confidence": "High local copy support; repost collation recorded, authorial priority unknown",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 351,
+          "paragraph": 90,
+          "fragment": "望着脚步",
+          "exact_fragment_present": true,
+          "context": "势迫人。方源瞧到此处，将身边的犬群派遣上去。“但终究是得胜了……”方源望着脚步，只剩下的十几只犬兽，微微地叹了一口气。到底还是百兽王，才能遏制住百兽王。战斗结束了。两个时辰之后。原本坚固如铁桶的阵势"
+        }
+      },
+      {
+        "chapter": 352,
+        "paragraph": 49,
+        "original": "一举一动多吸引",
+        "replacement": "一举一动都吸引",
+        "confidence": "High local copy support; repost collation recorded, authorial priority unknown",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 352,
+          "paragraph": 49,
+          "fragment": "一举一动多吸引",
+          "exact_fragment_present": true,
+          "context": "毁了。方源本来就是风云人物，因为白凝冰的事情，如今一出现，行迹就泄露，一举一动多吸引了很多人的注意。“出了什么事情？”方源皱起眉头，敏锐地察觉到似乎有什么要紧的事情发生了。方源就是个喜怒无常的暴徒，李闲这"
+        }
+      },
+      {
+        "chapter": 353,
+        "paragraph": 45,
+        "original": "摆了摆手手",
+        "replacement": "摆了摆手",
+        "confidence": "High local copy support; repost collation recorded, authorial priority unknown",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 353,
+          "paragraph": 45,
+          "fragment": "摆了摆手手",
+          "exact_fragment_present": true,
+          "context": "了体型大了几倍外，它们的身上还多了一对透明的膜翅。“无妨，无妨。”方源摆了摆手手，“这清单上的，都是我要买的。你现在手上有什么，就换什么。至于其他的，今后就麻烦你多留意，至于钱财不是问题。”霎时间，空"
+        }
+      },
+      {
+        "chapter": 354,
+        "paragraph": 29,
+        "original": "还为潜行接近",
+        "replacement": "还未潜行接近",
+        "confidence": "High local support; proposed未 is externally attested, authorial priority unestablished",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 354,
+          "paragraph": 29,
+          "fragment": "还为潜行接近",
+          "exact_fragment_present": false,
+          "context": "说不定我们还未潜行接近，在半路上就被人发觉了。",
+          "attested_variant": "还未潜行接近",
+          "interpretation": "External witness has proposed未 rather than EPUB为. Supports local correction; authorial priority unestablished."
+        }
+      },
+      {
+        "chapter": 354,
+        "paragraph": 40,
+        "original": "还才开启不久",
+        "replacement": "才开启不久",
+        "confidence": "Moderate: contextual reconstruction or optional clarity; collate",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 354,
+          "paragraph": 40,
+          "fragment": "还才开启不久",
+          "exact_fragment_present": true,
+          "context": "ｗwｗ•ｈｅtｕsｈu.ｃｏｍ.cｏｍ侦察蛊，才能窥破。但现在三王传承还才开启不久，连中段还未有人突破，还不至于引得那些五转蛊师出动。……李闲松了一口气，笑道：“刚巧手中有批火系蛊。此事容易，举手之劳。"
+        }
+      },
+      {
+        "chapter": 354,
+        "paragraph": 42,
+        "original": "若在辅以",
+        "replacement": "若再辅以",
+        "confidence": "High local copy support; repost collation recorded, authorial priority unknown",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 354,
+          "paragraph": 42,
+          "fragment": "若在辅以",
+          "exact_fragment_present": true,
+          "context": "蛊。首次研炼出来之后，就给铁血冷试用。结果神捕拿它用来捉人，十分耐用。若在辅以化气蛊的话，效果奇好。从此之后，铁柜蛊就成为了铁家捉拿魔道蛊师的得力手段。”“白凝冰，你不要抱幻想了。你杀了我们铁家的人"
+        }
+      },
+      {
+        "chapter": 355,
+        "paragraph": 10,
+        "original": "然后在用",
+        "replacement": "然后再用",
+        "confidence": "High local copy support; repost collation recorded, authorial priority unknown",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 355,
+          "paragraph": 10,
+          "fragment": "然后在用",
+          "exact_fragment_present": true,
+          "context": "间，还在运用九眼酒虫，提炼真元，将初阶和图书的淡金真元，炼成亮金真元。然后在用亮金真元，洗练自身的窍壁，不断增加空窍底蕴。方源体内的真元海面，缓慢地下降着，用来催动这只蛊。“至于易火的招揽……呵呵。"
+        }
+      },
+      {
+        "chapter": 355,
+        "paragraph": 12,
+        "original": "但是精铁蛊",
+        "replacement": "但是精铁骨蛊",
+        "confidence": "Moderate: contextual reconstruction or optional clarity; collate",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 355,
+          "paragraph": 12,
+          "fragment": "但是精铁蛊",
+          "exact_fragment_present": true,
+          "context": "离从犬王传承中出来，已经过去了一个月有余。古铜皮蛊已经运用得差不多了，但是精铁蛊距离彻底成功，还差距很远。除非动用宙道蛊虫，进行时光加速。”方源心中思量着。此蛊仿佛是一根黑色的骨头，两端圆润，中段细长"
+        }
+      },
+      {
+        "chapter": 355,
+        "paragraph": 26,
+        "original": "直接了当",
+        "replacement": "直截了当",
+        "confidence": "High local copy support; repost collation recorded, authorial priority unknown",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 355,
+          "paragraph": 26,
+          "fragment": "直接了当",
+          "exact_fragment_present": true,
+          "context": "次来的目的很简单，是想请你加入我们商家。”易火进入山洞，却不坐下，而是直接了当地道明来意。十天之后。“易火大人，这个事情我再三考虑良久，您的好意我心领了，还是魔道生涯自由快活啊。”方源一脸恳切地道。"
+        }
+      },
+      {
+        "chapter": 355,
+        "paragraph": 60,
+        "original": "先去斩杀的",
+        "replacement": "先前斩杀的",
+        "confidence": "Moderate: contextual reconstruction or optional clarity; collate",
+        "status": "HOLD; unapproved/unapplied",
+        "external_collation": {
+          "chapter": 355,
+          "paragraph": 60,
+          "fragment": "先去斩杀的",
+          "exact_fragment_present": true,
+          "context": "四老不是易于之辈，如果没有我的出马，恐怕白凝冰凶多吉少啊。除此之外，你先去斩杀的飞天虎薛三四，可是百岁童子的干女儿。百岁童子一直对你虎视眈眈，他是四转高阶的木道蛊师，魔道中相当棘手的人物。”三叉山上的"
+        }
       }
     ]
   }

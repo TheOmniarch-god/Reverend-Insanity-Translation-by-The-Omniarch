@@ -1,0 +1,88 @@
+{
+  "status": "Complete",
+  "endpoint": 355,
+  "next_unread": 356,
+  "segments": [
+    {
+      "chapters": [
+        336,
+        337
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 182
+    },
+    {
+      "chapters": [
+        338,
+        339
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 163
+    },
+    {
+      "chapters": [
+        340,
+        341
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 187
+    },
+    {
+      "chapters": [
+        342,
+        343
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 213
+    },
+    {
+      "chapters": [
+        344,
+        345
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 171
+    },
+    {
+      "chapters": [
+        346,
+        347
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 197
+    },
+    {
+      "chapters": [
+        348,
+        349
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 205
+    },
+    {
+      "chapters": [
+        350,
+        351
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 186
+    },
+    {
+      "chapters": [
+        352,
+        353
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 177
+    },
+    {
+      "chapters": [
+        354,
+        355
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 155
+    }
+  ],
+  "note": "Actual sequential reading, not extraction-only coverage. Selected older passages reread. No invented timestamps or source changes."
+}

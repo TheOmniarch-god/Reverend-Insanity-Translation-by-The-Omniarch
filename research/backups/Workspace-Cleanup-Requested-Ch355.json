@@ -1,0 +1,148 @@
+{
+  "repository": "TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch",
+  "remote_tree": "6e0014c4ec21fbb2820c7366d9915c7761ab7a26",
+  "new_work_uploaded": false,
+  "new_work_preserved_through": 355,
+  "deleted": [
+    {
+      "local_path": "editorial/All Errors Tackled Together.docx",
+      "remote_path": "research/editorial/All Errors Tackled Together.docx",
+      "git_blob_sha": "9653f0d1e3d4e7cb44b74d37af01c409ca805aee",
+      "sha256": "6b904bd1a9892df2f536ee59b8e97df9f0b549adf5d81061dfecc762eef045a6",
+      "bytes": 79558,
+      "tree": "6e0014c4ec21fbb2820c7366d9915c7761ab7a26"
+    },
+    {
+      "local_path": "editorial/All-Errors-Fact-Check.docx",
+      "remote_path": "research/editorial/All-Errors-Fact-Check.docx",
+      "git_blob_sha": "b31594757b7bd2db6ed733f9ac4b1d399ec30eb6",
+      "sha256": "021a96b6c1e4de8c65de62d7f65c707e507f020b35521de88f82214e46ab9540",
+      "bytes": 53224,
+      "tree": "6e0014c4ec21fbb2820c7366d9915c7761ab7a26"
+    },
+    {
+      "local_path": "editorial/Full-Opening-Review-2026-10-13.docx",
+      "remote_path": "research/editorial/Full-Opening-Review-2026-10-13.docx",
+      "git_blob_sha": "6db116ce8a8d7ceccec7f73141d6789711f6c718",
+      "sha256": "27cbe26d6ca467dc5741c2deeeb5dcf5f9d1ff763e4ad3e4c994250a7750ded8",
+      "bytes": 49749,
+      "tree": "6e0014c4ec21fbb2820c7366d9915c7761ab7a26"
+    },
+    {
+      "local_path": "editorial/Omniarch-Mathematical-Corrections-Article.docx",
+      "remote_path": "research/editorial/Omniarch-Mathematical-Corrections-Article.docx",
+      "git_blob_sha": "7649829cf995aa90973edcf07ed1324d2f4b85f0",
+      "sha256": "c42d62cb6f9ef3dd1c6fd720dc7f909f0eefc701a439eaa8047966b9bf0bc886",
+      "bytes": 46591,
+      "tree": "6e0014c4ec21fbb2820c7366d9915c7761ab7a26"
+    },
+    {
+      "local_path": "editorial/Whole-Novel-Aperture-and-Travel-Audit.docx",
+      "remote_path": "research/editorial/Whole-Novel-Aperture-and-Travel-Audit.docx",
+      "git_blob_sha": "bbc1b73ab5099b002c092d12659a8fb1587ebb06",
+      "sha256": "314d8cdfbd986c1293cde868d4788b228dedf1c5a2927fa552bb46045208ebe6",
+      "bytes": 49577,
+      "tree": "6e0014c4ec21fbb2820c7366d9915c7761ab7a26"
+    },
+    {
+      "local_path": "editorial/sequential-review/Batch-012-Chapters-241-255.docx",
+      "remote_path": "research/editorial/sequential-review/Batch-012-Chapters-241-255.docx",
+      "git_blob_sha": "fb2892b58636c28e02e9d92c55d7bfb4b1519cd3",
+      "sha256": "27003c4d0b748f3ce9811ac3e7986054e587ec5a00f32dcd2f84c419a0dd7d0f",
+      "bytes": 47418,
+      "tree": "6e0014c4ec21fbb2820c7366d9915c7761ab7a26"
+    },
+    {
+      "local_path": "editorial/sequential-review/Batch-013-Chapters-256-270.docx",
+      "remote_path": "research/editorial/sequential-review/Batch-013-Chapters-256-270.docx",
+      "git_blob_sha": "a938b3fbab5adfb241eca39678230df33677a45e",
+      "sha256": "ca8f3b85ffe85ad8840ba991b76122b869a160915b334c1bf7209b9ff689001d",
+      "bytes": 47472,
+      "tree": "6e0014c4ec21fbb2820c7366d9915c7761ab7a26"
+    },
+    {
+      "local_path": "editorial/sequential-review/Batch-014-Chapters-271-285.docx",
+      "remote_path": "research/editorial/sequential-review/Batch-014-Chapters-271-285.docx",
+      "git_blob_sha": "892613353f3f561336805cfb8453915305db034a",
+      "sha256": "b690ac9e990a3ddc51bac16fc10b2f65c69c49097b695e1bce29517bf1335d17",
+      "bytes": 45612,
+      "tree": "6e0014c4ec21fbb2820c7366d9915c7761ab7a26"
+    },
+    {
+      "local_path": "editorial/sequential-review/Batch-015-Chapters-286-300.docx",
+      "remote_path": "research/editorial/sequential-review/Batch-015-Chapters-286-300.docx",
+      "git_blob_sha": "f27c3a5ef116df0794972553687b35d40f016d3e",
+      "sha256": "3f8ec836644571d53c37332a79d39a0ab5765c617f3bd15a843c2df69dfd8b81",
+      "bytes": 46646,
+      "tree": "6e0014c4ec21fbb2820c7366d9915c7761ab7a26"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch002-Batch-001-Chapters-1-10.docx",
+      "remote_path": "research/editorial/sequential-review/history/before-batch002-Batch-001-Chapters-1-10.docx",
+      "git_blob_sha": "de6029c90528526bfe8c0a5b3a7e59284e7fb27a",
+      "sha256": "330f0668c579adf70ea48b8fd8f29c770913677e2b6c34018ed4d3490d935d7f",
+      "bytes": 47863,
+      "tree": "6e0014c4ec21fbb2820c7366d9915c7761ab7a26"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch003-Sequential-Reading-and-Proposals.xlsx",
+      "remote_path": "research/editorial/sequential-review/history/before-batch003-Sequential-Reading-and-Proposals.xlsx",
+      "git_blob_sha": "0e9d6b1084ea8620e20a80d80e897978ce0fccd6",
+      "sha256": "c9c097b37361250760e2ae61effa5a33e345dc80a2bf7e56804221d61907e4ab",
+      "bytes": 146980,
+      "tree": "6e0014c4ec21fbb2820c7366d9915c7761ab7a26"
+    },
+    {
+      "local_path": "editorial/terminology-backups/before-revolution-terminology.zip",
+      "remote_path": "research/editorial/terminology-backups/before-revolution-terminology.zip",
+      "git_blob_sha": "50408a375b7481933b4a3a4d16f8e5deb43639d3",
+      "sha256": "6d653c3e84789b16e381269ee0a2bb8231567ba7b51a8d21853f5c353d6b502d",
+      "bytes": 5500554,
+      "tree": "6e0014c4ec21fbb2820c7366d9915c7761ab7a26"
+    },
+    {
+      "local_path": "editorial/whole-novel-audit/Whole-Novel-Evidence-and-Coverage.xlsx",
+      "remote_path": "research/editorial/whole-novel-audit/Whole-Novel-Evidence-and-Coverage.xlsx",
+      "git_blob_sha": "f741b29ed199274bb3e1bcb55320a9a5440024fb",
+      "sha256": "2dc4640e8445f705cd442d2c6862822581fec215fc1a964faa35f65e3cb1196b",
+      "bytes": 504099,
+      "tree": "6e0014c4ec21fbb2820c7366d9915c7761ab7a26"
+    },
+    {
+      "local_path": "editorial/whole-novel-audit/superseded-article/Before-whole-corpus-screen.docx",
+      "remote_path": "research/editorial/whole-novel-audit/superseded-article/Before-whole-corpus-screen.docx",
+      "git_blob_sha": "ab9c443fd50465d86ece97eedbe2836f21706b63",
+      "sha256": "eb052367ab947cddfb97c90e240fb52e86b2094a670dc7e54cf119196757a645",
+      "bytes": 44865,
+      "tree": "6e0014c4ec21fbb2820c7366d9915c7761ab7a26"
+    },
+    {
+      "local_path": "benchmark/Omniarch-Synopsis-to-Chapter-8-Benchmark.docx",
+      "remote_path": "research/benchmark/Omniarch-Synopsis-to-Chapter-8-Benchmark.docx",
+      "git_blob_sha": "23f43b05a35175f8f4aa1c4f7a7174adbbc5981b",
+      "sha256": "713313ad02d7fe56c4326b18a864fc3dc69c67dbeb039df6cc25a61e874ec5de",
+      "bytes": 61387,
+      "tree": "6e0014c4ec21fbb2820c7366d9915c7761ab7a26"
+    },
+    {
+      "local_path": "backups/Omniarch-Research-Through-Chapter-285.zip",
+      "bytes": 16296645,
+      "sha256": "a1cbe9b5e28072e5c081bc5e9a0dd0e73e101b2b3e1a6548718fda58bb612153",
+      "restore_manifest": "backups/Cleanup-285-Remote-Verification.json",
+      "commit": "9a1c8a25509d54c50754498ea4b0e5e1520a1ce1",
+      "note": "All395 member bytes match GitHub blobs at pinned commit. Container can be rebuilt; no unique file contents removed."
+    }
+  ],
+  "compressed": [
+    {
+      "original_path": "benchmark/sources/epub-text-index.json",
+      "compressed_path": "benchmark/sources/epub-text-index.json.gz",
+      "original_bytes": 22350616,
+      "compressed_bytes": 9268759,
+      "sha256_uncompressed": "42803a0849b5a2c4e47e350522bdbdaf1619f7e9d055b32bdcc22d99e3ee1d9f",
+      "restore": "gzip.decompress(Path(compressed_path).read_bytes()); write original_path after checking SHA256"
+    }
+  ],
+  "note": "No new remote upload. Only matching remote-backed historical copies deleted. Current research and original EPUB retained.",
+  "bytes_freed": 36150097
+}

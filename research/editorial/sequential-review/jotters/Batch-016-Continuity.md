@@ -1,3 +1,7 @@
+SECOND-PASS FACT-CHECK: SR-134 through SR-138 are superseded by Batch-016-Fact-Check-Addendum.md/.docx. This includes a verified external 冰爆蛊 variant, an unresolved aptitude baseline, and separate confidence for identifying an issue and selecting its repair. Original discussion below is retained as review history, not current authority.
+
+**Fact-check correction, SR-137:** “Hail Gu” correctly translates the source 冰雹蛊. Retain it. The proposed replacement with 冰爆蛊 is suspended; the difference from nearby ice-detonation passages is an unresolved source-name query, not a demonstrated translation error. Earlier “very high” confidence is withdrawn.
+
 # Batch016 continuity and proposed corrections
 
 All new proposals held. SR118 Shang-title candidates strengthened; Bai component remains downgraded. SR099 remains withdrawn.
@@ -120,11 +124,11 @@ Ch306 p64
 
 ## SR-137: Hail Gu versus Ice Explosion Gu
 
-**recommended_action:** Preferred312p97 冰雹蛊→冰爆蛊.
+**recommended_action:** Retain Hail Gu for 冰雹蛊 at312p97. Suspend the proposed 冰雹蛊→冰爆蛊 emendation pending corroboration.
 
-**rationale:** The action proposed is detonating the icicles;299 defines Ice Explosion and313 explicitly names it while performing that action. Hail is the mismatched technical name.
+**rationale:** The action proposed is detonating the icicles;299 defines Ice Explosion and313 explicitly names it while performing that action. Hail correctly translates the source; source-name identity remains unconfirmed.
 
-**confidence:** Very high functional and adjacent-name support.
+**confidence:** High confidence in the lexical translation; source emendation unconfirmed.
 
 **dependencies:** Local technical-name repair only; do not merge every ice-type Gu or automatically equate Frost Spit and Frost Breath.
 

@@ -1,0 +1,10 @@
+{
+  "archive": "backups/Omniarch-Research-Through-Chapter-335.zip",
+  "files": 447,
+  "bytes": 17088508,
+  "sha256": "861496b656f8455e1981afc77b58047a0f8f20bba7af74f961eb4d840a45595d",
+  "coverage_through": 335,
+  "remote_uploaded": false,
+  "latest_verified_remote_coverage": 315,
+  "note": "Remote315 predates Batch016 fact-check corrections. Local335 archive includes those corrections."
+}

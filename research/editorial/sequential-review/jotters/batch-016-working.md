@@ -1,3 +1,7 @@
+SECOND-PASS FACT-CHECK: SR-134 through SR-138 are superseded by Batch-016-Fact-Check-Addendum.md/.docx. This includes a verified external 冰爆蛊 variant, an unresolved aptitude baseline, and separate confidence for identifying an issue and selecting its repair. Original discussion below is retained as review history, not current authority.
+
+**Fact-check correction, SR-137:** “Hail Gu” correctly translates the source 冰雹蛊. Retain it. The proposed replacement with 冰爆蛊 is suspended; the difference from nearby ice-detonation passages is an unresolved source-name query, not a demonstrated translation error. Earlier “very high” confidence is withdrawn.
+
 # Batch016 working close-reading jotter: Chapters301–315
 
 ## Coverage and policy
@@ -51,7 +55,7 @@ All fifteen original chapters read in eight complete, untruncated outputs:301–
 - 312sequenceFYmiddle→upper15 assisted;thenSilverRelicCONSUMED57,~2时辰(4h)→peak58. Watermembrane→stone atupper13,correlatesearlierstagesnotautomaticliteralicesolidmembranenewlevel. EssenceThreeinitialdilutesilver,middlevariegatedsilver,upperbrightsilver,peaksnowsilver9–11;exactmicroglosspendingtranslationstyle.
 - RebirthtwoplusyearCicadarecovery31263vs~2yearShang+~1yeartravel canbe broadlowerboundoranchorCicadahistory, notexact2. EarlierSR090StoneApertureconditional stillnotsettledby31260recall saysinitial→peak notformula details.
 - Challengesissuedyesterday30,Baifighttomorrow42 thennextday69;minimum8dayrest30154 isfromprecedingfight,notnoticeperiodso2daynoticeNOcontradictionwithoutpriorfightdate. Lotusoffered42/refused43,notloaned. Bai'sselfproofmotivation46/47andFYinterpretinglackconfidence50canbothcoexist;don'tforceobjectiveoneview.
-- IceIcicleTwo vsElixirFireThreeclash94–96,IceExplosionmisnamed冰雹 at31297,correct冰爆 based31340/314effect. ProjectileiceconesnotactualmanyGu31339:remove蛊candidate.
+- IceIcicleTwo vsElixirFireThreeclash94–96,312p97 reads冰雹 (Hail); nearby冰爆 (Ice Explosion) creates an unresolved source-name query, not a proved error. ProjectileiceconesnotactualmanyGu31339:remove蛊candidate.
 -313YanFireClawThree19(rangefew丈21),fromdozenspacesstarts14andmovescloser22,notrangecontradictionwithoutfixedpositions. FireClawbodyreturned42despitefireconstructbroken,doNOTcountdestroyed. TwoFireSnakesFour56real2Gu, laterfourFireClaws31474 notnewmystery4clawsfrom2Gu.
 - BaiFrostBreath霜息31366/89 versusolder霜吐29854 couldrenameorreplacementduring>year;don'tglobalnormalisewithoutproof. IceCrystalvital+Vitalitysupporttemporarytransform13–15;bodyheavierpenalisesmovement97. Sustainedtransformationrisksdeath/ice, Vitalityextendsnoteliminatesrisk105–106.
 -31354Yan站在场外stagingquery:probablyoutsideimmediatemeleenotarena;conditional远处,noassertillegalboundarycrossingwithoutarena-ruleevidence.

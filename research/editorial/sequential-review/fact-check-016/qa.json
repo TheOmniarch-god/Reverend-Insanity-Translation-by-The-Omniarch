@@ -1,0 +1,15 @@
+{
+  "proposals_rechecked": [
+    "SR-134",
+    "SR-135",
+    "SR-136",
+    "SR-137",
+    "SR-138"
+  ],
+  "proposal_count": 139,
+  "source_epub_sha256": "1ef1c29b6bddd7994f56696e2d091363aa8bbcee4889439465a9e2c51437dd5d",
+  "substantive_edits_applied": false,
+  "sequential_progress_advanced": false,
+  "external_witnesses": 5,
+  "remote_uploaded": false
+}

@@ -1,3 +1,7 @@
+SECOND-PASS FACT-CHECK: SR-134 through SR-138 are superseded by Batch-016-Fact-Check-Addendum.md/.docx. This includes a verified external 冰爆蛊 variant, an unresolved aptitude baseline, and separate confidence for identifying an issue and selecting its repair. Original discussion below is retained as review history, not current authority.
+
+**Fact-check correction, SR-137:** “Hail Gu” correctly translates the source 冰雹蛊. Retain it. The proposed replacement with 冰爆蛊 is suspended; the difference from nearby ice-detonation passages is an unresolved source-name query, not a demonstrated translation error. Earlier “very high” confidence is withdrawn.
+
 # Sequential close-reading review: Chapters 301–315
 ## Batch 016 | The Omniarch
 
@@ -14,7 +18,7 @@ Fifteen chapters fully read in eight complete, untruncated outputs: **1,487 para
 | SR134 | Tie’s months versus years; larger death-news clock | Prefer local这段时间; hold exact global date | High local, moderate global query |
 | SR135 |92% becomes93%, but increase says two points | 两分 → 一分 | Very high |
 | SR136 | Shang Bu Li called clan leader | 族长 → 家老 | Very high |
-| SR137 | Hail Gu named for an ice-detonation effect | 冰雹蛊 → 冰爆蛊 | Very high |
+| SR137 | Source-name consistency query, not a translation error | Retain Hail Gu; replacement suspended | Emendation unconfirmed |
 | SR138 |80 wins, four monthly bouts and18-month window | Reconcile scope/carry-in wins before changing figures | Conditional query |
 | SR139 | Located copy faults, names and staging | 94 individual candidates | Individually qualified |
 
@@ -80,7 +84,7 @@ Shang Bu Li is introduced as Shang Yan Fei’s subordinate and senior administra
 
 > 同时，她暗暗催动冰爆蛊。
 
-The proposed effect is detonating icicles.299 already defines Ice Explosion Gu, and313 explicitly uses it for this purpose. Preferred **冰雹蛊 → 冰爆蛊** at312p97. This does not license merging all ice-type names: the older Frost Spit and later Frost Breath labels may reflect a replacement or naming drift across the long interval and remain separately tracked.
+The proposed effect is detonating icicles.299 already defines Ice Explosion Gu, and313 explicitly uses it for this purpose. **Retain 冰雹蛊 / Hail Gu at312p97; replacement suspended pending corroboration.** This does not license merging all ice-type names: the older Frost Spit and later Frost Breath labels may reflect a replacement or naming drift across the long interval and remain separately tracked.
 
 **Ch269 p72:**
 

@@ -1,0 +1,23 @@
+# Batch018 preservation cautions
+
+- Eight visitors need not mean two missing characters: two of the Ten Tyrants were previously injured.
+- FY breaks the duel agreement deliberately and admits losing under its terms. Do not repair this into an honourable victory.
+- Vital Gu transfer causes backlash here, not automatic death. Fei Li dies from the later attack.
+- A destroyed beast manifestation does not by itself erase permanent bodily strength.
+- Han’s previous best21 and desire to reach22 do not put the current encounter at round22.
+- Seven wild dogs plus17 recruits minus5 casualties equals19 survivors. This account is coherent and separate from the earlier18/19 drift.
+- Electricity from a king’s Plasma Gu does not contradict ordinary Lightning Symbol dogs lacking ranged electricity.
+- Soul strength surviving suppression does not prove that ordinary body enhancements survive it.
+- Four-way attention plus Two Mind produces six according to the source; do not impose automatic doubling.
+- Dog Courage’s stated One–Five series leaves the One form unnamed. That is not sufficient proof for changing the lower limit.
+- Hundred Year Child may cultivate both strength and wood paths. Do not assume path labels are mutually exclusive.
+- Biao’s five-tiger strength is fantasy lore. Dictionary folklore is not authority to rewrite the fictional animal.
+- Three, then three, then ten days is sixteen after the first meeting. The complaint about three days may refer only to the most recent extension.
+- Bai’s belief that the Poison Vow still binds FY is character error, not evidence the oath was restored.
+- Bright-gold essence does not mean FY has advanced to Four middle. He remains Four initial.
+- Bronze Skin treatment30% faster is not automatically30% less treatment time. Avoid a silent arithmetic paraphrase.
+- The50k payment is an advance deposit, not a confirmed purchase price for one Gu.
+- Requested items, proposed barter and received Gu remain separate inventory states. No full cash balance or complete outside dog ownership can be certified.
+-345’s reported reaching the middle section and354’s statement that no one has broken through the middle may concern different milestones. Do not force a contradiction from reaching versus clearing.
+- Seven colours/six colours and unusual diction are not automatically misspellings. No proposal merely to replace every unfamiliar expression.
+- Hail remains a faithful translation of冰雹. SR137’s attested冰爆 variant does not establish authorial priority. Batch016 qualifications retained.

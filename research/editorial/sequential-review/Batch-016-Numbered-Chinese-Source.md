@@ -1,3 +1,5 @@
+**Fact-check correction, SR-137:** “Hail Gu” correctly translates the source 冰雹蛊. Retain it. The proposed replacement with 冰爆蛊 is suspended; the difference from nearby ice-detonation passages is an unresolved source-name query, not a demonstrated translation error. Earlier “very high” confidence is withdrawn.
+
 # Numbered Chinese source: Chapters301–315
 
 Original wording and paragraph numbering retained, except an explicit reader-facing omission303p16 for a sexualised young-character description. Original EPUB and internal extraction unchanged. All original paragraphs read.

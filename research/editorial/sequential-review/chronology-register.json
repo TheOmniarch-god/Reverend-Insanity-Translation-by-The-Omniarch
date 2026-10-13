@@ -1,5 +1,5 @@
 {
-  "scope": "Sequential through315; current, remembered, hypothetical and approximate clocks distinguished",
+  "scope": "Sequential through355; personal, external, remembered and reported clocks distinguished",
   "entries": [
     {
       "id": "T001",
@@ -8513,6 +8513,1092 @@
           "paragraph": 67,
           "file": "OEBPS/Text/chapter323.html",
           "text": "战到天亮时，双方都没有了力气，真元也消耗殆尽，浑身伤口满布。看着近在咫尺的对方，却无能力补上最后一刀，杀死对方。"
+        }
+      ]
+    },
+    {
+      "id": "T222",
+      "timeline": "Revised current life",
+      "kind": "appointment / elapsed battle",
+      "event": "Seven-day fight and two-hour bout",
+      "constraint": "316 seven-day appointment fulfilled.317 halfshichen≈1h;319 one shichen≈2h elapsed, not another2h added. Juconcedes320.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 316,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter324.html",
+          "text": "七天时间一晃而过，演武场中迎来全城瞩目的大战。"
+        },
+        {
+          "chapter": 317,
+          "paragraph": 59,
+          "file": "OEBPS/Text/chapter325.html",
+          "text": "战到半个时辰之后……"
+        },
+        {
+          "chapter": 319,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter327.html",
+          "text": "从开始，到如今，已经过了一个时辰。"
+        },
+        {
+          "chapter": 320,
+          "paragraph": 85,
+          "file": "OEBPS/Text/chapter328.html",
+          "text": "“这场战斗已经毫无继续的必要，我认输了。”明白方源手中拥有力气蛊后，巨开碑丧失了斗志，居然主动投降。"
+        }
+      ]
+    },
+    {
+      "id": "T223",
+      "timeline": "Revised current life / public belief",
+      "kind": "concealment and breakthrough",
+      "event": "PublicThree middle versus trueThreepeak",
+      "constraint": "316p38 explicitConcealedBreath reconciles public316p11 andtruepeak316p81. BaiFourinitial by321; FYFourinitial331, notFourmiddle335.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 316,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter324.html",
+          "text": "“方正只有三转中阶，虽然战力强悍，但是修为上还差白凝冰一筹。更谈不上和巨开碑相比了。”数十场打下来，方源的实力隐藏不住，大多数人普遍不看好他，因为修为差距实在太大。"
+        },
+        {
+          "chapter": 316,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter324.html",
+          "text": "在修为方面方源的确处于劣势，他如今是三转巅峰，又用敛息蛊。看上去，还是三转中阶的样子。"
+        },
+        {
+          "chapter": 316,
+          "paragraph": 81,
+          "file": "OEBPS/Text/chapter324.html",
+          "text": "方源一动手，敛息蛊的效果就被打破了，三转巅峰的气息流露出来，很快被无数人察觉。"
+        },
+        {
+          "chapter": 321,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter329.html",
+          "text": "也有人提到白凝冰：“白凝冰也绝不容小觑，她败给炎突之后，再上场时，修为已经突破到四转初阶！这么年轻的四转，这是何等的资质啊。不过她和方正的交情极为深厚，很可能就算在战斗中碰面，也会主动认输，成全方正。”"
+        },
+        {
+          "chapter": 321,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter329.html",
+          "text": "白凝冰如今已经是四转初阶，四转的蛊师，放到其他中小家族，那都是族长了！"
+        },
+        {
+          "chapter": 331,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter339.html",
+          "text": "这就标志着方源也进入到四转境界！"
+        },
+        {
+          "chapter": 335,
+          "paragraph": 70,
+          "file": "OEBPS/Text/chapter343.html",
+          "text": "方源和白凝冰都是四转初阶的蛊师，但是他却有四转中阶的真元。"
+        }
+      ]
+    },
+    {
+      "id": "T224",
+      "timeline": "Revised current life / former life",
+      "kind": "refinement / future rediscovery",
+      "event": "Strength Qi completed before Ju battle",
+      "constraint": "Severalday/night refinement completedbefore316. Twohundredyearformula rediscovery is former-life future, not currentelapsed time.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 316,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter324.html",
+          "text": "方源眯起双眼，眼中精光闪烁。几天前他炼成了那蛊，胜算暴涨到六成。对手虽然强大，但他却知赢的必定是自己。"
+        },
+        {
+          "chapter": 320,
+          "paragraph": 76,
+          "file": "OEBPS/Text/chapter328.html",
+          "text": "方源手中的这只力气蛊，正是他闭关炼蛊的产物。"
+        },
+        {
+          "chapter": 320,
+          "paragraph": 80,
+          "file": "OEBPS/Text/chapter328.html",
+          "text": "这个转化的秘方，十分复杂。动用二十多种不同的辅料，进行逆炼，中间有三十多步骤。火候、时间都要把握清楚，不能有一丝一毫的差错。成功率倒是不低，有八成几率。"
+        },
+        {
+          "chapter": 320,
+          "paragraph": 82,
+          "file": "OEBPS/Text/chapter328.html",
+          "text": "方源连续耗费了几天几夜，在密室中不眠不休，凭借丰富的经验，和冷静的心态，将力气蛊合炼出来。"
+        },
+        {
+          "chapter": 320,
+          "paragraph": 83,
+          "file": "OEBPS/Text/chapter328.html",
+          "text": "前世记忆中的两百年后，这个秘方被过去流派的秘方大师重现，公之于众。"
+        },
+        {
+          "chapter": 320,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter328.html",
+          "text": "至于现在，重现这个秘方的大师还没出生呢。世间当然无人知晓。"
+        }
+      ]
+    },
+    {
+      "id": "T225",
+      "timeline": "Revised current life",
+      "kind": "politics / forecast",
+      "event": "Arena exits and competition",
+      "constraint": "FYwithdraws, supportannounceddayslater, Baisubsequentwithdrawal. Competition3months with100000capital; YaZi3yearsentence stillfuture.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 321,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter329.html",
+          "text": "然而，就在众人喧腾之际，方源忽然宣布，退出演武场。"
+        },
+        {
+          "chapter": 321,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter329.html",
+          "text": "紧接着，几日后，方源也跟着当众宣布，自己将投靠商心慈，辅佐她登上少主之位。"
+        },
+        {
+          "chapter": 321,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter329.html",
+          "text": "紧接着，随后几天，白凝冰也宣布退出演武场。"
+        },
+        {
+          "chapter": 322,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter330.html",
+          "text": "商睚眦继续道：“我是输了，但是我还没有彻底失败。父亲将我流放到捕奴大队里去，三年！三年之后，我还会回来的。不过在此之前，我有一些东西要送给你。”"
+        },
+        {
+          "chapter": 322,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter330.html",
+          "text": "“家族方面，会给任何一个参加竞争的子女，调拨一笔十万元石的款子。三个月后，选取赚取钱财最多的那位，成为新任的少主。”"
+        }
+      ]
+    },
+    {
+      "id": "T226",
+      "timeline": "Current opening / older kings",
+      "kind": "news / elapsed",
+      "event": "Three Kings opens, news and investment",
+      "constraint": "Three-days-to-news thenfive-daypurchases. Twentydaypromise metwithin10reportedcompetitiondays, notinconsistentdeadline. Kingsorigins300yearsago andnear100yeartraining not currentclock.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 323,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter331.html",
+          "text": "方源点点头：“既然你信我，那就听我安排。只需二十天功夫，就能让你手中的元石，翻到三番。”"
+        },
+        {
+          "chapter": 323,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter331.html",
+          "text": "“三王传承，今日开启，正魔不论，留待有缘。”"
+        },
+        {
+          "chapter": 323,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter331.html",
+          "text": "三天后，商家城。"
+        },
+        {
+          "chapter": 323,
+          "paragraph": 98,
+          "file": "OEBPS/Text/chapter331.html",
+          "text": "此后五天里，方源收购了大量的一转驭犬蛊、二转纸鹤蛊，一转爆蛋蛊。不仅是商心慈的十万元石，还有百家最新缴上来的三十万。"
+        },
+        {
+          "chapter": 324,
+          "paragraph": 44,
+          "file": "OEBPS/Text/chapter332.html",
+          "text": "其来历，要追溯到三百年前。"
+        },
+        {
+          "chapter": 324,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter332.html",
+          "text": "三王因此，命运得到转折。他们分别继承了六转蛊仙的一部分传承，励精图治，刻苦修行近百年。"
+        },
+        {
+          "chapter": 325,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter333.html",
+          "text": "“短短十天，平均每天赚两万。十天下来，我们手中的十万元石，已经翻了三倍，足足有三十万！”望着手中的账簿，商心慈又惊又喜。"
+        }
+      ]
+    },
+    {
+      "id": "T227",
+      "timeline": "Revised current life",
+      "kind": "ongoing opening / refinement",
+      "event": "Half-month-plus opening, Nine Eye, rival arrival",
+      "constraint": "326openingoverhalfmonth; finalrecipe3daymarker, notcertifiedtotalchain. WuTongShentwodaysafterLongQingTian. Annualfestivaldateunnamed.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 326,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter334.html",
+          "text": "传承开启，有大半个月了。有人已经在传承中获得了好处，这更激发了众人探索传承的热情。"
+        },
+        {
+          "chapter": 326,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter334.html",
+          "text": "好在最终，两只七香酒虫合炼时，结果很顺利。三天之后，方源得到了九眼酒虫。"
+        },
+        {
+          "chapter": 326,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter334.html",
+          "text": "他便是“曾把苍穹染碧空”的龙青天，毒道中的成名人物。一登场，就将三位商家家老毒杀，使得魔道气势大涨。"
+        },
+        {
+          "chapter": 326,
+          "paragraph": 51,
+          "file": "OEBPS/Text/chapter334.html",
+          "text": "幸好，两天后武家派出的四转家老武通神出场，对抗住龙青天。将三叉山的局势，再次扳回平衡点。"
+        },
+        {
+          "chapter": 326,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter334.html",
+          "text": "这一天，商家城迎来了利市节。"
+        },
+        {
+          "chapter": 326,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter334.html",
+          "text": "这是商家的传统节日，以纪念千年前，创建商家的先祖，第一次摆地摊的重大庆典。"
+        }
+      ]
+    },
+    {
+      "id": "T228",
+      "timeline": "Current evening / previous life",
+      "kind": "festival and service",
+      "event": "Token acquired one year earlier",
+      "constraint": "328festival→329recruitment sameouting. Historicaltokenorigin300yearsago, capturewithin50years. Former-lifepurchasewouldbenextyear, service20years, sellerdeathwithinhalfmonthafterterm. Currentservice20yearsprospective.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 328,
+          "paragraph": 9,
+          "file": "OEBPS/Text/chapter336.html",
+          "text": "今天是利市节，店铺都关门停业，街道两旁摆着各式各样的小地摊。"
+        },
+        {
+          "chapter": 328,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter336.html",
+          "text": "三百年前，有一个魔道蛊师，重伤落水，被一位河边浣纱的小姑娘所救。"
+        },
+        {
+          "chapter": 328,
+          "paragraph": 83,
+          "file": "OEBPS/Text/chapter336.html",
+          "text": "小姑娘牢牢记住，但只过了不到五十年，丹火山就发生大战，火山喷发，鬼哭洞湮灭。而那魔道蛊师，也被铁家活捉，押在了镇魔塔中。"
+        },
+        {
+          "chapter": 329,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter337.html",
+          "text": "三兄弟相互对视一眼，当即同时跪下，拜倒在少年面前，认他为二十年的主人。"
+        },
+        {
+          "chapter": 329,
+          "paragraph": 10,
+          "file": "OEBPS/Text/chapter337.html",
+          "text": "但二十年之后，三兄弟偿还了恩情，离他而去。他因为早已经忘记了如何劳作，更耻于乞讨，甚至不知道节制，仍旧醉生梦死。不到半个月后，就死了。"
+        },
+        {
+          "chapter": 329,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter337.html",
+          "text": "当然，这些都是方源前世发生的事情。"
+        },
+        {
+          "chapter": 329,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter337.html",
+          "text": "按照前世的记忆，这半块令牌，还要等到明年，才会被魔道蛊师三兄弟发现。"
+        },
+        {
+          "chapter": 329,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter337.html",
+          "text": "“从今以后，心慈小姐就是我们的新主人。不过，只有二十年的时间。二十年，足够我们偿还恩情了。”"
+        }
+      ]
+    },
+    {
+      "id": "T229",
+      "timeline": "Revised current life",
+      "kind": "short intervals / administrative obstruction",
+      "event": "Wei sale and breakthrough",
+      "constraint": "Clerkclaims1daypaperwork, replacementfinisheswithinquarterhour. Followingmorningcontroltransferred; fewdayslaternightbreakthroughlasting1shichen≈2h. Latermiddayraid separatedbyellipsis.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 330,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter338.html",
+          "text": "“呵呵。”蛊师笑了一下，“那我这就为诸位办理，只是人数太多，手续繁琐，需要等一天。一天之后……”"
+        },
+        {
+          "chapter": 330,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter338.html",
+          "text": "不出一刻钟，所有的手续都办妥了。"
+        },
+        {
+          "chapter": 330,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter338.html",
+          "text": "次日清晨。"
+        },
+        {
+          "chapter": 331,
+          "paragraph": 32,
+          "file": "OEBPS/Text/chapter339.html",
+          "text": "几天后的一个夜晚，楠秋苑密室。"
+        },
+        {
+          "chapter": 331,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter339.html",
+          "text": "足足有一个时辰的功夫，在白凝冰持续不断的真元支援下，这场蜕变才结束。"
+        },
+        {
+          "chapter": 331,
+          "paragraph": 76,
+          "file": "OEBPS/Text/chapter339.html",
+          "text": "……"
+        },
+        {
+          "chapter": 331,
+          "paragraph": 82,
+          "file": "OEBPS/Text/chapter339.html",
+          "text": "“这位大人，您若要求见我家主人，还请递上拜帖。我家主人还在午睡当中。”院府的门童，走上前来，态度有些倨傲。"
+        }
+      ]
+    },
+    {
+      "id": "T230",
+      "timeline": "Revised current life / character reports",
+      "kind": "age and stage",
+      "event": "FY20, Zhou100plus and stage query",
+      "constraint": "FY20reported332; ZhoureachedFourage40–50butisnow100plus. ZhouThreeupper325versuspeak332remainsrestoration/viewpointquery. XinCiTwo327versusOne329samefestivalrequiresreconciliation.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 325,
+          "paragraph": 29,
+          "file": "OEBPS/Text/chapter333.html",
+          "text": "商心慈神情略带苦恼：“周全吗，这个人我知道。但他乃是三转蛊师，秉性傲气，骨傲清高。他曾经是周家的族长，有四转修为。但是周家内讧，又被魔道蛊师屠戮一空，他侥幸逃脱，受伤很重，如今修为还有三转高阶。他掌管的店铺，业绩是所有的商铺中最好的。但就算是商睚眦也得不到他的忠心。这样的人物，恐怕不是我能够……”"
+        },
+        {
+          "chapter": 327,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter335.html",
+          "text": "商心慈本身修为只有两转，资质更加不行，在商家城的势力基础也几乎为零。"
+        },
+        {
+          "chapter": 327,
+          "paragraph": 87,
+          "file": "OEBPS/Text/chapter335.html",
+          "text": "周全如今已经有一百多岁，不肯寄人篱下。尤其是给小辈当下属。"
+        },
+        {
+          "chapter": 329,
+          "paragraph": 29,
+          "file": "OEBPS/Text/chapter337.html",
+          "text": "但方源要他们来辅佐商心慈，和他们的理想差距太大。商心慈不过是个黄毛丫头，修为只有一转，资质更加不行。他们三人各个都有乙等资质，一齐合击，甚至能在短时间内抗衡住四转蛊师。"
+        },
+        {
+          "chapter": 332,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter340.html",
+          "text": "他曾经也是四转蛊师，一代族长。但他是四五十岁的时候，才修行到四转境界。方源的年龄资料，早在演武场时，就为人所知。他仅仅只是二十岁罢了！"
+        },
+        {
+          "chapter": 332,
+          "paragraph": 65,
+          "file": "OEBPS/Text/chapter340.html",
+          "text": "商铺中的战斗很快就结束了，周全完全不是方源的对手。他身上还有隐伤，虽然还是三转巅峰修为，但是面对强大的方源，根本难以抵挡。"
+        }
+      ]
+    },
+    {
+      "id": "T231",
+      "timeline": "Revised current life",
+      "kind": "business and departure",
+      "event": "Seven-day growth then months to victory",
+      "constraint": "Informationbusiness300000→440000after7days; severalmonthsellipsis toXinCi appointment. Noexactwinningtotal ordate. Two–three-yearcitystayapproximate, nottotalreborntime.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 328,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter336.html",
+          "text": "“算一算，我们来到商家城，已经有两三年了。”商心慈忽然开口，语气感慨。"
+        },
+        {
+          "chapter": 331,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter339.html",
+          "text": "“终于到达四转了！只是两三年的时间，在商家城中就有如此的提升。”方源缓缓地睁开双眼，精光闪烁，黑暗的密室中像是亮起一道闪电。"
+        },
+        {
+          "chapter": 333,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter341.html",
+          "text": "在开张的第一天，就赚回了投入进去的全部成本。"
+        },
+        {
+          "chapter": 333,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter341.html",
+          "text": "足足七天之后，商心慈的三十万元石，已经增长至四十四万。"
+        },
+        {
+          "chapter": 333,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter341.html",
+          "text": "数月后，商一帆和其母族势力回天乏术，惨败在商心慈的手中。"
+        },
+        {
+          "chapter": 333,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter341.html",
+          "text": "商心慈继商睚眦之位，成为十大少主中的新贵！"
+        },
+        {
+          "chapter": 333,
+          "paragraph": 81,
+          "file": "OEBPS/Text/chapter341.html",
+          "text": "“黑土哥哥，你们真的这么急着走吗？”商心慈走出城门，十里相送。"
+        }
+      ]
+    },
+    {
+      "id": "T232",
+      "timeline": "Parallel Central Continent thread",
+      "kind": "institutional cycles / recovery",
+      "event": "True Fang Zheng promotion and sleep",
+      "constraint": "3/8/15yearexamsareinstitutionalcycles, notyearsserved. Fourmiddlewinseliteplace;2days2nightssleep; WhiteFoxinheritanceappearedmonthsago. ThreadcutdoesnotproveexactsynchronywithFY20statement.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 334,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter342.html",
+          "text": "“难以想象，交战的双方都只有二十几岁。”"
+        },
+        {
+          "chapter": 334,
+          "paragraph": 35,
+          "file": "OEBPS/Text/chapter342.html",
+          "text": "“怎么可能？这竟是万兽王！方正修行到四转中阶，已经是天资纵横！但他居然能控得一支数量上万的鹤群，这是什么手段？”"
+        },
+        {
+          "chapter": 334,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter342.html",
+          "text": "这样的大场面，在门派的三年小考，八年中考里，都不常见。只有十五年的大考，才会偶尔有。"
+        },
+        {
+          "chapter": 334,
+          "paragraph": 96,
+          "file": "OEBPS/Text/chapter342.html",
+          "text": "方正成为八年中考的第一名，击败孙元化，成为仙鹤门的精英弟子！"
+        },
+        {
+          "chapter": 335,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter343.html",
+          "text": "三年小考，可选取得内门弟子的身份。八年中考，获胜者能成精英弟子。十五年大考，则可晋升真传弟子。"
+        },
+        {
+          "chapter": 335,
+          "paragraph": 12,
+          "file": "OEBPS/Text/chapter343.html",
+          "text": "“方正，你天资聪颖，又勤学苦练，如今已有四转中阶的修为。你的这份修为，已经可以成为门派长老。但你入门时间较短，需要完成大量的门派任务才能考核你的忠心。希望你以后继续努力，在大考中取得优胜，成为真传弟子。”仙鹤门的掌门，高座在掌门人的宝座上，俯瞰着阶梯底下，跪着的方正。"
+        },
+        {
+          "chapter": 335,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter343.html",
+          "text": "方正一连睡了两天两夜，然后被一阵敲门声惊醒。"
+        },
+        {
+          "chapter": 335,
+          "paragraph": 31,
+          "file": "OEBPS/Text/chapter343.html",
+          "text": "“原来如此。那我直接告诉你好了，我们这次的师门任务非同小可！方正，前几个月，天梯山那边出了一件惊天动地的大事，你可知道？”一位精英弟子开口道。"
+        }
+      ]
+    },
+    {
+      "id": "T233",
+      "timeline": "Revised current journey",
+      "kind": "unquantified travel / unfinished fight",
+      "event": "Fire Charcoal mountain encounter",
+      "constraint": "Severaldaystraversingthismountain, notexacttotaltimefromShang. Assassinssettrapbutnotyetpersonallyengaged. LavaCrocodilefightabouttobegin; resultunknown.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 335,
+          "paragraph": 43,
+          "file": "OEBPS/Text/chapter343.html",
+          "text": "方源和白凝冰踏入火炭山，已经有数天时日。"
+        },
+        {
+          "chapter": 335,
+          "paragraph": 44,
+          "file": "OEBPS/Text/chapter343.html",
+          "text": "他们从商量山出发，要达到三叉山，此处火炭山乃是必经之路。"
+        },
+        {
+          "chapter": 335,
+          "paragraph": 59,
+          "file": "OEBPS/Text/chapter343.html",
+          "text": "“哼。蛊仙又怎样？这么多年来，我们不还是在逍遥自在吗？”孟土不以为意地撇撇嘴，“蛊仙也不是万能的，更何况这两位新晋的四转蛊师？老哥，你可不要忘了，我们这些天辛辛苦苦给他们搭建好的那个陷阱。嘿嘿嘿！”"
+        },
+        {
+          "chapter": 335,
+          "paragraph": 65,
+          "file": "OEBPS/Text/chapter343.html",
+          "text": "地面上，泥土翻开，一只只的熔岩鳄，从中钻了出来。"
+        },
+        {
+          "chapter": 335,
+          "paragraph": 73,
+          "file": "OEBPS/Text/chapter343.html",
+          "text": "面对如此险境，方源洒然一笑：“不过是一群地底鳄鱼罢了。白凝冰，你我合力，杀了这头熔岩鳄王！”"
+        },
+        {
+          "chapter": 335,
+          "paragraph": 76,
+          "file": "OEBPS/Text/chapter343.html",
+          "text": "现在，他们今非昔比，都有四转修为。哪怕这熔岩鳄王，乃是千兽王，也阻挡不住两人的脚步！"
+        }
+      ]
+    },
+    {
+      "id": "T234",
+      "timeline": "Revised current life",
+      "kind": "parallel journey",
+      "event": "Crocodile battle ends; true Fang Zheng rescues Bi Xia",
+      "constraint": "Crocodile king dies; assassins survive and follow. Separate Central Continent journey continues. Opponents flee, not shown killed.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 336,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter344.html",
+          "text": "它挣扎的幅度越来越小，最终死亡降临到它的身上。"
+        },
+        {
+          "chapter": 336,
+          "paragraph": 21,
+          "file": "OEBPS/Text/chapter344.html",
+          "text": "他伸手拍拍孟土的肩膀：“老弟，你说的很有道理。走，我们也跟去三叉山！”"
+        },
+        {
+          "chapter": 336,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter344.html",
+          "text": "“方正老大，你进步神速，对控鹤极有天赋。先前只是缺少操练罢了，假以时日，必定能凌驾于孙元化之上。”"
+        },
+        {
+          "chapter": 336,
+          "paragraph": 51,
+          "file": "OEBPS/Text/chapter344.html",
+          "text": "方正不禁笑了笑。他有天鹤上人随时教导，传授秘密心得，甚至有时候还代己操纵，能不进步神速吗？"
+        },
+        {
+          "chapter": 336,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter344.html",
+          "text": "四大淫贼审时度势，掉头就跑，很快就跑得远远的，背影消失在众人的视野当中。"
+        },
+        {
+          "chapter": 336,
+          "paragraph": 82,
+          "file": "OEBPS/Text/chapter344.html",
+          "text": "“我，我没事……谢谢方正公子的救命之恩！”碧霞仙子看着方正，满脸红霞，目光中带着痴迷。"
+        }
+      ]
+    },
+    {
+      "id": "T235",
+      "timeline": "Revised current / former life",
+      "kind": "concealment and forecast",
+      "event": "Hu Mei Er exposed; future century distinguished",
+      "constraint": "FY admits guessing her identity. Future century-later power in memory is not current elapsed time. Brief suppression of attackers ends without revival from death.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 338,
+          "paragraph": 29,
+          "file": "OEBPS/Text/chapter346.html",
+          "text": "不知道这女蛊师使用的什么手段，居然让他们一个个浑身乏力，连爬都爬不起来！"
+        },
+        {
+          "chapter": 338,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter346.html",
+          "text": "趁着这段功夫，十暴君的成员都从地上爬了起来。"
+        },
+        {
+          "chapter": 338,
+          "paragraph": 46,
+          "file": "OEBPS/Text/chapter346.html",
+          "text": "方源哈哈一笑：“在你表露真正身份之前，我也只是猜测罢了。不管我猜对猜错，都没有什么损失，不是么？”"
+        },
+        {
+          "chapter": 338,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter346.html",
+          "text": "妖女四处招揽裙下之臣，尤其对年轻俊彦十分喜好。前世一百年后，她集中了手中的全部力量，前往夕阳山。"
+        },
+        {
+          "chapter": 338,
+          "paragraph": 70,
+          "file": "OEBPS/Text/chapter346.html",
+          "text": "值得一提的是，她上山前，不过是四转蛊师，下山时却已经成就了五转巅峰。"
+        }
+      ]
+    },
+    {
+      "id": "T236",
+      "timeline": "Revised current life",
+      "kind": "opening forecast",
+      "event": "Eight days, then two days and fusion",
+      "constraint": "339 opening in eight days and340 repeated eight days are not additive.344 two days until opening,345 fusion takes two days. Intermediate appointments fit broadly, not a fully exact dated calendar.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 339,
+          "paragraph": 74,
+          "file": "OEBPS/Text/chapter347.html",
+          "text": "“距离下一次传承开启，大约还有八天时间。我们先找个地方落脚吧。”方源目光扫视周围，看中了半山腰上的一个山洞。"
+        },
+        {
+          "chapter": 340,
+          "paragraph": 28,
+          "file": "OEBPS/Text/chapter348.html",
+          "text": "“三叉山危机重重，接下来的八天，我们轮流守夜。一个人睡了，另一个人必须醒着。”方源叮嘱白凝冰道。"
+        },
+        {
+          "chapter": 344,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter352.html",
+          "text": "“再过两天，就是三王传承开启之日。不会有人来找我麻烦的，趁着这个时间，先把横冲直撞蛊合炼出来罢。”"
+        },
+        {
+          "chapter": 345,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter353.html",
+          "text": "两天之后，方源合炼成功，得到了一只全新的蛊虫——横冲直撞蛊。"
+        }
+      ]
+    },
+    {
+      "id": "T237",
+      "timeline": "Parallel revised current threads",
+      "kind": "appointments",
+      "event": "Tian Ti challenges and Fei Li defeat",
+      "constraint": "Formal draw conceals Wei’s defeat. Gu Ting arrives three days later, challenges seven days, fights on eighth. South cut places Fei Li defeat alongside fight start. Xue appointment three days later.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 341,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter349.html",
+          "text": "“魏兄不愧是天妒楼的精英弟子，手段如此奇特犀利，教在下大开眼界，又涨了一份见识。在下的真元，也被兄台消耗殆尽啦。这场切磋，我们就算平手可好？”方正却笑道。"
+        },
+        {
+          "chapter": 341,
+          "paragraph": 47,
+          "file": "OEBPS/Text/chapter349.html",
+          "text": "果然，如魏无伤所说，三天后，古魂门等人来到天梯山。为首的古霆，在得知碧霞仙子和方正的事情后，立即找上门来挑战。"
+        },
+        {
+          "chapter": 341,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter349.html",
+          "text": "一连七日，天天如此。"
+        },
+        {
+          "chapter": 341,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter349.html",
+          "text": "古魂门气势大振，到了第八天，直接率众堵在方正的洞门口，不断叫骂。"
+        },
+        {
+          "chapter": 341,
+          "paragraph": 63,
+          "file": "OEBPS/Text/chapter349.html",
+          "text": "就在方正和古霆交战的同时，远在南疆的三叉山上，一场众人瞩目的战斗，已经完结。"
+        },
+        {
+          "chapter": 341,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter349.html",
+          "text": "方源接过费力蛊，目光闪了闪：“我考虑过了，费力蛊还不足以换你的小命。”"
+        },
+        {
+          "chapter": 341,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter349.html",
+          "text": "方源哈哈一笑：“怎么？飞天虎薛三四没有来吗？你们告诉他去，大家都是力道蛊师，三天后，我要登门，和他切磋！”"
+        }
+      ]
+    },
+    {
+      "id": "T238",
+      "timeline": "Revised current life",
+      "kind": "duel and conditions",
+      "event": "Xue killed after broken agreement",
+      "constraint": "Three-day appointment fulfilled. FY evades, acknowledges formal loss, then kills. Fair-duel victory and survival victory must not be conflated.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 342,
+          "paragraph": 31,
+          "file": "OEBPS/Text/chapter350.html",
+          "text": "三天后，薛三四第一次见到方源。"
+        },
+        {
+          "chapter": 343,
+          "paragraph": 87,
+          "file": "OEBPS/Text/chapter351.html",
+          "text": "但最终，方源反而是借助她的力量，四两拨千斤，灵活反击，将其击杀。"
+        },
+        {
+          "chapter": 343,
+          "paragraph": 92,
+          "file": "OEBPS/Text/chapter351.html",
+          "text": "“没错。我认输，那又如何？”方源嗤笑一声，大声回应。"
+        }
+      ]
+    },
+    {
+      "id": "T239",
+      "timeline": "Revised current / former life",
+      "kind": "two clocks",
+      "event": "Blessed-land rate and episode duration",
+      "constraint": "Internal3× rate versus reversed day conversion is SR147. First clearance after half-plus-year and overall nearly-ten-year episode are different possible milestones, SR148.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 323,
+          "paragraph": 89,
+          "file": "OEBPS/Text/chapter331.html",
+          "text": "不过，三王传承是魔道传承，十分危险。里面狗群众多，关卡重重，前世牺牲了无数性命，耗费大半年的时间，才有人艰难地打通到关底，获得传承。"
+        },
+        {
+          "chapter": 346,
+          "paragraph": 26,
+          "file": "OEBPS/Text/chapter354.html",
+          "text": "“这里的时间流速，大约是外界的三倍。”方源的空窍中央，一直沉眠着的春秋蝉，已经苏醒过来，并且正在以比外界快上三倍的速度，迅速恢复着。"
+        },
+        {
+          "chapter": 346,
+          "paragraph": 32,
+          "file": "OEBPS/Text/chapter354.html",
+          "text": "“在这里过去一天，外界就是三天。必须尽快行动，尽量节省时间。”方源心中油然而生一股紧迫感。"
+        },
+        {
+          "chapter": 347,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter355.html",
+          "text": "前世的三王传承，持续了近十年。卷近了无数人物，魔道正道、英雄枭雄。"
+        },
+        {
+          "chapter": 355,
+          "paragraph": 19,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "三叉山上的蛊仙福地里，时光流速是外界的三倍。方源进去犬王传承一段时间，已经让春秋蝉的恢复有所起色，因此方源只能耐着性子，按部就班地下苦功。"
+        }
+      ]
+    },
+    {
+      "id": "T240",
+      "timeline": "Revised current life",
+      "kind": "elapsed combat / trial progress",
+      "event": "Dog rounds ten through twenty-three decision",
+      "constraint": "Han encounter follows tenth round. Previous best21 and aspiration22 do not date Han’s present round. Round22 hyena fight takes two shichen, approximately four hours; final exit occurs at next selection, not completion of round30.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 347,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter355.html",
+          "text": "整个战场上，站着的野狗，还有十八只，都是方源辛辛苦苦积攒下来的。"
+        },
+        {
+          "chapter": 347,
+          "paragraph": 59,
+          "file": "OEBPS/Text/chapter355.html",
+          "text": "“这人真是不幸，居然碰上我。我要尽可能的，以最小损失，拿下此人。然后向第二十二关，发起冲击。”"
+        },
+        {
+          "chapter": 347,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter355.html",
+          "text": "韩不留对自己很有信心，他上一次冲到第二十一关。这样的成绩，在他的圈子里，已经是数一数二。甚至超越了许多四转高阶、巅峰的蛊师。"
+        },
+        {
+          "chapter": 348,
+          "paragraph": 3,
+          "file": "OEBPS/Text/chapter356.html",
+          "text": "半个时辰后，场中只剩下八只野犬，都是方源所有。"
+        },
+        {
+          "chapter": 351,
+          "paragraph": 86,
+          "file": "OEBPS/Text/chapter359.html",
+          "text": "两个时辰之后。"
+        },
+        {
+          "chapter": 351,
+          "paragraph": 90,
+          "file": "OEBPS/Text/chapter359.html",
+          "text": "“但终究是得胜了……”方源望着脚步，只剩下的十几只犬兽，微微地叹了一口气。"
+        },
+        {
+          "chapter": 351,
+          "paragraph": 99,
+          "file": "OEBPS/Text/chapter359.html",
+          "text": "令牌瞬间光芒大放，虚空破碎，将方源吸摄进去。"
+        }
+      ]
+    },
+    {
+      "id": "T241",
+      "timeline": "Revised current life",
+      "kind": "exit and siege report",
+      "event": "Bai already besieged when FY exits",
+      "constraint": "Exit beam size is not an exact clock. Bai’s killing of Tie participant and subsequent siege are reported retrospectively. FY seeks Li Xian rather than immediate rescue.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 352,
+          "paragraph": 28,
+          "file": "OEBPS/Text/chapter360.html",
+          "text": "四位三转巅峰的蛊师同时出手，运用铁柜蛊，将附近的地域封住。"
+        },
+        {
+          "chapter": 352,
+          "paragraph": 70,
+          "file": "OEBPS/Text/chapter360.html",
+          "text": "“他要去哪里？这个方向，根本就不是白凝冰被困的地方啊。”"
+        },
+        {
+          "chapter": 352,
+          "paragraph": 74,
+          "file": "OEBPS/Text/chapter360.html",
+          "text": "小兽王的搭档，形影不离的白煞白凝冰被困，但小兽王似乎一点都不着急。反而走到李闲的住处来。"
+        }
+      ]
+    },
+    {
+      "id": "T242",
+      "timeline": "Revised current life",
+      "kind": "overnight refinement / delivery",
+      "event": "Thunder Boar, Rock Crocodile and body Gu",
+      "constraint": "Strength refinements finish overnight. Ancient Bronze Skin delivered354; Refined Iron Bone arrives three days afterward. The body modifications take ongoing use, not instant completion.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 353,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter361.html",
+          "text": "一晚就在修炼中，不知不觉地过去。"
+        },
+        {
+          "chapter": 353,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter361.html",
+          "text": "他虽然疲惫，但内心喜悦。成功地将山猪之力、鳄鱼之力，提升到雷猪、岩鳄之力，他的战力暴涨了至少三分！"
+        },
+        {
+          "chapter": 354,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter362.html",
+          "text": "人们将其称之为“古铜皮蛊”。"
+        },
+        {
+          "chapter": 355,
+          "paragraph": 7,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "李闲递交了古铜皮蛊后三天，就将这只蛊亲自交到方源的手上。"
+        },
+        {
+          "chapter": 355,
+          "paragraph": 9,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "方源这些天，都在不断地运用精铁骨，以及古铜皮这两只蛊，来锻造自己的身躯。"
+        }
+      ]
+    },
+    {
+      "id": "T243",
+      "timeline": "Revised current life",
+      "kind": "month clocks / unresolved overlap",
+      "event": "More than a month since exit; two months besieged",
+      "constraint": "355p12 gives more than a month since FY exit; p28 gives two-month captivity in Yi Huo’s speech. Do not simply subtract rounded durations or infer exact internal stay.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 355,
+          "paragraph": 12,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "“距离从犬王传承中出来，已经过去了一个月有余。古铜皮蛊已经运用得差不多了，但是精铁蛊距离彻底成功，还差距很远。除非动用宙道蛊虫，进行时光加速。”方源心中思量着。"
+        },
+        {
+          "chapter": 355,
+          "paragraph": 28,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "“不错。”易火点点头，双目紧紧地盯住方源，微微一笑道，“你和白凝冰二人，曾经在我们商家居住过一段时间，我们商家的实力你们一定深有体会，我就不多说了。关键是现在，你的同伴白凝冰被铁家四老困住，前前后后已经两个月了。你们俩只要加入我们商家，我就立即出面，将白凝冰为你解救出来。”"
+        }
+      ]
+    },
+    {
+      "id": "T244",
+      "timeline": "Revised current life",
+      "kind": "elapsed negotiation",
+      "event": "Three plus three plus ten days",
+      "constraint": "Yi Huo’s successive delays total16 days after initial visit. His three-day complaint atp58 can refer to the latest extension rather than deny the first three. End: opening imminent, no new entry yet.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 355,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "易火的眉头舒展了一些：“既然如此，那就给你三天的时间。三天之后，我再来这里，希望听到皆大欢喜的答复。”"
+        },
+        {
+          "chapter": 355,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "三天后。"
+        },
+        {
+          "chapter": 355,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "“那好吧，再给你三天时间。方正，我很看好你。”"
+        },
+        {
+          "chapter": 355,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "又三天后。"
+        },
+        {
+          "chapter": 355,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "“什么？你考虑了三天，居然给我这个回答？”易火语气颇为气愤。"
+        },
+        {
+          "chapter": 355,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "“哦？是这样。”方源脸现犹豫之色，“那……还是再让我考虑考虑吧。给我十天的时间，我再琢磨琢磨。”"
+        },
+        {
+          "chapter": 355,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "十天之后。"
+        },
+        {
+          "chapter": 355,
+          "paragraph": 75,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "“易火大人，您这话可就不对了。我对你可一直抱着诚意啊。你的心情，我也理解。不过眼下，最要紧的事情，却是三王传承。距离上次开启，时间已经过得差不多了。”"
+        }
+      ]
+    },
+    {
+      "id": "T245",
+      "timeline": "Former life / conditional future",
+      "kind": "outcome memories / forecasts",
+      "event": "Tie elders and Yi Huo outcomes not current events",
+      "constraint": "Former-life Tie capture and death, Yi Huo’s dominance and poisoning, and prospective Shang Huo surname are not presently accomplished.",
+      "evidence_status": "Source wording checked; interpretation provisional and scoped",
+      "dependency": "Whole-novel reconciliation outstanding; no exact dates invented",
+      "sources": [
+        {
+          "chapter": 353,
+          "paragraph": 83,
+          "file": "OEBPS/Text/chapter361.html",
+          "text": "在方源前世，铁家四老就是靠着这个杀招，将魔道人物孔日天拘拿。但旋即，他们就被一位三转蛊师斩杀。"
+        },
+        {
+          "chapter": 353,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter361.html",
+          "text": "五转的搜锁蛊，对真元消耗非常巨大。铁家四老也算是悲剧人物，他们苦练杀招多年，总算出了一把风头，但没有风光多久，就因为真元不足，被一个三转蛊师杀掉了。"
+        },
+        {
+          "chapter": 355,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "在方源前世的记忆里，易火也是被商家派遣到这边，力压武神通、翼冲，击败孔日天、龙青天，一度称霸三叉山。"
+        },
+        {
+          "chapter": 355,
+          "paragraph": 37,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "但后来，他得势不饶人，把龙青天逼急了。龙青天使出了碧空蛊，易火中了毒，只能回去商家城找素手医师救治。"
+        },
+        {
+          "chapter": 355,
+          "paragraph": 46,
+          "file": "OEBPS/Text/chapter363.html",
+          "text": "他耐住性子：“方正，也不怕实话告诉你。来的时候，族长大人已经允诺我。只要我在三叉山上立下大功，把持住这里的局面，回到商家城后就会赐姓给我。到那时，我不再是易火，乃是商火。成为商家族人，我也就有权利来举荐人才。”"
         }
       ]
     }

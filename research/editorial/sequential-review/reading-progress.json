@@ -317,14 +317,54 @@
     312,
     313,
     314,
-    315
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355
   ],
-  "paragraphs_read": 28425,
-  "paragraph_characters_read": 980817,
-  "next_chapter": 316,
-  "remaining_chapters": 2019,
-  "batch_report": "Batch-016-Chapters-301-315.md",
-  "scope": "Full sequential Chinese-source reading through315; not a fresh bilingual/live-site audit",
+  "paragraphs_read": 32108,
+  "paragraph_characters_read": 1105412,
+  "next_chapter": 356,
+  "remaining_chapters": 1979,
+  "batch_report": "Batch-018-Chapters-336-355.md",
+  "scope": "Full sequential Chinese-source reading through355; selected external fact-checks, not fresh bilingual/live-site audit",
   "publication_policy": "All emendations held for complete2334-chapter review and global reconciliation.",
   "whole_novel_chronology_verified": false,
   "batches": [
@@ -486,6 +526,26 @@
       "paragraphs": 1487,
       "characters": 47936,
       "reading_segments": "Seven complete untruncated two-chapter outputs and complete315; adaptive15"
+    },
+    {
+      "id": "017",
+      "chapters": [
+        316,
+        335
+      ],
+      "paragraphs": 1847,
+      "characters": 62910,
+      "reading_segments": "Ten complete untruncated two-chapter outputs; expanded20"
+    },
+    {
+      "id": "018",
+      "chapters": [
+        336,
+        355
+      ],
+      "paragraphs": 1836,
+      "characters": 61685,
+      "reading_segments": "Ten complete untruncated two-chapter outputs"
     }
   ],
   "chapters": [
@@ -3008,6 +3068,326 @@
       "paragraphs": 94,
       "first_paragraph": 1,
       "last_paragraph": 94
+    },
+    {
+      "chapter": 316,
+      "file": "OEBPS/Text/chapter324.html",
+      "title": "第一百一十七节：必胜魔心",
+      "paragraphs": 110,
+      "first_paragraph": 1,
+      "last_paragraph": 110
+    },
+    {
+      "chapter": 317,
+      "file": "OEBPS/Text/chapter325.html",
+      "title": "第一百一十八节：方源vs巨开碑（上）",
+      "paragraphs": 122,
+      "first_paragraph": 1,
+      "last_paragraph": 122
+    },
+    {
+      "chapter": 318,
+      "file": "OEBPS/Text/chapter326.html",
+      "title": "第一百一十九节：方源vs巨开碑（中）",
+      "paragraphs": 98,
+      "first_paragraph": 1,
+      "last_paragraph": 98
+    },
+    {
+      "chapter": 319,
+      "file": "OEBPS/Text/chapter327.html",
+      "title": "第一百二十节：方源vs巨开碑（下）",
+      "paragraphs": 120,
+      "first_paragraph": 1,
+      "last_paragraph": 120
+    },
+    {
+      "chapter": 320,
+      "file": "OEBPS/Text/chapter328.html",
+      "title": "第一百二十一节：一飞冲天",
+      "paragraphs": 106,
+      "first_paragraph": 1,
+      "last_paragraph": 106
+    },
+    {
+      "chapter": 321,
+      "file": "OEBPS/Text/chapter329.html",
+      "title": "第一百二十二节：商家城喧腾",
+      "paragraphs": 80,
+      "first_paragraph": 1,
+      "last_paragraph": 80
+    },
+    {
+      "chapter": 322,
+      "file": "OEBPS/Text/chapter330.html",
+      "title": "第一百二十三节：竞争压力",
+      "paragraphs": 70,
+      "first_paragraph": 1,
+      "last_paragraph": 70
+    },
+    {
+      "chapter": 323,
+      "file": "OEBPS/Text/chapter331.html",
+      "title": "第一百二十四节：三王传承开启",
+      "paragraphs": 100,
+      "first_paragraph": 1,
+      "last_paragraph": 100
+    },
+    {
+      "chapter": 324,
+      "file": "OEBPS/Text/chapter332.html",
+      "title": "第一百二十五节：大赚一笔",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 325,
+      "file": "OEBPS/Text/chapter333.html",
+      "title": "第一百二十六节：仙之福地",
+      "paragraphs": 70,
+      "first_paragraph": 1,
+      "last_paragraph": 70
+    },
+    {
+      "chapter": 326,
+      "file": "OEBPS/Text/chapter334.html",
+      "title": "第一百二十七节：九眼酒虫",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 327,
+      "file": "OEBPS/Text/chapter335.html",
+      "title": "第一百二十八节：才貌双全，心慈风采",
+      "paragraphs": 92,
+      "first_paragraph": 1,
+      "last_paragraph": 92
+    },
+    {
+      "chapter": 328,
+      "file": "OEBPS/Text/chapter336.html",
+      "title": "第一百二十九节：都是吃",
+      "paragraphs": 89,
+      "first_paragraph": 1,
+      "last_paragraph": 89
+    },
+    {
+      "chapter": 329,
+      "file": "OEBPS/Text/chapter337.html",
+      "title": "第一百三十节：雄家三兄弟",
+      "paragraphs": 89,
+      "first_paragraph": 1,
+      "last_paragraph": 89
+    },
+    {
+      "chapter": 330,
+      "file": "OEBPS/Text/chapter338.html",
+      "title": "第一百三十一节：卫德馨",
+      "paragraphs": 85,
+      "first_paragraph": 1,
+      "last_paragraph": 85
+    },
+    {
+      "chapter": 331,
+      "file": "OEBPS/Text/chapter339.html",
+      "title": "第一百三十二节：晋升四转",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 332,
+      "file": "OEBPS/Text/chapter340.html",
+      "title": "第一百三十三节：周全的震骇",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 333,
+      "file": "OEBPS/Text/chapter341.html",
+      "title": "第一百三十四节：离开商家城",
+      "paragraphs": 91,
+      "first_paragraph": 1,
+      "last_paragraph": 91
+    },
+    {
+      "chapter": 334,
+      "file": "OEBPS/Text/chapter342.html",
+      "title": "第一百三十五节：仙鹤门，方正",
+      "paragraphs": 96,
+      "first_paragraph": 1,
+      "last_paragraph": 96
+    },
+    {
+      "chapter": 335,
+      "file": "OEBPS/Text/chapter343.html",
+      "title": "第一百三十六节：白狐蛊仙传承",
+      "paragraphs": 76,
+      "first_paragraph": 1,
+      "last_paragraph": 76
+    },
+    {
+      "chapter": 336,
+      "file": "OEBPS/Text/chapter344.html",
+      "title": "第一百三十七节：英雄救美",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 337,
+      "file": "OEBPS/Text/chapter345.html",
+      "title": "第一百三十八节：见死不救",
+      "paragraphs": 98,
+      "first_paragraph": 1,
+      "last_paragraph": 98
+    },
+    {
+      "chapter": 338,
+      "file": "OEBPS/Text/chapter346.html",
+      "title": "第一百三十九节：狐魅儿",
+      "paragraphs": 89,
+      "first_paragraph": 1,
+      "last_paragraph": 89
+    },
+    {
+      "chapter": 339,
+      "file": "OEBPS/Text/chapter347.html",
+      "title": "第一百四十节：麻烦",
+      "paragraphs": 74,
+      "first_paragraph": 1,
+      "last_paragraph": 74
+    },
+    {
+      "chapter": 340,
+      "file": "OEBPS/Text/chapter348.html",
+      "title": "第一百四十一节：打成肉渣",
+      "paragraphs": 104,
+      "first_paragraph": 1,
+      "last_paragraph": 104
+    },
+    {
+      "chapter": 341,
+      "file": "OEBPS/Text/chapter349.html",
+      "title": "第一百四十二节：何等的穷凶极恶！",
+      "paragraphs": 83,
+      "first_paragraph": 1,
+      "last_paragraph": 83
+    },
+    {
+      "chapter": 342,
+      "file": "OEBPS/Text/chapter350.html",
+      "title": "第一百四十三节：彪",
+      "paragraphs": 100,
+      "first_paragraph": 1,
+      "last_paragraph": 100
+    },
+    {
+      "chapter": 343,
+      "file": "OEBPS/Text/chapter351.html",
+      "title": "第一百四十四节：卑劣无耻",
+      "paragraphs": 113,
+      "first_paragraph": 1,
+      "last_paragraph": 113
+    },
+    {
+      "chapter": 344,
+      "file": "OEBPS/Text/chapter352.html",
+      "title": "第一百四十五节：有才无德",
+      "paragraphs": 79,
+      "first_paragraph": 1,
+      "last_paragraph": 79
+    },
+    {
+      "chapter": 345,
+      "file": "OEBPS/Text/chapter353.html",
+      "title": "第一百四十六节：横冲直撞蛊",
+      "paragraphs": 92,
+      "first_paragraph": 1,
+      "last_paragraph": 92
+    },
+    {
+      "chapter": 346,
+      "file": "OEBPS/Text/chapter354.html",
+      "title": "第一百四十七节：初入犬王传承",
+      "paragraphs": 102,
+      "first_paragraph": 1,
+      "last_paragraph": 102
+    },
+    {
+      "chapter": 347,
+      "file": "OEBPS/Text/chapter355.html",
+      "title": "第一百四十八节：何等的奴道造诣！",
+      "paragraphs": 95,
+      "first_paragraph": 1,
+      "last_paragraph": 95
+    },
+    {
+      "chapter": 348,
+      "file": "OEBPS/Text/chapter356.html",
+      "title": "第一百四十九节：菊花秋田犬",
+      "paragraphs": 95,
+      "first_paragraph": 1,
+      "last_paragraph": 95
+    },
+    {
+      "chapter": 349,
+      "file": "OEBPS/Text/chapter357.html",
+      "title": "第一百五十节：大电文狗",
+      "paragraphs": 110,
+      "first_paragraph": 1,
+      "last_paragraph": 110
+    },
+    {
+      "chapter": 350,
+      "file": "OEBPS/Text/chapter358.html",
+      "title": "第一百五十一节：狗胆蛊",
+      "paragraphs": 86,
+      "first_paragraph": 1,
+      "last_paragraph": 86
+    },
+    {
+      "chapter": 351,
+      "file": "OEBPS/Text/chapter359.html",
+      "title": "第一百五十二节：一心多用蛊",
+      "paragraphs": 100,
+      "first_paragraph": 1,
+      "last_paragraph": 100
+    },
+    {
+      "chapter": 352,
+      "file": "OEBPS/Text/chapter360.html",
+      "title": "第一百五十三节：随手杀了",
+      "paragraphs": 93,
+      "first_paragraph": 1,
+      "last_paragraph": 93
+    },
+    {
+      "chapter": 353,
+      "file": "OEBPS/Text/chapter361.html",
+      "title": "第一百五十四节：雷猪、岩鳄",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 354,
+      "file": "OEBPS/Text/chapter362.html",
+      "title": "第一百五十五节：古铜皮蛊",
+      "paragraphs": 79,
+      "first_paragraph": 1,
+      "last_paragraph": 79
+    },
+    {
+      "chapter": 355,
+      "file": "OEBPS/Text/chapter363.html",
+      "title": "第一百五十六节：易火的招揽",
+      "paragraphs": 76,
+      "first_paragraph": 1,
+      "last_paragraph": 76
     }
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "repository": "TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch",
+  "branch": "main",
+  "commit": "8d542c76b5adddfeaf62a192c2b3ea1936e97767",
+  "remote_verified": true,
+  "coverage_through": 315,
+  "changed_files": 29,
+  "manifest_files": 411,
+  "scope": "research/ only, no remote deletions",
+  "original_epub_modified": false,
+  "token_written_to_file": false,
+  "remote_content_sha256_checks": [
+    "editorial/sequential-review/Batch-016-Chapters-301-315.docx",
+    "editorial/sequential-review/Sequential-Reading-and-Proposals.xlsx",
+    "editorial/sequential-review/proposal-ledger.json",
+    "editorial/sequential-review/reading-progress.json"
+  ]
+}
