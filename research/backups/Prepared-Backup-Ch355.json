@@ -4,10 +4,14 @@
   "sha256": "e6cd99b4124470c4e49199f0ecb26bc6f720368a6b2a92d6b3ba4f5203aa96e1",
   "files": 488,
   "coverage_through": 355,
-  "remote_uploaded": false,
+  "remote_uploaded": true,
   "last_verified_remote": 315,
   "superseded_archive": "backups/Omniarch-Research-Through-Chapter-335.zip",
   "superseded_contents_all_hash_verified": true,
   "restore_map": "BACKUP-MANIFEST-CH355.json: superseded_ch335_contents",
-  "cleanup": "Removed redundant335 ZIP only after every member was preserved and hash-verified in355 archive, including changed historical exports."
+  "cleanup": "Removed redundant335 ZIP only after every member was preserved and hash-verified in355 archive, including changed historical exports.",
+  "remote_verified": true,
+  "remote_commit": "238159596ae7dd51592aed5730cfdee16d34e057",
+  "remote_path": "research/backups/Omniarch-Research-Through-Chapter-355.zip",
+  "local_archive_removed_after_fresh_remote_sha256_check": true
 }

@@ -1,21 +1,21 @@
-# Workspace reduction requested after Chapter355
+# GitHub move complete through Chapter355
 
-Status: partial cleanup complete; new GitHub upload blocked by missing write credential.
+Verified data commit: 238159596ae7dd51592aed5730cfdee16d34e057
+Repository: TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch
+Branch: main
 
-- No usable GitHub credential remains in the current context, environment or Git credential helper. Previous credentials were deliberately not persisted. Connector lookup returned unsupported; direct public GitHub reads work.
-- Remote verified research coverage remains315, not355. Do not delete the new355 archive or unuploaded fact-checks/research as though remotely backed up.
-- All395 members of the old285 ZIP were freshly matched to GitHub Git-blob hashes at commit9a1c8a25509d54c50754498ea4b0e5e1520a1ce1. Removed the redundant container only after complete verification.
-- Fifteen historical binary exports/archives matched the current remote Git tree and were removed locally. Original Chinese EPUB, current cumulative workbook, code, source JSON, registers and recent reports retained.
-- The large derived text index is losslessly gzip-compressed. Exact uncompressed SHA256 verified; no text discarded. This was compression, not a new remote upload. No sequential reading progress changed.
-- Net cleanup savings:36,150,097 bytes before small receipts/scripts, about36.2MB decimal or34.5MiB. Regular workspace files approximately80MB after cleanup.
-- Latest research archive:Omniarch-Research-Through-Chapter-355.zip,21,464,989 bytes; SHA256e6cd99b4124470c4e49199f0ecb26bc6f720368a6b2a92d6b3ba4f5203aa96e1. Still local only.
+488 mapped files verified against committed Git blob hashes.108 changed/new files uploaded.107 actual remote file downloads SHA256-checked, including every local removal candidate and critical current registers/report.103 local archived files removed only after verification.40,766,980 bytes freed in this move, in addition to the earlier36,150,097-byte reduction. Remaining regular workspace files approximately40MB.
+
+Remote archive: research/backups/Omniarch-Research-Through-Chapter-355.zip. This also preserves changed historical335 exports and their restoration map. The compressed text index is at research/benchmark/sources/epub-text-index.json.gz. Earlier285 files remain at their verified original commit. No remote files were deleted.
+
+Original EPUB, current cumulative workbook, source JSON through355, current registers, code and latest report retained locally. No source/site edits. Reading remains through355, next356.
+
+The live synopsis audit is separately saved and uploaded at research/editorial/synopsis-check-2026-10-14/Live-Synopsis-Comparison.md. All wording changes are proposals only.
 
 ## Restore
 
-Run `python3 backups/restore_archived_file.py '<local path>'` for a deleted single-file export, or use `benchmark/sources/epub-text-index.json` as the path to decompress the index. Existing files are not overwritten. All restored bytes are checked against SHA256.
+`python3 backups/restore_archived_file.py '<local path>'`
 
-Full removal receipt:Workspace-Cleanup-Requested-Ch355.json. The original285 archive's remote member map is Cleanup-285-Remote-Verification.json. It can be rebuilt from research paths at its pinned commit; ZIP-container metadata may differ but member bytes are verified.
+Existing files are not overwritten. Fresh downloads are SHA256-checked. Passing benchmark/sources/epub-text-index.json fetches its remote gzip if necessary and restores the exact original JSON. Downloading that full index is not required for continuing sequential reading.
 
-## Remaining move
-
-Requires a write-enabled GitHub credential supplied again, or user upload of the355 archive. Existing authorisation to back up research and remove verified local duplicates remains valid; no new permission question is needed. Once authenticated, upload new research and cleanup receipts, verify the actual remote bytes/commit, then remove local archived exports as appropriate while retaining a lean working set for Chapter356 onward. Never persist or print the credential.
+The credential was used transiently and was not written to any file. Complete removal records are in GitHub-Backup-Receipt-Ch355.json and Workspace-Cleanup-Requested-Ch355.json. Old local receipt claims about remote315 reflect historical state and are superseded by this checkpoint.

@@ -8,4 +8,7 @@ Fourteen external captures:323/326/339/341/343/344/345/346/347/351/352/353/354/3
 
 Endpoint: FY/BaiFourinitial; FY middle essence, combinedCharge acquired, ThunderBoar/RockCrocodile strength upgraded; bronze/bone treatments ongoing. Bai still besieged, YiHuo refused, next opening imminent.
 
-Report, numbered source, five jotters, reading log, cumulative workbook and registers saved. Limited reader omissions marked; full internal extraction unchanged. Remote verified315 only, commit8d542c76b5adddfeaf62a192c2b3ea1936e97767. No355remote upload claimed. Independent export QA passed: all1836 source paragraphs checked directly against EPUB; numbered source and workbook checked; DOCX table19rows; report quotations exact. Report ready for presentation.
+Report, numbered source, five jotters, reading log, cumulative workbook and registers saved. Limited reader omissions marked; full internal extraction unchanged. Remote verified through355, commit238159596ae7dd51592aed5730cfdee16d34e057. Uploaded research, fact-check corrections and live synopsis audit. Archived copies removed only after Git-hash and fresh remote SHA256 verification. Independent export QA passed: all1836 source paragraphs checked directly against EPUB; numbered source and workbook checked; DOCX table19rows; report quotations exact. Report ready for presentation.
+
+
+Workspace move completed. Current original EPUB, batch-source JSON, scripts, registers, workbook and latest report retained. Earlier archived files can be restored with backups/restore_archived_file.py; see backups/GitHub-Backup-Receipt-Ch355.json. Sequential coverage remains355; next356. The separate synopsis check does not advance chapter coverage.

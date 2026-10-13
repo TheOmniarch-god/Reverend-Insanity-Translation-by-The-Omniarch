@@ -1,0 +1,847 @@
+{
+  "repository": "TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch",
+  "branch": "main",
+  "commit": "238159596ae7dd51592aed5730cfdee16d34e057",
+  "coverage_through": 355,
+  "remote_verified": true,
+  "all_mapped_git_blob_hashes_verified": true,
+  "mapped_files": 488,
+  "uploaded_changed_files": 108,
+  "fresh_remote_sha256_files": [
+    "backups/Omniarch-Research-Through-Chapter-355.zip",
+    "benchmark/sources/epub-text-index.json.gz",
+    "editorial/sequential-review/Batch-016-Chapters-301-315.docx",
+    "editorial/sequential-review/Batch-016-Fact-Check-Addendum.docx",
+    "editorial/sequential-review/Batch-017-Chapters-316-335.docx",
+    "editorial/sequential-review/fact-check-016/ch301-hetushu.html",
+    "editorial/sequential-review/fact-check-016/ch302-hetushu.html",
+    "editorial/sequential-review/fact-check-016/ch304-hetushu.html",
+    "editorial/sequential-review/fact-check-016/ch306-hetushu.html",
+    "editorial/sequential-review/fact-check-016/ch312-hetushu.html",
+    "editorial/sequential-review/fact-check-017/ch121-hetushu.html",
+    "editorial/sequential-review/fact-check-017/ch145-hetushu.html",
+    "editorial/sequential-review/fact-check-017/ch325-hetushu.html",
+    "editorial/sequential-review/fact-check-017/ch326-hetushu.html",
+    "editorial/sequential-review/fact-check-017/ch327-hetushu.html",
+    "editorial/sequential-review/fact-check-017/ch329-hetushu.html",
+    "editorial/sequential-review/fact-check-017/ch332-hetushu.html",
+    "editorial/sequential-review/fact-check-017/ch334-hetushu.html",
+    "editorial/sequential-review/fact-check-018/ch323-hetushu.html",
+    "editorial/sequential-review/fact-check-018/ch326-hetushu.html",
+    "editorial/sequential-review/fact-check-018/ch339-hetushu.html",
+    "editorial/sequential-review/fact-check-018/ch341-hetushu.html",
+    "editorial/sequential-review/fact-check-018/ch343-hetushu.html",
+    "editorial/sequential-review/fact-check-018/ch344-hetushu.html",
+    "editorial/sequential-review/fact-check-018/ch345-hetushu.html",
+    "editorial/sequential-review/fact-check-018/ch346-hetushu.html",
+    "editorial/sequential-review/fact-check-018/ch347-hetushu.html",
+    "editorial/sequential-review/fact-check-018/ch351-hetushu.html",
+    "editorial/sequential-review/fact-check-018/ch352-hetushu.html",
+    "editorial/sequential-review/fact-check-018/ch353-hetushu.html",
+    "editorial/sequential-review/fact-check-018/ch354-hetushu.html",
+    "editorial/sequential-review/fact-check-018/ch355-hetushu.html",
+    "editorial/sequential-review/history/before-batch002-Batch-001-Chapters-1-10.md",
+    "editorial/sequential-review/history/before-batch002-proposal-ledger.json",
+    "editorial/sequential-review/history/before-batch002-reading-progress.json",
+    "editorial/sequential-review/history/before-batch003-chronology-register.json",
+    "editorial/sequential-review/history/before-batch003-proposal-ledger.json",
+    "editorial/sequential-review/history/before-batch003-reading-progress.json",
+    "editorial/sequential-review/history/before-batch004-chronology-register.json",
+    "editorial/sequential-review/history/before-batch004-proposal-ledger.json",
+    "editorial/sequential-review/history/before-batch004-reading-progress.json",
+    "editorial/sequential-review/history/before-batch004-resource-register.json",
+    "editorial/sequential-review/history/before-batch005-chronology-register.json",
+    "editorial/sequential-review/history/before-batch005-proposal-ledger.json",
+    "editorial/sequential-review/history/before-batch005-reading-progress.json",
+    "editorial/sequential-review/history/before-batch005-resource-register.json",
+    "editorial/sequential-review/history/before-batch006-chronology-register.json",
+    "editorial/sequential-review/history/before-batch006-proposal-ledger.json",
+    "editorial/sequential-review/history/before-batch006-reading-progress.json",
+    "editorial/sequential-review/history/before-batch006-resource-register.json",
+    "editorial/sequential-review/history/before-batch007-chronology-register.json",
+    "editorial/sequential-review/history/before-batch007-proposal-ledger.json",
+    "editorial/sequential-review/history/before-batch007-reading-progress.json",
+    "editorial/sequential-review/history/before-batch007-resource-register.json",
+    "editorial/sequential-review/history/before-batch008-chronology-register.json",
+    "editorial/sequential-review/history/before-batch008-proposal-ledger.json",
+    "editorial/sequential-review/history/before-batch008-reading-progress.json",
+    "editorial/sequential-review/history/before-batch008-resource-register.json",
+    "editorial/sequential-review/history/before-batch009-chronology-register.json",
+    "editorial/sequential-review/history/before-batch009-proposal-ledger.json",
+    "editorial/sequential-review/history/before-batch009-reading-progress.json",
+    "editorial/sequential-review/history/before-batch009-resource-register.json",
+    "editorial/sequential-review/history/before-batch009-working-standards-register.json",
+    "editorial/sequential-review/history/before-batch010-chronology-register.json",
+    "editorial/sequential-review/history/before-batch010-proposal-ledger.json",
+    "editorial/sequential-review/history/before-batch010-reading-progress.json",
+    "editorial/sequential-review/history/before-batch010-resource-register.json",
+    "editorial/sequential-review/history/before-batch010-working-standards-register.json",
+    "editorial/sequential-review/history/before-batch011-chronology-register.json",
+    "editorial/sequential-review/history/before-batch011-proposal-ledger.json",
+    "editorial/sequential-review/history/before-batch011-reading-progress.json",
+    "editorial/sequential-review/history/before-batch011-resource-register.json",
+    "editorial/sequential-review/history/before-batch011-working-standards-register.json",
+    "editorial/sequential-review/history/before-batch012-chronology-register.json",
+    "editorial/sequential-review/history/before-batch012-proposal-ledger.json",
+    "editorial/sequential-review/history/before-batch012-reading-progress.json",
+    "editorial/sequential-review/history/before-batch012-resource-register.json",
+    "editorial/sequential-review/history/before-batch012-working-standards-register.json",
+    "editorial/sequential-review/history/before-batch013-chronology-register.json",
+    "editorial/sequential-review/history/before-batch013-proposal-ledger.json",
+    "editorial/sequential-review/history/before-batch013-reading-progress.json",
+    "editorial/sequential-review/history/before-batch013-resource-register.json",
+    "editorial/sequential-review/history/before-batch013-working-standards-register.json",
+    "editorial/sequential-review/history/before-batch014-chronology-register.json",
+    "editorial/sequential-review/history/before-batch014-proposal-ledger.json",
+    "editorial/sequential-review/history/before-batch014-reading-progress.json",
+    "editorial/sequential-review/history/before-batch014-resource-register.json",
+    "editorial/sequential-review/history/before-batch014-working-standards-register.json",
+    "editorial/sequential-review/history/before-batch015-chronology-register.json",
+    "editorial/sequential-review/history/before-batch015-proposal-ledger.json",
+    "editorial/sequential-review/history/before-batch015-reading-progress.json",
+    "editorial/sequential-review/history/before-batch015-resource-register.json",
+    "editorial/sequential-review/history/before-batch015-working-standards-register.json",
+    "editorial/sequential-review/history/before-batch016-chronology-register.json",
+    "editorial/sequential-review/history/before-batch016-proposal-ledger.json",
+    "editorial/sequential-review/history/before-batch016-reading-progress.json",
+    "editorial/sequential-review/history/before-batch016-resource-register.json",
+    "editorial/sequential-review/history/before-batch016-working-standards-register.json",
+    "editorial/sequential-review/history/before-batch017-chronology-register.json",
+    "editorial/sequential-review/history/before-batch017-proposal-ledger.json",
+    "editorial/sequential-review/history/before-batch017-reading-progress.json",
+    "editorial/sequential-review/history/before-batch017-resource-register.json",
+    "editorial/sequential-review/history/before-batch017-working-standards-register.json",
+    "editorial/sequential-review/Sequential-Reading-and-Proposals.xlsx",
+    "editorial/sequential-review/proposal-ledger.json",
+    "editorial/sequential-review/reading-progress.json",
+    "editorial/synopsis-check-2026-10-14/Live-Synopsis-Comparison.md"
+  ],
+  "deleted_local_files": [
+    {
+      "local_path": "backups/Omniarch-Research-Through-Chapter-355.zip",
+      "remote_path": "research/backups/Omniarch-Research-Through-Chapter-355.zip",
+      "bytes": 21464989,
+      "sha256": "e6cd99b4124470c4e49199f0ecb26bc6f720368a6b2a92d6b3ba4f5203aa96e1",
+      "git_blob_sha": "79da00498eafc35858259ce82e0cbf206b70e0c1"
+    },
+    {
+      "local_path": "benchmark/sources/epub-text-index.json.gz",
+      "remote_path": "research/benchmark/sources/epub-text-index.json.gz",
+      "bytes": 9268759,
+      "sha256": "8218906363baedd6609eb5bf60db78224a53a7319a90239f3996a73579aa176e",
+      "git_blob_sha": "394b6657b695f4b884bb27353c4b461b53e7c553"
+    },
+    {
+      "local_path": "editorial/sequential-review/Batch-016-Chapters-301-315.docx",
+      "remote_path": "research/editorial/sequential-review/Batch-016-Chapters-301-315.docx",
+      "bytes": 47118,
+      "sha256": "c08de66723b425ecb9fe0c14c0c1c6c00417754d9ad6a961f31ec12070b2b336",
+      "git_blob_sha": "85a3ea99b6e95925df99fb06cdfd015165b4d7ac"
+    },
+    {
+      "local_path": "editorial/sequential-review/Batch-016-Fact-Check-Addendum.docx",
+      "remote_path": "research/editorial/sequential-review/Batch-016-Fact-Check-Addendum.docx",
+      "bytes": 41347,
+      "sha256": "4f1d60dbbcf4129d7cb192617535bf6de59be6549de51964f0a635dfa011a42b",
+      "git_blob_sha": "890096ba65cc4b3a104427c6d9279bd0d113372d"
+    },
+    {
+      "local_path": "editorial/sequential-review/Batch-017-Chapters-316-335.docx",
+      "remote_path": "research/editorial/sequential-review/Batch-017-Chapters-316-335.docx",
+      "bytes": 58947,
+      "sha256": "1fa23af695ddb097fd146208dcd9f74993cc578766702295472e74de1ca0d9c3",
+      "git_blob_sha": "f9024586f51f5bf2d4d33fc914c6c05dd7f60e19"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-016/ch301-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-016/ch301-hetushu.html",
+      "bytes": 15544,
+      "sha256": "651a79730b0a8b68aaca3b31069e28efc89ce625823c74b3a3c97a8d20237c5c",
+      "git_blob_sha": "1a8ec523fbfaa72ff59badb02217f15fb4e340dd"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-016/ch302-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-016/ch302-hetushu.html",
+      "bytes": 15341,
+      "sha256": "3920a0412f17800ff78c322b6321a34d54ce8415a4eb90cd934384ca42441232",
+      "git_blob_sha": "ab4a5b752b464b81bbe3162538a47eacb3a7ddc1"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-016/ch304-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-016/ch304-hetushu.html",
+      "bytes": 16048,
+      "sha256": "e5d68e6d12147ebcd01a577080354277e61e0dd6200ee8d78a1923550c6c90ce",
+      "git_blob_sha": "591b0129eb75ae218cef58558299826dcd69d886"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-016/ch306-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-016/ch306-hetushu.html",
+      "bytes": 15644,
+      "sha256": "095ef5ba509beb05774524c5bd743aeed7406d8a6ce89fd14c93fb2707475021",
+      "git_blob_sha": "1df56af6f4acf2554d6637e4a13dad4b29f5ee2d"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-016/ch312-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-016/ch312-hetushu.html",
+      "bytes": 15871,
+      "sha256": "766fc4180dd30b2a06504904b24a967f6212afdebebe41f01aa1999c4d293a8b",
+      "git_blob_sha": "fa51030aae55f57730eddb0702dacf8d739faaf7"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-017/ch121-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-017/ch121-hetushu.html",
+      "bytes": 16888,
+      "sha256": "3405a40ac3fc2f3989cb6fdb9dc5e1547ed38257e7b2ecf111cecd75ee12426f",
+      "git_blob_sha": "097493acfa9f46a0c0545bcafcc9d6453120c160"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-017/ch145-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-017/ch145-hetushu.html",
+      "bytes": 16265,
+      "sha256": "dc3c1371ab479d776e4cbdaa26401e20dceb317f3daafaa801f31e2df742d617",
+      "git_blob_sha": "bc8a17f89011648a8040fd33e5fad760e4ffb0d7"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-017/ch325-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-017/ch325-hetushu.html",
+      "bytes": 15791,
+      "sha256": "fc06eadd0ba2559053981137ae9d07709330059bb12f4f81c2cb8f44d4840773",
+      "git_blob_sha": "934ae49b215c4173382f12084de28fedf6761afc"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-017/ch326-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-017/ch326-hetushu.html",
+      "bytes": 15945,
+      "sha256": "fa3ecb4843f07ae0f4e12cb1c49940f8c8d6211adf7a8f9ae4a58101c2dcd2af",
+      "git_blob_sha": "e237437077c3642a11042172ac5e0d776b64f5a6"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-017/ch327-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-017/ch327-hetushu.html",
+      "bytes": 19041,
+      "sha256": "5eb02eb6077a5be9fc6cf407d91fd43c1fd17357cdd0ff62dc0851c3144aa4d5",
+      "git_blob_sha": "29735eccbc69a3cae36e718e2cdcbc273f18f166"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-017/ch329-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-017/ch329-hetushu.html",
+      "bytes": 15595,
+      "sha256": "1bf480ff5326603da88175156069714fdc034c39c6d71937d8537a7ba856120b",
+      "git_blob_sha": "8a902a6a008afbd31fcb9f71e52100930337bea2"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-017/ch332-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-017/ch332-hetushu.html",
+      "bytes": 15501,
+      "sha256": "af1dc57174c7525ab81af2019fc7ee1da81c16702570f53bd7df7fdcb773df8e",
+      "git_blob_sha": "5c99710fd378a8514bbf17b5631a770c741b95e2"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-017/ch334-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-017/ch334-hetushu.html",
+      "bytes": 15784,
+      "sha256": "021481dde40c85febefe916f3266d34103378bd619e46da81e108cdb92ab72f6",
+      "git_blob_sha": "f781380f499cf96cbb8567cee1da61c59381c93a"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-018/ch323-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-018/ch323-hetushu.html",
+      "bytes": 15639,
+      "sha256": "4012baea53fafef16ffcadb6b063bb2a34acb931c769563539a5baf853ca21f1",
+      "git_blob_sha": "296fdf76364d35e7ec11d39883ddb9390ca255c9"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-018/ch326-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-018/ch326-hetushu.html",
+      "bytes": 15945,
+      "sha256": "529be0379a559bd3da3aa42ef40e8ce8df2ee4b1d494d30e4c46a25ce34f9fb0",
+      "git_blob_sha": "18951a415f2fd3183ba4a2d088554db133e9b135"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-018/ch339-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-018/ch339-hetushu.html",
+      "bytes": 15361,
+      "sha256": "20e1d3bd45fe7e68684b3501a5b239171b13ad6b3487e2801edb08f416f48e63",
+      "git_blob_sha": "0f0e17507adafb61e31e716c8c39f3e26f4910ba"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-018/ch341-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-018/ch341-hetushu.html",
+      "bytes": 15479,
+      "sha256": "f99104cc29812da0551b481845e7fd02d928883878cfdd7f2a06f42310d47ccf",
+      "git_blob_sha": "7cb951178ad1ec8d476921317b07053edce4e7a7"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-018/ch343-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-018/ch343-hetushu.html",
+      "bytes": 16359,
+      "sha256": "7ac1b42c7364883c9b6be90ee498d93d4f32e02bf6de6b0e1d5d4f1a134366e8",
+      "git_blob_sha": "7854d124fda3c4851af111ca64a2993f3907a1b0"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-018/ch344-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-018/ch344-hetushu.html",
+      "bytes": 15385,
+      "sha256": "a2c9f31aa807ba830d9b289b052f373005c6a640966a37185e50c5f907577b34",
+      "git_blob_sha": "a9aa1192a3ee295410cfc11e8b2ac093f716a893"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-018/ch345-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-018/ch345-hetushu.html",
+      "bytes": 15489,
+      "sha256": "65bb1a4b68dad6ac7ccc163be7d570417fa7a703bd59b6207cb23925e67f7bb9",
+      "git_blob_sha": "febe88e2204980b0cc43b8c51025a7cf0e3373e6"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-018/ch346-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-018/ch346-hetushu.html",
+      "bytes": 15579,
+      "sha256": "ae8d9f51f106d337f5b30bb80ff635d7fa765f75247f1073e31fdf2366b99b58",
+      "git_blob_sha": "5be7fa7cb9d04d85bd9c6dfcb0da920e41848b36"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-018/ch347-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-018/ch347-hetushu.html",
+      "bytes": 15620,
+      "sha256": "a3950c650f27000d04b6019c91b36fcf684507c5f8638f5139c84e0bf12a7a44",
+      "git_blob_sha": "d3b463bfaf244487b9da865f220f53e9b6829c95"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-018/ch351-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-018/ch351-hetushu.html",
+      "bytes": 15947,
+      "sha256": "6df83176a9c67f250d3903a8c48aba2cd58a6f90f7b13903de044b08aaa538f3",
+      "git_blob_sha": "7245a4fda8cd3e6182d4c2b85690b05a1f7bfe4c"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-018/ch352-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-018/ch352-hetushu.html",
+      "bytes": 15534,
+      "sha256": "e367fe3787455381a0b480ba790b94b4a75010feebc1cc05a423277f16edb202",
+      "git_blob_sha": "1d81ce73170d2d684d3e12332912ff34b4d611e6"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-018/ch353-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-018/ch353-hetushu.html",
+      "bytes": 15643,
+      "sha256": "30c2ad8adddfcc355e887d4811eac0540d27b1ed70d9a7bf2cbf03480fc34fc2",
+      "git_blob_sha": "3926fd08cba4fb4521f3cb796994b12120bbce1b"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-018/ch354-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-018/ch354-hetushu.html",
+      "bytes": 15612,
+      "sha256": "ca3e05972ab963638d66bdbae70d68d7a114d3e4c0780a638fbcc979a0dfc9eb",
+      "git_blob_sha": "3ee231ad5b1fff11703f96ff4fe42cec88ed48d3"
+    },
+    {
+      "local_path": "editorial/sequential-review/fact-check-018/ch355-hetushu.html",
+      "remote_path": "research/editorial/sequential-review/fact-check-018/ch355-hetushu.html",
+      "bytes": 15576,
+      "sha256": "2101b8e4609c251d9d0cd37ffa328252b534d0de3160d6e78051ca1a41a826e1",
+      "git_blob_sha": "de7a45411e26651b59ac28f55fd85266f40c6394"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch002-Batch-001-Chapters-1-10.md",
+      "remote_path": "research/editorial/sequential-review/history/before-batch002-Batch-001-Chapters-1-10.md",
+      "bytes": 21093,
+      "sha256": "38341a3085d39c0d890a8ec888a9b6824afadc97ac233b86b8d7aa62700f2e62",
+      "git_blob_sha": "efc4bc8197aeeafc034c93b48150a97ecc9bdb5e"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch002-proposal-ledger.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch002-proposal-ledger.json",
+      "bytes": 6123,
+      "sha256": "350ad32041626b6ed8b1294a494c9f23612bf2e7c2886621471b928dd390c374",
+      "git_blob_sha": "d3390f9afbedb1827386fee89324cf5529d7a36d"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch002-reading-progress.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch002-reading-progress.json",
+      "bytes": 2730,
+      "sha256": "61df6af0e0626209279c69e4e6620a8c41a24f7f925d03a73fad83647debcc51",
+      "git_blob_sha": "fcaaabb57454d08e19f3aabb751bc865f7ca4528"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch003-chronology-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch003-chronology-register.json",
+      "bytes": 28356,
+      "sha256": "d8bbe8b6bbcb21c794fc5c3300a49ca64d48c5b483d135e9be59e8f99a589580",
+      "git_blob_sha": "45d57c1488d52e0c60b747b4a8a10356a5cc0ea3"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch003-proposal-ledger.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch003-proposal-ledger.json",
+      "bytes": 10943,
+      "sha256": "8402d3432676ca86bf34fb3dc35d79d078eaa4495ac7e89f4395623dbbb33470",
+      "git_blob_sha": "e5e4dc068c4caad181656576ba4dee7930366e89"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch003-reading-progress.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch003-reading-progress.json",
+      "bytes": 5392,
+      "sha256": "8b033fda08b8017f0eb4deb0eafa2862baf32a3368cd4fc5dd81a92404fdbeed",
+      "git_blob_sha": "5787a523916c41fbfa68f59d424dcc52e725516f"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch004-chronology-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch004-chronology-register.json",
+      "bytes": 54533,
+      "sha256": "c0ef1a34b49770245c30793d86a4b2d9f91561b0592df441a09737587ceba3b0",
+      "git_blob_sha": "804abe1a7edeb951523636dc1d9c9ea29a872fde"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch004-proposal-ledger.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch004-proposal-ledger.json",
+      "bytes": 22009,
+      "sha256": "2aa2190ade710e0503d45ce2ec74ca5f0cfa700afac343c25a2ab6322cb3abe3",
+      "git_blob_sha": "e70292ed6d2f27fc04efd01d2618b3d721335655"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch004-reading-progress.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch004-reading-progress.json",
+      "bytes": 12176,
+      "sha256": "1ff1db7b2ffe875656de67ef78ca9ebdc159cf81cd8f2d5e2d5acb6f2a4b475c",
+      "git_blob_sha": "db35e986c766050ac82290e5b09e9ca254610579"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch004-resource-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch004-resource-register.json",
+      "bytes": 25770,
+      "sha256": "2de36f4bf6594298b77a89a708a21ee3435a833d3a59d76ebb81a56dfe49f450",
+      "git_blob_sha": "93546893205210382fde875afbb08ac95fcbbe37"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch005-chronology-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch005-chronology-register.json",
+      "bytes": 86231,
+      "sha256": "cd8f2f8451931584b110965362f66eff8758370612f64fe599b1a72eb24ae9ab",
+      "git_blob_sha": "d7c718666fe38ddad38d12305c1882e3f95d8e0f"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch005-proposal-ledger.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch005-proposal-ledger.json",
+      "bytes": 34767,
+      "sha256": "73b25fe5dd9ec70339c53b6c4ad1de4ca1767b4cc8a2028c8d68159dd50a357e",
+      "git_blob_sha": "d8e85439fad5f94db75c7412bb84d4de69bf5526"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch005-reading-progress.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch005-reading-progress.json",
+      "bytes": 18997,
+      "sha256": "e4316cd20d49b69a3f1c9ae22d492dde179c7aa5fe2f7110fcb9f6082dd2841d",
+      "git_blob_sha": "b900575d15b8b880e16a2a586c5e0a7a9c96fae5"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch005-resource-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch005-resource-register.json",
+      "bytes": 39874,
+      "sha256": "3dc339bedd0ae9f2ecac6411d5335aa96f58594461118e0634d50fb386875c11",
+      "git_blob_sha": "3f59fddaf3faf3a7bb0dfee026c290e54d676151"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch006-chronology-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch006-chronology-register.json",
+      "bytes": 122823,
+      "sha256": "60774bdcb68d2c54fdb38620d6c2a222e8b3294ebfc81617201f0680a115e87d",
+      "git_blob_sha": "d421295d4ac5dc8faf349154b9d2f1fbcc4d8739"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch006-proposal-ledger.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch006-proposal-ledger.json",
+      "bytes": 48671,
+      "sha256": "0900789104d91463c05c629ccb9fcbb7a34d4a1a3cf60a651818d1945dc4cb9f",
+      "git_blob_sha": "94b31b5b1437c26436a91bd2e29db80fc326a21e"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch006-reading-progress.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch006-reading-progress.json",
+      "bytes": 25917,
+      "sha256": "1fe2e701e8dff5903c3f482c759e1ab046990ea5da03144557c89a8a83187dac",
+      "git_blob_sha": "a649b64f2903023752ff1aff4e7c311b6f8fb6ba"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch006-resource-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch006-resource-register.json",
+      "bytes": 61516,
+      "sha256": "697b9b63420a24fa3a92154560a4d79b87ce91cc6b488a5c6c5eaf12135a8b81",
+      "git_blob_sha": "92d9b33dfcda22ddc2b654946368ccb529dfe555"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch007-chronology-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch007-chronology-register.json",
+      "bytes": 155260,
+      "sha256": "aebf63055a3417344090948bb826249361cd1b1ab6eedcafadbd0cea98dbff51",
+      "git_blob_sha": "9f0f072d13cfc2c0e372f4d469ca9b51d94f4f2c"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch007-proposal-ledger.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch007-proposal-ledger.json",
+      "bytes": 78525,
+      "sha256": "e2da81a56489e7679e4534e922887d5eeb583d85b494b4a43af4237be6406a5d",
+      "git_blob_sha": "d76402a39404d036545a1298bc38fd280c70bb0a"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch007-reading-progress.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch007-reading-progress.json",
+      "bytes": 32992,
+      "sha256": "2d150a76a8218c8cc3947a71b9480a74bf30ebca6c6728b49d8beb7b0d8fa0a1",
+      "git_blob_sha": "214e9042c8cfe3f28a744937870e19c4488cd985"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch007-resource-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch007-resource-register.json",
+      "bytes": 85949,
+      "sha256": "a1773f65286cb3a65d82ad9c4b3be977f7c10384cbe7d9709894fe363ada9d30",
+      "git_blob_sha": "3231f5c68cf39b5af43c2eacccbf3a03270ea1b6"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch008-chronology-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch008-chronology-register.json",
+      "bytes": 180598,
+      "sha256": "79d2e339a5d2ae2ebd9d97d32acd9dade9d4a04d4bdd5ed93bb399e37958a533",
+      "git_blob_sha": "790e57c4ec24616160e8afe7f8a8360d9d39cb6e"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch008-proposal-ledger.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch008-proposal-ledger.json",
+      "bytes": 109275,
+      "sha256": "0cd42e65f6b3f66ccb6fbb5eea6c7c42282d29079b8b29e4019e3b93774388b0",
+      "git_blob_sha": "35e5984368452dd7b57f46a7452ddfab983e458c"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch008-reading-progress.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch008-reading-progress.json",
+      "bytes": 37853,
+      "sha256": "9b71869dd46d323209e3c9ed246f5ae178daf436727fe5bf37db912a7ff7758a",
+      "git_blob_sha": "e04889956f479bfe73c3289ac02d91d5f39871b1"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch008-resource-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch008-resource-register.json",
+      "bytes": 108538,
+      "sha256": "b544dea3ebe5ee26d47193f43b553596c57215c8ab080224641a0c21ad9ce127",
+      "git_blob_sha": "46278261e23033b8eb5f0a43ce1c87e57e57a203"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch009-chronology-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch009-chronology-register.json",
+      "bytes": 210076,
+      "sha256": "84613038de354caa49f6c86f38916ca74c566a57855563f7c4b543b8d1892eeb",
+      "git_blob_sha": "a70049946e9335ef1e63a194ca3a3d40bfce8f55"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch009-proposal-ledger.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch009-proposal-ledger.json",
+      "bytes": 143790,
+      "sha256": "f45943fe4e0bb511c85631aa9675224073153d8d81306c79cc525162f53a8c5d",
+      "git_blob_sha": "2c074e31372950a1a3fdec8910d6238dce9eeafe"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch009-reading-progress.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch009-reading-progress.json",
+      "bytes": 42563,
+      "sha256": "cc6fb5bb3ce2d7b543f04899004ea825c8d0b9798f0c242fbd001f962865e8ba",
+      "git_blob_sha": "bc603149bbe805cbc1c736948302f400298a7b7c"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch009-resource-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch009-resource-register.json",
+      "bytes": 131702,
+      "sha256": "48bb826f3f74f2e6602a76c381340a9e30a56336f18ada9c5156e15ac0aab80f",
+      "git_blob_sha": "7b52772f29d5063301159e2645050a659b8cdf4b"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch009-working-standards-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch009-working-standards-register.json",
+      "bytes": 6589,
+      "sha256": "69fd155890b00bf9e40be33522a7117502e99f6d1c58ea9c3ccd2f05334ef5cb",
+      "git_blob_sha": "5954395954b738730c905fe971a34819a5dcb4d1"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch010-chronology-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch010-chronology-register.json",
+      "bytes": 241130,
+      "sha256": "48876f3e38156315f07485fbc0b986520d3466967fecd3669ff8e125cb7f4c6d",
+      "git_blob_sha": "6ceb42518039068f9642a9f8b6425614fb410ac6"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch010-proposal-ledger.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch010-proposal-ledger.json",
+      "bytes": 190125,
+      "sha256": "a1b60a5a0fdb37b5f4c27d5038cdd72b04557454f6eeaac040466e5d590a2e7d",
+      "git_blob_sha": "5255cb65d0e1a38aa8ad2548160614cfd3672c38"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch010-reading-progress.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch010-reading-progress.json",
+      "bytes": 47277,
+      "sha256": "bfb03ab5be0318b489af364cad3e6ce70e4c1d054d261264a3d3b7aaf08dfccb",
+      "git_blob_sha": "f11a2c85a80e9b97604f5c5fb71e9b001be8a178"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch010-resource-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch010-resource-register.json",
+      "bytes": 156605,
+      "sha256": "00fcb5531fc319d67293165277eaa7b16e6aff0fb12ddb31f688fac8a44382b4",
+      "git_blob_sha": "86f5b7941a3b7e449428b45e04f20e3e00816595"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch010-working-standards-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch010-working-standards-register.json",
+      "bytes": 8095,
+      "sha256": "ba825e26d9c2888c4512f5b8da548ef5a89d131c274b6ab5187e6aab94331b93",
+      "git_blob_sha": "cd6d3fd485ddb69770280e6f57a9db8f6df21798"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch011-chronology-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch011-chronology-register.json",
+      "bytes": 272364,
+      "sha256": "6e119baec1c9ff19c1d5162d69781cac8a4e6eedf1952cc3ddad0a42cd3c2339",
+      "git_blob_sha": "59d4a27addd455e017b7b3f40ce7049cf7228723"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch011-proposal-ledger.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch011-proposal-ledger.json",
+      "bytes": 236662,
+      "sha256": "b0529c76716e79213b0cf32f986810011b73ccfbf7d425cacbdf9d0a379f5a37",
+      "git_blob_sha": "fb47095f24aefd75ea7f005355acadd5f3dd90cf"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch011-reading-progress.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch011-reading-progress.json",
+      "bytes": 51756,
+      "sha256": "ea4a3239e7ed134162cdcc50ec087309ccc5480984f07ec6a3ab5c508fa6c4a7",
+      "git_blob_sha": "084717fe43433d7ae567cefabf3b3d5f10dd6565"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch011-resource-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch011-resource-register.json",
+      "bytes": 183950,
+      "sha256": "3988e7393dd00be299a60bdb22e0339cf94f6d19eb16bb0b666d2c472caecbd3",
+      "git_blob_sha": "606a1586205ca29ca3b2743a8570624db470c7d4"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch011-working-standards-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch011-working-standards-register.json",
+      "bytes": 9809,
+      "sha256": "55ef8541ff5c0b2a8a6b93698c84406387b570d4e452bfef790bb36956e44085",
+      "git_blob_sha": "6a6305d1c86585348a90321030e24a81aa01b718"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch012-chronology-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch012-chronology-register.json",
+      "bytes": 286163,
+      "sha256": "8e7d2606d214f726b54abd642e635dd098ec8e3156a81bdf8ac01b637ec10d71",
+      "git_blob_sha": "79fefd2d444c303c88b59e3c1935350398b56e0a"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch012-proposal-ledger.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch012-proposal-ledger.json",
+      "bytes": 260264,
+      "sha256": "3e2f0b138279ad0cfd31d082c2361671a5e169edec9754b72bc9d6d25041bbfc",
+      "git_blob_sha": "33f53a2919bc8d64dee8d997c21f8afc58d11d5e"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch012-reading-progress.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch012-reading-progress.json",
+      "bytes": 56367,
+      "sha256": "127ac1e536b7d70d91413d7951f05fa34881ad126ac5fbce8809ec236c788a2a",
+      "git_blob_sha": "6b64555990fb2aeebd7e43670f3f4c6606d904f2"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch012-resource-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch012-resource-register.json",
+      "bytes": 198513,
+      "sha256": "3b7080b608de12883353180a947fac5e5e3ed5891d3b84a9f7a301eabad317a3",
+      "git_blob_sha": "4bb232fb6b68e69178ae400b00201b027c44f457"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch012-working-standards-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch012-working-standards-register.json",
+      "bytes": 12322,
+      "sha256": "6a8671be4213a62c33bf2b95caf758314c5ae775bd803842edc8c3256caa68d4",
+      "git_blob_sha": "2f7349188ffb341b808a4e6f3a65ed8d91abf80c"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch013-chronology-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch013-chronology-register.json",
+      "bytes": 302266,
+      "sha256": "4951d6cac6f70b982c59ba287e8092037e5a20210d0c8b707d199775941bc07b",
+      "git_blob_sha": "98779e5908d4b58281d89b188a2d8b597ead550c"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch013-proposal-ledger.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch013-proposal-ledger.json",
+      "bytes": 289616,
+      "sha256": "30bf39c2157116221b923a793d7fbe54d51d3d661f3603a5f35cae2593d36699",
+      "git_blob_sha": "b94c98daf99c22d676976b0a5b4819a57ead8736"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch013-reading-progress.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch013-reading-progress.json",
+      "bytes": 59958,
+      "sha256": "322a9a520415c0826009988d031bdc89b200799a903e30b01d9d2185aae4569e",
+      "git_blob_sha": "bd7f9c95ee071414d2ef6dff8e3d2837459e2ed4"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch013-resource-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch013-resource-register.json",
+      "bytes": 215616,
+      "sha256": "24a1ee2e6d9a5d715dc2f2c37eb5cdd76e724699fce47e66e96aafac14f32191",
+      "git_blob_sha": "fc318e93f83a3b7b2e3deab6528cfbb39a2fa1b5"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch013-working-standards-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch013-working-standards-register.json",
+      "bytes": 13801,
+      "sha256": "43e60cf028fb4accdb19a9fc311b9b67d1b81af4849dc342771c8c03b6243dc4",
+      "git_blob_sha": "fe27747e90a197cfefea2c2bfa4c96d5fc488704"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch014-chronology-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch014-chronology-register.json",
+      "bytes": 317900,
+      "sha256": "81c908c949fd9d8b5ce63658c90fa574304ad69ca02a60fa0b737fe0c5daf9c4",
+      "git_blob_sha": "e901b7615d8cd38054e977791cd38982707a53d9"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch014-proposal-ledger.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch014-proposal-ledger.json",
+      "bytes": 329990,
+      "sha256": "f3bad827f75ee959e691fb1c6834c97f8ef0439370d40f009ee73b3e25777f47",
+      "git_blob_sha": "251944a69c3be60a302c1511ce6273a63027b58b"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch014-reading-progress.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch014-reading-progress.json",
+      "bytes": 63474,
+      "sha256": "a5aa7e8f2a2c1983dfa4b8e61281f1b2d6320ef1139c438a84d32613a6ab6705",
+      "git_blob_sha": "8f77dbad9c7cb51a93dab7a91691b761fffed98b"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch014-resource-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch014-resource-register.json",
+      "bytes": 234398,
+      "sha256": "4e5bec594898e2fbf09d27d37b166a3b3936805ed24806253c92886928a4d814",
+      "git_blob_sha": "8ad3000436da03969e3b63570e9b183f9d034dbb"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch014-working-standards-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch014-working-standards-register.json",
+      "bytes": 16175,
+      "sha256": "c55c8f084bed912682f4a428390dc9765265724538cdfb76476f35d5f21ff1cd",
+      "git_blob_sha": "fa39c93675ef44f14fcd12342247c4a912ff9c96"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch015-chronology-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch015-chronology-register.json",
+      "bytes": 337013,
+      "sha256": "104bde0c0fbe8dc1cd0389d2dd9149ab612086695e5f1774017beb4287268ba2",
+      "git_blob_sha": "d06d82f5126a83a95f59aee7a574999edf9dab65"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch015-proposal-ledger.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch015-proposal-ledger.json",
+      "bytes": 363299,
+      "sha256": "0ca1f6f80300f676baf0a4e54c53994d616d029045ebb42efb8d0c1b36e08889",
+      "git_blob_sha": "77f31927f123d4ee6b42a9ebf6d4e0b9e2705a56"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch015-reading-progress.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch015-reading-progress.json",
+      "bytes": 67452,
+      "sha256": "28bc3a059d5eb392a92d3a03efb886ad4ab02601e65361b1dbec2c4b847b2d86",
+      "git_blob_sha": "75e0b21421d4cb245bd8b11dd27bc2466cce263b"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch015-resource-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch015-resource-register.json",
+      "bytes": 260639,
+      "sha256": "58d7fa070d8b80fc3df1e0c326b0d5c7b56e347ef41d7a2d366cd8355d2d3626",
+      "git_blob_sha": "7890397fb807ade8b5702224bb9a56acc91956e2"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch015-working-standards-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch015-working-standards-register.json",
+      "bytes": 17894,
+      "sha256": "595df5a6cb25c8e09e6f1fc11d2c4652e1d49d33cefdaa1feb05d1fe6d4adbbf",
+      "git_blob_sha": "c986de0bd1deebfc8b8e5f6ab8a807bb9ad8ecb9"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch016-chronology-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch016-chronology-register.json",
+      "bytes": 361629,
+      "sha256": "73d883bc5394cd6f41836082c1fcdb753d7ea51167204a51ea394e70b81c4847",
+      "git_blob_sha": "8be39763b192d2e720408f2030eec51bc8df4878"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch016-proposal-ledger.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch016-proposal-ledger.json",
+      "bytes": 402931,
+      "sha256": "3a1dafc415b6246ed70c5e76575aa0ad6744e37f1033aa0aa2d04964a7c63a3f",
+      "git_blob_sha": "c912b645d340326b463c6c30c3ae10f1c4330a60"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch016-reading-progress.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch016-reading-progress.json",
+      "bytes": 70566,
+      "sha256": "f6d5177ec4c90be2431bf73ec8f18cde093073da1b4c1880cfe12d7a0a3c8cc7",
+      "git_blob_sha": "65af6888a07ec18c4cd3793faa8d62387be83e95"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch016-resource-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch016-resource-register.json",
+      "bytes": 293578,
+      "sha256": "433693bce69b08dc16dc97e329897613cee6a3a6ececb341c6a38bf5ec44cb65",
+      "git_blob_sha": "b30d0a95813604ef7253961fa00b5e9485e77010"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch016-working-standards-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch016-working-standards-register.json",
+      "bytes": 19791,
+      "sha256": "6692cee1328526d3e004c13f918d82b5e29785d9542adbc2cadb8a58095cbfba",
+      "git_blob_sha": "6fedf2bea509fd193d222796e959f0c7ed0138e9"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch017-chronology-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch017-chronology-register.json",
+      "bytes": 385661,
+      "sha256": "6b9bbd70ceb20df8194bd689fa0e95ca416f12198c23293e0cc9340f277c4da1",
+      "git_blob_sha": "b22658132bc62ce8aeb0fd70212e226f3489531e"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch017-proposal-ledger.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch017-proposal-ledger.json",
+      "bytes": 449207,
+      "sha256": "dc4b29f928f4af540381c7e3ca2068cda17a378b0d3e0e5d7fe46c1dea00d981",
+      "git_blob_sha": "55b7ca52ba09475fae21be6fcdc147b9c3ee7fd3"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch017-reading-progress.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch017-reading-progress.json",
+      "bytes": 74178,
+      "sha256": "b917f596e9807172d48850032102355a9eb8282d5de24b28660eca20efeb602b",
+      "git_blob_sha": "bbd9ab7e5ef208cbc160ef7a9421cda40c9d6e9a"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch017-resource-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch017-resource-register.json",
+      "bytes": 325804,
+      "sha256": "da76621640765741a4d52d5fc70948aca6efaca9ba5b367c02856b5b09002e6b",
+      "git_blob_sha": "56352754467a6e85742f4eca5bec53ffa1a65565"
+    },
+    {
+      "local_path": "editorial/sequential-review/history/before-batch017-working-standards-register.json",
+      "remote_path": "research/editorial/sequential-review/history/before-batch017-working-standards-register.json",
+      "bytes": 21525,
+      "sha256": "ecbcbbf8197c80d9c583627af076024ca434fb271989b567b4007db1b58072ad",
+      "git_blob_sha": "fb51c24493c111cdbc5ed603eaf3b28c7e32270c"
+    }
+  ],
+  "token_written_to_file": false,
+  "original_epub_modified": false,
+  "site_modified": false,
+  "bytes_freed_this_move": 40766980,
+  "remaining_regular_workspace_bytes": 39530412
+}
