@@ -1,0 +1,13 @@
+# Batch016 preservation cautions
+- Tie Ruo Nan mistakes the alias and Extreme Physique history; FY’s rescue/bequest account is fabricated. These are not corrections to actual Qing Mao events.
+- Four failed refinements destroy strength Gu, not already-installed bodily Dao marks. Canopy sale is not Flying Bone Shield disposition. Copper Skin RevolutionThree is consumed; RevolutionTwo form is temporary.
+- Own funds, borrowed funds and proxy auction payments are different. FY500000FengQi+670000recipe=1170000. YaZi810000BitterStrength notFYoutflow; later surrender adds no second purchase. Loans not gifts or net wealth.
+- XinCi20→59 aptitude is retrospective awakening+upgrades; currentlyOneupper. Bai92→93 supportsonepoint; reserve90 from299isnotaptitudeproof.
+- Annualassessmentover doesnotpreventexceptionalvacancyafterYaZidismissal.3yearbanishmentprospective.2/3dayforecastand3/4dayactualnotcertifiedconflict.
+- PoisonVow loophole is a cover consistent with pre-informed Bai; FYalreadyremovedhisrestriction,YaZi stillbound. No newTieoath actuallyshownused.
+- Near-upper forecasts not exact breakthrough dates.312actualupperthenSilverRelicconsumed→peak. Same-stage assistance wanes; SR099 stayswithdrawn.
+- Challenge notice two days is not eight-day rest since previous match.8/10/17days can be successive intervals.18month promotionwindowmaycarryearlierwins;do notforcecalendarrepairbeforecommon-scopeproof.
+- Bai upgradedIceStormhas5activecontrols;Vitalityautonomous. Not6activeattentionstreams.7YanGucomponents do notprove7independentcontinuousstreams. Newstormimmobile doesnotinvalidateoldmovingversion.
+- FireClawconstructdispersal31341bodyreturns42notdeath;314146explicit1Snake+2Clawsdestroyed. IceCrystaltransferredaliveafterconcession,notdestroyed;vitalbacklashnotmandatoryownerdeath.
+- Bai firstdefeat314confirmed315,missingfromhomebutphysicianlocationknown. FrostDemonreplacementnotbought. Yan/Ju stagedrivalry is deliberate reveal.
+- VaultLotusstocknotFYproperty/freeaward. SecretorderprotectsAllOutEffortifFYloses; noactualtransfer. JuHardQiowned,StrengthQionlywish. FYvsJu andnewrefinementstillunresolved315.

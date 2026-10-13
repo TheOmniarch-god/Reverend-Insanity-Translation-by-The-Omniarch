@@ -1,5 +1,5 @@
 {
-  "scope": "Sequential through300; actual receipts, promises, conditional returns, bodily effects and Gu ownership distinguished",
+  "scope": "Sequential through315; ownership, loans, proxy purchases, permanent effects and consumption distinguished",
   "entries": [
     {
       "id": "R001",
@@ -6403,6 +6403,720 @@
           "paragraph": 121,
           "file": "OEBPS/Text/chapter308.html",
           "text": "方源牢牢占据上风，朱八已经被揍得渐渐泛起眼白。"
+        }
+      ]
+    },
+    {
+      "id": "R-152",
+      "kind": "Fight outcomes / unspecified loot",
+      "entry": "Fourth-tier victories",
+      "calculation": "Zhuconcedesalive,Guprizeunreported. JinBianYuankilled;LiaoHuaDongsparedbyreferee;ZhongDemotionlessnotexplicitdeath. Noinventedlootidentities.",
+      "status": "Provisional evidence record; no substantive approval or application",
+      "sources": [
+        {
+          "chapter": 301,
+          "paragraph": 14,
+          "file": "OEBPS/Text/chapter309.html",
+          "text": "“我……我认输！”他大吼起来。"
+        },
+        {
+          "chapter": 301,
+          "paragraph": 17,
+          "file": "OEBPS/Text/chapter309.html",
+          "text": "“胜负已分，方正胜，朱八负！”主持的蛊师宣布道。"
+        },
+        {
+          "chapter": 301,
+          "paragraph": 44,
+          "file": "OEBPS/Text/chapter309.html",
+          "text": "八天后，他战金边缘。僵持片刻之后，兽力齐出，打爆金边缘倚为核心的防御蛊，将其击杀当场。"
+        },
+        {
+          "chapter": 301,
+          "paragraph": 45,
+          "file": "OEBPS/Text/chapter309.html",
+          "text": "十天后，以狂攻闻名的廖华东，成为方源的对手。方源以攻对攻，正面把他打趴下。若不是主持蛊师手快，廖华东就失去了性命。"
+        },
+        {
+          "chapter": 301,
+          "paragraph": 46,
+          "file": "OEBPS/Text/chapter309.html",
+          "text": "十七天后，拥有五虎之力的钟德，和方源展开精彩对决，最终被方源打倒，像死狗一样趴在地上，一动不动。"
+        }
+      ]
+    },
+    {
+      "id": "R-153",
+      "kind": "Bodily effects / consumption / sale",
+      "entry": "Copper Skin and turtle; Canopy sold",
+      "calculation": "ThreeCopperSkinconsumedpermanentdefence,Twoformtemporary. Fullturtleforcereportedafterpriorhalf,completionplausiblenotcertifiedextra1.5turtles. Canopysold30195,GoldenShieldretained;notFlyingBoneShielddisposal.",
+      "status": "Provisional evidence record; no substantive approval or application",
+      "sources": [
+        {
+          "chapter": 297,
+          "paragraph": 87,
+          "file": "OEBPS/Text/chapter305.html",
+          "text": "催动了这只一蹴而就蛊，他耗费了大半年的寿命，代价昂贵，换来的是消除猪力虚影，增添一牛一马半龟的新力量！"
+        },
+        {
+          "chapter": 301,
+          "paragraph": 90,
+          "file": "OEBPS/Text/chapter309.html",
+          "text": "这几个月来，方源不仅又增添了一龟之力，还动用了三转铜皮蛊，将自己的肌肤增添一份防御力量。"
+        },
+        {
+          "chapter": 301,
+          "paragraph": 91,
+          "file": "OEBPS/Text/chapter309.html",
+          "text": "二转的铜皮蛊，只能在有限的时间内，为蛊师肌肤表面增添防御。"
+        },
+        {
+          "chapter": 301,
+          "paragraph": 92,
+          "file": "OEBPS/Text/chapter309.html",
+          "text": "三转的铜皮蛊，却是消耗自身，将这份防御之力永久地布置在蛊师的身上。"
+        },
+        {
+          "chapter": 301,
+          "paragraph": 95,
+          "file": "OEBPS/Text/chapter309.html",
+          "text": "至于天蓬蛊，方源已经卖掉。它和金罡蛊的位置重叠，也并不适合方源力道的打法。"
+        }
+      ]
+    },
+    {
+      "id": "R-154",
+      "kind": "Loot confirmation / replacement / medical funding",
+      "entry": "Tie Dao Ku Hand Blade",
+      "calculation": "3024confirmsBaitookHandBlade;Tieboughtreplacement36. PhysicianFivehealingneeded,100000fee;RuoNanfundswithElderGu,exactamountnotshown. Treatmentnotyetshowncomplete.",
+      "status": "Provisional evidence record; no substantive approval or application",
+      "sources": [
+        {
+          "chapter": 298,
+          "paragraph": 113,
+          "file": "OEBPS/Text/chapter306.html",
+          "text": "他也有治疗蛊，但肯定治不好自己的左眼了。只能暂时稳住右眼的伤势，尽力保住右眼。"
+        },
+        {
+          "chapter": 302,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter310.html",
+          "text": "失去了左眼，他的战斗力暴降，手刃蛊也被白凝冰无情地选走，他再也不是白凝冰的对手。"
+        },
+        {
+          "chapter": 302,
+          "paragraph": 29,
+          "file": "OEBPS/Text/chapter310.html",
+          "text": "只是几个呼吸，铁沐就禀告道：“眼睛废了，属下无能，要想治好，须得五转蛊师出手。”"
+        },
+        {
+          "chapter": 302,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter310.html",
+          "text": "“商家城中，就有一位素手医师，乃是五转高手。铁刀苦，你拿着这些钱，把眼睛治好。”铁若男掏出一颗元老蛊，扔给铁刀苦。"
+        },
+        {
+          "chapter": 302,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter310.html",
+          "text": "但十万元石，可不是小数目。商家城物价又高，铁刀苦又买了一只手刃蛊，缺口太大。"
+        }
+      ]
+    },
+    {
+      "id": "R-155",
+      "kind": "Inventory / false claims / contingent sale",
+      "entry": "Blood Moon and Skull",
+      "calculation": "BloodMoonlentforinspection30363,notgivenaway;claimedclanbequest/rescuefabricated. BloodSkullsalediscussedonlycontingency30283–85,notexecuted. NoPoisonVowuseafterTieofferconfirmed.",
+      "status": "Provisional evidence record; no substantive approval or application",
+      "sources": [
+        {
+          "chapter": 302,
+          "paragraph": 83,
+          "file": "OEBPS/Text/chapter310.html",
+          "text": "“若真到了这一步，就那就将血颅蛊卖给商燕飞吧。商燕飞一直在收集血海真传，血颅蛊卖给他，他还能给商心慈提升资质。他这么溺爱商心慈，为了她不惜动用人力胜天蛊，逆天改命。这个交易，他拒绝不了。”"
+        },
+        {
+          "chapter": 302,
+          "paragraph": 85,
+          "file": "OEBPS/Text/chapter310.html",
+          "text": "但事情没有发展到最糟糕的地步，方源是绝对不会将血颅蛊卖出去的。"
+        },
+        {
+          "chapter": 303,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter311.html",
+          "text": "“你若不相信我，我们可以使用毒誓蛊。”铁若男接着道。"
+        },
+        {
+          "chapter": 303,
+          "paragraph": 63,
+          "file": "OEBPS/Text/chapter311.html",
+          "text": "方源心念一动，从空窍中取出血月蛊来，主动抛到铁若男的手中。"
+        },
+        {
+          "chapter": 303,
+          "paragraph": 64,
+          "file": "OEBPS/Text/chapter311.html",
+          "text": "“这是我族的血月蛊，你难道没见到我哥哥使用过吗？当时冰川爆发，我族族长和白家族长合力，拼死保下了我和白凝冰。族长将手中残留的蛊，都交给我。我和白凝冰在流浪途中，许多蛊都饿死了，只留下这只血月蛊，因为它容易喂养。”"
+        },
+        {
+          "chapter": 303,
+          "paragraph": 66,
+          "file": "OEBPS/Text/chapter311.html",
+          "text": "铁若男检查了一遍血月蛊，神色松缓下来：“原来是这样，你家族长用心良苦，为了留下火种，不惜牺牲自己，真是壮举！”"
+        }
+      ]
+    },
+    {
+      "id": "R-156",
+      "kind": "Failed refinement / permanent force",
+      "entry": "Four strength Gu lost",
+      "calculation": "BrownBear,horse,ox,turtleGuconsumed/lostacross4failedBitterStrengthattempts. TheirDao-markbodilyforcesremain;noautomaticstrengthloss. BitterStrengthnotowneduntil31151.",
+      "status": "Provisional evidence record; no substantive approval or application",
+      "sources": [
+        {
+          "chapter": 292,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter300.html",
+          "text": "同样的，棕熊本力蛊，黑白豕蛊、鳄力蛊也是如此。"
+        },
+        {
+          "chapter": 292,
+          "paragraph": 37,
+          "file": "OEBPS/Text/chapter300.html",
+          "text": "它们本身蕴藏着关于“气力”的一段大道法则碎片，附着在方源的体内，就成为兽力虚影潜伏起来。全力爆发之后，才会肉眼可见。"
+        },
+        {
+          "chapter": 304,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter312.html",
+          "text": "算起来，这已经是第四次失败了。"
+        },
+        {
+          "chapter": 304,
+          "paragraph": 46,
+          "file": "OEBPS/Text/chapter312.html",
+          "text": "算上今天这一次，方源已经前前后后合炼了四次。先后损失了棕熊本力蛊、骏马驰力蛊、青牛劳力蛊、石龟负力蛊。"
+        },
+        {
+          "chapter": 311,
+          "paragraph": 51,
+          "file": "OEBPS/Text/chapter319.html",
+          "text": "“苦力蛊我先收下，我需要时间考虑考虑。”最终，方源都没有做出明确的回应。"
+        }
+      ]
+    },
+    {
+      "id": "R-157",
+      "kind": "Aptitude / advancement",
+      "entry": "Bai92→93 and XinCi20→59",
+      "calculation": "Bai30192;30493with7pointsto100supports+1not+2SR135. XinCiforcedawakeninginitial20GradeD,raised59GradeC,onepointfromGradeB;currentOneupper30968. Noimmortalaptitudeupgradeinferred.",
+      "status": "Provisional evidence record; no substantive approval or application",
+      "sources": [
+        {
+          "chapter": 301,
+          "paragraph": 83,
+          "file": "OEBPS/Text/chapter309.html",
+          "text": "但在末了，她添加一句：“我的资质又提升了一分，达到了九成二分。照这种程度下去，你什么时候给我阳蛊？”"
+        },
+        {
+          "chapter": 304,
+          "paragraph": 80,
+          "file": "OEBPS/Text/chapter312.html",
+          "text": "按照白凝冰透露，她的资质又回升了两分，达到九成三分。"
+        },
+        {
+          "chapter": 304,
+          "paragraph": 81,
+          "file": "OEBPS/Text/chapter312.html",
+          "text": "再增七分，达到十成，她将再次还原为北冥冰魄体。"
+        },
+        {
+          "chapter": 305,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter313.html",
+          "text": "商燕飞利用人力胜天蛊，为她强行开启空窍。这两年来，又陆续用了许多珍稀蛊，为商心慈提升资质。使得她原本最差的两成丁等资质，一步步地硬推到丙等五成久，距离乙等只差一分。"
+        },
+        {
+          "chapter": 309,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter317.html",
+          "text": "商心慈修为低微，如今只有一转高阶。资质也不行，连乙等都不到，没有发展的潜力。"
+        }
+      ]
+    },
+    {
+      "id": "R-158",
+      "kind": "Loans / liquidity / unpriced purchases",
+      "entry": "Auction funding",
+      "calculation": "FYnear1million+Weinear1millionloan+XinCi100–300kloan=>2millionplusavailableplausible. Borrowedfundsnotnetwealth. ChiWennoloan. WeilaterunpricedlightGu,BaiunpricedTornado,notthreeTornadoGu.",
+      "status": "Provisional evidence record; no substantive approval or application",
+      "sources": [
+        {
+          "chapter": 304,
+          "paragraph": 95,
+          "file": "OEBPS/Text/chapter312.html",
+          "text": "“这一年多来，我积攒了近百万的元石。要拍买苦力蛊，有很大把握。”"
+        },
+        {
+          "chapter": 306,
+          "paragraph": 21,
+          "file": "OEBPS/Text/chapter314.html",
+          "text": "看这元老蛊中的云气老人笑逐颜开的模样，便可得知这元老蛊中，至少有近百万的元石！"
+        },
+        {
+          "chapter": 306,
+          "paragraph": 24,
+          "file": "OEBPS/Text/chapter314.html",
+          "text": "“别多说，收起来。这是借给你的，不是送你的。将来我就是你的债主啦。”魏央哈哈大笑，不给方源拒绝的机会，硬是将手中的元老蛊塞给方源。"
+        },
+        {
+          "chapter": 306,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter314.html",
+          "text": "她的元老蛊上，云气老人显得愁眉苦脸。可见里面元石，在十万到三十万之间。"
+        },
+        {
+          "chapter": 306,
+          "paragraph": 30,
+          "file": "OEBPS/Text/chapter314.html",
+          "text": "商心慈淡淡而笑，并不在意方源的报答。就算是将这些元石直接送给方源，她都不会心疼。只是她知道，以方源的性格，却不会接受她的直接馈赠，所以只能“借”。"
+        },
+        {
+          "chapter": 306,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter314.html",
+          "text": "一旁，商螭吻犹豫了一下，却终究没有掏出元老蛊。"
+        },
+        {
+          "chapter": 307,
+          "paragraph": 35,
+          "file": "OEBPS/Text/chapter315.html",
+          "text": "方源尽管有两百多万的元石，却没有参加角逐。"
+        },
+        {
+          "chapter": 308,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter316.html",
+          "text": "方源再无出手，倒是魏央出手一次，将一只光类蛊成功买下，算是如愿以偿。"
+        },
+        {
+          "chapter": 308,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter316.html",
+          "text": "白凝冰也连拍三次，最终入手一只三转的龙卷蛊。"
+        }
+      ]
+    },
+    {
+      "id": "R-159",
+      "kind": "Auction payments / ownership",
+      "entry": "Frost Arrow, Bitter Strength and Feng Qi",
+      "calculation": "BaiFrostArrow150000,40000statedpremium. YaZiBitterStrength810000actual,notFY. FYFengQi500000actual. LostWindWillow/WindChasebidsnotpayments. YaZiatleast1.2mfittingbankruptcyafterextra500kifunder1.31m.",
+      "status": "Provisional evidence record; no substantive approval or application",
+      "sources": [
+        {
+          "chapter": 306,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter314.html",
+          "text": "魏央拍拍方源的肩膀，仍有些不放心：“这次商睚眦来者不善，手头上至少有一百二十万的元石。苦力蛊是力道蛊师的珍宝，除了商睚眦之外，还有两位是你最大的竞争者。一位是商赑屃，一位是巨开碑，你都要注意。”"
+        },
+        {
+          "chapter": 306,
+          "paragraph": 91,
+          "file": "OEBPS/Text/chapter314.html",
+          "text": "白凝冰虽然最终买下了霜箭蛊，但是却多付出了四万元石。"
+        },
+        {
+          "chapter": 307,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter315.html",
+          "text": "但最终，风柳被一位炼蛊大师收入囊中，花了近十万的价格。"
+        },
+        {
+          "chapter": 307,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter315.html",
+          "text": "最终，追风蛊以四十四万的高价，被翼不悔家老买下。"
+        },
+        {
+          "chapter": 308,
+          "paragraph": 21,
+          "file": "OEBPS/Text/chapter316.html",
+          "text": "八十一万啊，买了只苦力蛊，自己根本用不上。"
+        },
+        {
+          "chapter": 308,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter316.html",
+          "text": "他刚刚花了八十一万，再花五十万，可就要破产了。"
+        },
+        {
+          "chapter": 308,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter316.html",
+          "text": "“五十万一次……两次……三次，成交！”女蛊师喊道。"
+        }
+      ]
+    },
+    {
+      "id": "R-160",
+      "kind": "Proxy purchase / consumed information Gu",
+      "entry": "Lotus Lord recipe",
+      "calculation": "Wei670000bidonFYbehalf30912,not2payments. FourHeartInscriptionGuconsumedtransfersrecipealreadyrefinedbyWei. FYtotalnamedauctionoutlay500000+670000=1170000. Recipeunappraisedanduntested;noFourLotusowned.",
+      "status": "Provisional evidence record; no substantive approval or application",
+      "sources": [
+        {
+          "chapter": 308,
+          "paragraph": 105,
+          "file": "OEBPS/Text/chapter316.html",
+          "text": "“六十七万。”魏央的最后报价，使得他终究买下了这个秘方。"
+        },
+        {
+          "chapter": 309,
+          "paragraph": 10,
+          "file": "OEBPS/Text/chapter317.html",
+          "text": "魏央掏出来的这只铭心蛊，有四颗斑点，这就表明这只铭心蛊高达四转。"
+        },
+        {
+          "chapter": 309,
+          "paragraph": 12,
+          "file": "OEBPS/Text/chapter317.html",
+          "text": "方源为了这个秘方，花了六十七万元石。为了避嫌，又让魏央来报价。"
+        },
+        {
+          "chapter": 309,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter317.html",
+          "text": "看着这只铭心蛊，方源却没接手，而是道：“既然魏大哥已经炼化了它，不如现在就用了，省得我再炼化一次。”"
+        },
+        {
+          "chapter": 309,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter317.html",
+          "text": "铭心蛊砰的一声轻响，化为一道粉色流光。在魏央的意念操纵下，流光扑到方源的心口，转瞬间消失不见。"
+        },
+        {
+          "chapter": 309,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter317.html",
+          "text": "一股淡淡的喜悦之情在方源的心中泛起：“我手中有天元宝莲，但它只是三转。现在用挺不错，但是当我到达四转，它的辅助效果就立马衰弱下去了。如今有了这份秘方，将来若能合炼出天元宝君莲，无疑能给我带来巨大帮助。”"
+        },
+        {
+          "chapter": 309,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter317.html",
+          "text": "当然，这份秘方没有鉴定过。不过以方源丰富的经验，初步判断，这秘方虚假的可能性很小。要不然，商家也不拿出来拍卖。"
+        },
+        {
+          "chapter": 309,
+          "paragraph": 23,
+          "file": "OEBPS/Text/chapter317.html",
+          "text": "“不过将来还是得用些蛊，来推衍一下，防止其中的陷阱或者错漏。”"
+        }
+      ]
+    },
+    {
+      "id": "R-161",
+      "kind": "Contract loophole / asymmetric removal / transfer",
+      "entry": "Bitter Strength finally acquired",
+      "calculation": "Baiwasinformedthirdpartybeforevow;leakdoesnotestablishFYstillbound. YaZivowretaliation3114consistentownrestrictionstillactive. BitterStrengthsurrendered31151,810knotnewFYcost;othercompensationnotitemisedreceived.",
+      "status": "Provisional evidence record; no substantive approval or application",
+      "sources": [
+        {
+          "chapter": 310,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter318.html",
+          "text": "“不过这个消息虽然不是我传出去的，但却是我的同伴白凝冰传的。”"
+        },
+        {
+          "chapter": 310,
+          "paragraph": 66,
+          "file": "OEBPS/Text/chapter318.html",
+          "text": "“非也，非也。”方源缓缓摇头，“毒誓的具体内容是——你我二人要保守秘密，‘不能泄露给不知情的第三者’。但在毒誓蛊之前，我早就将这事情告诉了白凝冰。所以白凝冰是‘知情的第三者’。外面流转的消息，也不是我传出去的。都是白凝冰的功劳。因此，我根本就没有违背当初的毒誓啊。”"
+        },
+        {
+          "chapter": 310,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter318.html",
+          "text": "经方源这般提醒，誓约上的确是这样写的。"
+        },
+        {
+          "chapter": 311,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter319.html",
+          "text": "商睚眦则倒退三步，头晕目眩，两股猩红的鼻血流淌下来。"
+        },
+        {
+          "chapter": 311,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter319.html",
+          "text": "“商睚眦，你还是冷静一点好。毒誓中有规定，你我皆不能动手伤害对方。感谢我吧，幸好我刚刚躲的及时，要是被石桌砸了脚背，你受的伤将更加严重。”方源淡淡而笑。"
+        },
+        {
+          "chapter": 311,
+          "paragraph": 45,
+          "file": "OEBPS/Text/chapter319.html",
+          "text": "商睚眦连忙开口：“我商睚眦发誓，从今以后再也不和方正你为难。咱们之间，可以成为很好的盟友，相互内斗，只会叫人看笑话。除了苦力蛊之外，我还可以做其他的补偿。元石，蛊虫，还是炼蛊的材料，我掌管商铺，都可以出的。”"
+        },
+        {
+          "chapter": 311,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter319.html",
+          "text": "商睚眦不仅贡献出了苦力蛊，求着方源收下，同时还得补偿其他的东西。"
+        },
+        {
+          "chapter": 311,
+          "paragraph": 51,
+          "file": "OEBPS/Text/chapter319.html",
+          "text": "“苦力蛊我先收下，我需要时间考虑考虑。”最终，方源都没有做出明确的回应。"
+        }
+      ]
+    },
+    {
+      "id": "R-162",
+      "kind": "Consumed relic / essence stages",
+      "entry": "Revolution Three peak",
+      "calculation": "301middle;312upperthenSilverRelicconsumed→peak. Threeessencepale/variegated/bright/snowysilver9–11. LotusofferedBai/refused,notloaned. Cicadapressuremanageablebutincreasing.",
+      "status": "Provisional evidence record; no substantive approval or application",
+      "sources": [
+        {
+          "chapter": 312,
+          "paragraph": 9,
+          "file": "OEBPS/Text/chapter320.html",
+          "text": "三转蛊师，真元为银色。初阶真元的银光只有淡淡一层，因此是淡银真元。中阶真元银色驳杂，有的多有的少，因此称为花银真元。"
+        },
+        {
+          "chapter": 312,
+          "paragraph": 10,
+          "file": "OEBPS/Text/chapter320.html",
+          "text": "高阶真元，银光均匀，一片明亮。因此为亮银真元。"
+        },
+        {
+          "chapter": 312,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter320.html",
+          "text": "巅峰真元，银白如雪，蔚为壮美，号称雪银真元。"
+        },
+        {
+          "chapter": 312,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter320.html",
+          "text": "成就了石膜，方源从三转中阶，达到了三转高阶。"
+        },
+        {
+          "chapter": 312,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter320.html",
+          "text": "“明天就是你和炎突之战，怎么样，需要我的天元宝莲么？按照我们的誓约，我会尽量帮助你的。”黑暗中，方源缓缓地道。"
+        },
+        {
+          "chapter": 312,
+          "paragraph": 43,
+          "file": "OEBPS/Text/chapter320.html",
+          "text": "“不需要。”白凝冰冷冷的回了一句。"
+        },
+        {
+          "chapter": 312,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter320.html",
+          "text": "方源毫不犹豫地将白银舍利蛊催动，顿时倾泻出绚烂光辉，直接照耀着空窍四壁。"
+        },
+        {
+          "chapter": 312,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter320.html",
+          "text": "大约两个时辰之后，方源从三转高阶，一跃成为三转巅峰。"
+        },
+        {
+          "chapter": 312,
+          "paragraph": 63,
+          "file": "OEBPS/Text/chapter320.html",
+          "text": "经过两年多的回复，它的状态也在回升。"
+        },
+        {
+          "chapter": 312,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter320.html",
+          "text": "“但是也不能放松。春秋蝉的回复，是越来越快的。我的修为还得更快增长，否则将重蹈覆辙。”"
+        }
+      ]
+    },
+    {
+      "id": "R-163",
+      "kind": "Killer move / attention / Gu count",
+      "entry": "Five active streams, autonomous vitality",
+      "calculation": "BaiIceBlade,IceCrystal,RotatingHeel,Tornado,FrostBreath5active;Vitalityautonomous3146. Upgradedstationarystormnotoldstormmobilityrule. Yan2FourSnakes+4ThreeClaws+FuelOil,combineddragonnotactualFiveGuowned.",
+      "status": "Provisional evidence record; no substantive approval or application",
+      "sources": [
+        {
+          "chapter": 313,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter321.html",
+          "text": "炎突有一心三用之能，如今虽然只操纵这两条火焰长蛇。但其招数精妙，要配合默契，反而更得让炎突消耗精神。"
+        },
+        {
+          "chapter": 313,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter321.html",
+          "text": "火蛇蛊乃是四转蛊，在两只四转蛊的夹攻之下，白凝冰渐渐处于下风。"
+        },
+        {
+          "chapter": 314,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter322.html",
+          "text": "朝气蛊还有一项好处，那就是一经催动，就化为朝气暖流，自行运转，无须再劳神操纵。"
+        },
+        {
+          "chapter": 314,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter322.html",
+          "text": "冰刃蛊、冰晶蛊、旋踵蛊、龙眷顾，白凝冰亦能一心四用。"
+        },
+        {
+          "chapter": 314,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter322.html",
+          "text": "此刻，白凝冰一心五用！"
+        },
+        {
+          "chapter": 314,
+          "paragraph": 74,
+          "file": "OEBPS/Text/chapter322.html",
+          "text": "他有四只火爪蛊在身上，此时一齐使用出去。"
+        },
+        {
+          "chapter": 314,
+          "paragraph": 80,
+          "file": "OEBPS/Text/chapter322.html",
+          "text": "“炎突大人通过火蛇蛊、火爪的组合，达到五转火蛟蛊的一小半威能。”"
+        },
+        {
+          "chapter": 314,
+          "paragraph": 108,
+          "file": "OEBPS/Text/chapter322.html",
+          "text": "冰风暴缺乏一股前进的动力，只能在原地自转，这实在有一种说不出的尴尬。"
+        },
+        {
+          "chapter": 314,
+          "paragraph": 111,
+          "file": "OEBPS/Text/chapter322.html",
+          "text": "但她已经是一心五用，达到了极限，心力憔悴，根本没有空余的精神。"
+        }
+      ]
+    },
+    {
+      "id": "R-164",
+      "kind": "Destruction / vital transfer / backlash",
+      "entry": "Bai first defeat",
+      "calculation": "Yanloses1FireSnake+2FireClawGu314146. ReceivesBai’sIceCrystalThreealive,vitaltransfercausesbleeding164. NomandatoryvitalGuownerdeath. FrostDemonreplacementonlyWeihope;notbought.",
+      "status": "Provisional evidence record; no substantive approval or application",
+      "sources": [
+        {
+          "chapter": 314,
+          "paragraph": 146,
+          "file": "OEBPS/Text/chapter322.html",
+          "text": "一下子，就损失了一只火蛇蛊，还有两只火爪蛊。"
+        },
+        {
+          "chapter": 314,
+          "paragraph": 148,
+          "file": "OEBPS/Text/chapter322.html",
+          "text": "白凝冰撤销冰晶蛊，还原成本来面貌，肉体凡躯。她的真元耗尽，空窍彻底干涸。"
+        },
+        {
+          "chapter": 314,
+          "paragraph": 149,
+          "file": "OEBPS/Text/chapter322.html",
+          "text": "“我认输。”她冷漠地开口道。"
+        },
+        {
+          "chapter": 314,
+          "paragraph": 161,
+          "file": "OEBPS/Text/chapter322.html",
+          "text": "“就要你的冰晶蛊。”炎突恨声道。"
+        },
+        {
+          "chapter": 314,
+          "paragraph": 162,
+          "file": "OEBPS/Text/chapter322.html",
+          "text": "“拿去。”白凝冰冷哼一声，将冰晶蛊很干脆地交出来。"
+        },
+        {
+          "chapter": 314,
+          "paragraph": 163,
+          "file": "OEBPS/Text/chapter322.html",
+          "text": "两人当场完成交接。"
+        },
+        {
+          "chapter": 314,
+          "paragraph": 164,
+          "file": "OEBPS/Text/chapter322.html",
+          "text": "冰晶蛊乃是白凝冰的本命蛊，失去的瞬间，她的七窍都流出血迹。"
+        },
+        {
+          "chapter": 314,
+          "paragraph": 169,
+          "file": "OEBPS/Text/chapter322.html",
+          "text": "“可惜，如果白凝冰当初听我的劝，选择霜妖蛊，情况无疑会更好。”魏央感慨道。"
+        }
+      ]
+    },
+    {
+      "id": "R-165",
+      "kind": "Vault / orders / future contingency",
+      "entry": "Lotus stock and Hard Qi",
+      "calculation": "Shangvault2ThreeLotus+1FourLord,notFYholdings/freegifts. JuorderedtakeFYLotusifwin/present,elsemustnotclaimAllOutEffort. HardQialreadyowned,StrengthQiwishonly. FYrefinementoutcomenotshownby315.",
+      "status": "Provisional evidence record; no substantive approval or application",
+      "sources": [
+        {
+          "chapter": 315,
+          "paragraph": 26,
+          "file": "OEBPS/Text/chapter323.html",
+          "text": "“若是炼蛊成功，有那蛊相助，我将有六成的胜机！但愿能炼蛊成功罢。”"
+        },
+        {
+          "chapter": 315,
+          "paragraph": 43,
+          "file": "OEBPS/Text/chapter323.html",
+          "text": "天元宝莲这种东西，商家城的活宝门内也存着两棵。同时还有一棵天元宝君莲。"
+        },
+        {
+          "chapter": 315,
+          "paragraph": 45,
+          "file": "OEBPS/Text/chapter323.html",
+          "text": "活宝门把守着，就算商燕飞贵为家族之主，也必须得遵守祖宗定下来的规矩。"
+        },
+        {
+          "chapter": 315,
+          "paragraph": 51,
+          "file": "OEBPS/Text/chapter323.html",
+          "text": "巨开碑浏览一番，自言自语：“主上猜测方源的手中，可能有一株天元宝莲。如是此战我得胜，便叫我试着索要这株草蛊。若是没有这蛊，也不可选全力以赴蛊。”"
+        },
+        {
+          "chapter": 315,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter323.html",
+          "text": "说着，他从空窍中掏出一只蛊来。"
+        },
+        {
+          "chapter": 315,
+          "paragraph": 86,
+          "file": "OEBPS/Text/chapter323.html",
+          "text": "“咦，硬气蛊！”炎突的脸上惊讶之后，涌现出喜色，“太好了，巨老弟。你动用杀招时，防御下降，有了此蛊，就弥补了短板。这蛊珍贵，并不常见，你要好好喂养啊。”"
+        },
+        {
+          "chapter": 315,
+          "paragraph": 87,
+          "file": "OEBPS/Text/chapter323.html",
+          "text": "巨开碑点点头，收起硬气蛊后，发出一声叹息：“可惜，这只是一只硬气蛊，而非力气蛊。若是有力气蛊的话，我的战斗力就能得到升华，引起质变，暴涨两倍战力绰绰有余……”"
+        },
+        {
+          "chapter": 315,
+          "paragraph": 88,
+          "file": "OEBPS/Text/chapter323.html",
+          "text": "炎突哈哈一笑：“你这是贪心不足蛇吞象！上古气道早已经消失，力气蛊已经绝迹，你能得到一只硬气蛊，已经是运道旺盛了，别不知足。”"
         }
       ]
     }

@@ -302,14 +302,29 @@
     297,
     298,
     299,
-    300
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315
   ],
-  "paragraphs_read": 26938,
-  "paragraph_characters_read": 932881,
-  "next_chapter": 301,
-  "remaining_chapters": 2034,
-  "batch_report": "Batch-015-Chapters-286-300.md",
-  "scope": "Full sequential Chinese-source reading through300; no fresh bilingual/live-site audit",
+  "paragraphs_read": 28425,
+  "paragraph_characters_read": 980817,
+  "next_chapter": 316,
+  "remaining_chapters": 2019,
+  "batch_report": "Batch-016-Chapters-301-315.md",
+  "scope": "Full sequential Chinese-source reading through315; not a fresh bilingual/live-site audit",
   "publication_policy": "All emendations held for complete2334-chapter review and global reconciliation.",
   "whole_novel_chronology_verified": false,
   "batches": [
@@ -461,6 +476,16 @@
       "paragraphs": 1563,
       "characters": 47251,
       "reading_segments": "Seven complete untruncated two-chapter outputs and complete300; adaptive15"
+    },
+    {
+      "id": "016",
+      "chapters": [
+        301,
+        315
+      ],
+      "paragraphs": 1487,
+      "characters": 47936,
+      "reading_segments": "Seven complete untruncated two-chapter outputs and complete315; adaptive15"
     }
   ],
   "chapters": [
@@ -2863,6 +2888,126 @@
       "paragraphs": 124,
       "first_paragraph": 1,
       "last_paragraph": 124
+    },
+    {
+      "chapter": 301,
+      "file": "OEBPS/Text/chapter309.html",
+      "title": "第一百零二节：方源vs朱八（下）",
+      "paragraphs": 98,
+      "first_paragraph": 1,
+      "last_paragraph": 98
+    },
+    {
+      "chapter": 302,
+      "file": "OEBPS/Text/chapter310.html",
+      "title": "第一百零三节：铁若男",
+      "paragraphs": 86,
+      "first_paragraph": 1,
+      "last_paragraph": 86
+    },
+    {
+      "chapter": 303,
+      "file": "OEBPS/Text/chapter311.html",
+      "title": "第一百零四节：真想扼杀掉",
+      "paragraphs": 78,
+      "first_paragraph": 1,
+      "last_paragraph": 78
+    },
+    {
+      "chapter": 304,
+      "file": "OEBPS/Text/chapter312.html",
+      "title": "第一百零五节：苦力蛊",
+      "paragraphs": 106,
+      "first_paragraph": 1,
+      "last_paragraph": 106
+    },
+    {
+      "chapter": 305,
+      "file": "OEBPS/Text/chapter313.html",
+      "title": "第一百零六节：拍卖（上）",
+      "paragraphs": 87,
+      "first_paragraph": 1,
+      "last_paragraph": 87
+    },
+    {
+      "chapter": 306,
+      "file": "OEBPS/Text/chapter314.html",
+      "title": "第一百零七节：拍卖（中）",
+      "paragraphs": 93,
+      "first_paragraph": 1,
+      "last_paragraph": 93
+    },
+    {
+      "chapter": 307,
+      "file": "OEBPS/Text/chapter315.html",
+      "title": "第一百零八节：拍卖（下）",
+      "paragraphs": 105,
+      "first_paragraph": 1,
+      "last_paragraph": 105
+    },
+    {
+      "chapter": 308,
+      "file": "OEBPS/Text/chapter316.html",
+      "title": "第一百零九节：拍卖（终）",
+      "paragraphs": 105,
+      "first_paragraph": 1,
+      "last_paragraph": 105
+    },
+    {
+      "chapter": 309,
+      "file": "OEBPS/Text/chapter317.html",
+      "title": "第一百一十节：心慈之志",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 310,
+      "file": "OEBPS/Text/chapter318.html",
+      "title": "第一百一十一节：你这个无耻小人！",
+      "paragraphs": 74,
+      "first_paragraph": 1,
+      "last_paragraph": 74
+    },
+    {
+      "chapter": 311,
+      "file": "OEBPS/Text/chapter319.html",
+      "title": "第一百一十二节：其实我是个善良的人",
+      "paragraphs": 87,
+      "first_paragraph": 1,
+      "last_paragraph": 87
+    },
+    {
+      "chapter": 312,
+      "file": "OEBPS/Text/chapter320.html",
+      "title": "第一百一十三节：再到三转巅峰",
+      "paragraphs": 107,
+      "first_paragraph": 1,
+      "last_paragraph": 107
+    },
+    {
+      "chapter": 313,
+      "file": "OEBPS/Text/chapter321.html",
+      "title": "第一百一十四节：白凝冰VS炎突",
+      "paragraphs": 112,
+      "first_paragraph": 1,
+      "last_paragraph": 112
+    },
+    {
+      "chapter": 314,
+      "file": "OEBPS/Text/chapter322.html",
+      "title": "第一百一十五节：胜和败",
+      "paragraphs": 171,
+      "first_paragraph": 1,
+      "last_paragraph": 171
+    },
+    {
+      "chapter": 315,
+      "file": "OEBPS/Text/chapter323.html",
+      "title": "第一百一十六节：硬气蛊",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
     }
   ]
 }

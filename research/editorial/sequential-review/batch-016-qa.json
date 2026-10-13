@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "chapters": 315,
+  "batch_paragraphs": 1487,
+  "batch_characters": 47936,
+  "paragraphs": 28425,
+  "characters": 980817,
+  "proposals": 139,
+  "held": 137,
+  "withdrawn": [
+    "SR-047",
+    "SR-099"
+  ],
+  "copy_items": 94,
+  "chronology": 221,
+  "resources": 165,
+  "reading_segments": 8,
+  "next": 316,
+  "reader_omissions": [
+    [
+      303,
+      16
+    ]
+  ],
+  "source_sha256_unchanged": "1ef1c29b6bddd7994f56696e2d091363aa8bbcee4889439465a9e2c51437dd5d",
+  "independent_export_check": {
+    "passed": true,
+    "docx_paragraphs": 103,
+    "docx_tables": 1,
+    "sheets": 8,
+    "chapter_rows": 316,
+    "paragraph_rows": 28426,
+    "proposal_rows": 140,
+    "reader_omissions": 1
+  }
+}

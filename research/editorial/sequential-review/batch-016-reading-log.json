@@ -1,0 +1,71 @@
+{
+  "status": "Complete",
+  "endpoint": 315,
+  "next_unread": 316,
+  "segments": [
+    {
+      "chapters": [
+        301,
+        302
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 184
+    },
+    {
+      "chapters": [
+        303,
+        304
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 184
+    },
+    {
+      "chapters": [
+        305,
+        306
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 180
+    },
+    {
+      "chapters": [
+        307,
+        308
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 210
+    },
+    {
+      "chapters": [
+        309,
+        310
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 158
+    },
+    {
+      "chapters": [
+        311,
+        312
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 194
+    },
+    {
+      "chapters": [
+        313,
+        314
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 283
+    },
+    {
+      "chapters": [
+        315
+      ],
+      "status": "Full paragraph sequence read; untruncated",
+      "paragraphs": 94
+    }
+  ],
+  "note": "Actual reading, not extraction-only coverage.303p16 explicit reader-facing omission preserves numbering and source. No invented timestamps."
+}
