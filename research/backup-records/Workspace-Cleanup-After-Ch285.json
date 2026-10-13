@@ -1,0 +1,141 @@
+{
+  "remote_commit": "9a1c8a25509d54c50754498ea4b0e5e1520a1ce1",
+  "verification": "Each remote file downloaded and SHA-256 matched against local copy before deletion",
+  "files": [
+    {
+      "path": "editorial/sequential-review/Batch-001-Chapters-1-10.docx",
+      "bytes": 47985,
+      "sha256": "f5d3f636cf2cec731d6d96171b801a1b77c0e0fcf3890a490d7d7cdff4ba2c39",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-001-Chapters-1-10.docx"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-001-Numbered-Chinese-Source.md",
+      "bytes": 88680,
+      "sha256": "647e58c635807cd5020aad38ed4619129289df451512872f69c9213891123b5f",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-001-Numbered-Chinese-Source.md"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-002-Chapters-11-20.docx",
+      "bytes": 46179,
+      "sha256": "f9ad104aed6e66dd38bc4362655be355816ae8c3d7c787da3d6b7c566eb4d081",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-002-Chapters-11-20.docx"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-002-Numbered-Chinese-Source.md",
+      "bytes": 93071,
+      "sha256": "0fa0892ffc7ee7b097e3d4fcd07f8b02b1e2cdedd1ad1fd5b5753198650fa0bd",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-002-Numbered-Chinese-Source.md"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-003-Chapters-21-50.docx",
+      "bytes": 44948,
+      "sha256": "d4a203cd06eaf0767f2d41cd85428a10b171133ae72b0bf8959242a64ea04f8c",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-003-Chapters-21-50.docx"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-003-Numbered-Chinese-Source.md",
+      "bytes": 277800,
+      "sha256": "cd96375e51c8a7cfb47fb4f869449dff4f2a49d9315688181d1888e39675f629",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-003-Numbered-Chinese-Source.md"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-004-Chapters-51-80.docx",
+      "bytes": 44780,
+      "sha256": "bb6a115f1a48cd2c3d0a43a2c728dfca0d38dbcf48764268a17cf3217afacbec",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-004-Chapters-51-80.docx"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-004-Numbered-Chinese-Source.md",
+      "bytes": 296697,
+      "sha256": "a3d74c62d4a05c430e3363e68d9a5f9683439b158f277d266767d6a5f651fe91",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-004-Numbered-Chinese-Source.md"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-005-Chapters-81-110.docx",
+      "bytes": 44401,
+      "sha256": "abfe7c02bc3e4515f27fd0732d83d499a270a34e68938a746c3de6e896abc8eb",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-005-Chapters-81-110.docx"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-005-Numbered-Chinese-Source.md",
+      "bytes": 307829,
+      "sha256": "4bb72d5273a3b73c17ca2d63feb5d5268903c0afecd99e1170d7fec1b65bc005",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-005-Numbered-Chinese-Source.md"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-006-Chapters-111-140.docx",
+      "bytes": 44703,
+      "sha256": "3dfff194bdde94dacb00430c9e70d4aa4efd2b115873d3f497a0ef895a7fdae1",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-006-Chapters-111-140.docx"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-006-Numbered-Chinese-Source.md",
+      "bytes": 324076,
+      "sha256": "599734c8e8ef83a5f7728526bb60b04b77356a019e3d8da607eb0cd0b57972f0",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-006-Numbered-Chinese-Source.md"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-007-Chapters-141-160.docx",
+      "bytes": 45597,
+      "sha256": "dbc0d2c9d37770c1c8e553f4a7025b181736c142b5aa16d677c7e80696394030",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-007-Chapters-141-160.docx"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-007-Numbered-Chinese-Source.md",
+      "bytes": 218406,
+      "sha256": "06dd772b5ee4173b06430b680cc2b6321d1e70d362d5d8282b785ba9f24a3289",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-007-Numbered-Chinese-Source.md"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-008-Chapters-161-180.docx",
+      "bytes": 45382,
+      "sha256": "3e8eadf0c2b80f212f25b3918d5f827418e4ef3c7151d609b56473a8c64cc43e",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-008-Chapters-161-180.docx"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-008-Numbered-Chinese-Source.md",
+      "bytes": 210475,
+      "sha256": "51615e7b03b52ca568cfa4f7b6b06f7df44baa5d013be8d7cf66156123c9e791",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-008-Numbered-Chinese-Source.md"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-009-Chapters-181-200.docx",
+      "bytes": 45783,
+      "sha256": "994de167458d2e15e951a820858ef77ff656af0dae515e06e970f17b5cf7470e",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-009-Chapters-181-200.docx"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-009-Numbered-Chinese-Source.md",
+      "bytes": 202952,
+      "sha256": "af61db1c52df95f05614bfa5be78f6cac14629220efe5d97c6747c4a33f60267",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-009-Numbered-Chinese-Source.md"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-010-Chapters-201-220.docx",
+      "bytes": 46814,
+      "sha256": "6796c75d4d19bd232167a76e69207bd159d3699ec2a9e1b506a69043ca83f35a",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-010-Chapters-201-220.docx"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-010-Numbered-Chinese-Source.md",
+      "bytes": 209243,
+      "sha256": "5cc44aa4fadcbefd331b38222cec00eedf09140cbdb82e99f51bbac2128777e5",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-010-Numbered-Chinese-Source.md"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-011-Chapters-221-240.docx",
+      "bytes": 46761,
+      "sha256": "f84200b65b38e97b0be50de8430a9e6f0f512b22b377f98f35bce7dae48f7549",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-011-Chapters-221-240.docx"
+    },
+    {
+      "path": "editorial/sequential-review/Batch-011-Numbered-Chinese-Source.md",
+      "bytes": 211874,
+      "sha256": "bd1cae5c8985e8883d60b50573c23df38f6aeef552e61752c82b7746250166aa",
+      "restore_url": "https://raw.githubusercontent.com/TheOmniarch-god/Reverend-Insanity-Translation-by-The-Omniarch/9a1c8a25509d54c50754498ea4b0e5e1520a1ce1/research/editorial/sequential-review/Batch-011-Numbered-Chinese-Source.md"
+    }
+  ],
+  "bytes_freed": 2944436,
+  "preserved": "EPUB, uploads, source captures, source JSON, Markdown reports, all jotters, registers, generators, batches012–014 exports, backup ZIP",
+  "status": "Completed"
+}

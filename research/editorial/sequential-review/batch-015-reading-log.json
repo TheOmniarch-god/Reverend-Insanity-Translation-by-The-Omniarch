@@ -1,0 +1,71 @@
+{
+  "status": "Complete",
+  "endpoint": 300,
+  "next_unread": 301,
+  "segments": [
+    {
+      "chapters": [
+        286,
+        287
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 184
+    },
+    {
+      "chapters": [
+        288,
+        289
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 218
+    },
+    {
+      "chapters": [
+        290,
+        291
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 254
+    },
+    {
+      "chapters": [
+        292,
+        293
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 196
+    },
+    {
+      "chapters": [
+        294,
+        295
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 164
+    },
+    {
+      "chapters": [
+        296,
+        297
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 215
+    },
+    {
+      "chapters": [
+        298,
+        299
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 208
+    },
+    {
+      "chapters": [
+        300
+      ],
+      "status": "Full paragraph sequence read; untruncated",
+      "paragraphs": 124
+    }
+  ],
+  "note": "Actual reading, not extraction-only coverage;296pp95–97 reader-facing omission markers preserve original numbering and EPUB. No invented timestamps."
+}

@@ -287,14 +287,29 @@
     282,
     283,
     284,
-    285
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300
   ],
-  "paragraphs_read": 25375,
-  "paragraph_characters_read": 885630,
-  "next_chapter": 286,
-  "remaining_chapters": 2049,
-  "batch_report": "Batch-014-Chapters-271-285.md",
-  "scope": "Full sequential Chinese-source reading through285; no fresh bilingual/live-site audit",
+  "paragraphs_read": 26938,
+  "paragraph_characters_read": 932881,
+  "next_chapter": 301,
+  "remaining_chapters": 2034,
+  "batch_report": "Batch-015-Chapters-286-300.md",
+  "scope": "Full sequential Chinese-source reading through300; no fresh bilingual/live-site audit",
   "publication_policy": "All emendations held for complete2334-chapter review and global reconciliation.",
   "whole_novel_chronology_verified": false,
   "batches": [
@@ -436,6 +451,16 @@
       "paragraphs": 1559,
       "characters": 52208,
       "reading_segments": "Seven complete untruncated pairs and complete285; adaptive15"
+    },
+    {
+      "id": "015",
+      "chapters": [
+        286,
+        300
+      ],
+      "paragraphs": 1563,
+      "characters": 47251,
+      "reading_segments": "Seven complete untruncated two-chapter outputs and complete300; adaptive15"
     }
   ],
   "chapters": [
@@ -2718,6 +2743,126 @@
       "paragraphs": 78,
       "first_paragraph": 1,
       "last_paragraph": 78
+    },
+    {
+      "chapter": 286,
+      "file": "OEBPS/Text/chapter294.html",
+      "title": "第八十七节：牛刀小试先一场",
+      "paragraphs": 89,
+      "first_paragraph": 1,
+      "last_paragraph": 89
+    },
+    {
+      "chapter": 287,
+      "file": "OEBPS/Text/chapter295.html",
+      "title": "第八十八节：名声蛊",
+      "paragraphs": 95,
+      "first_paragraph": 1,
+      "last_paragraph": 95
+    },
+    {
+      "chapter": 288,
+      "file": "OEBPS/Text/chapter296.html",
+      "title": "第八十九节：力道修行有玄机",
+      "paragraphs": 126,
+      "first_paragraph": 1,
+      "last_paragraph": 126
+    },
+    {
+      "chapter": 289,
+      "file": "OEBPS/Text/chapter297.html",
+      "title": "第九十节：不能阻挡我",
+      "paragraphs": 92,
+      "first_paragraph": 1,
+      "last_paragraph": 92
+    },
+    {
+      "chapter": 290,
+      "file": "OEBPS/Text/chapter298.html",
+      "title": "第九十一节：方源vs李好（上）",
+      "paragraphs": 115,
+      "first_paragraph": 1,
+      "last_paragraph": 115
+    },
+    {
+      "chapter": 291,
+      "file": "OEBPS/Text/chapter299.html",
+      "title": "第九十二节：方源vs李好（下）",
+      "paragraphs": 139,
+      "first_paragraph": 1,
+      "last_paragraph": 139
+    },
+    {
+      "chapter": 292,
+      "file": "OEBPS/Text/chapter300.html",
+      "title": "第九十三节：法则碎片，大道之痕",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 293,
+      "file": "OEBPS/Text/chapter301.html",
+      "title": "第九十四节：苍天无眼啊",
+      "paragraphs": 102,
+      "first_paragraph": 1,
+      "last_paragraph": 102
+    },
+    {
+      "chapter": 294,
+      "file": "OEBPS/Text/chapter302.html",
+      "title": "第九十五节：罪犯必要严惩！",
+      "paragraphs": 80,
+      "first_paragraph": 1,
+      "last_paragraph": 80
+    },
+    {
+      "chapter": 295,
+      "file": "OEBPS/Text/chapter303.html",
+      "title": "第九十六节：其实，我也是受害者",
+      "paragraphs": 84,
+      "first_paragraph": 1,
+      "last_paragraph": 84
+    },
+    {
+      "chapter": 296,
+      "file": "OEBPS/Text/chapter304.html",
+      "title": "第九十七节：拍卖会",
+      "paragraphs": 108,
+      "first_paragraph": 1,
+      "last_paragraph": 108
+    },
+    {
+      "chapter": 297,
+      "file": "OEBPS/Text/chapter305.html",
+      "title": "第九十八节：一蹴而就蛊",
+      "paragraphs": 107,
+      "first_paragraph": 1,
+      "last_paragraph": 107
+    },
+    {
+      "chapter": 298,
+      "file": "OEBPS/Text/chapter306.html",
+      "title": "第九十九节：白凝冰vs铁刀苦",
+      "paragraphs": 114,
+      "first_paragraph": 1,
+      "last_paragraph": 114
+    },
+    {
+      "chapter": 299,
+      "file": "OEBPS/Text/chapter307.html",
+      "title": "第一百节：闭嘴，你这头肥猪！",
+      "paragraphs": 94,
+      "first_paragraph": 1,
+      "last_paragraph": 94
+    },
+    {
+      "chapter": 300,
+      "file": "OEBPS/Text/chapter308.html",
+      "title": "第一百零一节：方源vs朱八（上）",
+      "paragraphs": 124,
+      "first_paragraph": 1,
+      "last_paragraph": 124
     }
   ]
 }

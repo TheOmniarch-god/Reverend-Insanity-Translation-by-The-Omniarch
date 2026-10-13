@@ -1,8 +1,8 @@
 # Working editorial standards
 
-## Evidence checkpoint: Chapters1–285
+## Evidence checkpoint: Chapters1–300
 
-Working rules are not whole-novel factual certification or manuscript approval. Cultivation wording: Revolution.
+Working rules are not whole-novel factual certification or manuscript approval. Cultivation terminology: Revolution.
 
 ## WS-01: Evidence and viewpoint
 
@@ -14,7 +14,7 @@ Working rules are not whole-novel factual certification or manuscript approval. 
 
 **reopen:** An apparent narrator statement may itself be a copy error; examine wording and provenance rather than apply a mechanical hierarchy.
 
-**batch014_update:** Bai predictive-Gu inference, FY shared-spy identity and public stone story are beliefs/cover narratives, not confirmed facts.
+**batch015_update:** 294survivalhintbait,69fabricatedpleadingstory;SR104versionholdcontinues. Chief’sfaithinFYprinciplesandBai’spredictiveGuinference notnarratorfacts.
 
 ## WS-02: Aperture quantities
 
@@ -26,7 +26,7 @@ Working rules are not whole-novel factual certification or manuscript approval. 
 
 **reopen:** Later cultivation systems, changed denominators, special transformations or explicit exceptions. No universal claim about every percentage in the novel.
 
-**batch014_update:** Five masters versus four; third attack versus third punch. Counts checked against actual sequence.
+**batch015_update:** Sixfoldtotalnotadditionalmultiples;80kprecisionquery;auctionapproximatebandscohere. MatchnameLiHao,notLiRan.
 
 ## WS-03: Revolution, stage and aptitude
 
@@ -38,7 +38,7 @@ Working rules are not whole-novel factual certification or manuscript approval. 
 
 **reopen:** A new method can change aptitude or revolution. Do not pre-emptively change earlier valid values or give allGrade A charactersTen Extreme status.
 
-**batch014_update:** FY Three initial273; Reunion still useful282. Withdraw SR099 after/before repair. Bai Three peak, incomplete bear effect tracked.
+**batch015_update:** FYThreeinitial;SilverRelicheldunused. BaiThreepeak,90reservebeforefightnotautomatic90aptitude. Onephantomatime;half-turtleunfinished.
 
 ## WS-04: Gu possession and control
 
@@ -50,7 +50,7 @@ Working rules are not whole-novel factual certification or manuscript approval. 
 
 **reopen:** LaterGu with special control rules. Do not invent consumption or disposal merely to force an inventory total.
 
-**batch014_update:** Plunder starved, Rice Pouch consumed in refinement. Shield inventory omission held. Borrowed Vine Gu remains Shang property.
+**batch015_update:** JumpingGrasssold;SelfReliancebought;PositionSwapvitaldieswithLiHao. Canopydamage≠death. PermanentmarksnotproofGuconsumption.
 
 ## WS-05: Time units and interval scope
 
@@ -62,7 +62,7 @@ Working rules are not whole-novel factual certification or manuscript approval. 
 
 **reopen:** Explicit in-world clock redefinition, tightly dated later evidence or source variants. Month/season mapping remains open.
 
-**batch014_update:** Nearly1year sinceQingMao; LiRan11=3+8. Halfyear stakeout distinct from8year infiltration. Similes and plans not dates.
+**batch015_update:** TimeGuconsumesoverhalfyearpersonal life inminutesexternal. Legendarydaysseparate. Off-pagebouts/ellipsesnotfabricateddateproof.
 
 ## WS-06: Resources and storage
 
@@ -74,7 +74,7 @@ Working rules are not whole-novel factual certification or manuscript approval. 
 
 **reopen:** Later receipts, expenditures, discounts, extra storage or explicit transport details. No invented running balance.
 
-**batch014_update:** Oath3000+storage6700=9700; existing wealth50/50, future70/30.420k cash checkpoint; gambling valuations not receipts.
+**batch015_update:** LiRan170kpaid/30kowed onlaterroundedledger. Bai500kreceived/2.5millionunreceived. Auction180kplus+83kconsistent270kplusunder187–190kfirstprice.
 
 ## WS-07: Ranges and physical staging
 
@@ -86,7 +86,7 @@ Working rules are not whole-novel factual certification or manuscript approval. 
 
 **reopen:** Gu upgrades, cultivation effects, terrain, source witnesses or explicit distance/time anchors. Current disputed numbers remain held.
 
-**batch014_update:** Heart Voice100pace range applies to communication, moving sender not located. No invented geography correction.
+**batch015_update:** 50pacesunobstructedcharge,mud45,cooldownsperGu. Horse30%fasternotfarther. Largepillarsandlegendaryabyssnotautomaticallyreduced.
 
 ## WS-08: Ages and calendars
 
@@ -98,7 +98,7 @@ Working rules are not whole-novel factual certification or manuscript approval. 
 
 **reopen:** Any later explicit date, birthday, age convention, cohort rule or calendar definition.
 
-**batch014_update:** LiRan50plus, other60plus; child5/6 inFYspeech. Chief confirms meetingWei before becoming chief.
+**batch015_update:** SteelTendoncompleted293afterone-monthplan,relativeanchoruncertain. Lifespanspentnotbirthcalendaradvance. Six-personparty=5Bai+Tie.
 
 ## WS-09: Copy corrections and textual provenance
 
@@ -110,7 +110,7 @@ Working rules are not whole-novel factual certification or manuscript approval. 
 
 **reopen:** Authenticated source variant, deliberate wordplay or later evidence. EnglishGu labels in reports are working identifiers, not an approved global glossary.
 
-**batch014_update:** 70 individually held copy candidates; source quotation unchanged. Revolution adopted for assistant cultivation wording.
+**batch015_update:** Individualcopycandidates;29447missing少localrepairnotglobalBaititlepolicy.30092DirectChargetechnicalnamecandidate.
 
 ## WS-10: Completion and approval gates
 
@@ -122,7 +122,7 @@ Working rules are not whole-novel factual certification or manuscript approval. 
 
 **reopen:** Only an explicit user change of scope or approval changes the work gate. Later contradictions may reopen working standards.
 
-**batch014_update:** 285/2334 read;2049remaining.128records,126held,2withdrawn. All substantive approved/applied false.
+**batch015_update:** 300/2334actualread,2034remaining.133records,131held,2withdrawn. Substantiveapproved/appliedfalse. Remote285verified atpackaging; laterbackupreceiptseparate.
 
 ## WS-11: Agreed working rendering of 人是万物之灵
 
@@ -134,7 +134,7 @@ Working rules are not whole-novel factual certification or manuscript approval. 
 
 **reopen:** If a specific later quotation, speaker or taxonomic contrast requires contextual annotation; not a reason to silently replace the agreed refrain.
 
-**batch014_update:** 276p54 preserves full maxim. Working story English unchanged: Man is the most intelligent of all living things.
+**batch015_update:** 29231fullmaximrepeated. Poem291125/29249keptrecognisable;noem-dashrequirementinEnglishprose.
 
 ## WS-12: Clan-specific titles and competitive offices
 
@@ -146,4 +146,4 @@ Working rules are not whole-novel factual certification or manuscript approval. 
 
 **reopen:** Any explicit clan-specific succession rule, nominal versus functional title, or different historical arrangement.
 
-**batch014_update:** 271Baitwins少主 supportsSR118;272Shangmultipleoffices distinct from ordinary succession. Alias claims not biographical proof.
+**batch015_update:** SR118Baitwinscomponentdowngradedafterownclanrepeated少族长293–295. Shang262officecorrectionremainsstrong. Do not universaliseclanrules.

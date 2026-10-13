@@ -1,0 +1,13 @@
+# Batch015 preservation cautions
+- Li Ran receives instalments, not200000 in full;30000 remains owed at latest explicit checkpoint. Bai500000 received versus3000000 promised leaves2500000 not yet received.
+- Auction rounded amounts can agree; no automatic270000→260000 repair.83000 is two Gu combined, not each. Other auction buyers’ spending not FY’s.
+- Steel Tendon continuous-use Gu differs from consumed Iron Bone. Repeated Lotus refill supports activation, not enlarged aperture capacity.
+- Instant Success burns continuously after activation, output can be suppressed. Personal lifespan expenditure is not months passing outside. Yin/Yang Cloud return option not completed sale.
+- One boar removed, horse+ox+half-turtle added. Half turtle not complete. Only one beast phantom at a time. Fifty-pace max remains; horse gives30%more speed notrange.
+- Fifth-tier17wins need not mean13wins sinceLiRan; LiRan fight not explicitly fourth. Possible ellipsis before fourth-tier debut prevents proved two-fights-one-day contradiction.
+- Three-breath alternate-move intervals plus travel not same as five-breath per-Gu cooldown. Changing control distinct from maintaining effects.
+- LiHao dead;MountainBackToad dead;vitalPositionSwap dieswithowner;3otherGu looted. NoSwapacquisition. TieDaoKu survivesBai;hisownhealinginadequateforleft-eye injury, not universal permanence.
+- Bai reserve90−70=20 doesnotfixheraptitudeat90afterearlierrise. Snowball relinquishment decision not completed sale. Ice Crystal now vital; prior Iron Thorn disposition unreported, changing vital Gu possible.
+- Bai twins alive hint is coercive bait, followed by death account. Mixed source witness still unresolved. RepeatedBai少族长weakens simplistic title correction; Shang rules not universal.
+- Ren Zu legend and characterprophecy/motivesnotnarratorcalendar/fact. Repeatpoem andmaximpreserved.
+- ZhuBa fourth-tiernumber8notRevolutionEight.300endsmidfight,not31stwin/death/loot. Canopyheavilyinjurednotexplicitlydead;GoldenShieldcannotstackwithit.
