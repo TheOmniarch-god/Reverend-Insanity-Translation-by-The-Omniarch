@@ -4633,26 +4633,27 @@ p.tn-blurred {
 
 /* Superscript ref in prose */
 .note-ref {
-  display: inline;
-  vertical-align: super;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 16px;
+  height: 16px;
+  padding: 0 4px;
   font-family: var(--sans);
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 800;
   line-height: 1;
-  padding: 0 2px;
-  background: #fbf3e0;
+  background: linear-gradient(135deg, #fbf3e0 0%, #f6e8c0 100%);
   border: 1px solid rgba(168,121,26,0.32);
   color: #7a5a10;
-  border-radius: 2px;
-  margin-left: 2px;
+  border-radius: 5px;
+  vertical-align: super;
+  margin-left: 3px;
   margin-right: 1px;
   cursor: pointer;
   text-decoration: none !important;
   position: relative;
-  top: -1px;
-  letter-spacing: 0;
-  word-spacing: 0;
-  white-space: nowrap;
+  top: -2px;
   transition: all 0.18s ease;
   user-select: none;
 }
@@ -6057,3 +6058,58 @@ p.tn-blurred {
     padding: 18px 16px 22px;
   }
 }
+
+/* World page dark mode readability fix */
+[data-theme="obsidian"] .world-white-card,
+[data-theme="obsidian"] .world-arc-inner {
+  background: #12100e;
+  border-color: #221e18;
+  box-shadow: 0 12px 36px rgba(0,0,0,0.6);
+}
+
+[data-theme="obsidian"] .world-white-card-head h3,
+[data-theme="obsidian"] .world-arc-header h2 {
+  color: #ffffff;
+}
+
+[data-theme="obsidian"] .world-white-desc,
+[data-theme="obsidian"] .world-arc-lede,
+[data-theme="obsidian"] .world-arc-card p,
+[data-theme="obsidian"] .world-arc-card ul li {
+  color: #c7c1b4;
+}
+
+[data-theme="obsidian"] .world-pill {
+  background: #1a1815;
+  border-color: #2a251e;
+  color: #e8e3d8;
+}
+
+[data-theme="obsidian"] .world-pill:hover {
+  border-color: var(--red);
+  color: var(--red);
+  background: #221411;
+}
+
+[data-theme="obsidian"] .world-pill.active {
+  background: var(--red);
+  border-color: var(--red);
+  color: #ffffff;
+}
+
+[data-theme="obsidian"] .world-white-count,
+[data-theme="obsidian"] .world-white-badge {
+  background: #1f1c17;
+  border-color: #2a251e;
+  color: #8e887d;
+}
+
+[data-theme="obsidian"] .world-arc-card {
+  background: #0d0c0a;
+  border-color: #1f1c17;
+}
+
+[data-theme="obsidian"] .world-arc-card h3 {
+  color: #ffffff;
+}
+
