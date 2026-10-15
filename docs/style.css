@@ -6113,3 +6113,93 @@ p.tn-blurred {
   color: #ffffff;
 }
 
+
+/* World dark mode - proper readership v2 - full coverage */
+[data-theme="obsidian"] .world-controls-white {
+  background: transparent;
+}
+
+[data-theme="obsidian"] .world-white-card {
+  background: #12100e !important;
+  border-color: #2a251e !important;
+  box-shadow: 0 12px 36px rgba(0,0,0,0.7) !important;
+}
+
+[data-theme="obsidian"] .world-arc-inner {
+  background: #12100e !important;
+  border-color: #2a251e !important;
+  box-shadow: 0 12px 36px rgba(0,0,0,0.7) !important;
+}
+
+[data-theme="obsidian"] .world-arc-card {
+  background: #1a1815 !important;
+  border-color: #2a251e !important;
+}
+
+[data-theme="obsidian"] .world-arc-card:hover {
+  border-color: rgba(212,163,71,0.35) !important;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.5) !important;
+}
+
+[data-theme="obsidian"] .world-white-card-head h3,
+[data-theme="obsidian"] .world-arc-header h2,
+[data-theme="obsidian"] .world-arc-card h3 {
+  color: #f5f1e8 !important;
+}
+
+[data-theme="obsidian"] .world-white-desc,
+[data-theme="obsidian"] .world-arc-lede,
+[data-theme="obsidian"] .world-arc-card p,
+[data-theme="obsidian"] .world-arc-card ul,
+[data-theme="obsidian"] .world-arc-card ul li,
+[data-theme="obsidian"] .world-arc-footer p {
+  color: #c7c1b4 !important;
+}
+
+[data-theme="obsidian"] .world-white-count,
+[data-theme="obsidian"] .world-white-badge,
+[data-theme="obsidian"] .world-arc-header h2 .cjk,
+[data-theme="obsidian"] .world-arc-header h2 small,
+[data-theme="obsidian"] .world-white-hint,
+[data-theme="obsidian"] .world-slider-labels,
+[data-theme="obsidian"] .world-arc-meta {
+  color: #8e887d !important;
+}
+
+[data-theme="obsidian"] .world-white-count,
+[data-theme="obsidian"] .world-white-badge {
+  background: #1f1c17 !important;
+  border-color: #2a251e !important;
+}
+
+[data-theme="obsidian"] .world-pill {
+  background: #1e1b18 !important;
+  border-color: #2a251e !important;
+  color: #e8e3d8 !important;
+}
+
+[data-theme="obsidian"] .world-pill:hover {
+  background: #221411 !important;
+  border-color: #c92a2a !important;
+  color: #ff6b6b !important;
+}
+
+[data-theme="obsidian"] .world-pill.active {
+  background: #c92a2a !important;
+  border-color: #c92a2a !important;
+  color: #ffffff !important;
+}
+
+[data-theme="obsidian"] .world-white-actions,
+[data-theme="obsidian"] .world-arc-header,
+[data-theme="obsidian"] .world-arc-footer,
+[data-theme="obsidian"] .world-arc-meta {
+  border-color: #2a251e !important;
+}
+
+[data-theme="obsidian"] .world-arc-actions .btn {
+  background: #1e1b18;
+  border-color: #2a251e;
+  color: #e8e3d8;
+}
+
