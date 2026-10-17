@@ -408,57 +408,202 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
   
-  // Anti-theft & copy protection on chapter reader pages
+  // Custom copy & right-click for chapter pages — Ch1-9 now copyable with attribution
   var readerBody = document.querySelector(".chapter-body");
   if (readerBody) {
-    function isPrefacePage() {
-      return document.body.classList.contains("page-preface");
+    function isField(el) {
+      if (!el) return false;
+      var tag = el.tagName ? el.tagName.toLowerCase() : "";
+      return tag === "input" || tag === "textarea" || tag === "select" || el.isContentEditable;
     }
-    // 1. Disable context menu (right-click) — except in text boxes, where the
-    //    menu is how a reader pastes — and except preface which is copyable
+    function closestPara(el) {
+      if (!el) return null;
+      return el.closest ? el.closest(".prose p[id], .prose-poem[id], p[id]") : null;
+    }
+    function getSelectedText() {
+      var sel = window.getSelection();
+      return sel ? sel.toString() : "";
+    }
+    function getChapterInfo() {
+      var ch = document.body.getAttribute("data-chapter") || "";
+      var chNum = ch ? parseInt(ch, 10) : null;
+      return { raw: ch, num: chNum };
+    }
+    function buildParaUrl(paraEl) {
+      var info = getChapterInfo();
+      var base = window.location.origin + (info.num ? "/chapter-" + info.num : window.location.pathname.replace(/\.html$/, "").replace(/\/$/, ""));
+      var hash = paraEl && paraEl.id ? "#" + paraEl.id : "";
+      // Use clean path: /chapter-X#pY
+      if (info.num) {
+        return window.location.origin + "/chapter-" + info.num + hash;
+      }
+      return window.location.href.split("#")[0] + hash;
+    }
+    function buildCitation(selectedOrPara, paraEl) {
+      var info = getChapterInfo();
+      var url = buildParaUrl(paraEl);
+      var chLabel = info.num ? "Chapter " + info.num : "Reverend Insanity";
+      var pLabel = paraEl && paraEl.id ? " ¶" + paraEl.id.replace(/^p/, "") : "";
+      return selectedOrPara + "\n\n— " + chLabel + pLabel + ", The Omniarch Translation (" + url + ")";
+    }
+
+    // 1. Create custom context menu element
+    var customMenu = document.createElement("div");
+    customMenu.id = "riCustomMenu";
+    customMenu.className = "ri-custom-menu";
+    customMenu.hidden = true;
+    customMenu.innerHTML = '<button type="button" data-act="copy">Copy</button>' +
+      '<button type="button" data-act="copyCite">Copy with citation</button>' +
+      '<button type="button" data-act="copyLink">Copy paragraph link</button>' +
+      '<button type="button" data-act="search">Search selection</button>';
+    document.body.appendChild(customMenu);
+
+    var lastContextPara = null;
+    var lastContextEvent = null;
+
+    function hideMenu() {
+      customMenu.hidden = true;
+      customMenu.classList.remove("open");
+    }
+    function showMenu(x, y) {
+      customMenu.style.left = x + "px";
+      customMenu.style.top = y + "px";
+      customMenu.hidden = false;
+      // Adjust if off-screen
+      requestAnimationFrame(function () {
+        var rect = customMenu.getBoundingClientRect();
+        var vw = window.innerWidth, vh = window.innerHeight;
+        var nx = x, ny = y;
+        if (rect.right > vw - 8) nx = Math.max(8, vw - rect.width - 8);
+        if (rect.bottom > vh - 8) ny = Math.max(8, vh - rect.height - 8);
+        customMenu.style.left = nx + "px";
+        customMenu.style.top = ny + "px";
+        customMenu.classList.add("open");
+      });
+    }
+
+    // 2. Right-click inside prose → show custom menu
     document.addEventListener("contextmenu", function (e) {
-      if (isField(e.target)) return;
-      if (isPrefacePage()) return;
+      if (isField(e.target)) return; // allow native in inputs
+      var inside = e.target.closest ? e.target.closest(".chapter-body, .prose") : null;
+      if (!inside) { hideMenu(); return; }
+      // Only custom menu for chapter reader
       e.preventDefault();
+      lastContextPara = closestPara(e.target);
+      lastContextEvent = e;
+      var selText = getSelectedText().trim();
+      // Update search label
+      var searchBtn = customMenu.querySelector('[data-act="search"]');
+      if (searchBtn) {
+        if (selText) {
+          var short = selText.length > 24 ? selText.slice(0, 24) + "…" : selText;
+          searchBtn.textContent = 'Search "' + short + '"';
+          searchBtn.disabled = false;
+        } else {
+          searchBtn.textContent = "Search…";
+          searchBtn.disabled = true;
+        }
+      }
+      showMenu(e.clientX, e.clientY);
       return false;
     });
 
-    // 2. Disable text selection and dragging — allow on preface
-    document.addEventListener("selectstart", function (e) {
-      if (isField(e.target)) return;
-      if (isPrefacePage()) return;
-      e.preventDefault();
-      return false;
-    });
-    document.addEventListener("dragstart", function (e) {
-      if (isField(e.target)) return;
-      if (isPrefacePage()) return;
-      e.preventDefault();
-      return false;
+    // 3. Menu actions
+    customMenu.addEventListener("click", function (e) {
+      var btn = e.target.closest("button[data-act]");
+      if (!btn) return;
+      var act = btn.getAttribute("data-act");
+      var selText = getSelectedText().trim();
+      var paraEl = lastContextPara || (function () {
+        // If no para from right-click, try from selection anchor
+        var sel = window.getSelection();
+        if (sel && sel.anchorNode) {
+          var el = sel.anchorNode.nodeType === 1 ? sel.anchorNode : sel.anchorNode.parentElement;
+          return closestPara(el);
+        }
+        return null;
+      })();
+      var paraText = paraEl ? paraEl.textContent.trim() : "";
+
+      if (act === "copy") {
+        var toCopy = selText || paraText;
+        if (toCopy && navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(toCopy).catch(function () {});
+        } else if (toCopy) {
+          // Fallback: execCommand
+          var ta = document.createElement("textarea");
+          ta.value = toCopy;
+          ta.style.position = "fixed"; ta.style.opacity = "0";
+          document.body.appendChild(ta); ta.select();
+          try { document.execCommand("copy"); } catch (err) {}
+          document.body.removeChild(ta);
+        }
+      } else if (act === "copyCite") {
+        var src = selText || paraText;
+        if (!src) { hideMenu(); return; }
+        var cited = buildCitation(src, paraEl);
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(cited).catch(function () {});
+        } else {
+          var ta2 = document.createElement("textarea");
+          ta2.value = cited;
+          ta2.style.position = "fixed"; ta2.style.opacity = "0";
+          document.body.appendChild(ta2); ta2.select();
+          try { document.execCommand("copy"); } catch (err) {}
+          document.body.removeChild(ta2);
+        }
+      } else if (act === "copyLink") {
+        var link = buildParaUrl(paraEl);
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(link).catch(function () {});
+        } else {
+          var ta3 = document.createElement("textarea");
+          ta3.value = link;
+          ta3.style.position = "fixed"; ta3.style.opacity = "0";
+          document.body.appendChild(ta3); ta3.select();
+          try { document.execCommand("copy"); } catch (err) {}
+          document.body.removeChild(ta3);
+        }
+        // Update URL hash for sharing
+        if (paraEl && paraEl.id) {
+          try { history.replaceState(null, "", "#" + paraEl.id); } catch (err) {}
+        }
+      } else if (act === "search") {
+        if (!selText) { hideMenu(); return; }
+        window.location.href = "/search?q=" + encodeURIComponent(selText);
+      }
+      hideMenu();
     });
 
-    // 3. Clear and intercept copy / cut — allow on preface
+    // Hide on click outside, scroll, escape
+    document.addEventListener("click", function (e) {
+      if (!customMenu.hidden && !customMenu.contains(e.target)) hideMenu();
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") hideMenu();
+    });
+    window.addEventListener("scroll", function () { if (!customMenu.hidden) hideMenu(); }, { passive: true });
+    window.addEventListener("resize", function () { if (!customMenu.hidden) hideMenu(); });
+
+    // 4. Ctrl+C adds attribution footer automatically (for selections inside chapter)
     document.addEventListener("copy", function (e) {
       if (isField(e.target)) return;
-      if (isPrefacePage()) return;
-      e.preventDefault();
+      var sel = window.getSelection();
+      if (!sel || sel.isCollapsed) return;
+      var range = sel.getRangeAt ? sel.getRangeAt(0) : null;
+      if (!range) return;
+      var container = range.commonAncestorContainer;
+      var el = container.nodeType === 1 ? container : container.parentElement;
+      if (!el || !el.closest || !el.closest(".chapter-body, .prose")) return;
+      var selected = sel.toString();
+      if (!selected || selected.length < 20) return; // don't clutter tiny copies
+      var paraEl = closestPara(el) || (sel.anchorNode ? closestPara(sel.anchorNode.parentElement) : null);
+      var cited = buildCitation(selected, paraEl);
       if (e.clipboardData) {
-        e.clipboardData.setData("text/plain", "");
+        e.preventDefault();
+        e.clipboardData.setData("text/plain", cited);
       }
-      return false;
     });
-    document.addEventListener("cut", function (e) {
-      if (isField(e.target)) return;
-      if (isPrefacePage()) return;
-      e.preventDefault();
-      return false;
-    });
-
-    // 4. Keyboard shortcuts are deliberately NOT blocked any more. Ctrl+A/C/S/P/U
-    //    and F12 are all reachable from the browser menu, so blocking them only
-    //    broke honest use — selecting a name to look it up, quoting a line,
-    //    select-to-translate. The visible protection is right-click, selection
-    //    and drag on the prose, kept in steps 1–3 above.
   }
 
   // chapter finder (homepage): filters the list as you type; Enter opens the first match
