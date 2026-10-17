@@ -87,7 +87,7 @@
   </div>
 </footer>
 
-<script src="app.js?v=20261003-024655-aptitude-fix"></script>
+<script src="app.js?v=20261004-search-top"></script>
 <script>
   (function () {
     var input = document.getElementById("q");
@@ -98,7 +98,6 @@
     function esc(s) {
       return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
     }
-
     function titleOf(num) {
       for (var i = 0; i < DATA.chapters.length; i++) {
         if (DATA.chapters[i].num === num) return DATA.chapters[i].title;
@@ -111,8 +110,7 @@
       var hasPreface = d.paras.some(function (p) { return p.c === "preface"; });
       countEl.textContent = d.paras.length + " paragraphs indexed across " +
         (hasPreface ? "the author\u2019s preface and " : "") +
-        d.chapters.length + " chapter" + (d.chapters.length === 1 ? "" : "s") + ".";
-      // if someone typed while the index was still downloading, run it now
+        d.chapters.length + " chapter" + (d.chapters.length === 1 ? "" : "s") + " — type to search, / focuses top search";
       if (input.value.trim().length >= 2) runSearch();
     }).catch(function () {
       countEl.textContent = "The search index could not be loaded.";
@@ -120,12 +118,25 @@
 
     function runSearch() {
       if (!DATA) return;
-      var q = input.value.trim().toLowerCase();
+      var rawQ = input.value.trim();
+      var q = rawQ.toLowerCase();
       resultsEl.innerHTML = "";
       if (q.length < 2) {
         countEl.textContent = "Type at least two characters…";
         return;
       }
+
+      // Chapter title matches
+      var qDigits = q.replace(/^(chapter|ch)\s*/, "");
+      var isNum = /^[0-9]+$/.test(qDigits);
+      var chapterHits = [];
+      for (var ci = 0; ci < DATA.chapters.length; ci++) {
+        var ch = DATA.chapters[ci];
+        var hay = (ch.num + " " + ch.title).toLowerCase();
+        if (isNum ? String(ch.num).indexOf(qDigits) === 0 : hay.indexOf(q) !== -1) chapterHits.push(ch);
+      }
+
+      // Paragraph matches
       var hits = [];
       for (var i = 0; i < DATA.paras.length; i++) {
         var low = DATA.paras[i].t.toLowerCase();
@@ -136,43 +147,65 @@
         hits.push({ d: DATA.paras[i], pos: pos, n: n });
       }
       hits.sort(function (a, b) { return b.n - a.n || a.d.c - b.d.c || a.d.p - b.d.p; });
+
       var top = hits.slice(0, 60);
-      countEl.textContent = hits.length + " matching paragraph" + (hits.length === 1 ? "" : "s") +
-        (top.length < hits.length ? " — showing the top " + top.length : "") + ".";
-      if (!top.length) {
-        resultsEl.innerHTML = '<div class="search-empty">No matches. Try a name, a Gu, or a phrase from the text.</div>';
+      countEl.textContent = chapterHits.length + " chapter" + (chapterHits.length===1?"":"s") + " · " + hits.length + " matching paragraph" + (hits.length === 1 ? "" : "s") +
+        (top.length < hits.length ? " — showing top " + top.length + " paragraphs" : "") + ".";
+
+      if (!chapterHits.length && !top.length) {
+        resultsEl.innerHTML = '<div class="search-empty">No matches for “' + esc(rawQ) + '”. Try a name, a Gu, or a phrase. Check spelling or try a shorter term.</div>';
         return;
       }
+
       var safeQ = q.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
       var re = new RegExp("(" + safeQ + ")", "ig");
       var html = "";
-      for (var k = 0; k < top.length; k++) {
-        var h = top[k];
-        var raw = h.d.t;
-        var start = Math.max(0, h.pos - 70);
-        var end = Math.min(raw.length, h.pos + q.length + 100);
-        var snippet = (start > 0 ? "…" : "") + raw.slice(start, end) + (end < raw.length ? "…" : "");
-        var safe = esc(snippet).replace(re, "<mark>$1</mark>");
-        var link = (h.d.c === "preface") ? "preface#p" + h.d.p : "chapter-" + h.d.c + "#p" + h.d.p;
-        var label = (h.d.c === "preface") ? "Author&#8217;s Preface" : "Chapter " + h.d.c + " · " + esc(titleOf(h.d.c));
-        html += '<a class="sr-card" href="' + link + '">' +
-          '<div class="sr-meta">' + label + '</div>' +
-          '<div class="sr-text">' + safe + '</div></a>';
+
+      if (chapterHits.length) {
+        html += '<div class="search-group"><div class="search-group-title">Chapters matching “' + esc(rawQ) + '”</div>';
+        for (var k = 0; k < chapterHits.length; k++) {
+          var chh = chapterHits[k];
+          var t = esc(chh.title).replace(re, "<mark>$1</mark>");
+          html += '<a class="sr-card sr-card--chapter" href="chapter-' + chh.num + '"><div class="sr-meta">Chapter ' + chh.num + ' · ' + chh.words + ' words</div><div class="sr-text"><strong>' + t + '</strong></div></a>';
+        }
+        html += '</div>';
       }
+
+      if (top.length) {
+        html += '<div class="search-group"><div class="search-group-title">In text</div>';
+        for (var kk = 0; kk < top.length; kk++) {
+          var h = top[kk];
+          var raw = h.d.t;
+          var start = Math.max(0, h.pos - 80);
+          var end = Math.min(raw.length, h.pos + q.length + 120);
+          var snippet = (start > 0 ? "…" : "") + raw.slice(start, end) + (end < raw.length ? "…" : "");
+          var safe = esc(snippet).replace(re, "<mark>$1</mark>");
+          var link = (h.d.c === "preface") ? "preface#p" + h.d.p : "chapter-" + h.d.c + "#p" + h.d.p;
+          var label = (h.d.c === "preface") ? "Author\u2019s Preface · ¶" + h.d.p : "Chapter " + h.d.c + " · " + esc(titleOf(h.d.c)) + " · ¶" + h.d.p + (h.n>1 ? " · " + h.n + "×" : "");
+          html += '<a class="sr-card" href="' + link + '"><div class="sr-meta">' + label + '</div><div class="sr-text">' + safe + '</div></a>';
+        }
+        html += '</div>';
+      }
+
       resultsEl.innerHTML = html;
     }
 
-    // a shared link like /search?q=moon%20orchid pre-fills the box;
-    // the index finishes loading and the pending query runs itself
     try {
       var initial = new URLSearchParams(window.location.search).get("q");
       if (initial) input.value = initial;
-    } catch (e) { /* older browser: no shareable search links */ }
+    } catch (e) {}
 
     var timer = null;
     input.addEventListener("input", function () {
       clearTimeout(timer);
-      timer = setTimeout(runSearch, 140);
+      timer = setTimeout(runSearch, 120);
+    });
+    // Enter to open first result
+    input.addEventListener("keydown", function (e) {
+      if (e.key === "Enter") {
+        var first = resultsEl.querySelector("a.sr-card");
+        if (first) { e.preventDefault(); window.location.href = first.getAttribute("href"); }
+      }
     });
 
     var chips = document.querySelectorAll(".search-chip");
