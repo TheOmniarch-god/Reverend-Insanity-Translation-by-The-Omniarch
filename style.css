@@ -2642,6 +2642,40 @@ html.js-anim .d2 { transition-delay: 0.1s; }
 [data-theme="obsidian"] .renzu-perks li span {
   color: #d4a347;
 }
+
+/* Encyclopedia banner — vertical art fix + dark mode readable */
+.encyclopedia-banner {
+  border-left: 4px solid #a8791a !important;
+  background: linear-gradient(135deg, #fffdf5 0%, #fdf6e3 100%) !important;
+}
+.encyclopedia-art-frame {
+  aspect-ratio: 4 / 5 !important;
+  max-height: 260px !important;
+  background: #0a0a0a !important;
+}
+.encyclopedia-art-frame .renzu-art-img {
+  object-fit: contain !important;
+  object-position: center center !important;
+  background: #0a0a0a;
+}
+[data-theme="obsidian"] .encyclopedia-banner {
+  background: linear-gradient(135deg, #1a1815 0%, #12100e 100%) !important;
+  border-color: rgba(168,121,26,0.35) !important;
+  border-left: 4px solid #a8791a !important;
+}
+[data-theme="obsidian"] .encyclopedia-banner .portal-kicker {
+  color: #d4a347 !important;
+}
+[data-theme="obsidian"] .encyclopedia-banner .portal-title {
+  color: #fffdf5 !important;
+}
+[data-theme="obsidian"] .encyclopedia-banner .portal-desc {
+  color: #c7c1b4 !important;
+}
+[data-theme="obsidian"] .encyclopedia-art-frame {
+  background: #0a0a0a !important;
+  border-color: #2a251e !important;
+}
 [data-theme="obsidian"] .companion-section .community-box,
 [data-theme="obsidian"] .community-box {
   background: rgba(8, 8, 8, 0.92);
