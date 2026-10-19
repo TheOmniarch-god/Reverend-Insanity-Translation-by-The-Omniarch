@@ -1,0 +1,30 @@
+{
+  "batch": "batch-035",
+  "chapters": [
+    666,
+    685
+  ],
+  "chapter_count": 20,
+  "paragraphs": 1589,
+  "characters": 62107,
+  "contiguous_chapters": true,
+  "ledger_ids": [
+    "SR-419",
+    "SR-442"
+  ],
+  "ledger_count": 24,
+  "ledger_total": 442,
+  "approved_or_applied_any": false,
+  "em_dashes_in_new_text": 0,
+  "witness_collated": true,
+  "witness_source": "Hetushu book 7640 pages 5345904–5345923 (ch666–685); fact-check-035/",
+  "witness_summary": "Mean agreement 0.959 after watermark and '|' strip; min 0.917 (ch678). 17 candidates checked; 16 copied in source form; SR-426 differs (witness reads 我希望你尽量 then 武装起…).",
+  "result": "PASS (source counts, contiguous chapters, ledger range, no approvals, no em dashes); witness collated; none confirmed or rejected by witness",
+  "workbook_rows": {
+    "Proposal ledger": "SR-419–SR-442 appended",
+    "Chapter completion": "666–685 appended",
+    "Paragraph register": "666–685 appended (1589 rows)",
+    "Read me": "updated to 1–685; 442 total, 437 active"
+  },
+  "progress": "reading-progress.json updated to 685 (paragraphs 61680, characters 2171266, next 686, remaining 1649)"
+}

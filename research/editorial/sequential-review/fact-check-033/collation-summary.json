@@ -1,0 +1,122 @@
+{
+ "626": {
+  "witness_lines": 124,
+  "epub_paras": 124,
+  "exact_matches_after_watermark_strip": 121,
+  "agreement_after_watermark_strip": 0.976
+ },
+ "627": {
+  "witness_lines": 96,
+  "epub_paras": 96,
+  "exact_matches_after_watermark_strip": 95,
+  "agreement_after_watermark_strip": 0.99
+ },
+ "628": {
+  "witness_lines": 99,
+  "epub_paras": 99,
+  "exact_matches_after_watermark_strip": 96,
+  "agreement_after_watermark_strip": 0.97
+ },
+ "629": {
+  "witness_lines": 106,
+  "epub_paras": 106,
+  "exact_matches_after_watermark_strip": 102,
+  "agreement_after_watermark_strip": 0.962
+ },
+ "630": {
+  "witness_lines": 116,
+  "epub_paras": 116,
+  "exact_matches_after_watermark_strip": 112,
+  "agreement_after_watermark_strip": 0.966
+ },
+ "631": {
+  "witness_lines": 115,
+  "epub_paras": 115,
+  "exact_matches_after_watermark_strip": 113,
+  "agreement_after_watermark_strip": 0.983
+ },
+ "632": {
+  "witness_lines": 102,
+  "epub_paras": 102,
+  "exact_matches_after_watermark_strip": 99,
+  "agreement_after_watermark_strip": 0.971
+ },
+ "633": {
+  "witness_lines": 112,
+  "epub_paras": 112,
+  "exact_matches_after_watermark_strip": 109,
+  "agreement_after_watermark_strip": 0.973
+ },
+ "634": {
+  "witness_lines": 104,
+  "epub_paras": 104,
+  "exact_matches_after_watermark_strip": 102,
+  "agreement_after_watermark_strip": 0.981
+ },
+ "635": {
+  "witness_lines": 88,
+  "epub_paras": 88,
+  "exact_matches_after_watermark_strip": 83,
+  "agreement_after_watermark_strip": 0.943
+ },
+ "636": {
+  "witness_lines": 107,
+  "epub_paras": 107,
+  "exact_matches_after_watermark_strip": 102,
+  "agreement_after_watermark_strip": 0.953
+ },
+ "637": {
+  "witness_lines": 104,
+  "epub_paras": 104,
+  "exact_matches_after_watermark_strip": 99,
+  "agreement_after_watermark_strip": 0.952
+ },
+ "638": {
+  "witness_lines": 102,
+  "epub_paras": 102,
+  "exact_matches_after_watermark_strip": 98,
+  "agreement_after_watermark_strip": 0.961
+ },
+ "639": {
+  "witness_lines": 88,
+  "epub_paras": 88,
+  "exact_matches_after_watermark_strip": 85,
+  "agreement_after_watermark_strip": 0.966
+ },
+ "640": {
+  "witness_lines": 82,
+  "epub_paras": 82,
+  "exact_matches_after_watermark_strip": 79,
+  "agreement_after_watermark_strip": 0.963
+ },
+ "641": {
+  "witness_lines": 103,
+  "epub_paras": 103,
+  "exact_matches_after_watermark_strip": 94,
+  "agreement_after_watermark_strip": 0.913
+ },
+ "642": {
+  "witness_lines": 85,
+  "epub_paras": 85,
+  "exact_matches_after_watermark_strip": 80,
+  "agreement_after_watermark_strip": 0.941
+ },
+ "643": {
+  "witness_lines": 102,
+  "epub_paras": 102,
+  "exact_matches_after_watermark_strip": 99,
+  "agreement_after_watermark_strip": 0.971
+ },
+ "644": {
+  "witness_lines": 53,
+  "epub_paras": 53,
+  "exact_matches_after_watermark_strip": 49,
+  "agreement_after_watermark_strip": 0.925
+ },
+ "645": {
+  "witness_lines": 39,
+  "epub_paras": 39,
+  "exact_matches_after_watermark_strip": 35,
+  "agreement_after_watermark_strip": 0.897
+ }
+}

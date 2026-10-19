@@ -1,0 +1,28 @@
+{
+  "batch": "batch-033",
+  "chapters": [
+    626,
+    645
+  ],
+  "chapter_count": 20,
+  "paragraphs": 1927,
+  "characters": 62537,
+  "contiguous_chapters": true,
+  "ledger_ids": [
+    "SR-384",
+    "SR-394"
+  ],
+  "ledger_count": 11,
+  "approved_or_applied_any": false,
+  "em_dashes_in_new_text": 0,
+  "witness_collated": true,
+  "witness_source": "Hetushu book 7640 pages 5345864–5345883 (ch626–645); fact-check-033/",
+  "result": "PASS (source counts, contiguous chapters, ledger range, no approvals, no em dashes); witness collated; witness copies the source for every candidate; no repair confirmed or rejected by witness",
+  "witness_summary": "Mean exact-line agreement after watermark strip ~0.96 (min 0.90 at ch645). Witness copies the source for all 11 candidates (SR-384–394). New cross-check: SR-394 vs SR-348 (招灾). SR-393 and 137p89 share 伤口出.",
+  "workbook_rows": {
+    "Proposal ledger": "SR-384–SR-394 appended",
+    "Chapter completion": "626–645 appended",
+    "Paragraph register": "626–645 appended (1927 rows)",
+    "Read me": "updated to 1–645; 394 total, 389 active"
+  }
+}

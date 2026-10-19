@@ -1,0 +1,21 @@
+# Batch020 preservation controls
+
+- SR153 is locally resolved, not still an active correction query. Preserve its earlier reasoning in history.
+- Hail faithfully renders冰雹. The controlling Batch016 research remains unchanged.
+- Third-Revolution All-Out Effort need not have been upgraded merely because an upgraded phantom appears.
+- Hundred Year Child's appearance, name and actual age are different quantities. Wood and strength need not be mutually exclusive.
+- Tie Xuan Zhi can advance across the intervening months. Fang Yuan'sFourupper is now explicit, not merely NineEye-enhanced essence.
+- CurrentThreeKings3×, formerThreeKings6×, and HuImmortal5× are distinct rates. Do not merge parallel calendars or mechanically add recap intervals.
+- Mu Bai's claim that the spirit is absent is wrong character knowledge, not a narrator error to fix before the reveal.
+- 我素蛊 three uses are a special item rule, not a universal consumable-Gu rule.
+- The proposed second aperture's180% aggregate does not make one180%-capacity aperture.90%remains a target, not a completed new aperture.
+- Stored recipe Gu are guarded inputs. The EightPurpleRelic fantasy does not narrate an actual Five-peak breakthrough.
+- GoldEyes body modifications are not demonstrably two additional loot Gu. Soulstrength and bodilystrength need different accounting.
+- WuLanShan's threeFive Gu escape via immortal recovery. Bai's Yunloot is not automatically FangYuan's property. Wang's mountain is not acquired.
+- Five lootedFive Gu in an aperture list does not erase the separateFive placenta from possessions. No false total based on one storage location.
+-16-part budget allocations, counterproposals and overruns are different states; no fabricated final cash total or exact remaining essence.
+- Qiu's ShadowSect story is testimony. LoversPoisonOath and secrecySeaOath are not interchangeable just because both mention a sea.
+- Qiu's tongue-biting death remains fictional narration, not a medical claim or an invitation to rewrite the scene.
+- 乌七 has seven-white-marking support. 金钢 repeated spelling and楞 variants are not mechanically corrected.
+- The Brunei comparison is approximately sound under a modern-mu assumption. No mass shrinking of fictional geography.
+-385ends afterQiu's remains are destroyed. NoSecondAperture success, Hu inheritance winner,90%placenta measurement or subsequent betrayal claimed.

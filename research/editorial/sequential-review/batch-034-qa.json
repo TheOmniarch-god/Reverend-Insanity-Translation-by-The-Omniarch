@@ -1,0 +1,28 @@
+{
+  "batch": "batch-034",
+  "chapters": [
+    646,
+    665
+  ],
+  "chapter_count": 20,
+  "paragraphs": 1631,
+  "characters": 64494,
+  "contiguous_chapters": true,
+  "ledger_ids": [
+    "SR-395",
+    "SR-418"
+  ],
+  "ledger_count": 24,
+  "approved_or_applied_any": false,
+  "em_dashes_in_new_text": 0,
+  "witness_collated": true,
+  "witness_source": "Hetushu book 7640 pages 5345884–5345903 (ch646–665); fact-check-034/",
+  "result": "PASS (source counts, contiguous chapters, ledger range, no approvals, no em dashes); witness collated; witness copies source wording for all comparable candidates; none confirmed or rejected by witness",
+  "witness_summary": "Mean exact-line agreement after watermark strip ~0.95 (min 0.90 at ch664). 22 candidates checked; all copied by witness.",
+  "workbook_rows": {
+    "Proposal ledger": "SR-395–SR-418 appended",
+    "Chapter completion": "646–665 appended",
+    "Paragraph register": "646–665 appended (1631 rows)",
+    "Read me": "updated to 1–665; 418 total, 413 active"
+  }
+}

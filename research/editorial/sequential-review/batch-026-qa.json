@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "epub_paragraphs_rechecked": 1812,
+  "numbered_source_exact": true,
+  "numbered_source_lines": 1812,
+  "workbook_chapter_rows": 20,
+  "workbook_paragraph_rows": 1812,
+  "workbook_paragraph_text_exact": true,
+  "workbook_ledger_rows_added": 19,
+  "workbook_read_me_next_unread": 506,
+  "docx_proposal_ids_present": true,
+  "docx_table_count": 1,
+  "ledger_total": 275,
+  "approved_or_applied": 0,
+  "witness_hashes_verified": 0,
+  "report_blockquotes_exact": true,
+  "em_dashes_in_report": 0,
+  "progress_next": 506,
+  "progress_paragraphs": 45224,
+  "progress_characters": 1582593
+}

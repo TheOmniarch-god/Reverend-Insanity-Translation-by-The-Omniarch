@@ -1,0 +1,35 @@
+{
+  "status": "passed",
+  "epub_paragraphs_rechecked": 1800,
+  "numbered_source_exact": true,
+  "numbered_source_lines": 1800,
+  "workbook_chapter_rows_batch_029_range": 40,
+  "workbook_paragraph_rows_526_565": 3561,
+  "workbook_paragraph_text_exact": true,
+  "workbook_ledger_rows_286_337": 52,
+  "workbook_read_me_next_unread": 566,
+  "docx_built": [
+    "Batch-028-Chapters-526-545.docx",
+    "Batch-029-Chapters-546-565.docx"
+  ],
+  "docx_table_count_each": 2,
+  "ledger_total": 337,
+  "held_repair_candidates_286_plus": 30,
+  "provisional_286_plus": 22,
+  "batch_029_new_ledger": 31,
+  "batch_029_held": 18,
+  "batch_029_queries": 13,
+  "approved_or_applied": 0,
+  "witness_collated_chapters": 20,
+  "witness_supported_proposals_029": [
+    "SR-315",
+    "SR-318",
+    "SR-322",
+    "SR-326"
+  ],
+  "sr299_confidence": "Moderate (0.6)",
+  "em_dashes_in_reports": 0,
+  "progress_next": 566,
+  "progress_paragraphs": 50481,
+  "progress_characters": 1774835
+}

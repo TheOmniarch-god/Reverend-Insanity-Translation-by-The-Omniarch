@@ -1,0 +1,88 @@
+{
+  "status": "Complete",
+  "endpoint": 405,
+  "next_unread": 406,
+  "segments": [
+    {
+      "chapters": [
+        386,
+        387
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 180
+    },
+    {
+      "chapters": [
+        388,
+        389
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 195
+    },
+    {
+      "chapters": [
+        390,
+        391
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 173
+    },
+    {
+      "chapters": [
+        392,
+        393
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 182
+    },
+    {
+      "chapters": [
+        394,
+        395
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 199
+    },
+    {
+      "chapters": [
+        396,
+        397
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 164
+    },
+    {
+      "chapters": [
+        398,
+        399
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 185
+    },
+    {
+      "chapters": [
+        400,
+        401
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 170
+    },
+    {
+      "chapters": [
+        402,
+        403
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 188
+    },
+    {
+      "chapters": [
+        404,
+        405
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 279
+    }
+  ],
+  "note": "Reader-facing405p173omission is not an unread gap; supplied EPUB unchanged. Wrongly mapped external next-chapter capture rejected, not counted as sequential reading."
+}

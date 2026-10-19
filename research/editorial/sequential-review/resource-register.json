@@ -1,5 +1,5 @@
 {
-  "scope": "Sequential through365; current ownership, consumed rewards, power effects and reports distinguished",
+  "scope": "Sequential through405; overwritten and revised ownership distinguished",
   "entries": [
     {
       "id": "R001",
@@ -8117,8 +8117,8 @@
       "id": "R187",
       "kind": "Power limit / planned upgrades",
       "entry": "All-Out Effort and stronger beasts",
-      "calculation": "Three All-Out restriction345 versus stronger body refinement353 remains a scope query. No unreported Four All-Out acquisition.",
-      "status": "Observed, reported and contingent states distinguished; not a complete balance sheet",
+      "calculation": "Three All-Out restriction345 versus stronger body refinement353 remains a scope query. No unreported Four All-Out acquisition. Updated by Batch020:368 explicitly distinguishes chance activation from deliberate invocation; SR153 locally resolved.",
+      "status": "Historical entry; mechanics query locally resolved in Batch020",
       "sources": [
         {
           "chapter": 345,
@@ -8150,7 +8150,8 @@
           "file": "OEBPS/Text/chapter361.html",
           "text": "“成功了，很好。雷猪可媲美龙象、彪、狮獒，有了雷猪之力，我的战力又上升一筹。接下来，就是岩鳄之力了……”"
         }
-      ]
+      ],
+      "batch020_update": "See368pp41–45 and SR153: chance activation remains possible; deliberate Three-AllOut invocation of upgradedFour forms is not. Earlier unresolved wording is historical."
     },
     {
       "id": "R188",
@@ -8537,8 +8538,8 @@
       "id": "R197",
       "kind": "Completed refinement / capability",
       "entry": "Thunder Boar and Rock Crocodile",
-      "calculation": "Overnight permanent-strength upgrades complete; stated combat increase at least三分, contextual30%. Do not infer purchase of a separately named Thunder Boar Gu or completed All-Out Four refinement.",
-      "status": "Observed, reported and contingent states distinguished; not a complete balance sheet",
+      "calculation": "Overnight permanent-strength upgrades complete; stated combat increase at least三分, contextual30%. Do not infer purchase of a separately named Thunder Boar Gu or completed All-Out Four refinement. Updated by Batch020:368 explicitly distinguishes chance activation from deliberate invocation; SR153 locally resolved.",
+      "status": "Historical entry; mechanics query locally resolved in Batch020",
       "sources": [
         {
           "chapter": 353,
@@ -8558,7 +8559,8 @@
           "file": "OEBPS/Text/chapter361.html",
           "text": "他虽然疲惫，但内心喜悦。成功地将山猪之力、鳄鱼之力，提升到雷猪、岩鳄之力，他的战力暴涨了至少三分！"
         }
-      ]
+      ],
+      "batch020_update": "See368pp41–45 and SR153: chance activation remains possible; deliberate Three-AllOut invocation of upgradedFour forms is not. Earlier unresolved wording is historical."
     },
     {
       "id": "R198",
@@ -9071,8 +9073,8 @@
       "id": "R209",
       "kind": "Combat effects / unresolved mechanism",
       "entry": "Upgraded phantoms actually deployed",
-      "calculation": "ThunderBoar360 andThunderBoar/RockCrocodile363 in combat. GuaranteedAllOutversusoccasionalothertrigger unresolved. NoFourAllOutacquisition supplied.",
-      "status": "Reported, observed, consumed and prospective states distinguished",
+      "calculation": "ThunderBoar360 andThunderBoar/RockCrocodile363 in combat. GuaranteedAllOutversusoccasionalothertrigger unresolved. NoFourAllOutacquisition supplied. Updated by Batch020:368 explicitly distinguishes chance activation from deliberate invocation; SR153 locally resolved.",
+      "status": "Historical entry; mechanics query locally resolved in Batch020",
       "sources": [
         {
           "chapter": 360,
@@ -9110,7 +9112,8 @@
           "file": "OEBPS/Text/chapter371.html",
           "text": "“哈哈哈，就差最后一步，铁霸修你功亏一篑了！”方源仰天长笑，一头岩鳄兽影镇压下去，轰的一声，将铁霸修扑倒在地。"
         }
-      ]
+      ],
+      "batch020_update": "See368pp41–45 and SR153: chance activation remains possible; deliberate Three-AllOut invocation of upgradedFour forms is not. Earlier unresolved wording is historical."
     },
     {
       "id": "R210",
@@ -9229,6 +9232,1659 @@
           "paragraph": 81,
           "file": "OEBPS/Text/chapter373.html",
           "text": "他想催动蛊虫，但令他惊骇欲绝的是，自己的整个空窍都被一股无形的力量封住，让他难以运用蛊的力量。"
+        }
+      ]
+    },
+    {
+      "id": "R214",
+      "kind": "Mechanics / resolved query",
+      "entry": "Upgraded phantoms andAllOutEffort",
+      "calculation": "ThreeAllOutcannotdeliberatelyinvokeFourforms; randommanifestationpossible. KunlunBullreplacesGreenBull. SR153resolvedwithoutupgrade.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 368,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter376.html",
+          "text": "“幸好小兽王的这三大异兽虚影，只能凭运气打出来。他的全力以赴蛊只有三转，还不能催动这些异兽虚影！”"
+        },
+        {
+          "chapter": 368,
+          "paragraph": 43,
+          "file": "OEBPS/Text/chapter376.html",
+          "text": "方源虽然将山猪、鳄鱼、青牛兽影，分别提升到雷猪、岩鳄和昆仑牛三大异兽影。导致整体上的战力有所上升。但是，也有弊端产生。"
+        },
+        {
+          "chapter": 368,
+          "paragraph": 44,
+          "file": "OEBPS/Text/chapter376.html",
+          "text": "他的全力以赴蛊只有三转，还不能随心所欲地催动这三大四转的异兽之影。"
+        },
+        {
+          "chapter": 368,
+          "paragraph": 45,
+          "file": "OEBPS/Text/chapter376.html",
+          "text": "除非方源从信王传承中，得到百战不殆蛊，将全力以赴蛊提升到四转。"
+        },
+        {
+          "chapter": 368,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter376.html",
+          "text": "也是他运气到了，雷猪、岩鳄、昆仑牛三大兽影，猛地一齐打出来。"
+        }
+      ]
+    },
+    {
+      "id": "R215",
+      "kind": "Body upgrades",
+      "entry": "Ironbones andtendons",
+      "calculation": "Ironbonerefinementcompletedaftermonths. TendonGuspelling金钢筋retained. Noforced金刚normalisation.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 368,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter376.html",
+          "text": "不仅将青牛虚影，提升为昆仑牛影。同时，还将精铁骨蛊运用完毕，一身的骨骼硬度再次提升，是原先的两到三倍。"
+        },
+        {
+          "chapter": 368,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter376.html",
+          "text": "除了这些，他还用了金钢筋蛊，把自己一身的肌腱大筋，都打造成金钢似的的强度。"
+        },
+        {
+          "chapter": 368,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter376.html",
+          "text": "古铜皮、精铁骨、金钢筋……"
+        },
+        {
+          "chapter": 368,
+          "paragraph": 59,
+          "file": "OEBPS/Text/chapter376.html",
+          "text": "这三者防御，连成一片，相互辉映，让方源的防御力大大增强。再配合金罡蛊，已经足以应对四转巅峰蛊师的全力攻击！"
+        }
+      ]
+    },
+    {
+      "id": "R216",
+      "kind": "Land rules / mistaken testimony",
+      "entry": "Spirit notabsent",
+      "calculation": "MuBai374believesnospirit;377BaGuisurvives. Landspiritcannotleaveitsland; One–FiveordinaryrestrictionsandSixexceptiondistinguished.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 372,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter381.html",
+          "text": "天鹤上人被吓了一跳，连忙喝斥道：“你这个小子，真是无知无畏，连地灵的主意都敢打！你知道地灵是怎么形成的吗？那可是蛊仙死后残留的意志和魂魄的碎片，再结合福地之力，而形成的灵体！”"
+        },
+        {
+          "chapter": 372,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter381.html",
+          "text": "“不错。你刚刚看到的狐仙地灵，就是曾经的狐仙死后所化。只是再无生前的记忆，只剩下最终的执念。你别看她这么人畜无害的样子，在这狐仙福地当中，她能自由地操纵天地之力，直接抗衡蛊仙！她能随意地禁锢，一转到五转的任何蛊虫。只有六转的仙蛊，才能在福地里活动自由。方正，你实在是太胆大妄为了。你给我老老实实地攀山，千万不要有不切实际的想法。”天鹤上人教训道。"
+        },
+        {
+          "chapter": 372,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter381.html",
+          "text": "天鹤上人又接着道：“不过，地灵终究不能走出福地。狐仙传承的真正精髓，还在于这片广袤的福地啊。方正，你的层次还太低，不知道的东西太多太多了。等你继承了这片福地，你就会慢慢地明白，福地对于蛊师的帮助是何等的巨大！你真是太幸运了，碰到了一个有灵的福地，又得到门派的帮助。如果是无灵的福地，那就大打折扣了。”"
+        },
+        {
+          "chapter": 374,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter383.html",
+          "text": "“这片福地，已经老了，天年将至。若是有地灵还能支撑些许时日，可惜连地灵都没有。”"
+        },
+        {
+          "chapter": 377,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter386.html",
+          "text": "方源畅快地大笑一番后，停住笑声，对着巨龟道：“地灵霸龟，你终于从沉睡中苏醒了。”"
+        },
+        {
+          "chapter": 381,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter390.html",
+          "text": "这福地虽然可以压制，一到五转的蛊虫的一切变化，但是却不能制约仙蛊。"
+        },
+        {
+          "chapter": 381,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter390.html",
+          "text": "事实上，任何福地，都不能制约仙蛊的力量。"
+        }
+      ]
+    },
+    {
+      "id": "R217",
+      "kind": "Immortal Gu / consumption",
+      "entry": "我素蛊 threeuses",
+      "calculation": "Oneuse80yearsago, secondnow toprotectSoulFlea; oneleft. FactionownedSixGu, notFangZhengSixcultivation.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 375,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter384.html",
+          "text": "“鹤风扬，你倒舍得下大本钱。寄魂蚤并不稀罕，不过你为了保护寄魂蚤的运转，动用了我素蛊吧？”"
+        },
+        {
+          "chapter": 375,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter384.html",
+          "text": "鹤风扬作为仙鹤门太上长老之一，拥有一枚六转的“我素蛊”，已经广为人知。"
+        },
+        {
+          "chapter": 375,
+          "paragraph": 43,
+          "file": "OEBPS/Text/chapter384.html",
+          "text": "我素蛊，能令其他的蛊虫，在福地中正常的使用。"
+        },
+        {
+          "chapter": 375,
+          "paragraph": 44,
+          "file": "OEBPS/Text/chapter384.html",
+          "text": "它是消耗类的蛊，只能动用三次。三次之后，就会化为乌有。"
+        },
+        {
+          "chapter": 375,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter384.html",
+          "text": "“鹤风扬八十年前，动用过一次我素蛊，这一次是第二次动用。也就是说，他手中的我素蛊，只能再催动最后一次了。他花费这么大的代价，只是换取一个竞争传承的优势而已。”"
+        }
+      ]
+    },
+    {
+      "id": "R218",
+      "kind": "Cultivation / census",
+      "entry": "SixFive stageallocation",
+      "calculation": "MuBai/WuGui/KuMoFivepeak;WangXiao/WuLanShanFiveupper;QiuFiveinitial.375Yunage35 approachingFourpeak. SR165countdiscrepancy.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 375,
+          "paragraph": 73,
+          "file": "OEBPS/Text/chapter384.html",
+          "text": "还有云落天，云家的少族长，风道蛊师，二十三岁时就修行到三转巅峰，如今三十五岁，距离四转巅峰，只有一步之遥了。"
+        },
+        {
+          "chapter": 376,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter385.html",
+          "text": "“黑白双煞来了又怎样？今时不同往日了，现在的三叉山上，五转蛊师就有六位！他们俩，都是区区四转蛊师，翻不起什么大浪。”"
+        },
+        {
+          "chapter": 381,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter390.html",
+          "text": "“当然，这也和蛊师的底蕴有关。三叉山上五转蛊师，共有五位。但只有三位铁慕白、骷魔、巫鬼是五转巅峰，其中铁慕白有铁家雄厚的资源，底蕴最是深厚。而其他的武阑珊、王逍，都是五转高阶。仇九则只有五转初阶境界。杀了这些人，恐怕资质该不够再提升一成。不过不要紧，蛊师多的很，易火、孔日天之流，都要死！”"
+        },
+        {
+          "chapter": 382,
+          "paragraph": 40,
+          "file": "OEBPS/Text/chapter391.html",
+          "text": "王逍是巫山之主，五转高阶蛊师，货真价实的土皇帝。也是成名已久的一方高手。"
+        }
+      ],
+      "batch021_update": "At399 the narrative rewinds toWang negotiation. Preserve this earlier evidence as pre-third-rebirth history; use Batch021 branch-specific entries for current405 state."
+    },
+    {
+      "id": "R219",
+      "kind": "Land ownership / prerequisites",
+      "entry": "BaGui test notcompleted",
+      "calculation": "Sufficientstrength+neardeathadmission. Spiritassistance isnotfullownership. OriginalThreeKingsremainedFive; ancientlandstrengthpath.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 377,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter386.html",
+          "text": "这个有缘人的标准，首先得是力道蛊师，并且拥有兽影，强大到一定程度。"
+        },
+        {
+          "chapter": 377,
+          "paragraph": 37,
+          "file": "OEBPS/Text/chapter386.html",
+          "text": "其次，这个力道蛊师，必须濒临死亡，才能得到机缘。"
+        },
+        {
+          "chapter": 377,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter386.html",
+          "text": "但最终，他们三个都没有突破。临死之前，他们将这里加以改造，形成三王之传承。"
+        },
+        {
+          "chapter": 377,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter386.html",
+          "text": "三王分别是炼道、炎道和奴道，没有一位走的力道。"
+        },
+        {
+          "chapter": 383,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter392.html",
+          "text": "方源暗暗焦急，他现在还没有通过考验，不是福地之主，无法直接命令地灵。"
+        },
+        {
+          "chapter": 384,
+          "paragraph": 17,
+          "file": "OEBPS/Text/chapter393.html",
+          "text": "方源虽然没有掌控这片福地，但在表明身份后，地灵为了辅助他炼蛊，在一定程度上，的确听候方源的调遣。"
+        }
+      ],
+      "batch021_update": "At399 the narrative rewinds toWang negotiation. Preserve this earlier evidence as pre-third-rebirth history; use Batch021 branch-specific entries for current405 state."
+    },
+    {
+      "id": "R220",
+      "kind": "Prospective capacity",
+      "entry": "Two90aperturesforecast",
+      "calculation": "377180% meanssumoftwo90reservoirs, notone180aperture. Finalsecondaptitudedependsonplacentarefinement andisnotfixedatthisforecast.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 377,
+          "paragraph": 83,
+          "file": "OEBPS/Text/chapter386.html",
+          "text": "“第二空窍蛊，能令蛊师拥有第二个空窍。就算是笨蛋，都知道此蛊的价值！我现在是甲等资质，一个空窍有九成真元。如果能拥有第二空窍，就是十八成的真元！同时，还有双倍的恢复能力，甚至可以培养出第二套蛊虫。战斗力绝对暴涨，可谓开创古往今来之记录。一旦成功拥有，绝对就是同转第一人！”"
+        },
+        {
+          "chapter": 379,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "“好好好！这兽力胎盘蛊，吸收了铁慕白的空窍，已经将第二空窍蛊的资质，一下子提升到了四成。不错，不错。”"
+        },
+        {
+          "chapter": 381,
+          "paragraph": 59,
+          "file": "OEBPS/Text/chapter390.html",
+          "text": "方源用心神感应了一下，发现资质已经提升到了七成半。"
+        },
+        {
+          "chapter": 382,
+          "paragraph": 83,
+          "file": "OEBPS/Text/chapter391.html",
+          "text": "连续吞噬了云落天和王逍的空窍，兽力胎盘蛊的资质上涨到八成三。而仙元方面的消耗，也达到两份有余，用度十分紧张。"
+        },
+        {
+          "chapter": 383,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter392.html",
+          "text": "方源面色一冷，断然拒绝道：“不行，八成三不是我的计划，我的计划是九成！”"
+        }
+      ],
+      "batch021_update": "At399 the narrative rewinds toWang negotiation. Preserve this earlier evidence as pre-third-rebirth history; use Batch021 branch-specific entries for current405 state."
+    },
+    {
+      "id": "R221",
+      "kind": "Guarded supplies / probability",
+      "entry": "Recipe stock notfreepersonalGu",
+      "calculation": "Atleast5000Gu,>600Four,>80Five;>10goldrelics/8purple. Spiritrestrictsuse.Refinementestimate50%→about30%afterfullrecipe. NotnarratedFivepeakadvancement.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 377,
+          "paragraph": 94,
+          "file": "OEBPS/Text/chapter386.html",
+          "text": "“当初那蛊仙，为了炼蛊，早已经准备充分。在这样的基础上，我再炼蛊，至少有五成的把握。”"
+        },
+        {
+          "chapter": 378,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter387.html",
+          "text": "方源心头一沉，原本有五成的把握，听了秘方之后，只剩下三成左右。"
+        },
+        {
+          "chapter": 378,
+          "paragraph": 20,
+          "file": "OEBPS/Text/chapter387.html",
+          "text": "一件件的材料，五花八门，让他看了眼花缭乱。一只只的蛊虫，从一转到五转，至少得有五千只，其中四转蛊就有六百多枚，五转蛊竟多达八十有余！"
+        },
+        {
+          "chapter": 378,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter387.html",
+          "text": "“好多精品！还有许多我都没有见过的蛊……这些力道蛊虫，我如果得到，战力绝对要暴涨十倍！还有十多颗的黄金舍利蛊，八颗紫晶舍利蛊！我用了它们，顷刻之间就修成五转巅峰啊！”"
+        },
+        {
+          "chapter": 378,
+          "paragraph": 25,
+          "file": "OEBPS/Text/chapter387.html",
+          "text": "有地灵在一旁看守，这些蛊只能用于炼制第二空窍蛊，他是无法私自使用的。"
+        }
+      ]
+    },
+    {
+      "id": "R222",
+      "kind": "Immortal ingredient / intermediate",
+      "entry": "DivineTravel andplacenta",
+      "calculation": "DivineTravelSixsealed, notconsumedby385. FourbeastphantomsrefinedintoFiveBeastStrengthPlacenta; SecondApertureSixnotfinished. Exactremainingbodystrengthnotcertified.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 378,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter387.html",
+          "text": "“这就是六转的仙蛊——神游。”地灵介绍道。"
+        },
+        {
+          "chapter": 378,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter387.html",
+          "text": "地灵霸龟将神游蛊，重新慎重地封印起来：“你打算什么时候开始炼制？”"
+        },
+        {
+          "chapter": 378,
+          "paragraph": 80,
+          "file": "OEBPS/Text/chapter387.html",
+          "text": "“阴上阳下，逆反平衡……到了此处，就是关键！去吧，白象兽影。”方源双目神光绽射，催动全力以赴蛊，头顶便现出白象虚影。"
+        },
+        {
+          "chapter": 378,
+          "paragraph": 83,
+          "file": "OEBPS/Text/chapter387.html",
+          "text": "“再来，黑蟒兽影。”方源伸手一指，又牺牲掉一头兽力虚影。"
+        },
+        {
+          "chapter": 378,
+          "paragraph": 85,
+          "file": "OEBPS/Text/chapter387.html",
+          "text": "“石龟兽影、骏马兽影。”从方源身上，再飞出两道兽影。"
+        },
+        {
+          "chapter": 378,
+          "paragraph": 105,
+          "file": "OEBPS/Text/chapter387.html",
+          "text": "此蛊，高达五转，形如圆盘。表面粗糙，犹如杂草土胚。盘中央，有一头猛兽，马头象牙，龟身蛇尾。"
+        }
+      ]
+    },
+    {
+      "id": "R223",
+      "kind": "Loot / aptitude",
+      "entry": "MuBai sevenGu and40%",
+      "calculation": "FiveTouchGold,GoldSoup,VajraGlare;FourGoldDragon,GoldWind,GoldClothes,GoldGlow.98%belongstoMuBai;placenta40afterabsorption. GoldEyemodificationsnotextraunconsumedloot.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 379,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "五转巅峰和四转高阶之间，差距巨大。这样庞大的真元海，足有九成八，就是一百个方源也比不上。"
+        },
+        {
+          "chapter": 379,
+          "paragraph": 7,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "一只黄金小手，在海面上空胡乱飞舞，仿佛是一道金光。这就是铁慕白的本命蛊，曾经在三叉山上和骷魔、巫鬼战斗时，运用的五转蛊虫——点金蛊！"
+        },
+        {
+          "chapter": 379,
+          "paragraph": 14,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "此乃金汤蛊，同样高达五转，一旦催动起来，防御极强，能解蛊师后顾之忧。更妙的是，它是水液，形状任意变化。就算被打散，也能如水般重新汇拢起来，极为难缠。"
+        },
+        {
+          "chapter": 379,
+          "paragraph": 17,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "这是金刚怒目蛊。"
+        },
+        {
+          "chapter": 379,
+          "paragraph": 25,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "寻常的眼瞳，一旦冒然使用，反而会将自己搞瞎。只有先用两枚金睛蛊，将自身的双眼，改造成金睛，才能安全地运用金刚怒目蛊。"
+        },
+        {
+          "chapter": 379,
+          "paragraph": 28,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "除了这三大五转蛊之外，铁慕白的身体里还有四只四转的蛊虫。金龙蛊、金风送爽蛊、金缕衣蛊、金霞蛊，各个都非凡俗，皆是金道蛊虫中的精品。"
+        },
+        {
+          "chapter": 379,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "“好好好！这兽力胎盘蛊，吸收了铁慕白的空窍，已经将第二空窍蛊的资质，一下子提升到了四成。不错，不错。”"
+        }
+      ]
+    },
+    {
+      "id": "R224",
+      "kind": "Suppression / ownership transfer",
+      "entry": "FiveGu refinablethroughlandspirit",
+      "calculation": "CicadapressurealonecurrentlymaxFour; spiritrestrainsFiveenablingrefinement. NoindependentFiveconqueringpowerorordinaryescape-tokenexception.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 379,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "他动用不了一只金道蛊虫，甚至连自爆都做不到。"
+        },
+        {
+          "chapter": 379,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "六转春秋蝉的威压，最多压服四转蛊虫。本来这三只五转蛊，方源还压服不了。但此地环境特殊，蛊虫皆被天地伟力所压制，一动都不能动。"
+        },
+        {
+          "chapter": 379,
+          "paragraph": 62,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "在方源的真元炼化之下，它们乖乖就范，顷刻易主。"
+        },
+        {
+          "chapter": 380,
+          "paragraph": 32,
+          "file": "OEBPS/Text/chapter389.html",
+          "text": "死的时候，连保命的令牌都来不及用。当然，在地灵的操纵下，即便他用了令牌，也没有效果。"
+        }
+      ]
+    },
+    {
+      "id": "R225",
+      "kind": "Budget / prospective expenditure",
+      "entry": "Sixteenpartimmortalessencereserve",
+      "calculation": "8refinement+4maintaininginheritance+morethan3killing+lessthan1reserve=16withcomplementaryremainders. FirstMuoperation0.5. Spiritcounterproposal10+2 notsimultaneousactualcost. SR171terminologyquery.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 379,
+          "paragraph": 63,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "“好，你提取了一个五转巅峰的空窍，这样一来，第二空窍蛊的资质就暴涨到了四成。不过你要注意，刚刚为了传送你，支持你出手，耗用了不少仙元。”地灵的声音忽然传来，警告方源道。"
+        },
+        {
+          "chapter": 379,
+          "paragraph": 66,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "他接着道：“霸龟，你沉眠太久了，福地已经被三王改造，你丧失了太多的掌控。纵然你是福地之灵，可以将这些改造恢复过来，但是此举却需要调用大量的仙元，而铜鼎中的仙元已经所剩无几了。如果将鼎底的真元，分成十六份。那么刚刚的损耗，就有半份。”"
+        },
+        {
+          "chapter": 379,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "“我估算了一下，十六份仙元，至少得有八份，留作炼制第二空窍蛊。剩下的八份中，支撑三王传承，需要消耗四份。斩杀蛊师，至少要三份多一点。剩下的一份不到，就留作备用，用来应付突发情况。”"
+        },
+        {
+          "chapter": 379,
+          "paragraph": 70,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "但霸龟却道：“年轻人，你这次算错了。炼制仙蛊，至少需要十份真元。而支撑三王传承，却只需消耗两份。等到你斩杀足够，我就将整个福地关闭。”"
+        },
+        {
+          "chapter": 379,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "“不，我算得没有错。”方源摇摇头，“炼制第二空窍蛊，虽然要消耗仙元，但其中有些步骤，我们却可以用元石代替。这样一来，就能节省出两份仙元。而且接下来，你不能关闭传承，反而要一直维持入口开启。”"
+        },
+        {
+          "chapter": 383,
+          "paragraph": 7,
+          "file": "OEBPS/Text/chapter392.html",
+          "text": "其中八份用作炼蛊，四份用来支撑三王传承。三份多一点，用来斩杀蛊师。剩下一份不到的仙元，留作备用，用来应付突发情况。"
+        },
+        {
+          "chapter": 383,
+          "paragraph": 10,
+          "file": "OEBPS/Text/chapter392.html",
+          "text": "“年轻人，你的算法其实不对。你有没有考虑过，炼蛊过程中的失败？你不可能不失败，一旦失败，就会浪费仙元。八份真元，用作炼蛊，本就捉襟见肘，剩下的那一份不到的仙元，正是用作浪费，允许你多次尝试。现在你将这份用掉，你炼蛊时失败次数稍微一多，第二空窍蛊就绝不会炼制成功了。”地灵反驳道。"
+        }
+      ],
+      "batch021_update": "At399 the narrative rewinds toWang negotiation. Preserve this earlier evidence as pre-third-rebirth history; use Batch021 branch-specific entries for current405 state."
+    },
+    {
+      "id": "R226",
+      "kind": "Currency / substitutable resources",
+      "entry": "30millionstonesneeded",
+      "calculation": "Atleast30000000topartlyreplaceimmortalessence;FYownsmillionplus, insufficient. Plannedlootingnotconfirmedtotalpayment. Noexactcashbalanceinvented.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 379,
+          "paragraph": 76,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "一阵沉默后，地灵传音道：“你说得很对。但是你的方法，也有弊端缺陷。若用元石取代仙元，至少得有三千万的元石。你的身上，有这么多的元石吗？”"
+        },
+        {
+          "chapter": 379,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "“我的身上，只有上百万的元石，当然不够。不过不要紧啊，还有其他的蛊师。尤其是四、五转的蛊师，身家一定丰厚，打杀了他们，我们还愁区区元石吗？”"
+        }
+      ]
+    },
+    {
+      "id": "R227",
+      "kind": "Loot / approximate quantities",
+      "entry": "KuMo/WuGuicollection",
+      "calculation": "KuMo1Five+7Four;WuGui1Five+8or9Four. FiveFiveGuintheseizedset/aperturedoesnoteraseFiveplacentafromoverallinventory. Dogarmiesnotautomaticallyacquired.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 380,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter389.html",
+          "text": "骷魔的蛊虫，多达八只。但只有一只五转蛊，名为松骨蛊，非常阴损。"
+        },
+        {
+          "chapter": 380,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter389.html",
+          "text": "而其他的七只蛊，都是四转。这些蛊都和骨道相关，也不乏精品就是。"
+        },
+        {
+          "chapter": 380,
+          "paragraph": 47,
+          "file": "OEBPS/Text/chapter389.html",
+          "text": "“可惜驭犬蛊不能回收，否则这些狗群也可以为我所用。”方源遗憾地看了狗群一眼，消失在原地。"
+        },
+        {
+          "chapter": 380,
+          "paragraph": 76,
+          "file": "OEBPS/Text/chapter389.html",
+          "text": "巫鬼的手中，有一只五转蛊。"
+        },
+        {
+          "chapter": 380,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter389.html",
+          "text": "至于其他的蛊虫，有八九只，都是四转。不过涉及数个流派，比较杂乱，没有骷魔、铁慕白等人的蛊虫齐整。"
+        },
+        {
+          "chapter": 380,
+          "paragraph": 83,
+          "file": "OEBPS/Text/chapter389.html",
+          "text": "他将乌七蛊也放入空窍，但其他的四转蛊，却只能装在口袋里了。"
+        },
+        {
+          "chapter": 380,
+          "paragraph": 84,
+          "file": "OEBPS/Text/chapter389.html",
+          "text": "他的空窍，一下子装进了许多蛊虫。其中五转蛊虫，就有五只了，更不乏四转蛊。因此带给空窍的压力很大。"
+        }
+      ]
+    },
+    {
+      "id": "R228",
+      "kind": "Promise / deployment",
+      "entry": "Bai protection andYangGu",
+      "calculation": "YangGupromisedonsuccess,nottransferred. BaiDogrouteguidedbyspirit; oathinvocationnotproofagainstunreadloopholes.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 380,
+          "paragraph": 93,
+          "file": "OEBPS/Text/chapter389.html",
+          "text": "“我还有一个棋子，那就是白凝冰！呵呵呵，她用过毒誓蛊，可以信赖。看来最后的时刻，还得靠她护我周全。”"
+        },
+        {
+          "chapter": 381,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter390.html",
+          "text": "方源哈哈一笑，不为所动：“当初在商家城，你我都发了毒誓，一方有生命危险，另外一方必须救援。实话告诉你，不久之后，我就要遭到蛊师的围攻，我需要你为我护法，保护我炼蛊。”"
+        },
+        {
+          "chapter": 381,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter390.html",
+          "text": "方源笑着道：“你放心，此事若成，阳蛊就送给你。除此之外，还有其他好处。我们离开三叉山后，你想去哪里就去哪里，分道扬镳我不阻止，结伴而行我也欢迎。不过不管你答应还是不答应，我都会炼蛊的。”"
+        },
+        {
+          "chapter": 381,
+          "paragraph": 40,
+          "file": "OEBPS/Text/chapter390.html",
+          "text": "“那就这样说定了。”方源哈哈一笑，大手一挥，塞给白凝冰一只驭犬蛊，然后消失在原地。"
+        },
+        {
+          "chapter": 381,
+          "paragraph": 41,
+          "file": "OEBPS/Text/chapter390.html",
+          "text": "白凝冰的眼前也骤然剧变，被地灵挪移到犬王传承第一关去了。"
+        }
+      ]
+    },
+    {
+      "id": "R229",
+      "kind": "Recovered enemy Gu / aptitude",
+      "entry": "WuLanShan threeFiveescape",
+      "calculation": "Wuclanimmortalrecovers3Five;FYtakesremainingFour. FourFiveaperturesyield75%, not160%. Nonlinear35pointgainafterfirst40.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 381,
+          "paragraph": 51,
+          "file": "OEBPS/Text/chapter390.html",
+          "text": "但方源却没有得到她的五转蛊虫。"
+        },
+        {
+          "chapter": 381,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter390.html",
+          "text": "在武阑珊死的那一刻，她的身上一道玄光爆发，裹住她的三只五转蛊虫，破碎空间而去。"
+        },
+        {
+          "chapter": 381,
+          "paragraph": 53,
+          "file": "OEBPS/Text/chapter390.html",
+          "text": "方源也不例外，他知道武家有一只六转仙蛊，名为百无一失蛊，拥有神奇力量，专门回收贵重的蛊虫。"
+        },
+        {
+          "chapter": 381,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter390.html",
+          "text": "方源尽得其余的四转蛊，也算是不小收获。在此之后，他取出兽力胎盘蛊，将武阑珊的空窍也吞噬掉。"
+        },
+        {
+          "chapter": 381,
+          "paragraph": 59,
+          "file": "OEBPS/Text/chapter390.html",
+          "text": "方源用心神感应了一下，发现资质已经提升到了七成半。"
+        },
+        {
+          "chapter": 381,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter390.html",
+          "text": "资质越往后越是难以提升。当初，吞噬了铁慕白一人空窍，就提升了四成。但之后，方源连续吞了巫鬼、骷魔以及武阑珊的三个空窍，则才提升了三成半。"
+        }
+      ]
+    },
+    {
+      "id": "R230",
+      "kind": "Separate ownership / failed acquisition",
+      "entry": "YunlootBai;Wumountainnotwon",
+      "calculation": "BaitakesYunGu,sendsbodyforabsorption. FYfailsgetWangpath;killsandlootsWang. CombinedYun/Wangplacenta83%.Killingcost>2parts.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 382,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter391.html",
+          "text": "白凝冰不屑地摇摇头，走上前去，将云落天的蛊虫都收入囊中。"
+        },
+        {
+          "chapter": 382,
+          "paragraph": 37,
+          "file": "OEBPS/Text/chapter391.html",
+          "text": "这云落天走的是云道，都是四转蛊虫，各个都是精品。而他从犬王传承中得来的奴道蛊，也极大地增益了白凝冰手中的蛊虫。"
+        },
+        {
+          "chapter": 382,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter391.html",
+          "text": "而云落天的尸体，则被地灵挪移，送到方源那边去了。"
+        },
+        {
+          "chapter": 382,
+          "paragraph": 53,
+          "file": "OEBPS/Text/chapter391.html",
+          "text": "巫山是王逍的机缘，方源十分觊觎。但王逍死活不开口，他知道自己一旦开口，就必死无疑。不开口，反而能有一线生机。"
+        },
+        {
+          "chapter": 382,
+          "paragraph": 81,
+          "file": "OEBPS/Text/chapter391.html",
+          "text": "“我不久后还要炼蛊，可不想遭到你的围攻啊。”方源叹息一声，痛下杀手，斩杀了王逍。"
+        },
+        {
+          "chapter": 382,
+          "paragraph": 82,
+          "file": "OEBPS/Text/chapter391.html",
+          "text": "之后，夺蛊、吞窍一系列的流程，方源已经做得纯熟至极。"
+        },
+        {
+          "chapter": 382,
+          "paragraph": 83,
+          "file": "OEBPS/Text/chapter391.html",
+          "text": "连续吞噬了云落天和王逍的空窍，兽力胎盘蛊的资质上涨到八成三。而仙元方面的消耗，也达到两份有余，用度十分紧张。"
+        }
+      ],
+      "batch021_update": "At399 the narrative rewinds toWang negotiation. Preserve this earlier evidence as pre-third-rebirth history; use Batch021 branch-specific entries for current405 state."
+    },
+    {
+      "id": "R231",
+      "kind": "Geography / historicalextent",
+      "entry": "Ninemillionmuoriginalarea",
+      "calculation": "Modern1500mu/km²assumptiongives6000km²;Brunei5765km²;roughcomparisonreasonable. Under1%landnow,not9millioncurrentmu. Noshrinkingallfantasyranges.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 377,
+          "paragraph": 43,
+          "file": "OEBPS/Text/chapter386.html",
+          "text": "原本广袤无边的福地，被历次的地灾天劫催打消磨，整个空间已经不足原先的百分之一。"
+        },
+        {
+          "chapter": 383,
+          "paragraph": 44,
+          "file": "OEBPS/Text/chapter392.html",
+          "text": "“从太古起，蛊师中就有两大流派，分别是宇道、宙道。宇和宙，是构成天地的基础。其中，宇代表上下左右，宙表示古往今来。就拿我的福地来讲，全盛时，宇上有九百万亩地盘。宙上有六倍光阴流速。”地灵道。"
+        },
+        {
+          "chapter": 383,
+          "paragraph": 45,
+          "file": "OEBPS/Text/chapter392.html",
+          "text": "九百万亩有多广呢？搁在地球上，就是文莱国土的总面积。"
+        },
+        {
+          "chapter": 383,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter392.html",
+          "text": "当然，到了现在，福地衰弱，不仅地盘被消磨了巨大多数，而且光阴流速也只有三倍了。"
+        }
+      ],
+      "batch021_update": "At399 the narrative rewinds toWang negotiation. Preserve this earlier evidence as pre-third-rebirth history; use Batch021 branch-specific entries for current405 state."
+    },
+    {
+      "id": "R232",
+      "kind": "Knowledge / historical belief",
+      "entry": "Cicadadisclosed;venerablelore",
+      "calculation": "FYrevealsCicadaandformerSixexperience. TwoactualCicadausesrecalled. RedLotus/fate/venerableclaimsretainhistoricalspeakerandtimeframes.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 383,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter392.html",
+          "text": "说着，方源催动春秋蝉，第一次外泄出春秋蝉的气息。"
+        },
+        {
+          "chapter": 383,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter392.html",
+          "text": "“我明白了，我懂了。原来你本是蛊仙，借助春秋蝉重生，来到过去改变历史！”地灵惊叹道。"
+        },
+        {
+          "chapter": 383,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter392.html",
+          "text": "地灵继续道：“春秋蝉就是宙道的蛊虫之一。当年有个名垂青史的主人，那就是红莲魔尊！他凭此抗衡仙庭，打破命运枷锁，带给后世天下人福音，从此人民将命运掌握在自己手中。”"
+        },
+        {
+          "chapter": 383,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter392.html",
+          "text": "漫漫历史长河，魔尊、仙尊屈指可数，代表着无上的传奇。每一个大时代，都只出现一尊，从未有二尊同世的情形。因此尊者，代表的就是真正的，彻底的天下无敌！"
+        },
+        {
+          "chapter": 383,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter392.html",
+          "text": "他总共动用过两次春秋蝉，每一次都有特别的体验，让方源对于春秋蝉，对于光阴长河的认知，也越来越清晰。"
+        }
+      ],
+      "batch021_update": "At399 the narrative rewinds toWang negotiation. Preserve this earlier evidence as pre-third-rebirth history; use Batch021 branch-specific entries for current405 state."
+    },
+    {
+      "id": "R233",
+      "kind": "Oath types / reportedsect",
+      "entry": "SeaOath versusPoisonOath",
+      "calculation": "SixSeaOathreusable;PoisonOathconsumable. Destructionoflinkedsea/mountainstatedloophole,nothappened. LoversPoisonOathatsea385notautomaticallysameas384secrecySeaOath.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 384,
+          "paragraph": 25,
+          "file": "OEBPS/Text/chapter393.html",
+          "text": "仇九却摇头：“关于生死门的这个秘密，实在太过重大了。我当初在海誓蛊的面前，发过誓言，不能对外人吐露。一旦说出来，就会化为灰灰，彻底灭绝。不过，如果你也加入影宗，那就是自己人，我就可以说给你听了。”"
+        },
+        {
+          "chapter": 384,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter393.html",
+          "text": "海誓蛊是一只六转的仙蛊，在上古时期十分出名，和山盟蛊并称。山盟、海誓两蛊的功效，类似毒誓蛊，但毒誓蛊只是消耗品，而这两个仙蛊，却是可以重复运用。"
+        },
+        {
+          "chapter": 384,
+          "paragraph": 32,
+          "file": "OEBPS/Text/chapter393.html",
+          "text": "“不错，我的门派就是影宗。影宗的开派祖师爷，乃是太古的一位八转蛊仙，就是他搜寻到生死门，并将生死门挪移到福地中去的。此后，影宗也陆续出现过不少的蛊仙。你加入影宗，好处不胜枚举。”"
+        },
+        {
+          "chapter": 384,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter393.html",
+          "text": "方源哈哈一笑，继续道：“我这人，向来喜欢独吞好处，别跟我提什么互利互惠。你就算发下海誓，那也不是不可以解除。海誓蛊、山盟蛊，都有明显的缺陷。立誓时，人需要面对一片大海或者一座高山。只要将对应的海洋或者高山摧毁，那么誓言就会失效了。”"
+        },
+        {
+          "chapter": 384,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter393.html",
+          "text": "仇九竭力镇定心神：“没有用的。我发誓的那片海，就在影宗福地里面。你要消灭那海，至少得先知道福地所在。但我要说出位置，就得消灭那海。这是一个死结。”"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "“我本姓曾，小名叫阿牛。原是一个采药的山农，有一次不幸跌下山崖，结果因祸得福，来到影宗福地里面。通过地灵的指点和考验，我侥幸成为了影宗的门人。影宗只剩下两人，除了我之外，还有一位师姐。”"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "“师姐姓陈名九，美若天仙。她自小被地灵抚养长大，从未出过福地，更是天真烂漫。而我生来丑陋不堪，从小就遭受排挤和嘲讽。但师姐对我，却始终亲切温柔。我和她朝夕相处，渐生情愫。我们在福地的海前发下毒誓，要守护彼此，不离不弃。我们共同修行，深入生死门，一齐携手捕捉生蛊和死蛊……”"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 9,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "“我们为此数次吵闹，好几次吵翻了天。那贼子伤好之后，我就想将他驱逐出去，继续和师姐过神仙眷侣般的生活。但哪想到师姐已经变了心，竟然违背我们当初发下的毒誓，将我打伤，和那个贼子一起叛逃！”"
+        }
+      ],
+      "batch021_update": "At399 the narrative rewinds toWang negotiation. Preserve this earlier evidence as pre-third-rebirth history; use Batch021 branch-specific entries for current405 state."
+    },
+    {
+      "id": "R234",
+      "kind": "Final loot / revival prevention",
+      "entry": "QiumovementGuandremains",
+      "calculation": "OneFiveMovementGu;noFivehealingGu. ConsumedFiveRevivalGueffectcouldreactivateaslandweakens;bodydestroyed/burned/ashesdispersed. Apertureabsorbedwithoutnewstatedpercentage;83lastmeasured,90target.",
+      "status": "Acquired, consumed, observed, reported and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 385,
+          "paragraph": 44,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "方源一边任由思维自由散漫，一边动手，将杀人鬼医的蛊虫尽数取来。"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 47,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "他没有五转治疗蛊，反而有一只五转的移动蛊，名为挪移蛊。"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "方源稍稍打量一番，就将这些蛊虫随身收起。然后便用兽力胎盘蛊，吞噬了仇九的空窍。"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "原来，他曾经用过一种遗生蛊。"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "遗生蛊是五转消耗蛊，只要蛊师死后遗体大致保存得当，只消过片刻功夫，遗体渐渐复原，蛊师就能重新活过来。"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "虽然他身处福地，遗生蛊种在身上的法则力量被天地压制，暂时无法作用。但是只要福地渐渐崩溃，压制减弱，遗生蛊的力量就会重新激活，令其重生。"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 59,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "“不过今天为了你，我倒是可以破例一回。”方源面色冷酷，无情地出手，很快就将仇九的尸体斩成肉泥。"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "他犹豫了一下，还是不放心，又放了一把火，将这滩血泥烧成灰烬。"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "掌风一扬，灰烬纷纷扬扬，飘散四面八方。"
+        }
+      ],
+      "batch021_update": "At399 the narrative rewinds toWang negotiation. Preserve this earlier evidence as pre-third-rebirth history; use Batch021 branch-specific entries for current405 state."
+    },
+    {
+      "id": "R235",
+      "kind": "Pre-rebirth acquisition",
+      "entry": "Wu pack andZhangSlaveGu",
+      "calculation": "Bai receivesWu dogs, force+10%. FYobtainsFiveSlaveGu, usesonFeng. No automaticidenticaltransferafterrewind.",
+      "status": "Branch-specific; acquired, consumed and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 387,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter396.html",
+          "text": "方源需要武神通的空窍，而白凝冰则需要他的奴道蛊虫，以及武神通积累下来的这些狗群。"
+        },
+        {
+          "chapter": 387,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter396.html",
+          "text": "武神通一死，他的犬兽大部队，自然给白凝冰收编，顿时就让原本庞大的狗群阵容，再暴涨了十分之一。"
+        },
+        {
+          "chapter": 387,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter396.html",
+          "text": "从章三三的空窍中，方源竟然收获到了一只五转的奴隶蛊。"
+        },
+        {
+          "chapter": 387,
+          "paragraph": 45,
+          "file": "OEBPS/Text/chapter396.html",
+          "text": "半盏茶的功夫，风天语跪倒在方源的脚下，心悦诚服地道：“属下风天语拜见主人！”"
+        },
+        {
+          "chapter": 387,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter396.html",
+          "text": "在奴隶蛊的作用下，他成了方源一名忠心耿耿的奴才。"
+        }
+      ]
+    },
+    {
+      "id": "R236",
+      "kind": "Aptitude / limits",
+      "entry": "89% andfirst-aperture ceiling",
+      "calculation": "89%reported387/388; next90targetunmetafterLongpoisonscorpse. Secondcapacitycannotexceedfirst90atuse; laterfirstgrowthallowsroom. No90completioninvented.",
+      "status": "Branch-specific; acquired, consumed and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 387,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter396.html",
+          "text": "兽力胎盘蛊，已经有八成九的资质，莹润如玉，和之前粗胚泥土似的形态，完全是天差地别的对比。"
+        },
+        {
+          "chapter": 387,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter396.html",
+          "text": "第二空窍的资质，不能高于蛊师的第一空窍。方源的第一空窍，是九成甲等。因此第二空窍的目前极限，也就是甲等九成。"
+        },
+        {
+          "chapter": 387,
+          "paragraph": 14,
+          "file": "OEBPS/Text/chapter396.html",
+          "text": "就算是积累到九成九分，作用到方源身上后，也就只有九成。剩余的九分资质，都会浪费掉。"
+        },
+        {
+          "chapter": 387,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter396.html",
+          "text": "当然，如果日后方源提升了第一空窍资质，第二空窍也会有新的上升空间。"
+        },
+        {
+          "chapter": 388,
+          "paragraph": 26,
+          "file": "OEBPS/Text/chapter397.html",
+          "text": "“但如此一来，最后一份仙元预算，也就耗在了龙青天的身上。兽力胎盘蛊的资质，只能停留在八成九了。”"
+        }
+      ]
+    },
+    {
+      "id": "R237",
+      "kind": "Suppression / lostloot",
+      "entry": "One-Gu weakzone andLongpoison",
+      "calculation": "FirstbranchLongdefeatedthensuicide; noapertureorGu recovered. Revisedbranchpreemptivekill allowsBiKongFiveandapertureloot. Notinconsistentlootforonehistory.",
+      "status": "Branch-specific; acquired, consumed and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 387,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter396.html",
+          "text": "“有一位四转蛊师，发现了福地中的一处薄弱地域。那里曾经被地灾重创，天地压制最为薄弱，已经能令蛊师动用一只蛊虫。现在他正在动用一只五转蛊，毒浸天地。只需半刻钟，他就能打通外界，造成福地漏洞！”地灵道。"
+        },
+        {
+          "chapter": 388,
+          "paragraph": 14,
+          "file": "OEBPS/Text/chapter397.html",
+          "text": "龙青天只能在同一时间，催动一种蛊虫。但方源却有地灵的协助，可以随意动用。两者之间，战力差距极大。"
+        },
+        {
+          "chapter": 388,
+          "paragraph": 18,
+          "file": "OEBPS/Text/chapter397.html",
+          "text": "方源没有杀掉龙青天，他明知绝境，就自杀了。"
+        },
+        {
+          "chapter": 388,
+          "paragraph": 24,
+          "file": "OEBPS/Text/chapter397.html",
+          "text": "就算方源拼着中毒，也未必能获得蛊虫。此处天地压制薄弱，龙青天完全可以一一自爆了蛊虫。"
+        },
+        {
+          "chapter": 388,
+          "paragraph": 25,
+          "file": "OEBPS/Text/chapter397.html",
+          "text": "收益和风险如此不成比例，方源自然不会冒险。"
+        },
+        {
+          "chapter": 400,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter409.html",
+          "text": "现在，方源一重生，就立即动手。在龙青天进入那片薄弱地域之前，就利用天地伟力压制，不费吹灰之力将他干掉了。"
+        },
+        {
+          "chapter": 400,
+          "paragraph": 59,
+          "file": "OEBPS/Text/chapter409.html",
+          "text": "方源没有和地灵啰嗦，抓紧时间，取走龙青天的蛊虫，再吞噬了他的空窍。"
+        },
+        {
+          "chapter": 400,
+          "paragraph": 62,
+          "file": "OEBPS/Text/chapter409.html",
+          "text": "除去空窍不谈，最大的战利品就是碧空蛊。"
+        }
+      ]
+    },
+    {
+      "id": "R238",
+      "kind": "Refinement inputs / intermediate lifetimes",
+      "entry": "300+500Lifespan andtwoforms",
+      "calculation": "LifespanGuconsumedingredients, not800yearspersonalaging. Earlypseudoform7days;goldenshell40years;laterlightform3shichen. Distinctstages, notsameobjectcontradiction.",
+      "status": "Branch-specific; acquired, consumed and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 390,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter399.html",
+          "text": "小的那枚，是三百年寿蛊，如青蛇盘成一圈，可增蛊师三百年阳寿，无有任何遗毒。大的那只，则如虬龙飞天，张牙舞爪，可涨五百年寿命，同样没有副作用。"
+        },
+        {
+          "chapter": 390,
+          "paragraph": 80,
+          "file": "OEBPS/Text/chapter399.html",
+          "text": "方源先将三百岁寿蛊，抛入到云烟当中。"
+        },
+        {
+          "chapter": 391,
+          "paragraph": 25,
+          "file": "OEBPS/Text/chapter400.html",
+          "text": "“继续炼蛊！”方源取出五百年寿蛊，抛入云烟当中。"
+        },
+        {
+          "chapter": 391,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter400.html",
+          "text": "先前的第二空窍伪蛊，只能存在七天七夜，并不稳定。而这只新蛊，已经能够长存四十年。"
+        },
+        {
+          "chapter": 395,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter404.html",
+          "text": "到了这一步，第二空窍蛊已经完成大半，介乎虚实之间，有形无形之内。无法移动拿捏，更且只能存乎三个时辰。"
+        },
+        {
+          "chapter": 403,
+          "paragraph": 73,
+          "file": "OEBPS/Text/chapter412.html",
+          "text": "先前的第二空窍伪蛊，只能存在七天七夜，并不稳定。而这只新蛊，已经能够长存四十年！"
+        }
+      ]
+    },
+    {
+      "id": "R239",
+      "kind": "Pre-rebirth trial rewards",
+      "entry": "Feng clearsXin;BaiDogforce",
+      "calculation": "HundredBattlesreceived;hundredsofHairyMenfollowFeng;near100000dogs. Afterwards9万多surviveinitiallightattack; noexactlossaccount.",
+      "status": "Branch-specific; acquired, consumed and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 389,
+          "paragraph": 63,
+          "file": "OEBPS/Text/chapter398.html",
+          "text": "此蛊其貌不扬，好似灰石圆片。不是别的，正是百战不殆蛊。"
+        },
+        {
+          "chapter": 389,
+          "paragraph": 64,
+          "file": "OEBPS/Text/chapter398.html",
+          "text": "“属下幸不辱命，已经闯过百关，获得信王传承，收得这些毛民。”风天语又道。"
+        },
+        {
+          "chapter": 389,
+          "paragraph": 65,
+          "file": "OEBPS/Text/chapter398.html",
+          "text": "在他的身边，站着数百位毛民，各个浑身长着浓密长毛，默然站立着。"
+        },
+        {
+          "chapter": 389,
+          "paragraph": 72,
+          "file": "OEBPS/Text/chapter398.html",
+          "text": "他望向白凝冰的身后，近十万只犬兽，漫漫无涯，或盘踞在地，或相互嬉戏，或奔逐打闹。"
+        },
+        {
+          "chapter": 393,
+          "paragraph": 47,
+          "file": "OEBPS/Text/chapter402.html",
+          "text": "眼中白茫茫的一片，渐渐散去。巨大光枪落点处，数千只犬兽都蒸发得干干净净。原本是山丘的缓坡，如今却只剩下一个大坑。"
+        },
+        {
+          "chapter": 393,
+          "paragraph": 53,
+          "file": "OEBPS/Text/chapter402.html",
+          "text": "九万多的犬兽，密密麻麻，排布在山丘上，打造成铁桶式的防御。"
+        }
+      ]
+    },
+    {
+      "id": "R240",
+      "kind": "Military scopes",
+      "entry": "1600attackers plus400reserve",
+      "calculation": "391300+500+800=1600attackers. LiXian400reserve separate.3921000pluscommittediscompatible; no2000exactcasualtyassertion.",
+      "status": "Branch-specific; acquired, consumed and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 391,
+          "paragraph": 77,
+          "file": "OEBPS/Text/chapter400.html",
+          "text": "魔无天观察片刻，忽道：“李强，请你带三百人，攻正面。冲入数十步后，就会遇到铁盾犬拦截。你且战且退，向左转移，会有菊花秋田犬群夹攻，战胜它们，一举向东南冲杀。”"
+        },
+        {
+          "chapter": 391,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter400.html",
+          "text": "“狐魅儿，你遣五百人，做左路。一路强攻过去，会依次遇到电文狗、刺猬犬、食尸犬。不必计较损失，朝着北方直接冲杀。”"
+        },
+        {
+          "chapter": 391,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter400.html",
+          "text": "“包同，你做右路，领八百人。带西北方向，响起喊杀声，直接冲进去，五百步内不会有犬兽阻拦。遇到电文狗群拦截，拼死冲杀，三刻之内，如不能冲上去，就撤回来罢！”"
+        },
+        {
+          "chapter": 391,
+          "paragraph": 80,
+          "file": "OEBPS/Text/chapter400.html",
+          "text": "“李闲，你遣四百人，作为后备，随时听候调遣。若我没有命令，你就接领溃军吧。”"
+        },
+        {
+          "chapter": 392,
+          "paragraph": 3,
+          "file": "OEBPS/Text/chapter401.html",
+          "text": "魔道联军大败亏输，投进去一千多人，只剩下几百人残兵败将回来。"
+        },
+        {
+          "chapter": 392,
+          "paragraph": 7,
+          "file": "OEBPS/Text/chapter401.html",
+          "text": "李闲面无表情，站在一旁。他的队伍，是准备保护溃散蛊师，迎击追杀来的狗群。"
+        },
+        {
+          "chapter": 392,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter401.html",
+          "text": "但是溃兵是有的，狗群却没有一只追杀过来，让他站了好半天。"
+        }
+      ]
+    },
+    {
+      "id": "R241",
+      "kind": "Immortal exceptions",
+      "entry": "DreamWings uses soul",
+      "calculation": "Ordinaryneedforimmortalessence has explicitDreamWingsexception. The soulcost canharmmemory; notproofFenghasimmortalessence orcultivationSix.",
+      "status": "Branch-specific; acquired, consumed and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 398,
+          "paragraph": 62,
+          "file": "OEBPS/Text/chapter407.html",
+          "text": "“传说中的仙蛊——梦翼！”"
+        },
+        {
+          "chapter": 398,
+          "paragraph": 63,
+          "file": "OEBPS/Text/chapter407.html",
+          "text": "梦翼是一只很特别的仙蛊，它不存在于现实之中，只可在梦中寻得。催动它的，也不是仙元，而是蛊师的灵和魂。"
+        },
+        {
+          "chapter": 398,
+          "paragraph": 64,
+          "file": "OEBPS/Text/chapter407.html",
+          "text": "凤金煌只是凡躯，现在强行催动梦翼，会导致魂魄上的严重损伤，轻则失忆，重则痴呆。"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 149,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "大多数的仙蛊，是用仙元才能催动。但梦翼不同，催动它需要消耗的，是蛊师的灵和魂。"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 150,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "凤金煌只是凡躯，现在强行催动梦翼，冒着极大风险，轻则失忆，重则痴呆。"
+        }
+      ]
+    },
+    {
+      "id": "R242",
+      "kind": "Pre-rebirth ownership / captivity",
+      "entry": "SecondAperture heldbyTie,controlledbyFY",
+      "calculation": "FinishedGu physicallyseized butremotelyself-destructiblebyrefiner. CannotstorealongsidepressuringCicada; notactivated. FixedStar+chainssuppressup-toFive,notSixCicada.",
+      "status": "Branch-specific; acquired, consumed and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 396,
+          "paragraph": 73,
+          "file": "OEBPS/Text/chapter405.html",
+          "text": "铁若男走过来，一边将第二空窍蛊拿到手中，一边宣判着他的命运。"
+        },
+        {
+          "chapter": 397,
+          "paragraph": 76,
+          "file": "OEBPS/Text/chapter406.html",
+          "text": "第二空窍蛊虽然被铁若男拿了，但控制权还在方源手中。他一手炼成第二空窍蛊，现在还要他心念一动，这只仙蛊就会自爆毁灭。"
+        },
+        {
+          "chapter": 397,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter406.html",
+          "text": "要运用第二空窍蛊，需要仙元催动，否则就用海量的元石替代。"
+        },
+        {
+          "chapter": 397,
+          "paragraph": 80,
+          "file": "OEBPS/Text/chapter406.html",
+          "text": "对于方源而言，他更加无法将这仙蛊收入空窍。"
+        },
+        {
+          "chapter": 397,
+          "paragraph": 81,
+          "file": "OEBPS/Text/chapter406.html",
+          "text": "春秋蝉的压力已经够大，再存进一只仙蛊，方源的空窍就要被撑爆了。"
+        },
+        {
+          "chapter": 398,
+          "paragraph": 86,
+          "file": "OEBPS/Text/chapter407.html",
+          "text": "白凝冰则叹息一声：“没有用的，方源，你的左臂中已经被我暗中种下了定星蛊。有着此蛊定位，无极搜锁就能破空捉拿，你逃到天涯海角都没有用处。这一场，你已经输了，认命罢。”"
+        },
+        {
+          "chapter": 398,
+          "paragraph": 96,
+          "file": "OEBPS/Text/chapter407.html",
+          "text": "铁若男徐徐劝降道：“方源，你中了无极搜锁。现在你身上的蛊虫，已经被封印住，连真元都调动不了一丝。你已经没有希望了。当然，你还可以调动意念，令蛊虫自爆。但我劝你不要这样选择。你是聪明的人，应该知道哪样选择，对你有利吧？”"
+        },
+        {
+          "chapter": 399,
+          "paragraph": 13,
+          "file": "OEBPS/Text/chapter408.html",
+          "text": "无极搜锁，能封禁五转蛊，但是却禁不住六转的仙蛊！"
+        }
+      ]
+    },
+    {
+      "id": "R243",
+      "kind": "Thirdrebirth reset",
+      "entry": "Cicada weakened;inventorystate reset",
+      "calculation": "Self-explosion fundsrewind. Cicadabecomesweak/dormant again; nofinishedSecondAperture survivesasacquiredGu. Do notcopypriorbranchGoldSouporYangconsumptioninto currentstate.",
+      "status": "Branch-specific; acquired, consumed and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 399,
+          "paragraph": 19,
+          "file": "OEBPS/Text/chapter408.html",
+          "text": "方源所有的蛊虫，全部的真元，一切的血肉和魂灵，都自爆开来。"
+        },
+        {
+          "chapter": 399,
+          "paragraph": 23,
+          "file": "OEBPS/Text/chapter408.html",
+          "text": "春秋蝉化为精芒一点，承载着方源仅剩下来的一点意志，破碎虚空，来到这个世界中最著名的秘禁之地——光阴长河。"
+        },
+        {
+          "chapter": 399,
+          "paragraph": 47,
+          "file": "OEBPS/Text/chapter408.html",
+          "text": "空窍中央，作为本命蛊的春秋蝉，再度萎靡虚弱。原本光滑油亮的外表，如今像是枯黄的秋叶。"
+        },
+        {
+          "chapter": 399,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter408.html",
+          "text": "方源念头一动，春秋蝉便渐渐隐去身形，陷入沉眠，重新汲取时间的力量恢复去了。"
+        },
+        {
+          "chapter": 399,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter408.html",
+          "text": "“这样一来，春秋蝉这个内患，就暂时解除了！”方源的笑声更大了，眼中精芒闪烁不停。"
+        },
+        {
+          "chapter": 400,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter409.html",
+          "text": "但下一刻，他又不自觉地摇头：“此法一旦计算稍有疏漏，我就将万劫不复，比落到铁若男手中更惨。毕竟春秋蝉已经使用一次，短时间内再无重生的可能……”"
+        }
+      ]
+    },
+    {
+      "id": "R244",
+      "kind": "Post-rebirth control / soulburden",
+      "entry": "Qiuenslaved,notFeng",
+      "calculation": "FiveSlaveGusoulcontestwonusingdistraction. Soulburdenaffectsrefinement. Qiu securesHundredBattles butnotcompleteXin/Hairyfollowers. Two remainingpillars valid.",
+      "status": "Branch-specific; acquired, consumed and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 400,
+          "paragraph": 74,
+          "file": "OEBPS/Text/chapter409.html",
+          "text": "奴隶蛊炸成一团黄色光影，落到仇九的身上。"
+        },
+        {
+          "chapter": 400,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter409.html",
+          "text": "但要控制一个五转蛊师，却并不那么容易，关乎魂魄之间的较量。"
+        },
+        {
+          "chapter": 401,
+          "paragraph": 15,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "“你，你怎么知道？！”仇九心防顿时失守，光影一落，彻底进入了他的体内。"
+        },
+        {
+          "chapter": 401,
+          "paragraph": 17,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "“属下，拜见主人！”"
+        },
+        {
+          "chapter": 401,
+          "paragraph": 24,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "唯一美中不足的是，奴隶仇九，对方源的魂魄造成一定的负担，对接下来炼制仙蛊有很大影响。"
+        },
+        {
+          "chapter": 401,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "此蛊其貌不扬，好似灰石圆片。不是别的，正是百战不殆蛊。"
+        },
+        {
+          "chapter": 401,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "上一世，方源奴隶的风天语闯到了最后，获得信王传承，还有数百位毛民充作追随者。今生，换了仇九，他到底不是炼蛊大师，暴力破关，只能勉强取得百战不殆蛊，没有一个毛民跟随他。"
+        },
+        {
+          "chapter": 401,
+          "paragraph": 80,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "蓝、红两道光柱，虚弱纤细，仍旧矗立在峰巅。至于代表犬王传承的黄色光柱，则已经消失不见。"
+        },
+        {
+          "chapter": 401,
+          "paragraph": 81,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "上一世，只剩下红色光柱，那是因为风天语夺得信王传承。但这一世，仇九并非炼道大师，没有能力闯到信王最后一关，因此就剩下了两道光柱。"
+        }
+      ]
+    },
+    {
+      "id": "R245",
+      "kind": "Oath types / viewpoint",
+      "entry": "Deathandrevival circumventsPoisonOath",
+      "calculation": "396narrator explainsone-thirdrisk;401Qiuconfirmsdoctorhistory. 毒誓without蛊maymeanordinarysolemnoath; preserveinformationalomission. Haillexicalcorrection remainsunchanged.",
+      "status": "Branch-specific; acquired, consumed and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 396,
+          "paragraph": 50,
+          "file": "OEBPS/Text/chapter405.html",
+          "text": "她回忆说：曾经，她年少无知，被一位同门师弟蒙蔽，用了毒誓蛊，发下永不背弃对付的情誓。后来为了摆脱毒誓，她就用了这个法子。"
+        },
+        {
+          "chapter": 396,
+          "paragraph": 53,
+          "file": "OEBPS/Text/chapter405.html",
+          "text": "毒誓蛊一旦发作，就会让应誓者死亡。素手医师是治疗蛊师，解决的方法，就是故意让毒誓发作，蛊师死亡，毒誓消除，再让蛊师起死回生。"
+        },
+        {
+          "chapter": 396,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter405.html",
+          "text": "“这个方法，等于是硬碰硬的拆解。绝大多数的治疗蛊师，就算是想到，也没法做到。我也是因为师承特殊，才能勉强可行。尽管如此，这当中也有三分之一的失败可能。一旦失败，就是死亡。你要想清楚了。”素手医师最后警告道。"
+        },
+        {
+          "chapter": 401,
+          "paragraph": 25,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "“仇九，当年你是否和素手医师用了毒誓蛊，发誓永远珍爱对方，不离不弃？”方源看着杀人鬼医，却是问出一个问题。"
+        },
+        {
+          "chapter": 401,
+          "paragraph": 28,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "“毒誓蛊乃是山盟海誓蛊的替代品，陈九没有能力解掉毒誓。她是为了商燕飞那小白脸，甘冒奇险，让毒誓发作杀死自己。没有了宿主，毒誓的力量自然便消失。然后再利用治疗手段，起死回生，从而摆脱毒誓！”"
+        },
+        {
+          "chapter": 401,
+          "paragraph": 33,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "“我们在福地的海前发下毒誓，要守护彼此，不离不弃……”"
+        },
+        {
+          "chapter": 401,
+          "paragraph": 35,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "什么毒誓，明明就是他妈的毒誓蛊！"
+        },
+        {
+          "chapter": 401,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "这仇九说话，避重就轻，有的地方语焉不详，粉饰自己。若是明说毒誓蛊，方源自忖：自己未必不会警觉，知道商家城中尚有一人，可以摆脱毒誓蛊的束缚，从而警惕白凝冰。"
+        }
+      ]
+    },
+    {
+      "id": "R246",
+      "kind": "Post-rebirth defence",
+      "entry": "Spiritcontrols dogs;Tieapes",
+      "calculation": "BaihandsGu tospirit; notreliableDogcommandremainingwithher. TieBaiQi deployswhiteapes. His laterarrivaldoesnotchangetheoriginalsix-mastercensus.",
+      "status": "Branch-specific; acquired, consumed and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 401,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "方源淡淡而笑：“白凝冰，将你手中的蛊虫，都交给地灵吧。”"
+        },
+        {
+          "chapter": 401,
+          "paragraph": 62,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "“地灵也能运用蛊虫，指挥起来，自然比你更有把握了。”方源解释道。"
+        },
+        {
+          "chapter": 403,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter412.html",
+          "text": "“呵呵呵，老夫看了半天戏，早已经心痒难耐了！”铁白棋将兜帽取下来，睁开眉间的第三只眼。"
+        },
+        {
+          "chapter": 403,
+          "paragraph": 36,
+          "file": "OEBPS/Text/chapter412.html",
+          "text": "他催动蛊虫，双掌一推，打在前方的半空中，竟然形成一个黑洞。"
+        },
+        {
+          "chapter": 403,
+          "paragraph": 37,
+          "file": "OEBPS/Text/chapter412.html",
+          "text": "黑洞不断旋转，从中跳跃出无数的白猿。"
+        },
+        {
+          "chapter": 403,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter412.html",
+          "text": "白猿大军汹涌而出，汇集成强盛的兵锋，向青铜大殿冲去。"
+        }
+      ]
+    },
+    {
+      "id": "R247",
+      "kind": "Post-rebirth recipe / consumedparasite",
+      "entry": "DivineTravel+BiKong+FixedStar+glory",
+      "calculation": "FixedStarconsumed, defeatingchaintrackingwithoutamputation. SpiritprovidesDivineTravel;BiKonghollowbambooconfirmed.Forty-yearintermediateSecondAperturenotusedinthisrecipe.",
+      "status": "Branch-specific; acquired, consumed and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 404,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter413.html",
+          "text": "仙蛊神游，落在他的手掌心上。"
+        },
+        {
+          "chapter": 404,
+          "paragraph": 62,
+          "file": "OEBPS/Text/chapter413.html",
+          "text": "一道绿光，从空窍中射出，落到另一只手上，化为一截碧空的玉竹，中间贯通着。"
+        },
+        {
+          "chapter": 404,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter413.html",
+          "text": "此蛊乃太古星屑，宛若钻石，生有八角，晶莹剔透！"
+        },
+        {
+          "chapter": 404,
+          "paragraph": 74,
+          "file": "OEBPS/Text/chapter413.html",
+          "text": "神游蛊忽的飞起来，一头扎进他的左前臂中，一口将定星蛊吞掉。"
+        },
+        {
+          "chapter": 404,
+          "paragraph": 77,
+          "file": "OEBPS/Text/chapter413.html",
+          "text": "神游蛊吃了定星蛊后，便钻进中空的碧空蛊中，迅速地结成了一个蚕茧。"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "但重生之后，他杀了龙青天，取得了碧空蛊。"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 29,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "正是青天里碧空的玉竹！"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "没有错，那就是定星蛊。"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 42,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "神游蛊、碧空蛊、定星蛊以及太古之光，一切的条件都具备了！"
+        }
+      ]
+    },
+    {
+      "id": "R248",
+      "kind": "Post-rebirth consumables / damage",
+      "entry": "FixedTravel completed;HundredBattles spent",
+      "calculation": "TwoThirdWatch→9×cocoonrate; HundredBattlesFiveconsumedforrefinement. AllOutEffortnotupgraded. GoldSoupdestroyed;GoldGlow/wingsdamaged. Localguaranteedrefinementnotyetuniversalrule.",
+      "status": "Branch-specific; acquired, consumed and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 405,
+          "paragraph": 67,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "三更蛊！三更蛊！"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "他将两只三更蛊，都对着蚕茧催动。"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "顿时，时光加速九倍，仙蛊气息暴涨！"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 77,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "百战不殆也！"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "百战不殆蛊，五转消耗蛊虫，一旦用之，便能令蛊师一次炼蛊必成！"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 81,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "蚕茧破开，飞出一只绿光莹莹的翩翩蝴蝶——定仙游蛊！"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 91,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "五转杀招不是开玩笑的，金汤蛊寿终正寝，金霞蛊等等也因此大损。背后的黑翼，也残破不堪。"
+        }
+      ]
+    },
+    {
+      "id": "R249",
+      "kind": "Post-rebirth endpoint",
+      "entry": "Teleport andcurrentpossessions",
+      "calculation": "SpiritpowersFixedTravel;clothesexcluded,apertureGuincluded. WeakCicadaallowschangedstoragesituation; noactivatedsecondaperturerequired. Bai stillfemale;Yangretained; Qiu lastaliveenslaved.",
+      "status": "Branch-specific; acquired, consumed and prospective states distinguished",
+      "sources": [
+        {
+          "chapter": 403,
+          "paragraph": 70,
+          "file": "OEBPS/Text/chapter412.html",
+          "text": "但飞到一半，阳蛊猛地折回，落到方源的右手中。"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 103,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "方源朗笑一声：“定仙游蛊，能令蛊师纵横天下，去任何一个想要去的地方。但它乃是仙蛊，还需要你帮忙，用仙元来催动。”"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 104,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "霸龟：“这是当然的。铜鼎中还残留着一些仙元，你想要去哪里，就先在脑海中想好了。你最好选个安全的地方，而且要注意，你脑海中的记忆画面，和现实地点要相差无几，不能差别太大。”"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 124,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "仙元灌输到定仙游蛊当中，碧芒一闪即逝，带着方源消失在空中。"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 125,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "只剩下他的衣裤，如断了线的风筝，从高空中飘落下来。"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 174,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "“果真传送到这里来了吗？切，定仙游蛊，就是有这个缺点，不能传送体外衣物。不过好在我将蛊虫，都存进了空窍之中，一并带来了。”"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 178,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "“我成功了，一切的冒险都是值得的。第二空窍蛊炼制不成算什么？我现在拥有更好的狐仙福地，还有仙蛊定仙游！哈啊哈哈……”方源在心中狂笑。"
         }
       ]
     }

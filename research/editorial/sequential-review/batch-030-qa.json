@@ -1,0 +1,22 @@
+{
+  "batch": "batch-030",
+  "chapters": [
+    566,
+    585
+  ],
+  "chapter_count": 20,
+  "paragraphs": 1882,
+  "characters": 68005,
+  "contiguous_chapters": true,
+  "ledger_ids": [
+    "SR-338",
+    "SR-352"
+  ],
+  "ledger_count": 15,
+  "approved_or_applied_any": false,
+  "em_dashes_in_new_text": 0,
+  "witness_collated": true,
+  "witness_source": "Hetushu book 7640 pages 5345804–5345863 (ch566–625); fact-check-030-032/",
+  "witness_summary": "Witness agrees with source on most text (mean exact-line agreement ~0.94; differences mostly watermark and segmentation). Witness supports SR-347, SR-360, SR-361 and SR-372. Witness copies the typo for most other held repairs. New query SR-381.",
+  "result": "PASS (source counts, ledger range, no approvals, no em dashes); witness collated (see witness_summary); repairs not confirmed by witness except as noted"
+}

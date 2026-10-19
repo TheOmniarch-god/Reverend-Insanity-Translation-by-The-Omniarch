@@ -1,0 +1,122 @@
+{
+ "546": {
+  "witness_lines": 87,
+  "epub_paras": 87,
+  "exact_matches": 82,
+  "agreement": 0.943
+ },
+ "547": {
+  "witness_lines": 95,
+  "epub_paras": 95,
+  "exact_matches": 90,
+  "agreement": 0.947
+ },
+ "548": {
+  "witness_lines": 102,
+  "epub_paras": 102,
+  "exact_matches": 97,
+  "agreement": 0.951
+ },
+ "549": {
+  "witness_lines": 85,
+  "epub_paras": 85,
+  "exact_matches": 80,
+  "agreement": 0.941
+ },
+ "550": {
+  "witness_lines": 85,
+  "epub_paras": 85,
+  "exact_matches": 79,
+  "agreement": 0.929
+ },
+ "551": {
+  "witness_lines": 81,
+  "epub_paras": 81,
+  "exact_matches": 75,
+  "agreement": 0.926
+ },
+ "552": {
+  "witness_lines": 84,
+  "epub_paras": 84,
+  "exact_matches": 79,
+  "agreement": 0.94
+ },
+ "553": {
+  "witness_lines": 91,
+  "epub_paras": 91,
+  "exact_matches": 83,
+  "agreement": 0.912
+ },
+ "554": {
+  "witness_lines": 80,
+  "epub_paras": 80,
+  "exact_matches": 74,
+  "agreement": 0.925
+ },
+ "555": {
+  "witness_lines": 96,
+  "epub_paras": 96,
+  "exact_matches": 91,
+  "agreement": 0.948
+ },
+ "556": {
+  "witness_lines": 86,
+  "epub_paras": 86,
+  "exact_matches": 79,
+  "agreement": 0.919
+ },
+ "557": {
+  "witness_lines": 108,
+  "epub_paras": 108,
+  "exact_matches": 102,
+  "agreement": 0.944
+ },
+ "558": {
+  "witness_lines": 88,
+  "epub_paras": 88,
+  "exact_matches": 83,
+  "agreement": 0.943
+ },
+ "559": {
+  "witness_lines": 96,
+  "epub_paras": 96,
+  "exact_matches": 91,
+  "agreement": 0.948
+ },
+ "560": {
+  "witness_lines": 95,
+  "epub_paras": 95,
+  "exact_matches": 90,
+  "agreement": 0.947
+ },
+ "561": {
+  "witness_lines": 93,
+  "epub_paras": 93,
+  "exact_matches": 88,
+  "agreement": 0.946
+ },
+ "562": {
+  "witness_lines": 75,
+  "epub_paras": 75,
+  "exact_matches": 69,
+  "agreement": 0.92
+ },
+ "563": {
+  "witness_lines": 93,
+  "epub_paras": 93,
+  "exact_matches": 86,
+  "agreement": 0.925
+ },
+ "564": {
+  "witness_lines": 91,
+  "epub_paras": 91,
+  "exact_matches": 86,
+  "agreement": 0.945
+ },
+ "565": {
+  "witness_lines": 89,
+  "epub_paras": 89,
+  "exact_matches": 82,
+  "agreement": 0.921
+ }
+}

@@ -1,0 +1,68 @@
+SR-194 | 427p19 | Provisional proposal or q | Query. Do not alter. Either the ten-year figure or the two-y | WITNESS EXACT (same as source)
+SR-195 | 437p22 | Provisional proposal or q | Query. Possible garbling of an adverb or phrase. No repair u | DIFF replace '冤枉'->'远方'
+SR-196 | 436p89 | Held repair candidate; un | Propose 但有飘渺至极的可能. | DIFF insert ''->'和_图_书'; insert ''->'一'
+SR-197 | 443p27 | Held repair candidate; un | Propose 和他相比. | DIFF insert ''->'hetusｈｕ•ｃｏm•ｃoｍ'
+SR-198 | 445p26 | Held repair candidate; un | Propose 静静地燃烧着. | WITNESS EXACT (same as source)
+SR-199 | 439p4 | Held repair candidate; un | Propose 方源有意接近，有所图谋. | DIFF replace '地'->'对'
+SR-200 | 436p30 | Held repair candidate; un | Propose 当时，当这头驼狼. | WITNESS EXACT (same as source)
+SR-201 | 441p9 | Held repair candidate; un | Propose 男人们蹲在买铁器的摊子前. | WITNESS EXACT (same as source)
+SR-202 | 442p58 | Held repair candidate; un | Propose 重点是二转、三转的驭狼蛊. | WITNESS EXACT (same as source)
+SR-203 | 443p30 | Provisional proposal or q | Query. Confirm the stacking rule and the applied count again | DIFF insert ''->'和_图_书'
+SR-204 | 438p76 | Held repair candidate; un | Propose 他们真元早已匮乏. | WITNESS EXACT (same as source)
+SR-205 | 440p10 | Held repair candidate; un | Propose 你的德行和正直广为传颂. | WITNESS EXACT (same as source)
+SR-206 | 438p43 | Held repair candidate; un | Propose 风狼王智慧要远超其他野狼. | WITNESS EXACT (same as source)
+SR-207 | 431p48 | Provisional proposal or q | Query. Check how Fang Yuan knows the later biography of Chan | WITNESS EXACT (same as source)
+SR-208 | 431p23 | Provisional proposal or q | Query. Hold for whole-novel chronology. The present year is  | WITNESS EXACT (same as source)
+SR-209 | 447p67 | Held repair candidate; un | Propose 说得通. | WITNESS EXACT (same as source)
+SR-210 | 447p72 | Held repair candidate; un | Propose 想要查清楚. | WITNESS EXACT (same as source)
+SR-211 | 448p3 | Held repair candidate; un | Propose 但为什么没有仙蛊. | DIFF insert ''->'和_图_书'
+SR-212 | 452p36 | Held repair candidate; un | Propose 又抬起脸来. | WITNESS EXACT (same as source)
+SR-213 | 452p84 | Held repair candidate; un | Propose 他们大多是二转精英. | WITNESS EXACT (same as source)
+SR-214 | 452p27 | Held repair candidate; un | Propose 不愿被奴役, parallel to SR-186 and the 奴役 usage elsewhere | WITNESS EXACT (same as source)
+SR-215 | 453p44 | Held repair candidate; un | Propose 普通水狼. | DIFF delete '十'->''
+SR-216 | 454p82 | Held repair candidate; un | Propose 和方源计划的一样. | WITNESS EXACT (same as source)
+SR-217 | 456p19 | Held repair candidate; un | Propose 我们的儿女. | DIFF replace '耳'->'儿'
+SR-218 | 459p34 | Held repair candidate; un | Propose 剩下两只. | DIFF insert ''->'和_图_书'
+SR-219 | 462p56 | Held repair candidate; un | Propose 带回狐仙福地. | WITNESS EXACT (same as source)
+SR-220 | 465p95 | Held repair candidate; un | Propose 小脑袋. | WITNESS EXACT (same as source)
+SR-221 | 465p88 | Provisional proposal or q | Query. Possible slip for 圆形星门 or 圆形功门. Do not repair until t | WITNESS EXACT (same as source)
+SR-222 | 457p66 | Held repair candidate; un | Propose 战堂家老 for 457p66 and 457p78, matching 457p12–13. | WITNESS EXACT (same as source)
+SR-223 | 448p8 | Provisional proposal or q | Query. Check the name against 433, where the same Gu is writ | WITNESS EXACT (same as source)
+SR-224 | 457p43 | Provisional proposal or q | Query. Check whether 鬼炎蛊 and 鬼焱蛊 are distinct Gu or one Gu w | WITNESS EXACT (same as source)
+SR-225 | 456p18 | Provisional proposal or q | Query. The phrase does not match a known idiom; 舌战群儒 or a di | WITNESS EXACT (same as source)
+SR-226 | 453p13 | Provisional proposal or q | Query. Check the running count of 千狼王. 453p13 gives four; 45 | WITNESS EXACT (same as source)
+SR-227 | 454p74 | Provisional proposal or q | Query. Reconcile the ten-jun strength Gu count. 443p30 gives | WITNESS EXACT (same as source)
+SR-228 | 458p80 | Provisional proposal or q | Query. The phrase does not parse as a count; 三王 may refer to | DIFF replace '王'->'万'
+SR-229 | 461p35 | Provisional proposal or q | Query. Check whether the 三尊说 and Ma Hongyun passages use the | DIFF delete '仙蛊。盗天魔尊神秘失踪之前，他在五域布下自己的传承，并且和长毛老祖约定，将剩下的三次炼蛊机会，留给他的继承人。长毛老祖答应之后，双方就约定了暗号。”'->''
+SR-230 | 463p14 | Provisional proposal or q | Query. Confirm the claim against the whole-novel record of F | WITNESS EXACT (same as source)
+SR-231 | 462p55 | Provisional proposal or q | Query. The phrase reads as if 地灵 and 小狐仙 are one entity; the | WITNESS EXACT (same as source)
+SR-232 | 450p65 | Provisional proposal or q | Query. Cross-check the soul-strength description with 437–44 | WITNESS EXACT (same as source)
+SR-233 | 469p9 | Held repair candidate; un | Propose 其中血神子仙蛊残方中，也需要大量的舍利蛊. | WITNESS EXACT (same as source)
+SR-234 | 470p88 | Held repair candidate; un | Propose 一众家老纷纷电射. | WITNESS EXACT (same as source)
+SR-235 | 470p89 | Held repair candidate; un | Propose 拿捏着存储蛊. | WITNESS EXACT (same as source)
+SR-236 | 472p12 | Held repair candidate; un | Propose 月牙湖上. | WITNESS EXACT (same as source)
+SR-237 | 474p14 | Held repair candidate; un | Propose 眼睁睁地看着千狼王张开血盆大口. | WITNESS EXACT (same as source)
+SR-238 | 475p17 | Held repair candidate; un | Propose 气息强盛，远超四转巅峰晶膜. | WITNESS EXACT (same as source)
+SR-239 | 476p63 | Held repair candidate; un | Propose 会减少繁衍率. | WITNESS EXACT (same as source)
+SR-240 | 477p65 | Held repair candidate; un | Propose 葛家达到如此境地. | WITNESS EXACT (same as source)
+SR-241 | 481p74 | Held repair candidate; un | Propose 其中三转蛊，就有一百多只. | DIFF replace '都'->'多'
+SR-242 | 481p64 | Provisional proposal or q | Query. 贤弟 (worthy younger brother) does not fit the sense; t | DIFF replace '贤弟'->'险地'
+SR-243 | 484p36 | Held repair candidate; un | Propose 蓝田蛞蝓蛊. | WITNESS EXACT (same as source)
+SR-244 | 485p17 | Held repair candidate; un | Propose 一番布设，来到水巢附近. | DIFF delete '把'->''
+SR-245 | 472p42 | Provisional proposal or q | Query. Check the full name of the 奴道 master across the novel | WITNESS EXACT (same as source)
+SR-246 | 471p22 | Provisional proposal or q | Query. 471p22 gives 学堂家老 for a 严家 elder; 473p18 and 473p22 g | WITNESS EXACT (same as source)
+SR-247 | 466p2 | Provisional proposal or q | Query. 466p2 gives five times the outside rate; 474p62 gives | WITNESS EXACT (same as source)
+SR-248 | 475p43 | Provisional proposal or q | Query. 475p43 says three 紫晶舍利蛊 reach peak; the passage uses  | WITNESS EXACT (same as source)
+SR-249 | 475p44 | Provisional proposal or q | Query. 475p44 says two jars have fuzz and were tampered; 475 | WITNESS EXACT (same as source)
+SR-250 | 476p27 | Provisional proposal or q | Query. 476p27 says the seller has two wolf-thousands of 龟背狼  | WITNESS EXACT (same as source)
+SR-251 | 476p7 | Provisional proposal or q | Query. Reconcile the wolf count. 476p7 says near 30,000; 476 | WITNESS EXACT (same as source)
+SR-252 | 477p25 | Provisional proposal or q | Query. 477p25 says the cultivation was suppressed to 四转中阶; 4 | WITNESS EXACT (same as source)
+SR-253 | 479p33 | Provisional proposal or q | Query. 479p33 says 宙道蛊虫 accelerated the white-eyed wolf; 484 | WITNESS EXACT (same as source)
+SR-254 | 480p71 | Provisional proposal or q | Query. 480p71 says 夜狼万兽王 was earlier stopped by this move; t | WITNESS EXACT (same as source)
+SR-255 | 472p21 | Provisional proposal or q | Query. Check whether 万狼王 and 万兽王 are used interchangeably in | WITNESS EXACT (same as source)
+SR-256 | 476p15 | Provisional proposal or q | Query. 血狼 appears under both 南疆 and 中土 in one list. Check wh | WITNESS EXACT (same as source)
+SR-265 | 467p57 | Provisional proposal or q | Query. 490p16 places the founder in 远古 with 三百万年 before the  | WITNESS EXACT (same as source)
+SR-266 | 474p75 | Provisional proposal or q | Query. Check whether the star-named fairy is 摇光仙子 or 瑶光仙子; u | WITNESS EXACT (same as source)
+SR-270 | 470p48 | Provisional proposal or q | Query. Check whether 496p38 (more than ten years absent) and | WITNESS EXACT (same as source)
+SR-307 | 484p36 | Held repair candidate; un | Change 跟在蓝天蛞蝓蛊的身后 to 跟在蓝田蛞蝓蛊的身后. Cross-note only for 484p36  | WITNESS EXACT (same as source)
+total 67

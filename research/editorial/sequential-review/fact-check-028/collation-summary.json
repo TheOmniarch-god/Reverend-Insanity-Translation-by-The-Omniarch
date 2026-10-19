@@ -1,0 +1,122 @@
+{
+ "526": {
+  "witness_lines": 105,
+  "epub_paras": 90,
+  "exact_matches": 84,
+  "pct": 93.3
+ },
+ "527": {
+  "witness_lines": 79,
+  "epub_paras": 64,
+  "exact_matches": 57,
+  "pct": 89.1
+ },
+ "528": {
+  "witness_lines": 76,
+  "epub_paras": 61,
+  "exact_matches": 54,
+  "pct": 88.5
+ },
+ "529": {
+  "witness_lines": 99,
+  "epub_paras": 84,
+  "exact_matches": 74,
+  "pct": 88.1
+ },
+ "530": {
+  "witness_lines": 123,
+  "epub_paras": 108,
+  "exact_matches": 99,
+  "pct": 91.7
+ },
+ "531": {
+  "witness_lines": 103,
+  "epub_paras": 88,
+  "exact_matches": 81,
+  "pct": 92.0
+ },
+ "532": {
+  "witness_lines": 97,
+  "epub_paras": 82,
+  "exact_matches": 74,
+  "pct": 90.2
+ },
+ "533": {
+  "witness_lines": 95,
+  "epub_paras": 80,
+  "exact_matches": 74,
+  "pct": 92.5
+ },
+ "534": {
+  "witness_lines": 119,
+  "epub_paras": 104,
+  "exact_matches": 98,
+  "pct": 94.2
+ },
+ "535": {
+  "witness_lines": 95,
+  "epub_paras": 80,
+  "exact_matches": 72,
+  "pct": 90.0
+ },
+ "536": {
+  "witness_lines": 105,
+  "epub_paras": 90,
+  "exact_matches": 84,
+  "pct": 93.3
+ },
+ "537": {
+  "witness_lines": 96,
+  "epub_paras": 81,
+  "exact_matches": 74,
+  "pct": 91.4
+ },
+ "538": {
+  "witness_lines": 104,
+  "epub_paras": 89,
+  "exact_matches": 82,
+  "pct": 92.1
+ },
+ "539": {
+  "witness_lines": 113,
+  "epub_paras": 98,
+  "exact_matches": 92,
+  "pct": 93.9
+ },
+ "540": {
+  "witness_lines": 102,
+  "epub_paras": 87,
+  "exact_matches": 81,
+  "pct": 93.1
+ },
+ "541": {
+  "witness_lines": 127,
+  "epub_paras": 112,
+  "exact_matches": 105,
+  "pct": 93.8
+ },
+ "542": {
+  "witness_lines": 118,
+  "epub_paras": 103,
+  "exact_matches": 95,
+  "pct": 92.2
+ },
+ "543": {
+  "witness_lines": 111,
+  "epub_paras": 96,
+  "exact_matches": 89,
+  "pct": 92.7
+ },
+ "544": {
+  "witness_lines": 102,
+  "epub_paras": 87,
+  "exact_matches": 81,
+  "pct": 93.1
+ },
+ "545": {
+  "witness_lines": 92,
+  "epub_paras": 77,
+  "exact_matches": 71,
+  "pct": 92.2
+ }
+}

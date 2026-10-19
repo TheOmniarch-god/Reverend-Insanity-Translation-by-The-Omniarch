@@ -1,0 +1,542 @@
+[
+  {
+    "chapter": 386,
+    "paragraph": 2,
+    "original": "似的的",
+    "replacement": "似的",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": true,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 386,
+    "paragraph": 35,
+    "original": "常满尖刺",
+    "replacement": "长满尖刺",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 386,
+    "paragraph": 63,
+    "original": "气态威重",
+    "replacement": "气势威重",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 386,
+    "paragraph": 85,
+    "original": "白废",
+    "replacement": "白费",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 387,
+    "paragraph": 9,
+    "original": "回来过去",
+    "replacement": "回到过去",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 387,
+    "paragraph": 34,
+    "original": "在用奴隶蛊",
+    "replacement": "再用奴隶蛊",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 387,
+    "paragraph": 43,
+    "original": "电光石闪",
+    "replacement": "电光石火",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 387,
+    "paragraph": 47,
+    "original": "能能",
+    "replacement": "能",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": true,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 388,
+    "paragraph": 4,
+    "original": "勾通外界",
+    "replacement": "沟通外界",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 388,
+    "paragraph": 5,
+    "original": "我在以此",
+    "replacement": "我再以此",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 388,
+    "paragraph": 20,
+    "original": "太蛊奇毒",
+    "replacement": "太古奇毒",
+    "original_in_repost": false,
+    "replacement_anywhere_in_repost": true,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 388,
+    "paragraph": 35,
+    "original": "将加大地加剧",
+    "replacement": "将大大地加剧",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 388,
+    "paragraph": 48,
+    "original": "攀等",
+    "replacement": "攀登",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 389,
+    "paragraph": 7,
+    "original": "蛊师福地",
+    "replacement": "蛊仙福地",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 389,
+    "paragraph": 14,
+    "original": "攻击力也没用",
+    "replacement": "攻击力也没有",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 389,
+    "paragraph": 32,
+    "original": "大肚翩翩",
+    "replacement": "大肚便便",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 389,
+    "paragraph": 51,
+    "original": "危机空窍",
+    "replacement": "危及空窍",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 390,
+    "paragraph": 18,
+    "original": "壮栽",
+    "replacement": "壮哉",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 390,
+    "paragraph": 23,
+    "original": "早就想父亲",
+    "replacement": "早就向父亲",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 391,
+    "paragraph": 27,
+    "original": "措不及防",
+    "replacement": "猝不及防",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 391,
+    "paragraph": 32,
+    "original": "半柱香",
+    "replacement": "半炷香",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 391,
+    "paragraph": 63,
+    "original": "吐沫",
+    "replacement": "唾沫",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 391,
+    "paragraph": 79,
+    "original": "带西北方向",
+    "replacement": "待西北方向",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 391,
+    "paragraph": 80,
+    "original": "接领溃军",
+    "replacement": "接应溃军",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 392,
+    "paragraph": 22,
+    "original": "俯看这包同",
+    "replacement": "俯看着包同",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 392,
+    "paragraph": 35,
+    "original": "反映过来",
+    "replacement": "反应过来",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": true,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 393,
+    "paragraph": 2,
+    "original": "统帅权利",
+    "replacement": "统帅权力",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 393,
+    "paragraph": 5,
+    "original": "再接再励",
+    "replacement": "再接再厉",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 393,
+    "paragraph": 48,
+    "original": "冷不出微吸",
+    "replacement": "禁不住微吸",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 393,
+    "paragraph": 73,
+    "original": "受人把柄",
+    "replacement": "授人把柄",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 394,
+    "paragraph": 11,
+    "original": "借住孟土",
+    "replacement": "借助孟土",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 394,
+    "paragraph": 83,
+    "original": "接下里",
+    "replacement": "接下来",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": true,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 395,
+    "paragraph": 16,
+    "original": "先前一起的",
+    "replacement": "先前一切的",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 395,
+    "paragraph": 16,
+    "original": "白废",
+    "replacement": "白费",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 395,
+    "paragraph": 79,
+    "original": "万不得以",
+    "replacement": "万不得已",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 396,
+    "paragraph": 34,
+    "original": "阴阳转身蛊",
+    "replacement": "阴阳转生蛊",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 396,
+    "paragraph": 50,
+    "original": "背弃对付",
+    "replacement": "背弃对方",
+    "original_in_repost": false,
+    "replacement_anywhere_in_repost": true,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 396,
+    "paragraph": 67,
+    "original": "压力重生",
+    "replacement": "压力重重",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 397,
+    "paragraph": 12,
+    "original": "真正好听",
+    "replacement": "真是好听",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 397,
+    "paragraph": 27,
+    "original": "各占据四个方位",
+    "replacement": "分别占据四个方位",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 397,
+    "paragraph": 57,
+    "original": "面对白凝冰",
+    "replacement": "白凝冰",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": true,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 397,
+    "paragraph": 71,
+    "original": "破空空间",
+    "replacement": "破开空间",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 397,
+    "paragraph": 76,
+    "original": "现在还要他",
+    "replacement": "现在只要他",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 397,
+    "paragraph": 83,
+    "original": "鹤蚌相争",
+    "replacement": "鹬蚌相争",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 398,
+    "paragraph": 3,
+    "original": "浪涛卷席",
+    "replacement": "浪涛席卷",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 398,
+    "paragraph": 8,
+    "original": "浑身隆重",
+    "replacement": "浑身笼罩",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 398,
+    "paragraph": 27,
+    "original": "锁链迅紧紧",
+    "replacement": "锁链紧紧",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 398,
+    "paragraph": 30,
+    "original": "伸直先前",
+    "replacement": "伸直向前",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 398,
+    "paragraph": 59,
+    "original": "带这凤金煌",
+    "replacement": "带着凤金煌",
+    "original_in_repost": false,
+    "replacement_anywhere_in_repost": true,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 399,
+    "paragraph": 24,
+    "original": "中州五域",
+    "replacement": "中洲五域",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 400,
+    "paragraph": 44,
+    "original": "无妨说服",
+    "replacement": "无法说服",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 402,
+    "paragraph": 43,
+    "original": "欲火大炙",
+    "replacement": "欲火大炽",
+    "original_in_repost": false,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 402,
+    "paragraph": 59,
+    "original": "推卸的一干",
+    "replacement": "推卸得一干",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 402,
+    "paragraph": 97,
+    "original": "外门的那些",
+    "replacement": "外面的那些",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 403,
+    "paragraph": 46,
+    "original": "已经再用",
+    "replacement": "已经在用",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 403,
+    "paragraph": 58,
+    "original": "万不得以",
+    "replacement": "万不得已",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 403,
+    "paragraph": 81,
+    "original": "已经将冷眼",
+    "replacement": "已经在冷眼",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 404,
+    "paragraph": 30,
+    "original": "从他从地上",
+    "replacement": "他从地上",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": true,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 404,
+    "paragraph": 76,
+    "original": "何况就被",
+    "replacement": "很快就被",
+    "original_in_repost": false,
+    "replacement_anywhere_in_repost": true,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  },
+  {
+    "chapter": 405,
+    "paragraph": 38,
+    "original": "至始至终",
+    "replacement": "自始至终",
+    "original_in_repost": true,
+    "replacement_anywhere_in_repost": false,
+    "witness_status": "Matched chapter; substring test is not same-sentence attestation"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "attempted_chapter": 405,
+  "reason": "Arithmetic URL mapping reaches Third Volume Chapter1 FengJiuGe, not the requested final chapter. Index also omits the requested title. Not accepted as a405 witness or sequential reading.",
+  "capture": [
+    {
+      "chapter": 405,
+      "url": "https://www.hetushu.com/book/7640/5345644.html",
+      "title": "蛊真人_第三卷 魔头乱世 第一章 凤九歌_蛊真人_和图书",
+      "sha256": "3c4ef0af5f8738e686a609356fa4a35d0487e53a1ab42a3b6d0c953cd6b07213",
+      "limitation": "Single repost tradition, not an authorial master; HTML order scrambled, checked fragments only. Traditional-to-simplified normalisation used for comparison."
+    }
+  ]
+}

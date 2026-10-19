@@ -1,0 +1,53 @@
+{
+  "batch": "021",
+  "chapters": 20,
+  "paragraphs": 1915,
+  "characters": 64774,
+  "cumulative_paragraphs": 36579,
+  "cumulative_characters": 1265208,
+  "proposal_count": 180,
+  "held": 176,
+  "withdrawn": 3,
+  "resolved_local": 1,
+  "copy_candidates": 60,
+  "chronology": 286,
+  "resources": 249,
+  "reading_segments": 10,
+  "next_unread": 406,
+  "source_sha256": "1ef1c29b6bddd7994f56696e2d091363aa8bbcee4889439465a9e2c51437dd5d",
+  "source_unchanged": true,
+  "substantive_changes_applied": false,
+  "batch016_factcheck_controls_preserved": true,
+  "external_captures": 19,
+  "rejected_external_mapping": 405,
+  "reader_omissions": [
+    [
+      405,
+      173
+    ]
+  ],
+  "remote_uploaded": false,
+  "remote_verified_through": 365,
+  "independent_export_qa": {
+    "status": "passed",
+    "epub_paragraphs_rechecked": 1915,
+    "numbered_source_exact": true,
+    "workbook_sheets": 8,
+    "workbook_new_source_rows_checked": 1915,
+    "docx_paragraphs": 331,
+    "docx_copy_table_rows": 61,
+    "all_report_blockquotes_exact": true,
+    "witness_hashes_verified": 19,
+    "contextual_repost_variants": 5,
+    "cultivation_wording_checked": true,
+    "earlier_factcheck_controls_unchanged": true,
+    "reader_omissions": [
+      [
+        405,
+        173
+      ]
+    ],
+    "SR167_withdrawal_verified": true,
+    "shared404_405_witness_verified": true
+  }
+}

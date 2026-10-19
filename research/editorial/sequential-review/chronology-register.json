@@ -1,5 +1,5 @@
 {
-  "scope": "Sequential through365; present, remembered, legendary, reported and parallel clocks distinguished",
+  "scope": "Sequential through405; third-rebirth branches explicitly separated",
   "entries": [
     {
       "id": "T001",
@@ -10043,6 +10043,1129 @@
           "paragraph": 82,
           "file": "OEBPS/Text/chapter373.html",
           "text": "“难道我古月方正，就要命丧此处，摔死在这里，死得不明不白？！”"
+        }
+      ]
+    },
+    {
+      "id": "T258",
+      "timeline": "Parallel Central Continent",
+      "kind": "rate / forecast",
+      "event": "HuImmortal fivefold clock",
+      "constraint": "Outside1day=inside5days. Year-or-half-year climb estimate is prospective/colloquial, not an elapsed eighteen months.",
+      "evidence_status": "Source checked; chronological scopes distinguished",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 366,
+          "paragraph": 23,
+          "file": "OEBPS/Text/chapter374.html",
+          "text": "天鹤上人答道：“这是蛊仙的福地，光阴流速不一样。外界一天，这里已经过去了五天。你们在外界，一个个进入门楼，时间差距很短。但一进入这里，时间差距就猛地拉大了。要不然干嘛大比武，决出胜负名次呢？每一个名次，都代表着一定的优势。最后的那名，基本上就没有获胜的希望了。”"
+        },
+        {
+          "chapter": 366,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter374.html",
+          "text": "“哈哈哈！”天鹤上人大笑，“徒弟，你还不算太笨，总算领悟到了。不错，那个小女孩儿，就是狐仙地灵。一路向前冲吧，勇往直前。这荡魂山非常难爬，至少要爬个一年半载。以防万一，为师接下来不会多说话，只在暗中帮助你。你有我的帮助，至少有八成的机会夺得狐仙传承！只要得到狐仙传承，你就是一飞冲天，从乞丐变成富翁，一口气吃成胖子。这是一步登天啊！”"
+        }
+      ]
+    },
+    {
+      "id": "T259",
+      "timeline": "Revised current life",
+      "kind": "ellipsis / age",
+      "event": "Several months; HundredYearChild over180",
+      "constraint": "Physical8–9 from rejuvenation, not chronological age. Four strength cultivators killed this month; no exact month length or birthdate supplied.",
+      "evidence_status": "Source checked; chronological scopes distinguished",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 367,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter375.html",
+          "text": "数月之后。"
+        },
+        {
+          "chapter": 367,
+          "paragraph": 11,
+          "file": "OEBPS/Text/chapter375.html",
+          "text": "百岁童子是四转高阶的修为，同时又有一百八十多岁的丰富经历，在魔道中是当之无愧的老一辈。"
+        },
+        {
+          "chapter": 367,
+          "paragraph": 21,
+          "file": "OEBPS/Text/chapter375.html",
+          "text": "“前几天，小兽王又杀了郁沧，这是他这个月来杀掉的第四个力道蛊师了。”有人小声地道。"
+        }
+      ]
+    },
+    {
+      "id": "T260",
+      "timeline": "Revised current life",
+      "kind": "session / later advancement",
+      "event": "Feast and Tie elder stage",
+      "constraint": "One shichen feast. Months after previous battle makeFourmiddle→upper advancement possible; do not invent the precise breakthrough date.",
+      "evidence_status": "Source checked; chronological scopes distinguished",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 369,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter377.html",
+          "text": "一个时辰之后，酒宴结束了。"
+        },
+        {
+          "chapter": 369,
+          "paragraph": 64,
+          "file": "OEBPS/Text/chapter377.html",
+          "text": "但就在这时，一个苍老的声音，轻轻的，在他的身后响起：“已经几个月了，若男这个孩子还是这样子吗？”"
+        },
+        {
+          "chapter": 369,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter377.html",
+          "text": "堂堂的铁家四老之首，四转高阶的铁铉之，在这一刻，动弹不得，浑身都被禁锢住，像是琥珀中的一只小虫！"
+        }
+      ]
+    },
+    {
+      "id": "T261",
+      "timeline": "Revised current life",
+      "kind": "opening / report",
+      "event": "MuBai inheritance visit",
+      "constraint": "Eight days to opening; news reported three days later; opening more than half a month. Avoid treating reported events as repeated events.",
+      "evidence_status": "Source checked; chronological scopes distinguished",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 370,
+          "paragraph": 10,
+          "file": "OEBPS/Text/chapter378.html",
+          "text": "八日之后……"
+        },
+        {
+          "chapter": 370,
+          "paragraph": 24,
+          "file": "OEBPS/Text/chapter378.html",
+          "text": "又三日之后，这才有消息传来。"
+        },
+        {
+          "chapter": 370,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter378.html",
+          "text": "这一次三王传承的开启，持续了大半个月。"
+        }
+      ]
+    },
+    {
+      "id": "T262",
+      "timeline": "Revised current life",
+      "kind": "overlapping recap",
+      "event": "Hidden cultivation and mountain control",
+      "constraint": "Several months/two openings, warning one month earlier, mountain held over half a year. Different anchors overlap; not an additive calendar sum.",
+      "evidence_status": "Source checked; chronological scopes distinguished",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 371,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter379.html",
+          "text": "“你居然还喝得下酒？如今已经过了数月，三王传承已经连续开启了两次。铁慕白控制了三叉山，赶走了所有的魔道蛊师。这几个月来，我们潜伏在火炭山上，就这样望着吗？”白凝冰不满地道。"
+        },
+        {
+          "chapter": 372,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter381.html",
+          "text": "“最关键的是，三王传承开启的时间越来越短，三道光柱也越来越弱。看来真像小兽王一个月前说的，这个蛊仙福地正在衰败，过不了多久就会彻底毁灭了。”"
+        },
+        {
+          "chapter": 373,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter382.html",
+          "text": "铁慕白镇压三叉山大半年后，终于引来魔道的宿敌。但同样是五转巅峰的巫鬼，却不敌后出道的铁慕白。"
+        }
+      ]
+    },
+    {
+      "id": "T263",
+      "timeline": "Ren Zu legend",
+      "kind": "death / separate history",
+      "event": "TaiRiYangMang dies",
+      "constraint": "Legendary episode not current elapsed time. Do not convert fantasy wings into ordinary aeronautics.",
+      "evidence_status": "Source checked; chronological scopes distinguished",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 371,
+          "paragraph": 63,
+          "file": "OEBPS/Text/chapter379.html",
+          "text": "最终，他砸在地上，摔得粉身碎骨。"
+        },
+        {
+          "chapter": 371,
+          "paragraph": 64,
+          "file": "OEBPS/Text/chapter379.html",
+          "text": "人祖的大儿子，就这样一命呜呼了。"
+        }
+      ]
+    },
+    {
+      "id": "T264",
+      "timeline": "Character backstory",
+      "kind": "career milestones",
+      "event": "MuBai ages and rivalry",
+      "constraint": "After42 and before50 atFourpeak are compatible. Earlier50/80/100-plus rivalry intervals need anchor analysis, not blind addition.",
+      "evidence_status": "Source checked; chronological scopes distinguished",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 372,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter381.html",
+          "text": "“巫鬼，我刚刚出道时，你就已经是成名高手。那时候，我遇到你，必定绕道走。但五十年后，我能从你的手中逃得性命。八十年后，你奈何不住我。一百多年后，你败在我的手中。如今又过了十几年，到了今天，你要把命交给我了。”"
+        },
+        {
+          "chapter": 374,
+          "paragraph": 44,
+          "file": "OEBPS/Text/chapter383.html",
+          "text": "铁慕白笑了一声，俯视着脚下的山猿，淡淡地开口道：“金针蛊配合起雾蛊，就能形成金雾。这金雾看似飘渺虚弱，但实际上攻击极其强悍，尤其擅长破除蛊师的防御。我二十八岁时，行走南疆，凭借此招纵横陆川江一带。”"
+        },
+        {
+          "chapter": 374,
+          "paragraph": 45,
+          "file": "OEBPS/Text/chapter383.html",
+          "text": "铁慕白顿了顿，又接着道：“金针蛊再搭配操偶蛊，就能控制生灵躯体。我四十二岁后，修行到四转巅峰，结束闭关，开始试剑天下。来到铁幕山时，遭到魔道一伙山贼，共五十多位蛊师围攻。凭借此招，令其中三十八位反水，最终将其一网打尽，为民除害。”"
+        },
+        {
+          "chapter": 374,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter383.html",
+          "text": "老族长是甲等资质，刚刚修行时就崭露头角，成为当时铁家的第一新星。而他也不负众望，在五十岁之前，就成为四转巅峰。"
+        }
+      ]
+    },
+    {
+      "id": "T265",
+      "timeline": "Revised current life",
+      "kind": "training / aftermath",
+      "event": "Half month after Five battle",
+      "constraint": "Needle tactics take7–8days; lecture more than half a shichen. Neither equals whole mentorship length.",
+      "evidence_status": "Source checked; chronological scopes distinguished",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 374,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter383.html",
+          "text": "半个月后。"
+        },
+        {
+          "chapter": 374,
+          "paragraph": 12,
+          "file": "OEBPS/Text/chapter383.html",
+          "text": "这四种战术搭配，铁若男前后只花费了七八天，就已经演练成熟。并以此在实战中，独自击败了一支近千头的山猿群。"
+        },
+        {
+          "chapter": 374,
+          "paragraph": 22,
+          "file": "OEBPS/Text/chapter383.html",
+          "text": "就在半个月前，这位铁慕白老人，以一敌二，大战魔道两位五转强者。"
+        },
+        {
+          "chapter": 374,
+          "paragraph": 66,
+          "file": "OEBPS/Text/chapter383.html",
+          "text": "大半个时辰之后，铁慕白传授完毕：“好了，你还有什么不明白的地方，可以问问我。”"
+        }
+      ]
+    },
+    {
+      "id": "T266",
+      "timeline": "Parallel Central Continent",
+      "kind": "actual assistance / historic use",
+      "event": "Soul support begins halfway",
+      "constraint": "375 actual halfway intervention. First immortalGu use80years earlier, secondnow; no calendar date for final climb success.",
+      "evidence_status": "Source checked; chronological scopes distinguished",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 375,
+          "paragraph": 18,
+          "file": "OEBPS/Text/chapter384.html",
+          "text": "“终于……爬到了半山腰了。”方正喘着粗气，满头的汗滴滚落下来。"
+        },
+        {
+          "chapter": 375,
+          "paragraph": 23,
+          "file": "OEBPS/Text/chapter384.html",
+          "text": "说完这话，方正就感到，一股无形的力量，传达到他的魂魄最深处。"
+        },
+        {
+          "chapter": 375,
+          "paragraph": 44,
+          "file": "OEBPS/Text/chapter384.html",
+          "text": "它是消耗类的蛊，只能动用三次。三次之后，就会化为乌有。"
+        },
+        {
+          "chapter": 375,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter384.html",
+          "text": "“鹤风扬八十年前，动用过一次我素蛊，这一次是第二次动用。也就是说，他手中的我素蛊，只能再催动最后一次了。他花费这么大的代价，只是换取一个竞争传承的优势而已。”"
+        }
+      ]
+    },
+    {
+      "id": "T267",
+      "timeline": "Revised current life",
+      "kind": "arrival anchors",
+      "event": "AdditionalFive arrivals",
+      "constraint": "One-month, more-than-one-month and two-month transitions may share anchors. Further8days afterWu explicit. Do not certify an exact grand total. SixFive present at376.",
+      "evidence_status": "Source checked; chronological scopes distinguished",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 375,
+          "paragraph": 70,
+          "file": "OEBPS/Text/chapter384.html",
+          "text": "李飞乐只是一个引子，接下来的一个月里，陆续有成名的蛊师登上三叉山。"
+        },
+        {
+          "chapter": 375,
+          "paragraph": 76,
+          "file": "OEBPS/Text/chapter384.html",
+          "text": "一个多月后，三叉山上迎来第四位五转蛊师。"
+        },
+        {
+          "chapter": 375,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter384.html",
+          "text": "两个月后，武家的武阑珊赶来。"
+        },
+        {
+          "chapter": 375,
+          "paragraph": 82,
+          "file": "OEBPS/Text/chapter384.html",
+          "text": "此后又过了八天，魔道中名扬南疆的仇九，出现在三叉山的山脚，同样引起了轰动。"
+        },
+        {
+          "chapter": 376,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter385.html",
+          "text": "“黑白双煞来了又怎样？今时不同往日了，现在的三叉山上，五转蛊师就有六位！他们俩，都是区区四转蛊师，翻不起什么大浪。”"
+        }
+      ]
+    },
+    {
+      "id": "T268",
+      "timeline": "Former life / current life",
+      "kind": "selection comparison",
+      "event": "Earlier rescue than remembered failed inheritance",
+      "constraint": "Former applicants and destruction are not current events. Present spirit rescue followsnear-death, not confirmed death/revival.",
+      "evidence_status": "Source checked; chronological scopes distinguished",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 377,
+          "paragraph": 7,
+          "file": "OEBPS/Text/chapter386.html",
+          "text": "陷入重重包围，已然濒死昏迷的方源，就这样突然消失不见。留下一地惊愕至极的红蛋人。"
+        },
+        {
+          "chapter": 377,
+          "paragraph": 19,
+          "file": "OEBPS/Text/chapter386.html",
+          "text": "他此番主动寻死，等若是舍弃春秋蝉不用，仅凭心中猜测和前世的情报，风险自然极大。可以说是，一失足便成千古恨。但魔道中人，向来勇往直前，最擅长的就是孤注一掷。如今方源成功到达大殿，所有的冒险都是值得的。"
+        },
+        {
+          "chapter": 377,
+          "paragraph": 70,
+          "file": "OEBPS/Text/chapter386.html",
+          "text": "前世，三王传承开启，地灵苦苦守候，却没有等到有缘之人。"
+        },
+        {
+          "chapter": 377,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter386.html",
+          "text": "到了中后期时，地灵这才等到机会，挪移了一位合格的，濒死的力道蛊师。"
+        },
+        {
+          "chapter": 377,
+          "paragraph": 81,
+          "file": "OEBPS/Text/chapter386.html",
+          "text": "但那时，仙元消耗一空，地灵也已经消亡，炼蛊自然是失败告终。"
+        }
+      ]
+    },
+    {
+      "id": "T269",
+      "timeline": "Revised current life",
+      "kind": "internal work / sleep",
+      "event": "Five days refining plus one day sleeping",
+      "constraint": "6inside days=2outside days at current3×. This does not date all later killings exactly.",
+      "evidence_status": "Source checked; chronological scopes distinguished",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 378,
+          "paragraph": 107,
+          "file": "OEBPS/Text/chapter387.html",
+          "text": "他这番炼蛊，前后共耗去五天五夜。期间几乎不眠不休，一心多用，心神憔悴不堪，已经疲累到极致。"
+        },
+        {
+          "chapter": 378,
+          "paragraph": 108,
+          "file": "OEBPS/Text/chapter387.html",
+          "text": "这一场觉，足足睡了一天一夜，方源苏醒过来。"
+        },
+        {
+          "chapter": 380,
+          "paragraph": 86,
+          "file": "OEBPS/Text/chapter389.html",
+          "text": "“福地中的光阴流速，是外界的三倍，更加快春秋蝉的恢复速度。我得抓紧时间，尽快地炼制出第二空窍蛊。有了第二空窍，就能极大地缓解春秋蝉带来的压力！”"
+        }
+      ]
+    },
+    {
+      "id": "T270",
+      "timeline": "Revised current life",
+      "kind": "ordered deaths",
+      "event": "Six Five-master census",
+      "constraint": "MuBai→KuMo→WuGui→WuLanShan→WangXiao→QiuJiu. Yun isFour and killedbyBai. Qiu suicide then remainsdestroyed. SR165 records discrepant summaries.",
+      "evidence_status": "Source checked; chronological scopes distinguished",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 378,
+          "paragraph": 119,
+          "file": "OEBPS/Text/chapter387.html",
+          "text": "铁慕白被岩鳄甩尾，脑袋像个西瓜，当场被抽爆——"
+        },
+        {
+          "chapter": 380,
+          "paragraph": 31,
+          "file": "OEBPS/Text/chapter389.html",
+          "text": "堂堂的骷魔，一代枭雄，老资格的魔道大高手，就这样死了。"
+        },
+        {
+          "chapter": 380,
+          "paragraph": 66,
+          "file": "OEBPS/Text/chapter389.html",
+          "text": "但最终，他在半途中就失去了一切的生机。"
+        },
+        {
+          "chapter": 381,
+          "paragraph": 49,
+          "file": "OEBPS/Text/chapter390.html",
+          "text": "说完这话，她的气息消散至无，失去了生命。"
+        },
+        {
+          "chapter": 382,
+          "paragraph": 81,
+          "file": "OEBPS/Text/chapter391.html",
+          "text": "“我不久后还要炼蛊，可不想遭到你的围攻啊。”方源叹息一声，痛下杀手，斩杀了王逍。"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 25,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "说完这话，他就咬舌自尽！"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 59,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "“不过今天为了你，我倒是可以破例一回。”方源面色冷酷，无情地出手，很快就将仇九的尸体斩成肉泥。"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "他犹豫了一下，还是不放心，又放了一把火，将这滩血泥烧成灰烬。"
+        }
+      ]
+    },
+    {
+      "id": "T271",
+      "timeline": "Revised current life",
+      "kind": "cultivation / offpage progress",
+      "event": "FY nowFourupper",
+      "constraint": "379 comparison and383 explicit selfassessment establish actualFourupper. Interveningmonths allowprogress; not justNineEyeessence and notaFivebreakthrough.",
+      "evidence_status": "Source checked; chronological scopes distinguished",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 379,
+          "paragraph": 5,
+          "file": "OEBPS/Text/chapter388.html",
+          "text": "五转巅峰和四转高阶之间，差距巨大。这样庞大的真元海，足有九成八，就是一百个方源也比不上。"
+        },
+        {
+          "chapter": 383,
+          "paragraph": 31,
+          "file": "OEBPS/Text/chapter392.html",
+          "text": "“我的修为，虽然上涨到四转高阶，修行速度惊人。但在这样的大舞台上，还是薄弱了，无法和这些五转蛊师媲美啊。若是有前世六转的修为，不管来多少五转，都尽数杀了，如屠猪狗！”方源心中暗暗叹息。"
+        }
+      ]
+    },
+    {
+      "id": "T272",
+      "timeline": "Character habit / former life",
+      "kind": "recurrence not elapsed",
+      "event": "Wang sleep and altered future",
+      "constraint": "Threeshichen≈sixhours daily; notthreehours orpresentwait. His laterYitian role belongs topreviouslife, nowchanged.",
+      "evidence_status": "Source checked; chronological scopes distinguished",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 382,
+          "paragraph": 75,
+          "file": "OEBPS/Text/chapter391.html",
+          "text": "他亲自设计了“冰水床”。这种床人躺上去，只要每天睡满三个时辰，整个床就会沉入到下面的冰水当中。"
+        },
+        {
+          "chapter": 382,
+          "paragraph": 76,
+          "file": "OEBPS/Text/chapter391.html",
+          "text": "王逍就睡在这样的床上，每天只休息三个时辰。他激励自己，克己奋发，极为勤奋努力。除去吃饭睡觉拉屎，其他的时间他都用来修行。"
+        },
+        {
+          "chapter": 382,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter391.html",
+          "text": "在方源前世的记忆里，王逍后来加入义天山，打杀了许多正道高手，凶焰极盛，甚至一度想要威逼，夺得群魔之首的位置。"
+        },
+        {
+          "chapter": 382,
+          "paragraph": 81,
+          "file": "OEBPS/Text/chapter391.html",
+          "text": "“我不久后还要炼蛊，可不想遭到你的围攻啊。”方源叹息一声，痛下杀手，斩杀了王逍。"
+        }
+      ]
+    },
+    {
+      "id": "T273",
+      "timeline": "Blessed-land history",
+      "kind": "rate change",
+      "event": "Originalsixfold/currentthreefold",
+      "constraint": "383 expressly separates former6× fromcurrent3×. Landareaalsoeroded. NoapplyHu5× here.",
+      "evidence_status": "Source checked; chronological scopes distinguished",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 383,
+          "paragraph": 44,
+          "file": "OEBPS/Text/chapter392.html",
+          "text": "“从太古起，蛊师中就有两大流派，分别是宇道、宙道。宇和宙，是构成天地的基础。其中，宇代表上下左右，宙表示古往今来。就拿我的福地来讲，全盛时，宇上有九百万亩地盘。宙上有六倍光阴流速。”地灵道。"
+        },
+        {
+          "chapter": 383,
+          "paragraph": 47,
+          "file": "OEBPS/Text/chapter392.html",
+          "text": "在全盛状态时，福地中的光阴是外界天地的六倍。在福地六天，外界就是一天。"
+        },
+        {
+          "chapter": 383,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter392.html",
+          "text": "当然，到了现在，福地衰弱，不仅地盘被消磨了巨大多数，而且光阴流速也只有三倍了。"
+        }
+      ]
+    },
+    {
+      "id": "T274",
+      "timeline": "Former life / current life",
+      "kind": "revival histories",
+      "event": "Qiu earlier resurrection and present destruction",
+      "constraint": "FormerYitian throatkill/revival precedes finalexecution. Currentdeath/remainsdestruction isdifferent branch; noactualrevivalby385.",
+      "evidence_status": "Source checked; chronological scopes distinguished",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 383,
+          "paragraph": 27,
+          "file": "OEBPS/Text/chapter392.html",
+          "text": "义天山被正道攻克后，仇九被俘，武家族长怜惜他的才华，想要招揽他。但仇九拒不受降，痛声咒骂商燕飞以及素手医师，暴露出一段陈年恩怨，最终被恼羞成怒的商燕飞斩杀当场。"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 53,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "方源前世，他在义天山大战的中期，被人割喉暗杀。但过不了多久后，他就重新复活过来，令正魔两道都十分惊异。"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "遗生蛊是五转消耗蛊，只要蛊师死后遗体大致保存得当，只消过片刻功夫，遗体渐渐复原，蛊师就能重新活过来。"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 56,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "虽然他身处福地，遗生蛊种在身上的法则力量被天地压制，暂时无法作用。但是只要福地渐渐崩溃，压制减弱，遗生蛊的力量就会重新激活，令其重生。"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 59,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "“不过今天为了你，我倒是可以破例一回。”方源面色冷酷，无情地出手，很快就将仇九的尸体斩成肉泥。"
+        },
+        {
+          "chapter": 385,
+          "paragraph": 60,
+          "file": "OEBPS/Text/chapter394.html",
+          "text": "他犹豫了一下，还是不放心，又放了一把火，将这滩血泥烧成灰烬。"
+        }
+      ]
+    },
+    {
+      "id": "T275",
+      "timeline": "Pre-third-rebirth branch",
+      "kind": "trial / death",
+      "event": "Wu at48; twenty-third opponent",
+      "constraint": "Wu killed before seeingBai. Trial index and human-opponent count differ; neither is a day count.",
+      "evidence_status": "Source checked; branch and viewpoint labelled",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 386,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter395.html",
+          "text": "“已经是第四十八关了。”武神通心中默默计算着。"
+        },
+        {
+          "chapter": 386,
+          "paragraph": 18,
+          "file": "OEBPS/Text/chapter395.html",
+          "text": "“数一数的话，接下来的这个对手，应该是我打击的第二十三人吧。哼哼，碰到我算你倒霉。”"
+        },
+        {
+          "chapter": 386,
+          "paragraph": 96,
+          "file": "OEBPS/Text/chapter395.html",
+          "text": "他的脑袋被捏爆了。"
+        },
+        {
+          "chapter": 387,
+          "paragraph": 2,
+          "file": "OEBPS/Text/chapter396.html",
+          "text": "可怜武神通，堂堂四转巅峰蛊师，事到临头，连白凝冰一面都未见到。"
+        }
+      ]
+    },
+    {
+      "id": "T276",
+      "timeline": "Pre-third-rebirth branch",
+      "kind": "advancement / elapsed months",
+      "event": "ZhangFourupper afterFourmiddle",
+      "constraint": "375 precedes intervening months.387upper need not be a mistake; no precise promotion date supplied.",
+      "evidence_status": "Source checked; branch and viewpoint labelled",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 375,
+          "paragraph": 71,
+          "file": "OEBPS/Text/chapter384.html",
+          "text": "有奴道蛊师章三三，在三转巅峰时，就斩杀了四转蛊师，如今是四转中阶，人称驭兽大师。"
+        },
+        {
+          "chapter": 375,
+          "paragraph": 76,
+          "file": "OEBPS/Text/chapter384.html",
+          "text": "一个多月后，三叉山上迎来第四位五转蛊师。"
+        },
+        {
+          "chapter": 375,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter384.html",
+          "text": "两个月后，武家的武阑珊赶来。"
+        },
+        {
+          "chapter": 387,
+          "paragraph": 16,
+          "file": "OEBPS/Text/chapter396.html",
+          "text": "章三三只是一位四转高阶蛊师，比易火、孔日天之流，还差一个档次。"
+        }
+      ]
+    },
+    {
+      "id": "T277",
+      "timeline": "Pre-third-rebirth branch",
+      "kind": "calendar frame",
+      "event": "October19 and eighteen days",
+      "constraint": "388 gives18days sinceLong andOctober19;389 runs20–24. The calendar is requested byFY, but whether it tracks outside dates or local counted days remains unproved. Do not add parallelHu time.",
+      "evidence_status": "Source checked; branch and viewpoint labelled",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 388,
+          "paragraph": 77,
+          "file": "OEBPS/Text/chapter397.html",
+          "text": "此时距离方源斩杀龙青天，已经过去了十八天。"
+        },
+        {
+          "chapter": 388,
+          "paragraph": 81,
+          "file": "OEBPS/Text/chapter397.html",
+          "text": "“只剩下五份仙元，但是炼蛊才进行了三分之二。地灵，今天是几月几号？”方源面色凝重，又问道。"
+        },
+        {
+          "chapter": 388,
+          "paragraph": 82,
+          "file": "OEBPS/Text/chapter397.html",
+          "text": "“按照你说的历法，已经是十月十九日。”"
+        },
+        {
+          "chapter": 388,
+          "paragraph": 83,
+          "file": "OEBPS/Text/chapter397.html",
+          "text": "“十月十九日，按照我的计划，再过五天，就是炼制第二空窍蛊的最后一步。十月二十四号……咦？历史上的这一天，不就是那凤金煌得胜，继承狐仙福地的日子么。”方源忽然想到了凤金煌。"
+        },
+        {
+          "chapter": 389,
+          "paragraph": 1,
+          "file": "OEBPS/Text/chapter398.html",
+          "text": "十月二十日。"
+        },
+        {
+          "chapter": 389,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter398.html",
+          "text": "十月二十一日。"
+        },
+        {
+          "chapter": 389,
+          "paragraph": 19,
+          "file": "OEBPS/Text/chapter398.html",
+          "text": "十月二十二日。"
+        },
+        {
+          "chapter": 389,
+          "paragraph": 30,
+          "file": "OEBPS/Text/chapter398.html",
+          "text": "十月二十三日。"
+        },
+        {
+          "chapter": 389,
+          "paragraph": 58,
+          "file": "OEBPS/Text/chapter398.html",
+          "text": "十月二十四日。"
+        }
+      ]
+    },
+    {
+      "id": "T278",
+      "timeline": "Both branches, separately",
+      "kind": "sleep schedules",
+      "event": "Half shichen versus three shichen",
+      "constraint": "First branch about1hour daily; revised branch at least6hours daily under conventional2hour shichen. These are habits, not totals to add to elapsed plot time.",
+      "evidence_status": "Source checked; branch and viewpoint labelled",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 388,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter397.html",
+          "text": "方源平均每天，只睡半个时辰，疯狂地压榨自己的潜力。"
+        },
+        {
+          "chapter": 388,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter397.html",
+          "text": "但过了不到半个时辰，他就被地灵准时唤醒。"
+        },
+        {
+          "chapter": 401,
+          "paragraph": 47,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "和上一世相比，他此次重生以来，节省了大量的时间。又没有春秋蝉的压力，显得从容得多。"
+        },
+        {
+          "chapter": 401,
+          "paragraph": 48,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "原先他每天只睡半个时辰，疯狂地炼蛊，压榨潜力。如今他至少能睡三个时辰，按部就班，有条不紊。"
+        }
+      ]
+    },
+    {
+      "id": "T279",
+      "timeline": "Pre-third-rebirth branch",
+      "kind": "backstory disclosure",
+      "event": "Bai treatment and staged siege",
+      "constraint": "IceCrystal choice, deliberateYanTu loss, death/revival oath escape and priorTie alliance disclosed396. Narrator exposition is not automatically all dialogue heard byFY.",
+      "evidence_status": "Source checked; branch and viewpoint labelled",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 396,
+          "paragraph": 18,
+          "file": "OEBPS/Text/chapter405.html",
+          "text": "在商家城，白凝冰选择冰道。其中又有三大变身蛊，分别是霜妖蛊、雪女蛊、冰晶蛊。魏央曾经一度强烈建议白凝冰，选择雪女蛊。"
+        },
+        {
+          "chapter": 396,
+          "paragraph": 21,
+          "file": "OEBPS/Text/chapter405.html",
+          "text": "“呵呵，你想到了。”白凝冰笑出声来，“不错，我当初选择冰晶蛊，并非因为赌气。而是雪女蛊化身雪女，形象明显，无法隐瞒。但是化为冰晶，再加上冰爆蛊的话，却能营造出磅礴气象，极为类似北冥冰魄体的自爆。你看刚刚，是不是把你瞒过去了？”"
+        },
+        {
+          "chapter": 396,
+          "paragraph": 43,
+          "file": "OEBPS/Text/chapter405.html",
+          "text": "那时，白凝冰和炎突对战，只差一招，遗憾败北，身受重伤，还失去了本命蛊。她就是去往素手医师处，接受的治疗，并在那里养伤。"
+        },
+        {
+          "chapter": 396,
+          "paragraph": 45,
+          "file": "OEBPS/Text/chapter405.html",
+          "text": "白凝冰淡淡一笑，蓝眸幽幽：“看来你也猜到了。没有错，我和炎突之战，是故意输掉的。一只本命蛊算不了什么，换回一次不让你怀疑的机会，不是很划算么？那时，我决定赌一次。”"
+        },
+        {
+          "chapter": 396,
+          "paragraph": 53,
+          "file": "OEBPS/Text/chapter405.html",
+          "text": "毒誓蛊一旦发作，就会让应誓者死亡。素手医师是治疗蛊师，解决的方法，就是故意让毒誓发作，蛊师死亡，毒誓消除，再让蛊师起死回生。"
+        },
+        {
+          "chapter": 396,
+          "paragraph": 54,
+          "file": "OEBPS/Text/chapter405.html",
+          "text": "“这个方法，等于是硬碰硬的拆解。绝大多数的治疗蛊师，就算是想到，也没法做到。我也是因为师承特殊，才能勉强可行。尽管如此，这当中也有三分之一的失败可能。一旦失败，就是死亡。你要想清楚了。”素手医师最后警告道。"
+        },
+        {
+          "chapter": 396,
+          "paragraph": 57,
+          "file": "OEBPS/Text/chapter405.html",
+          "text": "没有毒誓蛊的约束，白凝冰之后又暗中联系铁家，铁若男这才得知一切真相。"
+        },
+        {
+          "chapter": 396,
+          "paragraph": 61,
+          "file": "OEBPS/Text/chapter405.html",
+          "text": "“我们曾经设局，用铁柜蛊和化气蛊布置了场地，在那里会上演一场自爆的好戏，可结果你却迟迟不来救援。我只好带领手下干将，赶往三叉山，再做定计。”铁若男道。"
+        },
+        {
+          "chapter": 401,
+          "paragraph": 40,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "方源对白凝冰如何摆脱毒誓，一直心存疑问。就算是上一世，白凝冰也没有明说答案。现在方源知道了，估计就是这素手医师出手，帮助白凝冰摆脱了毒誓。"
+        }
+      ]
+    },
+    {
+      "id": "T280",
+      "timeline": "Pre-third-rebirth branch",
+      "kind": "death / completion / transformation",
+      "event": "Spirit dies;SecondAperture completed;Bai male",
+      "constraint": "394BaGui death precedes395 completion. Yang used395;396 confirms malebody. These states are later overwritten, not current405 endpoints.",
+      "evidence_status": "Source checked; branch and viewpoint labelled",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 394,
+          "paragraph": 75,
+          "file": "OEBPS/Text/chapter403.html",
+          "text": "说完这话，地灵霸龟的身体，渐渐变淡，变淡，最终彻底消失在空气中。"
+        },
+        {
+          "chapter": 394,
+          "paragraph": 76,
+          "file": "OEBPS/Text/chapter403.html",
+          "text": "它死了。"
+        },
+        {
+          "chapter": 395,
+          "paragraph": 95,
+          "file": "OEBPS/Text/chapter404.html",
+          "text": "阳蛊飞出去，落到白凝冰的身上，顿时阳气凛冽，一团元气漩涡形成，时隔多年，青茅山上曾经的一幕，再次重演！"
+        },
+        {
+          "chapter": 395,
+          "paragraph": 98,
+          "file": "OEBPS/Text/chapter404.html",
+          "text": "在他的努力之下，彩霞光辉终于凝固，形成第二空窍蛊！"
+        },
+        {
+          "chapter": 396,
+          "paragraph": 6,
+          "file": "OEBPS/Text/chapter405.html",
+          "text": "已经恢复男儿身的白凝冰，手持着冰刃把柄，面无表情地站在他的身后。"
+        }
+      ]
+    },
+    {
+      "id": "T281",
+      "timeline": "Pre-third-rebirth, parallelCentral",
+      "kind": "inheritance result",
+      "event": "Feng wins before rewind",
+      "constraint": "398 explicit summit victory.399biography gives申时两刻;current observation申时三刻, one-ke separation. Conventional gloss15:30/15:45 is not certified global time conversion.",
+      "evidence_status": "Source checked; branch and viewpoint labelled",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 398,
+          "paragraph": 79,
+          "file": "OEBPS/Text/chapter407.html",
+          "text": "最后，几乎是滚上了山巅。"
+        },
+        {
+          "chapter": 398,
+          "paragraph": 80,
+          "file": "OEBPS/Text/chapter407.html",
+          "text": "她成功了！"
+        },
+        {
+          "chapter": 398,
+          "paragraph": 81,
+          "file": "OEBPS/Text/chapter407.html",
+          "text": "这场争斗唯一的优胜者，狐仙福地新的主人！"
+        },
+        {
+          "chapter": 399,
+          "paragraph": 4,
+          "file": "OEBPS/Text/chapter408.html",
+          "text": "“申时三刻，这个时辰，凤金煌应该刚刚继承狐仙福地吧？”方源想着。"
+        },
+        {
+          "chapter": 399,
+          "paragraph": 8,
+          "file": "OEBPS/Text/chapter408.html",
+          "text": "第二个机缘，就是狐仙传承。在今日申时两刻，成功登顶。"
+        }
+      ]
+    },
+    {
+      "id": "T282",
+      "timeline": "Third rebirth transition",
+      "kind": "reset boundary",
+      "event": "Cicada third use returns toWang negotiation",
+      "constraint": "Do not add repeatedOctober24 periods as one linear history. SR173 recordsYun absorption-order problem around382p60/399p37/400p38.",
+      "evidence_status": "Source checked; branch and viewpoint labelled",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 399,
+          "paragraph": 17,
+          "file": "OEBPS/Text/chapter408.html",
+          "text": "方源悍然自爆！"
+        },
+        {
+          "chapter": 399,
+          "paragraph": 30,
+          "file": "OEBPS/Text/chapter408.html",
+          "text": "对于方源来讲，这已经是他第三次催动春秋蝉了。"
+        },
+        {
+          "chapter": 399,
+          "paragraph": 37,
+          "file": "OEBPS/Text/chapter408.html",
+          "text": "“慢着，慢着，一切都好商量。我可以答应你，将正确的路径告诉你，但是你必须保证我的生命安全。我身上就有一只毒誓蛊……”"
+        },
+        {
+          "chapter": 399,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter408.html",
+          "text": "耳边，熟悉的求饶声传来。方源循声低头望去，便看见脚下的王逍。"
+        },
+        {
+          "chapter": 399,
+          "paragraph": 51,
+          "file": "OEBPS/Text/chapter408.html",
+          "text": "这明显还是在福地中，脚下踩着的是王逍，身边还有一个尸体，就是云家的少族长云落天。"
+        },
+        {
+          "chapter": 400,
+          "paragraph": 38,
+          "file": "OEBPS/Text/chapter409.html",
+          "text": "杀了王逍之后，方源自然是取其蛊虫，又用兽力胎盘蛊，吞噬了他和云落天的空窍。"
+        }
+      ]
+    },
+    {
+      "id": "T283",
+      "timeline": "Post-third-rebirth branch",
+      "kind": "changed deaths / enslavement",
+      "event": "Wang/Long/Zhang dead;Qiu enslaved",
+      "constraint": "Long killedbeforepoison; Qiu notkilled. Do not import earlierWuShenTong death without current evidence. Feng remainsunenslaved.",
+      "evidence_status": "Source checked; branch and viewpoint labelled",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 400,
+          "paragraph": 34,
+          "file": "OEBPS/Text/chapter409.html",
+          "text": "“哼！”方源目光陡然变得凌厉，脚下用力一踩，咔嚓一下，将王逍的头颅踩得稀烂。"
+        },
+        {
+          "chapter": 400,
+          "paragraph": 53,
+          "file": "OEBPS/Text/chapter409.html",
+          "text": "片刻之后，龙青天惨死在方源的手中。"
+        },
+        {
+          "chapter": 400,
+          "paragraph": 55,
+          "file": "OEBPS/Text/chapter409.html",
+          "text": "现在，方源一重生，就立即动手。在龙青天进入那片薄弱地域之前，就利用天地伟力压制，不费吹灰之力将他干掉了。"
+        },
+        {
+          "chapter": 400,
+          "paragraph": 68,
+          "file": "OEBPS/Text/chapter409.html",
+          "text": "章三三还未反应过来，就遭到了方源的毒手，死于非命。"
+        },
+        {
+          "chapter": 401,
+          "paragraph": 17,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "“属下，拜见主人！”"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "“定仙游！他真的在炼制定仙游蛊吗？想不到我风天语，居然有幸能看到炼制仙蛊的场面啊！”这位炼蛊大师双膝一软，跪倒在地上，泪流满面！"
+        }
+      ]
+    },
+    {
+      "id": "T284",
+      "timeline": "Post-third-rebirth branch",
+      "kind": "repeated calendar date",
+      "event": "October24 again",
+      "constraint": "401 repeats the date in a replacement history. Qiu delaysattacks; poisonbreachprevented; originalthreeattackorderscannotbe addedacrossbranches.",
+      "evidence_status": "Source checked; branch and viewpoint labelled",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 401,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter410.html",
+          "text": "终于，十月二十四日再次到来。"
+        },
+        {
+          "chapter": 402,
+          "paragraph": 7,
+          "file": "OEBPS/Text/chapter411.html",
+          "text": "刹那间，整个福地动荡摇晃，一道巨大的漏洞形成，沟通内外，令蛊师进出畅通无阻！"
+        },
+        {
+          "chapter": 402,
+          "paragraph": 52,
+          "file": "OEBPS/Text/chapter411.html",
+          "text": "地灵分出多数心神，指挥狗群，按照方源的交代，一如前世的将群魔击退。"
+        },
+        {
+          "chapter": 402,
+          "paragraph": 74,
+          "file": "OEBPS/Text/chapter411.html",
+          "text": "剧烈的爆炸，风浪四卷，刺眼逼人的白光消散后，原本笼罩在山丘的迷雾，也随之消散。"
+        },
+        {
+          "chapter": 404,
+          "paragraph": 39,
+          "file": "OEBPS/Text/chapter413.html",
+          "text": "杀招——天瀑光河！"
+        }
+      ]
+    },
+    {
+      "id": "T285",
+      "timeline": "Post-third-rebirth branch",
+      "kind": "changed outcome",
+      "event": "Bai fakeexplosion exposed beforeYanguse",
+      "constraint": "Yangrecalled403p70. Bai remainsfemale; noactual100%aptitude orexplosionproved. Forty-yearembryo preserved, notcompletedSecondAperture.",
+      "evidence_status": "Source checked; branch and viewpoint labelled",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 403,
+          "paragraph": 69,
+          "file": "OEBPS/Text/chapter412.html",
+          "text": "“该死！”方源大声地咒骂一声，猛地站起身来，调出阳蛊飞向白凝冰。"
+        },
+        {
+          "chapter": 403,
+          "paragraph": 70,
+          "file": "OEBPS/Text/chapter412.html",
+          "text": "但飞到一半，阳蛊猛地折回，落到方源的右手中。"
+        },
+        {
+          "chapter": 403,
+          "paragraph": 73,
+          "file": "OEBPS/Text/chapter412.html",
+          "text": "先前的第二空窍伪蛊，只能存在七天七夜，并不稳定。而这只新蛊，已经能够长存四十年！"
+        },
+        {
+          "chapter": 403,
+          "paragraph": 78,
+          "file": "OEBPS/Text/chapter412.html",
+          "text": "这次白凝冰再无法演下去，恢复肉身，带着一脸的震惊和浓重的疑惑，紧紧地盯住方源：“你怎么！”"
+        }
+      ]
+    },
+    {
+      "id": "T286",
+      "timeline": "Post-third-rebirth branch, parallelCentral",
+      "kind": "teleport / inheritance interception",
+      "event": "FY reachesHu summitfirst",
+      "constraint": "FixedTravelpoweredbyspirit; clothesleftbehind. FYarrivesbeforeFeng summitcompletion inthisbranch. Landspiritaddressesmaster; no406eventsread.",
+      "evidence_status": "Source checked; branch and viewpoint labelled",
+      "dependency": "Full-novel reconciliation outstanding; no invented dates",
+      "sources": [
+        {
+          "chapter": 405,
+          "paragraph": 103,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "方源朗笑一声：“定仙游蛊，能令蛊师纵横天下，去任何一个想要去的地方。但它乃是仙蛊，还需要你帮忙，用仙元来催动。”"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 104,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "霸龟：“这是当然的。铜鼎中还残留着一些仙元，你想要去哪里，就先在脑海中想好了。你最好选个安全的地方，而且要注意，你脑海中的记忆画面，和现实地点要相差无几，不能差别太大。”"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 124,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "仙元灌输到定仙游蛊当中，碧芒一闪即逝，带着方源消失在空中。"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 125,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "只剩下他的衣裤，如断了线的风筝，从高空中飘落下来。"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 166,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "然后她奋起余力，正要把沉重的身躯也拖上来。但就在这时！"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 168,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "玉光乍现，山顶处陡然出现一人。"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 177,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "看来《凤金煌传》中，记载的时间还是靠谱的。自己先她一步登顶，这场竞争不禁仙蛊，按照规矩，那自己就是狐仙福地之主！"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 184,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "“小狐仙，还不叫主人？”"
+        },
+        {
+          "chapter": 405,
+          "paragraph": 185,
+          "file": "OEBPS/Text/chapter415.html",
+          "text": "“主，主人……”狐仙女童望着方源，都惊呆了。"
         }
       ]
     }

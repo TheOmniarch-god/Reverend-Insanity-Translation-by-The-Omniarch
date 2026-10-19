@@ -1,0 +1,88 @@
+{
+  "status": "Complete",
+  "endpoint": 385,
+  "next_unread": 386,
+  "segments": [
+    {
+      "chapters": [
+        366,
+        367
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 132
+    },
+    {
+      "chapters": [
+        368,
+        369
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 174
+    },
+    {
+      "chapters": [
+        370,
+        371
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 156
+    },
+    {
+      "chapters": [
+        372,
+        373
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 163
+    },
+    {
+      "chapters": [
+        374,
+        375
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 163
+    },
+    {
+      "chapters": [
+        376,
+        377
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 192
+    },
+    {
+      "chapters": [
+        378,
+        379
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 199
+    },
+    {
+      "chapters": [
+        380,
+        381
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 175
+    },
+    {
+      "chapters": [
+        382,
+        383
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 151
+    },
+    {
+      "chapters": [
+        384,
+        385
+      ],
+      "status": "Full paragraph sequences read; untruncated",
+      "paragraphs": 134
+    }
+  ],
+  "note": "Actual sequential reading; extraction alone not counted. No invented timestamps."
+}
