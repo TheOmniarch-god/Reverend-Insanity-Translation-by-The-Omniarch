@@ -267,8 +267,8 @@
 </section>
 
 
-<!-- ============ ENCYCLOPEDIA (above Ren Zu) ============ -->
-<section class="encyclopedia-section" style="padding: 32px 0 0; background: var(--bg);">
+<!-- ============ ENCYCLOPEDIA DISABLED ============ -->
+<section class="encyclopedia-section" style="padding: 32px 0 0; background: var(--bg); display:none;" aria-hidden="true">
   <div class="wrap">
     <div class="renzu-banner encyclopedia-banner reveal">
       <figure class="renzu-art-frame encyclopedia-art-frame">
@@ -278,7 +278,7 @@
       <div class="renzu-banner-content">
         <div class="renzu-kicker-row">
           <p class="portal-kicker">Encyclopedia · 蛊真人百科 · Curated by The Omniarch</p>
-          <span class="renzu-status-tag" style="background: var(--gold-bg); color: var(--gold); border: 1px solid rgba(168,121,26,0.22);">Live</span>
+          <span class="renzu-status-tag" style="background: var(--gold-bg); color: var(--gold); border: 1px solid rgba(168,121,26,0.22);">Disabled</span>
         </div>
         <h2 class="portal-title">Reverend Insanity Encyclopedia</h2>
         <p class="portal-desc">The encyclopedia of this translation — searchable, A to Z, timeline, featured Spring Autumn Cicada. Our lore will be strictly in rhyme with translation, with spotlight for trending community stuff.</p>
@@ -288,7 +288,7 @@
           <li><span>✦</span> Curated lore — in rhyme with translation</li>
         </ul>
         <div class="renzu-banner-action" style="display:flex; gap:10px; flex-wrap:wrap;">
-          <a class="btn btn-primary" href="https://www.reverendinsanity.com.ng" target="_blank" rel="noopener" style="background: var(--gold);">Open Encyclopedia ↗</a>
+          <a class="btn btn-primary" href="#" onclick="event.preventDefault(); alert('Encyclopedia access disabled'); return false;" title="Encyclopedia access disabled" style="opacity:0.5; pointer-events:none; background: var(--gold);" target="_blank" rel="noopener" style="background: var(--gold);">Open Encyclopedia ↗</a>
           <a class="btn btn-ghost" href="/notes">Open Notes · First Appearance ↗</a>
         </div>
       </div>
