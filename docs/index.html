@@ -268,7 +268,7 @@
 
 
 <!-- ============ ENCYCLOPEDIA DISABLED ============ -->
-<section class="encyclopedia-section" style="padding: 32px 0 0; background: var(--bg); display:none;" aria-hidden="true">
+<section class="encyclopedia-section" style="padding: 32px 0 0; background: var(--bg);">
   <div class="wrap">
     <div class="renzu-banner encyclopedia-banner reveal">
       <figure class="renzu-art-frame encyclopedia-art-frame">
@@ -278,18 +278,19 @@
       <div class="renzu-banner-content">
         <div class="renzu-kicker-row">
           <p class="portal-kicker">Encyclopedia · 蛊真人百科 · Curated by The Omniarch</p>
-          <span class="renzu-status-tag" style="background: var(--gold-bg); color: var(--gold); border: 1px solid rgba(168,121,26,0.22);">Disabled</span>
+          <span class="renzu-status-tag" style="background: rgba(220,38,38,0.12); color: #dc2626; border: 1px solid rgba(220,38,38,0.22);">🔒 Inaccessible</span>
         </div>
         <h2 class="portal-title">Reverend Insanity Encyclopedia</h2>
-        <p class="portal-desc">The encyclopedia of this translation — searchable, A to Z, timeline, featured Spring Autumn Cicada. Our lore will be strictly in rhyme with translation, with spotlight for trending community stuff.</p>
+        <p class="portal-desc">The encyclopedia of this translation — searchable, A to Z, timeline, featured Spring Autumn Cicada. Our lore will be strictly in rhyme with translation, with spotlight for trending community stuff. <strong style="color:#dc2626;">Currently inaccessible.</strong></p>
         <ul class="renzu-perks">
           <li><span>✦</span> 8 chapters typeset · 44 Ren Zu parables</li>
           <li><span>✦</span> Searchable · Timeline · Featured Articles</li>
           <li><span>✦</span> Curated lore — in rhyme with translation</li>
         </ul>
-        <div class="renzu-banner-action" style="display:flex; gap:10px; flex-wrap:wrap;">
-          <a class="btn btn-primary" href="#" onclick="event.preventDefault(); alert('Encyclopedia access disabled'); return false;" title="Encyclopedia access disabled" style="opacity:0.5; pointer-events:none; background: var(--gold);" target="_blank" rel="noopener" style="background: var(--gold);">Open Encyclopedia ↗</a>
+        <div class="renzu-banner-action" style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
+          <button class="btn btn-primary" disabled title="Encyclopedia access disabled — inaccessible" style="opacity:0.5; cursor:not-allowed; background: var(--gold);">🔒 Encyclopedia — Inaccessible</button>
           <a class="btn btn-ghost" href="/notes">Open Notes · First Appearance ↗</a>
+          <span style="font-size:13px; color:#dc2626; margin-left:8px;">⛔ Access restricted</span>
         </div>
       </div>
     </div>
