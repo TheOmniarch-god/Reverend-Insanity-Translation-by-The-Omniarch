@@ -1,0 +1,40 @@
+{
+ "batch": "039",
+ "chapters": "806-855",
+ "chapter_count": 50,
+ "source_check": "batch-039-source.json (rebuilt from EPUB; 50 chapters, 0 mismatches at build time)",
+ "reading_status": "complete (806-855); notes in batch-039-notes/reading-notes-806-855.md (838-855 summary-level, needs line-level recheck)",
+ "report_rows": 52,
+ "confidence_counts": {
+  "H": 6,
+  "M–H": 15,
+  "M": 8,
+  "M–L": 3,
+  "L–M": 7,
+  "L": 7,
+  "—": 1
+ },
+ "approved": 0,
+ "applied": 0,
+ "source_edits": 0,
+ "witness_collation": "Hetushu book 7640, pages 5346044-5346093 (ch806-855); automated token-level comparison in witness-collation-039.json; witness pages kept in /tmp only",
+ "witness_results": {
+  "witness shows candidate wording": 1,
+  "witness copies source wording": 36,
+  "context not found in witness (variant, segmentation, or watermark)": 2
+ },
+ "witness_candidates_checked": 39,
+ "workbook_rows": "added: proposal ledger SR-443 to SR-488 (46 entries); Read me proposals count updated",
+ "ledger_entries": "SR-443 to SR-488 (proposal-ledger.json and workbook)",
+ "docx": "Batch-039-Chapters-806-855.docx",
+ "chapter_completion_and_paragraph_register": "not extended (workbook still ends at chapter 685); noted as remaining gap",
+ "known_limits": [
+  "Batch 038 (756-805) and batch 036-037 workbook rows and ledger entries are not in the ledger (ledger jumped from SR-442 to SR-443).",
+  "Rows 8, 11, 12, 14, 26, 37 and 42 are queries pending a glyph or full-line check.",
+  "Witness pages are web copies; they copy the source wording for most candidates and do not confirm or reject them.",
+  "Chapter 806-855 notes for 838-855 are summary-level; a line-level recheck is pending.",
+  "Witness token 长恨蜘蛛群 (row 36): context not found in witness; variant or segmentation."
+ ],
+ "line_recheck_838_855": "Automated rare-pattern scan plus targeted reading; rows 48–52 added (SR-711 to SR-715); not a full every-line reread",
+ "ledger_ids_recheck": "SR-711 to SR-715"
+}

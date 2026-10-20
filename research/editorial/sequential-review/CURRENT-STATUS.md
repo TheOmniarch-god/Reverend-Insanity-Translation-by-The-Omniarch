@@ -1,7 +1,23 @@
-# Sequential review checkpoint: 665
+# Sequential review checkpoint: 955
 
-Completed 1–665 of 2334 (reading). Next unread: 666. 1,669 remain.
-Nothing approved or applied. Whole-novel reconciliation outstanding.
+Completed reading 1–955 of 2334. Next unread: 956. Nothing approved or applied. Whole-novel reconciliation outstanding.
+
+## Batches 037–041 (706–955): reports, ledger, DOCX, QA and witness collation done
+
+- Reports and DOCX: Batch-037-Chapters-706-755.md (39 rows), Batch-038-Chapters-756-805.md (35), Batch-039-Chapters-806-855.md (47), Batch-040-Chapters-856-905.md (73 after the full-line pass), Batch-041-Chapters-906-955.md (41). QA JSON for each batch (batch-037-qa.json to batch-041-qa.json).
+- Ledger: SR-001 to SR-672 (672 entries). Ranges: 037 = SR-634–672; 038 = SR-591–625; 039 = SR-443–488; 040 = SR-489–550 and SR-626–633; 041 = SR-551–590. Workbook Proposal ledger sheet and Read me match. Nothing approved or applied.
+- Witness (Hetushu book 7640): automated token-level collation in witness-collation-037.json to -041.json. Witness copies the source wording for most candidates (neither confirms nor rejects). Differences where the web copy matches the proposed wording: 039 row 1 (炼骨大会), 040 893 沈启元, 041 925 赤洪明 and 940 亲身父亲, 038 797 p73 反应. Recorded as web-copy differences only. Witness pages are kept in /tmp, not in the workspace (copyrighted).
+- Batch 040 full-line pass done (856 p10, 857 p79, 858 p29, 873 p70–72, 884, 887, 891, 905); new rows 65–72 (SR-626–633).
+- Batch 041 full-line checks done (SR-590 closed, no flag).
+- Corrections recorded: the 宝皇天 typo is at 735 p54 (earlier notes said 736). The 乐意 majority claim was wrong (乐水 is the majority, 58 vs 18).
+
+### Remaining gaps
+
+- Batch 036 (686–705): no notes, report, or ledger entries in the workspace. Needs a fresh reading (source: build with tmp/build_batch.py 686 705, but copy output first, then restore batch-040 source).
+- Workbook Chapter completion and Paragraph register still end at chapter 685 (686–955 not added).
+- Batch 040 truncated spans beyond those listed (for example 898 p82) still to check.
+- Batch 039 notes for 838–855 are summary-level; line-level recheck pending.
+- GitHub: new files are local only. Pushing needs a fresh token from the user.
 
 ## Batch 034 (646–665): reading, ledger, report, DOCX, QA, witness and workbook done
 

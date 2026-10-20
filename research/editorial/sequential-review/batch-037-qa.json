@@ -1,0 +1,41 @@
+{
+  "batch": "037",
+  "chapters": "706-755",
+  "chapter_count": 50,
+  "source_check": "batch-037-source.json (0 mismatches at build time)",
+  "reading_status": "complete (706-755): 706-728 in batch-037-working-notes.md; 729-755 in batch-037-notes/reading-notes-729-733.md (755 section present)",
+  "report_rows": 39,
+  "confidence_counts": {
+    "H (0.90)": 3,
+    "H (0.95)": 1,
+    "M (0.60)": 2,
+    "M–H (0.85)": 3,
+    "M–H (0.80)": 2,
+    "H": 2,
+    "M–H": 4,
+    "M": 6,
+    "L–M (0.30)": 1,
+    "L–M (0.40)": 2,
+    "L (0.30)": 2,
+    "L–M (0.50)": 1,
+    "L–M": 3,
+    "L": 6,
+    "M–L": 1
+  },
+  "approved": 0,
+  "applied": 0,
+  "source_edits": 0,
+  "witness_collation": "Hetushu book 7640 pages for ch706-755 (automated token-level comparison, witness-collation-037.json; pages kept in /tmp only)",
+  "witness_results": {
+    "witness copies source wording": 22
+  },
+  "witness_candidates_checked": 22,
+  "workbook_rows": "added: proposal ledger SR-634 to SR-672",
+  "docx": "Batch-037-Chapters-706-755.docx",
+  "known_limits": [
+    "Correction recorded: 宝皇天 typo is at 735 p54 (earlier notes said 736 p54).",
+    "Earlier claim that 乐意 is the majority form was wrong (see Q1).",
+    "UNVERIFIED: 长毛老祖 八转 (753 p18) and 楚度/凤九歌 前世 claim (755 p54).",
+    "Batch 036 (686-705) has no notes or report in the workspace; it remains undone."
+  ]
+}

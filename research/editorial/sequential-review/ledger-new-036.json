@@ -1,0 +1,800 @@
+[
+ {
+  "id": "SR-673",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 686,
+    "paragraph": 9,
+    "file": "",
+    "reference_text": "686 p9"
+   }
+  ],
+  "recommended_action": "Repair 并铺 to 冰瀑 (冰瀑神猿) (batch 036, row 1, source reading: 并铺上神猿)",
+  "rationale": "冰瀑神猿 is the higher-grade 上古 form (686 p7, 11, 21, 22, 32, 71; 688 p17). 701 p4 separates the lesser 冰刺神猿, so the names are distinct. 并铺 is a typo. Confidence H.",
+  "confidence": "H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "686 p7–71; 688 p17; 701 p4 (distinct 冰刺)",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch686): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-674",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 686,
+    "paragraph": 12,
+    "file": "",
+    "reference_text": "686 p12"
+   }
+  ],
+  "recommended_action": "Query: keep unless a clearer idiom is chosen (batch 036, row 2, source reading: 努力告吹)",
+  "rationale": "告吹 means 'fall through'; the phrase is understandable but unusual. No edit proposed. Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch686): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-675",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 686,
+    "paragraph": 61,
+    "file": "",
+    "reference_text": "686 p61"
+   }
+  ],
+  "recommended_action": "Repair to 违誓而亡 (batch 036, row 3, source reading: 应誓而亡)",
+  "rationale": "违誓 is the expected idiom (违誓 at 815 p41, 816 p60). 应誓 also appears at 725 p68 and 778 p78; decide those together. Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "725 p68; 778 p78 (应誓 check)",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch686): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-676",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 687,
+    "paragraph": 47,
+    "file": "",
+    "reference_text": "687 p47"
+   }
+  ],
+  "recommended_action": "Repair to 意志疯狂生产 (batch 036, row 4, source reading: 乐意疯狂生产)",
+  "rationale": "乐意 does not fit 'frenzied production'; 意志 fits. Single-line context. Check 乐意 uses in batch 036–041 before applying. Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "batch-wide 乐意 check",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch687): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-677",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 689,
+    "paragraph": 82,
+    "file": "",
+    "reference_text": "689 p82"
+   }
+  ],
+  "recommended_action": "Repair to 黑牢 (batch 036, row 5, source reading: 暗牢)",
+  "rationale": "黑牢 is used 51 times in the corpus; 暗牢 once. The cage is 黑牢 elsewhere in 689. Confidence H.",
+  "confidence": "H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "689 p32–47 (黑牢)",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch689): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-678",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 690,
+    "paragraph": 18,
+    "file": "",
+    "reference_text": "690 p18"
+   }
+  ],
+  "recommended_action": "Repair to 拨开云雾 (batch 036, row 6, source reading: 守开云雾)",
+  "rationale": "The same idiom is 拨开云雾 at 821 p10. 守 is a likely misreading. Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "821 p10",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch690): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-679",
+  "category": "Decision / whole-novel reconciliation",
+  "locations": [
+   {
+    "chapter": 691,
+    "paragraph": 28,
+    "file": "",
+    "reference_text": "691 p28"
+   }
+  ],
+  "recommended_action": "Query: decide 亲身 vs 亲生 for daughter and father across the novel (batch 036, row 7, source reading: 亲身女儿)",
+  "rationale": "亲身 is used for 女儿 at 691 p28, 691 p68, 773 p13, 773 p57; 亲身父亲 at 940 p76 (witness shows candidate 亲生父亲); 亲生女儿 at 943 p111. Whole-novel decision needed. Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Open decision; unapproved, unapplied",
+  "dependencies": "940 p76; 943 p111",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch691): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-680",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 691,
+    "paragraph": 31,
+    "file": "",
+    "reference_text": "691 p31"
+   }
+  ],
+  "recommended_action": "Repair to 怎么办 (batch 036, row 8, source reading: 怎么半)",
+  "rationale": "怎么办 is the standard phrase (29 hits); 怎么半 reads as a typo. Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch691): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-681",
+  "category": "Decision / whole-novel reconciliation",
+  "locations": [
+   {
+    "chapter": 692,
+    "paragraph": 15,
+    "file": "",
+    "reference_text": "692 p15"
+   }
+  ],
+  "recommended_action": "Query: variant form (力绝仙体) (batch 036, row 9, source reading: 力道绝仙)",
+  "rationale": "Relevant to the batch 037 query on 力绝仙体 (714 p56). Choose one form before any edit. Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Open decision; unapproved, unapplied",
+  "dependencies": "714 p56 (batch 037 query)",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch692): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-682",
+  "category": "Decision / whole-novel reconciliation",
+  "locations": [
+   {
+    "chapter": 692,
+    "paragraph": 49,
+    "file": "",
+    "reference_text": "692 p49"
+   }
+  ],
+  "recommended_action": "Query: name variant (乐山乐水 vs 乐意) (batch 036, row 10, source reading: 乐山乐意仙蛊)",
+  "rationale": "乐山乐水 is the majority reading in the corpus (58 vs 18). This is already open for batch 037 (709 p55; 748; 749; 754 p84/87). Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Open decision; unapproved, unapplied",
+  "dependencies": "batch 037 open query",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch692): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-683",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 692,
+    "paragraph": 54,
+    "file": "",
+    "reference_text": "692 p54"
+   }
+  ],
+  "recommended_action": "Repair to 在此基础上 (batch 036, row 11, source reading: 再此基础上)",
+  "rationale": "在此基础上 is the standard phrase (734 p12). 再 reads as a typo. Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "734 p12",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch692): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-684",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 693,
+    "paragraph": 27,
+    "file": "",
+    "reference_text": "693 p27"
+   }
+  ],
+  "recommended_action": "Repair 回复道 to 恢复到 (batch 036, row 12, source reading: 仙元石回复道三十六块)",
+  "rationale": "恢复到 is the form at 861 p99 and 902 p19. 回复道 is not used elsewhere. Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "861 p99; 902 p19",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch693): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-685",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 694,
+    "paragraph": 75,
+    "file": "",
+    "reference_text": "694 p75"
+   }
+  ],
+  "recommended_action": "Repair 撞踏 to 撞塌 (batch 036, row 13, source reading: 把我们的家主阁都给撞踏了)",
+  "rationale": "撞塌 is the form at 694 p60 and p63, in the same scene. 撞踏 is unique. Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "694 p60, 63",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch694): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-686",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 695,
+    "paragraph": 3,
+    "file": "",
+    "reference_text": "695 p3"
+   }
+  ],
+  "recommended_action": "Repair to 房屋建筑倒塌 (delete one duplicate verb) (batch 036, row 14, source reading: 房屋建筑塌毁倒塌)",
+  "rationale": "Two near-synonyms are stacked (塌毁 and 倒塌). One verb is clearer. Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch695): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-687",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 695,
+    "paragraph": 17,
+    "file": "",
+    "reference_text": "695 p17"
+   }
+  ],
+  "recommended_action": "Repair to 斩击在方源身上 (delete stray 的) (batch 036, row 15, source reading: 数百道金色光刀，斩击在的方源身上)",
+  "rationale": "Stray 的 between 在 and 方源. Confidence M.",
+  "confidence": "M",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch695): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-688",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 695,
+    "paragraph": 22,
+    "file": "",
+    "reference_text": "695 p22"
+   }
+  ],
+  "recommended_action": "Query: sentence reads awkwardly (batch 036, row 16, source reading: 方源真正要炼蛊什么的，需求量一定很大)",
+  "rationale": "Possible garble; no edit proposed without a fuller check. Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-689",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 695,
+    "paragraph": 24,
+    "file": "",
+    "reference_text": "695 p24"
+   }
+  ],
+  "recommended_action": "Repair to 收入囊中 (batch 036, row 17, source reading: 将这些统统收如囊中)",
+  "rationale": "收入囊中 is the standard form (6 corpus hits). Batch 040 row 13 applies the same repair. Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "batch 040 row 13",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch695): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-690",
+  "category": "Decision / whole-novel reconciliation",
+  "locations": [
+   {
+    "chapter": 697,
+    "paragraph": 5,
+    "file": "",
+    "reference_text": "697 p5"
+   }
+  ],
+  "recommended_action": "Query: temporal check (大半年) (batch 036, row 18, source reading: 已经持续了大半年)",
+  "rationale": "大半年 appears at 697 p5, 745 p63, 746 p41, 871 p28. Include in the temporal group already open for batch 037. Confidence L.",
+  "confidence": "L",
+  "status": "Open decision; unapproved, unapplied",
+  "dependencies": "745 p63; 746 p41; 871 p28",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-691",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 697,
+    "paragraph": 21,
+    "file": "",
+    "reference_text": "697 p21"
+   }
+  ],
+  "recommended_action": "Repair to 点了点头 (batch 036, row 19, source reading: 第四位蛊仙点滴啊头)",
+  "rationale": "点了点头 appears 4 times elsewhere; 点滴啊头 is a typo. Confidence H.",
+  "confidence": "H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch697): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-692",
+  "category": "Decision / whole-novel reconciliation",
+  "locations": [
+   {
+    "chapter": 697,
+    "paragraph": 43,
+    "file": "",
+    "reference_text": "697 p43"
+   }
+  ],
+  "recommended_action": "Query: 可观 usage (batch-wide) (batch 036, row 20, source reading: 效果虽然不大，但日积月累，却是可观)",
+  "rationale": "可观 appears 9 times. Batch 040 row 28 is held M–L pending a batch-wide decision. Confidence M–L.",
+  "confidence": "M–L",
+  "status": "Open decision; unapproved, unapplied",
+  "dependencies": "batch 040 row 28",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-693",
+  "category": "Decision / whole-novel reconciliation",
+  "locations": [
+   {
+    "chapter": 698,
+    "paragraph": 5,
+    "file": "",
+    "reference_text": "698 p5"
+   }
+  ],
+  "recommended_action": "Query: 我素仙蛊 vs 我素蛊 (batch 036, row 21, source reading: 凤九歌居然主动将我素仙蛊，借给我用)",
+  "rationale": "我素仙蛊 appears 3 times; 我素蛊 appears 7 times (696 p35–37; 698 p5–9; 700 p16). Same chapter uses both forms. Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Open decision; unapproved, unapplied",
+  "dependencies": "696 p35; 698 p5–9; 700 p16",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch698): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-694",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 698,
+    "paragraph": 26,
+    "file": "",
+    "reference_text": "698 p26"
+   }
+  ],
+  "recommended_action": "Repair to 面若桃花 (batch 036, row 22, source reading: 面若挑花)",
+  "rationale": "挑花 appears once; 桃花 is the usual image (698 p47; 757 p72). Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "757 p72",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch698): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-695",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 698,
+    "paragraph": 47,
+    "file": "",
+    "reference_text": "698 p47"
+   }
+  ],
+  "recommended_action": "Repair to 纠缠在一起 (batch 036, row 23, source reading: 枝条纠缠一起)",
+  "rationale": "纠缠在一起 appears 6 times; 纠缠一起 once. Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch698): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-696",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 698,
+    "paragraph": 60,
+    "file": "",
+    "reference_text": "698 p60"
+   }
+  ],
+  "recommended_action": "Repair to 这么长时间 (batch 036, row 24, source reading: 这么时间，都感应不到)",
+  "rationale": "这么长时间 is used at 723 p28; 这么时间 is unique. Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "723 p28",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch698): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-697",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 699,
+    "paragraph": 38,
+    "file": "",
+    "reference_text": "699 p38"
+   }
+  ],
+  "recommended_action": "Repair to 无法摆脱那个男人的阴影 (batch 036, row 25, source reading: 你却仍旧无法那个男人的阴影)",
+  "rationale": "Missing verb; 无法那个 occurs once. Confidence H.",
+  "confidence": "H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch699): context not found in witness (variant, segmentation, or watermark)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-698",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 699,
+    "paragraph": 54,
+    "file": "",
+    "reference_text": "699 p54"
+   }
+  ],
+  "recommended_action": "Repair to 点点滴滴的魂泪 (batch 036, row 26, source reading: 点点会会的魂泪)",
+  "rationale": "会会 occurs once; 点点 is common (130 hits). Confidence M.",
+  "confidence": "M",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch699): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-699",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 699,
+    "paragraph": 63,
+    "file": "",
+    "reference_text": "699 p63"
+   }
+  ],
+  "recommended_action": "Repair to 走了多少步 (batch 036, row 27, source reading: 走了多少不)",
+  "rationale": "多少不 occurs once; 多少步 is the intended form. Confidence H.",
+  "confidence": "H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch699): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-700",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 699,
+    "paragraph": 67,
+    "file": "",
+    "reference_text": "699 p67"
+   }
+  ],
+  "recommended_action": "Repair to 张得老大 (batch 036, row 28, source reading: 他的嘴张的老大)",
+  "rationale": "张得老大 appears at 859 p66. Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "859 p66",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch699): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-701",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 699,
+    "paragraph": 84,
+    "file": "",
+    "reference_text": "699 p84"
+   }
+  ],
+  "recommended_action": "Repair to 这仙蛊是仙鹤门太上二长老之物 (batch 036, row 29, source reading: 这仙蛊仙鹤门太上二长老之物)",
+  "rationale": "Missing 是; no other form in the corpus. Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch699): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-702",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 700,
+    "paragraph": 18,
+    "file": "",
+    "reference_text": "700 p18"
+   }
+  ],
+  "recommended_action": "Repair 对方 to 地方 (batch 036, row 30, source reading: 狐仙福地中，最安全的对方，就是荡魂山了)",
+  "rationale": "安全的地方 at 806 p75; 安全的对方 occurs once. Witness shows candidate wording. Confidence H.",
+  "confidence": "H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "806 p75",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch700): witness shows candidate wording; witness differs from source here and matches the proposed wording (web copy, not authoritative)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-703",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 700,
+    "paragraph": 36,
+    "file": "",
+    "reference_text": "700 p36"
+   }
+  ],
+  "recommended_action": "Query: unclear phrase (batch 036, row 31, source reading: 排序先后和仙鹤门当场)",
+  "rationale": "Meaning unclear; needs a fuller check before any edit. Confidence M.",
+  "confidence": "M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch700): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-704",
+  "category": "Decision / whole-novel reconciliation",
+  "locations": [
+   {
+    "chapter": 702,
+    "paragraph": 3,
+    "file": "",
+    "reference_text": "702 p3"
+   }
+  ],
+  "recommended_action": "Query: 红枣仙元 vs 青提仙元 (second currency or slip?) (batch 036, row 32, source reading: 红枣仙元)",
+  "rationale": "红枣仙元 appears 10 times (702, 703, 729, 732, 790); 青提仙元 appears 55 times. Probably intentional; confirm. Confidence L.",
+  "confidence": "L",
+  "status": "Open decision; unapproved, unapplied",
+  "dependencies": "whole-novel currency check",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch702): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-705",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 702,
+    "paragraph": 63,
+    "file": "",
+    "reference_text": "702 p63"
+   }
+  ],
+  "recommended_action": "Repair to 晴空万里无云 (batch 036, row 33, source reading: 原先晴空万里无语)",
+  "rationale": "无语 is a slip. 703 p71 (湛蓝无云) and 813 p2 (万里无云) confirm the image. Confidence H.",
+  "confidence": "H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "703 p71; 813 p2",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch702): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-706",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 703,
+    "paragraph": 44,
+    "file": "",
+    "reference_text": "703 p44"
+   }
+  ],
+  "recommended_action": "Repair 凝绝 to 凝聚 (batch 036, row 34, source reading: 魂兽…重新凝绝成新的魂兽)",
+  "rationale": "凝聚成 is used 11 times; 凝绝 once. Confidence H.",
+  "confidence": "H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch703): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-707",
+  "category": "Decision / whole-novel reconciliation",
+  "locations": [
+   {
+    "chapter": 703,
+    "paragraph": 75,
+    "file": "",
+    "reference_text": "703 p75"
+   }
+  ],
+  "recommended_action": "Query: 俩个 vs 两个 (batch-wide) (batch 036, row 35, source reading: 你们俩个动用了真正手段)",
+  "rationale": "俩个 appears 10 times; 两个人 appears 4 times. Needs a batch-wide decision; no edit proposed here. Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Open decision; unapproved, unapplied",
+  "dependencies": "690 p58; 692 p18; 705 p58 (batch-wide)",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch703): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-708",
+  "category": "Decision / whole-novel reconciliation",
+  "locations": [
+   {
+    "chapter": 704,
+    "paragraph": 69,
+    "file": "",
+    "reference_text": "704 p69"
+   }
+  ],
+  "recommended_action": "Query: possible missing 年 (三百多万年?) (batch 036, row 36, source reading: 经过三百多万的抗争、演变、积累)",
+  "rationale": "三百多万 appears here and at 948 p4; 三百多年 is used 4 times (719 p36, 734 p31, 737 p54, 838 p52). Check the era scale. Confidence M.",
+  "confidence": "M",
+  "status": "Open decision; unapproved, unapplied",
+  "dependencies": "948 p4; 719 p36; 734 p31; 737 p54; 838 p52",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch704): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-709",
+  "category": "Decision / whole-novel reconciliation",
+  "locations": [
+   {
+    "chapter": 704,
+    "paragraph": 70,
+    "file": "",
+    "reference_text": "704 p70"
+   }
+  ],
+  "recommended_action": "Query: conflicts with 697 p39 (六成) (batch 036, row 37, source reading: 十大派掌握着中洲八成的修行资源 (also p74))",
+  "rationale": "697 p39 says six-tenths; 704 p70 and p74 say eight-tenths for the same share. Whole-novel numeric decision. Confidence M.",
+  "confidence": "M",
+  "status": "Open decision; unapproved, unapplied",
+  "dependencies": "697 p39 vs 704 p70, 74",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-710",
+  "category": "Decision / whole-novel reconciliation",
+  "locations": [
+   {
+    "chapter": 705,
+    "paragraph": 38,
+    "file": "",
+    "reference_text": "705 p38"
+   }
+  ],
+  "recommended_action": "Query: temporal check (batch 036, row 38, source reading: 一年多前，在宝黄天中暗算他的那个神秘势力)",
+  "rationale": "The ambush in 宝黄天 'a year-plus ago' should match the timeline in 685–690. Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Open decision; unapproved, unapplied",
+  "dependencies": "685–690 timeline",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch705): witness copies source wording",
+  "approved": false,
+  "applied": false
+ }
+]

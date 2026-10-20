@@ -1,0 +1,38 @@
+{
+ "batch": "036",
+ "chapters": "686–705",
+ "chapter_count": 20,
+ "source_check": "batch-036-source.json; 20 chapters; 1601 paragraphs; 0 mismatches at build time",
+ "reading_status": "Complete through ch705 (reading notes 686–705)",
+ "report_rows": 38,
+ "confidence_counts": {
+  "H": 8,
+  "L–M": 9,
+  "M–H": 13,
+  "M": 5,
+  "L": 2,
+  "M–L": 1
+ },
+ "approved": 0,
+ "applied": 0,
+ "source_edits": 0,
+ "witness_collation": "witness-collation-036.json (Hetushu 7640, ch686–705, 20 pages; chapter titles 第三十七章–第五十六章)",
+ "witness_results": {
+  "witness copies source wording": 32,
+  "context not found in witness (variant, segmentation, or watermark)": 1,
+  "witness shows candidate wording": 1
+ },
+ "witness_candidates_checked": 34,
+ "ledger_ids": [
+  "SR-673",
+  "SR-710"
+ ],
+ "ledger_count": 38,
+ "workbook_rows": "SR-673 to SR-710 appended to 'Proposal ledger' (38 rows)",
+ "docx": "Batch-036-Chapters-686-705.docx",
+ "known_limits": [
+  "Witness copies source wording for most candidates; not independent confirmation.",
+  "No line-level bilingual audit; source review only.",
+  "Temporal and numeric items are whole-novel decisions, not local repairs."
+ ]
+}

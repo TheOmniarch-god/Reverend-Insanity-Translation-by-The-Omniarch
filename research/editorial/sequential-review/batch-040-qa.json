@@ -1,0 +1,36 @@
+{
+  "batch": "040",
+  "chapters": "856-905",
+  "chapter_count": 50,
+  "source_check": "batch-040-source.json built by tmp/build_batch.py 856 905 (50 chapters, 0 mismatches at build time)",
+  "reading_status": "complete (856-905); notes in batch-040-notes/reading-notes-856-905.md; truncated spans now read in full (rows 65-73)",
+  "report_rows": 73,
+  "confidence_counts": {
+    "H": 8,
+    "M–H": 13,
+    "M": 15,
+    "M–L": 12,
+    "L–M": 14,
+    "L": 8,
+    "—": 3
+  },
+  "approved": 0,
+  "applied": 0,
+  "source_edits": 0,
+  "witness_collation": "Hetushu book 7640 automated token-level comparison (witness-collation-040.json); witness copies source wording for most candidates; neither confirms nor rejects; differences recorded as web-copy only",
+  "workbook_rows": "added: proposal ledger SR-489 to SR-550 (report rows 1–64) and SR-626 to SR-633 (full-line pass rows 65–72)",
+  "ledger_entries": "SR-489 to SR-550 and SR-626 to SR-633",
+  "docx": "Batch-040-Chapters-856-905.docx",
+  "known_limits": [
+    "Batch 040 full-line pass done for 856 p10, 857 p79, 858 p29, 873 p70-72, 884 p55-84, 887 p25-63, 891 p15-92, 905 p8-81. Rows 65-72 are the result.",
+    "Items 47 and 48 depend on UNVERIFIED earlier-batch facts (753 p18, 756 p72).",
+    "Other truncated spans listed in the notes (e.g. 898 p82) are still to check."
+  ],
+  "witness_results": {
+    "witness copies source wording": 22,
+    "witness shows candidate wording": 1,
+    "context not found in witness (variant, segmentation, or watermark)": 3
+  },
+  "witness_candidates_checked": 26,
+  "chapter_completion_and_paragraph_register": "not extended (workbook still ends at chapter 685)"
+}

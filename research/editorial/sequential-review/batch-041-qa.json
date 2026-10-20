@@ -1,0 +1,40 @@
+{
+  "batch": "041",
+  "chapters": "906-955",
+  "chapter_count": 50,
+  "source_check": "batch-041-source.json (50 chapters, 0 mismatches at build time). Batch-040 source was overwritten by build_batch.py 906 955 and restored by build_batch.py 856 905 (verified).",
+  "reading_status": "complete (906-955); notes in batch-041-notes-906-955.md",
+  "notes_file_status": "notes written for 906-955 (910-911 appended in this session); 912-955 appended in this session",
+  "report_rows": 41,
+  "confidence_counts": {
+    "H": 5,
+    "M–H": 6,
+    "M": 8,
+    "M–L": 5,
+    "L–M": 7,
+    "L": 8,
+    "M (note only)": 1,
+    "—": 1
+  },
+  "approved": 0,
+  "applied": 0,
+  "source_edits": 0,
+  "source_verification": "Rows 1-5, 6-8, 10, 16-18 and 20 were checked against paragraph text in batch-041-source.json; other rows were recorded from display lines and are marked check.",
+  "witness_collation": "Hetushu book 7640 automated token-level comparison (witness-collation-041.json); witness copies source wording for most candidates; neither confirms nor rejects; differences recorded as web-copy only",
+  "workbook_rows": "added: proposal ledger SR-551 to SR-590",
+  "ledger_entries": "SR-551 to SR-590",
+  "docx": "Batch-041-Chapters-906-955.docx",
+  "known_limits": [
+    "Rows 22-28 are carried over from 906-911 notes and still need a full-line check.",
+    "Terminology decisions (遗藏/宝藏, 炎煌雷泽, 幽冥草, 见面似相识) require whole-novel reconciliation before final emendations.",
+    "Truncated lines in 945 p63, 946 p62, 949 p9/p12, 948 p40, 951 p3-27 and 910 p25/48/75/102 were read in full and closed (no flag).",
+    "Witness copies the source wording for most candidates; 925 赤洪明 and 940 亲身父亲 differ from the source in the web copy and match the proposed wording (recorded as web-copy only)."
+  ],
+  "witness_results": {
+    "context not found in witness (variant, segmentation, or watermark)": 2,
+    "witness copies source wording": 22,
+    "witness shows candidate wording": 2
+  },
+  "witness_candidates_checked": 26,
+  "chapter_completion_and_paragraph_register": "not extended (workbook still ends at chapter 685)"
+}

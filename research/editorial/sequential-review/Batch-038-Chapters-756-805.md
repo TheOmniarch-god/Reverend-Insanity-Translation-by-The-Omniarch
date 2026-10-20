@@ -1,8 +1,8 @@
 # Batch 038 — Chapters 756–805 (sequential source review)
 
-Status: **source reading complete in conversation (756–805)**. Notes: `editorial/sequential-review/batch-038-notes/reading-notes-756-759.md`. This report is a candidate list only. Nothing here is approved, and no Chinese source has been changed. Counts were checked against `tmp/fulltext.txt` (the full Chinese text).
+Status: **source reading complete in conversation (756–805)**. Notes: `editorial/sequential-review/batch-038-notes/reading-notes-756-759.md`. This report is a candidate list only. Nothing here is approved, and no Chinese source has been changed. 
 
-Not yet produced for this batch: workbook rows, DOCX, QA file, witness collation (Hetushu page not checked).
+Produced: proposal-ledger entries SR-591 to SR-625; workbook rows; DOCX; QA file (batch-038-qa.json); automated witness collation against Hetushu book 7640 (witness-collation-038.json). The witness copies the source wording for most candidates and neither confirms nor rejects them. One difference: 797 p73 (不给它反映时间) appears as 反应 in the web copy; recorded as web-copy only.
 
 ## Proposed review items
 

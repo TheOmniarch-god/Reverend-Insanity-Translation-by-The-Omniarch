@@ -49,12 +49,12 @@ Uncle at once rolled his eyes and rebuked in a low voice, “How stupid you are.
 * * *
 A dense night spread down, the stars filling the sky mostly veiled by drifting clouds. In the stockade, household after household gradually lit their lamps.
 Gu Yue Fang Zheng was led into a room.
-“Young Master Fang Zheng, this is a room this old slave specially tidied and vacated upon Master's personal instruction.” Granny Shen introduced it obsequiously, bending at the waist, her face heaped with flattering smiles.
+“Young Master Fang Zheng, this is a room this old slave specially tidied and vacated upon my lord's personal instruction.” Granny Shen introduced it obsequiously, bending at the waist, her face heaped with flattering smiles.
 Fang Zheng looked round, his eyes brightening. This room was more than twice as large as the one he had lived in before. At its centre was a broad bed; by the window, a desk of sandalwood set with fine brush, ink, paper and inkstone; the surrounding walls hung with exquisite ornaments. Even beneath his feet was not ordinary flooring, but a layer of soft, hand-made carpet.
 From childhood to now, Fang Zheng had never lived in such a room. At once he nodded repeatedly. “This is very good, truly not bad. Thank you, Granny Shen.”
 Granny Shen was Aunt's most trusted servant. She managed the household staff, a housekeeper in all but name.
 Her daughter was Shen Cui, Fang Yuan's personal maid.
-Granny Shen chuckled. “How could this old slave dare accept young master's thanks? It is only proper, only proper! Eat well and sleep well, young master. If you want anything, shake the bell by the bedside, and a servant will come up at once to await your orders. Lord has instructed that these days young master should devote himself wholeheartedly to cultivation, leaving all trifling matters to us servants.”
+Granny Shen chuckled. “How could this old slave dare accept young master's thanks? It is only proper, only proper! Eat well and sleep well, young master. If you want anything, shake the bell by the bedside, and a servant will come up at once to await your orders. My lord has instructed that these days young master should devote himself wholeheartedly to cultivation, leaving all trifling matters to us servants.”
 A fresh surge of gratitude rose in Fang Zheng's heart. He said nothing more, only silently resolved within himself: this time he must seize first place, and not disappoint Uncle and Aunt.
 * * *
 The clouds above thickened, and with them the night deepened. The stars were all but veiled, save for a few that still glimmered faintly, struggling against the gloom.

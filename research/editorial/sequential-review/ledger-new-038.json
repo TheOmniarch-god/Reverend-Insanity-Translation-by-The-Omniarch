@@ -1,0 +1,737 @@
+[
+ {
+  "id": "SR-591",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 786,
+    "paragraph": 40,
+    "file": "",
+    "reference_text": "786 p40"
+   }
+  ],
+  "recommended_action": "Check original glyphs; likely corruption (batch 038, row 1, source reading: 但又怕失去了精着呢资格)",
+  "rationale": "精着呢 occurs once in the source; sentence does not parse Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch786): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-592",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 787,
+    "paragraph": 31,
+    "file": "",
+    "reference_text": "787 p31"
+   }
+  ],
+  "recommended_action": "Check glyphs; likely 中高旁低 (batch 038, row 2, source reading: 中高旁第的小山峦)",
+  "rationale": "中高旁低 is the usual idiom; 中高旁第 occurs once Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch787): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-593",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 787,
+    "paragraph": 74,
+    "file": "",
+    "reference_text": "787 p74"
+   }
+  ],
+  "recommended_action": "Check glyphs; likely 甚至 (batch 038, row 3, source reading: 其中一个甚活数个)",
+  "rationale": "甚活 occurs once Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch787): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-594",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 789,
+    "paragraph": 71,
+    "file": "",
+    "reference_text": "789 p71"
+   }
+  ],
+  "recommended_action": "Check glyphs; sentence fragment (batch 038, row 4, source reading: 他走的力道。巧妇难为无米之炊)",
+  "rationale": "\"他走的力道\" is unfinished Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-595",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 793,
+    "paragraph": 25,
+    "file": "",
+    "reference_text": "793 p25"
+   }
+  ],
+  "recommended_action": "Check; likely missing 在 (batch 038, row 5, source reading: 他才能东方八位蛊仙陨落的情形下)",
+  "rationale": "Grammar; 东方八位 occurs once Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-596",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 796,
+    "paragraph": 49,
+    "file": "",
+    "reference_text": "796 p49"
+   }
+  ],
+  "recommended_action": "Check; likely 每个世界 (batch 038, row 6, source reading: 每隔世界)",
+  "rationale": "每隔世界 occurs once Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-597",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 798,
+    "paragraph": 44,
+    "file": "",
+    "reference_text": "798 p44–45"
+   }
+  ],
+  "recommended_action": "Check; likely 相距也不远 (batch 038, row 7, source reading: 彼此之间相距也不愿)",
+  "rationale": "相距也不愿 occurs once Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch798): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-598",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 799,
+    "paragraph": 11,
+    "file": "",
+    "reference_text": "799 p11"
+   }
+  ],
+  "recommended_action": "Check; likely 嫣然海 (batch 038, row 8, source reading: 嫣红海么 (vs 嫣然海 at p51))",
+  "rationale": "嫣红海 occurs once; 嫣然海 is the name used in the chapter Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch799): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-599",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 801,
+    "paragraph": 62,
+    "file": "",
+    "reference_text": "801 p62"
+   }
+  ],
+  "recommended_action": "Check; likely 巨硕 (batch 038, row 9, source reading: 具硕的冰龙)",
+  "rationale": "具硕 occurs once; 巨硕 occurs 10 times Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch801): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-600",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 802,
+    "paragraph": 36,
+    "file": "",
+    "reference_text": "802 p36"
+   }
+  ],
+  "recommended_action": "Check; likely 无品质之分 (batch 038, row 10, source reading: 向来无无品质之分)",
+  "rationale": "无无品质 occurs once Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch802): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-601",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 805,
+    "paragraph": 11,
+    "file": "",
+    "reference_text": "805 p11"
+   }
+  ],
+  "recommended_action": "Check; likely 咔嚓嚓 (batch 038, row 11, source reading: 跨嚓嚓)",
+  "rationale": "咔嚓嚓 occurs 43 times; 跨嚓嚓 once Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch805): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-602",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 805,
+    "paragraph": 6,
+    "file": "",
+    "reference_text": "805 p6"
+   }
+  ],
+  "recommended_action": "Check; sentence broken (batch 038, row 12, source reading: 却被回到仍旧在追击方寸山)",
+  "rationale": "却被回到 occurs once Confidence M.",
+  "confidence": "M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch805): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-603",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 805,
+    "paragraph": 13,
+    "file": "",
+    "reference_text": "805 p13"
+   }
+  ],
+  "recommended_action": "Check; likely 都是 (batch 038, row 13, source reading: 气息都有是微弱的)",
+  "rationale": "都有是 occurs once Confidence M.",
+  "confidence": "M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch805): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-604",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 801,
+    "paragraph": 62,
+    "file": "",
+    "reference_text": "801 p62"
+   }
+  ],
+  "recommended_action": "Check; doubled 而 (batch 038, row 14, source reading: 天花黯淡的不是别人，反而而是自己)",
+  "rationale": "而而 occurs once Confidence M.",
+  "confidence": "M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch801): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-605",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 792,
+    "paragraph": null,
+    "file": "",
+    "reference_text": "792 / 789 / 787 / 783 etc. (see notes)"
+   }
+  ],
+  "recommended_action": "Check each glyph; low priority (batch 038, row 15, source reading: 1-off typos listed in notes (不清/不轻, 当汇总, 心思, 产生过来, 反映时间, 相似/相识 at 783 p33))",
+  "rationale": "Each has a single or rare occurrence Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-606",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 797,
+    "paragraph": 73,
+    "file": "",
+    "reference_text": "797 p73"
+   }
+  ],
+  "recommended_action": "Check; likely 反应 (batch 038, row 16, source reading: 不给它反映时间)",
+  "rationale": "反映时间 occurs twice in source Confidence M.",
+  "confidence": "M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch797): witness shows candidate wording; witness differs from source here and matches the proposed wording (web copy, not authoritative)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-607",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 793,
+    "paragraph": 21,
+    "file": "",
+    "reference_text": "793 p21–22"
+   }
+  ],
+  "recommended_action": "Check; likely 不轻 (batch 038, row 17, source reading: 他受伤不清)",
+  "rationale": "受伤不清 once vs 受伤不轻 17 times Confidence M.",
+  "confidence": "M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch793): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-608",
+  "category": "Decision / whole-novel reconciliation",
+  "locations": [
+   {
+    "chapter": 803,
+    "paragraph": 4,
+    "file": "",
+    "reference_text": "803 p4–5"
+   }
+  ],
+  "recommended_action": "Reconcile with 782/791 (batch 038, row 18, source reading: 每一只力道巨手，只是十万力道虚影在出手)",
+  "rationale": "Conflicts with the 2万-per-hand figure in 782 p47, 786 p56 and 791 p24 (8 hands × 2万 = 16万) Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Open decision; unapproved, unapplied",
+  "dependencies": "whole-novel count",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch803): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-609",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 803,
+    "paragraph": 68,
+    "file": "",
+    "reference_text": "803 p68"
+   }
+  ],
+  "recommended_action": "Check; likely 更深一层 (batch 038, row 19, source reading: 更深一沉)",
+  "rationale": "更深一沉 once; 更深一层 12 times Confidence M.",
+  "confidence": "M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch803): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-610",
+  "category": "Decision / whole-novel reconciliation",
+  "locations": [
+   {
+    "chapter": 800,
+    "paragraph": 57,
+    "file": "",
+    "reference_text": "800 p57–70; 801 p85; 802 p2–6 vs 64–74"
+   }
+  ],
+  "recommended_action": "Decide canonical name; check ch801+ (batch 038, row 20, source reading: 周千 / 周平 (same character))",
+  "rationale": "Both forms appear (周千 11, 周平 15); the scene switches at 800 p64 Confidence M–H (name).",
+  "confidence": "M–H (name)",
+  "status": "Open decision; unapproved, unapplied",
+  "dependencies": "decision",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-611",
+  "category": "Decision / whole-novel reconciliation",
+  "locations": [
+   {
+    "chapter": 799,
+    "paragraph": 66,
+    "file": "",
+    "reference_text": "799 p66 vs 796 p45 / 800 p24"
+   }
+  ],
+  "recommended_action": "Reconcile wording (batch 038, row 21, source reading: 黎山仙子 described as 木道 vs 信道)",
+  "rationale": "Likely fine (主修信道, 兼修木道), but 799 p66 reads as the primary path Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Open decision; unapproved, unapplied",
+  "dependencies": "800 p24",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-612",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 796,
+    "paragraph": 45,
+    "file": "",
+    "reference_text": "796 p45"
+   }
+  ],
+  "recommended_action": "Check; likely 我力 (batch 038, row 22, source reading: 黑楼兰失去万我)",
+  "rationale": "万我 is 方源's technique; 793 p42 and 785 p9 say 黑楼兰 lost 我力 Confidence M.",
+  "confidence": "M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "793 p42",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch796): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-613",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 773,
+    "paragraph": 30,
+    "file": "",
+    "reference_text": "773 p30 (carried)"
+   }
+  ],
+  "recommended_action": "Check glyphs; likely typo (batch 038, row 23, source reading: 青提仙蛊 vs 青提仙元)",
+  "rationale": "青提仙蛊 once; 青提仙元 259 times; 797 p24 and 800 p39 use 青提仙元 Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch773): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-614",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 780,
+    "paragraph": 7,
+    "file": "",
+    "reference_text": "780 p7 (carried)"
+   }
+  ],
+  "recommended_action": "Check glyphs (batch 038, row 24, source reading: 三百万多万年)",
+  "rationale": "Once; 三百多万年 26 times Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch780): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-615",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 786,
+    "paragraph": 4,
+    "file": "",
+    "reference_text": "786 p4"
+   }
+  ],
+  "recommended_action": "Low; check (batch 038, row 25, source reading: 星道传承)",
+  "rationale": "星道 occurs 9 times; not clearly wrong Confidence L.",
+  "confidence": "L",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-616",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 790,
+    "paragraph": 89,
+    "file": "",
+    "reference_text": "790 p89"
+   }
+  ],
+  "recommended_action": "Consistency check only (batch 038, row 26, source reading: 残阳老祖)",
+  "rationale": "Alias used 7 times in source; 残阳老君 is standard in this chapter Confidence L.",
+  "confidence": "L",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-617",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 797,
+    "paragraph": 48,
+    "file": "",
+    "reference_text": "797 p48 vs 47/49"
+   }
+  ],
+  "recommended_action": "Check (batch 038, row 27, source reading: 驭兽仙蛊 vs 奴兽仙蛊)",
+  "rationale": "5 vs 24 occurrences Confidence L.",
+  "confidence": "L",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-618",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 789,
+    "paragraph": 31,
+    "file": "",
+    "reference_text": "789 p31"
+   }
+  ],
+  "recommended_action": "Check; likely 当中 (batch 038, row 28, source reading: 在…真传秘境当汇总)",
+  "rationale": "当汇总 once Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch789): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-619",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 789,
+    "paragraph": 53,
+    "file": "",
+    "reference_text": "789 p53"
+   }
+  ],
+  "recommended_action": "Punctuation check (batch 038, row 29, source reading: 层出不穷 (closing mark missing))",
+  "rationale": "Single missing mark Confidence L.",
+  "confidence": "L",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-620",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 801,
+    "paragraph": 59,
+    "file": "",
+    "reference_text": "801 p59"
+   }
+  ],
+  "recommended_action": "Check meaning (batch 038, row 30, source reading: 用来阶位)",
+  "rationale": "Once; unclear Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-621",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 802,
+    "paragraph": 62,
+    "file": "",
+    "reference_text": "802 p62"
+   }
+  ],
+  "recommended_action": "Check; likely stray 平 (batch 038, row 31, source reading: 天都神君平)",
+  "rationale": "天都神君平 once Confidence M.",
+  "confidence": "M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch802): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-622",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 802,
+    "paragraph": 80,
+    "file": "",
+    "reference_text": "802 p80"
+   }
+  ],
+  "recommended_action": "No change (batch 038, row 32, source reading: 堂堂的某某某)",
+  "rationale": "Likely intentional placeholder idiom Confidence L.",
+  "confidence": "L",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-623",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 783,
+    "paragraph": 33,
+    "file": "",
+    "reference_text": "783 p33"
+   }
+  ],
+  "recommended_action": "Check; likely name variant or typo for 见面似相识 (batch 038, row 33, source reading: 见面似相似杀招)",
+  "rationale": "相似 occurs twice in source (783 p33, and fulltext line 206260); 见面似相识 74 times Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch783): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-624",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 782,
+    "paragraph": 74,
+    "file": "",
+    "reference_text": "782 p74"
+   }
+  ],
+  "recommended_action": "Check glyph (batch 038, row 34, source reading: 无法羚)",
+  "rationale": "Rare name; once Confidence L.",
+  "confidence": "L",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch782): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-625",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 788,
+    "paragraph": 60,
+    "file": "",
+    "reference_text": "788 p60 / p83"
+   }
+  ],
+  "recommended_action": "Check layout wording (batch 038, row 35, source reading: 八个阵眼 with 八蛊仙 plus 东方余亮 at 中央阵眼)",
+  "rationale": "Possibly fine Confidence L.",
+  "confidence": "L",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ }
+]

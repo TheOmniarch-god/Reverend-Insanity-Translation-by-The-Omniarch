@@ -1,0 +1,170 @@
+[
+ {
+  "id": "SR-626",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 884,
+    "paragraph": 58,
+    "file": "",
+    "reference_text": "884 p58"
+   }
+  ],
+  "recommended_action": "Repair to 有得一拼 (batch 040, row 65, source reading: 和优秀洞天有的一拼)",
+  "rationale": "Idiom form; 有的一拼 once; 有得一拼 is the usual form Confidence M.",
+  "confidence": "M",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch884): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-627",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 884,
+    "paragraph": 66,
+    "file": "",
+    "reference_text": "884 p66"
+   }
+  ],
+  "recommended_action": "Repair to 就等若整个仙窍 (batch 040, row 66, source reading: 这等若就整个仙窍 (就等若就))",
+  "rationale": "Doubled 就; 就等若 occurs 7 times in batch sources Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch884): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-628",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 887,
+    "paragraph": 28,
+    "file": "",
+    "reference_text": "887 p28"
+   }
+  ],
+  "recommended_action": "Repair to 芙蓉石钟乳 (batch 040, row 67, source reading: 芙蓉石中乳)",
+  "rationale": "芙蓉石钟乳 occurs twice (846 p26–27); 中乳 once Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "846 p26–27",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch887): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-629",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 887,
+    "paragraph": 63,
+    "file": "",
+    "reference_text": "887 p63"
+   }
+  ],
+  "recommended_action": "Check; likely 需同时催动 (batch 040, row 68, source reading: 需用同时催动十二只仙蛊)",
+  "rationale": "需用同时 once; \"需用\" reads oddly Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch887): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-630",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 891,
+    "paragraph": 44,
+    "file": "",
+    "reference_text": "891 p44"
+   }
+  ],
+  "recommended_action": "Check; likely 陡然一变 (batch 040, row 69, source reading: 脸色陡然一摆)",
+  "rationale": "陡然一摆 once; 陡然一变 is not used elsewhere in batch, so keep the check open Confidence M.",
+  "confidence": "M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch891): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-631",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 891,
+    "paragraph": 78,
+    "file": "",
+    "reference_text": "891 p78"
+   }
+  ],
+  "recommended_action": "Check; likely 诸仙仙元的损耗 (batch 040, row 70, source reading: 诸仙的仙元的损耗)",
+  "rationale": "Doubled 的; single occurrence Confidence L.",
+  "confidence": "L",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch891): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-632",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 905,
+    "paragraph": 11,
+    "file": "",
+    "reference_text": "905 p11"
+   }
+  ],
+  "recommended_action": "Check; likely 之前那般随意挥洒 (batch 040, row 71, source reading: 之前那边随意挥洒)",
+  "rationale": "之前那般 occurs once in the batch corpus (766 p66); 那边 may be a slip Confidence M–L.",
+  "confidence": "M–L",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "766 p66",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch905): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-633",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 905,
+    "paragraph": 18,
+    "file": "",
+    "reference_text": "905 p18"
+   }
+  ],
+  "recommended_action": "Check; likely 增长 (drop 延) (batch 040, row 72, source reading: 威力是随着仙元多少而增长延长)",
+  "rationale": "Doubled verb; single occurrence Confidence M–L.",
+  "confidence": "M–L",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch905): witness copies source wording",
+  "approved": false,
+  "applied": false
+ }
+]

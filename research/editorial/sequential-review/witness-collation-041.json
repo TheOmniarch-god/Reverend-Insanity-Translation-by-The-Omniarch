@@ -1,0 +1,262 @@
+[
+ {
+  "row": 1,
+  "ch": 914,
+  "orig": "竞全功",
+  "cand": "竟全功",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": false,
+  "result": "context not found in witness (variant, segmentation, or watermark)"
+ },
+ {
+  "row": 2,
+  "ch": 915,
+  "orig": "幽魂草",
+  "cand": "幽冥草",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 3,
+  "ch": 925,
+  "orig": "赤洪明",
+  "cand": "洪赤明",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": true,
+  "result": "witness shows candidate wording"
+ },
+ {
+  "row": 4,
+  "ch": 925,
+  "orig": "炎黄雷泽",
+  "cand": "炎煌雷泽",
+  "source_hits": 3,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 4,
+  "ch": 945,
+  "orig": "炎黄雷泽",
+  "cand": "炎煌雷泽",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 5,
+  "ch": 945,
+  "orig": "雪山老祖",
+  "cand": "雪胡老祖",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 6,
+  "ch": 938,
+  "orig": "这到沟壑",
+  "cand": "这道沟壑",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 7,
+  "ch": 953,
+  "orig": "很低正常",
+  "cand": "很正常",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 8,
+  "ch": 940,
+  "orig": "亲身父亲",
+  "cand": "亲生父亲",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": true,
+  "result": "witness shows candidate wording"
+ },
+ {
+  "row": 10,
+  "ch": 909,
+  "orig": "见面似相似",
+  "cand": "见面似相识",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 11,
+  "ch": 916,
+  "orig": "五百度年",
+  "cand": "五百年",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 13,
+  "ch": 927,
+  "orig": "成就伪装",
+  "cand": "就伪装",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 14,
+  "ch": 916,
+  "orig": "半个月不到的世界",
+  "cand": "半个月不到的时间",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 15,
+  "ch": 943,
+  "orig": "展漏",
+  "cand": "展露",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 16,
+  "ch": 941,
+  "orig": "一双的幽黑的",
+  "cand": "一双幽黑的",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 17,
+  "ch": 948,
+  "orig": "她黑楼兰",
+  "cand": "黑楼兰",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 18,
+  "ch": 954,
+  "orig": "天庭已经将完成",
+  "cand": "天庭已经完成",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 19,
+  "ch": 938,
+  "orig": "埋藏在之中",
+  "cand": "埋藏在地下",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 31,
+  "ch": 923,
+  "orig": "他绝地不会灭亡",
+  "cand": "他绝不会灭亡",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": false,
+  "result": "context not found in witness (variant, segmentation, or watermark)"
+ },
+ {
+  "row": 12,
+  "ch": 923,
+  "orig": "心中压力重生",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 9,
+  "ch": 937,
+  "orig": "为了修好了所有的蛊阵",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 21,
+  "ch": 911,
+  "orig": "弹鸡鸡",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 29,
+  "ch": 911,
+  "orig": "星感应",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 30,
+  "ch": 912,
+  "orig": "在现代已经很少见到了",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 34,
+  "ch": 937,
+  "orig": "三十重",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 32,
+  "ch": 932,
+  "orig": "八头荒兽章鱼",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ }
+]

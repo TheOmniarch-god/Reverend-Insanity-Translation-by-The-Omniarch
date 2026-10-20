@@ -1,0 +1,821 @@
+[
+ {
+  "id": "SR-634",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 706,
+    "paragraph": 20,
+    "file": "",
+    "reference_text": "706 p20"
+   }
+  ],
+  "recommended_action": "Repair to 双方都发下了诺言 (batch 037, row 1, source reading: 双发都发下了诺言)",
+  "rationale": "双方 is the usual form; same chapter uses 双方 (p51) Confidence H (0.90).",
+  "confidence": "H (0.90)",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch706): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-635",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 707,
+    "paragraph": 76,
+    "file": "",
+    "reference_text": "707 p76"
+   }
+  ],
+  "recommended_action": "Repair 快 to 块 (batch 037, row 2, source reading: 四十八快仙元石)",
+  "rationale": "Rest of chapter uses 块 for 仙元石 (p64–66) Confidence H (0.95).",
+  "confidence": "H (0.95)",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch707): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-636",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 709,
+    "paragraph": 11,
+    "file": "",
+    "reference_text": "709 p11"
+   }
+  ],
+  "recommended_action": "Delete stray 件 (batch 037, row 3, source reading: 一蹶不振件)",
+  "rationale": "一蹶不振 is the idiom; 件 is stray Confidence H (0.90).",
+  "confidence": "H (0.90)",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch709): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-637",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 717,
+    "paragraph": 49,
+    "file": "",
+    "reference_text": "717 p49"
+   }
+  ],
+  "recommended_action": "Repair 照了道 to 着了道 (batch 037, row 4, source reading: 恐怕要照了道)",
+  "rationale": "着了道 occurs 7 times with the same sense; 照了道 once Confidence M (0.60).",
+  "confidence": "M (0.60)",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch717): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-638",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 722,
+    "paragraph": 36,
+    "file": "",
+    "reference_text": "722 p36"
+   }
+  ],
+  "recommended_action": "Repair 大笑 to 大小 (batch 037, row 5, source reading: 从一个拳头大小，变成脸盆大笑)",
+  "rationale": "脸盆大小 is the usual form (34 hits); 脸盆大笑 appears twice, one here Confidence M–H (0.85).",
+  "confidence": "M–H (0.85)",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch722): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-639",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 723,
+    "paragraph": 6,
+    "file": "",
+    "reference_text": "723 p6"
+   }
+  ],
+  "recommended_action": "Repair 跟据 to 根据 (batch 037, row 6, source reading: 跟据传闻)",
+  "rationale": "根据传闻 occurs 12 times; 跟据传闻 once Confidence M–H (0.85).",
+  "confidence": "M–H (0.85)",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch723): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-640",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 723,
+    "paragraph": 42,
+    "file": "",
+    "reference_text": "723 p42"
+   }
+  ],
+  "recommended_action": "Repair 星点 to 星殿 (batch 037, row 7, source reading: 先进第八星点探路)",
+  "rationale": "第八星殿 occurs 34 times; 第八星点 twice (confirm the second before changing) Confidence M–H (0.80).",
+  "confidence": "M–H (0.80)",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch723): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-641",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 726,
+    "paragraph": 41,
+    "file": "",
+    "reference_text": "726 p41"
+   }
+  ],
+  "recommended_action": "Delete stray 个 (batch 037, row 8, source reading: 直接砸落到地面上个)",
+  "rationale": "地面上个 occurs once; sentence reads without it Confidence M–H (0.80).",
+  "confidence": "M–H (0.80)",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch726): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-642",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 727,
+    "paragraph": 92,
+    "file": "",
+    "reference_text": "727 p92"
+   }
+  ],
+  "recommended_action": "Repair 巨大 to 绝大 (batch 037, row 9, source reading: 巨大多数的中洲蛊仙)",
+  "rationale": "绝大多数 occurs 364 times; 巨大多数 twice (confirm the second) Confidence M–H (0.85).",
+  "confidence": "M–H (0.85)",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch727): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-643",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 728,
+    "paragraph": 56,
+    "file": "",
+    "reference_text": "728 p56"
+   }
+  ],
+  "recommended_action": "Repair 迟 to 寸 (batch 037, row 10, source reading: 两三迟的灰尘)",
+  "rationale": "两三寸 occurs twice (dust depth measure); 两三迟 once Confidence H (0.90).",
+  "confidence": "H (0.90)",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch728): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-644",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 735,
+    "paragraph": 54,
+    "file": "",
+    "reference_text": "735 p54"
+   }
+  ],
+  "recommended_action": "Repair 宝皇天 to 宝黄天 (batch 037, row 11, source reading: 宝皇天中毛民)",
+  "rationale": "宝黄天 is used across the batch (about 50 hits, 706–736); 宝皇天 once. (Recorded earlier as 736 p54; the correct location is 735 p54.) Confidence H.",
+  "confidence": "H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch735): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-645",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 738,
+    "paragraph": 67,
+    "file": "",
+    "reference_text": "738 p67"
+   }
+  ],
+  "recommended_action": "Repair 天都神界 to 天都神君 (batch 037, row 12, source reading: 天都神界之前敲诈古业多次)",
+  "rationale": "Context refers to the character 天都神君; one occurrence of 天都神界 in batch Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch738): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-646",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 741,
+    "paragraph": 4,
+    "file": "",
+    "reference_text": "741 p4"
+   }
+  ],
+  "recommended_action": "Repair 到到了 to 到了 (batch 037, row 13, source reading: 到到了北原)",
+  "rationale": "Duplicated word; single occurrence Confidence H.",
+  "confidence": "H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch741): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-647",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 744,
+    "paragraph": 67,
+    "file": "",
+    "reference_text": "744 p67"
+   }
+  ],
+  "recommended_action": "Repair 云土从 to 云土中 (batch 037, row 14, source reading: 云土从冒出十几个棺椁)",
+  "rationale": "Missing 中 in 云土中冒出; single occurrence Confidence M.",
+  "confidence": "M",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch744): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-648",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 749,
+    "paragraph": 3,
+    "file": "",
+    "reference_text": "749 p3"
+   }
+  ],
+  "recommended_action": "Repair 郊游 to 交游 (batch 037, row 15, source reading: 郊游广阔)",
+  "rationale": "交游广阔 (wide social circle) is the idiom; 郊游广阔 once (also 749 p4) Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch749): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-649",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 752,
+    "paragraph": 6,
+    "file": "",
+    "reference_text": "752 p6"
+   }
+  ],
+  "recommended_action": "Repair 谁狼群 to 水狼群 (batch 037, row 16, source reading: 便将谁狼群收了)",
+  "rationale": "752 p81 has 一支数量众多的水狼群; 谁狼群 once Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "752 p81",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch752): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-650",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 755,
+    "paragraph": 1,
+    "file": "",
+    "reference_text": "755 p1"
+   }
+  ],
+  "recommended_action": "Repair 太上 to 台上 (batch 037, row 17, source reading: 站在太上)",
+  "rationale": "752 p16 uses 台上; 太上 is out of place Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch755): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-651",
+  "category": "Decision / whole-novel reconciliation",
+  "locations": [
+   {
+    "chapter": 709,
+    "paragraph": 55,
+    "file": "",
+    "reference_text": "709 p55; 748 p16–19; 749; 754 p84/87"
+   }
+  ],
+  "recommended_action": "Query only: author inconsistency (both forms used). Decide one form across the novel (乐山乐水 58 hits vs 乐山乐意 18) (batch 037, row 18, source reading: 乐山乐水仙蛊 vs 乐山乐意仙蛊)",
+  "rationale": "Earlier claim that 乐意 is the majority form was wrong. Same chapter (754) uses both forms Confidence L–M (0.30).",
+  "confidence": "L–M (0.30)",
+  "status": "Open decision; unapproved, unapplied",
+  "dependencies": "whole-novel name decision (batch 040 shares none; see 037 Q1)",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch709): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-652",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 712,
+    "paragraph": 15,
+    "file": "",
+    "reference_text": "712 p15"
+   }
+  ],
+  "recommended_action": "Query: possible missing word after 更加 (e.g. 显著) (batch 037, row 19, source reading: 应对金道打击效果更加。)",
+  "rationale": "Sentence ends mid-phrase; not a confirmed omission Confidence L–M (0.40).",
+  "confidence": "L–M (0.40)",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-653",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 711,
+    "paragraph": 9,
+    "file": "",
+    "reference_text": "711 p9"
+   }
+  ],
+  "recommended_action": "Query: 方源师傅 vs 方正 master (wording ambiguous) (batch 037, row 20, source reading: 寄魂蚤中储藏着方源师傅——天鹤上人的魂魄)",
+  "rationale": "方正 is the 仙鹤门 alias of 方源 (698 p14, 16); 711 p10 has 方正 calling 天鹤上人 师傅 Confidence L (0.30).",
+  "confidence": "L (0.30)",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-654",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 714,
+    "paragraph": 56,
+    "file": "",
+    "reference_text": "714 p56"
+   }
+  ],
+  "recommended_action": "Query: verify; 黑楼兰 body is 大力真武体 (103 hits) (batch 037, row 21, source reading: 力绝仙体)",
+  "rationale": "Only occurrence of 力绝仙体 in corpus; possible variant or error Confidence L–M (0.40).",
+  "confidence": "L–M (0.40)",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch714): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-655",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 716,
+    "paragraph": 65,
+    "file": "",
+    "reference_text": "716 p65"
+   }
+  ],
+  "recommended_action": "Query: direction of the 80/20 split (batch 037, row 22, source reading: 此次夺得的战利品你八成我两成)",
+  "rationale": "你八成 used twice in corpus; speakers’ roles decide who gets 80% Confidence L (0.30).",
+  "confidence": "L (0.30)",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-656",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 725,
+    "paragraph": 68,
+    "file": "",
+    "reference_text": "725 p68"
+   }
+  ],
+  "recommended_action": "Query: 应誓 vs 违誓 (break oath) (batch 037, row 23, source reading: 他早就应誓而死)",
+  "rationale": "违誓 occurs twice and 应誓而死 twice; sense points to 违誓; check the other 应誓而死 Confidence L–M (0.50).",
+  "confidence": "L–M (0.50)",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch725): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-657",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 722,
+    "paragraph": 54,
+    "file": "",
+    "reference_text": "722 p54"
+   }
+  ],
+  "recommended_action": "Query: 数量 may be a mis-character for 树木 or 树林 (next sentence describes trees) (batch 037, row 24, source reading: 一片疾奔而来的数量)",
+  "rationale": "One corpus hit; do not change until the Chinese is confirmed Confidence M (0.60).",
+  "confidence": "M (0.60)",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch722): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-658",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 733,
+    "paragraph": 26,
+    "file": "",
+    "reference_text": "733 p26"
+   }
+  ],
+  "recommended_action": "Cross-check the 300-year figure against other chapters (open; unverified) (batch 037, row 25, source reading: 石磊积累近三百年)",
+  "rationale": "No conflicting figure found yet Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "whole-novel timeline",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-659",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 733,
+    "paragraph": 23,
+    "file": "",
+    "reference_text": "733 p23"
+   }
+  ],
+  "recommended_action": "Cross-check lifespan claim (秦百胜 700+ years at 736 p83 is consistent) (batch 037, row 26, source reading: 蛊仙寿命 数百岁，甚至上千岁)",
+  "rationale": "Open flag; no conflict found Confidence L.",
+  "confidence": "L",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "whole-novel timeline",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-660",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 734,
+    "paragraph": 31,
+    "file": "",
+    "reference_text": "734 p31"
+   }
+  ],
+  "recommended_action": "Temporal check: which starting point the 300-plus-year clause measures from (batch 037, row 27, source reading: 四百多年前 … 三百多年后)",
+  "rationale": "Ambiguous timeline; 734 p1 uses 四百多年前的今天 Confidence M.",
+  "confidence": "M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "whole-novel timeline (734 p1)",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-661",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 735,
+    "paragraph": 15,
+    "file": "",
+    "reference_text": "735 p15 vs 730–736"
+   }
+  ],
+  "recommended_action": "Wording check: one term for the same beast class (batch 037, row 28, source reading: 气罡飞天猪 (七转 beast) vs 上古荒兽 (729 p34, 46))",
+  "rationale": "Recorded as inconsistency; no edit yet Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "729 p34, 46",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-662",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 735,
+    "paragraph": 45,
+    "file": "",
+    "reference_text": "735 p45"
+   }
+  ],
+  "recommended_action": "Name variant check: 气罡飞天猪 is the usual name (729 p34, 37, 46; 735 p15) (batch 037, row 29, source reading: 气罡天地猪)",
+  "rationale": "One occurrence of 天地猪 Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "729, 735",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 (ch735): witness copies source wording",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-663",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 735,
+    "paragraph": 15,
+    "file": "",
+    "reference_text": "735 p15 vs 736 p35"
+   }
+  ],
+  "recommended_action": "Count reconciliation (star bat corpse must remain) (batch 037, row 30, source reading: beast corpse count (three remain))",
+  "rationale": "Count works only if the star bat corpse remains; no conflict proven Confidence L.",
+  "confidence": "L",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "736 p35",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-664",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 745,
+    "paragraph": 63,
+    "file": "",
+    "reference_text": "745 p63–64"
+   }
+  ],
+  "recommended_action": "Real temporal mismatch flagged: check 1:38 ratio against 大半年 (batch 037, row 31, source reading: 王庭福地毁灭后，五域时间过去了大半年 (≈19–23 years inside at 1:38))",
+  "rationale": "Arithmetic at 1:38 gives 19–23 years, but the chapter also says 数十年 elsewhere Confidence M.",
+  "confidence": "M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "whole-novel timeline",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-665",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 746,
+    "paragraph": 41,
+    "file": "",
+    "reference_text": "746 p41"
+   }
+  ],
+  "recommended_action": "Temporal check vs 737 p55 (现在才过了数十年而已) (batch 037, row 32, source reading: 在大半年内勇猛精进)",
+  "rationale": "Different starting points; decide what each refers to Confidence M.",
+  "confidence": "M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "737 p55; 745 p63–64",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-666",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 745,
+    "paragraph": 67,
+    "file": "",
+    "reference_text": "745 p67"
+   }
+  ],
+  "recommended_action": "Check 1:5 ratio against 809 p69 (1:5) (batch 037, row 33, source reading: 狐仙福地时间的两个月 / 五倍差距)",
+  "rationale": "Consistent in direction; confirm figures Confidence L.",
+  "confidence": "L",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "809 p69",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-667",
+  "category": "Query (check against source line)",
+  "locations": [
+   {
+    "chapter": 753,
+    "paragraph": 15,
+    "file": "",
+    "reference_text": "753 p15"
+   }
+  ],
+  "recommended_action": "Name check: 三当家 not named in batch; possibly 黎山仙子 (unverified) (batch 037, row 34, source reading: 堂堂的大雪山三当家)",
+  "rationale": "Open check Confidence L.",
+  "confidence": "L",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-668",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 753,
+    "paragraph": 18,
+    "file": "",
+    "reference_text": "753 p18"
+   }
+  ],
+  "recommended_action": "UNVERIFIED claim; check against earlier chapters before treating as canon (batch 037, row 35, source reading: 长毛老祖 was 八转 (per 琅琊地灵 link))",
+  "rationale": "Not cross-checked in session; carried to batches 038–041 (see 838 p?, 844 p33) Confidence M.",
+  "confidence": "M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "753 p18 UNVERIFIED",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-669",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 755,
+    "paragraph": 36,
+    "file": "",
+    "reference_text": "755 p36, p39"
+   }
+  ],
+  "recommended_action": "Ownership/logic: 浪迹天涯 was won by 凤九歌 (754 p60–61); intended object may be 乐山乐水 (batch 037, row 36, source reading: 浪迹天涯、乐山乐水两大仙蛊，都在十号密室的蛊仙手中；若是公然再买浪迹天涯)",
+  "rationale": "Chapter’s own text is inconsistent Confidence M–L.",
+  "confidence": "M–L",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "754 p60–61",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-670",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 755,
+    "paragraph": 54,
+    "file": "",
+    "reference_text": "755 p54"
+   }
+  ],
+  "recommended_action": "Past-life claim; not verified against earlier chapters; check before canon (batch 037, row 37, source reading: 方源前世，楚度战死沙场，杀死他的人就是凤九歌)",
+  "rationale": "UNVERIFIED Confidence M.",
+  "confidence": "M",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "whole-novel 前世 check",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-671",
+  "category": "Decision / whole-novel reconciliation",
+  "locations": [
+   {
+    "chapter": 737,
+    "paragraph": 66,
+    "file": "",
+    "reference_text": "737 p66"
+   }
+  ],
+  "recommended_action": "Timeline anchor (see N8); no edit (batch 037, row 38, source reading: 前世 青茅山 自爆 ... 现在才过了数十年而已)",
+  "rationale": "Consistent with 737 p55 Confidence L.",
+  "confidence": "L",
+  "status": "Open decision; unapproved, unapplied",
+  "dependencies": "N8",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-672",
+  "category": "Query",
+  "locations": [
+   {
+    "chapter": 752,
+    "paragraph": 56,
+    "file": "",
+    "reference_text": "752 p56"
+   }
+  ],
+  "recommended_action": "Numbering check against 750/751 not done (batch 037, row 39, source reading: 第二十三件拍品)",
+  "rationale": "Low priority Confidence L.",
+  "confidence": "L",
+  "status": "Query; unapproved, unapplied",
+  "dependencies": "750–751",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ }
+]

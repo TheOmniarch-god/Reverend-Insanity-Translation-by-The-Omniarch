@@ -1,0 +1,31 @@
+{
+  "batch": "038",
+  "chapters": "756-805",
+  "chapter_count": 50,
+  "source_check": "batch-038-source.json (0 mismatches at build time)",
+  "reading_status": "complete (756-805); notes in batch-038-notes/reading-notes-756-759.md (appended) and report",
+  "report_rows": 35,
+  "confidence_counts": {
+    "M–H": 13,
+    "M": 8,
+    "L–M": 6,
+    "M–H (name)": 1,
+    "L": 7
+  },
+  "approved": 0,
+  "applied": 0,
+  "source_edits": 0,
+  "witness_collation": "Hetushu book 7640, pages for ch756-805 (automated token-level comparison, witness-collation-038.json; witness pages kept in /tmp only)",
+  "witness_results": {
+    "witness copies source wording": 21,
+    "witness shows candidate wording": 1
+  },
+  "witness_candidates_checked": 22,
+  "workbook_rows": "added: proposal ledger SR-591 to SR-625",
+  "docx": "Batch-038-Chapters-756-805.docx",
+  "known_limits": [
+    "Batch 038 ledger entries sit after batch 041 in ID order (SR-591+); IDs are sequential by creation, not by batch.",
+    "Row 15 is a grouped list of one-off typos without a single location; not individually collated.",
+    "Rows 18, 20, 22 are whole-novel decisions (count, name, power)."
+  ]
+}

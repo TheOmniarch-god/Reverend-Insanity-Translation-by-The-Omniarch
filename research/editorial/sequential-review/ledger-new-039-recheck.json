@@ -1,0 +1,107 @@
+[
+ {
+  "id": "SR-711",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 850,
+    "paragraph": 6,
+    "file": "",
+    "reference_text": "850 p6"
+   }
+  ],
+  "recommended_action": "Repair 能能 to 能 (batch 039, row 48, source reading: 能能看出)",
+  "rationale": "能能看出 is a doubled-character slip; 能看出 appears 4 times. Confidence H.",
+  "confidence": "H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-712",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 850,
+    "paragraph": 9,
+    "file": "",
+    "reference_text": "850 p9"
+   }
+  ],
+  "recommended_action": "Repair 表现现象 to 表面现象 (batch 039, row 49, source reading: 只是表现现象)",
+  "rationale": "The phrase means the surface appearance of the damage; 表现现象 occurs once, and the surrounding sentence describes the outward effect. Confidence M–H.",
+  "confidence": "M–H",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-713",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 842,
+    "paragraph": 4,
+    "file": "",
+    "reference_text": "842 p4"
+   }
+  ],
+  "recommended_action": "Repair to 从中阶出题者的用意 (delete the doubled 中 and 出); confirm whether 看 is missing (batch 039, row 50, source reading: 从中中阶出出题者的用意)",
+  "rationale": "Doubled characters in the source; the intended sense is studying the setter's intent from the intermediate-level questions. Two possible repairs; editor to choose. Confidence M.",
+  "confidence": "M",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-714",
+  "category": "Typo or wording repair candidate",
+  "locations": [
+   {
+    "chapter": 841,
+    "paragraph": 16,
+    "file": "",
+    "reference_text": "841 p16"
+   }
+  ],
+  "recommended_action": "Repair 太太太 to 太太 (or 太) (batch 039, row 51, source reading: 仙蛊唯一，太太太难炼制成功了)",
+  "rationale": "Triple 太 is an unlikely stutter in narration; 太太 is the common form. Confidence M.",
+  "confidence": "M",
+  "status": "Held repair candidate; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-715",
+  "category": "Decision / whole-novel reconciliation",
+  "locations": [
+   {
+    "chapter": 841,
+    "paragraph": 67,
+    "file": "",
+    "reference_text": "841 p67"
+   }
+  ],
+  "recommended_action": "Query: 这这这 (dialogue stutter or slip) (batch 039, row 52, source reading: 但，这这这方源，怎么一上来就炼蛊了？)",
+  "rationale": "Triple 这 also appears at 831 p51. Decide one rule for dialogue stutter before any edit; do not change individually. Confidence L–M.",
+  "confidence": "L–M",
+  "status": "Open decision; unapproved, unapplied",
+  "dependencies": "831 p51 (same form)",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated: no single-token candidate for automated witness check.",
+  "approved": false,
+  "applied": false
+ }
+]
