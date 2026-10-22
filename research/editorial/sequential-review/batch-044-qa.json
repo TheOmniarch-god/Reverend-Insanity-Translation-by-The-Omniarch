@@ -1,0 +1,34 @@
+{
+ "batch": "044",
+ "chapters": "1056-1105",
+ "chapter_count": 50,
+ "source_check": "batch-044-source.json (50 chapters, 4,699 paragraphs). Every row token verified present in its stated paragraph (0 misses).",
+ "reading_status": "complete (1056-1105); notes in batch-044-notes/reading-notes-1056-1105.md",
+ "report_rows": 31,
+ "confidence_counts": {
+  "H–M": 7,
+  "M–H": 4,
+  "L–M": 4,
+  "H": 12,
+  "L": 1,
+  "M": 3
+ },
+ "approved": 0,
+ "applied": 0,
+ "source_edits": 0,
+ "witness_collation": "Hetushu book 7640 automated token-level comparison (witness-collation-044.json); 50 chapter pages fetched and title-checked (50 match).",
+ "witness_results": {
+  "witness copies source wording (incl. 4 neutral: 3 web-copy markup splits 调|教, 1 watermark)": 27,
+  "witness shows candidate wording (web copy only)": 4
+ },
+ "workbook_rows": "added (chapter completion and paragraph register 1056-1105; ledger sheet SR-826 to SR-856)",
+ "ledger_entries": "SR-826 to SR-856",
+ "docx": "Batch-044-Chapters-1056-1105.docx",
+ "known_limits": [
+  "Set-wide 调教方正 (1066 p16, 1084 p53, 1088 p49) and 四面八方 (SR-809, SR-822–825, SR-856) decisions outstanding.",
+  "特意 non-ordinary usage (1052 p50, 1075 p24, 1079 p82): one whole-novel rule needed.",
+  "1083 p23 八成 belongs to the deferred 六成/八成 group; no row.",
+  "Queries carry no edit: 1057 p51, 1068 p60, 1075 p24, 1079 p82, 1093 p8, 1098 p78.",
+  "Whole-novel temporal reconciliation outstanding (1098 p78 半年前)."
+ ]
+}

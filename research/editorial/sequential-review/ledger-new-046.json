@@ -1,0 +1,1073 @@
+[
+ {
+  "id": "SR-891",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 1156,
+    "paragraph": 15,
+    "file": "",
+    "reference_text": "1156 p15"
+   }
+  ],
+  "recommended_action": "Repair 另一位着望着青年蛊仙 to 另一位望着青年蛊仙 (another one gazing at the young Gu Immortal). (batch 046, row 1; source token: 着望着)",
+  "rationale": "着望着 is unique in the corpus; 望着 is the usual verb. Confidence H–M (0.90).",
+  "confidence": "H–M (0.90)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-892",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1158,
+    "paragraph": 15,
+    "file": "",
+    "reference_text": "1158 p15"
+   }
+  ],
+  "recommended_action": "Repair 还想起了雷 to 还响起了雷 (thunder sounded again). (batch 046, row 2; source token: 还想起了雷)",
+  "rationale": "还想起了雷 is unique; 还响起了雷 is not in the corpus either, so the fix is a sense judgment (thunder sounds, not recalled). Confirm with the source sentence before applying. Confidence M (0.75).",
+  "confidence": "M (0.75)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-893",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 1160,
+    "paragraph": 19,
+    "file": "",
+    "reference_text": "1160 p19"
+   }
+  ],
+  "recommended_action": "Repair 起着骆驼追杀 to 骑着骆驼追杀 (chasing while riding a camel). (batch 046, row 3; source token: 起着骆驼)",
+  "rationale": "起着骆驼 is unique; 骑着骆驼 is the phrase used elsewhere (corpus-checked). Confidence H (0.95).",
+  "confidence": "H (0.95)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-894",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1160,
+    "paragraph": 20,
+    "file": "",
+    "reference_text": "1160 p20"
+   }
+  ],
+  "recommended_action": "Repair 否认我要把你大卸八块 to 否则我要把你大卸八块 (otherwise I will cut you into pieces). (batch 046, row 4; source token: 否认我要)",
+  "rationale": "否认我要 is unique; 否则我要 is the conditional form (corpus-checked). Confidence H (0.90).",
+  "confidence": "H (0.90)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: shows candidate (web copy only)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-895",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1160,
+    "paragraph": 34,
+    "file": "",
+    "reference_text": "1160 p34"
+   }
+  ],
+  "recommended_action": "Repair 长期以为下去 to 长期以往下去 (if this goes on for long). (batch 046, row 5; source token: 长期以为)",
+  "rationale": "长期以为 is unique; 长期以往 x1 (1088 p21). Confidence M–H (0.85).",
+  "confidence": "M–H (0.85)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "1088 p21",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-896",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1161,
+    "paragraph": 51,
+    "file": "",
+    "reference_text": "1161 p51"
+   }
+  ],
+  "recommended_action": "Repair 五族大联盟 to 四族大联盟 (the Four Races Grand Alliance). (batch 046, row 6; source token: 五族大联盟)",
+  "rationale": "四族大联盟 x11 (1146–1199); 五族大联盟 x1 only. Do not use 异族 here; see set-wide note on 异族大联盟. Confidence H (0.85).",
+  "confidence": "H (0.85)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "set-wide 异族大联盟 decision (1161 p37, 1172 p65, 1187 p51)",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-897",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1162,
+    "paragraph": 88,
+    "file": "",
+    "reference_text": "1162 p88"
+   }
+  ],
+  "recommended_action": "Repair 不能在前往北部冰原 to 不能再前往北部冰原 (can no longer go to the northern ice field). (batch 046, row 7; source token: 不能在前往)",
+  "rationale": "不能在前往 is unique; 再 is the expected word. Confidence H (0.90).",
+  "confidence": "H (0.90)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-898",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 1163,
+    "paragraph": 48,
+    "file": "",
+    "reference_text": "1163 p48"
+   }
+  ],
+  "recommended_action": "Repair 还是知道再哪个地域 to 还是知道在哪个地域 (still knows in which region). (batch 046, row 8; source token: 再哪个地域)",
+  "rationale": "再哪个地域 is unique; 在哪个地域 is the phrase. Confidence H (0.95).",
+  "confidence": "H (0.95)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-899",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 1163,
+    "paragraph": 73,
+    "file": "",
+    "reference_text": "1163 p73"
+   }
+  ],
+  "recommended_action": "Repair 四面八法拥挤过来 to 四面八方拥挤过来 (crowded in from all sides). Part of the set-wide 四面八方 item. (batch 046, row 9; source token: 四面八法)",
+  "rationale": "四面八法 x8 in corpus (848, 904, 967, 1004, 1050, 1096, 1163, 1196) vs 四面八方 x32. Same token family as SR-809, SR-822–825, SR-856. Confidence H (0.95).",
+  "confidence": "H (0.95)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "SR-809; SR-822–825; SR-856; 1196 p16",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: shows candidate (web copy only)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-900",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1165,
+    "paragraph": 62,
+    "file": "",
+    "reference_text": "1165 p62"
+   }
+  ],
+  "recommended_action": "Repair 就约束收下 to 就约束收敛 (then restrain and gather in). (batch 046, row 10; source token: 约束收下)",
+  "rationale": "约束收下 is unique (x1); 收敛 is the usual verb for restraining a power. Judgment, not a corpus match. Confidence M (0.60).",
+  "confidence": "M (0.60)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-901",
+  "category": "Repair (name)",
+  "locations": [
+   {
+    "chapter": 1165,
+    "paragraph": 87,
+    "file": "",
+    "reference_text": "1165 p87"
+   }
+  ],
+  "recommended_action": "Repair 蛊仙周青青大人 to 蛊仙商青青大人 (the same name as the rest of the corpus). (batch 046, row 11; source token: 周青青)",
+  "rationale": "商青青 x25 vs 周青青 x1 (this line). Confidence H–M (0.80).",
+  "confidence": "H–M (0.80)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-902",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 1167,
+    "paragraph": 82,
+    "file": "",
+    "reference_text": "1167 p82"
+   }
+  ],
+  "recommended_action": "Repair 则了多一片腐蚀的黑暗沼泽 to 则多了一片腐蚀的黑暗沼泽 (added a corroded dark marsh). (batch 046, row 12; source token: 则了多)",
+  "rationale": "则了多 is unique (corpus-checked); 则多了 is the normal order. Confidence H (0.95).",
+  "confidence": "H (0.95)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-903",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 1169,
+    "paragraph": 10,
+    "file": "",
+    "reference_text": "1169 p10"
+   }
+  ],
+  "recommended_action": "Repair 只需要调戏半日 to 只需要调息半日 (only half a day of rest). (batch 046, row 13; source token: 调戏半日)",
+  "rationale": "调戏半日 x1; 调息半日 x1 at 1169 p13 in the same passage uses the correct term. Confidence H (0.95).",
+  "confidence": "H (0.95)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "1169 p13",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: shows candidate (web copy only)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-904",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1171,
+    "paragraph": 51,
+    "file": "",
+    "reference_text": "1171 p51"
+   }
+  ],
+  "recommended_action": "Repair 宙道防御杀招被迫 to 宙道防御杀招被破 (the defence technique was broken). (batch 046, row 14; source token: 杀招被迫)",
+  "rationale": "杀招被迫 unique (corpus-checked). Context: the defence is broken by the blow. Judgment; confirm the sentence before applying. Confidence M (0.60).",
+  "confidence": "M (0.60)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-905",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 1173,
+    "paragraph": 75,
+    "file": "",
+    "reference_text": "1173 p75"
+   }
+  ],
+  "recommended_action": "Repair 为自己整天剑道道痕 to 为自己增添剑道道痕 (add sword-Dao traces). (batch 046, row 15; source token: 整天剑道)",
+  "rationale": "整天剑道 unique; 增添剑道 x2 elsewhere. Confidence H (0.95).",
+  "confidence": "H (0.95)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: shows candidate (web copy only)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-906",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 1176,
+    "paragraph": 65,
+    "file": "",
+    "reference_text": "1176 p65"
+   }
+  ],
+  "recommended_action": "Repair 底蕴很是很浅薄 to 底蕴很浅薄 (the foundation is very shallow). (batch 046, row 16; source token: 很是很浅薄)",
+  "rationale": "很是很 unique (corpus-checked); 很浅薄 x4. Confidence H (0.90).",
+  "confidence": "H (0.90)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: context not found",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-907",
+  "category": "Term (set-wide)",
+  "locations": [
+   {
+    "chapter": 1177,
+    "paragraph": 25,
+    "file": "",
+    "reference_text": "1177 p25"
+   }
+  ],
+  "recommended_action": "Term: 至尊福地 likely should be 至尊仙窍 (Fang Yuan's Supreme Immortal Aperture). Decide with the set-wide rule (1113 p110, 1139 p23, 1139 p26). (batch 046, row 17; source token: 至尊福地)",
+  "rationale": "至尊福地 x4 (1113 p110, 1139 p23, 1139 p26, 1177 p25) vs 至尊仙窍 x179. Confidence M (0.60).",
+  "confidence": "M (0.60)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "1113 p110; 1139 p23; 1139 p26",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-908",
+  "category": "Repair (name)",
+  "locations": [
+   {
+    "chapter": 1178,
+    "paragraph": 23,
+    "file": "",
+    "reference_text": "1178 p23"
+   }
+  ],
+  "recommended_action": "Repair 配合香巫鹰雕狼作战 to 配合香巫阴雕狼作战 (the Xiangwu Yin-Eagle Wolf). (batch 046, row 18; source token: 香巫鹰雕狼)",
+  "rationale": "香巫鹰雕狼 unique; 香巫阴雕狼 x38 across the corpus, and the same beast is named that way in the same passage. Confidence H (0.95).",
+  "confidence": "H (0.95)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-909",
+  "category": "Repair (name)",
+  "locations": [
+   {
+    "chapter": 1180,
+    "paragraph": 28,
+    "file": "",
+    "reference_text": "1180 p28"
+   }
+  ],
+  "recommended_action": "Repair 五相大法师瞪大双眼 to 五行大法师瞪大双眼 (Five Elements Great Dharma Master). (batch 046, row 19; source token: 五相大法师)",
+  "rationale": "五相大法师 unique; 五行大法师 x52. Confidence H (0.95).",
+  "confidence": "H (0.95)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-910",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1185,
+    "paragraph": 2,
+    "file": "",
+    "reference_text": "1185 p2"
+   }
+  ],
+  "recommended_action": "Repair 化为直接至尊仙窍的一部分 to 化为至尊仙窍的一部分 (became part of the Supreme Immortal Aperture). (batch 046, row 20; source token: 直接至尊仙窍)",
+  "rationale": "直接至尊 unique (corpus-checked); the stray 直接 is not needed. Confidence M–H (0.80).",
+  "confidence": "M–H (0.80)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-911",
+  "category": "Repair (grammar)",
+  "locations": [
+   {
+    "chapter": 1185,
+    "paragraph": 74,
+    "file": "",
+    "reference_text": "1185 p74"
+   }
+  ],
+  "recommended_action": "Repair the misplaced 之外: 不仅第六次地灾消弭，灾劫降临时间也重新计算，而且还向前跳了四次 (the sixth disaster vanished, the disaster timing was also recalculated, and it jumped four times). (batch 046, row 21; source token: 降临时间重新计算之外，而且)",
+  "rationale": "重新计算之外 is unique; 之外 is misplaced in the sentence. Confidence M (0.75).",
+  "confidence": "M (0.75)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-912",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 1186,
+    "paragraph": 5,
+    "file": "",
+    "reference_text": "1186 p5"
+   }
+  ],
+  "recommended_action": "Repair 收获的到道痕 to 收获到道痕 (gained Dao traces). (batch 046, row 22; source token: 收获的到)",
+  "rationale": "收获的到 unique; 收获到 x1 (1033 p51). Confidence H (0.90).",
+  "confidence": "H (0.90)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-913",
+  "category": "Query (wording)",
+  "locations": [
+   {
+    "chapter": 1187,
+    "paragraph": 78,
+    "file": "",
+    "reference_text": "1187 p78"
+   }
+  ],
+  "recommended_action": "Query: 他杀性本来就是尊重中最重的 may mean 尊者 (the grade of Honoured Immortal). Check the sentence before any edit; do not apply yet. (batch 046, row 23; source token: 尊重中最重的)",
+  "rationale": "尊重 is unique in the corpus; 尊者 is the rank term used elsewhere. Confidence M (0.55).",
+  "confidence": "M (0.55)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: context not found",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-914",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 1188,
+    "paragraph": 67,
+    "file": "",
+    "reference_text": "1188 p67"
+   }
+  ],
+  "recommended_action": "Repair 步步向走在普通的平地上 to 步步都走在普通的平地上 (every step on ordinary ground). (batch 046, row 24; source token: 步步向走)",
+  "rationale": "步步向走 unique (corpus-checked). Confidence H (0.90).",
+  "confidence": "H (0.90)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-915",
+  "category": "Query (term)",
+  "locations": [
+   {
+    "chapter": 1189,
+    "paragraph": 19,
+    "file": "",
+    "reference_text": "1189 p19"
+   }
+  ],
+  "recommended_action": "Query: 权利名声 (power and fame). Check 权利/权力 as a set-wide term choice (1189 p19; 1193 p56 有具体定夺的权利). Do not edit yet. (batch 046, row 25; source token: 权利名声)",
+  "rationale": "权力名声 x0 in corpus; the same 权利 usage appears at 1193 p56. The 最高权利 check (1049 p44) is still unrun. Confidence L–M (0.45).",
+  "confidence": "L–M (0.45)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "1049 p44 (unrun check); 1193 p56",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-916",
+  "category": "Repair (idiom)",
+  "locations": [
+   {
+    "chapter": 1190,
+    "paragraph": 5,
+    "file": "",
+    "reference_text": "1190 p5"
+   }
+  ],
+  "recommended_action": "Repair 随风见涨 to 迎风见涨 (rising with the wind, the idiom for swelling water). (batch 046, row 26; source token: 随风见涨)",
+  "rationale": "随风见涨 unique; 迎风见涨 is not in the corpus, so this rests on the idiom, not corpus usage. Confirm with the source sentence before applying. Confidence M (0.80).",
+  "confidence": "M (0.80)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-917",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1190,
+    "paragraph": 54,
+    "file": "",
+    "reference_text": "1190 p54"
+   }
+  ],
+  "recommended_action": "Repair 和宫家的关系有不好 to 和宫家的关系不好 (poor relations with the Gong family). (batch 046, row 27; source token: 和宫家的关系有不好)",
+  "rationale": "关系有不好 unique; the stray 有 is not needed. Confidence H (0.90).",
+  "confidence": "H (0.90)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-918",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1190,
+    "paragraph": 65,
+    "file": "",
+    "reference_text": "1190 p65"
+   }
+  ],
+  "recommended_action": "Repair 对付他根本不想的正道势力 to 对付他根本不想对付的正道势力 (the orthodox forces he has no wish to fight). (batch 046, row 28; source token: 对付他根本不想的正道势力)",
+  "rationale": "根本不想的 is unique; the verb 对付 is missing from the clause. Confidence M (0.70).",
+  "confidence": "M (0.70)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-919",
+  "category": "Query (term)",
+  "locations": [
+   {
+    "chapter": 1190,
+    "paragraph": 78,
+    "file": "",
+    "reference_text": "1190 p78"
+   }
+  ],
+  "recommended_action": "Term query: 血原 vs 血战平原 for the battlefield (1190 p76 血战平原; 1190 p78–85 血原). Decide one naming rule. Do not edit yet. (batch 046, row 29; source token: 血原武斗)",
+  "rationale": "血战平原 x5 (1190 p76, 1193 p43, 1196 p1, 1201 p2, 1205 p40); 血原 x4 (861 p81, 1190 p78/79/85). Confidence L–M (0.40).",
+  "confidence": "L–M (0.40)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-920",
+  "category": "Query (wording)",
+  "locations": [
+   {
+    "chapter": 1194,
+    "paragraph": 15,
+    "file": "",
+    "reference_text": "1194 p15"
+   }
+  ],
+  "recommended_action": "Query: 谈笑宴宴 (chatting at a banquet). The standard idiom is 谈笑晏晏. Do not edit yet; check the set-wide form first. (batch 046, row 30; source token: 谈笑宴宴)",
+  "rationale": "谈笑宴宴 x3 (919 p2, 1120 p46, 1194 p15); 谈笑晏晏 x0. Consistent usage across three chapters may be an author form. Confidence L–M (0.45).",
+  "confidence": "L–M (0.45)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "919 p2; 1120 p46",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-921",
+  "category": "Repair (idiom)",
+  "locations": [
+   {
+    "chapter": 1194,
+    "paragraph": 48,
+    "file": "",
+    "reference_text": "1194 p48"
+   }
+  ],
+  "recommended_action": "Repair 影无邪不以为杵 to 影无邪不以为忤 (not offended). (batch 046, row 31; source token: 不以为杵)",
+  "rationale": "不以为杵 unique; 不以为忤 is the idiom. Confidence H (0.90).",
+  "confidence": "H (0.90)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-922",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1195,
+    "paragraph": 44,
+    "file": "",
+    "reference_text": "1195 p44"
+   }
+  ],
+  "recommended_action": "Repair 就算他不出场，我要轮到我了 to 就算他不出场，也该轮到我了 (even if he does not come out, it is my turn). (batch 046, row 32; source token: 我要轮到我了)",
+  "rationale": "我要轮到我了 unique; the rhetorical 也该 fits the sentence. Confidence H–M (0.80).",
+  "confidence": "H–M (0.80)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-923",
+  "category": "Repair (idiom)",
+  "locations": [
+   {
+    "chapter": 1195,
+    "paragraph": 48,
+    "file": "",
+    "reference_text": "1195 p48"
+   }
+  ],
+  "recommended_action": "Repair 颜面无关 to 颜面无光 (lost face). (batch 046, row 33; source token: 颜面无关)",
+  "rationale": "颜面无关 unique (corpus-checked); 颜面无光 is the idiom. Confidence H (0.90).",
+  "confidence": "H (0.90)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: context not found",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-924",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 1196,
+    "paragraph": 16,
+    "file": "",
+    "reference_text": "1196 p16"
+   }
+  ],
+  "recommended_action": "Repair 四面八法陡然一围 to 四面八方陡然一围 (surrounded from all directions). Part of the set-wide 四面八方 item. (batch 046, row 34; source token: 四面八法)",
+  "rationale": "Same token family as 1163 p73 and the set-wide note. Confidence H (0.95).",
+  "confidence": "H (0.95)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "SR-809; SR-822–825; SR-856; 1163 p73",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: shows candidate (web copy only)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-925",
+  "category": "Repair (onomatopoeia, set-wide)",
+  "locations": [
+   {
+    "chapter": 1196,
+    "paragraph": 40,
+    "file": "",
+    "reference_text": "1196 p40"
+   }
+  ],
+  "recommended_action": "Repair 楚度心中戈登一下 to 楚度心中咯噔一下 (his heart skipped). Part of the set-wide 戈登→咯噔 item. (batch 046, row 35; source token: 戈登)",
+  "rationale": "戈登 is a misreading of the onomatopoeia; the same fix is proposed at 982 p44, 1050 p43 and 1055 p104. Confidence H–M (0.85).",
+  "confidence": "H–M (0.85)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "982 p44; 1050 p43; 1055 p104",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-926",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1196,
+    "paragraph": 48,
+    "file": "",
+    "reference_text": "1196 p48"
+   }
+  ],
+  "recommended_action": "Repair 想不通为什么对方会忽然将摆脱了自己的招牌手段 to 竟摆脱了 (how he had suddenly escaped the signature technique). (batch 046, row 36; source token: 将摆脱了)",
+  "rationale": "将摆脱了 unique; 竟 is the expected adverb. Confidence M–H (0.80).",
+  "confidence": "M–H (0.80)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-927",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 1196,
+    "paragraph": 83,
+    "file": "",
+    "reference_text": "1196 p83"
+   }
+  ],
+  "recommended_action": "Repair 向雪无痕主动表面自己要收购仙窍的意向 to 主动表明自己 (openly stated his intention). (batch 046, row 37; source token: 主动表面自己)",
+  "rationale": "主动表面 unique (corpus-checked); 表明 is the verb. Confidence H (0.90).",
+  "confidence": "H (0.90)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-928",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1197,
+    "paragraph": 7,
+    "file": "",
+    "reference_text": "1197 p7"
+   }
+  ],
+  "recommended_action": "Repair 因为柳长老中，有一头上极天鹰 to 因为柳长老处有一头上极天鹰 (because Elder Liu has a Supreme Pole Eagle). (batch 046, row 38; source token: 柳长老中，有)",
+  "rationale": "柳长老中，有 is unique; 处 (at / with) is the expected particle. Confidence M (0.70).",
+  "confidence": "M (0.70)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-929",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1197,
+    "paragraph": 98,
+    "file": "",
+    "reference_text": "1197 p98"
+   }
+  ],
+  "recommended_action": "Repair 方源就像感觉扫到了一个豆腐块 to 方源就像扫到了一个豆腐块 (as if he had brushed against a block of tofu). (batch 046, row 39; source token: 像感觉扫到)",
+  "rationale": "像感觉扫到 is unique; a stray 感觉 is in the middle. Confidence H–M (0.80).",
+  "confidence": "H–M (0.80)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-930",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1198,
+    "paragraph": 6,
+    "file": "",
+    "reference_text": "1198 p6"
+   }
+  ],
+  "recommended_action": "Repair 虽然和真正的剑蛟，还有所察觉 to 还有所差距 (there is still a gap from a true sword-dragon). (batch 046, row 40; source token: 还有所察觉)",
+  "rationale": "还有所察觉 unique; 差距 is the sense intended. Confidence H–M (0.80).",
+  "confidence": "H–M (0.80)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: shows candidate (web copy only)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-931",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 1198,
+    "paragraph": 23,
+    "file": "",
+    "reference_text": "1198 p23"
+   }
+  ],
+  "recommended_action": "Repair 乌青墨石上，着显现出了一丝儿裂痕 to 显现出 (a hairline crack appeared). (batch 046, row 41; source token: 着显现出)",
+  "rationale": "着显现出 unique (corpus-checked); the stray 着 is not needed. Confidence H (0.90).",
+  "confidence": "H (0.90)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: context not found",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-932",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1198,
+    "paragraph": 69,
+    "file": "",
+    "reference_text": "1198 p69"
+   }
+  ],
+  "recommended_action": "Repair 削免当中的一些差异 to 消除当中的一些差异 (eliminate some differences). (batch 046, row 42; source token: 削免)",
+  "rationale": "削免 unique (corpus-checked); 消除 x27 in the corpus. Confidence M (0.70).",
+  "confidence": "M (0.70)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-933",
+  "category": "Repair (negation)",
+  "locations": [
+   {
+    "chapter": 1201,
+    "paragraph": 42,
+    "file": "",
+    "reference_text": "1201 p42"
+   }
+  ],
+  "recommended_action": "Repair 方源至今为止，也为彻底炼化成功一颗完整的星辰 to 也未能彻底炼化成功一颗完整的星辰 (has also not yet fully refined one complete star). The negation is needed for the sense. (batch 046, row 43; source token: 也为彻底炼化)",
+  "rationale": "也为彻底炼化 unique; the sentence contrasts the star-eye Gu's progress. Confirm the reading before applying. Confidence M–H (0.75).",
+  "confidence": "M–H (0.75)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-934",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1201,
+    "paragraph": 46,
+    "file": "",
+    "reference_text": "1201 p46"
+   }
+  ],
+  "recommended_action": "Repair 实在这个太过厉害 to 实在太过厉害 (too powerful). (batch 046, row 44; source token: 实在这个太过)",
+  "rationale": "实在这个太过 unique; 实在太过 x13. Confidence H (0.90).",
+  "confidence": "H (0.90)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-935",
+  "category": "Repair (name)",
+  "locations": [
+   {
+    "chapter": 1202,
+    "paragraph": 34,
+    "file": "",
+    "reference_text": "1202 p34"
+   }
+  ],
+  "recommended_action": "Repair 第一个闯进贴鹰福地 to 第一个闯进铁鹰福地 (the first to break into Iron Eagle Blessed Land). (batch 046, row 45; source token: 贴鹰福地)",
+  "rationale": "贴鹰福地 unique; 铁鹰福地 x84. Confidence H (0.95).",
+  "confidence": "H (0.95)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: shows candidate (web copy only)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-936",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 1203,
+    "paragraph": 97,
+    "file": "",
+    "reference_text": "1203 p97"
+   }
+  ],
+  "recommended_action": "Repair 一点要让这柳贯一 to 一定要让这柳贯一 (must make this Liu Guanyi). (batch 046, row 46; source token: 一点要让)",
+  "rationale": "一点要让 unique; 一定要让 x1 elsewhere. Confidence H (0.95).",
+  "confidence": "H (0.95)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-937",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 1204,
+    "paragraph": 69,
+    "file": "",
+    "reference_text": "1204 p69"
+   }
+  ],
+  "recommended_action": "Repair 到目前为之 to 到目前为止 (so far). (batch 046, row 47; source token: 到目前为之)",
+  "rationale": "到目前为之 unique; 到目前为止 x4. Confidence H (0.95).",
+  "confidence": "H (0.95)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-938",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1205,
+    "paragraph": 16,
+    "file": "",
+    "reference_text": "1205 p16"
+   }
+  ],
+  "recommended_action": "Repair 耶律群星的魂魄，也比削掉了一部分 to 也被削掉了一部分 (his soul was also partly cut away). (batch 046, row 48; source token: 也比削掉)",
+  "rationale": "也比削掉 unique; 被 is missing. Confidence H (0.90).",
+  "confidence": "H (0.90)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-939",
+  "category": "Repair (wording)",
+  "locations": [
+   {
+    "chapter": 1205,
+    "paragraph": 25,
+    "file": "",
+    "reference_text": "1205 p25"
+   }
+  ],
+  "recommended_action": "Repair 视野中，已经产生了模糊的。 to 视野中，已经产生了模糊。 (his vision had already blurred). (batch 046, row 49; source token: 产生了模糊的)",
+  "rationale": "产生了模糊的 unique (trailing 的); 产生了模糊 x1 (776 p64). Confidence H (0.85).",
+  "confidence": "H (0.85)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "776 p64",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-940",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 1205,
+    "paragraph": 77,
+    "file": "",
+    "reference_text": "1205 p77"
+   }
+  ],
+  "recommended_action": "Repair 我现在只不过只是剑子 to 我现在只不过是剑子 (I am only a sword-master). (batch 046, row 50; source token: 只不过只是)",
+  "rationale": "只不过只是 unique; 只不过是 x1 (1039 p46). Confidence H (0.90).",
+  "confidence": "H (0.90)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "1039 p46",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-941",
+  "category": "Query (wording)",
+  "locations": [
+   {
+    "chapter": 1156,
+    "paragraph": 51,
+    "file": "",
+    "reference_text": "1156 p51"
+   }
+  ],
+  "recommended_action": "Query: 宛若蝼蚁堕落江河 (like ants falling into a river). Do not edit yet. (batch 046, row 51; source token: 蝼蚁堕落)",
+  "rationale": "蝼蚁堕落 unique; 蝼蚁 is common (x9 elsewhere). The image may be intended. Confidence L (0.25).",
+  "confidence": "L (0.25)",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "none",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Hetushu 7640 collation: copies source (neutral)",
+  "approved": false,
+  "applied": false
+ }
+]

@@ -1,0 +1,33 @@
+{
+ "batch": "053",
+ "chapters": "1506-1555",
+ "chapter_count": 50,
+ "source_check": "batch-053-source.json (50 chapters, 3,852 paragraphs, 142,237 characters). Every row token verified present in its stated paragraph (0 misses).",
+ "reading_status": "complete (1506-1555); flags in tmp/b053-flags.txt",
+ "report_rows": 38,
+ "confidence_counts": {
+  "M-L": 3,
+  "L": 1,
+  "M-H": 4,
+  "H": 24,
+  "M": 2,
+  "L-M": 4
+ },
+ "approved": 0,
+ "applied": 0,
+ "source_edits": 0,
+ "witness_collation": "Hetushu book 7640 automated token-level comparison (witness-collation-053.json); 50 chapter pages fetched and title-checked (50 match).",
+ "witness_results": {
+  "witness copies source wording": 35,
+  "context not found in witness (variant, segmentation, or watermark)": 3
+ },
+ "workbook_rows": "added (chapter completion and paragraph register 1506-1555; ledger sheet SR-1309 onward)",
+ "ledger_entries": "SR-1309 to SR-1346",
+ "docx": "Batch-053-Chapters-1506-1555.docx",
+ "corrections": [],
+ "known_limits": [
+  "Decision: 陈衣 sect name (元莲派 / 天莲派), 1526 p35.",
+  "Queries carry no edit: 1506 p47, 1506 p19, 1520 p30, 1530 p48, 1531 p13, 1551 p60, 1552 p6."
+ ],
+ "witness_note": "3 rows context not found (1510 p5, 1519 p26, 1529 p31); 35 copy source wording (web copy only, neutral)."
+}

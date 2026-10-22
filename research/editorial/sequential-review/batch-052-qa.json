@@ -1,0 +1,35 @@
+{
+ "batch": "052",
+ "chapters": "1456-1505",
+ "chapter_count": 50,
+ "source_check": "batch-052-source.json (50 chapters, 4,269 paragraphs, 142,369 characters). Every row token verified present in its stated paragraph (0 misses).",
+ "reading_status": "complete (1456-1505); flags in tmp/b052-flags.txt",
+ "report_rows": 48,
+ "confidence_counts": {
+  "M-L": 2,
+  "M": 11,
+  "H": 18,
+  "M-H": 9,
+  "L-M": 6,
+  "L": 2
+ },
+ "approved": 0,
+ "applied": 0,
+ "source_edits": 0,
+ "witness_collation": "Hetushu book 7640 automated token-level comparison (witness-collation-052.json); 50 chapter pages fetched and title-checked (50 match).",
+ "witness_results": {
+  "witness copies source wording": 43,
+  "witness shows candidate wording": 4,
+  "context not found in witness (variant, segmentation, or watermark)": 1
+ },
+ "workbook_rows": "added (chapter completion and paragraph register 1456-1505; ledger sheet SR-1261 onward)",
+ "ledger_entries": "SR-1261 to SR-1308",
+ "docx": "Batch-052-Chapters-1456-1505.docx",
+ "corrections": [
+  "Batch 051 row 46 (1435 p49, 我运真传 -> 己运真传) withdrawn; now Query (SR-1240)."
+ ],
+ "known_limits": [
+  "Set-wide decisions: 惨白亏输; 至尊仙躯; 不以为杵; 得走; 我运真传; 特意; 黑菟.",
+  "Queries carry no edit: 1457 p54, 1460 p40, 1464 p42, 1471 p63, 1471 p64, 1480 p53, 1481 p38."
+ ]
+}

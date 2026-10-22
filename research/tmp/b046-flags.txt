@@ -1,0 +1,67 @@
+# Batch 046 candidate flags (1156-1205). Format: ch pN | orig -> cand | confidence | note
+1156 p15 | 另一位着望着青年蛊仙 -> 另一位望着青年蛊仙 | H-M 0.90 | 着望着 unique in corpus
+1158 p15 | 还想起了雷 -> 还响起了雷 | M 0.75 | unique 还想起了雷; 还响起了雷 not in corpus
+1156 p51 | 宛若蝼蚁堕落江河 (query) | L 0.25 | 蝼蚁堕落 unique; 蝼蚁 x9 elsewhere; query only
+Dropped: 1158 p101 悔池 (term x9 in corpus 1103-1104, 1158).
+1160 p19 | 起着骆驼追杀 -> 骑着骆驼追杀 | H 0.90 | check corpus for 起着骆驼
+1160 p20 | 否认我要把你大卸八块 -> 否则我要把你大卸八块 | H 0.90 | check corpus for 否认我要
+1160 p34 | 长期以为下去 -> 长期以往下去 | M-H 0.85 | 长期以为 unique; 长期以往 x1 (1088 p21)
+1161 p51 | 五族大联盟 -> 四族大联盟 | H 0.85 | 四族大联盟 x11 corpus (1146-1199), 五族 x1 only; 异族大联盟 x3 (1161 p37, 1172 p65, 1187 p51) is a set-wide variant needing decision; do not use 异族 for this line
+1162 p88 | 不能在前往北部冰原 -> 不能再前往北部冰原 | H 0.90 | 不能在前往 unique; 不能再前往 x0 but 再 is the expected word
+1162 p13 | 八只手臂 (six arm names listed: 修罗臂…地魁臂) | L-M 0.40 query | 八只手臂 x8 corpus; query only, check whether names are missing
+1163 p48 | 还是知道再哪个地域 -> 在哪个地域 | H 0.95 | 再哪个地域 unique
+1163 p73 | 四面八法拥挤过来 -> 四面八方 | H 0.95 | set-wide 四面八方 (SR-809, SR-822-825, SR-856); 1196 p16 also 四面八法 (batch 046 later)
+Dropped: 1164 p78 沙硕 (term x3: 694 p2, 906 p36, 1164 p78).
+1165 p87 | 蛊仙周青青大人 -> 蛊仙商青青大人 | H-M 0.80 | check corpus for 周青青 vs 商青青
+1165 p62 | 就约束收下 -> 约束收敛 | M 0.60 | check corpus for 约束收下
+1167 p82 | 则了多一片腐蚀的黑暗沼泽 -> 则多了一片 | H 0.95 | check corpus for 则了多
+1169 p10 | 只需要调戏半日 -> 只需要调息半日 | H 0.95 | check corpus for 调戏半日 vs 调息半日 (1169 p13 uses 调息半日)
+1173 p75 | 为自己整天剑道道痕 -> 为自己增添剑道道痕 | H 0.95 | check corpus for 整天剑道
+1171 p51 | 宙道防御杀招被迫 -> 宙道防御杀招被破 | M 0.60 | 杀招被迫 unique; context = defence broken by the blow
+Dropped: 1173 p99 太丘 (place name x123 corpus).
+1173 p43 | 六成空间 (note: resource share; deferred user decision 六成/八成, not a row)
+1176 p65 | 底蕴很是很浅薄 -> 底蕴很浅薄 | H 0.90 | check corpus for 很是很
+1177 p25 | 至尊福地 (term set-wide: add to 1113 p110, 1139 p23, 1139 p26) | M 0.60 | aperture term; 至尊仙窍 elsewhere
+1178 p23 | 香巫鹰雕狼 -> 香巫阴雕狼 | H 0.95 | unique (香巫阴雕狼 x38 corpus)
+1180 p28 | 五相大法师 -> 五行大法师 | H 0.95 | unique in corpus (五行大法师 x52)
+1182 p22, p35 | 四族大联盟 (consistent, no change) | - | 1161 p51 is the outlier
+1182 p91 | 五相赌约 (consistent x5, no change)
+1177 p25 | 至尊福地 added to set-wide 至尊福地/至尊仙窍 item (4 vs 179)
+1185 p2 | 化为直接至尊仙窍的一部分 -> 化为至尊仙窍的一部分 | M-H 0.80 | check corpus for 直接至尊
+1185 p74 | 不仅第六次地灾消弭，灾劫降临时间重新计算之外，而且还向前跳了四次 -> 不仅第六次地灾消弭，灾劫降临时间也重新计算，而且还向前跳了四次 | M 0.75 | grammar: 之外 misplaced
+1186 p5 | 收获的到 -> 收获到 | H 0.90 | unique in corpus (收获到 x1 at 1033 p51)
+1187 p78 | 他杀性本来就是尊重中最重的 -> 尊者中最重的? | M 0.55 | 尊重 unique; query whether 尊者 intended; check context before any edit
+1188 p67 | 步步向走在普通的平地上 -> 步步都走在普通的平地上 | H 0.90 | unique in corpus
+1188 p72 | 不是仙道杀招 | DROPPED | phrase x2 (800 p63 and 1188 p72); consistent usage
+1187 p51 | 异族大联盟 (set-wide variant item with 1161 p37, 1172 p65, 1187 p51, and 四族 x11)
+1189 p19 | 权利名声 | query L-M 0.45 | 权利 vs 权力 (权力名声 x0); check against 1049 p44 最高权利 unrun check
+1190 p5 | 随风见涨 -> 迎风见涨 | M 0.80 | 随风见涨 unique (1190 p5); 迎风见涨 x0 in corpus: idiom check needed
+1190 p54 | 出身不正，和宫家的关系有不好 -> 和宫家的关系不好 | H 0.90 | unique
+1190 p65 | 对付他根本不想的正道势力 -> 对付他根本不想对付的正道势力 | M 0.70 | unique
+1190 p73 | 做过一场 | DROPPED | x4 consistent (813 p15, 1046 p37, 1103 p19)
+1190 p76,78,79,85 | 血战平原 vs 血原 (set-wide query) | L-M 0.40 | 血战平原 x5 (1190, 1193, 1196, 1201, 1205); 血原 x4 (861, 1190 x3); decide set-wide naming
+1193 p14 跨域了 | DROPPED | 跨域 x12 consistent
+1194 p15 谈笑宴宴 -> 谈笑晏晏? | query L-M 0.45 | 谈笑宴宴 x3 (919 p2, 1120 p46, 1194 p15); 谈笑晏晏 x0; set-wide query
+1194 p48 不以为杵 -> 不以为忤 | H 0.90 | unique in corpus
+1193 p56 权利 (same query as 1189 p19; set-wide 权利/权力 check)
+1195 p44 | 就算他不出场，我要轮到我了 -> 就算他不出场，也该轮到我了 | H-M 0.80 | unique
+1195 p48 | 颜面无关 -> 颜面无光 | H 0.90 | unique
+1196 p40 | 戈登 -> 咯噔 | set-wide item (982 p44, 1050 p43, 1055 p104, 1196 p40) | H-M 0.85
+1196 p48 | 将摆脱了 -> 竟摆脱了 | M-H 0.80 | unique
+1196 p83 | 主动表面自己要收购仙窍的意向 -> 主动表明自己要收购仙窍的意向 | H 0.90 | unique
+1196 p16 | 四面八法 -> 四面八方 (set-wide 四面八方 item; SR-856 family)
+1197 p7 | 因为柳长老中，有一头上极天鹰 -> 因为柳长老处有一头上极天鹰 | M 0.70 | unique
+1197 p98 | 方源就像感觉扫到了一个豆腐块 -> 方源就像扫到了一个豆腐块 | H-M 0.80 | unique
+1198 p6 | 还有所察觉 -> 还有所差距 | H-M 0.80 | unique
+1198 p23 | 着显现出 -> 显现出 | H 0.90 | unique
+1198 p69 | 削免当中的一些差异 -> 消除当中的一些差异 | M 0.70 | 削免 unique; 消除 x27
+1201 p42 | 也为彻底炼化成功一颗完整的星辰 -> 也未能彻底炼化成功 | M-H 0.75 | negation likely dropped; unique
+1201 p46 | 实在这个太过厉害 -> 实在太过厉害 | H 0.90 | unique (实在太过 x13)
+1201 p82 | 青城纵横 | DROPPED | x43 consistent term
+1202 p34 | 第一个闯进贴鹰福地 -> 铁鹰福地 | H 0.95 | unique; 铁鹰福地 x84
+1203 p97 | 一点要让这柳贯一 -> 一定要让这柳贯一 | H 0.95 | unique (一定要让 x1 at 929 p11)
+1204 p69 | 到目前为之 -> 到目前为止 | H 0.95 | unique; 到目前为止 x4
+1204 p82 | 剑眉仙蛊 | DROPPED | x10 consistent
+1205 p16 | 也比削掉了一部分 -> 也被削掉了一部分 | H 0.90 | unique
+1205 p25 | 已经产生了模糊的。 -> 已经产生了模糊。 | H 0.85 | unique trailing 的; 776 p64 has 产生了模糊
+1205 p77 | 我现在只不过只是剑子 -> 我现在只不过是剑子 | H 0.90 | unique; 只不过是 x1 (1039 p46)

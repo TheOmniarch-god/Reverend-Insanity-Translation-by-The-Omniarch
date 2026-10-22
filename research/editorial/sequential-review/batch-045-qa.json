@@ -1,0 +1,33 @@
+{
+ "batch": "045",
+ "chapters": "1106-1155",
+ "chapter_count": 50,
+ "source_check": "batch-045-source.json (50 chapters, 5,206 paragraphs, 162,639 characters). Every row token verified present in its stated paragraph (0 misses).",
+ "reading_status": "complete (1106-1155); notes in batch-045-notes/reading-notes-1106-1155.md",
+ "report_rows": 34,
+ "confidence_counts": {
+  "M": 14,
+  "L": 4,
+  "H–M": 4,
+  "H": 11,
+  "M–H": 1
+ },
+ "approved": 0,
+ "applied": 0,
+ "source_edits": 0,
+ "witness_collation": "Hetushu book 7640 automated token-level comparison (witness-collation-045.json); 50 chapter pages fetched and title-checked (50 match).",
+ "witness_results": {
+  "witness copies source wording": 30,
+  "context not found in witness (variant, segmentation, or watermark)": 2,
+  "witness shows candidate wording": 2
+ },
+ "workbook_rows": "added (chapter completion and paragraph register 1106-1155; ledger sheet SR-857 to SR-890)",
+ "ledger_entries": "SR-857 to SR-890",
+ "docx": "Batch-045-Chapters-1106-1155.docx",
+ "known_limits": [
+  "至尊福地 (1113 p110, 1139 p23, 1139 p26) term decision outstanding.",
+  "阴差阳错 set-wide with 755 p54 (batch 037).",
+  "太古上极天鹰 cross-check with 1147 p40 (batch 046) pending.",
+  "Queries carry no edit: 1112 p84, 1120 p46, 1124 p10, 1136 p94, 1143 p102, 1140 p19."
+ ]
+}

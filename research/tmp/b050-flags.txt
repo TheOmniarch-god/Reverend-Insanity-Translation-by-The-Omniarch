@@ -1,0 +1,74 @@
+1356 p24 | 阵道境界因和我相仿 -> 和我相仿 | H 0.90 | pending check
+1356 p44 | 这只信道凡蛊中这座超级蛊阵的一切内容 (missing verb) -> 记载着 | H 0.90 | pending check
+1356 p73 | 构造出抵御灰夜的超级蛊阵 (灰夜 again; set with 1354 p93) | query set | check
+1357 p13 | 这些正道蛊阵都感到庆幸 -> 蛊仙 | H 0.95 | pending check
+1357 p31 | 直接就会化为灰灰 -> 灰烬 | M 0.75 | check
+1358 p77 | 杂乱地堆砌在一切 -> 在一起 | H 0.97 | pending check
+1358 p77 | 有点相互重叠...有点相互之间 -> 有的 | M-H 0.85 | pending check
+1358 p82 | 好似山峦飞巅 (meaning unclear) | L-M 0.50 | query
+1359 p30 | 也在白天中有所布置 (sense unclear) | L-M 0.55 | query
+1361 p20 | 宛若金钢 -> 金刚 | M 0.65 | check corpus
+1361 p34 | 已经强劲的身体素养 -> 以及强劲 | H 0.90 | pending check
+1361 p49 | 置身紫山真君的这样的处境 -> 这样的 | H 0.85 | pending check
+1361 p80 | 狗尾续命貂毛里球 (name/pun check) | L-M 0.50 | query
+1362 p9 | 距离南疆来源，至少需要一天 (source unclear; likely 援兵) | M 0.75 | check
+1362 p22 | 第一蛊阵辨别身份 -> 第一层蛊阵 | H 0.85 | pending check
+1363 p29 | 你到底是快出手啊 -> 你到底快出手啊 | L-M 0.55 | check
+1363 p66 | 将他仍旧在不断后撤 -> 见他仍旧在不断后撤 | M-H 0.80 | pending check
+1365 p61 | 龙公语出惊人死不休 -> 语不惊人死不休 | M 0.75 | check
+1366 p56 | 吐出一记灰夜杀招 -> 夜灰 (same paragraph uses 夜灰; set with 1354 p93, 1356 p73) | M-H 0.80 | set decision
+1366 p64 | 关键能够使用杀招 -> 关键还能够使用杀招 | H 0.90 | pending check
+1367 p22 | 招收的动作 -> 招手的动作 | M-H 0.75 | pending check
+1367 p46 | 都损伤会很多 -> 损伤会很多 | M 0.70 | check
+1369 p21 | 惨白亏输 -> 惨败亏输 | H 0.90 | pending check
+1369 p34 | 将紫薇仙子进展良好 -> 眼见 | M 0.75 | check
+1370 p19 | 一但武遗海有个三长两短 -> 一旦 | H 0.97 | pending check
+1370 p31 | 宝皇天轰动 -> 宝黄天 | H 0.92 | pending check
+1370 p35 | 只需是搜魂手段 -> 只要是 | H 0.88 | pending check
+1370 p42 | 因为修炼青城纵横 (term check) | L-M 0.45 | query
+1372 p78 | 呵呵呵。”。 (double terminal punctuation) -> 呵呵呵。” | M 0.70 | pending check
+1374 p18 | 方源也不绝不会 -> 方源绝不会 | M-H 0.80 | pending check
+1374 p33 | 不仅是他就连他的爱妻 -> 不仅是他，就连 (punctuation) | L 0.50 | check
+1374 p3 | 修行宇道的盗天魔尊 (宇道 vs 宙道 term check; batch 043 dropped a similar 宇道 flag) | L 0.40 | corpus check
+1375 p21 | 巴德察言观色，将池规猛地变色 -> 见池规 | M 0.70 | check
+1376 p24 | 现在四百多头鹰 vs 1374 p86 一千两百多头 (control vs total; confirm intent) | L 0.40 | query
+1376 p46 | 纯梦求身体的蛊仙 -> 纯梦求真体 | H 0.92 | pending check
+1376 p49 p57 | 纯梦求真仙 (set vs 纯梦求真体) | M 0.60 | set check
+1376 p62 | 黑菟忽然脸色周边 -> 脸色剧变 | M-H 0.78 | pending check
+1377 p12 | 略影地沟 -> 掠影地沟 | H 0.95 | pending check
+1377 p20 | 双目无关 -> 双目无光 | M-H 0.80 | pending check
+1377 p56 | 照准某头重楼首相 -> 重楼水象 | H 0.90 | pending check
+1378 p23 | 直接把两位纯梦求真体当做仙道杀招 -> 当做炸弹 (cf. 1377 p106) | H 0.85 | pending check
+1379 p24 | 龙公思虑周翔 -> 周详 | H 0.92 | pending check
+1379 p52 | 上级天鹰的太古气息 -> 上极天鹰 | H 0.92 | pending check
+1380 p11 | 还自由之身 -> 恢复自由之身 (missing verb) | M 0.75 | check
+1380 p55 | 方源很快恢复如此 -> 恢复如初 | M-H 0.80 | pending check
+1382 p35 | 把武家和武庸耍的玩 -> 耍着玩 | H 0.90 | pending check
+1382 p86 | 顺理成章，理所应然 -> 理所当然 | H 0.92 | pending check
+1383 p2 | 和黑白等仙 -> 黑楼兰、白凝冰等仙 (name abbreviation unclear) | M 0.65 | check
+1383 p38 | 逆流河减少了细微 -> 减少了些许 | M 0.70 | check
+1383 p49 | 暴露出了不少信心 -> 信息 | H 0.85 | pending check
+1384 p31 | 望着偌大的项目 (term unclear; query) | L-M 0.50 | query
+1385 p64 | 必定通宵逃生之能 -> 通晓 (set with SR-965/SR-1013) | H 0.90 | pending check
+RESOLVED: 1374 p3 宇道 (valid space Dao; see 1383 p5, p59); 1359 p30 白天中 (consistent location usage; see 1366 p7, 1375 p102, 1379 p9)
+1386 p27 | 配合黑凡真传 (check vs 黑城; batch 048 1299 p87 open) | L 0.50 | corpus check
+1387 p59 | 武庸竟向坦言 -> 竟坦言 | H 0.85 | pending check
+1387 p78 | 顿时惊讶到难以附加的程度 -> 难以复加 | H 0.92 | pending check
+1388 p39 | 追逐一直盗天魔尊曾用的仙蛊 -> 一只 | M 0.70 | check
+RESOLVED (corpus): 1386 p27 黑凡 (established name, many hits); 1370 p42 青城纵横 (established term); 1385 p64 通晓 majority (6 vs 通宵 3) confirms flag.
+1389 p20 | 凤九歌竟然不是想他联手 -> 想与他联手 | H 0.90 | pending check
+1391 p60 | 三仙重见晴朗天空，明日白云 (term unclear; query) | M 0.55 | query
+1391 p90 | 只得面前将双臂和手化为龙爪 -> 当场 | M 0.75 | check
+1392 p10 | 仙道战场杀招四清四边风 -> 四清四变风 | H 0.92 | pending check
+1392 p79 | 让凤九歌追逐偷道仙蛊 (盗天/偷道 check; see 1388 p39) | M 0.55 | corpus check
+1392 p84 | 把转仙蛊屋也只是被分解了一些外围 -> 八转仙蛊屋 | H 0.92 | pending check
+1393 p24 | 这三处地点，边都是方源要赶赴的地点 -> 都是 | H 0.85 | pending check
+NOTE 1394 p42: 八成 (大手印还剩下八成威能) falls in the deferred 六成/八成 set-wide item; no new flag.
+RESOLVED (corpus): 1392 p79 偷道仙蛊 (偷道 established, about 13 hits). 1388 p39 一直盗天 stays flagged (singleton).
+1399 p67 | 很是生长了一些植物 -> 还生长着 (weak) | L-M 0.55 | check
+1399 p97 | 侦查了一翻后 -> 一番 | H 0.92 | pending check
+1400 p103 | 功过来的年兽阵容很强大 -> 扑过来 | H 0.92 | pending check
+1403 p71 | 这只智道仙蛊自爱仙蛊，一下子要炼出七转层次来 (missing dash/comma after gu name) | L 0.40 | optional
+1404 p18 | 他身上了的最强优势 -> 他身上最强的优势 | H 0.92 | pending check
+1405 p44 | 他点了点，然后通知毛六 -> 点了点头 | H 0.85 | pending check
+1405 p61 | 简直是要一夜回到解放前 (anachronistic idiom; query) | L 0.40 | query

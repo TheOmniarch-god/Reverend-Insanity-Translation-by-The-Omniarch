@@ -1,0 +1,382 @@
+[
+ {
+  "row": 1,
+  "ch": 1506,
+  "orig": "点滴不纯",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 2,
+  "ch": 1506,
+  "orig": "扛着燃念飞石",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 3,
+  "ch": 1507,
+  "orig": "指引着方源败军老鬼的方向",
+  "cand": "指引着方源找到败军老鬼的方向",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 4,
+  "ch": 1510,
+  "orig": "篮婴",
+  "cand": "蓝婴",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": false,
+  "result": "context not found in witness (variant, segmentation, or watermark)"
+ },
+ {
+  "row": 5,
+  "ch": 1510,
+  "orig": "他思维六转",
+  "cand": "他思维运转",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 6,
+  "ch": 1513,
+  "orig": "好杀成兴",
+  "cand": "好杀成性",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 7,
+  "ch": 1513,
+  "orig": "半黑半百",
+  "cand": "半黑半白",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 8,
+  "ch": 1514,
+  "orig": "牛神豹尾",
+  "cand": "牛身豹尾",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 9,
+  "ch": 1515,
+  "orig": "四边八方",
+  "cand": "四面八方",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 10,
+  "ch": 1516,
+  "orig": "止恶杨善",
+  "cand": "止恶扬善",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 11,
+  "ch": 1519,
+  "orig": "在们盟约",
+  "cand": "在盟约",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": false,
+  "result": "context not found in witness (variant, segmentation, or watermark)"
+ },
+ {
+  "row": 12,
+  "ch": 1520,
+  "orig": "借取仙蛊不和在乎",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 13,
+  "ch": 1521,
+  "orig": "相方设法",
+  "cand": "想方设法",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 14,
+  "ch": 1523,
+  "orig": "三计仙道",
+  "cand": "三记仙道",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 15,
+  "ch": 1524,
+  "orig": "也之有",
+  "cand": "也只有",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 16,
+  "ch": 1524,
+  "orig": "牛神豹尾",
+  "cand": "牛身豹尾",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 17,
+  "ch": 1527,
+  "orig": "人的影树的皮，",
+  "cand": "",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 18,
+  "ch": 1527,
+  "orig": "挫厚木身家",
+  "cand": "挫厚木身甲",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 19,
+  "ch": 1527,
+  "orig": "摸摸了自己拳头",
+  "cand": "摸了摸自己拳头",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 20,
+  "ch": 1527,
+  "orig": "纵容是智道大宗师",
+  "cand": "虽是智道大宗师",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 21,
+  "ch": 1529,
+  "orig": "毫不留念",
+  "cand": "毫不留恋",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": false,
+  "result": "context not found in witness (variant, segmentation, or watermark)"
+ },
+ {
+  "row": 22,
+  "ch": 1530,
+  "orig": "借住",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 23,
+  "ch": 1526,
+  "orig": "天莲派的太上大长老",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 24,
+  "ch": 1531,
+  "orig": "眉如淡柳龙烟",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 25,
+  "ch": 1531,
+  "orig": "嘴角一瞧",
+  "cand": "嘴角一翘",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 26,
+  "ch": 1531,
+  "orig": "柔弱大消",
+  "cand": "柔弱尽消",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 27,
+  "ch": 1534,
+  "orig": "有些任命",
+  "cand": "有些认命",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 28,
+  "ch": 1534,
+  "orig": "站立不足",
+  "cand": "站立不稳",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 29,
+  "ch": 1537,
+  "orig": "面目前非",
+  "cand": "面目全非",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 30,
+  "ch": 1537,
+  "orig": "他的已经",
+  "cand": "他已经",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 31,
+  "ch": 1539,
+  "orig": "还未诸位",
+  "cand": "还请诸位",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 32,
+  "ch": 1539,
+  "orig": "沟动",
+  "cand": "勾动",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 33,
+  "ch": 1541,
+  "orig": "凤金煌一拳",
+  "cand": "凤九歌一拳",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 34,
+  "ch": 1546,
+  "orig": "他身着黄衣",
+  "cand": "她身着黄衣",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 35,
+  "ch": 1546,
+  "orig": "另一一番际遇",
+  "cand": "另有一番际遇",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 36,
+  "ch": 1548,
+  "orig": "灭有发现",
+  "cand": "没有发现",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 37,
+  "ch": 1551,
+  "orig": "就剩下了七座",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 38,
+  "ch": 1552,
+  "orig": "但蛊师",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ }
+]

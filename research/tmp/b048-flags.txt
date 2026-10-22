@@ -1,0 +1,86 @@
+# Batch 048 candidate flags (1256-1305). Format: ch pN | orig -> cand | confidence | note
+1256 p36 | 声音不断换来 -> 不断传来 | H-M 0.85 | pending check
+1256 p79 | 忽然一台手掌 -> 一抬手掌 | H 0.95 | pending check
+1256 p92 | 不被一身的力道道痕撤走 -> 掣肘 | M 0.60 | pending check
+1256 p103 | 保留了留下来 -> 保留了下来 | H 0.90 | pending check
+1257 p17 | 没有相克制的魂道仙蛊 -> 相克的 | M 0.60 | pending check
+1257 p81 | 所然太白云生苟延残喘 -> 所以 | H 0.95 | pending check
+1258 p3 | 他成为了白相洞天的主人 (白凝冰 is 她) -> 她 | H 0.90 | pending check
+1258 p34 | 他她无疑是自乱阵脚 -> 这无疑 | H 0.90 | pending check
+1259 p5 | 三息后现 | DROPPED | consistent (1257 p40, 1259 p5, p15)
+1259 p77 | 变成过来一个高大 -> 变成了一个 | H-M 0.85 | pending check
+1259 p86 | 她的一个脑洞 -> 一个脑袋 | M-H 0.80 | pending check
+1260 p12 | 影无邪的力道仙僵之躯 | query L-M 0.40 | vs 1253 p65 西漠仙僵
+1260 p60 | 对于与局势的判断 -> 对于局势 | H 0.90 | pending check
+1261 p18 | 连忙跑掉年轻公子的面前 -> 跑到 | H 0.95 | pending check
+1261 p54 | 受不留意跌下去 -> 稍不留意 | H 0.95 | pending check
+1261 p65 | 一边飞行个 -> 飞行 | H 0.95 | pending check
+1260 p12 | 力道仙僵 | DROPPED | consistent x87
+1262 p57 | 这么就也攻不破 -> 这么久也 | H-M 0.85 | pending check
+1263 p39 | 绕你们两条性命 -> 饶 | H 0.95 | pending check
+1263 p41 | 不以为杵 -> 不以为忤 | H 0.90 | pending check
+1263 p49 | 生存下来的权力 | set-wide 权利/权力 note (no row)
+1264 p61 | 直接照死 | query L 0.35 | pending
+1263 p41 | 不以为杵 -> 不以为忤 | 1194 p48 also has 不以为杵 (x2)
+1265 p39 | 其中不凡上古荒兽 -> 不乏 | H 0.95 | pending check
+1265 p61 | 必将将所有的梦境 -> 必须将 | H 0.90 | pending check
+1266 p19 | 只有你催用了寿蛊 -> 只要 | M 0.70 | pending check
+1266 p79 | 就黑楼兰看向赵怜云 -> 黑楼兰看向 | M-H 0.75 | pending check
+1266 p81 | 巨阳特意不管马鸿运 | set-wide 特意 term (joins 1052 p50, 1075 p24, 1079 p82); no row
+1267 p57 | 下降了怎么多 -> 下降了这么多 | H 0.90 | pending check
+1268 p24 | 传到到了 -> 传到了 | H 0.95 | pending check
+1268 p40 | 你那就请贵客进来 -> 那就请 | M 0.55 | pending check
+1268 p57 | 之间这块石头 -> 只见 | H 0.95 | pending check
+1268 p77 | 那意味的东西 -> 那意味着的东西 | M-H 0.80 | pending check
+1269 p45 | 寰转自如 -> 圆转自如 | M-H 0.80 | pending check
+1270 p21 | 兼同角连营 -> 兼顾角连营 | M-H 0.85 | pending check
+1270 p50 | 不通宵阵道 -> 不通晓阵道 | H-M 0.85 | with 1242 p17 通宵 (set)
+1271 p7 | 些抹慌乱 -> 些许慌乱 | M-H 0.80 | pending check
+1271 p11 | 兵分领路 -> 兵分两路 | H 0.95 | pending check
+1271 p45 | 大同风开始产生 | query L-M 0.40 | pending
+1271 p62 | 方源顿时心中一吐 | M 0.70 | pending check
+1272 p46 | 至尊仙胎体 | query L-M 0.40 | pending check (vs 至尊仙体)
+1272 p51 | 也也有可能 -> 也有可能 | H 0.98 | pending check
+1272 p58 | 黑豕蛊 supports 1247 p59 黒豕蛊 -> 黑豕蛊 (raise to H 0.90)
+1273 p20 | 及其其他蛊虫 -> 及其他 | H 0.95 | pending check
+1273 p63 | 望了碧晨天一样 -> 一眼 | H 0.95 | pending check
+1271 p62 | 心中一吐 | DROPPED | consistent x2 (1262 p61, 1271 p62)
+1275 p25 | 硬生生地认主 -> 忍住 | H-M 0.85 | pending check
+1275 p60 | 我有那方源有连运关系 -> 我与那方源 | H-M 0.85 | pending check
+1275 p61 | 重现浮现 -> 重新浮现 | H 0.95 | pending check
+1275 p66 | 唉声抬气 -> 唉声叹气 | H 0.95 | pending check
+1276 p82 | 会被她超越的 -> 他 | H 0.90 | pending check (小人 is 他)
+1278 p30 | 洪极子、洪极子 -> 洪极子、玄极子 | H 0.95 | pending check
+1278 p80, p87 | 雪山老祖 -> 雪胡老祖 (name slip?) | M 0.75 | pending check
+1280 p52 | 双源骤亮 -> 双眼骤亮 | H 0.95 | pending check
+1281 p60 | 随着时间流水 -> 流逝 | H 0.95 | pending check
+1281 p77 | 如丧考批 -> 考妣 | H 0.97 | pending check
+1282 p78 | 打了个哈切 -> 哈欠 | H 0.95 | pending check
+1284 p12 | 表面上柳贯一的身份 -> 表面上是柳贯一 | M 0.75 | pending check
+1285 p102 | 三十万后有柳贯一 -> 三十万年后 | M 0.85 | pending check
+1286 p29 | 没有俘虏了她 -> 没能俘虏她 | M-H 0.80 | pending check
+1286 p47 | 冲击到逆流河山 -> 逆流河水 | H 0.90 | pending check
+1287 p34 | 无法拖延到时间 -> 拖延时间 | M 0.75 | pending check
+1287 p63 | 依次逃脱生天 | query L-M 0.40 | pending
+1288 p52 | 水道仙蛊数量 (context = 凡蛊) -> 水道凡蛊 | M 0.80 | pending check
+1289 p36 | 那可是至尊仙窍 (vs 至尊仙体?) | query M-L 0.45 | pending
+1291 p60 | 六头荒兽白信蓝羽鸥六头 -> 六头荒兽白信蓝羽鸥 | M 0.80 | pending check
+1291 p61 | 一下群的珍稀散文鲤 -> 一小群? | M 0.80 | pending check
+1292 p33 | 就想将态度蛊直接送给我 -> 就将 | M 0.75 | pending check
+1294 p43 | 资辈不小 -> 辈分不小 | M 0.80 | pending check
+1294 p68 | 一路消抵摧毁 -> 消磨 | M-L 0.60 | pending check
+1295 p27 | 变化成过来东海 -> 变化成 | M-H 0.80 | pending check
+1296 p52 | 宋甲丹 (poem p50 盘甲丹) | M 0.80 | pending check
+1297 p23 | 体型大小各自不已 -> 各不相同 | M 0.70 | pending check
+1299 p86 | 稍有不对劲的苗条 -> 苗头 | H 0.95 | pending check
+1299 p87 | 方源虽然俘虏了黑城 (黑凡?) | M 0.75 | pending check
+1299 p26 | 群星心底都在暗暗猜测 -> 群仙 | M-H 0.85 | pending check
+1300 p31 | 其他借此运用某种秘法延寿 -> 或借此 | M 0.70 | pending check
+1298 p75 | 仙友之心，我感且佩 | query L 0.35 | pending
+1301 p8 | 就成为降低过 -> 未曾降低过 | H 0.90 | pending check
+1301 p9 | 现在位悲风老人 -> 为 | H 0.95 | pending check
+1301 p77 | 转生就走 -> 转身 | H 0.95 | pending check
+1301 p98 | 已经再望 -> 在望 | H 0.95 | pending check
+1303 p77 | 夏擎苍冷夏 -> 冷笑 | H 0.98 | pending check
+1304 p36 | 炎黄仙人 -> 炎荒仙人 | H 0.90 | pending check
+1304 p36 | 扩张疆域半途 | query L 0.35 | pending

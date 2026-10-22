@@ -1,0 +1,42 @@
+1506 p47 | 点滴不纯 | query M-L 0.50 | singleton; 魂兽 fused souls leave nothing; confirm 点滴不剩 vs intended sense
+1506 p19 | 扛着燃念飞石 | query L 0.35 | singleton verb 扛着; likely 催动 but unconfirmed
+1507 p27 | 指引着方源败军老鬼的方向 -> 指引着方源找到败军老鬼的方向 | M-H 0.80 | missing verb; 指引着方源 x1
+1510 p5 | 篮婴 -> 蓝婴 | H 0.97 | typo (蓝婴 in same passage p4)
+1510 p52 | 他思维六转 -> 他思维运转 | M 0.70 | singleton; 思维六转 x1
+1513 p37 | 好杀成兴 -> 好杀成性 | H 0.90 | singleton idiom slip
+1513 p41 | 半黑半百 -> 半黑半白 | H 0.90 | singleton; 无常石 colour
+1514 p31 | 一头牛神豹尾 -> 一头牛身豹尾 | H 0.92 | 牛身豹尾 x4; 牛神豹尾 x2 (1514 p31, 1524 p60 - check 1524 p60 in batch 053 read)
+1515 p39 | 四边八方 -> 四面八方 | H 0.90 | 四面八方 x61; 四边八方 x1
+1516 p29 | 止恶杨善 -> 止恶扬善 | H 0.95 | singleton idiom slip
+1519 p26 | 在们盟约中禁止 -> 在盟约中禁止 | H 0.95 | singleton typo
+1520 p30 | 借取仙蛊不和在乎，形成仙道杀招不在乎 | query L-M 0.45 | 不和在乎 x2 (1181 p46 too); sense unclear; likely established parallel phrasing, confirm
+1521 p22 | 一定先相方设法 -> 一定先想方设法 | H 0.95 | singleton; 想方设法 standard
+1523 p56 | 各是三计仙道杀招 -> 各是三记仙道杀招 | M-H 0.88 | 三记仙道 x3 (1262 p44, 1262 p56, 1536 p56); 三计仙道 x1
+1524 p38 | 也之有无上大宗师 -> 也只有无上大宗师 | H 0.92 | singleton; 也只有 x57
+1524 p60 | 牛神豹尾 -> 牛身豹尾 | H 0.92 | same as 1514 p31 (cross-ref)
+1522 p12 / 1525 p61 | 权利 (set item: 权利/权力, already on list; no new flag)
+1527 p16 | 人的影树的皮， (stray fragment before 光是天莲派...) -> delete | H 0.85 | garbled insertion; no sense in context; check against live/witness
+1527 p20 & p35 | 挫厚木身甲 (p20) vs 挫厚木身家 (p35) -> 挫厚木身甲 | H 0.92 | 挫厚木身 x2 both forms; 甲 is the term in p20
+1527 p66 | 摸摸了自己拳头 -> 摸了摸自己拳头 | M-H 0.85 | singleton; 摸了摸 standard
+1527 p82 | 房睇长纵容是智道大宗师，但修为只有七转 -> 房睇长虽是智道大宗师，但修为只有七转 | H 0.92 | singleton 纵容是 x1
+1529 p31 | 毫不留念 -> 毫不留恋 | H 0.90 | singleton; 毫不留恋 standard idiom (0 hits in corpus, so H on form)
+1530 p48 | 借住见面曾相识伪装身份 -> query (借住 vs 借助; L-M 0.50); 见面曾相识 set item open
+QUERY (whole-novel, not a line fix) | 陈衣 sect name: 元莲派 (1516 p3; 1522 p1,p4,p10,p12 ×~8) vs 天莲派 (1526 p35; 1527 p11,p16; 1530 p3,p12). 天莲派 x42 earlier (a separate established sect, seat 天池). Need decision before editing.
+1531 p13 | 眉如淡柳龙烟 | query M-L 0.50 | likely 笼烟 (idiom 眉如远山/淡柳笼烟); same wording at 1072 p17 (x2 total) so may be author's fixed phrase; decide with 044 batch
+1531 p41 | 嘴角一瞧 -> 嘴角一翘 | H 0.92 | singleton; 瞧 for 翘 is a slip; 0 hits for 翘
+1531 p45 | 柔弱大消 -> 柔弱尽消 | M 0.70 | singleton; 尽消 phrasing; alt 大减
+1534 p34 | 有些任命 -> 有些认命 | H 0.92 | singleton
+1534 p44 | 站立不足 -> 站立不稳 | H 0.92 | singleton; 站立不稳 x2 elsewhere
+1535 p57 | 至尊仙躯 (set item: 至尊仙躯/仙体, 1479 p4 etc.; no new flag)
+1537 p21 | 面目前非 -> 面目全非 | H 0.97 | 面目前非 x5 (1198 p77, 1237 p18, 1339 p42 repaired, 1413 p48 repaired, 1537 p21); 面目全非 x25
+1537 p59 | 他的已经失去了语言能力 -> 他已经失去了语言能力 | H 0.95 | singleton
+1539 p22 | 所以还未诸位稍待片刻才好 -> 所以还请诸位稍待片刻才好 | H 0.92 | singleton
+1539 p35 | 重新沟动出他心中的善良和光明 -> 重新勾动出 | H 0.90 | 勾动 x33; 沟动 x2 (774 p80, 1539 p35) - 774 p80 is batch 038 cross-ref
+1536 p56 | 三记仙道杀招 (confirms 1523 p56 flag; 三记 x3 + 1536 p56)
+1540 p44 | 见面不相识仙道杀招 - 见面不相识 x26 vs 见面曾相识 x160: set item still open (not a new line flag)
+1541 p25 | 凤金煌一拳遥击 -> 凤九歌一拳遥击 | M-H 0.80 | subject of 三绝音 is 凤九歌 (p23-24); 凤金煌 x510 is a separate character name in corpus, so check the name before editing
+1546 p17 | 此刻开口的便是乐瑶，他身着黄衣，娇美动人 -> 她身着黄衣 | H 0.88 | pronoun; 乐瑶 is female (婢女, 娇美动人)
+1546 p27 | 另一一番际遇 -> 另有一番际遇 | H 0.92 | singleton; 另有 x? standard
+1548 p13 | 灭有发现 -> 没有发现 | H 0.95 | singleton; 没有发现 x58
+1551 p60 | 十座荡魂山的赔偿，就剩下了七座 (and 1552 p30 七座荡魂山) | query M-L 0.50 | arithmetic: 10 - 1.5 (寿蛊, p42) - 1 (门派贡献/奴兽, p57) = 7.5; text says 七座 twice; may be 七座半 or a rounding in the source
+1552 p6 | 因此但蛊师在北部大冰原升仙力道 | query L-M 0.45 | 但蛊师 x4 (823 p55, 830 p2, 1025 p70, 1552 p6); 但凡蛊师 x1 (828 p31); possibly an established phrase; do not flag without checking

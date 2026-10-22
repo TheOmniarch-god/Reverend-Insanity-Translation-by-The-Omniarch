@@ -1,0 +1,33 @@
+{
+ "batch": "042",
+ "chapters": "956-1005",
+ "chapter_count": 50,
+ "source_check": "batch-042-source.json (50 chapters, 4773 paragraphs, 0 mismatches). Every report row token verified present in its stated paragraph.",
+ "reading_status": "complete (956-1005); notes in batch-042-notes/reading-notes-956-1005.md",
+ "report_rows": 57,
+ "confidence_counts": {
+  "M–H": 6,
+  "M": 22,
+  "H": 16,
+  "M–L": 1,
+  "L–M": 6,
+  "L": 6
+ },
+ "approved": 0,
+ "applied": 0,
+ "source_edits": 0,
+ "witness_collation": "Hetushu book 7640 automated token-level comparison (witness-collation-042.json); 50 chapter pages fetched and title-checked. Witness copies source wording for most candidates; differences recorded as web-copy only.",
+ "witness_results": {
+  "witness copies source wording": 41,
+  "witness shows candidate wording": 10,
+  "context not found in witness (variant, segmentation, or watermark)": 6
+ },
+ "workbook_rows": "ADDED (Chapter completion and Paragraph register 956-1005; Proposal ledger SR-716 to SR-772). Workbook: Read me at 1-1055 of 2334.",
+ "ledger_entries": "SR-716 to SR-772",
+ "docx": "Batch-042-Chapters-956-1005.docx",
+ "known_limits": [
+  "Temporal items need whole-novel reconciliation.",
+  "Terminology items (奴隶 verb, 萧家 titles, 宋坤/宋启元 identity, 天莲派 vs 战仙宗 target) need decision.",
+  "975 p18 flag withdrawn (见面曾相识 is the original skill)."
+ ]
+}

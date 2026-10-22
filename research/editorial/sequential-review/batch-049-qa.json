@@ -1,0 +1,37 @@
+{
+ "batch": "049",
+ "chapters": "1306-1355",
+ "chapter_count": 50,
+ "source_check": "batch-049-source.json (50 chapters, 4,695 paragraphs, 149,568 characters). Every row token verified present in its stated paragraph (0 misses).",
+ "reading_status": "complete (1306-1355); flags in tmp/b049-flags.txt",
+ "report_rows": 75,
+ "confidence_counts": {
+  "M–H": 9,
+  "L–M": 2,
+  "H": 36,
+  "M": 14,
+  "H–M": 10,
+  "L": 4
+ },
+ "approved": 0,
+ "applied": 0,
+ "source_edits": 0,
+ "witness_collation": "Hetushu book 7640 automated token-level comparison (witness-collation-049.json); 50 chapter pages fetched and title-checked (50 match).",
+ "witness_results": {
+  "witness copies source wording": 70,
+  "witness shows candidate wording": 4,
+  "context not found in witness (variant, segmentation, or watermark)": 1
+ },
+ "workbook_rows": "added (chapter completion and paragraph register 1306-1355; ledger sheet SR-1056 onward)",
+ "ledger_entries": "SR-1056 to SR-1130",
+ "docx": "Batch-049-Chapters-1306-1355.docx",
+ "cross_batch": [
+  "1304 p36 炎黄仙人 → 炎荒仙人 (batch 048; same as 1312 p10)",
+  "1198 p77 / 1237 p18 面目前非 → 面目全非 (batches 046/047; same as 1339 p42)"
+ ],
+ "known_limits": [
+  "Set-wide decisions: 炎荒仙人; 面目全非; 太上大长老 (1343 p21/p40/p70); 黑莬 vs 黑菟; 不以为杵/忤; 宴宴 vs 晏晏; 值得/只得; 至尊仙窍; 四面八方.",
+  "Queries carry no edit: 1310 p46, 1319 p11, 1320 p46, 1325 p59, 1331 p19, 1336 p79, 1338 p16, 1347 p69, 1348 p38, 1351 p9, 1354 p84.",
+  "Source-level garbles (1347 p69 ×; 1348 p38) are present in the witness copy too."
+ ]
+}

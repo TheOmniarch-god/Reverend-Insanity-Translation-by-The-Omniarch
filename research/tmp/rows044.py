@@ -1,0 +1,37 @@
+# (ch, para, orig_token, cand_or_None, confidence, category, action, rationale, dependencies)
+# Built from tmp/b044-flags.txt (1056-1105). Repairs first in batch order, then queries.
+# Items marked as notes (not rows): 1083 p23 八成 (deferred resource-share item, user decision pending).
+# Term query 特意 (1052 p50 in batch 043; 1075 p24; 1079 p82): one whole-novel decision, not three edits.
+ROWS = [
+(1056,93,'楚度愿望','楚度一愣','H–M','Repair (wording)','Repair 楚度愿望 to 楚度一愣 (Chu Du was startled).','愿望 (wish) is unique in the batch and does not fit the sudden-reaction sense of the sentence; 一愣 is the standard reaction phrase.','none'),
+(1057,42,'缓重一抓','重重一抓','M–H','Repair (typo)','Repair 缓重一抓 to 重重一抓 (a heavy grab).','缓重 is unique; 重重一握 at 1057 p49 supports 重重 (verify wording against p49 before applying).','1057 p49 (supporting 重重 usage)'),
+(1057,51,'开口握紧',None,'L–M','Query (wording)','Query: 开口握紧的右手; confirm whether 开口 is a stray character before any edit.','Unique phrase; 开口 does not obviously modify 握紧. Not proposed as an edit.','none'),
+(1058,53,'五百年前前世','五百年前世','H–M','Repair (typo)','Repair doubled 前前 to 五百年前世 (five hundred years earlier life).','五百年前世 is used x43 in the corpus; 前前世 is x4 and is the same token as 1004 p110 (batch 042).','1004 p110 (same token, batch 042; fix as one)'),
+(1062,72,'也不关隘我什么事','也不关我什么事','M–H','Repair (typo)','Repair stray 隘 out of 也不关隘我什么事 to 也不关我什么事 (no concern of mine).','Stray character; 不关我什么事 is the idiom. Unique token in the batch.','none'),
+(1066,15,'再长远的面部小','再长远的目标','H','Repair (typo)','Repair 面部小 to 目标 (long-term goal).','面部小 is unique; the sentence is about a long-term goal.','none'),
+(1066,16,'抽空调教方源','抽空调教方正','H','Repair (wording)','Repair 调教方源 to 调教方正 (train Fang Zheng): the speaker trains 方正, not himself.','Subject of the training is 方正 (the one being trained); 调教方正 is used x2 in earlier batches (847 p13, 907 p60).','1084 p53 and 1088 p49 (same token and fix; decide once for all three)'),
+(1068,60,'反映在外面',None,'L','Query (wording)','Query only: 反映在外面; no 表现在外面 in the corpus. Keep as is unless the author confirms.','Low confidence; the current wording is readable as reflection outward.','none'),
+(1072,36,'这些收下','这些手下','M–H','Repair (typo)','Repair 这些收下 to 这些手下 (these followers).','这些收下 is unique; the sentence refers to her followers (手下).','none'),
+(1072,91,'首相想做','首先想做','H','Repair (typo)','Repair 首相想做 to 首先想做 (first, she wants to do one thing).','首相想 is unique; 首先 is the intended adverb.','none'),
+(1073,2,'他一位获得','他一朝获得','M','Repair (wording)','Repair 他一位获得 to 他一朝获得 (once acquired).','一位 is unique in this sense; 一朝 is the usual adverb.','none'),
+(1074,27,'还会寿蛊','还需要寿蛊','M','Repair (wording)','Repair 还会寿蛊 to 还需要寿蛊 (ordinary Gu Immortals also need life-extension Gu).','还会 is unique; the sense is need, and the following sentence contrasts with Lang Ya not needing it.','none'),
+(1075,24,'种下特意',None,'L–M','Query (term)','Term query: 你种下特意，令蛊虫自毁. 特意 in a non-ordinary sense; decide with the 特意 rule (see 1079 p82). Do not edit individually.','种下特意 is unique; 特意 is common in its normal sense (x59) so a per-line edit is not justified.','1079 p82; 1052 p50 (batch 043)'),
+(1076,53,'滔滔不拘','滔滔不绝','H','Repair (typo)','Repair 滔滔不拘 to 滔滔不绝 (talking fluently and at length).','滔滔不拘 is unique; 滔滔不绝 is the idiom (x1 elsewhere, 694 p98).','none'),
+(1079,82,'毁在方源的特意之下',None,'L–M','Query (term)','Term query: 毁在方源的特意之下. Decide with the 特意 rule (see 1075 p24, 1052 p50). Do not edit individually.','Same non-ordinary 特意 usage as 1075 p24 and 1052 p50 (batch 043). One whole-novel decision is needed.','1075 p24; 1052 p50 (batch 043); whole-novel 特意 decision'),
+(1082,62,'蛊仙太很危险','蛊仙很危险','H','Repair (typo)','Repair stray 太 out of 蛊仙太很危险 to 蛊仙很危险.','Doubled intensifier; unique token.','none'),
+(1083,25,'为了增添了','为他增添了','H–M','Repair (wording)','Repair 为了增添了 to 为他增添了 (for him, added the sect contribution points).','为了增添了 is unique; 为他 matches the sentence (the Lang Ya Earth Spirit adds points for him).','none'),
+(1084,52,'凝出出','凝出','H','Repair (typo)','Repair doubled 出 in 凝出出 to 凝出 (condense out).','凝出出 is unique.','none'),
+(1084,53,'调教方源','调教方正','H–M','Repair (wording)','Repair 调教方源 to 调教方正 in 调教方源，就要思考 (the will must keep training 方正).','Context: the will is kept supplied by 方源 and the training is aimed at 方正. Same fix as 1066 p16.','1066 p16 (decision row); 1088 p49'),
+(1085,17,'方面的愿意','方面的原因','H–M','Repair (wording)','Repair 方面的愿意 to 方面的原因 (for these reasons).','愿意 (willingness) does not fit the causal sentence; 原因 is the intended word. Unique token.','none'),
+(1086,110,'都出无数人影','分出无数人影','H–M','Repair (wording)','Repair 都出无数人影 to 分出无数人影 (split out countless figures).','都出 is unique; 分出 is the usual verb for splitting a clone or image.','none'),
+(1088,49,'调教方源','调教方正','H–M','Repair (wording)','Repair 调教方源等等事情 to 调教方正等等事情 (training Fang Zheng and so on).','Same token and same fix as 1066 p16 and 1084 p53. The subject of the training is 方正.','1066 p16 (decision row); 1084 p53'),
+(1092,9,'记忆去没有泯灭','记忆却没有泯灭','H','Repair (typo)','Repair 去 to 却 in 记忆去没有泯灭 (the memory was not erased).','去没有 is unique; 却 is the contrastive intended word.','none'),
+(1093,8,'全身的肉身就是优秀',None,'M','Query (wording)','Query: 全身的肉身就是优秀 reads as nonsense in context; intended sense unclear (possibly a mistyped 全身心 or similar). Needs a fuller check before any edit.','The sentence is followed by 念头纷起, so an intended sense may be a hindrance. Not proposed as an edit.','none'),
+(1096,55,'四面八法','四面八方','H','Repair (typo)','Repair 四面八法 to 四面八方 (in all directions). Add to the set-wide 四面八方 decision.','Same typo as 1050 p14 (SR-809) and SR-822 to SR-825. 四面八法 x6 in corpus (848 p2, 904 p75, 967 p65, 1004 p19, 1050 p14, 1096 p55).','SR-809 (1050 p14); SR-822–825; fix as one set'),
+(1098,78,'半年前的义天山大战',None,'L–M','Query (temporal)','Temporal query: 在半年前的义天山大战中. Check against the whole-novel timeline of the Yitian Mountain battle before any edit.','半年前 is used elsewhere at 915 p51. No edit proposed in this batch; whole-novel temporal reconciliation is outstanding.','915 p51; whole-novel timeline'),
+(1099,39,'既方源的血道宗师境界','继方源的血道宗师境界','M–H','Repair (wording)','Repair 既 to 继 in 既方源的血道宗师境界...之后 (following the Blood Dao, Power Dao, Wisdom Dao and Star Dao masters).','既...之后 does not fit the sentence; 继...之后 is the intended sense.','none'),
+(1101,48,'也灭有之前快速','也没有之前快速','H','Repair (typo)','Repair 灭有 to 没有 in 修为增长也灭有之前快速.','灭有 is unique; 没有 is the intended word.','none'),
+(1102,26,'超凡脱色','超凡脱俗','H','Repair (typo)','Repair 超凡脱色 to 超凡脱俗 (transcending the ordinary).','超凡脱色 is unique; 超凡脱俗 is x4 in the corpus (689 p94, 814 p25, 945 p7, 1043 p89).','none'),
+(1104,37,'另一方方面','另一方面','H','Repair (typo)','Repair doubled 方 in 另一方方面 to 另一方面.','Doubled character; 另一方面 is x25 in the corpus.','none'),
+(1104,63,'大量蛊仙粉末登场','大量蛊仙粉墨登场','H','Repair (typo)','Repair 粉末 to 粉墨 in 大量蛊仙粉末登场 (the idiom 粉墨登场).','蛊仙粉末 is unique; 粉墨登场 is the idiom (x1 at 758 p31).','none'),
+]

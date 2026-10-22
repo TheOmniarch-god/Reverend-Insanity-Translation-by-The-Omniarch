@@ -1,0 +1,37 @@
+{
+ "batch": "047",
+ "chapters": "1206-1255",
+ "chapter_count": 50,
+ "source_check": "batch-047-source.json (50 chapters, 4,572 paragraphs, 153,298 characters). Every row token verified present in its stated paragraph (0 misses).",
+ "reading_status": "complete (1206-1255); notes in batch-047-notes/reading-notes-1206-1255.md",
+ "report_rows": 44,
+ "confidence_counts": {
+  "M–H": 4,
+  "M": 10,
+  "H": 17,
+  "H–M": 5,
+  "M–L": 2,
+  "L–M": 3,
+  "L": 3
+ },
+ "approved": 0,
+ "applied": 0,
+ "source_edits": 0,
+ "witness_collation": "Hetushu book 7640 automated token-level comparison (witness-collation-047.json); 50 chapter pages fetched and title-checked (50 match).",
+ "witness_results": {
+  "witness copies source wording": 34,
+  "witness shows candidate wording": 9,
+  "context not found in witness (variant, segmentation, or watermark)": 1
+ },
+ "workbook_rows": "added (chapter completion and paragraph register 1206-1255; ledger sheet SR-942 onward)",
+ "ledger_entries": "SR-942 to SR-985",
+ "docx": "Batch-047-Chapters-1206-1255.docx",
+ "known_limits": [
+  "门约→盟约 set-wide (1207 p57 with 1149 p20).",
+  "四面八方 set-wide (1227 p57, 1246 p33, 1255 p44 added).",
+  "权利 vs 权力 set-wide (1220 p84–85, 1221 p63, 1238 p70; plus batch 046 1189 p19, 1193 p56).",
+  "亲身 vs 亲生 case-by-case (1219 p5).",
+  "血战平原 vs 血原 (1235 p24 added).",
+  "Queries carry no edit: 1226 p80, 1234 p59, 1234 p42, 1236 p65, 1237 p27, 1239 p59, 1242 p35, 1250 p50, 1255 p97."
+ ]
+}

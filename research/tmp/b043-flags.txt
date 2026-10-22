@@ -1,0 +1,71 @@
+1006 p100 | 但方源再来之前 -> 但方源在来之前 | H-M 0.80 | 在来之前 x7 in corpus; 再来之前 x1
+1008 p39 | 大半的天天缘光鹿 -> 天缘光鹿 | H 0.90 | doubled char; 天缘光鹿 unique to 1008
+1010 p6 | 待久了久要窒息 -> 待久了就要窒息 | M-H 0.70 | 待久了 x3 in corpus; check wording
+1013 p84 | 今天我总有炼成了匿息蛊 -> 总算炼成 | M-H 0.75 | 总有炼成 x2 (311 legit); 1013 reads as 总算
+1014 p74 | 兽人拖肠 repeats p73 | L (leave; style)
+1015 p63 | 他年轻是曾经铩羽而归 -> 他年轻时曾经 | H-M 0.85 | 年轻是 unique
+1015 p71 | 鸡架？ -> 机甲？ | M 0.60 | 鸡架 unique; 机甲 used 1497; p73 explains 机甲
+1016 p68 | 别出机抒 -> 别出机杼 | H 0.90 | 机抒 unique; 机杼 unused in corpus (idiom)
+1019 p93 | 将对方没有怀疑 -> 见对方没有怀疑 | M 0.70 | unique
+1020 p82 | 这还有归功于影无邪 -> 这还要归功于 | M-H 0.75 | 还有归功于 unique; 还要归功于 x3
+1008 p49 | 建成无悔，不是成就是败 | L-M 0.35 query (成败无悔?) | 1008 unique
+1017 p28 | 紫嫣的气雾 | L (紫嫣 x5 incl 1017; 紫烟 x5) | low; probably leave
+DROPPED: 秦百胜, 本杰孙, 宇道/宙道, 鬼不觉, 天缘光鹿 (kept as flag 1008 p39)
+1021 p20 | 周围的温度迅速境地 -> 迅速降低 | H-M 0.85 | unique
+1024 p52 | 用一个成语概括，那就是——毫无发损 -> 毫发无损 | H-M 0.80 | 毫发无损 x40; 毫无发损 unique
+1024 p35 | 三丈就是九米 (丈≈3m; modern 丈≈3.33m) | L (unit convention; note only)
+DROPPED: 一届凡人 (x16, consistent); 境地 (common)
+1026 p28 | 烟土的中央 -> 尘土的中央 | H-M 0.80 | 烟土 unique; p26 尘土
+1026 p40 | 情况情节 -> 情况紧急 | M-H 0.75 | unique; 情况紧急 x18
+1027 p14 | 不论在哪个这个世界上 -> 不论在哪个世界上 | M 0.65 | 哪个这个世界上 unique; 哪个世界上 x3
+1027 p26 | 蛊虫本身死很脆弱 -> 蛊虫本身很脆弱 | M-H 0.80 | 死很脆弱 unique
+1030 p26 | 堕落陷阱 -> 堕入陷阱 | M-H 0.75 | 堕落陷阱 unique
+1031 p20 | 自己就他却近乎一无所知 -> 自己对他却 | H 0.90 | unique
+1032 p35 | 都统统踩在较小 -> 踩在脚下 | H 0.90 | unique; 踩在脚下 x26
+1033 p52 | 每个月也不过毕竟两千仙元石 -> 不过两千 | M-H 0.75 | unique
+1034 p48 | 毫无关隘 -> 毫无阻碍 | M-H 0.80 | 毫无阻碍 x7; unique variant
+1035 p13 | 荒兽对已六转蛊仙 -> 对六转蛊仙 | M-H 0.80 | unique; 对六转 x2
+1036 p53 | 像是被飓风刮风，四处飞砸 -> 刮起 | M 0.60 | unique
+1039 p24 | 对他这具新声有用 -> 新身 | H 0.90 | 新声 unique; 新身体 in same ch
+1040 p99 | 被云环尽数当下、吸收 -> 挡下 | H 0.90 | 尽数挡下 x7; 尽数当下 unique
+DROPPED: 1013 p5 优先 (x46 common); 1040 p13 优先一礼 (common usage)
+1041 p14 | 狂魔魔尊陨落 -> 狂蛮魔尊 | M-H 0.75 | 狂蛮魔尊 x66; 狂魔魔尊 also at 1956 (cross-batch note)
+1041 p10 | 可谓为难着从古至今 | L-M 0.45 query (wording; 为难着 unique)
+1042 p14 | 凭借层不出穷的凡道杀招 -> 层出不穷 | H 0.90 | unique; 层出不穷 x76
+1042 p32 | 戚灾却又仙道杀招 -> 却有仙道杀招 | M-H 0.80 | unique; 却有仙道 x1 (different text)
+1046 p21 | 第三位位七转蛊仙 -> 第三位七转蛊仙 | M 0.60 | 位位 x34 across corpus; check context before edit
+1046 p56 | 皆因他代笔的不是自己 -> 代表 | M-H 0.75 | unique 代笔的不是; 代表的不是 x0 in corpus, wording to confirm
+1046 p63 | 统共包含七七四百九十只蛊虫 | M 0.60 query | 七七四百 unique; 七七四十九 x2 elsewhere (851, 1232)
+1048 p25 | 能否能否突破 -> 能否突破 | H 0.85 | doubled text; unique
+1049 p95 | 有两个毛民粗壮的女城主 | L-M 0.50 query | one vs two city lords; 女毛民 singular at p93
+1050 p14 | 向四面八法辐射 -> 四面八方 | H 0.90 | 四面八法 x15 corpus-wide (systemic; check all 15 as one batch)
+1050 p15 | 晃晃乎，半个月后 | L-M 0.50 query | 晃晃乎 unique; wording
+1050 p39 | 她本质是却是个铁石心肠 -> 本质却是 | H 0.85 | 本质却是 x1 (1003)
+1050 p43 | 心中戈登一下 -> 咯噔 | H 0.90 | 戈登 x4 (982, 1050, 1055, 1196); same pattern as 042
+1050 p91 | 事关又关乎他的性命 -> 事关他的性命 | M-H 0.80 | unique
+1050 p91 | 胜利的点微希望 -> 一点微希望 | M 0.55 | unique; wording
+# --- appended 2026-10-20: flags 1021-1035 (previously listed only in state memory) ---
+1021 p20 | 迅速境地 -> 迅速降低 | H 0.85 | 境地 x99 corpus; 迅速境地 x1
+1024 p52 | 毫无发损 -> 毫发无损 | M 0.65 | 毫发无损 x40; 毫无发损 x1
+1024 p35 | 三丈就是九米 | L-M unit note | source's own conversion; not edited
+1026 p28 | 烟土 -> 尘土 | H-M 0.80 | 烟土 x1
+1026 p40 | 情况情节 -> 情况紧急 | M-H 0.75 | 情况情节 x1
+1027 p14 | 不论在哪个这个世界上 -> 不论在哪个世界上 | M 0.65 | 哪个这个世界上 x1
+1027 p26 | 死很脆弱 -> 很脆弱 | M-H 0.80 | 死很脆弱 x1
+1030 p26 | 堕落陷阱 -> 堕入陷阱 | M-H 0.75 | 堕落陷阱 x1
+1031 p20 | 自己就他 -> 自己对他 | H 0.85 | 自己就他 x1
+1032 p35 | 踩在较小 -> 踩在脚下 | H 0.85 | 踩在较小 x1
+1033 p52 | 不过毕竟 -> 不过 | M 0.70 | 不过毕竟 x1
+1034 p48 | 毫无关隘 -> 毫无阻碍 | M 0.60 | 毫无关隘 x1; wording pending user/choice
+1035 p13 | 对已六转 -> 对六转 | M 0.70 | 对已六转 x1
+# --- 1044 ---
+1044 p12 | 数十亿亩 | L unit note | unit/scale note only
+# --- 1051-1055 ---
+1052 p32 | 方源无疑间救了凤九歌 -> 无意间 | M 0.70 | 无疑间 x1; 无意间 x10
+1052 p50 | 巨阳仙尊在八十八角真阳楼遗留的特意 -> 遗留的意识 | M-H 0.75 | 遗留的特意 x1; 意识 used in same passage
+1054 p1 | 方源本就擅能吃一堑长一智 -> 擅长 | H 0.85 | 擅能 x1
+1054 p41 | 却是云淡风情 -> 云淡风轻 | H 0.90 | 云淡风轻 x42; 云淡风情 x1
+1054 p83 | 这才地灾 -> 这场地灾 | L 0.40 query | 这场地灾 x7; 这才地灾 also at 978 (cross-batch, may be authorial)
+1055 p30 | 飞剑剑蛊暴射而出 -> 飞剑仙蛊 | H 0.85 | 飞剑仙蛊 x38; 飞剑剑蛊 x1
+1055 p104 | 方源心中戈登一下 -> 咯噔 | H 0.90 | 戈登 x4 (982, 1050, 1055, 1196)
+# cross-batch notes (no edit): 见面不相识 x15 (1051 p51 skill list); 见面似相识 pending (041)

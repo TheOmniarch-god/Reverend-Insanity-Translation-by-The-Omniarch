@@ -1,0 +1,44 @@
+# Batch 045 candidate flags (1106-1155). Format: ch pN | orig -> cand | confidence | note
+1114 p73 | 柳贯之 -> 柳贯一 | H–M 0.85 | alias used as 柳贯一 at 1113 p121 and 1133 p87 (柳贯一 x2; 柳贯之 x1)
+1117 p52 | 结合在一切 -> 结合在一起 | H 0.95 | check corpus
+1117 p52,p53 | 结合在一切 -> 结合在一起 | H 0.95 | 2 occurrences in same chapter (corpus: only these)
+1120 p83 | 这你飞鹰 -> 这飞鹰 | H 0.90 | unique in corpus
+1120 p74 | 也一点让方源 -> 这一点让方源 | M 0.60 | unique in corpus
+1120 p46 | 谈笑宴宴 (query) | L 0.40 | ×2 corpus (919 p2, 1120 p46); consistent usage; query only, no repair
+Dropped: 1119 p52 相差仿佛 (×6 corpus idiom); 1120 p69 双发髻 (×2 corpus, 1122 p60); 1118 p36 亲生父母 (correct; 亲生 case).
+1122 p56 | 就没有再没有露面 -> 就没有再露面 | H 0.90 | unique doubled text ('没有再没有' ×1 corpus)
+1123 p58 | 攻大于过 -> 功大于过 | H 0.85 | 攻大于过 ×1 corpus; 功大于过 ×0 (check idiom)
+1124 p10 | 催促进步 (query) | L 0.35 | corpus check pending
+1128 p105 | 炼尘 -> 炼尽 | H 0.85 | unique in corpus
+1128 p36 | 解除到 -> 接触到 | M 0.60 | unique in corpus; sense "finally came into contact with the great Gu Master's true inheritance"
+1129 p41 | 七转仙蛊跌落成了六转 -> 八转仙蛊跌落成了七转 | M 0.70 | 千年蛊 = 八转 per 1129 p37; tier arithmetic inconsistent
+1124 p10 | 催促进步 (query) | L 0.35 | unique in corpus; reads oddly; consider 促进进步/没有争斗就能进步; check translation source
+1131 p31 | 十二正确 -> 十分正确 | H 0.90 | corpus check pending
+1132 p53 | 任的何 -> 任何 | H 0.95 | corpus check pending
+1131 p31 | 十二正确 -> 十分正确 | H 0.90 | unique in corpus (confirmed)
+1132 p53 | 任的何 -> 任何 | H 0.95 | unique in corpus (confirmed)
+1133 p29 | 阴长阳错 -> 阴差阳错 | M 0.65 | ×2 corpus (755 p54 in batch 037, already reviewed; 阴差阳错 ×3). Check 755 before deciding; possibly set-wide.
+1134 p46 | 准备得在充分一点 -> 准备得更充分一点 | H 0.85 | unique in corpus
+1135 p94 | 嘴角微微一撬 -> 嘴角微微一翘 | H 0.85 | unique in corpus
+1136 p94 | 上古皇室 -> 上古荒兽 (query/H-M 0.5) | check corpus
+1136 p94 | 上古皇室 -> 上古荒兽 | M 0.55 | unique (1 hit); context "都是上古皇室，还是皮糙肉厚的" — the Ancient Beast context suggests 上古荒兽; query, check meaning before repair
+1113 p110, 1139 p23, 1139 p26 | 至尊福地 -> 至尊仙窍 | M 0.60 | 至尊福地 ×3 vs 至尊仙窍 ×126; likely label drift for Fang Yuan's Supreme Immortal Aperture; verify 1113 p110 context
+1140 p19 | 黄金部族 (term query) | L 0.30 | 黄金部族 ×5 (690, 691, 761, 1105, 1140) vs 黄金家族 ×20 / 黄金血脉 ×20; term-list decision, no repair now
+1041 p14 (batch 041 follow-up) | 狂魔魔尊 -> 狂蛮魔尊 | H 0.85 (pending 1956 check) | 狂蛮魔尊 ×40 vs 狂魔魔尊 ×2 (1041 p14, p15); 1140 p14 uses 狂蛮魔尊
+Dropped: 1139 p58 这么的 (policy: 这么的 ×14 corpus-wide, dropped earlier).
+1143 p43 | 瞥了毛六一样 -> 瞥了毛六一眼 | H 0.95 | unique in corpus
+1143 p48 | 太古上级天鹰 -> 太古上极天鹰 | H 0.90 | 上级天鹰 ×2 (1143 p48; 1147 p40 = batch 046 cross-check); 太古上极 ×20
+1147 p40 (cross-batch, batch 046) | 上级天鹰 -> 上极天鹰 | H 0.90 | cross-check when batch 046 is read
+1143 p102 | 有眼不识天梯山 -> 有眼不识泰山 (query) | M 0.50 | 天梯山 is a real place name (×17, 698–700); 有眼不识泰山 ×1 (835 p30); the idiom is plausible but the pun is uncertain
+1146 p13 | 知己好久 -> 知己好友 | M 0.70 | unique in corpus (知己 ×10 elsewhere)
+1146 p48 | 有用城池 -> 拥有城池 | M 0.80 | unique in corpus; 拥有 is the likely word
+1150 p3 | 并不能这样仙蛊的效果 -> 并不能掩盖仙蛊的效果 | M-H 0.75 | unique in corpus; mangled sentence
+1149 p20 | 和琅琊派的门约 -> 和琅琊派的盟约 (or 门派盟约) | M 0.65 | unique 门约; parallels 有和楚度的盟约; 琅琊派盟约 ×2 (1135)
+Dropped: 1149 p8 有五百年重生过来 (matches 990 p11 idiom).
+1152 p77 | 影宗就变已经残破不堪 -> 影宗已经残破不堪 | M 0.70 | unique "就变已经" (1152 p77); 就变 ×18 elsewhere, not in this phrase
+Dropped: 1152 p59 红枣仙元 (×12 term, 702–790).
+1155 p38 | 能够蛊仙提供 -> 能够为蛊仙提供 | H 0.85 | unique in corpus
+1155 p106 | 以为屏障 -> 作为屏障 | H 0.90 | unique in corpus
+1155 p24 | 炎煌天坑 (note) | - | consistent with 炎煌雷泽 (×76); cross-ref 炎黄雷泽 ×5 (925 p100/106/108, 945 p29, 989 p16) — existing batch 041/042 item
+1112 p10 | 充当做渡劫之地 -> 充当渡劫之地 | M 0.60 | unique in corpus (充当做 ×1)
+1112 p84 | 效果脱俗 (query) | L 0.30 | ×2 corpus (703 p22 batch 036, 1112 p84); 1112 p68 uses 效果拔群; treat as query; do not change 703 without check

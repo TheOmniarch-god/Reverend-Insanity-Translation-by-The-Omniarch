@@ -1,0 +1,342 @@
+[
+ {
+  "row": 1,
+  "ch": 1112,
+  "orig": "充当做",
+  "cand": "充当",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 2,
+  "ch": 1112,
+  "orig": "效果脱俗",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 3,
+  "ch": 1113,
+  "orig": "至尊福地",
+  "cand": "至尊仙窍",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 4,
+  "ch": 1114,
+  "orig": "柳贯之",
+  "cand": "柳贯一",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 5,
+  "ch": 1117,
+  "orig": "结合在一切",
+  "cand": "结合在一起",
+  "source_hits": 2,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 6,
+  "ch": 1117,
+  "orig": "结合在一切",
+  "cand": "结合在一起",
+  "source_hits": 2,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 7,
+  "ch": 1120,
+  "orig": "这你飞鹰",
+  "cand": "这飞鹰",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 8,
+  "ch": 1120,
+  "orig": "也一点让方源",
+  "cand": "这一点让方源",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 9,
+  "ch": 1120,
+  "orig": "谈笑宴宴",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": null,
+  "result": "context not found in witness (variant, segmentation, or watermark)"
+ },
+ {
+  "row": 10,
+  "ch": 1122,
+  "orig": "就没有再没有露面",
+  "cand": "就没有再露面",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 11,
+  "ch": 1123,
+  "orig": "攻大于过",
+  "cand": "功大于过",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": true,
+  "result": "witness shows candidate wording"
+ },
+ {
+  "row": 12,
+  "ch": 1124,
+  "orig": "催促进步",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 13,
+  "ch": 1128,
+  "orig": "炼尘",
+  "cand": "炼尽",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 14,
+  "ch": 1128,
+  "orig": "解除到",
+  "cand": "接触到",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 15,
+  "ch": 1129,
+  "orig": "七转仙蛊跌落成了六转",
+  "cand": "八转仙蛊跌落成了七转",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 16,
+  "ch": 1131,
+  "orig": "十二正确",
+  "cand": "十分正确",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 17,
+  "ch": 1132,
+  "orig": "任的何",
+  "cand": "任何",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 18,
+  "ch": 1133,
+  "orig": "阴长阳错",
+  "cand": "阴差阳错",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 19,
+  "ch": 1134,
+  "orig": "准备得在充分一点",
+  "cand": "准备得更充分一点",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 20,
+  "ch": 1135,
+  "orig": "嘴角微微一撬",
+  "cand": "嘴角微微一翘",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 21,
+  "ch": 1136,
+  "orig": "上古皇室",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": null,
+  "result": "context not found in witness (variant, segmentation, or watermark)"
+ },
+ {
+  "row": 22,
+  "ch": 1139,
+  "orig": "至尊福地",
+  "cand": "至尊仙窍",
+  "source_hits": 2,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 23,
+  "ch": 1139,
+  "orig": "至尊福地",
+  "cand": "至尊仙窍",
+  "source_hits": 2,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 24,
+  "ch": 1140,
+  "orig": "黄金部族",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 25,
+  "ch": 1143,
+  "orig": "瞥了毛六一样",
+  "cand": "瞥了毛六一眼",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 26,
+  "ch": 1143,
+  "orig": "太古上级天鹰",
+  "cand": "太古上极天鹰",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": true,
+  "result": "witness shows candidate wording"
+ },
+ {
+  "row": 27,
+  "ch": 1143,
+  "orig": "有眼不识天梯山",
+  "cand": "有眼不识泰山",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 28,
+  "ch": 1146,
+  "orig": "知己好久",
+  "cand": "知己好友",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 29,
+  "ch": 1146,
+  "orig": "有用城池",
+  "cand": "拥有城池",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 30,
+  "ch": 1149,
+  "orig": "门约",
+  "cand": "盟约",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 31,
+  "ch": 1150,
+  "orig": "并不能这样仙蛊的效果",
+  "cand": "并不能掩盖仙蛊的效果",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 32,
+  "ch": 1152,
+  "orig": "就变已经",
+  "cand": "已经",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 33,
+  "ch": 1155,
+  "orig": "能够蛊仙提供",
+  "cand": "能够为蛊仙提供",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 34,
+  "ch": 1155,
+  "orig": "以为屏障",
+  "cand": "作为屏障",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ }
+]

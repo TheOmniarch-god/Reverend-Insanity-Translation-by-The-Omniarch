@@ -1,0 +1,642 @@
+[
+ {
+  "row": 1,
+  "ch": 1356,
+  "orig": "因和我相仿",
+  "cand": "和我相仿",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 2,
+  "ch": 1356,
+  "orig": "这只信道凡蛊中这座超级蛊阵的一切内容",
+  "cand": "记载着",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 3,
+  "ch": 1356,
+  "orig": "抵御灰夜的超级蛊阵",
+  "cand": "抵御夜灰的超级蛊阵",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 4,
+  "ch": 1357,
+  "orig": "这些正道蛊阵都感到庆幸",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 5,
+  "ch": 1357,
+  "orig": "直接就会化为灰灰",
+  "cand": "化为灰烬",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 6,
+  "ch": 1358,
+  "orig": "堆砌在一切",
+  "cand": "堆砌在一起",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 7,
+  "ch": 1358,
+  "orig": "有点相互之间",
+  "cand": "有的",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 8,
+  "ch": 1358,
+  "orig": "好似山峦飞巅",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 9,
+  "ch": 1361,
+  "orig": "宛若金钢",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 10,
+  "ch": 1361,
+  "orig": "已经强劲的身体素养",
+  "cand": "以及强劲的身体素养",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 11,
+  "ch": 1361,
+  "orig": "置身紫山真君的这样的处境",
+  "cand": "置身紫山真君这样的处境",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 12,
+  "ch": 1362,
+  "orig": "距离南疆来源，至少需要一天",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 13,
+  "ch": 1362,
+  "orig": "第一蛊阵辨别身份",
+  "cand": "第一层蛊阵辨别身份",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 14,
+  "ch": 1363,
+  "orig": "你到底是快出手啊",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 15,
+  "ch": 1363,
+  "orig": "将他仍旧在不断后撤",
+  "cand": "见他仍旧在不断后撤",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 16,
+  "ch": 1365,
+  "orig": "龙公语出惊人死不休",
+  "cand": "龙公语不惊人死不休",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 17,
+  "ch": 1366,
+  "orig": "吐出一记灰夜杀招",
+  "cand": "吐出一记夜灰杀招",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 18,
+  "ch": 1366,
+  "orig": "关键能够使用杀招",
+  "cand": "关键还能够使用杀招",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 19,
+  "ch": 1367,
+  "orig": "招收的动作",
+  "cand": "招手的动作",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 20,
+  "ch": 1367,
+  "orig": "都损伤会很多",
+  "cand": "损伤会很多",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 21,
+  "ch": 1369,
+  "orig": "惨白亏输",
+  "cand": "惨败亏输",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 22,
+  "ch": 1369,
+  "orig": "将紫薇仙子进展良好",
+  "cand": "眼见紫薇仙子进展良好",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 23,
+  "ch": 1370,
+  "orig": "一但武遗海有个三长两短",
+  "cand": "一旦武遗海有个三长两短",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 24,
+  "ch": 1370,
+  "orig": "宝皇天轰动",
+  "cand": "宝黄天轰动",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 25,
+  "ch": 1370,
+  "orig": "只需是搜魂手段",
+  "cand": "只要是搜魂手段",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 26,
+  "ch": 1372,
+  "orig": "呵呵呵。”。",
+  "cand": "呵呵呵。”",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": true,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 27,
+  "ch": 1374,
+  "orig": "方源也不绝不会",
+  "cand": "方源绝不会",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 28,
+  "ch": 1374,
+  "orig": "不仅是他就连他的爱妻",
+  "cand": "不仅是他，就连他的爱妻",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": true,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 29,
+  "ch": 1375,
+  "orig": "将池规猛地变色",
+  "cand": "见池规猛地变色",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 30,
+  "ch": 1376,
+  "orig": "现在四百多头鹰",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 31,
+  "ch": 1376,
+  "orig": "纯梦求身体的蛊仙",
+  "cand": "纯梦求真体的蛊仙",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 32,
+  "ch": 1376,
+  "orig": "纯梦求真仙",
+  "cand": "纯梦求真体",
+  "source_hits": 2,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 33,
+  "ch": 1376,
+  "orig": "黑菟忽然脸色周边",
+  "cand": "黑菟忽然脸色剧变",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 34,
+  "ch": 1377,
+  "orig": "略影地沟",
+  "cand": "掠影地沟",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 35,
+  "ch": 1377,
+  "orig": "双目无关",
+  "cand": "双目无光",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 36,
+  "ch": 1377,
+  "orig": "照准某头重楼首相",
+  "cand": "照准某头重楼水象",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 37,
+  "ch": 1378,
+  "orig": "当做仙道杀招",
+  "cand": "当做炸弹",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 38,
+  "ch": 1379,
+  "orig": "龙公思虑周翔",
+  "cand": "龙公思虑周详",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 39,
+  "ch": 1379,
+  "orig": "上级天鹰的太古气息",
+  "cand": "上极天鹰的太古气息",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": true,
+  "result": "witness shows candidate wording"
+ },
+ {
+  "row": 40,
+  "ch": 1380,
+  "orig": "还自由之身",
+  "cand": "恢复自由之身",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 41,
+  "ch": 1380,
+  "orig": "方源很快恢复如此",
+  "cand": "方源很快恢复如初",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 42,
+  "ch": 1382,
+  "orig": "把武家和武庸耍的玩",
+  "cand": "把武家和武庸耍着玩",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 43,
+  "ch": 1382,
+  "orig": "理所应然",
+  "cand": "理所当然",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 44,
+  "ch": 1383,
+  "orig": "和黑白等仙",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 45,
+  "ch": 1383,
+  "orig": "逆流河减少了细微",
+  "cand": "逆流河减少了些许",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 46,
+  "ch": 1383,
+  "orig": "暴露出了不少信心",
+  "cand": "暴露出了不少信息",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 47,
+  "ch": 1384,
+  "orig": "望着偌大的项目",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 48,
+  "ch": 1385,
+  "orig": "必定通宵逃生之能",
+  "cand": "必定通晓逃生之能",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": true,
+  "result": "witness shows candidate wording"
+ },
+ {
+  "row": 49,
+  "ch": 1387,
+  "orig": "武庸竟向坦言",
+  "cand": "武庸竟坦言",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 50,
+  "ch": 1387,
+  "orig": "顿时惊讶到难以附加的程度",
+  "cand": "顿时惊讶到难以复加的程度",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 51,
+  "ch": 1388,
+  "orig": "一直盗天魔尊曾用的仙蛊",
+  "cand": "一只盗天魔尊曾用的仙蛊",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 52,
+  "ch": 1389,
+  "orig": "凤九歌竟然不是想他联手",
+  "cand": "凤九歌竟然想与他联手",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 53,
+  "ch": 1391,
+  "orig": "明日白云",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 54,
+  "ch": 1391,
+  "orig": "只得面前将双臂和手化为龙爪",
+  "cand": "当场将双臂和手化为龙爪",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 55,
+  "ch": 1392,
+  "orig": "仙道战场杀招四清四边风",
+  "cand": "仙道战场杀招四清四变风",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 56,
+  "ch": 1392,
+  "orig": "把转仙蛊屋也只是被分解了一些外围",
+  "cand": "把八转仙蛊屋也只是被分解了一些外围",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 57,
+  "ch": 1393,
+  "orig": "边都是方源要赶赴的地点",
+  "cand": "都是方源要赶赴的地点",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 58,
+  "ch": 1399,
+  "orig": "很是生长了一些植物",
+  "cand": "还生长着一些植物",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 59,
+  "ch": 1399,
+  "orig": "侦查了一翻后",
+  "cand": "侦查了一番后",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 60,
+  "ch": 1400,
+  "orig": "功过来的年兽阵容很强大",
+  "cand": "扑过来的年兽阵容很强大",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 61,
+  "ch": 1403,
+  "orig": "这只智道仙蛊自爱仙蛊，一下子要炼出七转层次来",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 62,
+  "ch": 1404,
+  "orig": "他身上了的最强优势",
+  "cand": "他身上最强的优势",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 63,
+  "ch": 1405,
+  "orig": "他点了点，然后通知毛六",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 64,
+  "ch": 1405,
+  "orig": "简直是要一夜回到解放前",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ }
+]

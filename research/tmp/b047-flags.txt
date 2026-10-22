@@ -1,0 +1,66 @@
+# Batch 047 candidate flags (1206-1255). Format: ch pN | orig -> cand | confidence | note
+1207 p57 | 门约 -> 盟约 (set-wide with 1149 p20, SR-? batch 045 row) | M 0.65 | 门约 x2 (1149 p20, 1207 p57)
+1207 p52 | 产生过来 | DROPPED | also used at 797 p113
+1206-1211 reading done; no other flags.
+1212 p33 | 而来白相洞天当中的白凝冰 -> 而在白相洞天当中的白凝冰 | M-H 0.80 | 而来白相 x1
+1213 p7 | 一届散修 | DROPPED | x2 (1168 p71, 1213 p7)
+1213 p8 | 一边走，一边丰富 -> 一边走，一边讲解 | M 0.65 | 一边丰富 x1
+1213 p10 | 名目张胆 -> 明目张胆 | H 0.90 | 名目张胆 x1; 明目张胆 x6
+1214 p23 | 趋之如骛 -> 趋之若鹜 | H 0.90 | 趋之如骛 x1; 趋之若鹜 x2
+1215 p35 | 阴鸠之气 -> 阴鸷之气 | H-M 0.85 | pending corpus check
+1216 p31 | 别破 -> 被破 | H 0.90 | pending corpus check
+1217 p45 | 又先前跨越了一大截 -> ? | M 0.60 | pending corpus check
+1215 p35 | 阴鸠之气 | DROPPED | 阴鸠 x3 (828 p57, 877 p19, 1215 p35)
+1216 p31 | 别破 -> 被破 | H 0.90 | confirmed unique; 被破 x18
+1217 p45 | 又先前跨越了一大截 -> 又比先前跨越了一大截 | M 0.70 | 又先前 x1
+1219 p5 | 他的亲身母亲 -> 亲生母亲 (case-by-case per user rule) | M 0.65 | 武遗海 is 武独秀's son; 亲生 fits; user said case-by-case review
+1220 p84-85 | 权利高层 (set-wide 权利/权力 item; no row)
+1222 p3 | 一切的事实，世间的万物 -> 一切的事物 | M 0.70 | pending check
+1222 p34 | 我在此表面 -> 我在此表态 | H-M 0.90 | pending check
+1221 p63 | 武家的权利 (set-wide 权利/权力 note; no row)
+1224 p81 | 暗淡无关 -> 暗淡无光 | H 0.90 | pending check
+1224 p81 | 到嘴的利益肯他定要吐出来 -> 肯定 | H 0.90 | pending check
+1226 p80 | 却斩碎奈何不了满是党羽的方源 | query, M-L 0.40 | pending check
+1227 p57 | 四面八法 -> 四面八方 | set-wide (SR-809/822-825/856 family) | pending
+1228 p14 | 叹一口才继续道 -> 叹一口气继续道 | H 0.90 | pending check
+1229 p3 | 每一个寸墙壁之中 -> 每一寸墙壁之中 | M 0.70 | pending check
+1230 p72 | 一概变化 -> 一切变化 | M 0.65 | pending check
+1232 p37 | 没有关碍 -> 没有妨碍 | H-M 0.85 | pending check
+1234 p50 | 大异常类 -> 大异其类 | H 0.90 | pending check
+1234 p66 | 半声的修行积累 -> 半生的修行积累 | H-M 0.85 | pending check
+1234 p59 | 傲绝五域两天 | query L-M 0.40 | pending check
+1234 p42 | 乃是太急促了 | query L-M 0.40 | pending check
+1235 p24 | 血战平原 (count for 1190 p76 naming item)
+1236 p28 | 大多是都是写实梦境 -> 大多都是写实梦境 | H 0.90 | pending check
+1236 p65 | 这层蛊仙 -> ? | M 0.55 | pending check
+1236 p78 | 仙缘生意在坐着 -> 在做着 | M-H 0.80 | pending check
+1237 p27 | 一个人棍 | query L 0.35 | pending
+1238 p70 | 权利核心 (set-wide 权利/权力 note; no row)
+1239 p9 | 廋死的骆驼 -> 瘦死的骆驼 | H 0.95 | pending check
+1239 p9 | 烂船还有三磅钉 -> 三斤钉 | M-H 0.85 | pending check
+1239 p56 | 并未有独自完全 -> 并未独自完全 | M 0.55 | pending check
+1239 p59 | 无人挂怀至尊仙体 | query L 0.35 | pending
+1239 p81 | 近在咫尺和 -> 近在咫尺 | H 0.95 | pending check
+1239 p83 | 打开一道同道 -> 通道 | H 0.95 | pending check
+1242 p17 | 自然通宵世间变化至理 -> 洞悉/通晓 | M-H 0.85 | pending check
+1242 p21 | 阴泽后人 -> 荫泽后人 | H 0.90 | pending check
+1242 p35 | 药皇也缓慢速度 | query L-M 0.45 | pending check
+1245 p58 | 云磁星力 vs 元磁星力 (p50) -> 元磁星力 | M 0.65 | pending check
+1246 p53 | 难以附加 -> 难以复加 | H 0.90 | pending check
+1246 p33 | 四面八法 -> 四面八方 | set-wide | pending
+1247 p2 | 博文广志 -> 博闻广识? | query L-M 0.45 | pending check
+1247 p59 | 黒豕蛊 (variant char) | query L-M 0.55 | pending check
+1239 p9 | 烂船还有三磅钉 | DROPPED | consistent x2 (1239 p9, 1249 p51)
+1247 p2 | 博文广志 | DROPPED | consistent x3 (935 p44, 1191 p17, 1247 p2)
+1247 p59 | 黒豕蛊 -> 黑豕蛊 | M-H 0.75 | 黒 x1; 黑豕 x1 (1024 p6)
+1245 p58 | 云磁星力 -> 元磁星力 | M 0.70 | p50 uses 元磁星力
+1248 p6 | 镇运天空 -> 镇运天宫 | H 0.90 | pending check
+1250 p50 | 微微带线 | query L 0.35 | pending
+1251 p62 | 再次有虚化实 -> 再次由虚化实 | H 0.90 | pending check
+1251 p95 | 双足立地越有一尺之高 -> 离地 | H 0.95 | pending check
+1252 p39 | 赵怜云的并非真正的仙窍 -> 仙窍并非 | H-M 0.85 | pending check
+1252 p39 | 直接转再看爱情仙蛊 | query M 0.60 | pending check
+1254 p22 | 我是已经不想再等不下去 -> 不想再等下去 | H-M 0.85 | pending check
+1255 p44 | 辐射四面八法 -> 四面八方 | set-wide | pending
+1255 p55 | 飙升道了七转层次 -> 飙升到了 | H 0.90 | pending check
+1255 p97 | 锁命银链被迫 | query M-L 0.45 | pending check

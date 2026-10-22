@@ -1,0 +1,86 @@
+[
+ {
+  "id": "SR-822",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 848,
+    "paragraph": 2,
+    "file": "",
+    "reference_text": "848 p2"
+   }
+  ],
+  "recommended_action": "Repair 四面八法 to 四面八方 (in all directions). (cross-batch addition from batch 043 check; source token: 天上是血云，地上是血海，四面八法是血光。)",
+  "rationale": "Same typo as 1050 p14 (SR-809). 四面八方 is used x165 in the batch sources; 四面八法 is an error. Batch 039 (not recorded there). Confidence H. Witness not collated (page not fetched in this pass).",
+  "confidence": "H",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "1050 p14 (SR-809); fix as one set",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated (cross-batch addition; witness page not fetched)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-823",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 904,
+    "paragraph": 75,
+    "file": "",
+    "reference_text": "904 p75"
+   }
+  ],
+  "recommended_action": "Repair 四面八法 to 四面八方 (in all directions). (cross-batch addition from batch 043 check; source token: 源源不断的魂兽大军，从四面八法重重包围着方源等)",
+  "rationale": "Same typo as 1050 p14 (SR-809). 四面八方 is used x165 in the batch sources; 四面八法 is an error. Batch 040 (not recorded there). Confidence H. Witness not collated (page not fetched in this pass).",
+  "confidence": "H",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "1050 p14 (SR-809); fix as one set",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated (cross-batch addition; witness page not fetched)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-824",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 967,
+    "paragraph": 65,
+    "file": "",
+    "reference_text": "967 p65"
+   }
+  ],
+  "recommended_action": "Repair 四面八法 to 四面八方 (in all directions). (cross-batch addition from batch 043 check; source token: 一道道巨大的风镰，成千上万，朝着四面八法激射。)",
+  "rationale": "Same typo as 1050 p14 (SR-809). 四面八方 is used x165 in the batch sources; 四面八法 is an error. Batch 042 (not recorded there). Confidence H. Witness not collated (page not fetched in this pass).",
+  "confidence": "H",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "1050 p14 (SR-809); fix as one set",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated (cross-batch addition; witness page not fetched)",
+  "approved": false,
+  "applied": false
+ },
+ {
+  "id": "SR-825",
+  "category": "Repair (typo)",
+  "locations": [
+   {
+    "chapter": 1004,
+    "paragraph": 19,
+    "file": "",
+    "reference_text": "1004 p19"
+   }
+  ],
+  "recommended_action": "Repair 四面八法 to 四面八方 (in all directions). (cross-batch addition from batch 043 check; source token: 一股磅礴的气浪，猛地爆发，向着四面八法冲刷而去。)",
+  "rationale": "Same typo as 1050 p14 (SR-809). 四面八方 is used x165 in the batch sources; 四面八法 is an error. Batch 042 (not recorded there). Confidence H. Witness not collated (page not fetched in this pass).",
+  "confidence": "H",
+  "status": "Open; unapproved, unapplied",
+  "dependencies": "1050 p14 (SR-809); fix as one set",
+  "publication_status": "HOLD: complete-corpus reading and global reconciliation outstanding",
+  "witness_collation": "Not collated (cross-batch addition; witness page not fetched)",
+  "approved": false,
+  "applied": false
+ }
+]

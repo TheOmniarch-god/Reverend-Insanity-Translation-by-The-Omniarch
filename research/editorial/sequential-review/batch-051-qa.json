@@ -1,0 +1,39 @@
+{
+ "batch": "051",
+ "chapters": "1406-1455",
+ "chapter_count": 50,
+ "source_check": "batch-051-source.json (50 chapters, 4,334 paragraphs, 137,443 characters). Every row token verified present in its stated paragraph (0 misses).",
+ "reading_status": "complete (1406-1455); flags in tmp/b051-flags.txt",
+ "report_rows": 66,
+ "confidence_counts": {
+  "L-M": 7,
+  "M-H": 15,
+  "H": 37,
+  "M": 7
+ },
+ "approved": 0,
+ "applied": 0,
+ "source_edits": 0,
+ "witness_collation": "Hetushu book 7640 automated token-level comparison (witness-collation-051.json); 50 chapter pages fetched and title-checked (50 match).",
+ "witness_results": {
+  "witness copies source wording": 64,
+  "context not found in witness (variant, segmentation, or watermark)": 1,
+  "witness shows candidate wording": 1
+ },
+ "workbook_rows": "added (chapter completion and paragraph register 1406-1455; ledger sheet SR-1195 onward)",
+ "ledger_entries": "SR-1195 to SR-1260",
+ "docx": "Batch-051-Chapters-1406-1455.docx",
+ "cross_batch": [
+  "1098 p18 / 1408 p114 / 1435 p81 利于不败之地 (batch 044)",
+  "1313 p5 / 1413 p37 失踪没有 (batch 049)",
+  "1339 p42 / 1413 p48 面目前非 (batch 049)",
+  "1319 p74 / 1379 p24 / 1430 p48 周翔 (batches 049-050)",
+  "771 p49 / 1421 p73 毫无意识 (batch 038)",
+  "1330 p72 / 1343 p21, p40, p70 / 1449 p83 太上大家老 (batch 049)"
+ ],
+ "known_limits": [
+  "Set-wide decisions: 洁身自好/洁身自爱; 立于不败之地; 逆流护身印; 四面八方; 太上大长老; 己运真传; 见面曾相识 (open).",
+  "Queries carry no edit: 1406 p9, 1406 p35, 1408 p97, 1410 p29, 1422 p7, 1430 p77, 1433 p18, 1435 p34.",
+  "Several repairs rest on sense judgement rather than corpus matches; confirm before applying."
+ ]
+}

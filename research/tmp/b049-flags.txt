@@ -1,0 +1,81 @@
+1306 p21 | 不可容悔 -> 不容反悔 (check) | M-H 0.75 | pending check
+1309 p87 / 1310 p5 | 酒钢大小 (vs 酒缸大小 1310 p31) | check | pending
+1310 p46 | 小磨噤声 (nickname for 夏琢磨?) | L-M 0.45 | pending check
+1311 p38 | 没有印象 -> 没有影响 | M 0.75 | pending check
+1311 p84 | 唉声抬起 -> 唉声叹气 | H 0.97 | pending check
+1312 p10 | 炎黄仙人 -> 炎荒仙人 | H 0.92 | pending check
+1312 p33 | 构成过来 -> 构成了 | M-H 0.85 | pending check
+1312 p57 | 山名由因 -> 由来 | H 0.92 | pending check
+1312 p61 | 至尊福地 -> 至尊仙窍 (term set) | pending
+1313 p5 | 但方源却失踪没有交出来 | M 0.80 | pending check
+1313 p63 | 从龙鳞湖，到龙鳞海 (湖 vs 海域 consistency) | L-M 0.55 | pending check
+1315 p72 | 只有是一个组织 -> 只要是 | H 0.90 | pending check
+1315 p72 | 可以专营 -> 可以钻营 (sense) | M 0.65 | pending check
+1316 p46 | 至尊福地 -> 至尊仙窍 (term set) | pending
+1316 p56 | 四面八法 -> 四面八方 (set) | H 0.92 | pending check
+1318 p19 | 很久很有以前 vs 1315 p22 很久很以前 | L-M 0.55 | check
+1318 p32 | 小鱼的独自 -> 肚子 | H 0.97 | pending check
+1318 p77 | 但就在时候 -> 但就在这时候 | H 0.93 | pending check
+1319 p11 / p25 | 金玉如一梦 (poem) vs 金玉一如梦 (gloss) | M 0.70 | check
+1319 p18 | 寸步间高响 -> 高险 (poem l8) | H 0.95 | pending check
+1319 p25 | 消解瓦散 -> 消解瓦解 (sense) | M 0.70 | check
+1319 p74 | 考虑周翔 -> 周详 | H 0.97 | pending check
+1320 p22 | 真相直接抄起 -> 真想 | H 0.97 | pending check
+1320 p46 | 不谈和其他几位强运之人连享运气 | L 0.45 | check
+1320 p78 | 池伤 (name; check 池殇/池伤) | L-M | check
+1321 p14 | 方源值得时常落窍 -> 只得 | H 0.85 | pending check
+1321 p67 | 黄龙江 — DROPPED: 1326 p14 lists 黄龙江 as a real river (not a flag)
+1321 p84 | 忽的手笔 -> 忽的停笔 | H 0.97 | pending check
+1320 p87 / 1322 p60 | 谈笑宴宴 -> 晏晏 | H 0.90 | pending check
+1322 p69 | 到底他的亲弟弟 -> 到底是 | H 0.97 | pending check
+1323 p1 | 方源暗中低估 -> 暗中嘀咕 | H 0.95 | pending check
+1323 p17 | 围绕比不上宇道宙道 -> 渊源 | M 0.80 | pending check
+1325 p59 | 火道 (vs 炎道 elsewhere) | H 0.90 | pending check
+1325 p75 | 能够我第二只阵心蛊 -> 能够给我 | H 0.97 | pending check
+1327 p23 | 阴鸠之气 -> 阴鸷之气 | H 0.90 | pending check
+1327 p87 | 我这里有自己出了一个阵道的难题 -> 我这里出了 | M-H 0.85 | pending check
+1329 p67 | 有和用处 -> 有何用处 | H 0.97 | pending check
+1329 p68 | 拍节叫好 -> 拍案叫好 | H 0.95 | pending check
+1330 p72 | 太上大家老 -> 太上大长老 | H 0.90 | pending check
+1330 p59 | 池规太上家老 (池规 is 七转 branch head, not 太上) -> 池规大人 | M 0.80 | pending check
+1331 p19 | 不值得南疆英雄 (meaning unclear) -> 不配称南疆英雄? | M 0.70 | pending check
+1332 p11 | 欲情故纵 -> 欲擒故纵 | H 0.97 | pending check
+1333 p69 | 不以为杵 (set item with 1194 p48 / 1263 p41) | pending set
+1333 p88 | 威名剧盛 -> 威名大盛 | M-H 0.85 | pending check
+1334 p23 | 那些一些关键位置 -> 那些关键 | H 0.95 | pending check
+1335 p28 | 重生优势越来小 -> 越来越小 | H 0.95 | pending check
+1335 p38 | 方源值得迅速打量 -> 只得 | H 0.85 | pending check (same as 1321 p14)
+1335 p92 | 损害濒死 -> 重伤濒死 | M-H 0.80 | pending check
+1336 p37 | 视野堕落黑暗 -> 陷入黑暗 | H 0.90 | pending check
+1336 p79 | 至于后腿已经彻底折断 (sentence about 右腿? ) | M 0.75 | pending check
+1338 p16 | 律道仙蛊熟 (name check) | L 0.40 | check
+1339 p42 | 面目前非 -> 面目全非 | H 0.97 | pending check
+1339 p49 | 缓缓地堕落到血潮 (sense) | L 0.40 | check
+1341 p44 | 从此之外 -> 除此之外 | H 0.95 | pending check
+1342 p42 | 家政巨大变动 -> 家政? (probably 政局) | M 0.70 | check
+1342 p55 | 瞧着方源的脸目 -> 面目 | L-M 0.60 | check
+1345 p10 | 因为武庸的始终，方源的命令 -> 指示 | M-H 0.80 | pending check
+1345 p22 | 企图御地于外 -> 御敌于外 | H 0.97 | pending check
+1345 p26 | 大半的金色雾气萧山 -> 消散 | H 0.90 | pending check
+1345 p70 | 有的着沉默无声 -> 有的沉默无声 | H 0.97 | pending check
+1347 p69 | 仿佛×的形态 (garbled symbol in source) | M 0.80 | check witness
+1347 p76 | 无非翻身还手 -> 无法翻身还手 | H 0.92 | pending check
+1348 p38 | 乔家是武家某一代的太上大长老，大力扶持出来 (sentence garbled) | M 0.70 | check
+1348 p45 | 对于池家而言看 -> 而言 | H 0.97 | pending check
+1348 p49 | 武庸始终，死讯传来 -> 武庸身死 | H 0.85 | pending check (cf 1345 p10)
+1349 p36 | 黑莬 (name; pun on 黑兔?) | L | check corpus
+1350 p22 | 我能更能接近为人了 -> 我能更接近 | H 0.95 | pending check
+1351 p9 | 不存在任何的四条 (meaning unclear) | M 0.70 | check
+1351 p30 | 浸处一滴鲜红的血液 -> 渗出 | H 0.97 | pending check
+1351 p93 | 没有的闪躲 -> 没有闪躲 | H 0.97 | pending check
+1351 p105 | 踉跄后退几乎 -> 几步 | H 0.92 | pending check
+1349 p36 / 1351 p114 vs 1352 p1,p50 | 黑莬 vs 黑菟 inconsistency | H 0.85 | check corpus
+1352 p2 | 从眼角出延伸出去 -> 眼角处 | H 0.97 | pending check
+1352 p55 | 但是此刻此刻 -> 此刻 | H 0.97 | pending check
+1352 p77 | 值得在武安的身上用了 -> 只得 | H 0.85 | pending check
+1352 p85 | 速度飞快的快 -> 速度飞快 | H 0.95 | pending check
+1353 p28 | 狠狠地汗了一下 -> 捏了把汗 | M 0.80 | pending check
+1354 p6 | 浑说摸鱼 -> 浑水摸鱼 | H 0.97 | pending check (1352 p94 uses 浑水摸鱼)
+1354 p68 | 她的大姨妈的炎道手段 (garbled) -> 她的炎道手段? | H 0.90 | pending check
+1354 p84 | 妙音魔女 vs 妙音仙子 naming | L 0.40 | check
+1354 p93 | 挡住灰夜 -> 挡住夜灰? | M-H 0.80 | check

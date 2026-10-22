@@ -1,4 +1,76 @@
-# Sequential review checkpoint: 955
+# Sequential review checkpoint: 1305
+
+Completed reading 1–1305 of 2334. Next unread: 1306. Nothing approved or applied. Whole-novel reconciliation outstanding.
+
+## Batch 048 (1256–1305): reading, report, DOCX, QA, ledger, workbook, witness done
+
+- Batch 048 (1256–1305): Batch-048-Chapters-1256-1305.md and .docx, batch-048-qa.json, reading notes in batch-048-notes/reading-notes-1256-1305.md. Ledger SR-986 to SR-1055 (70 rows; 5 queries carry no edit).
+- Workbook: Chapter completion and Paragraph register extended to 1256–1305 (4,518 paragraph rows; 138,586 characters). Proposal ledger sheet SR-001 to SR-1055. Read me updated to 1–1305 and 1,055 proposals. Previous Read me character gap (7,204) not corrected.
+- Witness (Hetushu 7640): witness-collation-048.json. 68 rows copy the source; 2 show the candidate in the web copy only (not authority). Titles 50/50 match.
+- Set-wide items: 权利 vs 权力 (1263 p49 added); 特意 (1266 p81 added); 不以为杵 (1263 p41 with 1194 p48); 传到到了 (1268 p24 with 1167 p45); 通宵→通晓 (1270 p50 with batch 047 1242 p17, SR-965); 雪山老祖 alias query (1278 p80, p87); 黑城/黑凡 name check (1299 p87).
+- Cross-batch: 1247 p59 黒豕蛊 → 黑豕蛊 raised to H (0.90) in SR-969 (黑豕蛊 x3 incl. 1272 p58–59).
+- Dropped: 1257 p81 所然 (string not in corpus; paragraph error withdrawn); 1271 p45 大同风 (x46); 1271 p62 心中一吐 (x2); 1294 p43 资辈 (x3); 1296 p52 宋甲丹 (prose name x47); 1298 p75 感且佩 (x2); 1280 p94 这么的人 (x14).
+- Open judgment items to confirm before applying: 1258 p3 pronoun referent; 1257 p17; 1266 p79; 1270 p21; 1294 p68; 1299 p87; 1268 p40; 1272 p46.
+- Queries (no edit): 1264 p61; 1278 p80; 1287 p63; 1289 p36; 1304 p36.
+- Tools: tmp/rows048.py, tmp/build048.py (already run; do not re-run), tmp/ext_workbook_1256_1305.py (already run; do not re-run). Pre-run backup: tmp/workbook-pre-ext-1256-1305.xlsx.
+
+## Batch 047 (1206–1255): reading, report, DOCX, QA, ledger, workbook, witness done
+
+- Batch 047 (1206–1255): Batch-047-Chapters-1206-1255.md and .docx, batch-047-qa.json, reading notes in batch-047-notes/reading-notes-1206-1255.md. Ledger SR-942 to SR-985 (44 rows: 36 repairs/term items, 9 queries; queries carry no edit).
+- Workbook: Chapter completion and Paragraph register extended to 1206–1255 (4,572 paragraph rows; 153,298 characters). Proposal ledger sheet SR-001 to SR-985. Read me updated to 1–1255 and 985 proposals. Register sums to 3,975,703 characters vs Read me previous gap of 7,204 (not corrected).
+- Witness (Hetushu 7640): witness-collation-047.json. 34 rows copy the source; 9 show the candidate in the web copy only (not authority); 1 context not found. Titles 50/50 match.
+- Set-wide items: 门约→盟约 (1207 p57 with 1149 p20); 四面八方 (1227 p57, 1246 p33, 1255 p44 added); 权利 vs 权力 (1220 p84–85, 1221 p63, 1238 p70; with batch 046 1189 p19, 1193 p56); 血战平原 (1235 p24 counted for 1190 p76).
+- Case-by-case: 亲身母亲 (1219 p5), per user rule.
+- Judgment items to confirm before applying: 1213 p8, 1217 p46, 1222 p3, 1229 p3, 1230 p72, 1239 p56, 1239 p83, 1242 p17, 1236 p78, 1247 p59.
+- Drops: 1207 p52 产生过来; 1213 p7 一届散修; 1215 p35 阴鸠; 1239 p9 三磅钉; 1247 p2 博文广志; 1234 p42 乃是太 (as a whole).
+
+## Batch 046 (1156–1205): reading, report, DOCX, QA, ledger, workbook, witness done
+
+- Batch 046 (1156–1205): Batch-046-Chapters-1156-1205.md and .docx, batch-046-qa.json, reading notes in batch-046-notes/reading-notes-1156-1205.md. Ledger SR-891 to SR-941 (51 rows: repairs, set-wide items and queries; queries carry no edit).
+- Workbook: Chapter completion and Paragraph register extended to 1156–1205 (4,721 paragraph rows; 154,036 characters). Proposal ledger sheet SR-001 to SR-941. Read me updated to 1–1205 and 941 proposals. Register sums to 3,829,609 characters vs Read me 3,822,405 (same 7,204 gap as before; not corrected).
+- Witness (Hetushu 7640): witness-collation-046.json. 40 rows copy the source; 7 show the candidate in the web copy only (not authority); 4 context not found (segmentation or watermark). Titles 50/50 match.
+- Cross-check done: 太古上级天鹰 (1143 p48, batch 045) and 1147 p40 are the same token (x2); apply to both or neither.
+- Open decisions from batch 046: 四面八方 set-wide (1163 p73, 1196 p16 added); 戈登→咯噔 set-wide (1196 p40 added); 至尊福地→至尊仙窍 (1177 p25 added, now four hits); 异族大联盟 (1161 p37, 1172 p65, 1187 p51) vs 四族大联盟 (x11; 1161 p51 repaired to 四族); 血原 vs 血战平原 naming (1190 p78); 权利 vs 权力 (1189 p19, 1193 p56; 1049 p44 check still unrun); 谈笑宴宴 (1194 p15); queries 1156 p51, 1187 p78.
+- Judgment items to confirm in the sentence before applying: 1158 p15, 1165 p62, 1171 p51 (杀招被迫→被破), 1190 p5 (随风见涨→迎风见涨), 1201 p42 (negation).
+- Pending as before: GitHub push (needs a new token); Read me character gap (not corrected); garbled source note in Read me; six/eight share (1083 p23, 1173 p43) deferred.
+
+## Batch 045 (1106–1155): reading, report, DOCX, QA, ledger, workbook, witness done
+
+- Batch 045 (1106–1155): Batch-045-Chapters-1106-1155.md and .docx, batch-045-qa.json, reading notes in batch-045-notes/reading-notes-1106-1155.md. Ledger SR-857 to SR-890 (34 rows: 28 repairs and term items, 6 queries).
+- Workbook: Chapter completion and Paragraph register extended to 1106–1155 (5,206 paragraph rows; 162,639 characters). Proposal ledger sheet SR-001 to SR-890. Read me updated to 1–1155 and 890 proposals.
+- Witness (Hetushu 7640): witness-collation-045.json. 30 rows copy source; 1123 p58 攻大于过 and 1143 p48 太古上级天鹰 show the candidate in the web copy only (not authority); 谈笑宴宴 and 上古皇室 not found (queries).
+- Open decisions from batch 045: 至尊福地 → 至尊仙窍 (1113 p110, 1139 p23, 1139 p26; set-wide); 阴长阳错 → 阴差阳错 (1133 p29 with 755 p54); 太古上极天鹰 cross-check with 1147 p40 (batch 046); 黄金部族 term (1140 p19); queries 1112 p84 效果脱俗, 1120 p46 谈笑宴宴, 1124 p10 催促进步, 1136 p94 上古皇室, 1143 p102 有眼不识天梯山.
+- Pending as before: GitHub push (needs a new token); Read me character gap (register 3,352,581 vs Read me 3,345,377; not corrected); garbled source note in Read me.
+
+## Batch 044 (1056–1105): reading, report, DOCX, QA, ledger, workbook, witness done
+
+
+- Batch 044 (1056–1105): Batch-044-Chapters-1056-1105.md and .docx, batch-044-qa.json, reading notes in batch-044-notes/reading-notes-1056-1105.md. Ledger SR-826 to SR-856 (31 rows: 25 repairs, 6 queries).
+- Workbook (Sequential-Reading-and-Proposals.xlsx): Chapter completion and Paragraph register extended to 1056–1105 (4,699 paragraph rows; 160,353 characters). Proposal ledger sheet SR-001 to SR-856. Read me updated to 1–1105 and 856 proposals. The witness label is stored in the Latest update column, as in earlier batches.
+- Witness (Hetushu 7640): witness-collation-044.json. 23 rows copy the source; 4 show the candidate in the web copy only (1066 p15, 1085 p17, 1096 p55, 1104 p63); 3 rows (1066 p16, 1084 p53, 1088 p49) show 调|教方源 in the web copy (markup split), so they copy the source; 1098 p78 has a watermark inside the phrase. None of this is authority.
+- Set-wide and term decisions still open: 调教方正 (1066 p16, 1084 p53, 1088 p49, one decision); 四面八方 (SR-809, SR-822–825, SR-856: six occurrences); 特意 non-ordinary usage (1052 p50 in batch 043; 1075 p24; 1079 p82; one whole-novel rule); 五百年前世 (1058 p53 and 1004 p110).
+- Deferred: 1083 p23 八成 belongs to the six/eight resource share item (user deferred).
+- Temporal: 1098 p78 在半年前的义天山大战中 (also 915 p51). Whole-novel timeline needed.
+- Pending as before: GitHub push (needs a new token); Read me character gap (register 3,352,581 vs Read me 3,345,377 before batch 044; not corrected); garbled source note in Read me.
+
+## Earlier checkpoint (batches 042–043, 956–1055)
+
+Completed reading 1–1055 of 2334. Next unread: 1056 (superseded by 1105 above).
+
+
+Completed reading 1–1055 of 2334. Next unread: 1056. Nothing approved or applied. Whole-novel reconciliation outstanding.
+
+## Batches 042–043 (956–1055): reading, reports, ledger, workbook, DOCX, QA done
+
+- Batch 042 (956–1005): Batch-042-Chapters-956-1005.md and .docx, batch-042-qa.json, reading notes in batch-042-notes/. Ledger SR-716 to SR-772 (57 rows).
+- Batch 043 (1006–1055): Batch-043-Chapters-1006-1055.md and .docx, batch-043-qa.json, reading notes in batch-043-notes/reading-notes-1006-1055.md. Ledger SR-773 to SR-821 (49 rows).
+- Cross-batch additions: 四面八法 to 四面八方 at 848 p2, 904 p75, 967 p65, 1004 p19 (SR-822 to SR-825). These were not in their earlier batches' ledgers. Not witness-collated.
+- Witness (Hetushu 7640): witness-collation-042.json and -043.json. Most candidates copy source wording. 1032 踩在脚下, 1039 新身, and 1050 四面八方 show the candidate in the web copy only; not authority.
+- Workbook (Sequential-Reading-and-Proposals.xlsx): Chapter completion and Paragraph register for 956–1055 (94,666 paragraph rows, matches Read me); Proposal ledger sheet now SR-001 to SR-825 (SR-716 onward was missing and has been added); Read me updated. Characters: register sums to 3,352,581 vs Read me 3,345,377 (difference 7,204, same unexplained gap as before; not corrected).
+- Open decisions carried forward: 1034 p48 wording; 四面八法 and 戈登 set-wide fix; queries 1008 p49, 1041 p10, 1046 p63, 1049 p95, 1050 p15, 1054 p83; 1046 p21 第三位位 (check context); unit notes 1024 p35 and 1044 p12.
+- Pending: GitHub push (needs a new token); Read me character method; garbled source note in Read me.
+
+## Earlier checkpoint (batches 037–041)
 
 Completed reading 1–955 of 2334. Next unread: 956. Nothing approved or applied. Whole-novel reconciliation outstanding.
 
@@ -63,3 +135,8 @@ Completed reading 1–955 of 2334. Next unread: 956. Nothing approved or applied
 - Keep every proposal as recorded. Do not withdraw items; add context notes.
 - Liking a reading is not approval. All emendations held for complete reconciliation.
 - Witness agreement with the source text is not confirmation of a repair; witness copies may share the same typo.
+
+## Batch 042 (956–1005) — status update
+- Reading complete. Report, DOCX, QA, ledger SR-716 to SR-772, and witness collation written.
+- Workbook rows for 042 not yet added (Chapter completion and Paragraph register still end at 955).
+- Nothing approved or applied. Global temporal and terminology reconciliation outstanding.

@@ -1,0 +1,38 @@
+{
+ "batch": "050",
+ "chapters": "1356-1405",
+ "chapter_count": 50,
+ "source_check": "batch-050-source.json (50 chapters, 5,210 paragraphs, 154,395 characters). Every row token verified present in its stated paragraph (0 misses).",
+ "reading_status": "complete (1356-1405); flags in tmp/b050-flags.txt",
+ "report_rows": 64,
+ "confidence_counts": {
+  "H": 27,
+  "M-H": 12,
+  "M": 14,
+  "L-M": 6,
+  "L": 5
+ },
+ "approved": 0,
+ "applied": 0,
+ "source_edits": 0,
+ "witness_collation": "Hetushu book 7640 automated token-level comparison (witness-collation-050.json); 50 chapter pages fetched and title-checked (50 match).",
+ "witness_results": {
+  "witness copies source wording": 62,
+  "witness shows candidate wording": 2
+ },
+ "workbook_rows": "added (chapter completion and paragraph register 1356-1405; ledger sheet SR-1131 onward)",
+ "ledger_entries": "SR-1131 to SR-1194",
+ "docx": "Batch-050-Chapters-1356-1405.docx",
+ "cross_batch": [
+  "1354 p93 / 1356 p73 / 1366 p56 灰夜 → 夜灰 (batch 049 row for 1354 p93)",
+  "1044 p12 / 1117 p52–53 / 1358 p77 在一切 (batches 044–045)",
+  "1143 p48 / 1147 p40 / 1379 p52 上级天鹰 (batch 045)",
+  "735 p54 / 1148 p12 / 1370 p31 宝皇天 (batches 037, 045)",
+  "1246 p53 / 1387 p78 难以附加 (batch 047)"
+ ],
+ "known_limits": [
+  "Set-wide decisions: 夜灰; 在一起 (在一切); 上极天鹰; 宝黄天; 难以复加; 通晓; 纯梦求真体 (纯梦求真仙); 点了点头.",
+  "Queries carry no edit: 1357 p13, 1358 p82, 1361 p20, 1362 p9, 1363 p29, 1376 p24, 1383 p2, 1384 p31, 1391 p60, 1403 p71, 1405 p44, 1405 p61.",
+  "Several repairs rest on sense judgement rather than corpus matches; confirm before applying."
+ ]
+}

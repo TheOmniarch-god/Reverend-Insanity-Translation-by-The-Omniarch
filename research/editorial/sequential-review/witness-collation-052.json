@@ -1,0 +1,482 @@
+[
+ {
+  "row": 1,
+  "ch": 1456,
+  "orig": "惨白亏输",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 2,
+  "ch": 1456,
+  "orig": "将其当座一座山",
+  "cand": "将其当作一座山",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 3,
+  "ch": 1457,
+  "orig": "百风之六",
+  "cand": "百分之六",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": true,
+  "result": "witness shows candidate wording"
+ },
+ {
+  "row": 4,
+  "ch": 1457,
+  "orig": "取缔百分之六",
+  "cand": "取代百分之六",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 5,
+  "ch": 1457,
+  "orig": "就像收购",
+  "cand": "就想收购",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 6,
+  "ch": 1457,
+  "orig": "卖家越来越低",
+  "cand": "卖价越来越低",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 7,
+  "ch": 1459,
+  "orig": "四百多年前以前",
+  "cand": "四百多年前",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 8,
+  "ch": 1459,
+  "orig": "有用八转战力",
+  "cand": "拥有八转战力",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 9,
+  "ch": 1460,
+  "orig": "如虎如平阳",
+  "cand": "如虎落平阳",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 10,
+  "ch": 1460,
+  "orig": "如果是后者",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 11,
+  "ch": 1457,
+  "orig": "没有关系",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 12,
+  "ch": 1461,
+  "orig": "公开不可没",
+  "cand": "功不可没",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": true,
+  "result": "witness shows candidate wording"
+ },
+ {
+  "row": 13,
+  "ch": 1461,
+  "orig": "得走",
+  "cand": "拿走",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 14,
+  "ch": 1462,
+  "orig": "说得的",
+  "cand": "所得",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 15,
+  "ch": 1462,
+  "orig": "泛善",
+  "cand": "乏善",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 16,
+  "ch": 1464,
+  "orig": "领悟",
+  "cand": "领路",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 17,
+  "ch": 1464,
+  "orig": "上古荒魂",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 18,
+  "ch": 1465,
+  "orig": "火妖",
+  "cand": "火焰",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 19,
+  "ch": 1468,
+  "orig": "出合十",
+  "cand": "合十",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 20,
+  "ch": 1468,
+  "orig": "这一支当时",
+  "cand": "这一支是当时",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 21,
+  "ch": 1470,
+  "orig": "可惜的他",
+  "cand": "可惜他",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 22,
+  "ch": 1470,
+  "orig": "百风之三",
+  "cand": "百分之三",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 23,
+  "ch": 1471,
+  "orig": "有三大卖方剧透",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 24,
+  "ch": 1471,
+  "orig": "龙海中",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 25,
+  "ch": 1473,
+  "orig": "这一一个念头",
+  "cand": "这一个念头",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 26,
+  "ch": 1474,
+  "orig": "已经人祖",
+  "cand": "以及人祖",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": true,
+  "result": "witness shows candidate wording"
+ },
+ {
+  "row": 27,
+  "ch": 1475,
+  "orig": "石宗",
+  "cand": "石忠",
+  "source_hits": 15,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 28,
+  "ch": 1476,
+  "orig": "为其十年",
+  "cand": "为期十年",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": true,
+  "result": "witness shows candidate wording"
+ },
+ {
+  "row": 29,
+  "ch": 1476,
+  "orig": "本人去",
+  "cand": "本人",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 30,
+  "ch": 1476,
+  "orig": "越发数量",
+  "cand": "数量越来越多",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 31,
+  "ch": 1478,
+  "orig": "拒绝看",
+  "cand": "拒绝了",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 32,
+  "ch": 1478,
+  "orig": "越在勉强支持着他",
+  "cand": "勉强支撑着他",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 33,
+  "ch": 1479,
+  "orig": "至尊仙躯",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 34,
+  "ch": 1479,
+  "orig": "花猜",
+  "cand": "花材",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 35,
+  "ch": 1480,
+  "orig": "此时此，",
+  "cand": "此时此刻，",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 36,
+  "ch": 1480,
+  "orig": "尖刺如同习惯",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 37,
+  "ch": 1481,
+  "orig": "八百十次",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": null,
+  "result": "context not found in witness (variant, segmentation, or watermark)"
+ },
+ {
+  "row": 38,
+  "ch": 1482,
+  "orig": "来来临",
+  "cand": "来临",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 39,
+  "ch": 1483,
+  "orig": "秦百胜",
+  "cand": "秦百合",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 40,
+  "ch": 1485,
+  "orig": "一家独到",
+  "cand": "一家独大",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 41,
+  "ch": 1485,
+  "orig": "不动则以",
+  "cand": "不动则已",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 42,
+  "ch": 1487,
+  "orig": "有限放弃",
+  "cand": "有所放弃",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 43,
+  "ch": 1490,
+  "orig": "非常开口",
+  "cand": "非常开阔",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 44,
+  "ch": 1496,
+  "orig": "不以为杵",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 45,
+  "ch": 1498,
+  "orig": "掌握着占据",
+  "cand": "掌握着主动",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 46,
+  "ch": 1498,
+  "orig": "十足地坐了",
+  "cand": "十足地吐了",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 47,
+  "ch": 1504,
+  "orig": "助手，休伤",
+  "cand": "住手，休伤",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 48,
+  "ch": 1504,
+  "orig": "杀了了账",
+  "cand": "杀了便了账",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ }
+]

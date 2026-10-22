@@ -1,0 +1,316 @@
+[
+ {
+  "row": 1,
+  "ch": 1056,
+  "orig": "楚度愿望",
+  "cand": "楚度一愣",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 2,
+  "ch": 1057,
+  "orig": "缓重一抓",
+  "cand": "重重一抓",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 3,
+  "ch": 1057,
+  "orig": "开口握紧",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 4,
+  "ch": 1058,
+  "orig": "五百年前前世",
+  "cand": "五百年前世",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 5,
+  "ch": 1062,
+  "orig": "也不关隘我什么事",
+  "cand": "也不关我什么事",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 6,
+  "ch": 1066,
+  "orig": "再长远的面部小",
+  "cand": "再长远的目标",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": true,
+  "result": "witness shows candidate wording"
+ },
+ {
+  "row": 7,
+  "ch": 1066,
+  "orig": "抽空调教方源",
+  "cand": "抽空调教方正",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording",
+  "note": "copies source (neutral; web copy splits 调|教)"
+ },
+ {
+  "row": 8,
+  "ch": 1068,
+  "orig": "反映在外面",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 9,
+  "ch": 1072,
+  "orig": "这些收下",
+  "cand": "这些手下",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 10,
+  "ch": 1072,
+  "orig": "首相想做",
+  "cand": "首先想做",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 11,
+  "ch": 1073,
+  "orig": "他一位获得",
+  "cand": "他一朝获得",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 12,
+  "ch": 1074,
+  "orig": "还会寿蛊",
+  "cand": "还需要寿蛊",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 13,
+  "ch": 1075,
+  "orig": "种下特意",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 14,
+  "ch": 1076,
+  "orig": "滔滔不拘",
+  "cand": "滔滔不绝",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 15,
+  "ch": 1079,
+  "orig": "毁在方源的特意之下",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 16,
+  "ch": 1082,
+  "orig": "蛊仙太很危险",
+  "cand": "蛊仙很危险",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 17,
+  "ch": 1083,
+  "orig": "为了增添了",
+  "cand": "为他增添了",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 18,
+  "ch": 1084,
+  "orig": "凝出出",
+  "cand": "凝出",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 19,
+  "ch": 1084,
+  "orig": "调教方源",
+  "cand": "调教方正",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording",
+  "note": "copies source (neutral; web copy splits 调|教)"
+ },
+ {
+  "row": 20,
+  "ch": 1085,
+  "orig": "方面的愿意",
+  "cand": "方面的原因",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": true,
+  "result": "witness shows candidate wording"
+ },
+ {
+  "row": 21,
+  "ch": 1086,
+  "orig": "都出无数人影",
+  "cand": "分出无数人影",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 22,
+  "ch": 1088,
+  "orig": "调教方源",
+  "cand": "调教方正",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording",
+  "note": "copies source (neutral; web copy splits 调|教)"
+ },
+ {
+  "row": 23,
+  "ch": 1092,
+  "orig": "记忆去没有泯灭",
+  "cand": "记忆却没有泯灭",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 24,
+  "ch": 1093,
+  "orig": "全身的肉身就是优秀",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 25,
+  "ch": 1096,
+  "orig": "四面八法",
+  "cand": "四面八方",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": true,
+  "result": "witness shows candidate wording"
+ },
+ {
+  "row": 26,
+  "ch": 1098,
+  "orig": "半年前的义天山大战",
+  "cand": null,
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": null,
+  "result": "witness copies source wording",
+  "note": "copies source (neutral; watermark inside web copy 半年前)"
+ },
+ {
+  "row": 27,
+  "ch": 1099,
+  "orig": "既方源的血道宗师境界",
+  "cand": "继方源的血道宗师境界",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 28,
+  "ch": 1101,
+  "orig": "也灭有之前快速",
+  "cand": "也没有之前快速",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 29,
+  "ch": 1102,
+  "orig": "超凡脱色",
+  "cand": "超凡脱俗",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 30,
+  "ch": 1104,
+  "orig": "另一方方面",
+  "cand": "另一方面",
+  "source_hits": 1,
+  "witness_has_original": true,
+  "witness_has_candidate": false,
+  "result": "witness copies source wording"
+ },
+ {
+  "row": 31,
+  "ch": 1104,
+  "orig": "大量蛊仙粉末登场",
+  "cand": "大量蛊仙粉墨登场",
+  "source_hits": 1,
+  "witness_has_original": false,
+  "witness_has_candidate": true,
+  "result": "witness shows candidate wording"
+ }
+]

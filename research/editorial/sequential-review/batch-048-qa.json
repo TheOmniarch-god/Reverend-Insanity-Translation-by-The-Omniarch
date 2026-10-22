@@ -1,0 +1,42 @@
+{
+ "batch": "048",
+ "chapters": "1256-1305",
+ "chapter_count": 50,
+ "source_check": "batch-048-source.json (50 chapters, 4,518 paragraphs, 138,586 characters). Every row token verified present in its stated paragraph (0 misses).",
+ "reading_status": "complete (1256-1305); notes in batch-048-notes/reading-notes-1256-1305.md",
+ "report_rows": 70,
+ "confidence_counts": {
+  "H–M": 9,
+  "H": 33,
+  "M": 16,
+  "M–H": 6,
+  "L–M": 4,
+  "M–L": 1,
+  "L": 1
+ },
+ "approved": 0,
+ "applied": 0,
+ "source_edits": 0,
+ "witness_collation": "Hetushu book 7640 automated token-level comparison (witness-collation-048.json); 50 chapter pages fetched and title-checked (50 match).",
+ "witness_results": {
+  "witness copies source wording": 68,
+  "witness shows candidate wording": 2
+ },
+ "workbook_rows": "added (chapter completion and paragraph register 1256-1305; ledger sheet SR-986 onward)",
+ "ledger_entries": "SR-986 to SR-1055",
+ "docx": "Batch-048-Chapters-1256-1305.docx",
+ "cross_batch": [
+  "1242 p17 通宵 → 通晓 (batch 047; decide with 1270 p50)",
+  "1247 p59 黒豕蛊 → 黑豕蛊 (batch 047; raised to H 0.90)"
+ ],
+ "known_limits": [
+  "权利 vs 权力 set-wide (1263 p49 added).",
+  "特意 set-wide (1266 p81 added).",
+  "不以为杵 (1263 p41 with 1194 p48).",
+  "传到到了 (1268 p24 with 1167 p45).",
+  "通宵/通晓 (1270 p50 with 1242 p17).",
+  "雪山老祖 alias query (1278 p80, p87).",
+  "黑城/黑凡 name check (1299 p87).",
+  "Queries carry no edit: 1264 p61, 1278 p80, 1287 p63, 1289 p36, 1304 p36."
+ ]
+}

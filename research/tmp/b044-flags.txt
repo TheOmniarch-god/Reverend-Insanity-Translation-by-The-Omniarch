@@ -1,0 +1,33 @@
+# Batch 044 candidate flags (1056-1105). Format: ch pN | orig -> cand | confidence | note
+1056 p93 | 楚度愿望 -> 楚度一愣 | H 0.85 | 愿望 unique; sentence describes a sudden reaction
+1057 p42 | 缓重一抓 -> 重重一抓 | M-H 0.70 | 缓重 unique; 重重一握 at p49 supports 重 (verify)
+1057 p51 | 他开口握紧的右手 | L-M 0.40 query | 开口握紧 unique; 开口 may be stray
+1058 p53 | 五百年前前世 -> 五百年前世 | M-H 0.85 | 五百年前世 x43; 前前世 x4; 1004 p110 same token (cross-batch, batch 042)
+1062 p72 | 也不关隘我什么事 -> 也不关我什么事 | M-H 0.85 | stray 隘; check corpus count in workflow
+1066 p15 | 再长远的面部小 -> 再长远的目标 | H 0.90 | 面部小 unique; sentence about a long-term goal
+1066 p16 | 抽空调教方源 -> 调教方正 | H 0.90 | subject is Fang Zheng (方正); 方源 is the speaker/teacher
+1068 p60 | 反映在外面 -> 表现在外面 | L 0.35 query | reflected outwards; wording only if needed
+1072 p36 | 她的这些收下，来源杂乱 -> 手下 | M-H 0.80 | 这些收下 unique; sense is her followers
+1072 p91 | 首相想做一件事情 -> 首先想做 | H 0.85 | 首相想 unique; 首先 is the intended adverb
+1073 p2 | 他一位获得一块黄天碎片 -> 一朝获得 | M 0.70 | 他一位获得 unique
+1074 p27 | 寻常的蛊仙，还会寿蛊 -> 还需要寿蛊 | M 0.70 | 还会寿蛊 unique; 还需寿蛊 x0; sense is need
+1075 p24 | 你种下特意，令蛊虫自毁 | term query (see 1079 p82) | 种下特意 unique; 特意 in non-ordinary sense; do not edit individually
+1076 p53 | 滔滔不拘 -> 滔滔不绝 | H 0.90 | 滔滔不拘 unique; sense fluent talk
+1079 p82 | 毁在方源的特意之下 | whole-novel term query (see 1052 p50, 1075 p24) | 特意 in a non-ordinary sense x3 in this batch; decide one rule, do not edit individually
+1082 p62 | 蛊仙太很危险 -> 蛊仙很危险 | H 0.90 | unique
+1083 p25 | 却让琅琊地灵主动为了增添了门派贡献 -> 为他增添了门派贡献 (or 为琅琊派增添了) | M-H 0.85 | 为了增添了 unique
+1083 p23 | 八成 (deferred group) | note only | 六成/八成 resource-share item deferred by user; do not decide here
+1084 p52 | 再次凝出出一团自己的意志 -> 凝出 | H 0.95 | 凝出出 unique
+1084 p53 | 调教方源，就要思考 -> 调教方正 | H 0.85 | same fix as 1066 p16; subject is 方源's will training 方正 (context: 必须时常得到方源的补充); cross-ref 1088 p49
+1085 p17 | 这些方面的愿意 -> 原因 | M-H 0.85 | 方面的愿意 unique
+1086 p110 | 方源身躯一震，都出无数人影 -> 分出无数人影 | M-H 0.85 | 都出无数人影 unique; sense is split out
+1088 p49 | 调教方源等等事情 -> 调教方正等等事情 | H 0.85 | same as 1066 p16 and 1084 p53; resolve with 1066 p16 decision
+1092 p9 | 这一段记忆去没有泯灭 -> 却没有泯灭 | H 0.90 | 记忆去没有 unique; 去 is typo for 却
+1093 p8 | 全身的肉身就是优秀，一时间，他脑袋里念头纷起 | M 0.60 query | reads as nonsense; intended sense unclear (possibly 全身心); needs fuller check before any edit
+1096 p55 | 四面八法 -> 四面八方 | H 0.90 | set-wide with SR-822-825 and 1050 p14; 四面八法 x6 corpus (848 p2, 904 p75, 967 p65, 1004 p19, 1050 p14, 1096 p55); add to SET (not separate)
+1097 p78 | 在半年前的义天山大战中 | temporal query | 半年前 also at 915 p51; timeline check vs Yitian battle date needed (whole-novel temporal reconciliation)
+1099 p39 | 既方源的血道宗师境界...之后 -> 继方源的血道宗师境界... | M-H 0.80 | 既 unique in this sense; 继 with 之后 reads correctly
+1101 p48 | 修为增长也灭有之前快速 -> 没有之前快速 | H 0.95 | 灭有 typo for 没有
+1102 p26 | 智道传承超凡脱色 -> 超凡脱俗 | H 0.90 | 超凡脱色 unique; 超凡脱俗 x4 corpus
+1104 p63 | 随后，大量蛊仙粉末登场 -> 粉墨登场 | H 0.90 | 蛊仙粉末 unique at 1104 p63 (corpus); 粉墨登场 idiom
+1104 p37 | 另一方方面 -> 另一方面 | H 0.95 | duplicated 方

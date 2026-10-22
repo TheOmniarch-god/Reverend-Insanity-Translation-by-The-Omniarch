@@ -1,0 +1,58 @@
+# batch 052 flags (1456-1505). Format: ch pN | token -> candidate | conf | note
+1456 p4 | 惨白亏输 | L-M 0.55 | query: 惨白 may be 惨败; 1369 p21 has 惨白亏 too (x2); 1334 p72 惨败亏 x1. Decide with 1369.
+1456 p25 | 将其当座一座山 -> 当作一座山 | M 0.75 | corpus 当作一座 x0; 当座 singleton
+1456 p25 | 胖子意志 | none | dropped: established term (1451 p35, p52)
+1457 p30 | 百风之六 -> 百分之六 | H 0.95 | singleton typo; 百分之六 used earlier in same para
+1457 p30 | 可以取缔百分之六的食材 -> 取代 | M-H 0.80 | p29 says 取代一部分的食材; 取缔 means ban
+1457 p51 | 就像收购 -> 就想收购 | M 0.70 | singleton; sense of intent
+1457 p52 | 卖家越来越低 -> 卖价越来越低 | M-H 0.80 | seller count vs price; singleton
+1457 p54 | 没有关系 (that place) | L-M 0.50 | query: sense of 没有关系 in the environment list; 34 uses corpus-wide, mostly fine
+1459 p5 | 四百多年前以前 -> 四百多年前 | H 0.90 | duplicated 前; singleton
+1459 p22 | 依仗着自己有用八转战力 -> 拥有八转战力 | H 0.90 | 有用 slip; 拥有八转 x22
+1460 p30 | 如虎如平阳 -> 如虎落平阳 | H 0.92 | idiom; singleton
+1460 p40 | 如果是后者 (no clear antecedent) | L-M 0.50 | query: p39 gives one option; check whether a sentence is missing
+1461 p21 | 公开不可没 -> 功不可没 | H 0.92 | singleton idiom slip (功不可没 x1 in 1062)
+1461 p46 | 影无邪得走 -> 拿走 | M 0.70 | 得走 x2 (also 1130 p47, batch 045); set item
+1462 p52 | 说得的门派贡献 -> 所得 | H 0.85 | singleton
+1462 p65 | 泛善可陈 -> 乏善可陈 | H 0.95 | 乏善 x4
+1464 p18 | 影无邪在前头领悟 -> 领路 | H 0.95 | singleton; 'led the way'
+1464 p42 | 上古荒魂自然更不会放过 | L-M 0.50 | query: 上古荒魂 x1; likely 上古荒兽 or a sense of spoils; confirm
+1465 p18 | 火妖熄灭 -> 火焰熄灭 | M 0.65 | singleton; check sense (fire demons vs flames)
+1465 p86 | 估料 | none | dropped: 估料 x8 consistent
+1461 p46 / 1462 p52 / 1464 p53 | 特意 / 黑菟 | none | set items pending (特意 x102; 黑菟 x70); no new rows
+1466 p* | 毛民蛊仙 / 黑菟 / 特意 | none | established or set items; no new rows
+1468 p50 | 在胸口出合十 -> 在胸口合十 | M 0.65 | singleton; 出合十 x1
+1468 p74 | 这一支当时佼佼者 -> 这一支是当时佼佼者 | M-H 0.80 | missing 是; 这一支当时 x1
+1470 p49 | 可惜的他 -> 可惜他 | M-H 0.85 | singleton; 可惜他 x18
+1470 p63 | 百风之三 -> 百分之三 | H 0.95 | singleton typo; 百分之三 at 1461 p28
+1468 p7 | 如厦 | none | dropped: 高耸如厦 is a plausible image
+1470 p49 | 百八十奴杀招 | none | dropped: 百八十奴 x26, established
+1471 p63 | 有三大卖方剧透 | M 0.60 | singleton; 剧透 reads modern; sense 'the three big sellers' (dominance)
+1471 p64 | 龙海中大名鼎鼎的龙鱼海域 | M 0.65 | singleton 龙海; possibly 东海中 (p65 says 东海)
+1473 p9 | 这一一个念头 -> 这一个念头 | H 0.97 | doubled 一; singleton
+1474 p65 | 已经人祖的双手 -> 以及人祖的双手 | H 0.90 | singleton; 已经 misfit in list
+1475 p13 (p13,16,18,20,22,23,25,27,29,32,35,36,39,40,44) | 石宗 -> 石忠 | M-H 0.85 | name: passage is about 石忠 (p1–p9; 1474 throughout); 石宗 is the 石人 太上大长老 elsewhere
+1476 p17 | 为其十年 -> 为期十年 | M-H 0.80 | singleton; 'for ten years' sense
+1476 p36 | 惟独尤婵本人去 -> 惟独尤婵本人 | H 0.90 | stray 去; singleton
+1476 p50 | 越发数量 -> 数量越来越多 | M 0.70 | singleton; odd phrasing
+1478 p17 | 被方源拒绝看 -> 被方源拒绝了 | M 0.70 | 拒绝了 x21; 拒绝看 x1
+1478 p63 | 越在勉强支持着他 -> 勉强支撑着他 | M 0.60 | singleton; 越在 odd
+1479 p4 | 至尊仙躯悬浮 -> 至尊仙体 | M-H 0.85 | set item: 至尊仙躯 x5 (1371 p19; 1448 p2, p23, p24 batch 051; 1479 p4) vs 至尊仙体 x82
+1479 p50 | 花猜 -> 花材 | H 0.97 | singleton typo
+1480 p30 | 此时此， -> 此时此刻， | H 0.97 | missing 刻; singleton
+1480 p53 | 尖刺如同习惯 | L 0.45 | query: sense of the spikes absorbing liquid; may be intended
+1481 p38 | 八百十次 | L-M 0.50 | query: count reads oddly; 八十次 likely; singleton
+1482 p59 | 来来临 -> 来临 | H 0.95 | doubled 来; singleton
+1483 p54 | 秦百胜 -> 秦百合 | H 0.95 | name slip: the character is 秦百合 (p21–p82); 秦百胜 is a different name (x630)
+1485 p14 | 一家独到 -> 一家独大 | H 0.90 | singleton idiom slip
+1485 p17 | 不动则以 -> 不动则已 | H 0.95 | idiom slip; 不动则已 x3
+1482 p22 | 我运真传 | none | NOTE: valid; 巨阳真传 (1435 p49 also names 我运真传). This corrects batch 051 row for 1435 p49 (see correction list)
+1487 p15 | 连龙鱼海域都有限放弃 -> 都毫不留恋地舍弃 (or 都有所放弃) | M 0.70 | singleton 有限放弃; sense: he gave up the sea; confirm wording
+1490 p27 | 视野非常开口 -> 视野非常开阔 | H 0.92 | singleton; 视野开阔 x2
+1486 p36 | 运用了逆流河 (quoted speech) | none | set item (逆流护身印 decision)
+1496 p29 | 不以为杵 | set note | 不以为杵 x4 (1194, 1263, 1333, 1496); 不以为忤 x0; keep as corpus form; idiom variant query for set decision
+1498 p6 | 却是方源掌握着占据 -> 却是方源掌握着主动 | M 0.80 | singleton; 掌握着主动 x0 in corpus but sense clear
+1498 p50 | 勇气十足地坐了 -> 勇气十足地吐了 | H 0.90 | verb slip: the act is spitting (吐痰 in p48-49); 十足地坐了 x1
+1502 p55 | 准大师一级 | none | dropped: 准大师 x17, established
+1504 p12 | 助手，休吾族弟 -> 住手，休伤吾族弟 | H 0.95 | singleton; 住手 x13
+1504 p17 | 我杀了了账 -> 我杀了便了账 | M 0.65 | singleton; idiom slip possible
