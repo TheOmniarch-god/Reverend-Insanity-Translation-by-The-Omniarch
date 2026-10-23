@@ -29,7 +29,7 @@
 ### P3
 **Chinese:** 楼前池塘中，水面被雨点激打着，鱼儿在水里快活地穿梭着，水草在池底摇曳。
 **Literal:** Building front pond inside, water surface by rain dots激打着, fish in water happily shuttling, water grass at pond bottom swaying.
-**Peak:** In the pond before the bamboo buildings, the water surface was pelted by raindrops, fish darted happily through the water, and water weeds swayed at the bottom.
+**Peak:** In the pond before the bamboo buildings, the water surface was pelted by raindrops, fish darted happily back and forth through the water, and water weeds swayed at the bottom.
 **Analysis:** 楼前: before the buildings — refers to bamboo buildings from P2, fixed from vague 'Before the buildings' to 'In the pond before the bamboo buildings' per user. 激打: to pelt, strike violently. 快活: happy, lively. 穿梭: shuttle back and forth, dart. 摇曳: sway.
 **Definitions:** 穿梭: 像织布的梭子来回活动. 摇曳: 摇摆，晃动.
 
@@ -43,7 +43,7 @@
 ### P5
 **Chinese:** 在有些昏暗的房间里，窗户开着，方源静静地看着这场大雨，心中幽幽一叹：“已经三天三夜了。”
 **Literal:** In somewhat gloomy room inside, window open着, Fang Yuan quietly looking at this big rain, in heart faintly one sigh: Already three days three nights.
-**Peak:** In a somewhat gloomy room, the window stood open, and Fang Yuan gazed quietly at the downpour, a faint sigh escaping his heart. "Already three days and three nights."
+**Peak:** In a somewhat gloomy room, the window stood open, and Fang Yuan gazed quietly at the downpour, a faint sigh escaping his heart. "Already three days and three nights..."
 **Analysis:** 有些昏暗: somewhat gloomy/dim. 静静地: quietly. 幽幽一叹: faint, deep sigh — 幽幽 = faint, secluded, deep. 三天三夜: three days three nights, exact duration since Ch9 exploration. Quoted internal monologue — English requires quotes per your POV rule, Chinese bare.
 **Definitions:** 幽幽: 形容声音、光线等微弱. 叹: sigh.
 

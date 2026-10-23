@@ -4,11 +4,11 @@ Pat, pat, pat……
 
 Rain fell heavily, hitting the verdant bamboo buildings with crisp sounds.
 
-In the pond before the bamboo buildings, the water surface was pelted by raindrops, fish darted happily through the water, and water weeds swayed at the bottom.
+In the pond before the bamboo buildings, the water surface was pelted by raindrops, fish darted happily back and forth through the water, and water weeds swayed at the bottom.
 
 Dark clouds lay thick, and the entire view was veiled by a dense, heavy curtain of rain.
 
-In a somewhat gloomy room, the window stood open, and Fang Yuan gazed quietly at the downpour, a faint sigh escaping his heart. “Already three days and three nights.”
+In a somewhat gloomy room, the window stood open, and Fang Yuan gazed quietly at the downpour, a faint sigh escaping his heart. “Already three days and three nights…”
 
 Three nights before, he had carried two jars of wine out of the stockade and continued exploring the surroundings.
 
