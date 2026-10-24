@@ -8,37 +8,37 @@ In the pond before the bamboo buildings, the water surface was pelted by raindro
 
 Dark clouds lay thick, and the entire view was veiled by a dense, heavy curtain of rain.
 
-In a somewhat gloomy room, the window stood open, and Fang Yuan gazed quietly at the downpour, a faint sigh escaping his heart. “Already three days and three nights…”
+In a somewhat gloomy room, the window stood open, and Fang Yuan gazed quietly at the downpour, a faint sigh escaping his heart. *“Three days. Three nights already.”*
 
 Three nights before, he had carried two jars of wine out of the stockade and continued exploring the surroundings.
 
 But deep into the night a downpour had begun.
 
-To be drenched like a drowned rat was not worth mentioning; the crux was that in such conditions he could no longer explore everywhere.
+To be drenched like a drowned rat was not worth mentioning; the crux was that in such conditions he could no longer explore anywhere.
 
 Rain would swiftly wash away the smell of wine, and if he forced his way through the rain to explore, he would likely arouse suspicion.
 
-Before, he had disguised himself as a frustrated drunkard to cover his true motive. But one should never underestimate the wisdom of others; more often than not, only fools believe others to be foolish.
+Before, he had disguised himself as a frustrated drunkard to conceal his true motive. But one should never underestimate the wisdom of others; more often than not, only fools believe others to be foolish.
 
 So, helpless, Fang Yuan could only bring his exploration to an end.
 
 And once the rain began, it continued without cease. At times heavy, at times light, at times sparse, at times dense, yet it never stopped.
 
-“At this rate, the Liquor Worm will not be found in a short while. To be safe, I can only set about refining the Moonlight Gu first. If in the course of refining I happen to find the Liquor Worm, best of all; if not, I shall have to make do with this. Yet such things are common enough. Heaven is unpredictable, as sudden as wind and rain. In this world, where is there a man whose every undertaking goes smoothly, perfect in every way?” Fang Yuan's state of mind was very steady. Five hundred years of experience had long since washed away the little impatience that had ever been in his nature.
+*“At this rate, the Liquor Worm will not be found in a short while. To be safe, I can only set about refining the Moonlight Gu first. If in the course of refining I happen to find the Liquor Worm, best of all; if not, I shall have to make do with this. Yet such things are common enough. Heaven is unpredictable, as sudden as wind and rain. In this world, where is there a man whose every undertaking goes smoothly, perfect in every way?”* Fang Yuan's state of mind was very steady. Five hundred years of experience had long since washed away what little impatience was in his nature to begin with.
 
-He closed the window and the door, and sat cross-legged upon the bed. He slowly closed his eyes, and once his breathing steadied, he let his consciousness sink.
+He closed the window and the door, and sat cross-legged upon the bed. He slowly closed his eyes, and once his breathing was even, he let his consciousness sink.
 
 The next moment, the scene of his own aperture appeared within his mind.
 
 Though the aperture was lodged within his body, it was wondrous beyond measure, infinitely vast and infinitely small.
 
-On the outer side of the aperture lay a layer of light membrane. The white membrane seemed very thin, yet it truly supported the aperture.
+A layer of light membrane enclosed the aperture. The white membrane seemed very thin, yet it truly supported the aperture.
 
 Within the aperture lay an ocean of primeval essence.
 
-The seawater was bronze in colour, its surface was calm as a mirror, and its level was about half the height of the aperture. The entire primeval sea occupied forty-four percent of the aperture.
+The seawater was bronze in colour, its surface was as still as a mirror, and its level was about half the height of the aperture. The entire primeval sea occupied forty-four percent of the aperture.
 
-This was the bronze primeval sea of a First Revolution Gu Master. Every drop of seawater was primeval essence. It was Fang Yuan's vital primeval power, the condensation of his essence, qi and spirit.
+This was the bronze primeval sea of a First Revolution Gu Master. Every drop of seawater was primeval essence. It was Fang Yuan's life force, condensed from his essence, qi, and spirit.
 
 Every drop of primeval essence was precious because it was the root of a Gu Master, the source of power. Only by relying on primeval essence could a Gu Master refine and activate Gu worms.
 
@@ -50,7 +50,7 @@ At a thought from Fang Yuan, the primeval sea within his aperture at once churne
 
 The Moonlight Gu suddenly burst into a dim blue radiance, trembling faintly in Fang Yuan's palm, resisting the influx of his primeval essence.
 
-Gu are the essence of heaven and earth, the cipher of the Great Dao, the vessel of natural law. They are also living beings, naturally free and unrestrained, possessing a will of their own. Now that Fang Yuan sought to refine it, to erase that will, sensing this crisis, the Moonlight Gu naturally resisted.
+Gu are the essence of heaven and earth, the cipher of the Great Dao, the vessels of law. They are also living beings, innately free and unrestrained, each possessing a will of their own. Now Fang Yuan sought to refine it, that is, to erase its will. Sensing this danger, the Moonlight Gu naturally resisted.
 
 The process of refining was extremely arduous.
 
@@ -74,7 +74,7 @@ Another twenty minutes passed, and the primeval sea within Fang Yuan's body reta
 
 As for the remaining portion, it was still the Moonlight Gu's own pale blue.
 
-“Refining Gu is truly difficult.” Seeing this, Fang Yuan sighed inwardly, cut off the supply of primeval essence, and refined the Moonlight Gu no further.
+*“Refining Gu is truly difficult.”* Seeing this, Fang Yuan sighed inwardly, cut off the supply of primeval essence, and refined the Moonlight Gu no further.
 
 By now, he had refined for a full half hour. The primeval sea within his aperture had consumed more than half, leaving only fourteen percent of primeval essence remaining. And the Moonlight Gu had only just been refined by one twelfth.
 
@@ -84,7 +84,7 @@ Fang Yuan could clearly feel the primeval essence that had flowed into the Moonl
 
 At this rate of decrease, in about six hours the Moonlight Gu would be able to purge all of Fang Yuan's primeval essence. To refine the Gu worm again then would be no different from starting anew.
 
-“Every refinement of a Gu is like two armies at war, fighting a battle for position and a battle of attrition. The Gu worm has only been refined by one twelfth, while my primeval essence has already consumed a full thirty percent. A Gu Master refining Gu must replenish the primeval essence of his primeval sea even as he continues refining without cease, consolidating the fruits of victory. Refining Gu tests not only skill in mobilising primeval essence, but also patience for a prolonged war.”
+*“Every refinement of a Gu is like two armies at war, fighting a battle for position and a battle of attrition. The Gu worm has only been refined by one twelfth, while my primeval essence has already consumed a full thirty percent. A Gu Master refining Gu must replenish the primeval essence of his primeval sea even as he continues refining without cease, consolidating the fruits of victory. Refining Gu tests not only skill in mobilising primeval essence, but also patience for a prolonged war.”*
 
 Fang Yuan thought as he took a primeval stone from his money pouch.
 
@@ -118,7 +118,7 @@ The second factor was primeval stones.
 
 If primeval stones were abundant and one spared no expense, a person of Grade B aptitude might also surpass Grade A and seize first place.
 
-“I have only six primeval stones in hand, not comparable to those like Gu Yue Mo Bei and Gu Yue Chi Cheng who have the support of elders behind them. My aptitude is only Grade C, also not comparable to Gu Yue Fang Zheng of Grade A aptitude. This assessment originally had not a shred of chance of victory. It would be better to split my focus and search for the Liquor Worm. If I can refine the Liquor Worm into my vital Gu, it would be far better than the Moonlight Gu. Mm? The sound of rain outside the window has lessened, it seems to show signs of stopping. This heavy rain has already fallen continuously for three days and three nights. It should stop.”
+*“I have only six primeval stones in hand, not comparable to those like Gu Yue Mo Bei and Gu Yue Chi Cheng who have the support of elders behind them. My aptitude is only Grade C, also not comparable to Gu Yue Fang Zheng of Grade A aptitude. This assessment originally had not a shred of chance of victory. It would be better to split my focus and search for the Liquor Worm. If I can refine the Liquor Worm into my vital Gu, it would be far better than the Moonlight Gu. Mm? The sound of rain outside the window has lessened, it seems to show signs of stopping. This heavy rain has already fallen continuously for three days and three nights. It should stop.”*
 
 Fang Yuan put away the Moonlight Gu, got down from the bed, and was just about to open the window when a knock sounded at the door.
 
