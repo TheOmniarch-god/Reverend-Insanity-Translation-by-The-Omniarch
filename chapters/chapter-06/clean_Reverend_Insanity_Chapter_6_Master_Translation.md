@@ -3,7 +3,7 @@
 
 The aperture was a thing of surpassing mystery. Though it was lodged within Fang Yuan’s body, it did not share the same space as his internal organs. You could call it infinitely vast, and you could just as well call it infinitely small. Some called it the Purple Palace. Others called it the Flowery Pool. Most, however, called it the Primeval Sea Aperture. This was what the Hope Gu had become: burst apart, then drawn together into a single layer of light. It was precisely this membrane of light that held the aperture together and kept it from collapsing.
 
-Within the aperture, naturally, lay the primeval sea. The water lay smooth as a mirror, a sheet of jade green, yet viscous beyond any water, and it carried the sheen of bronze. This was the bronze primeval essence that only a Rank 1 Gu Master possessed, condensed together. Commonly, it was called the bronze sea. The surface of the sea did not reach half the height of the aperture. It stood at only forty-four percent. This too was the limit of a Grade C aptitude. Every drop of that water was primeval essence. It represented the condensing of Fang Yuan’s essence, qi and spirit, and it stood for the vital potential he had accumulated over fifteen years.
+Within the aperture, naturally, lay the primeval sea. The water lay smooth as a mirror, a sheet of jade green, yet viscous beyond any water, and it carried the sheen of copper. This was the bronze primeval essence that only a Rank 1 Gu Master possessed, condensed together. Commonly, it was called the bronze sea. The surface of the sea did not reach half the height of the aperture. It stood at only forty-four percent. This too was the limit of a Grade C aptitude. Every drop of that water was primeval essence. It represented the condensing of Fang Yuan’s essence, qi and spirit, and it stood for the vital potential he had accumulated over fifteen years.
 
 It was with this primeval essence that a Gu Master drove his Gu worms. Which was to say, from this moment on, Fang Yuan had formally stepped into the ranks of Rank 1 Gu Masters. The aperture was open. No more Hope Gu flowed into Fang Yuan’s body. Fang Yuan withdrew his attention. He felt only that the pressure ahead was as thick and solid as a wall, and that he could not advance another step.
 
@@ -25,9 +25,9 @@ An uproar swept through the crowd.
 
 He had always believed his elder brother would be of Grade A aptitude. No, not only he. His uncle and aunt, and many others in the clan, had believed the same. And yet now, this was the result!
 
-“Damn it. Only of Grade C!” The Gu Yue clan leader clenched his fists in secret and let out a deep sigh. His disappointment was plain beyond any words.
+“Damn it. Only of Grade C!” The Gu Yue Clan leader clenched his fists in secret and let out a deep sigh. His disappointment was plain beyond any words.
 
-Among the elders watching in secret, some knitted their brows, some lowered their heads in discussion, and some tipped their heads back and let out a long sigh.
+Among the elders watching in secret, some furrowed their brows, some lowered their heads in discussion, and some tipped their heads back and let out a long sigh.
 
 “Could there be an error in the test?”
 
@@ -37,7 +37,7 @@ Among the elders watching in secret, some knitted their brows, some lowered thei
 
 “The higher a youth’s primeval sea aptitude, the more he will indeed display qualities beyond the ordinary. Intelligence, comprehension, memory, strength, agility and so on. But the reverse does not hold. Those qualities do not mean the aptitude must be high. In the end, the test result is what decides.”
 
-“Haa. The greater the hope, the greater the disappointment. The Gu Yue clan grows worse with every generation.”
+“Haa. The greater the hope, the greater the disappointment. The Gu Yue Clan grows worse with every generation.”
 
 * * *
 
@@ -61,7 +61,7 @@ No one answered.
 
 At once, laughter broke out across the whole cavern.
 
-“The Fang brothers. Nothing more than this.” The Gu Yue clan leader gave a cold snort, and a certain distaste for Gu Yue Fang Zheng rose in him as well.
+“The Fang brothers. Nothing more than this.” The Gu Yue Clan leader gave a cold snort, and a certain distaste for Gu Yue Fang Zheng rose in him as well.
 
 “Now I’ve really disgraced myself!” Fang Zheng thrashed hard a few times in the water, but he could not get to his feet at all, for the riverbed was slick. All his effort only made him look clumsier. Burst after burst of laughter reached his ears, and he grew more flustered still.
 
@@ -87,7 +87,7 @@ Forty-three steps!
 
 “Grade A? Truly Grade A?!”
 
-“Three years! At last the Gu Yue clan has produced another genius of Grade A aptitude!”
+“Three years! At last the Gu Yue Clan has produced another genius of Grade A aptitude!”
 
 The elders watching in secret cried out at the same moment, their dignity abandoned entirely.
 
@@ -95,4 +95,4 @@ The elders watching in secret cried out at the same moment, their dignity abando
 
 “How could that be? What virtue, what ability do you have, Chi Lian, you old geezer? Hampering other people’s children is the one talent you do have. Better to hand the child to me, Gu Yue Mo Chen, to bring up.” Gu Yue Mo Chen reacted as if a jolt had gone through him, and roared at once.
 
-“None of you will contend for him. No matter who grooms this child, none will do it as well as this clan leader in person. Anyone with an objection is opposing me, Gu Yue Bo!” The Gu Yue clan leader’s eyes were bloodshot, he had gone into a frenzy, his earlier disappointment and dejection were swept away.
+“None of you will contend for him. No matter who grooms this child, none will do it as well as this clan leader in person. Anyone with an objection is opposing me, Gu Yue Bo!” The Gu Yue Clan leader’s eyes were bloodshot, he had gone into a frenzy, his earlier disappointment and dejection were swept away.

@@ -110,9 +110,9 @@ Changed from congealed. You were right to push. Han Dian defines 凝结 as gas t
 
 **Rough:** The seawater is smooth as a mirror, showing an expanse of jade-green, yet thick beyond compare, carrying the lustre of copper.
 
-**Draft:** The water lay smooth as a mirror, a sheet of jade green, yet viscous beyond any water, and it carried the sheen of bronze.
+**Draft:** The water lay smooth as a mirror, a sheet of jade green, yet viscous beyond any water, and it carried the sheen of copper.
 
-You were right on viscosity. 浓稠 has no headword of its own in Han Dian, but the two characters are 浓, dense or concentrated, and 稠, thick in the sense of not flowing freely. Thick in English is ambiguous, it can mean deep or opaque. Viscous is the actual property, and it matters, because the reader needs to know this is not water. 铜 on its own is copper, but the next line names the substance bronze, so I took the sheen as bronze to keep the two lines agreeing.
+You were right on viscosity. 浓稠 has no headword of its own in Han Dian, but the two characters are 浓, dense or concentrated, and 稠, thick in the sense of not flowing freely. Thick in English is ambiguous, it can mean deep or opaque. Viscous is the actual property, and it matters, because the reader needs to know this is not water. 铜 means copper here; the next line separately names 青铜 (bronze), so the colour terms should remain distinct.
 
 ---
 
@@ -346,9 +346,9 @@ On your question about dropping elder. I think the answer is that it depends on 
 
 > “可恶，居然只是个丙等！”古月族长暗捏双拳，深深地叹了一口气，失望之情溢于言表。
 
-**Rough:** 'Detestable, actually only a Grade C!' The Gu Yue clan leader secretly clenched both fists, sighed deeply, his disappointment spilling past his words.
+**Rough:** 'Detestable, actually only a Grade C!' The Gu Yue Clan leader secretly clenched both fists, sighed deeply, his disappointment spilling past his words.
 
-**Draft:** “Damn it. Only a Grade C!” The Gu Yue clan leader clenched his fists in secret and let out a deep sigh, his disappointment plain beyond any words.
+**Draft:** “Damn it. Only a Grade C!” The Gu Yue Clan leader clenched his fists in secret and let out a deep sigh, his disappointment plain beyond any words.
 
 可恶 is disgust at a situation, not swearing at a person. The hidden clench matters, he is performing composure in public. 溢于言表 is in Han Dian as feeling overflowing through and past speech, English beyond words.
 
@@ -360,9 +360,9 @@ On your question about dropping elder. I think the answer is that it depends on 
 
 > 暗中关注的家老们，有的皱起眉头，有的低头谈论，有人仰天长叹。
 
-**Rough:** The elders watching from hiding: some knitted their brows, some lowered heads and discussed, some faced the sky and sighed long.
+**Rough:** The elders watching from hiding: some furrowed their brows, some lowered heads and discussed, some faced the sky and sighed long.
 
-**Draft:** Among the elders watching in secret, some knitted their brows, some lowered their heads in discussion, and some tipped their heads back and let out a long sigh.
+**Draft:** Among the elders watching in secret, some furrowed their brows, some lowered their heads in discussion, and some tipped their heads back and let out a long sigh.
 
 Fair hit. Sighed long at the heavens was me translating the characters and calling it English. 仰天长叹 is a physical posture, the head goes back, then the sigh. Describing the posture gets the same image without the incense-burning tone.
 
@@ -420,9 +420,9 @@ Yours again. 准确 is accurate, hitting the mark. Precise is a different proper
 
 > “唉，希望越大失望越大。古月一族是一代不如一代了。”
 
-**Rough:** 'Haa, the bigger the hope the bigger the disappointment. The Gu Yue clan is one generation not equal to the last.'
+**Rough:** 'Haa, the bigger the hope the bigger the disappointment. The Gu Yue Clan is one generation not equal to the last.'
 
-**Draft:** “Haa. The greater the hope, the greater the disappointment. The Gu Yue clan grows worse with every generation.”
+**Draft:** “Haa. The greater the hope, the greater the disappointment. The Gu Yue Clan grows worse with every generation.”
 
 一代不如一代 is set, and Han Dian's example is the famous Dream of the Red Chamber line about a great house whose sons and grandsons decline. Exactly the note these elders are striking.
 
@@ -686,9 +686,9 @@ Taking your point. 哄堂大笑 in Han Dian is a whole room laughing at the same
 
 > “方家兄弟，不过如此。”古月族长冷哼一声，对古月方正也产生了一种厌烦。
 
-**Rough:** 'The Fang family brothers, nothing more than this.' The Gu Yue clan leader gave a cold snort, and toward Gu Yue Fang Zheng too there arose a kind of disgust.
+**Rough:** 'The Fang family brothers, nothing more than this.' The Gu Yue Clan leader gave a cold snort, and toward Gu Yue Fang Zheng too there arose a kind of disgust.
 
-**Draft:** “The Fang brothers. Nothing more than this.” The Gu Yue clan leader gave a cold snort, and a certain distaste for Gu Yue Fang Zheng rose in him as well.
+**Draft:** “The Fang brothers. Nothing more than this.” The Gu Yue Clan leader gave a cold snort, and a certain distaste for Gu Yue Fang Zheng rose in him as well.
 
 You are right that nothing said disgust about Fang Yuan outright, and the 也, also, is doing something slightly sly. It points back to L25, where the man clenched his fists and called the result detestable. Chinese lets 也 reach back to an attitude the reader is expected to have inferred, without that attitude ever being named. English as well does the same reaching. So I would keep it, on the grounds that the sneaky part is the author's, not mine. If you would rather make it explicit we can write and now Fang Zheng drew the same feeling, but that spells out a joke the original leaves half-said.
 
@@ -890,9 +890,9 @@ Its own paragraph, against Fang Yuan's twenty-seven at L17. That contrast is the
 
 > “三年了，古月一族终于又出现了甲等资质的天才！”
 
-**Rough:** 'Three years! The Gu Yue clan has finally produced a Grade A aptitude genius again!'
+**Rough:** 'Three years! The Gu Yue Clan has finally produced a Grade A aptitude genius again!'
 
-**Draft:** “Three years! At last the Gu Yue clan has produced another genius of Grade A aptitude!”
+**Draft:** “Three years! At last the Gu Yue Clan has produced another genius of Grade A aptitude!”
 
 三年了 with the particle is it has been three years, a span now ended. The again matters, this has happened before.
 
@@ -940,9 +940,9 @@ Three changes, all yours. Old ghost restored, and here is the honest picture: Ha
 
 > “谁都别争了。这个孩子谁栽培，都没有本族长亲自栽培的好。谁有异议，就是反对我古月博！”古月族长双眼赤红，一扫先前的失望颓废，整个人都癫狂了。
 
-**Rough:** 'Nobody argue. Whoever cultivates this child, none is as good as this clan leader cultivating him personally. Whoever has an objection, is opposing me, Gu Yue Bo!' The Gu Yue clan leader's eyes were red, sweeping away his earlier disappointment and dejection, the whole person gone mad.
+**Rough:** 'Nobody argue. Whoever cultivates this child, none is as good as this clan leader cultivating him personally. Whoever has an objection, is opposing me, Gu Yue Bo!' The Gu Yue Clan leader's eyes were red, sweeping away his earlier disappointment and dejection, the whole person gone mad.
 
-**Draft:** “None of you will contend for him. Whoever grooms this child, no one will do it as well as this clan leader grooming him in person. Anyone who objects, objects to me, Gu Yue Bo!” The Gu Yue clan leader's eyes were bloodshot, his earlier disappointment and dejection swept clean away, and he had gone entirely into a frenzy.
+**Draft:** “None of you will contend for him. Whoever grooms this child, no one will do it as well as this clan leader grooming him in person. Anyone who objects, objects to me, Gu Yue Bo!” The Gu Yue Clan leader's eyes were bloodshot, his earlier disappointment and dejection swept clean away, and he had gone entirely into a frenzy.
 
 Your nah on cultivate a child was right, and checking it turned up a mistake of mine. L73 is 抚养, to bring up, ordinary childrearing. This line is 栽培, which Han Dian gives as to plant and tend, then by extension to train and foster talent, and then in old officialdom to take someone up and promote them. Two different words, and I had flattened both to raise. Groom carries the training and the patronage at once, which is what the clan leader is actually claiming. Whole man also gone, you were right, it is not English. And 癫狂 is worth noting: Han Dian has it as a named disorder in Chinese medicine, derangement, plus a colloquial sense of being beside oneself. Both are live here, frenzy holds them.
 
@@ -964,7 +964,7 @@ It was precisely this membrane of light that held the aperture up and kept it fr
 
 Within the aperture, naturally, lay the primeval sea.
 
-The water lay smooth as a mirror, a sheet of jade green, yet viscous beyond any water, and it carried the sheen of bronze.
+The water lay smooth as a mirror, a sheet of jade green, yet viscous beyond any water, and it carried the sheen of copper.
 
 This was the bronze primeval essence that only a Rank 1 Gu Master possessed, condensed together. Commonly, it was called the bronze sea.
 
@@ -1004,9 +1004,9 @@ No, not only he. His uncle and aunt, and many others in the clan, had believed t
 
 And yet now, this was the result!
 
-“Damn it. Only a Grade C!” The Gu Yue clan leader clenched his fists in secret and let out a deep sigh, his disappointment plain beyond any words.
+“Damn it. Only a Grade C!” The Gu Yue Clan leader clenched his fists in secret and let out a deep sigh, his disappointment plain beyond any words.
 
-Among the elders watching in secret, some knitted their brows, some lowered their heads in discussion, and some tipped their heads back and let out a long sigh.
+Among the elders watching in secret, some furrowed their brows, some lowered their heads in discussion, and some tipped their heads back and let out a long sigh.
 
 “Could there be an error in the test?”
 
@@ -1016,7 +1016,7 @@ Among the elders watching in secret, some knitted their brows, some lowered thei
 
 “The higher a youth's primeval sea aptitude, the more he will indeed display qualities beyond the ordinary. Intelligence, comprehension, memory, strength, agility and so on. But the reverse does not hold. Those qualities do not mean the aptitude must be high. In the end, the test result is what decides.”
 
-“Haa. The greater the hope, the greater the disappointment. The Gu Yue clan grows worse with every generation.”
+“Haa. The greater the hope, the greater the disappointment. The Gu Yue Clan grows worse with every generation.”
 
 * * *
 
@@ -1060,7 +1060,7 @@ No one answered.
 
 At once, laughter broke out across the whole cavern.
 
-“The Fang brothers. Nothing more than this.” The Gu Yue clan leader gave a cold snort, and a certain distaste for Gu Yue Fang Zheng rose in him as well.
+“The Fang brothers. Nothing more than this.” The Gu Yue Clan leader gave a cold snort, and a certain distaste for Gu Yue Fang Zheng rose in him as well.
 
 “Now I've really disgraced myself!” Fang Zheng thrashed hard a few times in the water, but the riverbed was slick and he could not get to his feet at all. All his effort only made him look clumsier. Burst after burst of laughter reached his ears, and he grew more flustered still.
 
@@ -1094,7 +1094,7 @@ Forty-three steps!
 
 “Grade A? Truly Grade A?!”
 
-“Three years! At last the Gu Yue clan has produced another genius of Grade A aptitude!”
+“Three years! At last the Gu Yue Clan has produced another genius of Grade A aptitude!”
 
 The elders watching in secret cried out at the same moment, their dignity abandoned entirely.
 
@@ -1102,7 +1102,7 @@ The elders watching in secret cried out at the same moment, their dignity abando
 
 “How could that be? What virtue, what ability do you have, Chi Lian, you old ghost? Hampering other people's children is the one talent you do have. Better to hand the child to me, Gu Yue Mo Chen, to bring up.” Gu Yue Mo Chen roared it out at once, as though he had touched a live wire.
 
-“None of you will contend for him. Whoever grooms this child, no one will do it as well as this clan leader grooming him in person. Anyone who objects, objects to me, Gu Yue Bo!” The Gu Yue clan leader's eyes were bloodshot, his earlier disappointment and dejection swept clean away, and he had gone entirely into a frenzy.
+“None of you will contend for him. Whoever grooms this child, no one will do it as well as this clan leader grooming him in person. Anyone who objects, objects to me, Gu Yue Bo!” The Gu Yue Clan leader's eyes were bloodshot, his earlier disappointment and dejection swept clean away, and he had gone entirely into a frenzy.
 
 ---
 
