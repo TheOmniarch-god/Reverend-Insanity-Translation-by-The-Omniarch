@@ -110,7 +110,7 @@ Changed from congealed. You were right to push. Han Dian defines 凝结 as gas t
 
 **Rough:** The seawater is smooth as a mirror, showing an expanse of jade-green, yet thick beyond compare, carrying the lustre of copper.
 
-**Draft:** The water lay smooth as a mirror, a sheet of jade green, yet viscous beyond any water, and it carried the sheen of copper.
+**Draft:** The water lay smooth as a mirror, a sheet of jade green, yet viscous beyond any water, and it carried a copper lustre.
 
 You were right on viscosity. 浓稠 has no headword of its own in Han Dian, but the two characters are 浓, dense or concentrated, and 稠, thick in the sense of not flowing freely. Thick in English is ambiguous, it can mean deep or opaque. Viscous is the actual property, and it matters, because the reader needs to know this is not water. 铜 means copper here; the next line separately names 青铜 (bronze), so the colour terms should remain distinct.
 
@@ -964,7 +964,7 @@ It was precisely this membrane of light that held the aperture up and kept it fr
 
 Within the aperture, naturally, lay the primeval sea.
 
-The water lay smooth as a mirror, a sheet of jade green, yet viscous beyond any water, and it carried the sheen of copper.
+The water lay smooth as a mirror, a sheet of jade green, yet viscous beyond any water, and it carried a copper lustre.
 
 This was the bronze primeval essence that only a Rank 1 Gu Master possessed, condensed together. Commonly, it was called the bronze sea.
 

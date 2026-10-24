@@ -68,7 +68,7 @@ I started with congealed and changed it. Han Dian defines 凝结 as gas turning 
 
 **Literal:** The seawater is smooth as a mirror, showing an expanse of jade-green, yet thick beyond compare, carrying the lustre of copper.
 
-**Draft:** The water lay smooth as a mirror, a sheet of jade green, yet viscous beyond any water, and it carried the sheen of copper.
+**Draft:** The water lay smooth as a mirror, a sheet of jade green, yet viscous beyond any water, and it carried a copper lustre.
 
 浓稠 has no headword of its own in Han Dian, but the characters are 浓, dense, and 稠, thick in the sense of not flowing freely. Thick in English is ambiguous, it can mean deep or opaque. Viscous is the actual property, and it matters, because the reader needs to know this is not water. 铜 means copper here; the next line separately names 青铜 (bronze), so the colour terms should remain distinct. On the green and the bronze looking like a contradiction, they are not. 青铜 is named for its green. Han Dian gives bronze as 呈青灰色, greenish grey, and Chinese Wikipedia says outright 因为其氧化物颜色青灰，故名青铜, named for the greenish grey of its oxide. The Cantonese entry is blunter: fresh bronze is 古铜色, not green at all, and it is called 青铜 only because it corrodes to blue green 铜绿. And Han Dian’s 碧 is 青绿色的玉石, green jade, with 碧水 for green water. The description therefore gives two separate visual qualities: jade-green water and a coppery lustre. The following line independently identifies the primeval essence as bronze.
 

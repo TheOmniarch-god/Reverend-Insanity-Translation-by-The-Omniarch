@@ -114,7 +114,7 @@
 
 **Judgment:** 碧青 is the blue-green of jade or deep water, not simply 'blue'. 铜 means copper, distinct from 青铜 (bronze) in the next line, so retain the source's copper lustre. 浓稠 is thick in the sense of viscous, which matters because it tells the reader this is not ordinary water.
 
-**Proposal:** The water lay smooth as a mirror, a sheet of jade green, yet immensely thick, and it carried the sheen of copper.
+**Proposal:** The water lay smooth as a mirror, a sheet of jade green, yet immensely thick, and it carried a copper lustre.
 
 **Source:** No external source needed. Ordinary vocabulary; rendering fixed by context and by our established glossary.
 
@@ -1102,7 +1102,7 @@ It was precisely this membrane of light that held the aperture up and kept it fr
 
 Within the aperture, naturally, lay the primeval sea.
 
-The water lay smooth as a mirror, a sheet of jade green, yet immensely thick, and it carried the sheen of copper.
+The water lay smooth as a mirror, a sheet of jade green, yet immensely thick, and it carried a copper lustre.
 
 This was the bronze primeval essence that only a Rank 1 Gu Master possessed, congealed together. Commonly, it was called the bronze sea.
 
