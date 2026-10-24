@@ -141,8 +141,8 @@
 ### P19
 **Chinese:** 海水呈青铜色，海面平静如镜，水位差不多是空窍的一半高。整个元海体积，占据空窍的四成四。
 **Literal:** Sea water bronze colour, sea surface calm like mirror, water level about aperture half high. Entire essence sea volume occupies 44%.
-**Peak:** The seawater was bronze in colour, its surface was as still as a mirror, and its level was about half the height of the aperture. The entire primeval sea occupied forty-four percent of the aperture.
-**Analysis:** 青铜色: bronze colour — First Revolution characteristic — fixed 'showed' to 'was' per user, 'showed' wrong. 平静如镜: calm as a mirror — idiom — added verbs 'was' for 'surface was calm' and 'level was about half' per user, previous missing verbs. 四成四: 44% — Grade C limit, consistent Ch6. 元海 = primeval sea per glossary (not essence sea), fixed per user method.
+**Peak:** The seawater was bronze-green in colour, its surface was as still as a mirror, and its level was about half the height of the aperture. The entire primeval sea occupied forty-four percent of the aperture.
+**Analysis:** 青铜色: bronze-green in this context, read with Ch6's jade-green water and copper lustre — fixed 'showed' to 'was' per user, 'showed' wrong. 平静如镜: calm as a mirror — idiom — added verbs 'was' for 'surface was calm' and 'level was about half' per user, previous missing verbs. 四成四: 44% — Grade C limit, consistent Ch6. 元海 = primeval sea per glossary (not essence sea), fixed per user method.
 **Sources:** Baidu 平静如镜: 形容水面平静. 四成四 = 44%, Grade C.
 
 ### P20

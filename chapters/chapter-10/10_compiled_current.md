@@ -36,7 +36,7 @@ A layer of light membrane enclosed the aperture. The white membrane seemed very 
 
 Within the aperture lay an ocean of primeval essence.
 
-The seawater was bronze in colour, its surface was as still as a mirror, and its level was about half the height of the aperture. The entire primeval sea occupied forty-four percent of the aperture.
+The seawater was bronze-green in colour, its surface was as still as a mirror, and its level was about half the height of the aperture. The entire primeval sea occupied forty-four percent of the aperture.
 
 This was the bronze primeval sea of a First Revolution Gu Master. Every drop of seawater was primeval essence. It was Fang Yuan's life force, condensed from his essence, qi, and spirit.
 
