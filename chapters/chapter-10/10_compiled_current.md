@@ -54,7 +54,7 @@ Gu are the essence of heaven and earth, the cipher of the Great Dao, the vessels
 
 The process of refining was extremely arduous.
 
-As bronze primeval essence injected into the crescent, it first dyed the two tips bronze-green.
+As bronze primeval essence flowed into the crescent, it first dyed the crescent's two tips green.
 
 Then this bronze-green tint began to spread toward the middle of the crescent.
 

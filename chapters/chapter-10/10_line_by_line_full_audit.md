@@ -204,7 +204,7 @@
 ### P28
 **Chinese:** 月光蛊就像是一片弯弯的月牙，青铜色的真元注入到月牙当中，首先就将月牙两个尖端染绿。
 **Literal:** Moonlight Gu just like one piece curved moon crescent, bronze colour primeval essence injects into moon crescent inside, first then将 moon crescent two tips染绿.
-**Peak:** As bronze primeval essence injected into the crescent, it first dyed the two tips bronze-green.
+**Peak:** As bronze primeval essence flowed into the crescent, it first dyed the crescent's two tips green.
 **Analysis:** 月牙: crescent moon. 尖端: tips, ends. 染绿: dye green — bronze essence dyes blue Gu green where refined. Visual of refining progress.
 **Definitions:** 染: 使颜色着在别的东西上.
 
