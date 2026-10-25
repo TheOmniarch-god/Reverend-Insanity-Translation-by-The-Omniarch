@@ -1,6 +1,7 @@
 # Chapter 10 Full Line-by-Line Audit — 第十节：天有不测风云，炼蛊别具艰辛
 **Source:** GitHub EPUB OEBPS/Text/chapter18.html — 62 paras
 **Method:** Chinese / Literal / Peak / Analysis / Sources / Definitions — Full Method as Ch1-9
+**Paragraphing note:** This audit tracks the 62 Chinese source units for line-by-line checking; the compiled English text groups related material into 30 English-style paragraphs, as in Chapters 1–9.
 
 ---
 
@@ -8,7 +9,7 @@
 **Chinese:** 第十节：天有不测风云，炼蛊别具艰辛
 **Pinyin:** Dì Shí Jié: Tiān Yǒu Bù Cè Fēng Yún, Liàn Gǔ Bié Jù Jiān Xīn
 **Literal:** Section 10: Heaven has unpredictable wind clouds, refining Gu has distinct hardship
-**Peak:** Chapter 10: Heaven is Unpredictable, Refining Gu Holds Its Own Hardships
+**Peak:** Chapter 10: Heaven is Unpredictable, Refining Gu Comes with Its Own Hardships
 **Analysis:** Idiom 天有不测风云 from 水浒传/俗语 天有不测风云，人有旦夕祸福 — heaven has unpredictable storms, man has momentary fortune/misfortune. 别具艰辛 — holds its own hardships, distinct hardships. Title parallelism: 天...风云 / 炼蛊...艰辛.
 **Sources:** Baidu 天有不测风云: 比喻灾祸，难以预料. 别具: 另有，别有.
 
