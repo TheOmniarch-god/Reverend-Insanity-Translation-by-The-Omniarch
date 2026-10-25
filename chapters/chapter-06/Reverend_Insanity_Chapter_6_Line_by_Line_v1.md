@@ -112,9 +112,9 @@
 
 **Literal:** The seawater is smooth as a mirror, presenting an expanse of jade-green colour, yet it is incomparably thick and viscous, carrying the lustre of copper.
 
-**Judgment:** 碧青 is the blue-green of jade or deep water, not simply 'blue'. 铜 alone is copper, but the next line names the substance 青铜, bronze, so 'the sheen of bronze' keeps the two lines consistent. 浓稠 is thick in the sense of viscous, which matters because it tells the reader this is not ordinary water.
+**Judgment:** 碧青 is the blue-green of jade or deep water, not simply 'blue'. 铜 means copper, distinct from 青铜 (bronze) in the next line, so retain the source's copper lustre. 浓稠 is thick in the sense of viscous, which matters because it tells the reader this is not ordinary water.
 
-**Proposal:** The water lay smooth as a mirror, a sheet of jade green, yet immensely thick, and it carried the sheen of bronze.
+**Proposal:** The water lay smooth as a mirror, a sheet of jade green, yet immensely thick, and it carried a copper lustre.
 
 **Source:** No external source needed. Ordinary vocabulary; rendering fixed by context and by our established glossary.
 
@@ -390,11 +390,11 @@
 
 **Original:** “可恶，居然只是个丙等！”古月族长暗捏双拳，深深地叹了一口气，失望之情溢于言表。
 
-**Literal:** 'Detestable, actually only a Grade C!' The Gu Yue clan leader secretly clenched both fists, sighed deeply, his feeling of disappointment overflowing beyond his words.
+**Literal:** 'Detestable, actually only a Grade C!' The Gu Yue Clan leader secretly clenched both fists, sighed deeply, his feeling of disappointment overflowing beyond his words.
 
 **Judgment:** 可恶 is an expression of disgust at a situation, not profanity. 暗捏双拳 is the concealed clench, which matters because he is performing composure in public.
 
-**Proposal:** “Damn it. Only a Grade C!” The Gu Yue clan leader clenched his fists in secret and let out a deep sigh, his disappointment plain beyond any words.
+**Proposal:** “Damn it. Only a Grade C!” The Gu Yue Clan leader clenched his fists in secret and let out a deep sigh, his disappointment plain beyond any words.
 
 **Source:** zdic 溢于言表: 'thoughts and feelings revealed through and beyond speech', English 'beyond words', citing Zhu Yizun; second sense 'feelings too rich to be fully expressed in words', English 'overflowing'. The Guoyu Cidian gives 'depth of content, feeling or thought exceeding what the words carry'. https://www.zdic.net/hans/溢于言表
 
@@ -404,11 +404,11 @@
 
 **Original:** 暗中关注的家老们，有的皱起眉头，有的低头谈论，有人仰天长叹。
 
-**Literal:** The elders paying attention from concealment: some knitted their brows, some lowered their heads and discussed, some looked up at the sky and sighed long.
+**Literal:** The elders paying attention from concealment: some furrowed their brows, some lowered their heads and discussed, some looked up at the sky and sighed long.
 
 **Judgment:** 暗中关注 is the recurring frame for the hidden elders observing the ceremony. 仰天长叹 is a physical gesture, head tipped back, and should stay physical.
 
-**Proposal:** Among the elders watching in secret, some knitted their brows, some lowered their heads in discussion, and some sighed long at the heavens.
+**Proposal:** Among the elders watching in secret, some furrowed their brows, some lowered their heads in discussion, and some sighed long at the heavens.
 
 **Source:** No external source needed. Ordinary vocabulary; rendering fixed by context and by our established glossary.
 
@@ -474,11 +474,11 @@
 
 **Original:** “唉，希望越大失望越大。古月一族是一代不如一代了。”
 
-**Literal:** 'Haa, the greater the hope the greater the disappointment. The Gu Yue clan is one generation not equal to the last.'
+**Literal:** 'Haa, the greater the hope the greater the disappointment. The Gu Yue Clan is one generation not equal to the last.'
 
 **Judgment:** 希望越大失望越大 is a proverb of the 'the more X the more Y' pattern and should keep its balanced shape. 一代不如一代 is a set idiom of dynastic decline.
 
-**Proposal:** “Haa. The greater the hope, the greater the disappointment. The Gu Yue clan grows worse with every generation.”
+**Proposal:** “Haa. The greater the hope, the greater the disappointment. The Gu Yue Clan grows worse with every generation.”
 
 **Source:** zdic 一代不如一代: 'describes conditions growing worse as the generations succeed one another', English 'each generation is worse than the last', with the famous Dream of the Red Chamber ch.2 citation about a house of bells and tripods whose sons and grandsons decline; origin traced to Song, Wang Junyu's Guolao Tanyuan. The clan-decline framing is exact for the Gu Yue elders. https://www.zdic.net/hans/一代不如一代
 
@@ -782,11 +782,11 @@
 
 **Original:** “方家兄弟，不过如此。”古月族长冷哼一声，对古月方正也产生了一种厌烦。
 
-**Literal:** 'The Fang family's brothers, nothing more than this.' The Gu Yue clan leader gave a cold snort, and also produced a kind of disgust toward Gu Yue Fang Zheng.
+**Literal:** 'The Fang family's brothers, nothing more than this.' The Gu Yue Clan leader gave a cold snort, and also produced a kind of disgust toward Gu Yue Fang Zheng.
 
 **Judgment:** 不过如此 is the dismissal of something that failed to live up to its reputation. 厌烦 is irritated distaste, weaker than hatred.
 
-**Proposal:** “The Fang brothers. Nothing more than this.” The Gu Yue clan leader gave a cold snort, and a certain distaste for Gu Yue Fang Zheng rose in him as well.
+**Proposal:** “The Fang brothers. Nothing more than this.” The Gu Yue Clan leader gave a cold snort, and a certain distaste for Gu Yue Fang Zheng rose in him as well.
 
 **Source:** No external source needed. Ordinary vocabulary; rendering fixed by context and by our established glossary.
 
@@ -1020,11 +1020,11 @@
 
 **Original:** “三年了，古月一族终于又出现了甲等资质的天才！”
 
-**Literal:** 'Three years! The Gu Yue clan has finally produced a genius of Grade A aptitude again!'
+**Literal:** 'Three years! The Gu Yue Clan has finally produced a genius of Grade A aptitude again!'
 
 **Judgment:** 三年了 with the aspect particle is 'it has been three years', a span now ended. The 'again' matters: this has happened before.
 
-**Proposal:** “Three years! At last the Gu Yue clan has produced another genius of Grade A aptitude!”
+**Proposal:** “Three years! At last the Gu Yue Clan has produced another genius of Grade A aptitude!”
 
 **Source:** No external source needed. Ordinary vocabulary; rendering fixed by context and by our established glossary.
 
@@ -1076,11 +1076,11 @@
 
 **Original:** “谁都别争了。这个孩子谁栽培，都没有本族长亲自栽培的好。谁有异议，就是反对我古月博！”古月族长双眼赤红，一扫先前的失望颓废，整个人都癫狂了。
 
-**Literal:** 'None of you argue. Whoever cultivates this child, none is as good as this clan leader cultivating him personally. Whoever has an objection, is opposing me, Gu Yue Bo!' The Gu Yue clan leader's eyes were red, sweeping away his earlier disappointment and dejection; the whole person had gone mad.
+**Literal:** 'None of you argue. Whoever cultivates this child, none is as good as this clan leader cultivating him personally. Whoever has an objection, is opposing me, Gu Yue Bo!' The Gu Yue Clan leader's eyes were red, sweeping away his earlier disappointment and dejection; the whole person had gone mad.
 
 **Judgment:** 栽培 is the gardener's word for raising a plant, used of grooming a protege, and it chimes with the flower field the boy is standing in. 本族长 is him referring to himself by office, which is a claim of authority, so 'this clan leader' should be kept rather than smoothed to 'I'. 癫狂 is clinical in origin, a term of Chinese medicine for derangement, and colloquially describes someone beside themselves with excitement; here both readings are active and 'frenzy' carries them.
 
-**Proposal:** “None of you will contend for him. Whoever raises this child, no one will do it as well as this clan leader raising him in person. Anyone who objects, objects to me, Gu Yue Bo!” The Gu Yue clan leader's eyes were bloodshot, his earlier disappointment and dejection swept clean away, and the whole man had gone into a frenzy.
+**Proposal:** “None of you will contend for him. Whoever raises this child, no one will do it as well as this clan leader raising him in person. Anyone who objects, objects to me, Gu Yue Bo!” The Gu Yue Clan leader's eyes were bloodshot, his earlier disappointment and dejection swept clean away, and the whole man had gone into a frenzy.
 
 **Source:** zdic 癫狂: 'a pathological state of mental derangement and abnormal speech and behaviour', English 'demented; mad', and a second sense 'describing a state of extreme excitement to the point of forgetting oneself', English 'frantic; ecstatic'; the encyclopaedia entry treats 癫狂 as a named disorder in Chinese medicine. https://www.zdic.net/hans/癫狂
 
@@ -1102,7 +1102,7 @@ It was precisely this membrane of light that held the aperture up and kept it fr
 
 Within the aperture, naturally, lay the primeval sea.
 
-The water lay smooth as a mirror, a sheet of jade green, yet immensely thick, and it carried the sheen of bronze.
+The water lay smooth as a mirror, a sheet of jade green, yet immensely thick, and it carried a copper lustre.
 
 This was the bronze primeval essence that only a Rank 1 Gu Master possessed, congealed together. Commonly, it was called the bronze sea.
 
@@ -1142,9 +1142,9 @@ No, not only he. His uncle and aunt, and many others in the clan, had believed t
 
 And yet now, this was the result!
 
-“Damn it. Only a Grade C!” The Gu Yue clan leader clenched his fists in secret and let out a deep sigh, his disappointment plain beyond any words.
+“Damn it. Only a Grade C!” The Gu Yue Clan leader clenched his fists in secret and let out a deep sigh, his disappointment plain beyond any words.
 
-Among the elders watching in secret, some knitted their brows, some lowered their heads in discussion, and some sighed long at the heavens.
+Among the elders watching in secret, some furrowed their brows, some lowered their heads in discussion, and some sighed long at the heavens.
 
 “Could the test be in error?”
 
@@ -1154,7 +1154,7 @@ Among the elders watching in secret, some knitted their brows, some lowered thei
 
 “The higher a youth's primeval sea aptitude, the more he will indeed display qualities beyond the ordinary. Intelligence, comprehension, memory, strength, agility and so on. But the reverse does not hold. Those qualities do not mean the aptitude must be high. In the end, the test result is what decides.”
 
-“Haa. The greater the hope, the greater the disappointment. The Gu Yue clan grows worse with every generation.”
+“Haa. The greater the hope, the greater the disappointment. The Gu Yue Clan grows worse with every generation.”
 
 * * *
 
@@ -1198,7 +1198,7 @@ No one answered.
 
 At once the whole cavern burst out laughing.
 
-“The Fang brothers. Nothing more than this.” The Gu Yue clan leader gave a cold snort, and a certain distaste for Gu Yue Fang Zheng rose in him as well.
+“The Fang brothers. Nothing more than this.” The Gu Yue Clan leader gave a cold snort, and a certain distaste for Gu Yue Fang Zheng rose in him as well.
 
 “Now I've really disgraced myself!” Fang Zheng thrashed hard a few times in the water, but the riverbed was slick and he could not get to his feet at all. All his effort only made him look clumsier. Burst after burst of laughter reached his ears, and his heart grew more flustered still.
 
@@ -1232,7 +1232,7 @@ Forty-three steps!
 
 “Grade A? Truly Grade A?!”
 
-“Three years! At last the Gu Yue clan has produced another genius of Grade A aptitude!”
+“Three years! At last the Gu Yue Clan has produced another genius of Grade A aptitude!”
 
 The elders watching in secret cried out at the same moment, their dignity abandoned entirely.
 
@@ -1240,7 +1240,7 @@ The elders watching in secret cried out at the same moment, their dignity abando
 
 “How could that be? What virtue, what ability do you have, Chi Lian, you old devil? Ruining the young is the one talent you do possess. Better to hand the child to me, Gu Yue Mo Chen, to raise.” Gu Yue Mo Chen roared it out at once, as though he had touched a live wire.
 
-“None of you will contend for him. Whoever raises this child, no one will do it as well as this clan leader raising him in person. Anyone who objects, objects to me, Gu Yue Bo!” The Gu Yue clan leader's eyes were bloodshot, his earlier disappointment and dejection swept clean away, and the whole man had gone into a frenzy.
+“None of you will contend for him. Whoever raises this child, no one will do it as well as this clan leader raising him in person. Anyone who objects, objects to me, Gu Yue Bo!” The Gu Yue Clan leader's eyes were bloodshot, his earlier disappointment and dejection swept clean away, and the whole man had gone into a frenzy.
 
 ---
 

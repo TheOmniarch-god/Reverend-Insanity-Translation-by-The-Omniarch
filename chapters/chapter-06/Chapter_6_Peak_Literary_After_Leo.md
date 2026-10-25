@@ -2,7 +2,7 @@
 
 The aperture was a thing of surpassing mystery. Though lodged within Fang Yuan’s body, it did not share space with his internal organs. You could call it infinitely vast; you could just as well call it infinitely small. Some called it the Purple Palace. Others, the Flowery Pool. Most, however, called it the Primeval Sea Aperture. This was what the Hope Gu had become: burst apart, then drawn together into a single layer of light. It was precisely this membrane of light that held the aperture together and kept it from collapsing.
 
-Within the aperture lay the primeval sea. The water lay smooth as a mirror, a sheet of jade green, yet viscous beyond any water, carrying the sheen of bronze. This was the bronze primeval essence that only a Rank 1 Gu Master possessed, condensed together. Commonly, it was called the bronze sea. The surface of the sea did not reach half the height of the aperture. It stood at only forty-four percent. This too was the limit of Grade C aptitude. Every drop of that water was primeval essence. It represented the condensing of Fang Yuan’s essence, qi, and spirit, and stood for the vital potential he had accumulated over fifteen years.
+Within the aperture lay the primeval sea. The water lay smooth as a mirror, a sheet of jade green, yet viscous beyond any water, carrying a copper lustre. This was the bronze primeval essence that only a Rank 1 Gu Master possessed, condensed together. Commonly, it was called the bronze sea. The surface of the sea did not reach half the height of the aperture. It stood at only forty-four percent. This too was the limit of Grade C aptitude. Every drop of that water was primeval essence. It represented the condensing of Fang Yuan’s essence, qi, and spirit, and stood for the vital potential he had accumulated over fifteen years.
 
 It was with this primeval essence that a Gu Master drove his Gu worms. From this moment on, Fang Yuan had formally stepped into the ranks of Rank 1 Gu Masters. The aperture was open. No more Hope Gu flowed into his body. Fang Yuan withdrew his attention. He felt only that the pressure ahead was as thick and solid as a wall, and that he could not advance another step.
 
@@ -36,7 +36,7 @@ Among the elders watching in secret, some furrowed their brows, some lowered the
 
 “The higher a youth’s primeval sea aptitude, the more he will indeed display qualities beyond the ordinary. Intelligence, comprehension, memory, strength, agility, and so on. But the reverse does not hold. Those qualities do not mean the aptitude must be high. In the end, the test result is what decides.”
 
-“Haa. The greater the hope, the greater the disappointment. The Gu Yue clan grows worse with every generation.”
+“Haa. The greater the hope, the greater the disappointment. The Gu Yue Clan grows worse with every generation.”
 
   
 
@@ -88,7 +88,7 @@ Forty-three steps!
 
 “Grade A? Truly Grade A?!”
 
-“Three years! At last the Gu Yue clan has produced another genius of Grade A aptitude!”
+“Three years! At last the Gu Yue Clan has produced another genius of Grade A aptitude!”
 
 The elders watching in secret cried out at the same moment, their dignity abandoned entirely.
 

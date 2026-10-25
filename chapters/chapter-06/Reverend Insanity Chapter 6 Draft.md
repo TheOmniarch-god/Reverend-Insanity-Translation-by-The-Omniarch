@@ -68,9 +68,9 @@ I started with congealed and changed it. Han Dian defines 凝结 as gas turning 
 
 **Literal:** The seawater is smooth as a mirror, showing an expanse of jade-green, yet thick beyond compare, carrying the lustre of copper.
 
-**Draft:** The water lay smooth as a mirror, a sheet of jade green, yet viscous beyond any water, and it carried the sheen of bronze.
+**Draft:** The water lay smooth as a mirror, a sheet of jade green, yet viscous beyond any water, and it carried a copper lustre.
 
-浓稠 has no headword of its own in Han Dian, but the characters are 浓, dense, and 稠, thick in the sense of not flowing freely. Thick in English is ambiguous, it can mean deep or opaque. Viscous is the actual property, and it matters, because the reader needs to know this is not water. 铜 alone is copper, but the next line names the substance bronze, so I take the sheen as bronze to keep the two lines agreeing. On the green and the bronze looking like a contradiction, they are not. 青铜 is named for its green. Han Dian gives bronze as 呈青灰色, greenish grey, and Chinese Wikipedia says outright 因为其氧化物颜色青灰，故名青铜, named for the greenish grey of its oxide. The Cantonese entry is blunter: fresh bronze is 古铜色, not green at all, and it is called 青铜 only because it corrodes to blue green 铜绿. And Han Dian’s 碧 is 青绿色的玉石, green jade, with 碧水 for green water. So jade green plus a copper sheen is a description of patinated bronze, which is exactly what the next line names it. He describes the colour, then names the metal.
+浓稠 has no headword of its own in Han Dian, but the characters are 浓, dense, and 稠, thick in the sense of not flowing freely. Thick in English is ambiguous, it can mean deep or opaque. Viscous is the actual property, and it matters, because the reader needs to know this is not water. 铜 means copper here; the next line separately names 青铜 (bronze), so the colour terms should remain distinct. On the green and the bronze looking like a contradiction, they are not. 青铜 is named for its green. Han Dian gives bronze as 呈青灰色, greenish grey, and Chinese Wikipedia says outright 因为其氧化物颜色青灰，故名青铜, named for the greenish grey of its oxide. The Cantonese entry is blunter: fresh bronze is 古铜色, not green at all, and it is called 青铜 only because it corrodes to blue green 铜绿. And Han Dian’s 碧 is 青绿色的玉石, green jade, with 碧水 for green water. The description therefore gives two separate visual qualities: jade-green water and a coppery lustre. The following line independently identifies the primeval essence as bronze.
 
 *I checked: [Han Dian, 青铜](https://www.zdic.net/hans/%E9%9D%92%E9%93%9C), [Han Dian, 碧](https://www.zdic.net/hans/%E7%A2%A7), [Chinese Wikipedia, 青铜时代, bronze named for its green oxide](https://zh.wikipedia.org/wiki/%E9%9D%92%E9%93%9C%E6%97%B6%E4%BB%A3), [Cantonese Wikipedia, 青銅, fresh bronze is not green](https://zh-yue.wikipedia.org/wiki/%E9%9D%92%E9%8A%85), [Ifeng, bronzes named for their green rust, quoting the Shuowen on 碧](https://gs.ifeng.com/c/8qaDXweU6rg)*
 
@@ -306,9 +306,9 @@ Dropping elder everywhere was sloppy of me. It depends on position. 哥哥 as di
 
 > “可恶，居然只是个丙等！”古月族长暗捏双拳，深深地叹了一口气，失望之情溢于言表。
 
-**Literal:** ’Detestable, actually only a Grade C!’ The Gu Yue clan leader secretly clenched both fists, sighed deeply, his disappointment spilling past his words.
+**Literal:** ’Detestable, actually only a Grade C!’ The Gu Yue Clan leader secretly clenched both fists, sighed deeply, his disappointment spilling past his words.
 
-**Draft:** “Damn it. Only a Grade C!” The Gu Yue clan leader clenched his fists in secret and let out a deep sigh. His disappointment was plain beyond any words.
+**Draft:** “Damn it. Only a Grade C!” The Gu Yue Clan leader clenched his fists in secret and let out a deep sigh. His disappointment was plain beyond any words.
 
 可恶 is disgust at a situation, not swearing at a person. The hidden clench matters, he is performing composure in public. 溢于言表 is in Han Dian as feeling overflowing through and past speech, English beyond words. I had this as an absolute phrase hanging off a comma, grammatical but stiff. A full stop and a finite verb read better.
 
@@ -320,9 +320,9 @@ Dropping elder everywhere was sloppy of me. It depends on position. 哥哥 as di
 
 > 暗中关注的家老们，有的皱起眉头，有的低头谈论，有人仰天长叹。
 
-**Literal:** The elders watching from hiding: some knitted their brows, some lowered heads and discussed, some faced the sky and sighed long.
+**Literal:** The elders watching from hiding: some furrowed their brows, some lowered heads and discussed, some faced the sky and sighed long.
 
-**Draft:** Among the elders watching in secret, some knitted their brows, some lowered their heads in discussion, and some tipped their heads back and let out a long sigh.
+**Draft:** Among the elders watching in secret, some furrowed their brows, some lowered their heads in discussion, and some tipped their heads back and let out a long sigh.
 
 Sighed long at the heavens was me translating the characters and calling it English. 仰天长叹 is a physical posture, the head goes back, then the sigh. Describing the posture gets the same image without the incense-burning tone.
 
@@ -380,9 +380,9 @@ Inverting this into could the test be in error gained nothing. 会不会 is a fl
 
 > “唉，希望越大失望越大。古月一族是一代不如一代了。”
 
-**Literal:** ’Haa, the bigger the hope the bigger the disappointment. The Gu Yue clan is one generation not equal to the last.’
+**Literal:** ’Haa, the bigger the hope the bigger the disappointment. The Gu Yue Clan is one generation not equal to the last.’
 
-**Draft:** “Haa. The greater the hope, the greater the disappointment. The Gu Yue clan grows worse with every generation.”
+**Draft:** “Haa. The greater the hope, the greater the disappointment. The Gu Yue Clan grows worse with every generation.”
 
 一代不如一代 is set, and Han Dian’s example is the famous Dream of the Red Chamber line about a great house whose sons and grandsons decline. Exactly the note these elders are striking.
 
@@ -646,9 +646,9 @@ The one that matters. This is not the author’s own sentence, it is a rewrite o
 
 > “方家兄弟，不过如此。”古月族长冷哼一声，对古月方正也产生了一种厌烦。
 
-**Literal:** ’The Fang family brothers, nothing more than this.’ The Gu Yue clan leader gave a cold snort, and toward Gu Yue Fang Zheng too there arose a kind of disgust.
+**Literal:** ’The Fang family brothers, nothing more than this.’ The Gu Yue Clan leader gave a cold snort, and toward Gu Yue Fang Zheng too there arose a kind of disgust.
 
-**Draft:** “The Fang brothers. Nothing more than this.” The Gu Yue clan leader gave a cold snort, and a certain distaste for Gu Yue Fang Zheng rose in him as well.
+**Draft:** “The Fang brothers. Nothing more than this.” The Gu Yue Clan leader gave a cold snort, and a certain distaste for Gu Yue Fang Zheng rose in him as well.
 
 Nothing states disgust toward Fang Yuan outright, so the 也, also, is doing something sly. It points back to L25, where the man clenched his fists and called the result detestable. Chinese lets 也 reach back to an attitude the reader is expected to have inferred, without that attitude ever being named. English as well does the same reaching, so I keep it: the sneaky part is the author’s, not mine. Making it explicit would spell out a joke the original leaves half-said.
 
@@ -854,9 +854,9 @@ Its own paragraph, against Fang Yuan’s twenty-seven at L17. That contrast is t
 
 > “三年了，古月一族终于又出现了甲等资质的天才！”
 
-**Literal:** ’Three years! The Gu Yue clan has finally produced a Grade A aptitude genius again!’
+**Literal:** ’Three years! The Gu Yue Clan has finally produced a Grade A aptitude genius again!’
 
-**Draft:** “Three years! At last the Gu Yue clan has produced another genius of Grade A aptitude!”
+**Draft:** “Three years! At last the Gu Yue Clan has produced another genius of Grade A aptitude!”
 
 三年了 with the particle is it has been three years, a span now ended. The again matters, this has happened before.
 
@@ -906,9 +906,9 @@ Old geezer. I went through old ghost and old wretch before landing here, and bot
 
 > “谁都别争了。这个孩子谁栽培，都没有本族长亲自栽培的好。谁有异议，就是反对我古月博！”古月族长双眼赤红，一扫先前的失望颓废，整个人都癫狂了。
 
-**Literal:** ’Nobody argue. Whoever cultivates this child, none is as good as this clan leader cultivating him personally. Whoever has an objection, is opposing me, Gu Yue Bo!’ The Gu Yue clan leader’s eyes were red, sweeping away his earlier disappointment and dejection, the whole person gone mad.
+**Literal:** ’Nobody argue. Whoever cultivates this child, none is as good as this clan leader cultivating him personally. Whoever has an objection, is opposing me, Gu Yue Bo!’ The Gu Yue Clan leader’s eyes were red, sweeping away his earlier disappointment and dejection, the whole person gone mad.
 
-**Draft:** “None of you will contend for him. No matter who grooms this child, none will do it as well as this clan leader in person. Anyone with an objection is opposing me, Gu Yue Bo!” The Gu Yue clan leader’s eyes were bloodshot, he had gone into a frenzy, his earlier disappointment and dejection were swept away.
+**Draft:** “None of you will contend for him. No matter who grooms this child, none will do it as well as this clan leader in person. Anyone with an objection is opposing me, Gu Yue Bo!” The Gu Yue Clan leader’s eyes were bloodshot, he had gone into a frenzy, his earlier disappointment and dejection were swept away.
 
 Settled after a round I largely lost. I had objected that 谁都别争了 is an imperative and that None of you will contend for him was a prediction. Wrong: the commanding future is an imperative in English, and from a clan head taking control of a room it carries more authority than Stop contending, not less. I also objected to bloodshot on the grounds that 赤红 names a colour, crimson, while bloodshot names a condition. Merriam-Webster gives bloodshot as, of an eye, inflamed to redness, which is simply red eyes, so the distinction was too fine to be worth anything. Two criticisms of mine that did survive: 栽培 repeats in the Chinese, 谁栽培 then 亲自栽培的好, but grooms followed by grooming stumbles in English and do it carries the second instance; and 异议 and 反对 are two different words, dissent and oppose, where my earlier objects and objects invented a repetition the author did not write while losing the one he did. On the closing clauses, the Chinese order is 双眼赤红 then 一扫先前的失望颅废 then 整个人都癫狂了, ending on the madness. The published line moves the frenzy forward, which is the author’s beat reordered but reads better aloud, and the comma splice is doing breathless work that suits a man losing his composure. Disappointment and dejection is a compound subject, so were. 本族长 stays this clan leader: referring to himself by office is the authority claim the outburst rests on. 栽培 is Han Dian’s plant and tend, extended to training and fostering talent and then to patronage in old officialdom, which is why groom rather than raise, since L73 is 抚养, ordinary childrearing. And 癫狂 is a named disorder in Chinese medicine, derangement, plus a colloquial sense of being beside oneself.
 

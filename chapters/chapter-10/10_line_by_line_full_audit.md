@@ -15,7 +15,7 @@
 ### P1
 **Chinese:** 啪啪啪……
 **Literal:** Pa pa pa……
-**Peak:** Pat, pat, pat……
+**Peak:** Pat, pat, pat…
 **Analysis:** Onomatopoeia for rain striking bamboo. 拟声词. English pat replicates crisp impact.
 **Definitions:** 啪: 象声词，形容拍打或爆裂声.
 
@@ -29,7 +29,7 @@
 ### P3
 **Chinese:** 楼前池塘中，水面被雨点激打着，鱼儿在水里快活地穿梭着，水草在池底摇曳。
 **Literal:** Building front pond inside, water surface by rain dots激打着, fish in water happily shuttling, water grass at pond bottom swaying.
-**Peak:** In the pond before the bamboo buildings, the water surface was pelted by raindrops, fish darted happily through the water, and water weeds swayed at the bottom.
+**Peak:** In the pond before the bamboo buildings, the water surface was pelted by raindrops, fish darted happily back and forth through the water, and water weeds swayed at the bottom.
 **Analysis:** 楼前: before the buildings — refers to bamboo buildings from P2, fixed from vague 'Before the buildings' to 'In the pond before the bamboo buildings' per user. 激打: to pelt, strike violently. 快活: happy, lively. 穿梭: shuttle back and forth, dart. 摇曳: sway.
 **Definitions:** 穿梭: 像织布的梭子来回活动. 摇曳: 摇摆，晃动.
 
@@ -43,7 +43,7 @@
 ### P5
 **Chinese:** 在有些昏暗的房间里，窗户开着，方源静静地看着这场大雨，心中幽幽一叹：“已经三天三夜了。”
 **Literal:** In somewhat gloomy room inside, window open着, Fang Yuan quietly looking at this big rain, in heart faintly one sigh: Already three days three nights.
-**Peak:** In a somewhat gloomy room, the window stood open, and Fang Yuan gazed quietly at the downpour, a faint sigh escaping his heart. "Already three days and three nights."
+**Peak:** In a somewhat gloomy room, the window stood open, and Fang Yuan gazed quietly at the downpour, a faint sigh escaping his heart. *"Three days. Three nights already."*
 **Analysis:** 有些昏暗: somewhat gloomy/dim. 静静地: quietly. 幽幽一叹: faint, deep sigh — 幽幽 = faint, secluded, deep. 三天三夜: three days three nights, exact duration since Ch9 exploration. Quoted internal monologue — English requires quotes per your POV rule, Chinese bare.
 **Definitions:** 幽幽: 形容声音、光线等微弱. 叹: sigh.
 
@@ -64,7 +64,7 @@
 ### P8
 **Chinese:** 被淋成落汤鸡且不去谈他，关键是如此情况下，就再也不能四处探索了。
 **Literal:** Being drenched into drowned chicken且不去谈他, key is in such situation, then again cannot everywhere explore.
-**Peak:** To be drenched like a drowned rat was not worth mentioning; the crux was that in such conditions he could no longer explore everywhere.
+**Peak:** To be drenched like a drowned rat was not worth mentioning; the crux was that in such conditions he could no longer explore anywhere.
 **Analysis:** 落汤鸡: fallen into soup chicken — drowned chicken, soaked to skin, idiom for drenched person — English natural is drowned rat per citations. 且不去谈他: not to mention, dismissal. 关键: crux, key point. 四处探索: explore everywhere / in all directions — strict to Chinese, removed 'at will' per user, keeps everywhere.
 **Sources:** Baidu 落汤鸡: 形容浑身湿透，像掉在汤里的鸡.
 
@@ -78,7 +78,7 @@
 ### P10
 **Chinese:** 先前是伪装成失意酗酒的样子，来遮掩真正的动机。但千万不要低估旁人的智慧，往往只有蠢材才会认为别人愚蠢。
 **Literal:** Before was disguised as frustrated drunk wine appearance, to cover true motive. But千万不要 underestimate others' wisdom, often only fools will think others foolish.
-**Peak:** Before, he had disguised himself as a frustrated drunkard to cover his true motive. But one should never underestimate the wisdom of others; more often than not, only fools believe others to be foolish.
+**Peak:** Before, he had disguised himself as a frustrated drunkard to conceal his true motive. But one should never underestimate the wisdom of others; more often than not, only fools believe others to be foolish.
 **Analysis:** 伪装: disguise. 失意酗酒: frustrated and drinking heavily — 失意 = frustrated, disappointed. 遮掩: cover, conceal. 名言: 往往只有蠢材才会认为别人愚蠢 — classic Fang Yuan philosophy, don't underestimate others.
 **Sources:** 酗酒: 无节制地喝酒. 伪装: 假装.
 
@@ -99,14 +99,14 @@
 ### P13
 **Chinese:** “这样一来，酒虫短时间之内就寻不到了。保险起见，只能先着手炼化月光蛊。在这炼化的过程中，能寻到酒虫最好，得不到也只好这样将就了。不过此事也很平常，天有不测之风云。这世间哪有人做事能一直顺风顺水，尽善尽美的？”方源心境很平稳，五百年的经历，早就洗去了他性情中本来就少的浮躁。
 **Literal:** This way, Liquor Worm short time之内 then cannot find. For safety, only can first start refining Moonlight Gu. In this refining process, can find Liquor Worm best, cannot get also only this way make do. However this matter also very common, heaven has unpredictable wind clouds. This world where has person doing things can always smooth wind smooth water, completely perfect? Fang Yuan heart state very stable, five hundred years experience, long ago washed away his temperament中本来就少的浮躁.
-**Peak:** "At this rate, the Liquor Worm will not be found in a short while. To be safe, I can only set about refining the Moonlight Gu first. If in the course of refining I happen to find the Liquor Worm, best of all; if not, I shall have to make do with this. Yet such things are common enough. Heaven is unpredictable, as sudden as wind and rain. In this world, where is there a man whose every undertaking goes smoothly, perfect in every way?" Fang Yuan's state of mind was very steady. Five hundred years of experience had long since washed away the little impatience that had ever been in his nature.
+**Peak:** *"At this rate, the Liquor Worm will not be found in a short while. To be safe, I can only set about refining the Moonlight Gu first. If in the course of refining I happen to find the Liquor Worm, best of all; if not, I shall have to make do with this. Yet such things are common enough. Heaven is unpredictable, as sudden as wind and rain. In this world, where is there a man whose every undertaking goes smoothly, perfect in every way?"* Fang Yuan's state of mind was very steady. Five hundred years of experience had long since washed away what little impatience was in his nature to begin with.
 **Analysis:** 保险起见: for safety, to be safe. 着手: set about, start. 将就: make do, put up with. 天有不测之风云: idiom repeats title. 顺风顺水: smooth wind smooth water — idiom for everything going smoothly. 尽善尽美: perfect in every way. 心境平稳: state of mind stable. 浮躁: impatience,浮躁.
 **Sources:** Baidu 顺风顺水: 比喻运气好，做事顺利. 尽善尽美: 极其完善，极其美好. 浮躁: 轻浮急躁.
 
 ### P14
 **Chinese:** 他关上窗户和门，趺坐到床榻之上。缓缓闭上双眼，呼吸调匀后，便将心神一沉。
 **Literal:** He closed window and door, cross-legged sits onto bed. Slowly closed both eyes, breath调匀后, then将 heart spirit one sink.
-**Peak:** He closed the window and the door, and sat cross-legged upon the bed. He slowly closed his eyes, and once his breathing steadied, he let his consciousness sink.
+**Peak:** He closed the window and the door, and sat cross-legged upon the bed. He slowly closed his eyes, and once his breathing was even, he let his consciousness sink.
 **Analysis:** 趺坐: cross-legged sitting, Buddhist term 趺坐, lotus position. 床榻: bed, couch. 调匀: regulate evenly. 心神一沉: consciousness sinks — entering aperture.
 **Definitions:** 趺坐: 佛教中盘腿端坐的姿势. 心神: mind, consciousness.
 
@@ -127,7 +127,7 @@
 ### P17
 **Chinese:** 空窍外侧，是一层光膜。白色的光膜给人很纤薄的感觉，但是却实实在在地支撑着空窍。
 **Literal:** Aperture outside side, is one layer light membrane. White light membrane gives people very thin feeling, but却实实在在地 supporting aperture.
-**Peak:** On the outer side of the aperture lay a layer of light membrane. The white membrane seemed very thin, yet it truly supported the aperture.
+**Peak:** A layer of light membrane enclosed the aperture. The white membrane seemed very thin, yet it truly supported the aperture.
 **Analysis:** 光膜: light membrane — aperture wall, from Hope Gu. 纤薄: thin and delicate. 实实在在: truly, really.
 **Sources:** 光膜: from Ch6, Hope Gu burst into membrane.
 
@@ -141,14 +141,14 @@
 ### P19
 **Chinese:** 海水呈青铜色，海面平静如镜，水位差不多是空窍的一半高。整个元海体积，占据空窍的四成四。
 **Literal:** Sea water bronze colour, sea surface calm like mirror, water level about aperture half high. Entire essence sea volume occupies 44%.
-**Peak:** The seawater was bronze in colour, its surface was calm as a mirror, and its level was about half the height of the aperture. The entire primeval sea occupied forty-four percent of the aperture.
-**Analysis:** 青铜色: bronze colour — First Revolution characteristic — fixed 'showed' to 'was' per user, 'showed' wrong. 平静如镜: calm as a mirror — idiom — added verbs 'was' for 'surface was calm' and 'level was about half' per user, previous missing verbs. 四成四: 44% — Grade C limit, consistent Ch6. 元海 = primeval sea per glossary (not essence sea), fixed per user method.
+**Peak:** The seawater was bronze-green in colour; its surface was as still as a mirror, and its level stood at about half the aperture's height. The entire primeval sea occupied forty-four percent of the aperture.
+**Analysis:** 青铜色: bronze-green in this context, read with Ch6's jade-green water and copper lustre — fixed 'showed' to 'was' per user, 'showed' wrong. 平静如镜: calm as a mirror — idiom — added verbs 'was' for 'surface was calm' and 'level was about half' per user, previous missing verbs. 四成四: 44% — Grade C limit, consistent Ch6. 元海 = primeval sea per glossary (not essence sea), fixed per user method.
 **Sources:** Baidu 平静如镜: 形容水面平静. 四成四 = 44%, Grade C.
 
 ### P20
 **Chinese:** 这就是一转蛊师的青铜元海，每一滴海水，都是真元。是方源的生命元力，是方源的精气神的凝结。
 **Literal:** This is First Revolution Gu Master's bronze essence sea, every one drop sea water, all are primeval essence. Is Fang Yuan's life primeval power, is Fang Yuan's essence qi spirit's condensation.
-**Peak:** This was the bronze primeval sea of a First Revolution Gu Master. Every drop of seawater was primeval essence. It was Fang Yuan's vital primeval power, the condensation of his essence, qi and spirit.
+**Peak:** This was the bronze primeval sea of a First Revolution Gu Master. Every drop of seawater was primeval essence. It was Fang Yuan's life force, condensed from his essence, qi, and spirit.
 **Analysis:** 一转蛊师: First Revolution Gu Master — 转=Revolution per glossary, not Rank. 青铜元海: bronze primeval sea. 精气神: essence, qi, spirit — three treasures of Daoism, condensation.
 **Definitions:** 精气神: 道家术语，人之三宝.
 
@@ -190,7 +190,7 @@
 ### P26
 **Chinese:** 蛊是天地之精华，大道之密码，法则之载体。它也是生灵，天生自由自在，存在着本身的意志。现在方源要炼化它，就是要抹去它的意志，感应到这股危机，月光蛊自然要反抗。
 **Literal:** Gu is heaven earth essence, Great Dao password, law carrier. It also is living being, natural free unrestrained, exists its own will. Now Fang Yuan wants to refine it, is to erase its will, sensing this crisis, Moonlight Gu naturally wants to resist.
-**Peak:** Gu are the essence of heaven and earth, the cipher of the Great Dao, the vessel of natural law. They are also living beings, naturally free and unrestrained, possessing a will of their own. Now that Fang Yuan sought to refine it, to erase that will, sensing this crisis, the Moonlight Gu naturally resisted.
+**Peak:** Gu are the essence of heaven and earth, the cipher of the Great Dao, the vessels of law. They are also living beings, innately free and unrestrained, each possessing a will of their own. Now Fang Yuan sought to refine it, that is, to erase its will. Sensing this danger, the Moonlight Gu naturally resisted.
 **Analysis:** Axiom: 蛊是天地之精华 — Gu are essence of heaven and earth, core axiom (Man is spirit...). 大道之密码: cipher of Great Dao. 法则之载体: vessel of law. 生灵: living being. 意志: will — Gu have will, need to erase to refine. 抹去: erase.
 **Sources:** Baidu 大道: 指宇宙万物的本源. 法则: 规律. Axiom from 00_general.
 
@@ -204,7 +204,7 @@
 ### P28
 **Chinese:** 月光蛊就像是一片弯弯的月牙，青铜色的真元注入到月牙当中，首先就将月牙两个尖端染绿。
 **Literal:** Moonlight Gu just like one piece curved moon crescent, bronze colour primeval essence injects into moon crescent inside, first then将 moon crescent two tips染绿.
-**Peak:** As bronze primeval essence injected into the crescent, it first dyed the two tips bronze-green.
+**Peak:** As bronze primeval essence flowed into the crescent, it first dyed the crescent's two tips green.
 **Analysis:** 月牙: crescent moon. 尖端: tips, ends. 染绿: dye green — bronze essence dyes blue Gu green where refined. Visual of refining progress.
 **Definitions:** 染: 使颜色着在别的东西上.
 
@@ -225,14 +225,14 @@
 ### P31
 **Chinese:** 一分、两分、三分……八方、九分、一成。
 **Literal:** One分, two分, three分…… eight分, nine分, one成.
-**Peak:** One percent, two percent, three percent…… eight percent, nine percent, ten percent.
+**Peak:** One percent, two percent, three percent… eight percent, nine percent, ten percent.
 **Analysis:** 分=1%, 成=10% — Chinese counting primeval essence consumption, from Ch6. 一分=1%, 一成=10%. Eight分 should be 八分 not 八方 (typo in raw? 八方 means eight directions, but context is 八分). Counting method important.
 **Definitions:** 分: 1/10 of 成. 成: 10%.
 
 ### P32
 **Chinese:** 十分钟后，方源元海就消耗掉了整整一成真元。但是蓝水晶一样的月光蛊表面，处在月牙尖端的两点青铜绿意，却只向中段扩张了一丁点的面积。
 **Literal:** Ten minutes后, Fang Yuan essence sea then consumed掉整整 one成 primeval essence. But blue crystal like Moonlight Gu surface, located at moon crescent tips two points bronze green意, yet only towards middle段 expanded one丁点 area.
-**Peak:** Ten minutes later, Fang Yuan's primeval sea had consumed a full ten percent of its primeval essence. Yet upon the surface of the Moonlight Gu, like blue crystal, the two points of bronze-green at the crescent tips had expanded only a tiny area towards the middle.
+**Peak:** Ten minutes later, Fang Yuan's primeval sea had lost ten percent of its primeval essence. Yet upon the surface of the Moonlight Gu, like blue crystal, the two points of bronze-green at the crescent tips had expanded only a tiny area towards the middle.
 **Analysis:** 整整一成: full 10%. 蓝水晶一样: like blue crystal — simile for Moonlight Gu. 一丁点: a tiny bit,一丁点.
 **Sources:** 一丁点: 极小的一点.
 
@@ -260,7 +260,7 @@
 ### P36
 **Chinese:** 又过了二十分钟，方源体内的元海只剩下了一成四分，月光蛊上青铜绿意扩张了一丝，两片绿意若叠加起来算，大约有整个月光蛊表面的十二分之一。
 **Literal:** Again passed twenty minutes, Fang Yuan body inside essence sea only remains one成four分, Moonlight Gu上 bronze green意 expanded one丝, two pieces green意 if叠加起来算, about has entire Moonlight Gu surface twelve分之一.
-**Peak:** Another twenty minutes passed, and the primeval sea within Fang Yuan's body retained only fourteen percent. On the Moonlight Gu, the bronze-green tint had expanded by a thread. If the two patches of bronze-green were counted together, they amounted to about one twelfth of the Moonlight Gu's entire surface.
+**Peak:** Another twenty minutes passed, and the primeval sea within Fang Yuan's body retained only fourteen percent. On the Moonlight Gu, the bronze-green tint had expanded by a thread. Taken together, the two bronze-green patches covered about one twelfth of the Moonlight Gu's entire surface.
 **Analysis:** 一成四分: 14% (10%+4%). 一丝: one丝, a thread, tiny. 叠加: superimpose, add together. 十二分之一: one twelfth — refining progress slow.
 **Definitions:** 叠加: 重叠相加.
 
@@ -274,14 +274,14 @@
 ### P38
 **Chinese:** “炼蛊艰难呐。”看到此景，方源暗叹一声，断了真元供给，不再继续炼化这月光蛊。
 **Literal:** Refining Gu hard ah. Seeing this scene, Fang Yuan dark sigh one sound, cut off primeval essence supply, no longer continue refining this Moonlight Gu.
-**Peak:** "Refining Gu is truly difficult." Seeing this, Fang Yuan sighed inwardly, cut off the supply of primeval essence, and refined the Moonlight Gu no further.
+**Peak:** *"Refining Gu is truly difficult."* Seeing this, Fang Yuan sighed inwardly, cut off the supply of primeval essence, and refined the Moonlight Gu no further.
 **Analysis:** 艰难呐: hard ah — 呐 exclamatory particle, sigh. 暗叹: sigh inwardly,暗=dark, inward. 断了: cut off.
 **Definitions:** 呐: 语气词，表示感叹.
 
 ### P39
 **Chinese:** 到此刻，炼蛊整整半小时，空窍元海已经消耗了一大半，只剩下一成四的真元残留着。而月光蛊才刚刚炼化了十二分之一。
 **Literal:** To this moment, refining Gu整整 half hour, aperture essence sea already consumed one big half, only remains one成four primeval essence残留着. And Moonlight Gu only just refined twelve分之一.
-**Peak:** By now, he had refined for a full half hour. The primeval sea within his aperture had consumed more than half, leaving only fourteen percent of primeval essence remaining. And the Moonlight Gu had only just been refined by one twelfth.
+**Peak:** Half an hour into the refinement, the primeval sea within his aperture had been depleted by more than half, leaving only fourteen percent of primeval essence. Yet only one twelfth of the Moonlight Gu had been refined.
 **Analysis:** 整整半小时: full half hour. 一大半: big half, more than half. 残留: remaining,残留. 才刚刚: only just — emphasizes slow progress.
 **Definitions:** 残留: 剩余.
 
@@ -309,7 +309,7 @@
 ### P43
 **Chinese:** “每一次炼蛊，就像是两军交战，打阵地战，消耗战。蛊虫只祭炼了十二分之一，而我的真元却消耗了整整三成。蛊师炼蛊就必须一边补充元海真元，一边持续不断地祭炼，巩固胜利成果。炼蛊考较的不仅是调动真元的技巧，还有持久战的耐心。”
 **Literal:** Every one time refining Gu, just like two armies交战, fighting positional war, attrition war. Gu worm only祭炼了 twelve分之一, and my primeval essence却消耗了整整 three成. Gu Master refining Gu then must one side supplement essence sea primeval essence, one side持续不断地祭炼, consolidate victory成果. Refining Gu考较的不仅是调动 primeval essence's skill, also has prolonged war's patience.
-**Peak:** "Every refinement of a Gu is like two armies at war, fighting a battle for position and a battle of attrition. The Gu worm has only been refined by one twelfth, while my primeval essence has already consumed a full thirty percent. A Gu Master refining Gu must replenish the primeval essence of his primeval sea even as he continues refining without cease, consolidating the fruits of victory. Refining Gu tests not only skill in mobilising primeval essence, but also patience for a prolonged war."
+**Peak:** *"Every act of refining Gu is like two armies at war: a positional war and a war of attrition. The Gu worm has only been refined by one twelfth, while thirty percent of my primeval essence had already been consumed. A Gu Master refining Gu must replenish the primeval essence of his primeval sea even as he continues refining without cease, consolidating the fruits of victory. Refining Gu tests not only skill in mobilising primeval essence, but also patience for a prolonged war."*
 **Analysis:** 两军交战: two armies at war — simile for refining Gu. 阵地战: positional war, battle for position. 消耗战: attrition war. 巩固: consolidate. 胜利成果: fruits of victory. 考较: test,考验. 调动: mobilize. 持久战: prolonged war, from Mao's 论持久战.
 **Sources:** Baidu 阵地战: 以争夺阵地为目的的战斗. 消耗战: 以消耗对方实力为目的. 持久战: 长时间作战.
 
@@ -323,7 +323,7 @@
 ### P45
 **Chinese:** 蛊师要补充消耗掉的真元，通常有两种方法。
 **Literal:** Gu Master wants to supplement consumed primeval essence, usually has two kinds methods.
-**Peak:** A Gu Master wishing to replenish consumed primeval essence usually has two methods.
+**Peak:** A Gu Master has two ways to replenish expended primeval essence.
 **Analysis:** 补充: supplement, replenish. 消耗掉: consumed. 两种方法: two kinds methods — introduces natural recovery vs primeval stones.
 **Definitions:** 补充: 补足.
 
@@ -344,7 +344,7 @@
 ### P48
 **Chinese:** 元石是大自然的瑰宝，凝聚着天然真元，可以被蛊师吸收。
 **Literal:** Primeval stone is big nature's treasure, condensing natural primeval essence, can被 Gu Master absorb.
-**Peak:** Primeval stones are treasures of great nature, condensing natural primeval essence that can be absorbed by Gu Masters.
+**Peak:** Primeval stones are treasures of nature, condensing natural primeval essence that can be absorbed by Gu Masters.
 **Analysis:** 瑰宝: treasure,瑰宝 — 瑰=rare,宝=treasure. 凝聚: condense,凝聚. 天然真元: natural primeval essence — in stones vs Gu Master's refined.
 **Sources:** Baidu 瑰宝: 珍奇的宝物.
 
@@ -358,7 +358,7 @@
 ### P50
 **Chinese:** 元石表面的细腻光华，慢慢地暗淡下去，方源的元海水位却以肉眼可见的速度，不断攀升。
 **Literal:** Primeval stone surface's fine lustre, slowly暗淡下去, Fang Yuan's essence sea water level却以 naked eye visible speed, continuously climbing.
-**Peak:** The fine lustre upon the primeval stone's surface slowly dimmed, while the water level of Fang Yuan's primeval sea climbed at a speed visible to the naked eye.
+**Peak:** The fine lustre upon the primeval stone's surface slowly dimmed, while the level of Fang Yuan's primeval sea rose visibly.
 **Analysis:** 细腻光华: fine lustre — 细腻=fine, delicate. 暗淡: dim,暗淡. 肉眼可见: visible to naked eye — idiom. 攀升: climb, rise.
 **Sources:** 细腻: 精细. 肉眼可见: 用肉眼能看到.
 
@@ -407,7 +407,7 @@
 ### P57
 **Chinese:** 所以，方源从一开始就知道，在这场炼化月光蛊的考核中，自己根本就没可能夺得第一。这无关实力，而是资质才是此中的第一因素。
 **Literal:** So, Fang Yuan from start就 knows, in this refining Moonlight Gu assessment中, self根本就没 possible seize first. This unrelated strength, but aptitude is此中 first factor.
-**Peak:** Therefore, Fang Yuan had known from the very beginning that in this assessment of refining the Moonlight Gu, he had no chance at all of seizing first place. This had nothing to do with strength; aptitude was the foremost factor in this.
+**Peak:** Therefore, Fang Yuan had known from the very beginning that in this assessment of refining the Moonlight Gu, he had no chance at all of seizing first place. This was not a matter of strength; aptitude was the decisive factor.
 **Analysis:** 考核: assessment, exam — academy assessment for Moonlight Gu, first place reward 20 primeval stones. 根本就没可能:根本 no possibility — absolute. 无关实力: unrelated to strength. 第一因素: first factor, foremost factor.
 **Sources:** 考核: 考查审核.
 
@@ -428,7 +428,7 @@
 ### P60
 **Chinese:** “我手中只有六块元石，比不上古月漠北，古月赤城这种背后有长辈支持的人。我资质只有丙等，也比不上甲等资质的古月方正。这场考核本来就没有一丁点胜算，还不如分散精力，去寻找酒虫。若是能将酒虫炼成本命蛊，可比月光蛊要好多了。嗯？窗外的雨声小了，似乎有停息的迹象。这场大雨已经连下了三天三夜，也该停了。”
 **Literal:** I hand inside only has six pieces primeval stone, cannot compare to Gu Yue Mo Bei, Gu Yue Chi Cheng this kind behind has elder support person. I aptitude only Grade C, also cannot compare to Grade A aptitude Gu Yue Fang Zheng. This assessment originally就没有一丁点 winning chance, still不如分散 energy, to search Liquor Worm. If can将 Liquor Worm refine into vital Gu, can compare to Moonlight Gu要好多了. Mm? Outside window rain sound small了, seems has stopping sign. This big rain already continuously fell three days three nights, also should stop.
-**Peak:** "I have only six primeval stones in hand, not comparable to those like Gu Yue Mo Bei and Gu Yue Chi Cheng who have the support of elders behind them. My aptitude is only Grade C, also not comparable to Gu Yue Fang Zheng of Grade A aptitude. This assessment originally had not a shred of chance of victory. It would be better to split my focus and search for the Liquor Worm. If I can refine the Liquor Worm into my vital Gu, it would be far better than the Moonlight Gu. Mm? The sound of rain outside the window has lessened, it seems to show signs of stopping. This heavy rain has already fallen continuously for three days and three nights. It should stop."
+**Peak:** *"I have only six primeval stones in hand, not comparable to those like Gu Yue Mo Bei and Gu Yue Chi Cheng who have the support of elders behind them. My aptitude is only Grade C, also not comparable to Gu Yue Fang Zheng of Grade A aptitude. This assessment originally had not a shred of chance of victory. It would be better to split my focus and search for the Liquor Worm. If I can refine the Liquor Worm into my vital Gu, it would be far better than the Moonlight Gu. Mm? The sound of rain outside the window has softened; it seems to be letting up. This heavy rain has already fallen continuously for three days and three nights. It should stop by now."*
 **Analysis:** 六块元石: six primeval stones — from Uncle, Ch9. 古月漠北,古月赤城: Gu Yue Mo Bei (B grade), Gu Yue Chi Cheng (B grade) — have elder support, more stones. 一丁点胜算: not a shred of winning chance — 一丁点 = a tiny bit. 分散精力: split focus,分散 energy. 本命蛊: vital Gu — 本命 = life, vital, most important Gu, per glossary. 可比...好多了: far better than. 雨声小了: rain sound small — lessening. 停息的迹象: signs of stopping.
 **Sources:** 本命蛊: vital Gu, most important Gu for Gu Master, per Ch8. 一丁点: 极小. 迹象: sign.
 
@@ -442,7 +442,7 @@
 ### P62
 **Chinese:** 门外传来贴身丫鬟沈翠的声音：“方源少爷，是奴婢。这三天雨连下着，奴婢这就给您带来了一些酒菜，少爷吃喝一些，也能解些乏闷。”
 **Literal:** Outside door传来 personal maid Shen Cui's voice: Young Master Fang Yuan, is slave. These three days rain continuously falling着, slave this then for you brought some wine dishes, young master eat drink some, also can relieve some乏闷.
-**Peak:** From outside the door came the voice of his personal maid Shen Cui. "Young Master Fang Yuan, it is your servant. This rain has fallen for three days continuously. Your servant has brought you some wine and dishes. Young master, eat and drink a little, it may relieve some weariness and melancholy."
+**Peak:** From outside the door came the voice of his personal maid Shen Cui. "Young Master Fang Yuan, it is your servant. This rain has fallen for three days continuously. Your servant has brought you some wine and food. Young master, eat and drink a little; it may ease some of your weariness and melancholy."
 **Analysis:** 贴身丫鬟: personal maid, close-body maid — 贴身 = close to body, personal. 沈翠: Shen Cui — maid, Ch3. 奴婢: slave, self-deprecating term for maid — 奴婢. 酒菜: wine and dishes — 酒菜, wine dishes. 乏闷: weariness and dullness,乏=weary,闷=dull, bored. 解些乏闷: relieve weariness.
 **Sources:** 贴身丫鬟: 贴身侍女. 奴婢: 古代婢女自称. 乏闷: 疲乏郁闷.
 
