@@ -6,7 +6,7 @@ The sky still held a little light, yet all things seemed veiled in grey. Through
 
 Within the living room, the light was dim. Uncle and Aunt sat high upon the seats of honour, their faces and expressions shrouded in shadow, scarcely to be discerned.
 
-At the sight of the two jars of wine Fang Yuan had brought with him, Uncle's brow furrowed. He said, “How time slips by. You are fifteen already. That you both possess Gu Master aptitude, and Fang Zheng in particular, Aunt and I are proud. I have set aside six primeval stones for each of you. Brothers, take them. Refining Gu worms devours primeval essence at a great rate, so you will need them.”
+Seeing the two jars of wine Fang Yuan had brought, Uncle Gu Yue Dong Tu's brow furrowed. He said, “How time flies, you are both fifteen already. You both possess Gu Master aptitude, Fang Zheng especially. Your aunt and I are proud of you both. I have set aside six primeval stones for each of you. Take them, brothers. Refining Gu worms consumes primeval essence at a great rate. You shall have need of these stones.”
 
 As he spoke, a servant came forward and handed each brother a small pouch.
 
@@ -58,7 +58,7 @@ The sun sank wholly beneath the mountains, and the hall grew ever more gloomy.
 
 After a long while, Uncle's cold voice came from the gloom. “It seems this little bastard Fang Yuan has seen through our scheme.”
 
-Among Gu Yue clan rules, there is a clear provision: the eldest son at sixteen possesses the qualification to inherit family property.
+Among Gu Yue Clan rules, there is a clear provision: the eldest son at sixteen possesses the qualification to inherit family property.
 
 Fang Yuan's parents had already passed, leaving behind a not inconsiderable inheritance, all of it being kept by Uncle and Aunt.
 
@@ -102,7 +102,7 @@ A fresh surge of gratitude rose in Fang Zheng's heart. He said nothing more, onl
 
 The clouds above thickened, and with them the night deepened. The stars were all but veiled, save for a few that still glimmered faintly, struggling against the gloom.
 
-“Uncle and Aunt should be plotting how to expel me from the household. In the previous life they secretly instigated servants to provoke me, then framed me, and in the end expelled me. I wonder what change there will be in this life.” Fang Yuan walked along the street, sneering coldly within his heart.
+*“Uncle and Aunt should be plotting how to expel me from the household. In the previous life they secretly instigated servants to provoke me, then framed me, and in the end expelled me. I wonder what change there will be in this life.”* Fang Yuan walked along the street, sneering coldly within his heart.
 
 As for the true colours of Uncle and Aunt, he had seen through them long ago.
 
@@ -150,4 +150,4 @@ Fang Zheng's heart stirred. “Then bring it in.”
 
 Shen Cui entered, sashaying as she came, her waist swaying with deliberate allure, her face full of coquettish charm.
 
-“Your servant greets Young Master Fang Zheng.” Her eyes brimmed with autumn waves as she gazed upon Fang Zheng. Fang Yuan was only Grade C, but Fang Zheng possessed Grade A aptitude. To cling to him would be true great fortune.
+“Your servant greets Young Master Fang Zheng.” Her eyes brimmed with autumn waves as she gazed upon Fang Zheng, thinking: "Fang Yuan is only Grade C, but Fang Zheng is of Grade A aptitude. To latch onto him, that would be truly great fortune!"

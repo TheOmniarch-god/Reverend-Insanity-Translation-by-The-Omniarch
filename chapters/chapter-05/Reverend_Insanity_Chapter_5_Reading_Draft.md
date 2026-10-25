@@ -12,7 +12,7 @@ The pressure came from the spirit spring deep within the flower field. The prime
 
 But soon, a cluster of lights rose from the flowers beside Fang Yuan’s feet. The lights drifted around him, enveloping his entire body, before every last one entered it.
 
-“These are Hope Gu,” Fang Yuan murmured inwardly. The elder in charge had not explained, but Fang Yuan knew perfectly well.
+*“These are Hope Gu,”* Fang Yuan murmured inwardly. The elder in charge had not explained, but Fang Yuan knew perfectly well.
 
 Every point of light was an individual Gu.
 
@@ -82,7 +82,7 @@ The mass of light grew larger and brighter.
 
 But across the river, the elder in charge frowned.
 
-“There seem to be rather few Hope Gu.” At the sight, the hearts of the many elders who had been discreetly watching Fang Yuan sank.
+*“There seem to be rather few Hope Gu.”* At the sight, the hearts of the many elders who had been discreetly watching Fang Yuan sank.
 
 The Clan Leader frowned as well. These were certainly not the signs one would expect from Grade A aptitude!
 

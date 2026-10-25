@@ -153,9 +153,9 @@ Rules: British spelling, no em dashes, wall recesses (not tiers), Flower-Wine Mo
 
 ### Line 20
 **1. Original:** 蛊名月光，是古月一族的镇族蛊虫，绝大多数的族人都选择它成为本命蛊。它并非是天然蛊虫，而是经过古月一族的秘法培育而来，其他地方没有，可以说是古月一族的标志象征。
-**2. Literal breakdown:** 蛊名=Gu name, 月光=Moonlight, 是=is, 古月一族的=Gu Yue clan's, 镇族蛊虫=clan-guarding Gu (镇=guards/suppresses), 绝大多数的=vast majority of, 族人=clansmen/clan members, 都选择它=all choose it, 成为本命蛊=become vital Gu, 它并非是=it is not, 天然蛊虫=natural Gu worm (天然=heaven-born natural, not wild beast), 而是=but rather, 经过...秘法培育而来=cultivated through secret method, 其他地方没有=nowhere else has, 可以说是=can be said to be, 标志象征=emblem/symbol.
+**2. Literal breakdown:** 蛊名=Gu name, 月光=Moonlight, 是=is, 古月一族的=Gu Yue Clan's, 镇族蛊虫=clan-guarding Gu (镇=guards/suppresses), 绝大多数的=vast majority of, 族人=clansmen/clan members, 都选择它=all choose it, 成为本命蛊=become vital Gu, 它并非是=it is not, 天然蛊虫=natural Gu worm (天然=heaven-born natural, not wild beast), 而是=but rather, 经过...秘法培育而来=cultivated through secret method, 其他地方没有=nowhere else has, 可以说是=can be said to be, 标志象征=emblem/symbol.
 **3. Translation judgment:** 天然 = natural (heaven-born, not found in nature), not wild (wild adds untamed/bestial). Moonlight Gu is never found in nature, only cultivated. Use natural for author-intent. 族人 explicit — keep "of clansmen".
-**4. Proposed rendering (present, literary, lore-accurate):** Its name is Moonlight, the guardian Gu worm of the Gu Yue clan, chosen by the vast majority of clansmen as their vital Gu. It is no natural Gu worm, but one cultivated through the Gu Yue clan's secret methods and found nowhere else. It can be said to be the very emblem of the Gu Yue clan.
+**4. Proposed rendering (present, literary, lore-accurate):** Its name is Moonlight, the guardian Gu worm of the Gu Yue Clan, chosen by the vast majority of clansmen as their vital Gu. It is no natural Gu worm, but one cultivated through the Gu Yue Clan's secret methods and found nowhere else. It can be said to be the very emblem of the Gu Yue Clan.
 
 ---
 
@@ -291,7 +291,7 @@ Rules: British spelling, no em dashes, wall recesses (not tiers), Flower-Wine Mo
 **1. Original:** “每天两坛酒，已经整整七天了。原先积攒的元石，差不多都花完了。”拎着两坛酒出了酒店，方源眉头微微皱着。
 **2. Literal breakdown:** Every day / two jars wine, already / full / seven days. Originally / accumulated / primeval stones, almost all / spent. Carrying / two jars wine / exited / shop, Fang Yuan / brows / slightly / wrinkled.
 **3. Translation judgment:** Present tense for world-facts that stay true, past for narrative. Keep concise, British spelling, no em dashes.
-**4. Proposed rendering (present, literary, lore-accurate):** "Two jars of wine every day for seven days straight. The primeval stones I accumulated are almost all spent." Carrying two jars out of the shop, Fang Yuan furrowed his brows slightly.
+**4. Proposed rendering (present, literary, lore-accurate):** "Two jars of wine every day for seven days straight. The primeval stones I accumulated are almost all spent." Carrying two jars out of the shop, Fang Yuan furrowed his brow slightly.
 
 ---
 
@@ -339,7 +339,7 @@ Rules: British spelling, no em dashes, wall recesses (not tiers), Flower-Wine Mo
 **1. Original:** 就在这时，身后响起古月方正的声音：“哥哥，你果真又来酒馆买醉！跟我来，舅父舅母要见你。”
 **2. Literal breakdown:** Just at / this time, behind / rings / Gu Yue Fang Zheng's / voice: Brother, you / really / again / come / wine shop / buy drunk! Follow / me / come, uncle and aunt / want / see you.
 **3. Translation judgment:** Present tense for world-facts that stay true, past for narrative. Keep concise, British spelling, no em dashes.
-**4. Proposed rendering (present, literary, lore-accurate):** Just then, Gu Yue Fang Zheng's voice resonated from behind him: "Brother, you have truly returned to the wine shop to indulge in wine once more! Come with me; our uncle and aunt wish to see you."
+**4. Proposed rendering (present, literary, lore-accurate):** Just then, Gu Yue Fang Zheng's voice came from behind him: "Brother, you have truly returned to the wine shop to drink yourself senseless again! Come with me; our uncle and aunt wish to see you."
 
 ---
 

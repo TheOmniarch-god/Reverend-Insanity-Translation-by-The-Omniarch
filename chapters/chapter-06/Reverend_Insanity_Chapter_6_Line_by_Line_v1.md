@@ -212,7 +212,7 @@
 
 **Judgment:** 淡然 is calm to the point of detachment. Not 'wry', not 'bitter'. The whole force of the chapter depends on him being genuinely unmoved.
 
-**Proposal:** “Just as in my previous life.” He gave a calm smile at the result.
+**Proposal:** *“Just as in my previous life.”* He gave a calm smile at the result.
 
 **Source:** No external source needed. Ordinary vocabulary; rendering fixed by context and by our established glossary.
 
@@ -1116,7 +1116,7 @@ The aperture was open. No more Hope Gu flowed into Fang Yuan's body.
 
 Fang Yuan withdrew his attention. He felt only that the pressure ahead was as thick and solid as a wall, and that he could not advance another step.
 
-“Just as in my previous life.” He gave a calm smile at the result.
+*“Just as in my previous life.”* He gave a calm smile at the result.
 
 “Can you go no further?” The academy elder called from across the river, clinging to a hope of one in ten thousand.
 

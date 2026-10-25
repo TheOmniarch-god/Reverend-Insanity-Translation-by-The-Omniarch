@@ -39,7 +39,7 @@ Slightly higher up among those wall recesses was a row of silver plates. Upon ea
 
 This Gu worm was crystal clear and curved like a crescent moon, resembling a piece of blue crystal. Set against the silver base of the plate, it radiated a serene, ethereal aura.
 
-Its name was Moonlight, the guardian Gu worm of the Gu Yue clan, chosen by the vast majority as their vital Gu. It was no wild Gu worm, but one cultivated through the Gu Yue clan's secret methods and found nowhere else. It could be said to be the very emblem of the Gu Yue clan.
+Its name was Moonlight, the guardian Gu worm of the Gu Yue Clan, chosen by the vast majority as their vital Gu. It was no wild Gu worm, but one cultivated through the Gu Yue Clan's secret methods and found nowhere else. It could be said to be the very emblem of the Gu Yue Clan.
 
 All were Rank I Moonlight Gu, differences were extremely subtle. Fang Yuan casually picked one and held it in his hand.
 
@@ -73,7 +73,7 @@ Compared to gold, the purchasing power of primeval stones was even more astonish
 
 However, no matter how many primeval stones one had, they could not withstand Fang Yuan's continuous consumption like this.
 
-"Two jars of wine every day, for seven days straight. The primeval stones I had saved up were almost all spent." Carrying two jars out of the shop, Fang Yuan furrowed his brows slightly.
+"Two jars of wine every day, for seven days straight. The primeval stones I had saved up were almost all spent." Carrying two jars out of the shop, Fang Yuan furrowed his brow slightly.
 
 Once one became a Gu Master, one could directly extract pure primeval essence from a primeval stone to replenish the primeval sea in the aperture.
 

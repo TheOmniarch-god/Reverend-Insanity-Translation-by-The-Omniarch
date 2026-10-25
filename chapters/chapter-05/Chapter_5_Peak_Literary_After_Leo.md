@@ -2,11 +2,11 @@
 
 His surroundings fell silent in an instant. Countless eyes turned toward him.
 
-“This grows more interesting by the moment.” Fang Yuan smiled inwardly. Under everyone’s watchful gaze, he waded across the river and stepped onto the opposite bank.
+*“This grows more interesting by the moment.”* Fang Yuan smiled inwardly. Under everyone’s watchful gaze, he waded across the river and stepped onto the opposite bank.
 
 Immediately, he felt a pressure bearing down upon him. It emanated from the spirit spring deep within the flower field; the primeval qi it produced was so concentrated that it generated this tangible weight. But soon, a cluster of lights rose from the flowers beside his feet. They drifted around him, enveloping his entire body before every last one entered his skin.
 
-“These are Hope Gu,” Fang Yuan murmured inwardly. The elder in charge had not explained, but Fang Yuan knew perfectly well.
+*“These are Hope Gu,”* Fang Yuan murmured inwardly. The elder in charge had not explained, but Fang Yuan knew perfectly well.
 
 Every point of light was an individual Gu.
 
@@ -38,7 +38,7 @@ At that moment, the stream of Hope Gu gathered and entered Fang Yuan’s body. U
 
 The mass grew larger and brighter. But across the river, the elder in charge's brow furrowed.
 
-“There seem to be rather few Hope Gu.” At the sight, the hearts of the many elders who had been discreetly watching Fang Yuan sank.
+*“There seem to be rather few Hope Gu.”* At the sight, the hearts of the many elders who had been discreetly watching Fang Yuan sank.
 
 The Clan Leader's brow furrowed as well. These were certainly not the signs one would expect from Grade A aptitude.
 

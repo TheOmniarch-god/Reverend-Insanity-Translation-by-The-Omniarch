@@ -6,11 +6,11 @@ Legend speaks of a River of Time in this world, sustaining the flow of all exist
 
 The price was staggering. Yet what made it truly unbearable was that even after paying with one’s life, the outcome remained unknown. Even if someone obtained the Spring Autumn Cicada, they would never dare use it on a whim. What if the rumour was false, nothing more than a hoax? If Fang Yuan had not been driven to a dead end, he would not have used it so readily. Now, however, Fang Yuan believed completely and thoroughly. For the ironclad truth lay before his eyes, beyond all dispute. He had indeed been reborn!
 
-“It is a pity, such a fine Gu. Back then, it took monumental effort, the slaughter of hundreds of thousands of people, stirring the wrath of heaven and the resentment of men, enduring endless tribulations before I finally refined it…” Fang Yuan sighed inwardly. Though he had been reborn, the Spring Autumn Cicada had not travelled back with him.
+*“It is a pity, such a fine Gu. Back then, it took monumental effort, the slaughter of hundreds of thousands of people, stirring the wrath of heaven and the resentment of men, enduring endless tribulations before I finally refined it…”* Fang Yuan sighed inwardly. Though he had been reborn, the Spring Autumn Cicada had not travelled back with him.
 
 Humans are the spirit of all living things; Gu are the essence of heaven and earth. Gu were bizarre and varied, countless in number. Some Gu would completely dissipate after being used once or twice. Others, so long as they were not overused, could be used repeatedly. Perhaps the Spring Autumn Cicada was simply that kind of expendable Gu that could only be used once.
 
-“However, even if it is gone, I can simply refine another one. If I could refine it in my past life, could I not in this life?” Pity aside, a surge of ambitious pride could not help but rise in Fang Yuan’s heart.
+*“However, even if it is gone, I can simply refine another one. If I could refine it in my past life, could I not in this life?”* Pity aside, a surge of ambitious pride could not help but rise in Fang Yuan’s heart.
 
 To have been reborn, the loss of the Spring Autumn Cicada was entirely acceptable. Moreover, he still carried a priceless treasure; he was far from empty-handed. This treasure was his five hundred years of memories and experience. Within his memory lay countless secret troves, currently unopened by anyone. There lay major historical events one by one, allowing him to easily grasp the pulse of history. There lay countless figures: some were hidden experts who cultivated in deep seclusion, some were extraordinary prodigies, and some were not even born yet. There also lay the grueling experience of bitter cultivation over these five hundred years, and a rich reservoir of battle experience.
 
@@ -32,7 +32,7 @@ Through the eyes of an Overlord of the Demonic Path tempered by five hundred yea
 
 At the thought of the Aperture Opening Ceremony, memories long buried in dust surfaced within Fang Yuan’s heart.
 
-“Aptitude, is it…?” Gazing out the window, he let slip three cold chuckles.
+*“Aptitude, is it…?”* Gazing out the window, he let slip three cold chuckles.
 
 Just then, the room door was gently pushed open, and a youth walked in.
 
@@ -46,7 +46,7 @@ Fang Zheng lowered his head, looking down at his toes, his trademark habit. “S
 
 Born from the same womb at the same time, why was heaven so unfair? It had granted his brother diamond-like talent, while he was ordinary as a roadside stone. Everyone around him, whenever mentioning him, would always say: “This is Fang Yuan’s brother.” His uncle and aunt also often lectured him: “You must learn from your brother.” Sometimes, even seeing his own reflection filled him with quiet disgust. These thoughts had festered for many years, accumulating deep inside his heart day by day. They weighed upon his chest like a boulder. Over the years, Fang Zheng’s head had hung lower and lower, and his silence grew ever deeper.
 
-“Worry…?” Thinking of his uncle and aunt, Fang Yuan scoffed inwardly.
+*“Worry…?”* Thinking of his uncle and aunt, Fang Yuan scoffed inwardly.
 
 He remembered very clearly that the parents of this body had both fallen during a clan mission. When he was merely three years old, he and his brother had become orphans. Under the pretext of raising them, his uncle and aunt had openly and legally usurped their parents’ inheritance and treated the two brothers harshly. Originally, as a transmigrator, he had planned to bide his time in obscurity. But the hardship of survival had forced Fang Yuan to choose to display talent beyond that of ordinary folk. The so-called “genius” was actually nothing more than the rationality of a mature soul, paired with a few Tang poems and Song verses from Earth that echoed through generations.
 
@@ -68,7 +68,7 @@ Thinking from their perspective, he could also understand his brother, his uncle
 
 If someone stood in the way of this pursuit, no matter who, it was nothing more than: either you die or I live. The wild ambition in his heart was too immense. Stepping onto this path, one was destined to make enemies of the entire world, destined to walk alone, and destined to face relentless tribulations. This was the enlightenment distilled from five hundred years of life.
 
-“Vengeance is not my intention, and the demonic path has never known the word compromise.” Thinking to this point, Fang Yuan could not help but laugh. Turning his head towards this brother of his, taking a faint glance, he said: “You can go.”
+*“Vengeance is not my intention, and the demonic path has never known the word compromise.”* Thinking to this point, Fang Yuan could not help but laugh. Turning his head towards this brother of his, taking a faint glance, he said: “You can go.”
 
 Fang Zheng felt a sudden tremor in his heart, feeling that his brother’s gaze was as sharp as an icy blade, seeming to pierce into the deepest part of his heart. Under that gaze, he felt as if he were standing naked in the snow, every secret laid bare.
 

@@ -4,7 +4,7 @@ Within the aperture, naturally, lay the primeval sea. The water lay smooth as a 
 
 It was with this primeval essence that a Gu Master drove his Gu worms. Which was to say, from this moment on, Fang Yuan had formally stepped into the ranks of Rank 1 Gu Masters. The aperture was open. No more Hope Gu flowed into Fang Yuan’s body. Fang Yuan withdrew his attention. He felt only that the pressure ahead was as thick and solid as a wall, and that he could not advance another step.
 
-“Just as in my previous life.” He gave a faint, indifferent smile at the result.
+*“Just as in my previous life.”* He gave a faint, indifferent smile at the result.
 
 “Can you go no further?” The academy elder called from across the river, still clinging to that one chance in ten thousand.
 
@@ -70,11 +70,11 @@ But just then he felt a great force yank at him, and his head came up out of the
 
 The laughter grew louder still, and the academy elder did not step forward to stop it. He frowned deeply, filled with disappointment. Fang Zheng was at a complete loss, and then his elder brother’s voice came at his ear. “Go on. The road to the future will be interesting.” Fang Zheng’s mouth fell open in surprise. Fang Yuan had his back to the crowd just then, so no one on the bank could see clearly. But Fang Zheng felt his calm distinctly, and saw that as he spoke the corners of his mouth even curved faintly upward, letting slip a deep, savouring trace of a smile.
 
-“He’s obviously only of Grade C aptitude. So why is my elder brother still this calm?” Fang Zheng filled with doubt in spite of himself.
+*“He’s obviously only of Grade C aptitude. So why is my elder brother still this calm?”* Fang Zheng filled with doubt in spite of himself.
 
 Fang Yuan said nothing further. He patted Fang Zheng on the back, turned, and walked away. Still dazed, Fang Zheng walked toward the flower field.
 
-“I’d never have thought my elder brother could be this calm. If it were me, I’m afraid…” His head was down and he walked on without thinking, not knowing that he was in the middle of staging a miraculous performance.
+*“I’d never have thought my elder brother could be this calm. If it were me, I’m afraid…”* His head was down and he walked on without thinking, not knowing that he was in the middle of staging a miraculous performance.
 
 By the time he came to himself with a start, he was standing deep in the flower field, at a distance no one before him had reached.
 

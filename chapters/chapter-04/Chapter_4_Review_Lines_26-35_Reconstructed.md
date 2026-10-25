@@ -261,10 +261,10 @@ Unfortunately, this youth managed only four steps. He, too, lacked aptitude.
 
 3. Translation judgment
 
-The passage distinguishes the general expectation from the Gu Yue clan’s higher proportion.
+The passage distinguishes the general expectation from the Gu Yue Clan’s higher proportion.
 
 It concerns whether people possess cultivation aptitude at all, not the percentage with Grade A talent. Retaining “five out of ten” and “six out of ten” follows the source’s accessible numerical comparison.
 
 4. Proposed rendering
 
-Not everyone possessed the aptitude to cultivate. Generally, five people out of ten being able to cultivate was already considered good. In the Gu Yue clan, the proportion was somewhat higher: six out of ten.
+Not everyone possessed the aptitude to cultivate. Generally, five people out of ten being able to cultivate was already considered good. In the Gu Yue Clan, the proportion was somewhat higher: six out of ten.

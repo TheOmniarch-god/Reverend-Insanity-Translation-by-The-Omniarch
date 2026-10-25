@@ -233,7 +233,7 @@ Numerical percentages are central to worldbuilding. Keep exact percentages. Avoi
 Simple explanation, humble tone of elder.
 
 4. Proposed rendering
-"As for Gu Masters of Rank 6 and above, each one is a legend. I am not too clear on the specifics myself. Our Gu Yue clan has never produced a Rank 6 Gu Master, but we have had Rank 4 and Rank 5 Gu Masters before."
+"As for Gu Masters of Rank 6 and above, each one is a legend. I am not too clear on the specifics myself. Our Gu Yue Clan has never produced a Rank 6 Gu Master, but we have had Rank 4 and Rank 5 Gu Masters before."
 
 ---
 
@@ -636,7 +636,7 @@ Youthful bravado.
 Emphatic double negative.
 
 4. Proposed rendering
-There was not a single Gu Yue clansman who did not know the story of the fourth generation clan leader and the Flower-Wine Monk.
+There was not a single Gu Yue Clansman who did not know the story of the fourth generation clan leader and the Flower-Wine Monk.
 
 ---
 
@@ -697,7 +697,7 @@ The clan leader flew into a great rage and killed Flower-Wine Monk on the spot, 
 Conclusion of legend.
 
 4. Proposed rendering
-Therefore, in the hearts of all Gu Yue clansmen, the fourth generation clan leader was a heroic figure who sacrificed himself for the village.
+Therefore, in the hearts of all Gu Yue Clansmen, the fourth generation clan leader was a heroic figure who sacrificed himself for the village.
 
 ---
 
@@ -1084,7 +1084,7 @@ Elder Gu Yue nodded and waved his hand for the youth to sit down. "Gu Masters ha
 
 "With Grade D aptitude, the primeval sea occupies twenty to thirty percent of the aperture. Such a person can often cultivate at most to Rank 1 or Rank 2. With Grade C aptitude, the primeval sea is forty to fifty percent of the aperture. Such people usually stop at Rank 2, and only a very small number can luckily break through to initial stage Rank 3. With Grade B aptitude, the primeval sea occupies sixty to seventy percent of the whole aperture. They can cultivate to Rank 3, even Rank 4. With Grade A aptitude, the primeval sea is abundant, eighty to ninety percent of the aperture. Naturally such people have the highest talent, are the most suited to Gu Master cultivation, and can cultivate to Rank 5."
 
-"As for Gu Masters of Rank 6 and above, each one is a legend. I am not too clear on the specifics myself. Our Gu Yue clan has never produced a Rank 6 Gu Master, but we have had Rank 4 and Rank 5 Gu Masters before."
+"As for Gu Masters of Rank 6 and above, each one is a legend. I am not too clear on the specifics myself. Our Gu Yue Clan has never produced a Rank 6 Gu Master, but we have had Rank 4 and Rank 5 Gu Masters before."
 
 The youths all pricked up their ears and listened with eyes shining bright.
 
@@ -1128,13 +1128,13 @@ Below the lectern, the youths all cried out, filled with righteous indignation.
 
 "I only hate that I was not born a few hundred years earlier. Otherwise, if I had met that demon, I would certainly have fought to the death to expose his ugly true face."
 
-There was not a single Gu Yue clansman who did not know the story of the fourth generation clan leader and the Flower-Wine Monk.
+There was not a single Gu Yue Clansman who did not know the story of the fourth generation clan leader and the Flower-Wine Monk.
 
 Flower-Wine Monk was also a Rank 5 Gu Master, a lecherous bandit who had done evil for many years and was notorious in the demonic path at that time. Several hundred years ago, he drifted to Qing Mao Mountain and tried to commit crimes in Gu Yue Village, but was seen through by the fourth generation clan leader. After an earth-shaking fierce battle, Flower-Wine Monk was beaten to his knees begging for mercy. The fourth generation clan leader, kind hearted and benevolent, intended to spare his life. As a result, Flower-Wine Monk suddenly launched a sneak attack and gravely wounded the fourth generation clan leader.
 
 The clan leader flew into a great rage and killed Flower-Wine Monk on the spot, but afterward his grave injuries could not be treated, and he passed away.
 
-Therefore, in the hearts of all Gu Yue clansmen, the fourth generation clan leader was a heroic figure who sacrificed himself for the village.
+Therefore, in the hearts of all Gu Yue Clansmen, the fourth generation clan leader was a heroic figure who sacrificed himself for the village.
 
 "Flower-Wine Monk, huh..." Woken by the denunciations in the academy, Fang Yuan in the corner opened his bleary sleepy eyes.
 

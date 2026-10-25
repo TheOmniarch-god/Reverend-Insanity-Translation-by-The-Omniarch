@@ -265,13 +265,13 @@ Unfortunately, this youth managed only four steps. He, too, lacked aptitude.
 
 3. Translation judgment
 
-The passage distinguishes the general expectation from the Gu Yue clan’s higher proportion.
+The passage distinguishes the general expectation from the Gu Yue Clan’s higher proportion.
 
 It concerns whether people possess cultivation aptitude at all, not the percentage with Grade A talent. Retaining “five out of ten” and “six out of ten” follows the source’s accessible numerical comparison.
 
 4. Proposed rendering
 
-Not everyone possessed the aptitude to cultivate. Generally, five people out of ten being able to cultivate was already considered good. In the Gu Yue clan, the proportion was somewhat higher: six out of ten.
+Not everyone possessed the aptitude to cultivate. Generally, five people out of ten being able to cultivate was already considered good. In the Gu Yue Clan, the proportion was somewhat higher: six out of ten.
 
 ---
 
@@ -295,7 +295,7 @@ The source explicitly uses 基因, “genes.” Retain this unusual biological v
 
 4. Proposed rendering
 
-This was because the Gu Yue ancestor—the first clan leader—had been a renowned, legendary expert. His cultivation had caused genes carrying power to lie hidden within his bloodline. As his descendants, members of the Gu Yue clan generally possessed higher aptitude.
+This was because the Gu Yue ancestor—the first clan leader—had been a renowned, legendary expert. His cultivation had caused genes carrying power to lie hidden within his bloodline. As his descendants, members of the Gu Yue Clan generally possessed higher aptitude.
 
 ---
 
@@ -656,7 +656,7 @@ The forecast depends on Mo Bei developing successfully. “Fulfilled his potenti
 
 4. Proposed rendering
 
-In other words, provided Gu Yue Mo Bei fulfilled his potential, he would become an elder of the Gu Yue clan. No wonder the Academy Elder laughed in delight. The elders observing discreetly all breathed a sigh of relief, then turned to one of their colleagues with envy.
+In other words, provided Gu Yue Mo Bei fulfilled his potential, he would become an elder of the Gu Yue Clan. No wonder the Academy Elder laughed in delight. The elders observing discreetly all breathed a sigh of relief, then turned to one of their colleagues with envy.
 
 ---
 
@@ -960,11 +960,11 @@ This time, it was Gu Yue Mo Chen’s turn to look livid.
 
 3. Translation judgment
 
-The line shifts to Fang Yuan’s inward recognition. “Gu Yue Chi Cheng…” reproduces the reflective pause without turning it into an actual request for information.
+The line shifts to Fang Yuan’s inward recognition. *“Gu Yue Chi Cheng…”* reproduces the reflective pause without turning it into an actual request for information.
 
 4. Proposed rendering
 
-“Gu Yue Chi Cheng…” Amid the crowd, Fang Yuan thoughtfully rubbed his chin.
+*“Gu Yue Chi Cheng…”* Amid the crowd, Fang Yuan thoughtfully rubbed his chin.
 
 ---
 
@@ -1135,7 +1135,7 @@ The incident is not yet identified as an accident, a chance discovery, or anythi
 
 4. Proposed rendering
 
-“Gu Yue Chi Lian and Gu Yue Mo Chen have long been enemies. They head the clan’s two largest factions. To undermine his rival, Chi Lian needs his grandson to have outstanding aptitude. It was his protection behind the scenes that allowed Chi Cheng to conceal the truth for a time. As I remember it, the deception would never have come to light without that unexpected incident.”
+*“Gu Yue Chi Lian and Gu Yue Mo Chen have long been enemies. They head the clan’s two largest factions. To undermine his rival, Chi Lian needs his grandson to have outstanding aptitude. It was his protection behind the scenes that allowed Chi Cheng to conceal the truth for a time. As I remember it, the deception would never have come to light without that unexpected incident.”*
 
 ---
 

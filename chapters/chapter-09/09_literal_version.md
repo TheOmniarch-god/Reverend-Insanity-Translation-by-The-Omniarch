@@ -126,7 +126,7 @@
 
 ### P30
 **Chinese:** 古月一族的族规中，有明文规定：十六岁的长子，有继承家产的资格。
-**Literal:** Gu Yue clan's clan rules中, have clear regulation: sixteen year old eldest son, has qualification to inherit family property.
+**Literal:** Gu Yue Clan's clan rules中, have clear regulation: sixteen year old eldest son, has qualification to inherit family property.
 
 ### P31
 **Chinese:** 方源的双亲，已经亡故，留下一笔不菲的遗产，都被舅父舅母“保管”着。

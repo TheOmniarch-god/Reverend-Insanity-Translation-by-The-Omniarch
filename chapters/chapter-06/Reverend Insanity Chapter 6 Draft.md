@@ -156,7 +156,7 @@ I started with congealed and changed it. Han Dian defines 凝结 as gas turning 
 
 **Literal:** ’Just as in the previous life.’ At this result he gave a 淡然 smile.
 
-**Draft:** “Just as in my previous life.” He gave a faint, indifferent smile at the result.
+**Draft:** *“Just as in my previous life.”* He gave a faint, indifferent smile at the result.
 
 Han Dian defines 淡然 as 漫不经心、毫不在意的样子, offhand and not minding in the slightest, English indifferently, coldly. A second gloss adds tranquil and calm. Both readings exist, but the core is not caring. Calm on its own is too neutral, it could just mean composed. Indifferent is the actual weight, and it is the point of the chapter.
 
@@ -796,7 +796,7 @@ The clumsiest line in my first pass. 愣愣 is dazed or blank, and hanging it on
 
 **Literal:** ’I never thought elder brother could be this calm. If it were me, I’m afraid…’ He lowered his head, walking forward without awareness. Yet he did not know he was staging a miracle-style performance.
 
-**Draft:** “I’d never have thought my elder brother could be this calm. If it were me, I’m afraid…” His head was down and he walked on without thinking, not knowing that he was in the middle of staging a miraculous performance.
+**Draft:** *“I’d never have thought my elder brother could be this calm. If it were me, I’m afraid…”* His head was down and he walked on without thinking, not knowing that he was in the middle of staging a miraculous performance.
 
 上演着一场奇迹式的表演 stacks two theatre words. 上演 is to stage or mount, the word for putting on a play or screening a film, and 表演 is the performance itself, with 奇迹式的 meaning of the miraculous kind. Staging a miracle was tighter, but it threw away the audience, and the audience is the joke: this is a show, with watchers, and the performer is the only person not watching. Restoring performance costs a little speed and buys back the irony.
 

@@ -196,7 +196,7 @@ You were right on viscosity. 浓稠 has no headword of its own in Han Dian, but 
 
 **Rough:** 'Just as in the previous life.' At this result he gave a 淡然 smile.
 
-**Draft:** “Just as in my previous life.” He gave a faint, indifferent smile at the result.
+**Draft:** *“Just as in my previous life.”* He gave a faint, indifferent smile at the result.
 
 You were circling the right answer. I checked: Han Dian defines 淡然 as 漫不经心、毫不在意的样子, offhand and not minding in the slightest, English given as indifferently, coldly. A second gloss adds tranquil and calm. So both readings exist, but the core is not caring. Calm on its own is too neutral, it could just mean composed. Indifferent is the actual weight, and it is the point of the chapter, so I have taken your instinct.
 
@@ -978,7 +978,7 @@ The aperture was open. No more Hope Gu flowed into Fang Yuan's body.
 
 Fang Yuan withdrew his attention. He felt only that the pressure ahead was as thick and solid as a wall, and that he could not advance another step.
 
-“Just as in my previous life.” He gave a faint, indifferent smile at the result.
+*“Just as in my previous life.”* He gave a faint, indifferent smile at the result.
 
 “Can you go no further?” The academy elder called from across the river, still clinging to that one chance in ten thousand.
 

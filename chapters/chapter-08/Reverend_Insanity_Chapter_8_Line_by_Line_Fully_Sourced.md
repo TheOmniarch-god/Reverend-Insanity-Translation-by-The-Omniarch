@@ -322,7 +322,7 @@ This Gu worm was crystal clear, curved like the moon, like a piece of blue cryst
 本命蛊 as vital Gu bound to life [5](https://true-reverend-insanity.fandom.com/wiki/Vital_Gu), Gu divided into nine tiers [6](https://reverend-insanity.fandom.com/wiki/Gu) plus Primeval Essence condensation [9](https://reverend-insanity.fandom.com/wiki/Primeval_Essence) and Aptitude table [10](https://reverend-insanity.fandom.com/wiki/Gu_Master)
 
 4. Proposed rendering
-Its name was Moonlight, the clan's guardian Gu worm of Gu Yue clan, the vast majority of clansmen choose it as vital Gu. It is not a natural Gu worm, but cultivated through Gu Yue clan's secret method, nowhere else exists; it can be said to be the emblem of Gu Yue clan.
+Its name was Moonlight, the clan's guardian Gu worm of Gu Yue Clan, the vast majority of clansmen choose it as vital Gu. It is not a natural Gu worm, but cultivated through Gu Yue Clan's secret method, nowhere else exists; it can be said to be the emblem of Gu Yue Clan.
 
 ---
 
@@ -594,7 +594,7 @@ However, no amount of primeval stones can withstand Fang Yuan's continuous consu
 Primeval stones currency and essence, recovery C 4%/h [7](https://www.wattpad.com/1038063629-reverend-insanity-chapter-10-a-storm-may-arise/page/2), Recovery formula 10% of aptitude [8](https://forums.sufficientvelocity.com/threads/reverend-fortuity-reverend-insanity-cyoa-si.147760/) plus Primeval Essence condensation [9](https://reverend-insanity.fandom.com/wiki/Primeval_Essence) and Aptitude table [10](https://reverend-insanity.fandom.com/wiki/Gu_Master)
 
 4. Proposed rendering
-"Two jars of wine every day for seven days straight. The primeval stones I accumulated are almost all spent." Carrying two jars out of the shop, Fang Yuan furrowed his brows slightly.
+"Two jars of wine every day for seven days straight. The primeval stones I accumulated are almost all spent." Carrying two jars out of the shop, Fang Yuan furrowed his brow slightly.
 
 ---
 
@@ -690,7 +690,7 @@ Leaving the wine shop with two jars of wine in hand, Fang Yuan pondered as he wa
 Natural English and British spelling, chamber [1](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/chamber), 室 [2](https://dictionary.cambridge.org/dictionary/chinese-simplified-english/%E5%AE%A4)
 
 4. Proposed rendering
-Just then, Gu Yue Fang Zheng's voice resonated from behind him: "Brother, you have truly returned to the wine shop to indulge in wine once more! Come with me; our uncle and aunt wish to see you."
+Just then, Gu Yue Fang Zheng's voice came from behind him: "Brother, you have truly returned to the wine shop to drink yourself senseless again! Come with me; our uncle and aunt wish to see you."
 
 ---
 
