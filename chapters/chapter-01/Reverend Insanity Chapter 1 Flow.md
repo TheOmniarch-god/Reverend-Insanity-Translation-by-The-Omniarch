@@ -44,7 +44,7 @@ He had originally been a Huaxia student on Earth, cast into this foreign world t
 
 Countless memories buried deep within the bedrock of his soul awakened, playing across his mind with breathtaking, indelible clarity.
 
-“In the end, I failed after all,” Fang Yuan sighed in his heart. A trace of wistfulness stirred, yet not the faintest whisper of regret.
+*“In the end, I failed after all,”* Fang Yuan sighed in his heart. A trace of wistfulness stirred, yet not the faintest whisper of regret.
 
 This outcome was nothing he had not foreseen; the moment he made his choice centuries ago, he was already mentally prepared.
 

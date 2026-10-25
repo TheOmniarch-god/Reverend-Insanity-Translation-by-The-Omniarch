@@ -32,11 +32,11 @@ As the verse left his lips, memories of his past life on Earth surged unbidden b
 
 Countless memories buried deep within the bedrock of his soul awakened, playing across his mind with breathtaking, indelible clarity.
 
-“In the end, I failed after all,” Fang Yuan sighed in his heart. A trace of wistfulness stirred, yet not the faintest whisper of regret.
+*“In the end, I failed after all,”* Fang Yuan sighed in his heart. A trace of wistfulness stirred, yet not the faintest whisper of regret.
 
 This outcome was nothing he had not foreseen; the moment he made his choice centuries ago, he was already mentally prepared. For what was the Demonic Path? It was to accumulate no good karma, only murder and arson; spurned by heaven and reviled by earth, making enemies with the whole world, and still running wild, following the whim of one's own heart to the very end.
 
-“Should this Spring Autumn Cicada I have just refined prove effective, I shall yet remain a demon in the life to come!
+*“Should this Spring Autumn Cicada I have just refined prove effective, I shall yet remain a demon in the life to come!”*
 
 Thinking like this, Fang Yuan could not help laughing out loud.
 

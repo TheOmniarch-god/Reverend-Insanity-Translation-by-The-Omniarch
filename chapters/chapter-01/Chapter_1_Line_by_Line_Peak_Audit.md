@@ -141,7 +141,7 @@
 
 ### P14 — Failed Yet No Regret
 **Chinese:** “终究是失败了呀。”方源心中叹着，有些感慨，却并不后悔。
-**Current Live:** “In the end, I failed after all,” Fang Yuan sighed in his heart. A trace of wistfulness stirred, yet not the faintest whisper of regret.
+**Current Live:** *“In the end, I failed after all,”* Fang Yuan sighed in his heart. A trace of wistfulness stirred, yet not the faintest whisper of regret.
 **Analysis:** Perfect natural earnest internal dialogue. Sighed in his heart, trace of wistfulness stirred, not faintest whisper of regret. Tolkien + natural. Keep.
 **Proposed Peak:** Keep.
 
