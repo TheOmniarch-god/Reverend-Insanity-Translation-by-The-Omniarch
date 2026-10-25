@@ -1,6 +1,6 @@
 # Chapter 10: Heaven is Unpredictable, Refining Gu Holds Its Own Hardships
 
-Pitter-patter…
+Pat, pat, pat…
 
 Rain fell heavily, hitting the verdant bamboo buildings with crisp sounds.
 
