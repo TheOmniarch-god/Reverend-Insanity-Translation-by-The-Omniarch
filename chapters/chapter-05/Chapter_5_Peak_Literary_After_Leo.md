@@ -44,7 +44,7 @@ The Clan Leader's brow furrowed as well. These were certainly not the signs one 
 
 Fang Yuan continued forward against the pressure.
 
-“Fewer than ten steps means no aptitude. Ten to twenty is Grade D; twenty to thirty, Grade C; thirty to forty, Grade B; forty to fifty, Grade A. So far, I have taken twenty-three steps. Twenty-four… twenty-five… twenty-six… twenty-seven.”
+*“Fewer than ten steps means no aptitude. Ten to twenty is Grade D; twenty to thirty, Grade C; thirty to forty, Grade B; forty to fifty, Grade A. So far, I have taken twenty-three steps. Twenty-four… twenty-five… twenty-six… twenty-seven.”*
 
 At his twenty-seventh step, he seemed to hear a boom. The mass of light in his abdomen, between his kidneys, had reached its limit and suddenly burst.
 
