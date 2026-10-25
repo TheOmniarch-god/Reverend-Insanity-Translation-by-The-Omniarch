@@ -1416,6 +1416,12 @@ html.rf-spectral .chapter-body {
   padding: 0 24px 96px;
 }
 .chapter-nav .btn { flex: 1; }
+.chapter-nav .btn.disabled {
+  opacity: .42;
+  cursor: not-allowed;
+  filter: grayscale(1);
+  box-shadow: none;
+}
 
 /* ---------- reveal ---------- */
 
