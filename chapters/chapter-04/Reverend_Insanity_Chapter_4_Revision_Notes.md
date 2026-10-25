@@ -45,7 +45,7 @@ Approved by the user following clarification of the definite reference and conse
 
 ## Flower Wine Monk — approved name
 
-User selects “Flower Wine Monk” for 花酒行者, replacing the provisional “Flower-Wine Monk.” Use consistently going forward. This name choice does not independently establish formal ordination or other biographical details.
+User selects “Flower Wine Monk” for 花酒行者, replacing the provisional “Flower Wine Wanderer.” Use consistently going forward. This name choice does not independently establish formal ordination or other biographical details.
 
 ## Lines 51–52 — direct introduction
 

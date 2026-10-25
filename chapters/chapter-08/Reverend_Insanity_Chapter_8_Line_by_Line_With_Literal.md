@@ -103,8 +103,8 @@ Rules: British spelling, no em dashes, possessive fix (Gu Master's body), articl
 
 ### Line 20
 **Original:** 蛊名月光，是古月一族的镇族蛊虫，绝大多数的族人都选择它成为本命蛊。它并非是天然蛊虫，而是经过古月一族的秘法培育而来，其他地方没有，可以说是古月一族的标志象征。
-**Literal:** Gu name / Moonlight, is / Gu Yue / one clan's / clan-guarding / Gu worm, vast majority's / clansmen / all choose it / become / vital Gu. It / not at all / is / natural / Gu worm, but / through / Gu Yue Clan's / secret method / nurtured / come, other places / not have, can say / is / Gu Yue Clan's / emblem / symbol.
-**Rendering:** Its name is Moonlight, the guardian Gu worm of the Gu Yue Clan, chosen by the vast majority as their vital Gu. It is no wild Gu worm, but one cultivated through the Gu Yue Clan's secret methods and found nowhere else. It can be said to be the very emblem of the Gu Yue Clan.
+**Literal:** Gu name / Moonlight, is / Gu Yue / one clan's / clan-guarding / Gu worm, vast majority's / clansmen / all choose it / become / vital Gu. It / not at all / is / natural / Gu worm, but / through / Gu Yue clan's / secret method / nurtured / come, other places / not have, can say / is / Gu Yue clan's / emblem / symbol.
+**Rendering:** Its name is Moonlight, the guardian Gu worm of the Gu Yue clan, chosen by the vast majority as their vital Gu. It is no wild Gu worm, but one cultivated through the Gu Yue clan's secret methods and found nowhere else. It can be said to be the very emblem of the Gu Yue clan.
 
 ### Line 21
 **Original:** 都是一转的月光蛊，差别极其细微。方源随意挑选了一只，拿在手上。
@@ -189,7 +189,7 @@ Rules: British spelling, no em dashes, possessive fix (Gu Master's body), articl
 ### Line 37
 **Original:** “每天两坛酒，已经整整七天了。原先积攒的元石，差不多都花完了。”拎着两坛酒出了酒店，方源眉头微微皱着。
 **Literal:** Every day / two jars wine, already / full / seven days. Originally / accumulated / primeval stones, almost all / spent. Carrying / two jars wine / exited / shop, Fang Yuan / brows / slightly / wrinkled.
-**Rendering:** "Two jars of wine every day for seven days straight. The primeval stones I accumulated are almost all spent." Carrying two jars out of the shop, Fang Yuan furrowed his brow slightly.
+**Rendering:** "Two jars of wine every day for seven days straight. The primeval stones I accumulated are almost all spent." Carrying two jars out of the shop, Fang Yuan furrowed his brows slightly.
 
 ### Line 38
 **Original:** 一旦成为蛊师，就可以从元石中直接抽取出纯净真元，来补充空窍中的元海。
@@ -219,7 +219,7 @@ Rules: British spelling, no em dashes, possessive fix (Gu Master's body), articl
 ### Line 43
 **Original:** 就在这时，身后响起古月方正的声音：“哥哥，你果真又来酒馆买醉！跟我来，舅父舅母要见你。”
 **Literal:** Just at / this time, behind / rings / Gu Yue Fang Zheng's / voice: Brother, you / really / again / come / wine shop / buy drunk! Follow / me / come, uncle and aunt / want / see you.
-**Rendering:** Just then, Gu Yue Fang Zheng's voice came from behind him: "Brother, you have truly returned to the wine shop to drink yourself senseless again! Come with me; our uncle and aunt wish to see you."
+**Rendering:** Just then, Gu Yue Fang Zheng's voice resonated from behind him: "Brother, you have truly returned to the wine shop to indulge in wine once more! Come with me; our uncle and aunt wish to see you."
 
 ### Line 44
 **Original:** 方源停下脚步，回身望去。

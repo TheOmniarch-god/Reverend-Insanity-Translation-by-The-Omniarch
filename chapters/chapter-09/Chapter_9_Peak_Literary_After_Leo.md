@@ -6,17 +6,17 @@ The sky still held a little light, yet all things seemed veiled in grey. Through
 
 Within the living room, the light was dim. Uncle and Aunt sat high upon the seats of honour, their faces and expressions shrouded in shadow, scarcely to be discerned.
 
-Seeing the two jars of wine Fang Yuan had brought, Uncle Gu Yue Dong Tu's brow furrowed. He said, “How time flies, you are both fifteen already. You both possess Gu Master aptitude, Fang Zheng especially. Your aunt and I are proud of you both. I have set aside six primeval stones for each of you. Take them, brothers. Refining Gu worms consumes primeval essence at a great rate. You shall have need of these stones.”
+At the sight of the two jars of wine Fang Yuan had brought with him, Uncle's brow furrowed. He said, “How time slips by. You are fifteen already. That you both possess Gu Master aptitude, and Fang Zheng in particular, Aunt and I are proud. I have set aside six primeval stones for each of you. Brothers, take them. Refining Gu worms devours primeval essence at a great rate, so you will need them.”
 
 As he spoke, a servant came forward and handed each brother a small pouch.
 
 Fang Yuan tucked the pouch away, saying nothing.
 
-Fang Zheng at once loosened the drawstring and looked inside. Within lay six oval, grey-white primeval stones, translucent, the size of a duck's egg. His face flushed with gratitude. He stood and bowed to Uncle and Aunt. “Thank you, Uncle and Aunt. Your nephew is indeed in need of primeval stones to replenish his primeval essence. You raised your nephew to this age, and your kindness in raising him is engraved upon his heart, never to be forgotten.”
+Fang Zheng at once loosened the drawstring and looked inside. Within lay six oval, grey-white primeval stones, translucent, the size of a duck's egg. Colour rose to his face in gratitude. He stood and bowed to Uncle and Aunt. “Thank you, Uncle and Aunt. Nephew is in need of primeval stones to replenish his primeval essence. You raised us to this age, your kindness in raising us nephew engraves upon his heart, never to be forgotten.”
 
 Uncle smiled and nodded.
 
-Aunt hastily waved her hands and said gently to Fang Zheng, “Quick, sit, sit. Though you two were not born of us, we have always raised you as our own sons. That you can amount to something, we too feel proud. Alas, we have no children of our own. At times we think how fine it would be if you could truly become our children.”
+Aunt hastily waved her hands and said to Fang Zheng in gentle tones, “Quick, sit, sit. Though you two were not born to us, we have always raised you as our own sons. That you can amount to something, we too feel proud. Alas, we have no children of our own. At times we think how fine it would be if you could truly become our children.”
 
 These words carried a deep meaning. Fang Zheng did not catch it, but Fang Yuan faintly furrowed his brow.
 
@@ -28,7 +28,7 @@ Aunt's expression eased and she laughed. “Then you are our good son. Do you st
 
 “Father, Mother.” Fang Zheng understood and quickly corrected himself.
 
-Uncle and Aunt both laughed heartily.
+Uncle and Aunt both laughed aloud.
 
 “Good son, not in vain have we raised you since you were five, a full ten years,” Aunt said, wiping tears from her eyes.
 
@@ -58,7 +58,7 @@ The sun sank wholly beneath the mountains, and the hall grew ever more gloomy.
 
 After a long while, Uncle's cold voice came from the gloom. “It seems this little bastard Fang Yuan has seen through our scheme.”
 
-Among Gu Yue Clan rules, there is a clear provision: the eldest son at sixteen possesses the qualification to inherit family property.
+Among Gu Yue clan rules, there is a clear provision: the eldest son at sixteen possesses the qualification to inherit family property.
 
 Fang Yuan's parents had already passed, leaving behind a not inconsiderable inheritance, all of it being kept by Uncle and Aunt.
 
@@ -150,4 +150,4 @@ Fang Zheng's heart stirred. “Then bring it in.”
 
 Shen Cui entered, sashaying as she came, her waist swaying with deliberate allure, her face full of coquettish charm.
 
-“Your servant greets Young Master Fang Zheng.” Her eyes brimmed with autumn waves as she gazed upon Fang Zheng, thinking: "Fang Yuan is only Grade C, but Fang Zheng is of Grade A aptitude. To latch onto him, that would be truly great fortune!"
+“Your servant greets Young Master Fang Zheng.” Her eyes brimmed with autumn waves as she gazed upon Fang Zheng. Fang Yuan was only Grade C, but Fang Zheng possessed Grade A aptitude. To cling to him would be true great fortune.

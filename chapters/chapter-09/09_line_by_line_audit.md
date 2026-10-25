@@ -168,8 +168,8 @@
 
 ### P30
 **Chinese:** 古月一族的族规中，有明文规定：十六岁的长子，有继承家产的资格。
-**Literal:** Gu Yue Clan's clan rules中, have clear regulation: sixteen year old eldest son, has qualification to inherit family property.
-**Peak:** Among Gu Yue Clan rules, there is a clear provision: the eldest son at sixteen possesses the qualification to inherit family property.
+**Literal:** Gu Yue clan's clan rules中, have clear regulation: sixteen year old eldest son, has qualification to inherit family property.
+**Peak:** Among Gu Yue clan rules, there is a clear provision: the eldest son at sixteen possesses the qualification to inherit family property.
 
 ### P31
 **Chinese:** 方源的双亲，已经亡故，留下一笔不菲的遗产，都被舅父舅母“保管”着。
@@ -419,7 +419,7 @@
 ### P75
 **Chinese:** “奴婢见过方正少爷。”她满眼秋波地向方正望过去。方源只是个丙等，方正可是甲等资质。能攀上他，才是真正的大富贵！
 **Literal:** Slave has seen Young Master Fang Zheng. She满眼秋波向 Fang Zheng望过去. Fang Yuan only Grade C, Fang Zheng可是 Grade A aptitude. Can攀上 him,才是真正的大富贵 (great fortune)!
-**Peak:** “Your servant greets Young Master Fang Zheng.” Her eyes brimmed with autumn waves as she gazed upon Fang Zheng, thinking: "Fang Yuan is only Grade C, but Fang Zheng is of Grade A aptitude. To latch onto him, that would be truly great fortune!"
+**Peak:** “Your servant greets Young Master Fang Zheng.” Her eyes brimmed with autumn waves as she gazed upon Fang Zheng. Fang Yuan was only Grade C, but Fang Zheng possessed Grade A aptitude. To cling to him would be true great fortune.
 
 ### P76
 **Chinese:** 

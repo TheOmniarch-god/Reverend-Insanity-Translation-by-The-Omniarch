@@ -265,13 +265,13 @@ Unfortunately, this youth managed only four steps. He, too, lacked aptitude.
 
 3. Translation judgment
 
-The passage distinguishes the general expectation from the Gu Yue Clan’s higher proportion.
+The passage distinguishes the general expectation from the Gu Yue clan’s higher proportion.
 
 It concerns whether people possess cultivation aptitude at all, not the percentage with Grade A talent. Retaining “five out of ten” and “six out of ten” follows the source’s accessible numerical comparison.
 
 4. Proposed rendering
 
-Not everyone possessed the aptitude to cultivate. Generally, five people out of ten being able to cultivate was already considered good. In the Gu Yue Clan, the proportion was somewhat higher: six out of ten.
+Not everyone possessed the aptitude to cultivate. Generally, five people out of ten being able to cultivate was already considered good. In the Gu Yue clan, the proportion was somewhat higher: six out of ten.
 
 ---
 
@@ -295,7 +295,7 @@ The source explicitly uses 基因, “genes.” Retain this unusual biological v
 
 4. Proposed rendering
 
-This was because the Gu Yue ancestor—the first clan leader—had been a renowned, legendary expert. His cultivation had caused genes carrying power to lie hidden within his bloodline. As his descendants, members of the Gu Yue Clan generally possessed higher aptitude.
+This was because the Gu Yue ancestor—the first clan leader—had been a renowned, legendary expert. His cultivation had caused genes carrying power to lie hidden within his bloodline. As his descendants, members of the Gu Yue clan generally possessed higher aptitude.
 
 ---
 
@@ -656,7 +656,7 @@ The forecast depends on Mo Bei developing successfully. “Fulfilled his potenti
 
 4. Proposed rendering
 
-In other words, provided Gu Yue Mo Bei fulfilled his potential, he would become an elder of the Gu Yue Clan. No wonder the Academy Elder laughed in delight. The elders observing discreetly all breathed a sigh of relief, then turned to one of their colleagues with envy.
+In other words, provided Gu Yue Mo Bei fulfilled his potential, he would become an elder of the Gu Yue clan. No wonder the Academy Elder laughed in delight. The elders observing discreetly all breathed a sigh of relief, then turned to one of their colleagues with envy.
 
 ---
 

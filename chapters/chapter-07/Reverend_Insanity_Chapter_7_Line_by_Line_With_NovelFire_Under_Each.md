@@ -284,7 +284,7 @@ Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idio
 ---
 
 5. NovelFire's Translation (Attached)
-"As for Gu Masters who are Rank 6 and above, they are all legends. I am not clear about the specifics either. In the Gu Yue Clan, there has never been the appearance of a Rank 6 Gu Master, but Rank 4 and Rank 5 Gu Masters we have had before."
+"As for Gu Masters who are Rank 6 and above, they are all legends. I am not clear about the specifics either. In the Gu Yue clan, there has never been the appearance of a Rank 6 Gu Master, but Rank 4 and Rank 5 Gu Masters we have had before."
 
 ---
 
@@ -304,7 +304,7 @@ Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idio
 Perfected rendering improves clunky phrasing per natural English, OSASCOMP, idiom rule. Original perfected: ""As for Gu Masters of Rank 6 and above, each one is a legend. I am not too clear on the specifics myself. Our Gu Yue cla..." -> improved.
 
 4. Proposed rendering
-"As for Gu Masters of Rank 6 and above, every single one is a legend. I am not too clear on the specifics myself. Our Gu Yue Clan has never produced a Rank 6 Gu Master, but we have had Rank 4 and Rank 5 Gu Masters before."
+"As for Gu Masters of Rank 6 and above, every single one is a legend. I am not too clear on the specifics myself. Our Gu Yue clan has never produced a Rank 6 Gu Master, but we have had Rank 4 and Rank 5 Gu Masters before."
 
 ---
 
@@ -809,7 +809,7 @@ Below the lectern, the youths all cried out, filled with righteous indignation.
 ---
 
 5. NovelFire's Translation (Attached)
-The fourth clan head and the Flower-Wine Monk's story is something that the entire Gu Yue Clan knows.
+The fourth clan head and the Flower-Wine Monk's story is something that the entire Gu Yue clan knows.
 
 ---
 
@@ -853,7 +853,7 @@ The Flower-Wine Monk was also a Rank five Gu Master, famous among the Demon fact
  Additional source: 典故 means allusion [83](https://www.purpleculture.net/dictionary-details?word=%E5%85%B8%E6%95%85) and story [84](https://www.chinesepod.com/dictionary/%E5%85%B8%E6%95%85).
 
 4. Proposed rendering
-There was not a single Gu Yue Clansman who did not know the story of the fourth-generation clan leader and the Flower-Wine Monk.
+There was not a single Gu Yue clansman who did not know the story of the fourth-generation clan leader and the Flower-Wine Monk.
 
 ---
 
@@ -890,7 +890,7 @@ The Flower-Wine Monk was also a Rank 5 Gu Master, a notorious flower thief who h
 ---
 
 5. NovelFire's Translation (Attached)
-Therefore in the hearts of the Gu Yue Clansmen, the fourth generation clan head was a great hero who sacrificed his life for the village.
+Therefore in the hearts of the Gu Yue clansmen, the fourth generation clan head was a great hero who sacrificed his life for the village.
 
 ---
 
@@ -933,7 +933,7 @@ The clan leader was consumed by rage and killed the Flower-Wine Monk on the spot
  Additional source: 牺牲 means sacrifice [85](https://www.purpleculture.net/dictionary-details?word=%E7%89%BA%E7%89%B2) and 英雄 means hero [86](https://www.purpleculture.net/dictionary-details?word=%E8%8B%B1%E9%9B%84).
 
 4. Proposed rendering
-Therefore, in the hearts of all Gu Yue Clansmen, the fourth-generation clan leader was a heroic figure who had sacrificed himself for the village.
+Therefore, in the hearts of all Gu Yue clansmen, the fourth-generation clan leader was a heroic figure who had sacrificed himself for the village.
 
 ---
 

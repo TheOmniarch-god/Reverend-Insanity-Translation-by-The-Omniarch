@@ -32,13 +32,13 @@ Slightly higher up on the wall, on one of the levels, stood a row of silver plat
 
 This Gu worm was crystal clear and curved like a crescent moon, resembling a piece of blue crystal. Set against the silver base, it revealed a wisp of clear and ethereal aura.
 
-Its name was Moonlight Gu, the Gu Yue Clan's signature Gu. The vast majority of clansmen choose it as their vital Gu. It is not a natural Gu worm, but one cultivated through the Gu Yue Clan's secret method. Found nowhere else, it can be said to be the emblem of the Gu Yue Clan.
+Its name was Moonlight Gu, the Gu Yue clan's signature Gu. The vast majority of clansmen choose it as their vital Gu. It is not a natural Gu worm, but one cultivated through the Gu Yue clan's secret method. Found nowhere else, it can be said to be the emblem of the Gu Yue clan.
 
 All were Rank one Moonlight Gu; the differences between them were extremely subtle. Fang Yuan picked one at random and took it in his hand.
 
 The Moonlight Gu was very light, no heavier than a thin sheet of paper. Occupying only a small patch of his palm, it was the size of an ordinary jade pendant. Holding it in his hand, Fang Yuan could look right through it to see the obscured lines of his palm.
 
-After a final glance confirming nothing was amiss, Fang Yuan tucked it into his robes and left the Gu chamber.
+After a final glance confirming nothing was amiss, Fang Yuan slipped it into his pocket and left the Gu chamber.
 
 Outside the Gu chamber, the long queue was still lined up. Seeing Fang Yuan walk out, the next youth hurried eagerly into the chamber.
 
@@ -66,7 +66,7 @@ Compared to gold, the purchasing power of primeval stones is even more astonishi
 
 However, no amount of primeval stones can withstand Fang Yuan's continuous consumption like this.
 
-"Two jars of wine every day for seven days straight. The primeval stones I accumulated are almost all spent." Carrying two jars out of the shop, Fang Yuan furrowed his brow slightly.
+"Two jars of wine every day for seven days straight. The primeval stones I accumulated are almost all spent." Carrying two jars out of the shop, Fang Yuan furrowed his brows slightly.
 
 Once a Gu Master, a person can directly extract pure primeval essence from primeval stones to replenish the primeval sea within their aperture.
 
@@ -78,7 +78,7 @@ With sufficient primeval stones, cultivation speed can increase significantly; t
 
 Leaving the wine shop with two jars of wine in hand, Fang Yuan pondered as he walked: "The academy elder stated that the first to refine their vital Gu in this assessment would be rewarded with twenty primeval stones. Presently, many are likely exerting every ounce of effort at home, refining their Gu worms to vie for first place. Alas, refining a vital Gu severely tests one's aptitude. Those blessed with superior talent possess an immense advantage. Given my C-grade aptitude, lacking alternative means, I fundamentally have no hope of victory."
 
-Just then, Gu Yue Fang Zheng's voice came from behind him: "Brother, you have truly returned to the wine shop to drink yourself senseless again! Come with me; our uncle and aunt wish to see you."
+Just then, Gu Yue Fang Zheng's voice resonated from behind him: "Brother, you have truly returned to the wine shop to indulge in wine once more! Come with me; our uncle and aunt wish to see you."
 
 Fang Yuan stopped and turned.
 

@@ -23,7 +23,7 @@ Elder Gu Yue nodded and waved his hand for the youth to sit down. "Gu Masters ha
 
 "With Grade D aptitude, the primeval sea occupies twenty to thirty percent of the aperture; such people can at most cultivate to Rank 1 or Rank 2. With Grade C aptitude, the primeval sea occupies forty to fifty percent of the aperture; such people usually stall at Rank 2, with only a tiny fraction lucky enough to break through to Rank 3 initial stage. With Grade B aptitude, the primeval sea occupies sixty to seventy percent of the aperture; such people can cultivate to Rank 3, and even as high as Rank 4. With Grade A aptitude, the primeval sea occupies eighty to ninety percent of the aperture and is abundant; naturally, such people possess the highest talent and are the most suited to Gu cultivation, capable of reaching Rank 5."
 
-"As for Gu Masters of Rank 6 and above, every single one is a legend. I am not too clear on the specifics myself. Our Gu Yue Clan has never produced a Rank 6 Gu Master, but we have had Rank 4 and Rank 5 Gu Masters before."
+"As for Gu Masters of Rank 6 and above, every single one is a legend. I am not too clear on the specifics myself. Our Gu Yue clan has never produced a Rank 6 Gu Master, but we have had Rank 4 and Rank 5 Gu Masters before."
 
 The youths all pricked up their ears, listening intently with eyes shining bright.
 
@@ -67,13 +67,13 @@ Below the lectern, the youths all cried out, filled with righteous indignation.
 
 "I only hate that I wasn't born a few hundred years earlier. Otherwise, if I had met that demon, I would certainly have fought him to the death to expose his vile nature!"
 
-There was not a single Gu Yue Clansman who did not know the story of the fourth-generation clan leader and the Flower-Wine Monk.
+There was not a single Gu Yue clansman who did not know the story of the fourth-generation clan leader and the Flower-Wine Monk.
 
 The Flower-Wine Monk was also a Rank 5 Gu Master, a notorious flower thief who had committed evil for many years and was infamous in the demonic path at that time. Several hundred years ago, he prowled to Qing Mao Mountain and attempted to commit crimes in the Gu Yue Village, but was seen through by the fourth-generation clan leader. After an earth-shaking battle, the Flower-Wine Monk was beaten to his knees, begging for mercy. The fourth-generation clan leader, kind-hearted and benevolent, intended to spare his life. Instead, the Flower-Wine Monk suddenly launched a sneak attack, gravely wounding the fourth-generation clan leader.
 
 The clan leader was consumed by rage and killed the Flower-Wine Monk on the spot. However, he subsequently succumbed to his severe wounds and departed from this mortal world.
 
-Therefore, in the hearts of all Gu Yue Clansmen, the fourth-generation clan leader was a heroic figure who had sacrificed himself for the village.
+Therefore, in the hearts of all Gu Yue clansmen, the fourth-generation clan leader was a heroic figure who had sacrificed himself for the village.
 
 "Flower-Wine Monk, huh..." Woken by the denunciations in the classroom, Fang Yuan opened his bleary, sleepy eyes.
 
