@@ -249,7 +249,7 @@ document.addEventListener("DOMContentLoaded", function () {
       sfOption.setAttribute("data-font", "sanfrancisco");
       sfOption.setAttribute("role", "menuitem");
       sfOption.setAttribute("type", "button");
-      sfOption.innerHTML = '<span class="fo-name fo-sanfrancisco">San Francisco</span><span class="fo-desc">SF on Apple devices · system sans elsewhere</span><span class="fo-sample fo-sanfrancisco">The Spring Autumn Cicada stirred.</span>';
+      sfOption.innerHTML = '<span class="fo-name fo-sanfrancisco">SF Pro</span><span class="fo-desc">Apple SF Pro · system sans elsewhere</span><span class="fo-sample fo-sanfrancisco">The Spring Autumn Cicada stirred.</span>';
       var firstFontOption = fpPanel.querySelector(".font-option");
       if (firstFontOption) fpPanel.insertBefore(sfOption, firstFontOption);
       else fpPanel.appendChild(sfOption);
