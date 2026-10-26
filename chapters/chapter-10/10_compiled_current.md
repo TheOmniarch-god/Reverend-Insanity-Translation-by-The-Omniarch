@@ -1,6 +1,8 @@
 # Chapter 10: Heaven is Unpredictable, Refining Gu Comes with Its Own Hardships
 
-Pat, pat, pat… Rain fell heavily, hitting the verdant bamboo buildings with crisp sounds.
+Pat, pat, pat…
+
+Rain fell heavily, hitting the verdant bamboo buildings with crisp sounds.
 
 In the pond before the bamboo buildings, the water surface was pelted by raindrops, fish darted happily back and forth through the water, and water weeds swayed at the bottom. Dark clouds lay thick, and the entire view was veiled by a dense, heavy curtain of rain.
 
