@@ -191,11 +191,10 @@ document.addEventListener("DOMContentLoaded", function () {
   var fontInc = document.getElementById("fontInc");
   var fontSizes = [15, 17, 19, 21, 23];
 
-  // Reader typefaces: Inter (default), San Francisco/system, OpenDyslexic, and three literary serifs.
+  // Reader typefaces: San Francisco/system (default), OpenDyslexic, and three literary serifs.
   // Each scale compensates for the face's natural x-height so every
   // typeface reads at a comparable visual size at the same setting.
   var READER_FONTS = {
-    inter:        { scale: 1.00 },
     sanfrancisco: { scale: 1.00 },
     opendyslexic: { scale: 1.00 },
     cormorant:    { scale: 1.12 },
@@ -205,7 +204,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function currentReaderFont() {
     var f = store.getItem("readerFont");
-    return (f && READER_FONTS[f]) ? f : "inter";
+    if (f === "inter") {
+      store.setItem("readerFont", "sanfrancisco");
+      return "sanfrancisco";
+    }
+    return (f && READER_FONTS[f]) ? f : "sanfrancisco";
   }
 
   function applyFontSize(size) {
@@ -219,7 +222,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function applyReaderFont(key, persist) {
-    if (!READER_FONTS[key]) key = "inter";
+    if (!READER_FONTS[key]) key = "sanfrancisco";
     document.documentElement.classList.remove("rf-sanfrancisco", "rf-opendyslexic", "rf-cormorant", "rf-newsreader", "rf-spectral");
     if (key !== "inter") document.documentElement.classList.add("rf-" + key);
     if (persist !== false) store.setItem("readerFont", key);
@@ -237,6 +240,10 @@ document.addEventListener("DOMContentLoaded", function () {
     // Typeface picker ("Aa" button)
     var fpBtn = document.getElementById("fontPickerBtn");
     var fpPanel = document.getElementById("fontPanel");
+    if (fpPanel) {
+      var interOption = fpPanel.querySelector('[data-font="inter"]');
+      if (interOption && interOption.parentNode) interOption.parentNode.removeChild(interOption);
+    }
     if (fpPanel && !fpPanel.querySelector('[data-font="sanfrancisco"]')) {
       var sfOption = document.createElement("button");
       sfOption.className = "font-option";
@@ -244,8 +251,8 @@ document.addEventListener("DOMContentLoaded", function () {
       sfOption.setAttribute("role", "menuitem");
       sfOption.setAttribute("type", "button");
       sfOption.innerHTML = '<span class="fo-name fo-sanfrancisco">San Francisco</span><span class="fo-desc">SF on Apple devices · system sans elsewhere</span><span class="fo-sample fo-sanfrancisco">The Spring Autumn Cicada stirred.</span>';
-      var interOption = fpPanel.querySelector('[data-font="inter"]');
-      if (interOption && interOption.nextSibling) fpPanel.insertBefore(sfOption, interOption.nextSibling);
+      var firstFontOption = fpPanel.querySelector(".font-option");
+      if (firstFontOption) fpPanel.insertBefore(sfOption, firstFontOption);
       else fpPanel.appendChild(sfOption);
     }
     if (fpBtn && fpPanel) {
