@@ -1118,6 +1118,7 @@ footer {
   font-style: italic;
 }
 .fo-inter { font-family: var(--sans); font-weight: 600; }
+.fo-sanfrancisco { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", "Segoe UI", system-ui, sans-serif; font-weight: 600; }
 .fo-opendyslexic { font-family: "OpenDyslexic", var(--sans); }
 .fo-cormorant { font-family: "Cormorant Garamond", Georgia, serif; font-weight: 600; }
 .fo-newsreader { font-family: "Newsreader", Georgia, serif; font-weight: 500; }
@@ -1312,6 +1313,11 @@ footer {
    Poem boxes (.prose-poem), chapter titles, meta rows and all
    other display designs keep their own fonts, always.
    ──────────────────────────────────────────────────────────── */
+html.rf-sanfrancisco .chapter-body {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", "Segoe UI", system-ui, sans-serif;
+  line-height: 1.95;
+}
+
 html.rf-opendyslexic .chapter-body {
   font-family: "OpenDyslexic", var(--sans);
   line-height: 2;
@@ -1360,14 +1366,6 @@ html.rf-spectral .chapter-body {
   color: #9e9a90;
   font-size: 11px;
   letter-spacing: 0.35em;
-}
-
-/* Keep Chapter 10’s rain sound as a separate visual beat without changing its paragraph anchor. */
-.chapter-body .prose > p.sound-opening { text-indent: 0; }
-.sound-opening .sound-effect-line { display: block; margin-bottom: 0.45em; text-indent: 0; }
-.chapter-body .prose > p.sound-opening:first-of-type::first-letter {
-  float: none; font-size: inherit; line-height: inherit; font-weight: inherit; color: inherit;
-  padding: 0; margin: 0; initial-letter: normal; -webkit-initial-letter: normal;
 }
 
 /* Chapter prose flourishes */
