@@ -44,8 +44,8 @@
 ### P5
 **Chinese:** 在有些昏暗的房间里，窗户开着，方源静静地看着这场大雨，心中幽幽一叹：“已经三天三夜了。”
 **Literal:** In somewhat gloomy room inside, window open着, Fang Yuan quietly looking at this big rain, in heart faintly one sigh: Already three days three nights.
-**Peak:** In a somewhat gloomy room, the window stood open, and Fang Yuan gazed quietly at the downpour, a faint sigh escaping his heart. *"Three days. Three nights already."*
-**Analysis:** 有些昏暗: somewhat gloomy/dim. 静静地: quietly. 幽幽一叹: faint, deep sigh — 幽幽 = faint, secluded, deep. 三天三夜: three days three nights, exact duration since Ch9 exploration. Quoted internal monologue — English requires quotes per your POV rule, Chinese bare.
+**Peak:** In a somewhat gloomy room, the window stood open, and Fang Yuan gazed quietly at the downpour, a faint sigh escaping his heart. *“It’s already been three days and three nights.”*
+**Analysis:** 有些昏暗: somewhat gloomy/dim. 静静地: quietly. 幽幽一叹: faint, deep sigh — 幽幽 = faint, secluded, deep. 已经三天三夜了: the elapsed duration; 了 marks the completed passage of time, naturally rendered “It’s already been three days and three nights.” Quoted internal monologue — English requires quotes per your POV rule, Chinese bare.
 **Definitions:** 幽幽: 形容声音、光线等微弱. 叹: sigh.
 
 ### P6
