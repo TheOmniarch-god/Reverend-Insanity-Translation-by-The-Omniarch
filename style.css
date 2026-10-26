@@ -1,7 +1,7 @@
 /* ============================================================
    REVEREND INSANITY — The Omniarch Translation
    Clean translation-site design (light)
-   Inter + Noto Sans SC · ink black · seal red on warm paper
+   SF Pro system stack + Noto Sans SC · ink black · seal red on warm paper
    ============================================================ */
 
 :root {
@@ -19,7 +19,7 @@
   --amber-bg: #fbf2dd;
   --gray:     #6f6e69;
   --gray-bg:  #efeeea;
-  --sans: "Inter", -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", "Segoe UI", sans-serif;
+  --sans: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", "Segoe UI", system-ui, sans-serif;
   --cjk:  "Noto Sans SC", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
 }
 
@@ -1117,7 +1117,6 @@ footer {
   margin-top: 3px;
   font-style: italic;
 }
-.fo-inter { font-family: var(--sans); font-weight: 600; }
 .fo-sanfrancisco { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", "Segoe UI", system-ui, sans-serif; font-weight: 600; }
 .fo-opendyslexic { font-family: "OpenDyslexic", var(--sans); }
 .fo-cormorant { font-family: "Cormorant Garamond", Georgia, serif; font-weight: 600; }
@@ -1316,6 +1315,7 @@ footer {
 html.rf-sanfrancisco .chapter-body {
   font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", "Segoe UI", system-ui, sans-serif;
   line-height: 1.95;
+  font-weight: 500;
 }
 
 html.rf-opendyslexic .chapter-body {
@@ -2977,7 +2977,7 @@ mark { background: linear-gradient(transparent 58%, rgba(217, 178, 76, 0.55) 0);
   letter-spacing: 0.03em;
   font-size: 1em;
   padding: 0 1px;
-  /* inherit font family so it respects Inter/Cormorant/Newsreader/Spectral picker */
+  /* inherit font family so it respects the San Francisco/Cormorant/Newsreader/Spectral picker */
   font-family: inherit;
 }
 [data-theme="obsidian"] .rank-roman {

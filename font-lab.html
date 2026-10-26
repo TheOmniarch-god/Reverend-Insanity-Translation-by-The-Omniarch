@@ -4,11 +4,11 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>The Font Lab — Gu Zhen Ren 蛊真人 | Reverend Insanity | The Omniarch Translation</title>
-<meta name="description" content="Compare the four reading typefaces of The Omniarch Translation reader and test them live.">
+<meta name="description" content="Compare the five reading typefaces of The Omniarch Translation reader and test them live.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Noto+Sans+SC:wght@400&family=Noto+Serif+SC:wght@500;600&family=Playfair+Display:ital,wght@0,700;0,800;1,400&family=Lora:ital,wght@1,600;1,700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=20261008-mobile-fix2">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Noto+Sans+SC:wght@400&family=Noto+Serif+SC:wght@500;600&family=Playfair+Display:ital,wght@0,700;0,800;1,400&family=Lora:ital,wght@1,600;1,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=20261026-sfpro-site-v1">
 <link rel="icon" href="favicon.ico" sizes="32x32">
 <link rel="icon" href="icon-48.png" type="image/png" sizes="48x48">
 <link rel="icon" href="icon-192.png" type="image/png" sizes="192x192">
@@ -88,7 +88,7 @@
   .lab-sample p:last-child { margin-bottom: 0; }
   .lab-sample strong { font-weight: 700; }
   .lab-sample em { font-style: italic; }
-  .s-inter      { font-family: var(--sans); font-size: calc(var(--lab-size, 17) * 1px); line-height: 1.95; }
+  .s-sanfrancisco { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", sans-serif; font-weight: 500; font-size: calc(var(--lab-size, 17) * 1px); line-height: 1.95; }
   .s-opendyslexic { font-family: "OpenDyslexic", var(--sans); letter-spacing: 0.015em; word-spacing: 0.08em; font-size: calc(var(--lab-size, 17) * 1px); line-height: 2; }
   .s-cormorant  { font-family: "Cormorant Garamond", Georgia, serif; font-weight: 500; letter-spacing: 0.01em; font-size: calc(var(--lab-size, 17) * 1.12px); line-height: 1.9; }
   .s-newsreader { font-family: "Newsreader", Georgia, serif; font-size: calc(var(--lab-size, 17) * 1.03px); line-height: 1.9; }
@@ -188,15 +188,15 @@
 
     <div class="lab-card reveal d1">
       <div class="lab-card-top">
-        <h2 class="s-inter">Inter</h2>
-        <span class="lab-badge">Original UI sans</span>
+        <h2 class="s-sanfrancisco">San Francisco (SF Pro)</h2>
+        <span class="lab-badge">Apple system typeface</span>
       </div>
-      <p class="lab-desc">The clean, modern sans the site already uses. Neutral and highly legible — lets the translation speak with zero ornament.</p>
-      <div class="lab-sample s-inter">
+      <p class="lab-desc">Apple’s system sans. On Apple devices this resolves to SF Pro; elsewhere it uses the platform’s system sans. Medium weight gives the prose a little more presence without the heaviness of Arial Black.</p>
+      <div class="lab-sample s-sanfrancisco">
         <p>Fang Yuan stood cloaked in a tattered emerald robe, his hair wild and unkempt, his body bathed in blood. Besieged on every flank by bitter foes, every path to life had long been severed. The trap had snapped shut; on this day, death was absolute.</p>
         <p><strong>Fang Yuan</strong> perceived his doom with crystalline clarity. Yet even as the shadow of death loomed before him, he remained expressionless. His eyes were <em>abyssal</em> — like an ancient well, unfathomably deep, without shore and without bottom.</p>
       </div>
-      <div class="lab-card-foot"><a class="lab-try-btn" href="/chapter-1" data-font="inter">Test Inter in the reader →</a></div>
+      <div class="lab-card-foot"><a class="lab-try-btn" href="/chapter-1" data-font="sanfrancisco">Test San Francisco in the reader →</a></div>
     </div>
 
     <div class="lab-card reveal d1">
@@ -257,7 +257,7 @@
   </div>
 </footer>
 
-<script src="app.js?v=20261003-024655-aptitude-fix"></script>
+<script src="app.js?v=20261026-sanfrancisco-font-v3"></script>
 <script>
   (function () {
     // Size slider drives all four samples at once

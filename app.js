@@ -216,7 +216,6 @@ document.addEventListener("DOMContentLoaded", function () {
       var f = currentReaderFont();
       var scale = READER_FONTS[f].scale;
       proseEl.style.fontSize = (Math.round(size * scale * 10) / 10) + "px";
-      proseEl.style.lineHeight = (f === "inter") ? (size >= 19 ? "1.9" : "1.95") : "";
       store.setItem("readerFontSize", size);
     }
   }
@@ -224,7 +223,7 @@ document.addEventListener("DOMContentLoaded", function () {
   function applyReaderFont(key, persist) {
     if (!READER_FONTS[key]) key = "sanfrancisco";
     document.documentElement.classList.remove("rf-sanfrancisco", "rf-opendyslexic", "rf-cormorant", "rf-newsreader", "rf-spectral");
-    if (key !== "inter") document.documentElement.classList.add("rf-" + key);
+    document.documentElement.classList.add("rf-" + key);
     if (persist !== false) store.setItem("readerFont", key);
     applyFontSize(parseInt(store.getItem("readerFontSize") || "17", 10));
     var opts = document.querySelectorAll(".font-panel .font-option");
