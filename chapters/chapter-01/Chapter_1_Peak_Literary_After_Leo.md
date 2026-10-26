@@ -94,13 +94,13 @@ Tomorrow was the Aperture Opening Ceremony, a matter touching upon everyone’s 
 
 At this very moment, another pair of clear eyes quietly gazed upon those twinkling lights in the deep of the night, brimming with complex emotions.
 
-“Gu Yue Village… this is five hundred years ago?! The Spring Autumn Cicada really had an effect…”
+*“Gu Yue Village… this is five hundred years ago?! The Spring Autumn Cicada really had an effect…”*
 
 Fang Yuan’s gaze was dark and profound as he stood beside the window, letting the wind and rain beat against his body. The effect of the Spring Autumn Cicada was to reverse time. Ranked seventh among the Ten Great Mystical Gu, it was naturally no common existence.
 
 In short: rebirth.
 
-“Reborn using the Spring Autumn Cicada… back to five hundred years ago!”
+*“Reborn using the Spring Autumn Cicada… back to five hundred years ago!”*
 
 Fang Yuan reached out his hand, staring intently at his young, tender, and somewhat pale palm. Then he slowly clenched it into a fist, feeling the vivid reality with all his strength. He heard the gentle pitter-patter of drizzle tapping against the window lattice. He closed his eyes slowly, opening them only after a long moment, letting out a wistful sigh:
 

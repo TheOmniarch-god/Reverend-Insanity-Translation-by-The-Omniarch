@@ -66,7 +66,7 @@ Yet gradually, he began to understand somewhat. Elder brother, too, was but an o
 
 His elder brother, once lauded as a genius who had loomed over him like a shadow, now seemed so downfallen and dejected. Seen from the other side, did this not all the more attest to his own growth?
 
-“I am exceptional. That alone is the truth!”
+*“I am exceptional. That alone is the truth!”*
 
 Therefore, seeing Fang Yuan with wine jars in hand, his hair dishevelled and clothes untidy, Gu Yue Fang Zheng breathed a fierce sigh of relief, his breathing inexplicably eased.
 
@@ -78,7 +78,7 @@ The brothers' eyes met. Gu Yue Fang Zheng's eyes shone bright, revealing a sharp
 
 But the moment he came to himself, anger surged in his heart. An anger towards himself.
 
-“What's wrong with me? Don't I even have the courage to look my brother in the eye? I have changed! I have completely changed!”
+*“What's wrong with me? Don't I even have the courage to look my brother in the eye? I have changed! I have completely changed!”*
 
 With this thought, his gaze sharpened again and swept back. But Fang Yuan was no longer looking at him. Carrying a jar of wine in each hand, he walked past him and said flatly: “What are you standing there for? Let's go.”
 

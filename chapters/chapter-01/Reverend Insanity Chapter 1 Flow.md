@@ -166,7 +166,7 @@ The effect of the Spring Autumn Cicada was to reverse time. Ranked seventh among
 
 In short: rebirth.
 
-“Reborn using the Spring Autumn Cicada… back to five hundred years ago!” Fang Yuan reached out his hand, staring intently at his young, tender, and somewhat pale palm. Then he slowly clenched it into a fist, feeling the vivid reality with all his strength.
+*“Reborn using the Spring Autumn Cicada… back to five hundred years ago!”* Fang Yuan reached out his hand, staring intently at his young, tender, and somewhat pale palm. Then he slowly clenched it into a fist, feeling the vivid reality with all his strength.
 
 He heard the gentle pitter-patter of drizzle tapping against the window lattice. He closed his eyes slowly, opening them only after a long moment, letting out a wistful sigh: “Five hundred years of experience… it truly feels like a dream.”
 
