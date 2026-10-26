@@ -191,11 +191,12 @@ document.addEventListener("DOMContentLoaded", function () {
   var fontInc = document.getElementById("fontInc");
   var fontSizes = [15, 17, 19, 21, 23];
 
-  // Reader typefaces: Inter (default) + three premium serifs.
+  // Reader typefaces: Inter (default), San Francisco/system, OpenDyslexic, and three literary serifs.
   // Each scale compensates for the face's natural x-height so every
   // typeface reads at a comparable visual size at the same setting.
   var READER_FONTS = {
     inter:        { scale: 1.00 },
+    sanfrancisco: { scale: 1.00 },
     opendyslexic: { scale: 1.00 },
     cormorant:    { scale: 1.12 },
     newsreader:   { scale: 1.03 },
@@ -219,7 +220,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function applyReaderFont(key, persist) {
     if (!READER_FONTS[key]) key = "inter";
-    document.documentElement.classList.remove("rf-opendyslexic", "rf-cormorant", "rf-newsreader", "rf-spectral");
+    document.documentElement.classList.remove("rf-sanfrancisco", "rf-opendyslexic", "rf-cormorant", "rf-newsreader", "rf-spectral");
     if (key !== "inter") document.documentElement.classList.add("rf-" + key);
     if (persist !== false) store.setItem("readerFont", key);
     applyFontSize(parseInt(store.getItem("readerFontSize") || "17", 10));
@@ -236,6 +237,17 @@ document.addEventListener("DOMContentLoaded", function () {
     // Typeface picker ("Aa" button)
     var fpBtn = document.getElementById("fontPickerBtn");
     var fpPanel = document.getElementById("fontPanel");
+    if (fpPanel && !fpPanel.querySelector('[data-font="sanfrancisco"]')) {
+      var sfOption = document.createElement("button");
+      sfOption.className = "font-option";
+      sfOption.setAttribute("data-font", "sanfrancisco");
+      sfOption.setAttribute("role", "menuitem");
+      sfOption.setAttribute("type", "button");
+      sfOption.innerHTML = '<span class="fo-name fo-sanfrancisco">San Francisco</span><span class="fo-desc">SF on Apple devices · system sans elsewhere</span><span class="fo-sample fo-sanfrancisco">The Spring Autumn Cicada stirred.</span>';
+      var interOption = fpPanel.querySelector('[data-font="inter"]');
+      if (interOption && interOption.nextSibling) fpPanel.insertBefore(sfOption, interOption.nextSibling);
+      else fpPanel.appendChild(sfOption);
+    }
     if (fpBtn && fpPanel) {
       fpBtn.addEventListener("click", function (e) {
         e.stopPropagation();
